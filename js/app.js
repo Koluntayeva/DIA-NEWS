@@ -137,17 +137,19 @@ function statBox(){
   if(!st||!st.t1d){box.append(el("p","kxs-wait",x.statsWait));return box}
   const share=Number(st.t2d_share_min)||90;const adults=Number(st.adults)||0;const t2=Math.floor(adults*share/100);
   const rows=[
-   {n:adults/1e6,fmt:v=>Math.round(v),suf:x.mln,lab:x.adults,c:"var(--fg)"},
-   {n:t2/1e6,fmt:v=>Math.round(v),pre:x.more,suf:x.mln,lab:x.t2,sub:x.t2s(share),c:"var(--t2)"},
-   {n:Number(st.t1d)/1e6,fmt:v=>v.toLocaleString(LOCALE[lang],{minimumFractionDigits:2,maximumFractionDigits:2}),suf:x.mln,lab:x.t1,sub:x.t1s,c:"#1d3fd8"},
-   st.t1d_kids?{n:Number(st.t1d_kids),fmt:v=>nf(Math.round(v)),lab:x.kids,sub:x.kidsSub,c:"var(--kid)"}:null
+   {n:adults/1e6,fmt:v=>Math.round(v),suf:x.mln,lab:x.adults,c:"var(--fg)",wide:true,pct:100},
+   {n:t2/1e6,fmt:v=>Math.round(v),pre:x.more,suf:x.mln,lab:x.t2,sub:x.t2s(share),c:"var(--t2)",pct:share},
+   {n:Number(st.t1d)/1e6,fmt:v=>v.toLocaleString(LOCALE[lang],{minimumFractionDigits:2,maximumFractionDigits:2}),suf:x.mln,lab:x.t1,sub:x.t1s,c:"var(--t1)",pct:Number(st.t1d)/(adults||1)*100},
+   st.t1d_kids?{n:Number(st.t1d_kids),fmt:v=>nf(Math.round(v)),lab:x.kids,sub:x.kidsSub,c:"var(--kid)",wide:true,pct:Number(st.t1d_kids)/(Number(st.t1d)||1)*100}:null
   ].filter(Boolean);
+  const pctFmt=p=>p.toLocaleString(LOCALE[lang],{maximumFractionDigits:p<10?1:0})+"%";
   const reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;const anim=!statsAnimated&&!reduce;statsAnimated=true;
-  rows.forEach((r,i)=>{const row=el("div","kxs-r");row.style.setProperty("--c",r.c);
-    const top=el("div","kxs-t");top.append(el("span","kxs-i",String(i+1).padStart(2,"0")),el("span","kxs-l",r.lab));
+  const grid=el("div","kxs-grid");box.append(grid);
+  rows.forEach((r,i)=>{const row=el("div","kxs-tile"+(r.wide?" wide":""));row.style.setProperty("--c",r.c);
+    const top=el("div","kxs-t");top.append(el("span","kxs-l",r.lab));
     const num=el("div","kxs-n");if(r.pre)num.append(el("small","kxs-pre",r.pre));const v=el("span","kxs-v",r.fmt(anim?0:r.n));num.append(v);if(r.suf)num.append(el("small","kxs-suf",r.suf));
-    const bar=el("div","kxs-bar");const fill=el("i");const pct=Math.max(2,Math.min(100,(i===3?r.n/1e6:r.n)/(adults/1e6||1)*100));fill.style.width=anim?"0%":pct+"%";bar.append(fill);
-    row.append(top,num,bar);if(r.sub)row.append(el("div","kxs-s",r.sub));box.append(row);
+    const bar=el("div","kxs-bar");const fill=el("i");const pct=Math.max(2,Math.min(100,r.pct));fill.style.width=anim?"0%":pct+"%";bar.append(fill);
+    row.append(top,num);if(i>0)row.append(el("div","kxs-p",pctFmt(r.pct)+" "+(i===3?x.ofT1:x.ofAll)));row.append(bar);if(r.sub)row.append(el("div","kxs-s",r.sub));grid.append(row);
     if(anim){const t0=performance.now()+i*150;const step=t=>{if(!v.isConnected)return;const p=Math.max(0,Math.min((t-t0)/1500,1));const e=1-Math.pow(1-p,3);v.textContent=r.fmt(r.n*e);if(p<1)requestAnimationFrame(step)};requestAnimationFrame(step);requestAnimationFrame(()=>requestAnimationFrame(()=>{fill.style.width=pct+"%"}))}
   });
   const src=el("div","kxs-src");const href=safeUrl(st.url);src.append(document.createTextNode("↘ "+UI[lang].source+": "));
