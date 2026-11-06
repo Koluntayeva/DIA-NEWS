@@ -285,12 +285,12 @@ const DIA_NEWS={
   }
  ],
  "stats": {
-  "year": "2021",
-  "adults": 537000000,
+  "year": "2024–2025",
+  "adults": 589000000,
   "t2d_share_min": 90,
-  "t1d": 8750000,
-  "t1d_kids": 1211900,
-  "src": "IDF Diabetes Atlas 2021 · T1D Index 2022 (демо)",
+  "t1d": 9500000,
+  "t1d_kids": 1800000,
+  "src": "IDF Diabetes Atlas, 11-е изд. (2025) · T1D Index 3.0 (2025)",
   "url": "https://diabetesatlas.org/"
  },
  "posts": [],
