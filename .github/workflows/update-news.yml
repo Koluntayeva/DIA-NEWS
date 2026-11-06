@@ -1,0 +1,42 @@
+name: Update news
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # every day at 02:17 UTC (07:17 in Kazakhstan)
+  workflow_dispatch:        # "Run workflow" button for a manual update
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch, translate and write data/news.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/update-news.mjs
+
+      - name: Commit and push if the feed changed
+        run: |
+          if git diff --quiet -- data/news.js; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/news.js
+          git commit -m "Обновление ленты новостей $(date -u +%Y-%m-%d)"
+          git push
