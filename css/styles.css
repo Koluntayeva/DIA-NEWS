@@ -26,9 +26,11 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid var(-
 /* masthead */
 .mast{background:var(--bg);color:var(--navy);border-bottom:1px solid var(--line)}
 .mast .in{display:flex;align-items:flex-end;justify-content:space-between;gap:12px 20px;flex-wrap:wrap;padding-block:14px 12px}
-.logo{display:flex;align-items:baseline;gap:4px;font-family:var(--display);font-weight:900;font-stretch:68%;text-transform:uppercase;line-height:.82;letter-spacing:-.01em;font-size:clamp(2.6rem,9vw,4.6rem);margin:0}
-.logo .dot{display:inline-block;width:.32em;height:.32em;border-radius:50%;background:var(--hot);transform:translateY(-.06em)}
-.logo small{font-size:.42em;font-weight:700;letter-spacing:.02em;opacity:.9}
+.brand{display:flex;align-items:center;gap:clamp(10px,1.6vw,18px)}
+.logo-mark{flex:none;width:clamp(48px,7vw,76px);height:auto}
+.brand-txt{display:flex;flex-direction:column;gap:clamp(4px,.8vw,8px);min-width:0}
+.logo{font-family:"Unbounded",var(--display),sans-serif;font-weight:700;font-size:clamp(2rem,5.4vw,3.4rem);line-height:1;letter-spacing:-.02em;margin:0;white-space:nowrap}
+.logo .l-dia{color:#0B1F3A}.logo .l-dot{color:#F26B4F}.logo .l-news{color:#1E5BD6}
 .mast-r{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
 .today{font-family:var(--mono);font-size:.74rem;letter-spacing:.04em;opacity:.85}
 .sub{font-family:var(--ui);font-weight:600;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;opacity:.75}
