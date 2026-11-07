@@ -5,8 +5,261 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-06T16:08:21.221Z",
+ "updated": "2026-11-07T03:02:36.536Z",
  "items": [
+  {
+   "id": "nVGs_b2M9NQ",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Минздрав предложил разрешить врачам наблюдать пациентов с диабетом удаленно",
+    "en": "Health Ministry proposes allowing doctors to monitor diabetes patients remotely",
+    "kk": "Денсаулық сақтау министрлігі дәрігерлерге диабеті бар науқастарды қашықтан бақылауға рұқсат беруді ұсынды",
+    "de": "Gesundheitsministerium schlägt vor, Ärzten die Fernüberwachung von Diabetespatienten zu erlauben",
+    "es": "El Ministerio de Salud propone permitir a los médicos monitorizar a distancia a los pacientes con diabetes"
+   },
+   "text": {
+    "ru": "Минздрав предложил разрешить врачам дистанционно наблюдать пациентов с диабетом. Подробности в материале не указаны.",
+    "en": "The Health Ministry has proposed allowing doctors to monitor patients with diabetes remotely. The snippet gives no further details.",
+    "kk": "Денсаулық сақтау министрлігі дәрігерлерге диабеті бар науқастарды қашықтан бақылауға рұқсат беруді ұсынды. Материалда басқа мәліметтер көрсетілмеген.",
+    "de": "Das Gesundheitsministerium hat vorgeschlagen, Ärzten die Fernüberwachung von Patienten mit Diabetes zu erlauben. Weitere Details werden nicht genannt.",
+    "es": "El Ministerio de Salud ha propuesto permitir a los médicos monitorizar a distancia a los pacientes con diabetes. No se ofrecen más detalles."
+   },
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVBfUlV0aldFSWxDM0hpMUVxRllZNmp1anJOV0ZVZXIzS1poblJoYkRPa1p4azhZbHdUckpVTHFTMnZSakZLX0IycGZjY3M2cmNLMzRMMHZGQk9JUmotaFZzWVVQQXNMWl9FeW4wRXZnVktNa1hMdnJTQXdsRnU4N0pUaVY1UmpQSTRfSTB3dWVOUlJNSVlvNDVqLXFtcFVKdGlCVVVjNkJDbnc2MC1Ia2kxSTk?oc=5",
+   "src": "Здоровье Mail"
+  },
+  {
+   "id": "nVkU_b2M9NQ",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Виталий Королев поручил взять на особый контроль бесплатное обеспечение детей с сахарным диабетом первого типа инсулиновыми помпами и расходными материалами",
+    "en": "Vitaly Korolev orders special oversight of free provision of insulin pumps and consumables for children with type 1 diabetes",
+    "kk": "Виталий Королев 1-типті қант диабеті бар балаларды инсулин сорғыларымен және шығыс материалдарымен тегін қамтамасыз etуді ерекше бақылауға алуды тапсырды",
+    "de": "Vitaly Korolev ordnet besondere Kontrolle der kostenlosen Versorgung von Kindern mit Typ-1-Diabetes mit Insulinpumpen und Verbrauchsmaterial an",
+    "es": "Vitaly Korolev ordena un control especial sobre el suministro gratuito de bombas de insulina y consumibles para niños con diabetes tipo 1"
+   },
+   "text": {
+    "ru": "Виталий Королев поручил установить особый контроль за бесплатным обеспечением детей с диабетом 1 типа инсулиновыми помпами и расходными материалами.",
+    "en": "Vitaly Korolev has ordered special oversight of the free supply of insulin pumps and consumables for children with type 1 diabetes.",
+    "kk": "Виталий Королев 1-типті қант диабеті бар балаларды инсулин сорғыларымен және шығыс материалдарымен тегін қамтамасыз етуді ерекше бақылауға алуды тапсырды.",
+    "de": "Vitaly Korolev hat eine besondere Kontrolle der kostenlosen Versorgung von Kindern mit Typ-1-Diabetes mit Insulinpumpen und Verbrauchsmaterial angeordnet.",
+    "es": "Vitaly Korolev ha ordenado un control especial sobre el suministro gratuito de bombas de insulina y consumibles para niños con diabetes tipo 1."
+   },
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOUpxZlpYOGEtUTYxY3FWY2RuUXRGVUhLanVoWWkwYlh1TW1YR2NGQkh3N2RtNUxGaVFGejZaZWR2TlV1V3A2LXlvQnlrb1lxRW94NmVYZGpSQlZsS3VSRWJCY25HdnJWSzEwbHJLTUF1LS1QZVVUX2VsMHM5VW9lbldocmpBc2lQR3E2ek5MbzZudHVpQXB6VDFMVHU0NUxqcGZDOGQycVVtaFhxOWNleDUwR2k3V1JOWG5OOUZ0WjZkcEhDcDFadm1vTVJRaXI0VjFzbDVEdjVJUWZJVUFhUXJjaTJfM0JSRHRsY2xhb25BckJTZk00LTVEN1d6WWZwbW1qWFZKYWZjV1ZtaVE?oc=5",
+   "src": "Панорама ПРО"
+  },
+  {
+   "id": "nQk0_b2M9NQ",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "В алтайском Минздраве заявили об отсутствии дефицита важного препарата для диабетиков",
+    "en": "Altai regional health ministry says there is no shortage of an important drug for diabetes patients",
+    "kk": "Алтай өлкесінің денсаулық сақтау министрлігі қант диабеті бар адамдар үшін маңызды дәрі тапшылығы жоқ екенін мәлімдеді",
+    "de": "Gesundheitsministerium der Region Altai meldet keinen Mangel an einem wichtigen Medikament für Diabetiker",
+    "es": "El Ministerio de Salud de Altái afirma que no hay escasez de un medicamento importante para los diabéticos"
+   },
+   "text": {
+    "ru": "Минздрав Алтайского края сообщил, что дефицита важного препарата для пациентов с диабетом нет.",
+    "en": "The Altai regional health ministry reported no shortage of an important medicine for patients with diabetes.",
+    "kk": "Алтай өлкесінің денсаулық сақтау министрлігі қант диабеті бар науқастар үшін маңызды дәрінің тапшылығы жоқ екенін хабарлады.",
+    "de": "Das Gesundheitsministerium der Region Altai teilte mit, dass es keinen Mangel an einem wichtigen Medikament für Diabetespatienten gibt.",
+    "es": "El Ministerio de Salud de la región de Altái informó de que no hay escasez de un medicamento importante para los pacientes con diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQnhiTzQwZWJjY2hYblMydzJMOG44MkZWeTdRdDJwZzRSeXJCaUgxVGJJV3FBOFk0dll3anY2Y2w4T3lTanhGX3Jla2c1dHBM?oc=5",
+   "src": "Банкфакс"
+  },
+  {
+   "id": "nRVaz9vYz01",
+   "cat": "access",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Жительница Брянска с диабетом попала к эндокринологу только через прокуратуру",
+    "en": "Bryansk woman with diabetes saw an endocrinologist only after involving the prosecutor's office",
+    "kk": "Брянск тұрғыны, қант диабеті бар, эндокринологқа прокуратура арқылы ғана жетті",
+    "de": "Frau aus Brjansk mit Diabetes erhielt einen Termin beim Endokrinologen erst über die Staatsanwaltschaft",
+    "es": "Una mujer de Briansk con diabetes solo logró ver a un endocrinólogo a través de la fiscalía"
+   },
+   "text": {
+    "ru": "Пациентка из Брянска смогла получить консультацию эндокринолога только после обращения в прокуратуру.",
+    "en": "A patient from Bryansk was able to see an endocrinologist only after appealing to the prosecutor's office.",
+    "kk": "Брянск тұрғыны эндокринологтың кеңесін тек прокуратураға жүгінгеннен кейін ала алды.",
+    "de": "Eine Patientin aus Brjansk konnte einen Endokrinologen erst nach einer Eingabe bei der Staatsanwaltschaft konsultieren.",
+    "es": "Una paciente de Briansk pudo consultar a un endocrinólogo solo después de acudir a la fiscalía."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uYmQ0XzhwZFNaTDh4TXM3ZjI2U2kwSldfMXdVUTM3RzJjOHRjX2YwTERnYUY4YXI3UTEtM0xMUWlDQ0RId0pmWVhrbklfdUk?oc=5",
+   "src": "Новости Брянска и Брянской области"
+  },
+  {
+   "id": "nbWM_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Можно ли обратить диабет 2 типа вспять? 14-летнее исследование показало значимые результаты",
+    "en": "Can type 2 diabetes be reversed? A 14-year study reports notable results",
+    "kk": "2-типті қант диабетін кері қайтаруға бола ма? 14 жылдық зерттеу маңызды нәтижелерді көрсетті",
+    "de": "Lässt sich Typ-2-Diabetes umkehren? Eine 14-jährige Studie berichtet bemerkenswerte Ergebnisse",
+    "es": "¿Se puede revertir la diabetes tipo 2? Un estudio de 14 años muestra resultados notables"
+   },
+   "text": {
+    "ru": "Четырнадцатилетнее исследование посвящено вопросу, можно ли обратить диабет 2 типа, и приводит заметные результаты.",
+    "en": "A 14-year study examines whether type 2 diabetes can be reversed and reports notable results.",
+    "kk": "14 жылдық зерттеу 2-типті қант диабетін кері қайтаруға бола ма деген сұракқа арналған және маңызды нәтижелерді береді.",
+    "de": "Eine 14-jährige Studie untersucht, ob Typ-2-Diabetes umkehrbar ist, und berichtet über bemerkenswerte Ergebnisse.",
+    "es": "Un estudio de 14 años analiza si la diabetes tipo 2 puede revertirse y presenta resultados notables."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5",
+   "src": "SciTechDaily"
+  },
+  {
+   "id": "nRE0_b2M9NQ",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Антипсихотики и риск диабета: первые 90 дней критичны для мониторинга",
+    "en": "Antipsychotics and diabetes risk: the first 90 days are critical for monitoring",
+    "kk": "Антипсихотиктер және қант диабетінің қаупі: алғашқы 90 күн бақылау үшін маңызды",
+    "de": "Antipsychotika und Diabetesrisiko: Die ersten 90 Tage sind für das Monitoring entscheidend",
+    "es": "Antipsicóticos y riesgo de diabetes: los primeros 90 días son clave para el seguimiento"
+   },
+   "text": {
+    "ru": "Материал указывает, что первые 90 дней приёма антипсихотиков важны для контроля риска диабета.",
+    "en": "The article indicates that the first 90 days of antipsychotic treatment are important for monitoring diabetes risk.",
+    "kk": "Материалда антипсихотиктерді қабылдаудың алғашқы 90 күні қант диабетінің қаупін бақылау үшін маңызды екені айтылған.",
+    "de": "Der Artikel weist darauf hin, dass die ersten 90 Tage einer Antipsychotika-Behandlung für die Überwachung des Diabetesrisikos wichtig sind.",
+    "es": "El artículo indica que los primeros 90 días de tratamiento con antipsicóticos son importantes para vigilar el riesgo de diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTU5wdldzOXVvWndTRk9lRUZfYjluREd6ckJBQkxaaHdELTl0ZUFlbUtNaURxTzVWaVVza3ItTnMxLTJzLVprZVE4U0IyZWVZa1VuWjEtRHhqUkEweFFqTFE5MENFZW43TTlWdU9Gcm5vbFRJempuYVF1Z2hRSWNrOHYwU3ZSbVZLNGwzZ05feU93aUUwQ2FtYkw0RlM5WW1oU2d2UE9wSlkzcW9aelRwWVdXODM?oc=5",
+   "src": "Medvestnik"
+  },
+  {
+   "id": "nGRSP29jPTU",
+   "cat": "devices",
+   "stage": "results",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Голосовой ИИ-помощник улучшил состояние пациентов с диабетом",
+    "en": "Voice AI assistant improved the condition of patients with diabetes",
+    "kk": "Дауыстық ЖИ көмекшісі қант диабеті бар науқастардың жағдайын жақсартты",
+    "de": "Sprachbasierter KI-Assistent hat den Zustand von Diabetespatienten verbessert",
+    "es": "Un asistente de voz con IA mejoró el estado de los pacientes con diabetes"
+   },
+   "text": {
+    "ru": "Сообщается, что голосовой ИИ-помощник улучшил состояние пациентов с диабетом.",
+    "en": "Reports say a voice-based AI assistant improved the condition of patients with diabetes.",
+    "kk": "Хабарламада дауыстық ЖИ көмекшісі қант диабеті бар науқастардың жағдайын жақсартқаны айтылады.",
+    "de": "Berichten zufolge hat ein sprachbasierter KI-Assistent den Zustand von Patienten mit Diabetes verbessert.",
+    "es": "Según la información, un asistente de voz con IA mejoró el estado de los pacientes con diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vSVFqakpBOHFydkJNaGJOaVRFQW10TWtCSjBUV040NTY5dVFFZ05ycXF5Rzc5a3ltbkhiakoxbWNHSEpHOXpHWHdR?oc=5",
+   "src": "Интернет-газета «ЖУК»"
+  },
+  {
+   "id": "nQlI_b2M9NQ",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Распространённость диабета в Южной Европе достигла 9,3% несмотря на близость к PHD",
+    "en": "Diabetes prevalence in Southern Europe reaches 9.3% despite proximity to PHD",
+    "kk": "Оңтүстік Еуропада қант диабетінің таралуы PHD-ге жақын болғанына қарамастан 9,3%-ға жетті",
+    "de": "Diabetes-Prävalenz in Südeuropa erreicht 9,3 % trotz der Nähe zu PHD",
+    "es": "La prevalencia de diabetes en el sur de Europa alcanza el 9,3 % a pesar de la proximidad a PHD"
+   },
+   "text": {
+    "ru": "По сообщению источника, распространённость диабета в Южной Европе составляет 9,3%.",
+    "en": "According to the source, diabetes prevalence in Southern Europe stands at 9.3%.",
+    "kk": "Дереккөзге сәйкес, Оңтүстік Еуропада қант диабетінің таралуы 9,3% құрайды.",
+    "de": "Laut Quelle liegt die Diabetes-Prävalenz in Südeuropa bei 9,3 %.",
+    "es": "Según la fuente, la prevalencia de diabetes en el sur de Europa es del 9,3 %."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2hVZGRmUXdKYWxrbzV1WjduQjA1aXVHdXJNaFdtV1hRblMxOW9TZTlURFNkM0VzWm5nNVBKcG1UN1ZwUWFYcDdZQ01sRDJaVGJPOXFyTXNEcmk4VzR5V3NMcl9JZHhzNjUya3lWNmJMSUR5MWV6cDlZNmNoRlRGaEpmbTdya0FScHV3a0h1OXZ4bUt1Ri1Fdl83cFN5MUMzMlB3RkM4VjU4dGVOMUVxUUU5c1R6VXZzWFBR?oc=5",
+   "src": "UA.NEWS"
+  },
+  {
+   "id": "nVWQj9vYz01",
+   "cat": "community",
+   "stage": "campaign",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Рижская 1-я больница приглашает на бесплатный скрининг диабета: как участвовать в акции",
+    "en": "Riga 1st Hospital invites people to free diabetes screening: how to take part in the campaign",
+    "kk": "Рига 1-ші ауруханасы қант диабетіне тегін скринингке шақырады: акцияға қалай қатысуға болады",
+    "de": "Das Rigaer 1. Krankenhaus lädt zum kostenlosen Diabetes-Screening ein: So können Sie teilnehmen",
+    "es": "El Hospital n.º 1 de Riga invita a un cribado gratuito de diabetes: cómo participar en la campaña"
+   },
+   "text": {
+    "ru": "Рижская 1-я больница приглашает на бесплатный скрининг диабета в рамках акции.",
+    "en": "Riga 1st Hospital invites people to a free diabetes screening as part of a campaign.",
+    "kk": "Рига 1-ші ауруханасы акция аясында қант диабетіне тегін скринингке шақырады.",
+    "de": "Das Rigaer 1. Krankenhaus lädt im Rahmen einer Aktion zu einem kostenlosen Diabetes-Screening ein.",
+    "es": "El Hospital n.º 1 de Riga invita a un cribado gratuito de diabetes como parte de una campaña."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0pmUzdTUTRSTGt3aEtnaVNQTzJqSFRJQThnMEJwYUI5UmRpSzljRzVuVkdtRWd6Z1o5amhEVmE4VElwbjY2YzMzWDJvUFRZMWhPWjlnYl8tVHVBdUl5S2dveUFJTVpzZ1lmUWlTRnRqN01kRzBqRlctQ3VHdVhMYzZWZEFWcDJReW5CUl9hWFFrcEhDMzJLQlE5M3I3RlkzWkJlTVh5WU5ZSDJmMkNNSE1RQ3pqaVhSMFpLOS1pVTNib3BZX3JGLUVB?oc=5",
+   "src": "Mixnews"
+  },
+  {
+   "id": "nVVvP29jPTU",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "К Всемирному дню борьбы с диабетом, 14 ноября 2026 года: действовать сегодня ради здоровья завтра",
+    "en": "Ahead of World Diabetes Day, 14 November 2026: act today for tomorrow's health",
+    "kk": "Қант диабетімен күресу әлемдік күніне, 2026 жылғы 14 қарашаға орай: ертеңгі денсаулық үшін бүгін әрекет ету",
+    "de": "Zum Welt-Diabetes-Tag am 14. November 2026: heute handeln für die Gesundheit von morgen",
+    "es": "Con motivo del Día Mundial de la Diabetes, 14 de noviembre de 2026: actuar hoy por la salud de mañana"
+   },
+   "text": {
+    "ru": "Материал приурочен к Всемирному дню борьбы с диабетом, который отмечается 14 ноября 2026 года.",
+    "en": "The article is timed to World Diabetes Day, observed on 14 November 2026.",
+    "kk": "Материал 2026 жылғы 14 қарашада аталып өтетін Қант диабетімен күресу әлемдік күніне арналған.",
+    "de": "Der Artikel ist auf den Welt-Diabetes-Tag am 14. November 2026 abgestimmt.",
+    "es": "El artículo se enmarca en el Día Mundial de la Diabetes, que se celebra el 14 de noviembre de 2026."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEJ5ZnlXWUpJSHl0RlNsWTFJeVh1TmFrQzZJN3dTdmZsTk90Z0MxTk5EY3M0OHRPazJiTDYzS1Jlak12d3NEZVFmZVlBSjZCeGh0MTdFcUlpbFNNdkhLSjFzNlRab1VleG4yVGIzSmpuaTRvVW15SVBDRHZUU1pldlM0SEp4WlRFMlVXY2otdTB4S1FOTGRWSERtSUpuSmFKcm56eXJqWTBRUFpQa0l5Mjh6bU02MENaMDhLZFpMUUo?oc=5",
+   "src": "Vietnam.vn"
+  },
+  {
+   "id": "nFlUT9vYz01",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Сильное загрязнение воздуха повышает риск развития диабета",
+    "en": "Severe air pollution increases the risk of developing diabetes",
+    "kk": "Ауаның қатты ластануы қант диабетінің даму қаупін арттырады",
+    "de": "Starke Luftverschmutzung erhöht das Diabetesrisiko",
+    "es": "La fuerte contaminación del aire aumenta el riesgo de desarrollar diabetes"
+   },
+   "text": {
+    "ru": "Согласно материалу, сильное загрязнение воздуха повышает риск развития диабета.",
+    "en": "According to the article, severe air pollution increases the risk of developing diabetes.",
+    "kk": "Материалға сәйкес, ауаның қатты ластануы қант диабетінің дамуына қаупін арттырады.",
+    "de": "Laut dem Artikel erhöht starke Luftverschmutzung das Risiko, an Diabetes zu erkranken.",
+    "es": "Según el artículo, la fuerte contaminación del aire aumenta el riesgo de desarrollar diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE0ydDQta28xd1F2S1M5dWpURmQ4dnQ1bVdzb1AzT0Z0MkkxdFh2LUp4c3JiZnJKTFFPSEdvcFFVVFNkZHdFazdxZzkydVQtLW1QM01ZZThOLUl2TzAxamdBc2RkVFlEVnZzcEUzNk1uX084QTlIS2dBMDZzYUF2UktSSEFWMlBZaVpMVW1VOGxaZWdUNjNqeQ?oc=5",
+   "src": "Vietnam.vn"
+  },
   {
    "id": "nOXY_b2M9NQ",
    "cat": "research",
@@ -282,6 +535,29 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWJXbFRlNUd2Q18xOVNMcXBYWjhDRXNQX1VOMFBwWm9JN0FWeHpDSGZwdkJQVDhoajFjZGJJenZHM3JZY1dfd0lyd0FpenRQaFBlZTVVNDVrWDJKdWRuanBwUXlEd2Z0YVF0MndEWWgwZzBMYXNUVlFpc0FueFNJUzhtTnJyYzhvMkJBMlRsVHhGdjd2cUJUQldET2dQbnNHOHZRbXQ4RFhId0NLLURudTJJNzJJY1BxWHYzY9IBwgFBVV95cUxQc25kOWRjRUpRODdGQnZUM1MySkxxUzFEZlFwT2RISTBsN1VSQU1vOEhfekpLZmFHZTdzaV82b1p4WXd2azM3MmpuVGZLZ0RCaDJJRWR5VkpvWjR5c1RGNXlDVjhzamhqQ2pLanJEdjFOX0RVaTFreXUxZzdYUmVlZGlFUlRiczVuOVdfVHFMeF9tSVBUWWZPR09fbWwtT29oc1BhYmtraHJTckhQZDZyLXlCdlRBNDBTRUs4QkxwRU5CZw?oc=5",
    "src": "BB.LV"
+  },
+  {
+   "id": "nlJRP29jPTU",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-05",
+   "added": "2026-11-07T03:02:36.536Z",
+   "title": {
+    "ru": "Просветительское мероприятие «Диабет – не сахар»",
+    "en": "Educational event \"Diabetes is not sugar\"",
+    "kk": "«Диабет – қант емес» ағартушылық іс-шарасы",
+    "de": "Aufklärungsveranstaltung „Diabetes – kein Zucker“",
+    "es": "Evento educativo «La diabetes no es azúcar»"
+   },
+   "text": {
+    "ru": "В детской библиотеке прошло просветительское мероприятие «Диабет – не сахар».",
+    "en": "An educational event titled \"Diabetes is not sugar\" was held at a children's library.",
+    "kk": "Балалар кітапханасында «Диабет – қант емес» ағартушылық іс-шарасы өтті.",
+    "de": "In einer Kinderbibliothek fand die Aufklärungsveranstaltung „Diabetes – kein Zucker“ statt.",
+    "es": "Se celebró en una biblioteca infantil el evento educativo «La diabetes no es azúcar»."
+   },
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGtEVlhaem5wczh2ZGkzeHBGdlRHRjQxZ0VjVklrVzUyS2xKV2QxbzJqenNfdkQ4QWQzcE5ZV212dEU5dnFBMW1HV0x5WER5Y0FmT1pEMGV0RGQ4c0ZzNGFpQ2E0Qmprd04teG5qVHFfSUVocWVQRTFVZm44YTVRcTdBRQ?oc=5",
+   "src": "Российская государственная детская библиотека"
   }
  ],
  "stats": {
