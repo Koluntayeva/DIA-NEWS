@@ -6,9 +6,9 @@
       most newsworthy stories, assigns a section and translates the headline and
       a short summary into ru/en/kk/de/es. Without a key: stories are published
       in their original language with keyword-based sections.
-   4. Finds a photo for each story on Pexels (PEXELS_API_KEY): by an AI-written
-      search phrase, or by the story's section. Also keeps a pool of good
-      Pexels photos per section that the site uses as a fallback.
+   4. Finds a photo for each story on Unsplash (UNSPLASH_ACCESS_KEY; or Pexels,
+      PEXELS_API_KEY) by an AI-written search phrase, or by the story's section.
+      Also keeps a pool of good photos per section that the site uses as a fallback.
    5. Merges them with the stories already in data/news.js and rewrites it.
    No npm dependencies: Node 20+ only. */
 
@@ -50,7 +50,7 @@ const CAT_QUERIES = {
   events: ["medical conference audience", "conference speaker stage", "doctors meeting"],
   community: ["family healthy lifestyle", "people walking park", "blood sugar test finger"],
 };
-const POOL_SIZE = 8;       // fallback photos per section
+const POOL_SIZE = 6;       // fallback photos per section
 const POOL_DAYS = 30;      // refresh the fallback pool this often
 
 const RELEVANT = /диабет|инсулин|глюкоз|сахарн\w* (диабет|кров)|гликем|diabet|insulin|glucose|glycem|HbA1c|CGM|GLP-1|semaglutide|tirzepatide|islet|T1D|T2D/i;
@@ -245,44 +245,52 @@ log(`fetched ${fetched.length}, new candidates ${cands.length}`);
 let picks = cands.length ? await aiPick(cands.slice(0, MAX_CANDIDATES)) : [];
 if (picks == null) { log("no AI key or AI error: publishing originals without translation"); picks = plainPick(cands); }
 
-/* ---------- photos (Pexels) ---------- */
+/* ---------- photos: Unsplash (UNSPLASH_ACCESS_KEY) or Pexels (PEXELS_API_KEY) ---------- */
+const UNSPLASH = process.env.UNSPLASH_ACCESS_KEY;
 const PEXELS = process.env.PEXELS_API_KEY;
-async function pexels(query, n = 15) {
-  if (!PEXELS || !query) return [];
+const PHOTO_ON = !!(UNSPLASH || PEXELS);
+// Unsplash demo apps get 50 API calls per hour: stay under it; what is left is done on the next run
+let budget = UNSPLASH ? Number(process.env.UNSPLASH_BUDGET || 45) : 1000;
+let rateLimited = false;
+const UTM = "utm_source=dia_news&utm_medium=referral";
+
+async function searchPhotos(query, n = 20) {
+  if (!query || budget <= 0 || rateLimited) return [];
+  budget--;
   try {
+    if (UNSPLASH) {
+      const r = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&orientation=landscape&content_filter=high&per_page=${n}`, { headers: { authorization: "Client-ID " + UNSPLASH, "accept-version": "v1" }, signal: AbortSignal.timeout(20000) });
+      if (r.status === 403 || r.status === 429) { rateLimited = true; throw new Error("rate limit"); }
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      const j = await r.json();
+      return (j.results || []).filter((ph) => !ph.premium && !ph.plus && ph.width >= 2000 && ph.width > ph.height).map((ph) => ({
+        id: "u_" + ph.id,
+        url: ph.urls.raw + (ph.urls.raw.includes("?") ? "&" : "?") + "w=1200&q=80&fm=jpg&fit=max",
+        credit: ph.user.name,
+        license: "Unsplash",
+        link: ph.links.html + "?" + UTM,
+        alt: ph.alt_description || "",
+        _track: ph.links.download_location,
+      }));
+    }
     const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&orientation=landscape&size=large&per_page=${n}`, { headers: { authorization: PEXELS }, signal: AbortSignal.timeout(20000) });
     if (!r.ok) throw new Error("HTTP " + r.status);
     const j = await r.json();
-    return (j.photos || []).filter((ph) => ph.width >= 1600 && ph.width > ph.height);
-  } catch (e) { log(`Pexels "${query}": ${e.message}`); return []; }
+    return (j.photos || []).filter((ph) => ph.width >= 1600 && ph.width > ph.height).map((ph) => ({
+      id: ph.id,
+      url: `https://images.pexels.com/photos/${ph.id}/pexels-photo-${ph.id}.jpeg?auto=compress&cs=tinysrgb&w=1200`,
+      credit: ph.photographer, license: "Pexels", link: ph.url, alt: ph.alt || "",
+    }));
+  } catch (e) { log(`photo search "${query}": ${e.message}`); return []; }
 }
-const toPhoto = (ph) => ({
-  id: ph.id,
-  url: `https://images.pexels.com/photos/${ph.id}/pexels-photo-${ph.id}.jpeg?auto=compress&cs=tinysrgb&w=1200`,
-  credit: ph.photographer,
-  license: "Pexels",
-  link: ph.url,
-  alt: ph.alt || "",
-});
-
-// fallback pool per section
-let photoPool = cur.photoPool || null;
-const poolFresh = photoPool && photoPool.date >= daysAgo(POOL_DAYS) && CATS.every((c) => (photoPool[c] || []).length >= 3);
-if (PEXELS && !poolFresh) {
-  const pool = { date: today() }, taken = new Set();
-  for (const c of CATS) {
-    pool[c] = [];
-    for (const q of CAT_QUERIES[c]) {
-      for (const ph of await pexels(q, 12)) {
-        if (pool[c].length >= POOL_SIZE) break;
-        if (taken.has(ph.id) || pool[c].filter((x) => x.q === q).length >= Math.ceil(POOL_SIZE / CAT_QUERIES[c].length)) continue;
-        taken.add(ph.id); pool[c].push({ ...toPhoto(ph), q });
-      }
-    }
-    pool[c] = pool[c].map(({ q, ...ph }) => ph);
-    log(`photo pool ${c}: ${pool[c].length}`);
+// Unsplash asks apps to report each photo they use (API guidelines)
+async function usePhoto(ph) {
+  const { _track, ...clean } = ph;
+  if (_track && budget > 0 && !rateLimited) {
+    budget--;
+    try { await fetch(_track, { headers: { authorization: "Client-ID " + UNSPLASH }, signal: AbortSignal.timeout(15000) }); } catch (e) {}
   }
-  if (CATS.some((c) => pool[c].length)) photoPool = pool;
+  return clean;
 }
 
 const stamp = new Date().toISOString();
@@ -295,10 +303,12 @@ const fresh = picks.map((p) => {
 
 let items = [...fresh, ...old].sort((a, b) => String(b.date).localeCompare(String(a.date)) || String(b.added || "").localeCompare(String(a.added || ""))).slice(0, MAX_ITEMS);
 
-// a photo for every story that has none yet (new ones, and older ones from before photos existed)
+// 1) a photo for every story that has none yet (new ones first, then older ones)
 let photosAdded = 0;
-if (PEXELS) {
+let photoPool = cur.photoPool || null;
+if (PHOTO_ON) {
   const used = new Set(items.filter((x) => x.photo && x.photo.id).map((x) => x.photo.id));
+  for (const c of CATS) for (const ph of (photoPool && photoPool[c]) || []) used.add(ph.id);
   // older stories have no AI search phrase yet: ask for all of them in one call
   const need = items.filter((x) => !x.photo && !x.photoTried && !x.photoQuery);
   if (need.length) {
@@ -307,18 +317,42 @@ if (PEXELS) {
       if (raw) { const q = JSON.parse(raw.slice(raw.indexOf("{"), raw.lastIndexOf("}") + 1)).q || []; need.forEach((x, i) => { if (typeof q[i] === "string") x.photoQuery = q[i].trim().slice(0, 60); }); }
     } catch (e) { log("AI photo phrases failed:", e.message); }
   }
-  for (const it of items) {
+  const order = [...items].sort((a, b) => String(b.added || "").localeCompare(String(a.added || "")));
+  for (const it of order) {
     if (it.photo || it.photoTried) continue;
-    const queries = [it.photoQuery, ...CAT_QUERIES[it.cat] || []].filter(Boolean);
-    let got = null;
+    if (budget < 2 || rateLimited) break;            // the rest waits for the next run
+    const queries = [it.photoQuery, CAT_QUERIES[it.cat]?.[0]].filter(Boolean);
+    let got = null, searched = 0;
     for (const q of queries) {
-      const ph = (await pexels(q)).find((x) => !used.has(x.id));
-      if (ph) { got = toPhoto(ph); break; }
+      if (budget < 2) break;
+      searched++;
+      const ph = (await searchPhotos(q)).find((x) => !used.has(x.id));
+      if (ph) { got = await usePhoto(ph); break; }
     }
-    if (got) { used.add(got.id); it.photo = got; photosAdded++; } else it.photoTried = true;
+    if (got) { used.add(got.id); it.photo = got; photosAdded++; }
+    else if (searched === queries.length && !rateLimited) it.photoTried = true;
   }
   log(`photos added: ${photosAdded}`);
-} else log("no PEXELS_API_KEY: stories use the site's built-in photos");
+
+  // 2) fallback pool per section, filled bit by bit with whatever budget is left
+  const stale = !photoPool || !(photoPool.date >= daysAgo(POOL_DAYS));
+  const pool = stale ? { date: today() } : { ...photoPool };
+  const prev = stale ? (photoPool || {}) : {};
+  for (const c of CATS) {
+    pool[c] = stale ? [] : [...(pool[c] || [])];
+    if (pool[c].length >= POOL_SIZE || budget < 3 || rateLimited) { if (stale && !pool[c].length) pool[c] = prev[c] || []; continue; }
+    const q = CAT_QUERIES[c][pool[c].length % CAT_QUERIES[c].length];
+    for (const ph of await searchPhotos(q, 30)) {
+      if (pool[c].length >= POOL_SIZE || budget < 1) break;
+      if (used.has(ph.id)) continue;
+      used.add(ph.id); pool[c].push(await usePhoto(ph));
+    }
+    if (stale && pool[c].length < 3 && (prev[c] || []).length) pool[c] = prev[c]; // keep the old pool until the new one is usable
+    log(`photo pool ${c}: ${pool[c].length}`);
+  }
+  photoPool = pool;
+  log(`photo API calls left this hour: ${budget}${rateLimited ? " (rate limited)" : ""}`);
+} else log("no UNSPLASH_ACCESS_KEY / PEXELS_API_KEY: stories use the site's built-in photos");
 
 const poolChanged = JSON.stringify(photoPool) !== JSON.stringify(cur.photoPool || null);
 if (!items.length) { log("nothing to publish; data/news.js left unchanged"); process.exit(0); }
@@ -328,8 +362,8 @@ const out = { demo: false, updated: stamp, items, stats: cur.stats || null, post
 const file = `/* The feed. Generated by scripts/update-news.mjs (GitHub Actions, daily). Manual edits to items may be overwritten.
    items[]: {id, cat, stage, date:"YYYY-MM-DD", added?, title, text, facts?:[{k,v}], body?, url?, src?, photo?:{url,credit,license,link}}
             cat is one of CATS in js/i18n.js; title/text/body/k/v are {ru,en,kk,de,es} objects (missing languages fall back to en, then ru).
-            photo: set by the script from Pexels; to use your own photo, set photo.url to "assets/photos/<file>" (the script never replaces an existing photo).
-   photoPool: {date, <cat>: [photo...]}: Pexels photos per section, used when a story has no photo of its own.
+            photo: set by the script from Unsplash (or Pexels); to use your own photo, set photo.url to "assets/photos/<file>" (the script never replaces an existing photo).
+   photoPool: {date, <cat>: [photo...]}: Unsplash/Pexels photos per section, used when a story has no photo of its own.
    posts[]: {date, ru, kk}: the Telegram post box in the rail. Empty hides it.
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS=${JSON.stringify(out, null, 1)};
