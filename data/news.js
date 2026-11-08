@@ -118,7 +118,7 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/chest-x-ray-of-rib-cage-tHS9j3HWT1s?utm_source=dia_news&utm_medium=referral",
     "alt": "A chest X-ray showing the rib cage, lungs, and heart structure"
    },
-   "bodyTried": true
+   "bodyTries": 1
   },
   {
    "id": "nG8wP29jPTU",
@@ -151,7 +151,7 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/foot-massage-with-oil-nhEIkQVj0iI?utm_source=dia_news&utm_medium=referral",
     "alt": "Hands massaging a foot with oil on a white towel"
    },
-   "bodyTried": true
+   "bodyTries": 1
   },
   {
    "id": "nTBNP29jPTU",
@@ -176,7 +176,7 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmVHS0ZpbmlYM0NBYVYtR3dFSDRZYl9kOGNEd2o4MXlDNGZKT2ItazBVaWZjMzBodzhTWmJvWlVXNDZfR1d6SUJrbElHTVhCNlk0VmpDaWdxQ3ZjRzVVN21fU3ZXRkZFUENBbm9NUXFvU1doYVp0Nk8yb1lHMGRSRjNUZkJ0WVd5TzlweWt1OEtYOW96ODJPQUlDTmpNTy1EeS1ZNS1HNWVPT19HQjJObGFuNDNyOUpfaDgzZUc1U0M?oc=5",
    "src": "Bioengineer.org",
    "photoQuery": "blood glucose meter testing",
-   "bodyTried": true
+   "bodyTries": 1
   },
   {
    "id": "nOUo_b2M9NQ",
@@ -282,7 +282,7 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/scientist-using-laptop-in-laboratory-8yS04veb1TQ?utm_source=dia_news&utm_medium=referral",
     "alt": "A scientist in a white lab coat using a laptop in a laboratory"
    },
-   "bodyTried": true
+   "bodyTries": 1
   },
   {
    "id": "nVuYz9vYz01",
@@ -755,7 +755,7 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/bowl-of-vegetable-salads-IGfIGP5ONV0?utm_source=dia_news&utm_medium=referral",
     "alt": "bowl of vegetable salads"
    },
-   "bodyTried": true
+   "bodyTries": 1
   },
   {
    "id": "nmRyP29jPTU",
@@ -780,7 +780,7 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1lONlh1TTBSVUhPOVNRSnhqUXJGRDFERlgxVjVoTDJOODJNbVRpT0xfVFl4eWlVQU5XM1JjdG9ESE4teVRzMzVtQVVvTTUtR2VKN0NvQW41bksySzAwNUNHSzhHZUYyYnhiZlh1T0VVdU4xblRRdnd3bHNUZXlaS3pLVTY1ZDY0UGlDMXBuRTBITXVFZFZuS3p3Z292bGEtdjdr?oc=5",
    "src": "ОрелГрад",
    "photoQuery": "blood glucose test clinic",
-   "bodyTried": true
+   "bodyTries": 1
   },
   {
    "id": "ndHY_b2M9NQ",
@@ -805,7 +805,7 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVNWTmxqNXJoZXJGSEFOc2hyNWFLMXB5YlNOVVFHVEpMOHlmYlprLUlMd19BVDJqRnhuRGNwUTVuSDB6eU15QzlBLWlFSkRoRXZ2M3QtcXRwSWZFa3pYdzh6TVlHM2dWMGF0YUNhdzRTdW5kajZ4MjFBVV9sV1A1YVVIVnV1N01Dd2Z1NUgyaFI5NkR6T0tv?oc=5",
    "src": "Этномедиахолдинг \"Дагестан\"",
    "photoQuery": "blood glucose meter",
-   "bodyTried": true
+   "bodyTries": 1
   },
   {
    "id": "nNadz9vYz01",

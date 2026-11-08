@@ -232,7 +232,7 @@ async function addBodies(items) {
   let done = 0, tried = 0;
   const order = [...items].sort((a, b) => String(b.added || "").localeCompare(String(a.added || "")));
   for (const it of order) {
-    if (it.body || it.bodyTried || tried >= MAX_BODIES) continue;
+    if (it.body || it.bodyTried || (it.bodyTries || 0) >= 2 || tried >= MAX_BODIES) continue;
     tried++;
     try {
       const res = await writeBody(it);
@@ -241,8 +241,9 @@ async function addBodies(items) {
         if (Array.isArray(res.facts) && res.facts.length) it.facts = res.facts.slice(0, 3).filter((f) => f && f.k && f.v);
         if (typeof res.url === "string" && /^https?:\/\//.test(res.url) && !res.url.includes("news.google.")) it.url = res.url;
         done++;
+        delete it.bodyTries;
       } else it.bodyTried = true;
-    } catch (e) { log(`full text "${(it.title.ru || it.title.en || "").slice(0, 40)}": ${e.message}`); it.bodyTried = true; }
+    } catch (e) { log(`full text "${(it.title.ru || it.title.en || "").slice(0, 40)}": ${e.message}`); it.bodyTries = (it.bodyTries || 0) + 1; }
   }
   log(`full texts written: ${done} of ${tried}`);
   return done;
@@ -432,6 +433,19 @@ if (PHOTO_ON) {
 } else log("no UNSPLASH_ACCESS_KEY / PEXELS_API_KEY: stories use the site's built-in photos");
 
 const bodiesAdded = await addBodies(items);
+// the same article reached via two feeds: keep the newer copy (with a photo/full text if only one has it)
+{
+  const byUrl = new Map();
+  for (const it of items) {
+    const prev = byUrl.get(it.url);
+    if (!prev) { byUrl.set(it.url, it); continue; }
+    const keep = (prev.body ? 2 : 0) + (prev.photo ? 1 : 0) >= (it.body ? 2 : 0) + (it.photo ? 1 : 0) ? prev : it;
+    byUrl.set(it.url, keep);
+  }
+  const before = items.length;
+  items = items.filter((it) => byUrl.get(it.url) === it);
+  if (items.length < before) log(`duplicates removed: ${before - items.length}`);
+}
 
 const poolChanged = JSON.stringify(photoPool) !== JSON.stringify(cur.photoPool || null);
 if (!items.length) { log("nothing to publish; data/news.js left unchanged"); process.exit(0); }
