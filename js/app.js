@@ -35,7 +35,7 @@ function renderChrome(){
   const top=items[0];$("h-now").hidden=!top;
   if(top){const ph=SRC(ownPhoto(top)||stockFor(top));
     $("h-now-img").style.backgroundImage="url('"+ph+"')";$("h-now-t").textContent=pick(top.title);$("h-now-d").textContent=fmtDate(top.date);
-    $("h-now").onclick=()=>{cat="all";toggle(top,!!pick(top.body))}}
+    $("h-now").onclick=()=>{if(!pick(top.body)&&safeUrl(top.url)){window.open(safeUrl(top.url),"_blank","noopener");return}cat="all";toggle(top,true)}}
   $("t-sub").textContent=u.sub;$("t-note").textContent=u.note;$("t-break").textContent=X[lang].breaking;
   try{$("t-today").textContent=new Date().toLocaleDateString(LOCALE[lang],{weekday:"long",day:"numeric",month:"long",year:"numeric"})}catch(e){}
   const L=$("langs");L.replaceChildren();
@@ -78,7 +78,10 @@ function story(it,variant){
   k.append(el("span","date",fmtDate(it.date)));
 
   const h=el(variant==="lead"?"h2":"h3","hl");
-  if(body){const hb=el("button",null,pick(it.title));hb.type="button";hb.onclick=()=>toggle(it);h.append(hb)}else h.textContent=pick(it.title);
+  const srcHref=safeUrl(it.url);
+  if(body){const hb=el("button",null,pick(it.title));hb.type="button";hb.onclick=()=>toggle(it);h.append(hb)}
+  else if(srcHref){const ha=el("a",null,pick(it.title));ha.href=srcHref;ha.target="_blank";ha.rel="noopener";h.append(ha)}
+  else h.textContent=pick(it.title);
 
   const facts=Array.isArray(it.facts)?it.facts:[];
   const showBullets=facts.length&&(variant==="lead"||isOpen);
@@ -86,6 +89,7 @@ function story(it,variant){
 
   const foot=el("div","foot");
   if(body){const m=el("button","more",isOpen?u.less:u.more);m.type="button";m.setAttribute("aria-expanded",isOpen);m.onclick=()=>toggle(it);foot.append(m)}
+  else if(srcHref){const m=el("a","more",u.more+" ↗");m.href=srcHref;m.target="_blank";m.rel="noopener";foot.append(m)}
   const href=safeUrl(it.url);if(href){const s=el("div","src",u.source+": ");const l=el("a",null,it.src||href);l.href=href;l.target="_blank";l.rel="noopener";s.append(l);foot.append(s)}
 
   if(variant==="lead"){

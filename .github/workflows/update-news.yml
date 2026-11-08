@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "17 2 * * *"   # every day at 02:17 UTC (07:17 in Kazakhstan)
   workflow_dispatch:        # "Run workflow" button for a manual update
+    inputs:
+      max_bodies:
+        description: "How many full texts to write in this run"
+        default: "14"
 
 permissions:
   contents: write
@@ -29,6 +33,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          MAX_BODIES: ${{ inputs.max_bodies || '14' }}
         run: node scripts/update-news.mjs
 
       - name: Commit and push if the feed changed

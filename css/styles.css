@@ -125,9 +125,9 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid var(-
 .kicker .stamp{color:#fff;background:var(--hot);padding:2px 7px}
 .kicker .date{font-family:var(--mono);font-weight:400;text-transform:none;letter-spacing:0;color:var(--muted)}
 .hl{font-family:var(--display);font-weight:850;font-stretch:78%;line-height:1.04;letter-spacing:-.005em;margin:0;text-wrap:balance;color:var(--fg)}
-.hl button{all:unset;cursor:pointer}
-.hl button:hover{color:var(--link)}
-.hl button:focus-visible{outline:3px solid var(--hot);outline-offset:2px}
+.hl button,.hl a{all:unset;cursor:pointer}
+.hl button:hover,.hl a:hover{color:var(--link)}
+.hl button:focus-visible,.hl a:focus-visible{outline:3px solid var(--hot);outline-offset:2px}
 .dek{margin:0;max-width:66ch;color:var(--fg)}
 .bullets{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px;max-width:66ch}
 .bullets li{position:relative;padding-left:20px;font-family:var(--ui);font-weight:700;font-size:1rem;line-height:1.35}
@@ -137,7 +137,7 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid var(-
 .full p{margin:0}
 .full p:first-child::first-letter{font-family:var(--display);font-weight:900;float:left;font-size:3.3em;line-height:.82;padding:4px 8px 0 0;color:var(--c)}
 .foot{display:flex;align-items:center;gap:8px 14px;flex-wrap:wrap}
-.more{font-family:var(--ui);font-size:.82rem;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:#fff;background:var(--c);border:0;padding:6px 12px;cursor:pointer}
+.more{font-family:var(--ui);font-size:.82rem;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:#fff;background:var(--c);border:0;padding:6px 12px;cursor:pointer;text-decoration:none;display:inline-block}
 .src{font-family:var(--ui);font-size:.82rem;color:var(--muted);min-width:0}
 .src a{color:var(--link);font-weight:700;overflow-wrap:anywhere}
 
