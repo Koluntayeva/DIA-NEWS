@@ -31,8 +31,7 @@ const DIA_NEWS={
    },
    "url": "https://news-bash.ru/news/ottsu-rebyonka-s-diabetom-iz-ufy-vernuli-dengi-za-insulin-posle-iska-prokuratury/",
    "src": "Ньюс-Баш",
-   "photoQuery": "insulin vial pharmacy",
-   "bodyTried": true
+   "photoQuery": "insulin vial pharmacy"
   },
   {
    "id": "nJsUT9vYz01",
@@ -379,8 +378,7 @@ const DIA_NEWS={
    },
    "url": "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
    "src": "Bioengineer.org",
-   "photoQuery": "blood glucose meter testing",
-   "bodyTries": 2
+   "photoQuery": "blood glucose meter testing"
   },
   {
    "id": "nlVUT9vYz01",
@@ -412,8 +410,7 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/doctor-consulting-patient-via-video-call-on-laptop-c1ZGaJTOnJs?utm_source=dia_news&utm_medium=referral",
     "alt": "Doctor consulting patient via video call on laptop"
-   },
-   "bodyTried": true
+   }
   },
   {
    "id": "nBTUT9vYz01",
@@ -736,8 +733,7 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/scientist-using-pipette-with-test-tubes-in-lab-RlOAwXt2fEA?utm_source=dia_news&utm_medium=referral",
     "alt": "scientist using pipette with test tubes in lab"
-   },
-   "bodyTried": true
+   }
   },
   {
    "id": "nGR3P29jPTU",
@@ -857,8 +853,7 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/a-yellow-medical-sensor-attached-to-a-persons-arm-tIEsUnmLaKY?utm_source=dia_news&utm_medium=referral",
     "alt": "A yellow medical sensor attached to a person's arm"
-   },
-   "bodyTried": true
+   }
   },
   {
    "id": "nU1E_b2M9NQ",
@@ -1669,8 +1664,7 @@ const DIA_NEWS={
    },
    "url": "https://medvestnik.ru/content/articles/antipsihotiki-i-risk-diabeta-pervye-90-dnei-kritichny-dlya-monitoringa.html",
    "src": "Medvestnik",
-   "photoQuery": "blood glucose meter finger",
-   "bodyTries": 1
+   "photoQuery": "blood glucose meter finger"
   },
   {
    "id": "ndHY_b2M9NQ",
@@ -1759,8 +1753,7 @@ const DIA_NEWS={
    },
    "url": "https://www.vietnam.vn/ru/ky-niem-ngay-dai-thao-duong-the-gioi-14-11-2026-hanh-dong-som-hom-nay-vung-vang-suc-khoe-ngay-mai",
    "src": "Vietnam.vn",
-   "photoQuery": "blue circle awareness symbol",
-   "bodyTried": true
+   "photoQuery": "blue circle awareness symbol"
   },
   {
    "id": "nQk0_b2M9NQ",
@@ -1784,8 +1777,7 @@ const DIA_NEWS={
    },
    "url": "https://www.bankfax.ru/povestka/168284/",
    "src": "Банкфакс",
-   "photoQuery": "pharmacy shelves medicine",
-   "bodyTries": 1
+   "photoQuery": "pharmacy shelves medicine"
   },
   {
    "id": "nQk4_b2M9NQ",

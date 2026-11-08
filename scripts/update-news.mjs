@@ -243,15 +243,22 @@ Link: ${it.url}
 4. Optionally 1–3 key figures from the article as facts: [{"k":{"ru","en","kk","de","es"},"v":{"ru","en","kk","de","es"}}].
 5. If you found the original article at a different address than the link, put it in "url".
 
-If you cannot open the article or it is not about this story, reply {"body":null}.
-Reply at the very end with JSON only: {"body":{"ru":"...","en":"...","kk":"...","de":"...","es":"..."},"facts":[...],"url":"..."}`;
+If you cannot open the article or it is not about this story, reply only <none/>.
+Otherwise reply at the very end in exactly this format (plain text inside the tags, no JSON, no markdown):
+<url>original article address</url>
+<ru>текст</ru>
+<en>text</en>
+<kk>мәтін</kk>
+<de>Text</de>
+<es>texto</es>
+<facts>[{"k":{"ru":"...","en":"...","kk":"...","de":"...","es":"..."},"v":{"ru":"...","en":"...","kk":"...","de":"...","es":"..."}}]</facts>`;
   let messages = [{ role: "user", content: prompt }];
   for (let turn = 0; turn < 4; turn++) {
     const r = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
       headers: { "content-type": "application/json", "x-api-key": process.env.ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01" },
       body: JSON.stringify({
-        model: process.env.ANTHROPIC_MODEL || "claude-haiku-5-5", max_tokens: 12000, messages,
+        model: process.env.ANTHROPIC_MODEL || "claude-haiku-5-5", max_tokens: 16000, messages,
         tools: [
           { type: "web_fetch_20250910", name: "web_fetch", max_uses: 3, max_content_tokens: 8000 },
           { type: "web_search_20250305", name: "web_search", max_uses: 2 },
@@ -263,9 +270,14 @@ Reply at the very end with JSON only: {"body":{"ru":"...","en":"...","kk":"...",
     const j = await r.json();
     if (j.stop_reason === "pause_turn") { messages = [...messages, { role: "assistant", content: j.content }]; continue; }
     const text = j.content.filter((c) => c.type === "text").map((c) => c.text).join("");
-    const starts = [...text.matchAll(/\{\s*"body"/g)];
-    if (!starts.length) throw new Error("no JSON in reply");
-    return JSON.parse(text.slice(starts[starts.length - 1].index, text.lastIndexOf("}") + 1));
+    if (j.stop_reason === "max_tokens") throw new Error("reply too long");
+    const tag = (n) => { const all = [...text.matchAll(new RegExp(`<${n}>([\\s\\S]*?)</${n}>`, "g"))]; return all.length ? all[all.length - 1][1].trim() : ""; };
+    const body = {};
+    for (const l of LANGS) { const v = tag(l); if (v) body[l] = v; }
+    if (!body.ru && !body.en) { if (/<none\s*\/>/.test(text)) return { body: null }; throw new Error("no text in reply"); }
+    let facts = [];
+    try { facts = JSON.parse(tag("facts") || "[]"); } catch (e) {}
+    return { body, facts, url: tag("url") };
   }
   throw new Error("too many turns");
 }
@@ -368,7 +380,7 @@ async function searchPhotos(query, n = 20) {
   try {
     if (UNSPLASH) {
       const r = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&orientation=landscape&content_filter=high&per_page=${n}`, { headers: { authorization: "Client-ID " + UNSPLASH, "accept-version": "v1" }, signal: AbortSignal.timeout(20000) });
-      if (r.status === 403 || r.status === 429) { rateLimited = true; throw new Error("rate limit"); }
+      if (r.status === 403 || r.status === 429) { rateLimited = true; throw new Error(`HTTP ${r.status}, remaining ${r.headers.get("x-ratelimit-remaining")}/${r.headers.get("x-ratelimit-limit")}: ${(await r.text()).slice(0, 120)}`); }
       if (!r.ok) throw new Error("HTTP " + r.status);
       const j = await r.json();
       return (j.results || []).filter((ph) => !ph.premium && !ph.plus && ph.width >= 2000 && ph.width > ph.height).map((ph) => ({
