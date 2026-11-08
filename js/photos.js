@@ -39,6 +39,10 @@ const CAT_PHOTOS={devices:["up_patch1","up_patch2","libre7","mg_person1","cgm14"
     const own=CAT_PHOTOS[c].filter(k=>k.startsWith("up_"));CAT_PHOTOS[c]=keys.concat(own)}
 })();
 const POOL=[...new Set(Object.values(CAT_PHOTOS).flat())];let PHOTO_MAP=new Map(),PHOTO_SIG="";
-function assignPhotos(){const sig=items.map(i=>i._id+i.cat).join(",");if(sig===PHOTO_SIG)return;PHOTO_SIG=sig;PHOTO_MAP=new Map();const used=new Set();
-  for(const it of items){const pref=(CAT_PHOTOS[it.cat]||[]).concat(POOL);let k=pref.find(p=>!used.has(p));if(!k){used.clear();k=pref[0]}used.add(k);PHOTO_MAP.set(it._id,k)}}
-function stockFor(it){assignPhotos();return STOCK[PHOTO_MAP.get(it._id)]||STOCK.mg_woman1}
+/* each built-in photo at most once on the page (and never one a story already uses as its own);
+   when they run out, the story gets an editorial illustration instead of a repeat */
+function assignPhotos(){const sig=items.map(i=>i._id+i.cat+(i.photo&&i.photo.url||"")).join(",");if(sig===PHOTO_SIG)return;PHOTO_SIG=sig;PHOTO_MAP=new Map();
+  const usedUrl=new Set(items.filter(i=>i.photo&&i.photo.url).map(i=>i.photo.url));
+  for(const it of items){if(it.photo&&it.photo.url)continue;const pref=(CAT_PHOTOS[it.cat]||[]).concat(POOL);
+    const k=pref.find(p=>STOCK[p]&&!usedUrl.has(SRC(STOCK[p])));if(k){usedUrl.add(SRC(STOCK[k]));PHOTO_MAP.set(it._id,k)}}}
+function stockFor(it){assignPhotos();const k=PHOTO_MAP.get(it._id);return k?STOCK[k]:null}

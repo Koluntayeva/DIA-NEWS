@@ -229,23 +229,25 @@ Reply at the very end with JSON only: {"body":{"ru":"...","en":"...","kk":"...",
 }
 async function addBodies(items) {
   if (!process.env.ANTHROPIC_API_KEY) return 0;
-  let done = 0, tried = 0;
-  const order = [...items].sort((a, b) => String(b.added || "").localeCompare(String(a.added || "")));
-  for (const it of order) {
-    if (it.body || it.bodyTried || (it.bodyTries || 0) >= 2 || tried >= MAX_BODIES) continue;
-    tried++;
-    try {
-      const res = await writeBody(it);
-      if (res && res.body && (res.body.ru || res.body.en)) {
-        it.body = langObj(res.body, { lang: "en", value: res.body.en || res.body.ru });
-        if (Array.isArray(res.facts) && res.facts.length) it.facts = res.facts.slice(0, 3).filter((f) => f && f.k && f.v);
-        if (typeof res.url === "string" && /^https?:\/\//.test(res.url) && !res.url.includes("news.google.")) it.url = res.url;
-        done++;
-        delete it.bodyTries;
-      } else it.bodyTried = true;
-    } catch (e) { log(`full text "${(it.title.ru || it.title.en || "").slice(0, 40)}": ${e.message}`); it.bodyTries = (it.bodyTries || 0) + 1; }
+  const order = [...items].sort((a, b) => String(b.added || "").localeCompare(String(a.added || "")))
+    .filter((it) => !it.body && !it.bodyTried && (it.bodyTries || 0) < 2).slice(0, MAX_BODIES);
+  let done = 0, next = 0;
+  async function worker() {
+    while (next < order.length) {
+      const it = order[next++];
+      try {
+        const res = await writeBody(it);
+        if (res && res.body && (res.body.ru || res.body.en)) {
+          it.body = langObj(res.body, { lang: "en", value: res.body.en || res.body.ru });
+          if (Array.isArray(res.facts) && res.facts.length) it.facts = res.facts.slice(0, 3).filter((f) => f && f.k && f.v);
+          if (typeof res.url === "string" && /^https?:\/\//.test(res.url) && !res.url.includes("news.google.")) it.url = res.url;
+          delete it.bodyTries; done++;
+        } else it.bodyTried = true;
+      } catch (e) { log(`full text "${(it.title.ru || it.title.en || "").slice(0, 40)}": ${e.message}`); it.bodyTries = (it.bodyTries || 0) + 1; }
+    }
   }
-  log(`full texts written: ${done} of ${tried}`);
+  await Promise.all(Array.from({ length: Math.min(4, order.length) }, worker)); // 4 articles at a time
+  log(`full texts written: ${done} of ${order.length}`);
   return done;
 }
 
