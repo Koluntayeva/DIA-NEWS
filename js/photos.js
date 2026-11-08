@@ -32,7 +32,13 @@ const STOCK={
  run:PH("World Diabetes Day Fun Run in Maldives (150).jpg","The President's Office, Maldives",""),
 };
 const CAT_PHOTOS={devices:["up_patch1","up_patch2","libre7","mg_person1","cgm14","libre5","pump780","libre2"],drugs:["up_person","mg_person2","pen1","pen3","mg_woman2"],access:["mg_doctor","mg_woman2","doc3"],approval:["mg_doctor","doc1","doc4","libre3app"],research:["lab1","lab2","doc5"],market:["up_patch2","libre3app","pump780","libre2"],events:["run","walk"],community:["walk","run","mg_woman2"]}
-const POOL=Object.keys(STOCK);let PHOTO_MAP=new Map(),PHOTO_SIG="";
+/* Pexels pool from data/news.js (refreshed by the daily script): when present it replaces the old Commons/Magnific photos */
+;(()=>{const pp=typeof DIA_NEWS!=="undefined"&&DIA_NEWS.photoPool;if(!pp)return;
+  for(const c of Object.keys(CAT_PHOTOS)){const list=Array.isArray(pp[c])?pp[c]:[];if(list.length<3)continue;
+    const keys=list.map(ph=>{const k="px_"+ph.id;STOCK[k]={url:ph.url,credit:ph.credit,license:ph.license||"Pexels",link:ph.link};return k});
+    const own=CAT_PHOTOS[c].filter(k=>k.startsWith("up_"));CAT_PHOTOS[c]=keys.concat(own)}
+})();
+const POOL=[...new Set(Object.values(CAT_PHOTOS).flat())];let PHOTO_MAP=new Map(),PHOTO_SIG="";
 function assignPhotos(){const sig=items.map(i=>i._id+i.cat).join(",");if(sig===PHOTO_SIG)return;PHOTO_SIG=sig;PHOTO_MAP=new Map();const used=new Set();
   for(const it of items){const pref=(CAT_PHOTOS[it.cat]||[]).concat(POOL);let k=pref.find(p=>!used.has(p));if(!k){used.clear();k=pref[0]}used.add(k);PHOTO_MAP.set(it._id,k)}}
 function stockFor(it){assignPhotos();return STOCK[PHOTO_MAP.get(it._id)]||STOCK.mg_woman1}
