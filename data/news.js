@@ -7,8 +7,47 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-08T12:48:49.190Z",
+ "updated": "2026-11-08T12:54:36.346Z",
  "items": [
+  {
+   "id": "nVUU_b2M9NQ",
+   "cat": "access",
+   "stage": "report",
+   "date": "2026-11-08",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "В Уфе ребенок с диабетом остался без инсулина",
+    "en": "Child with diabetes left without insulin in Ufa",
+    "kk": "Уфада қант диабеті бар бала инсулинсіз қалды",
+    "de": "Diabetisches Kind in Ufa ohne Insulin",
+    "es": "Niño con diabetes se queda sin insulina en Ufa"
+   },
+   "text": {
+    "ru": "Семья ребенка с сахарным диабетом столкнулась с отсутствием инсулина в Уфе.",
+    "en": "The family of a child with diabetes faced a lack of insulin in Ufa.",
+    "kk": "Уфада қант диабеті бар баланың отбасы инсулин жетіспеушілігіне тап болды.",
+    "de": "Die Familie eines Kindes mit Diabetes stand in Ufa ohne Insulin da.",
+    "es": "La familia de un niño con diabetes se enfrentó a la falta de insulina en Ufa."
+   },
+   "url": "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
+   "src": "Gorobzor",
+   "photoQuery": "insulin pen close-up",
+   "photo": {
+    "id": "u_NiXMv9iFN1c",
+    "url": "https://images.unsplash.com/photo-1745939912168-cc7333d65327?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQxNDI0NzZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-blue-insulin-pen-rests-on-a-white-surface-NiXMv9iFN1c?utm_source=dia_news&utm_medium=referral",
+    "alt": "A blue insulin pen rests on a white surface"
+   },
+   "body": {
+    "ru": "8 ноября 2026 года прокуратура Советского района Уфы вступилась за права ребенка-инвалида, больного сахарным диабетом. Об этом сообщила пресс-служба ведомства, а новость опубликовал портал «Горобзор». Поводом стало то, что ребенок оставался без необходимых препаратов.\n\nПроверка показала, что ребенку необходимы постоянный прием инсулина и специальные медицинские изделия. Однако поставки по льготной программе регулярно срывались. Из-за того, что нужных лекарств не было в аптеках, законному представителю ребенка приходилось покупать их на собственные деньги.\n\nПрокуратура обратилась в суд с иском: вернуть потраченные средства и взыскать компенсацию морального вреда. Суд полностью удовлетворил требования ведомства, и все расходы вместе с положенной компенсацией уже выплачены отцу ребенка.\n\nВ публикации не указаны сумма затрат, возраст ребенка, сроки перебоев и названия препаратов. Также не сообщается о мерах, которые помогут избежать подобных перебоев в будущем. Поскольку выплаты уже произведены, дальнейшие шаги по делу не описаны.",
+    "en": "On 8 November 2026, the Soviet District Prosecutor's Office in Ufa stepped in to protect the rights of a disabled child with diabetes. The office's press service announced it, and the Gorobzor news portal reported the case. The trigger was that the child had been left without the medicines it needed.\n\nThe check established that the child needs constant insulin and special medical supplies. However, supplies under the state benefit programme were repeatedly interrupted. Because the medicines were missing from pharmacies, the child's legal representative had to pay for them personally.\n\nThe prosecutors filed a lawsuit seeking repayment of the money spent and compensation for moral harm. The court fully upheld the agency's demands, and all costs plus the due compensation have already been paid to the child's father.\n\nThe report does not give the amount spent, the child's age, the timing of the interruptions or the names of the medicines. It also does not mention any measures to prevent future shortages. Since the payments have already been made, no further steps in the case are described.",
+    "kk": "2026 жылдың 8 қарашасында Уфа қаласының Советский ауданы прокуратурасы қант диабеті бар мүгедек баланың құқығын қорғауға араласты. Бұл туралы ведомствоның баспасөз қызметі хабарлады, ал оқиғаны «Горобзор» порталы жариялады. Себебі — баланың қажетті дәрісіз қалуы.\n\nТексеру барысында баланың тұрақты түрде инсулин мен арнайы медициналық бұйымдарды қабылдауы қажет екені анықталды. Алайда жеңілдетілген бағдарлама бойынша жеткізілім жиі үзіліп отырған. Дәрілер дәріханаларда болмағандықтан, баланың заңды өкілі оларды өз қаражатына сатып алуға мәжбүр болған.\n\nПрокуратура сотқа талап арызын берді: жұмсалған ақшаны қайтаруды және моральдық зиянға өтемақы төлеуді сұрады. Сот ведомствоның талаптарын толық қанағаттандырды, ал барлық шығын мен тиісті өтемақы баланың әкесіне қазірдің өзінде төленген.\n\nХабарда жұмсалған соманың мөлшері, баланың жасы, үзілістердің мерзімі және дәрілердің атаулары көрсетілмеген. Болашақта мұндай тапшылықтың алдын алу шаралары туралы да айтылмайды. Төлемдер жасалғандықтан, іс бойынша одан әрі қадамдар сипатталмаған.",
+    "de": "Am 8. November 2026 setzte sich die Staatsanwaltschaft des Sowjetski-Bezirks in Ufa für die Rechte eines behinderten Kindes mit Diabetes ein. Die Behörde teilte dies über ihren Pressedienst mit; berichtet hat das Nachrichtenportal Gorobzor. Auslöser war, dass dem Kind die nötigen Medikamente fehlten.\n\nEs stellte sich heraus, dass das Kind dauerhaft Insulin und spezielle medizinische Hilfsmittel benötigt. Die Versorgung im Rahmen des Vergünstigungsprogramms kam jedoch immer wieder ins Stocken. Weil die Präparate in den Apotheken fehlten, musste der gesetzliche Vertreter des Kindes sie selbst bezahlen.\n\nDie Staatsanwaltschaft reichte Klage ein mit der Forderung, das ausgegebene Geld zurückzuerstatten und eine Entschädigung für immateriellen Schaden zuzusprechen. Das Gericht gab den Forderungen der Behörde vollständig statt; alle Kosten sowie die zustehende Entschädigung wurden bereits an den Vater des Kindes ausgezahlt.\n\nDie Meldung nennt weder die Höhe der Ausgaben noch das Alter des Kindes, die Dauer der Lieferausfälle oder die Namen der Präparate. Auch Maßnahmen gegen künftige Engpässe werden nicht erwähnt. Da die Zahlungen bereits erfolgt sind, werden keine weiteren Schritte im Verfahren beschrieben.",
+    "es": "El 8 de noviembre de 2026, la Fiscalía del distrito Soviético de Ufa intervino para proteger los derechos de un niño con discapacidad que tiene diabetes. Así lo comunicó el servicio de prensa del organismo, y la noticia fue publicada por el portal Gorobzor. El detonante fue que el menor se había quedado sin los medicamentos que necesitaba.\n\nSe constató que el niño necesita insulina de forma permanente y dispositivos médicos especiales. Sin embargo, el suministro dentro del programa de prestaciones se interrumpía con frecuencia. Como los fármacos no estaban disponibles en las farmacias, el representante legal tuvo que pagarlos de su propio bolsillo.\n\nLa fiscalía presentó una demanda para recuperar el dinero gastado y obtener una indemnización por daño moral. El tribunal estimó por completo las pretensiones del organismo, y tanto los gastos como la compensación correspondiente ya han sido abonados al padre del niño.\n\nLa información no indica el monto de los gastos, la edad del menor, la duración de los cortes ni los nombres de los medicamentos. Tampoco menciona medidas para evitar futuras faltas de suministro. Como los pagos ya se realizaron, no se describen más pasos en el caso."
+   }
+  },
   {
    "id": "nbTg_b2M9NQ",
    "cat": "access",
@@ -29,7 +68,7 @@ const DIA_NEWS={
     "de": "Nach einer Klage der Staatsanwaltschaft wurde dem Vater eines diabetischen Kindes aus Ufa das für Insulin gezahlte Geld erstattet.",
     "es": "Tras una demanda de la fiscalía, al padre de un niño con diabetes de Ufa le devolvieron el dinero pagado por insulina."
    },
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd21IVGE5MzV0MG8zaEVwM2hWcmplY3h0eS1SSG5KRV9YbjJVODFoMUswTGw0V2hpUGdpQnRtZDNzTjRxOEVnZ0JsMmFGblJmQ1QwVklNQjBjazFaMElZNmFLVFpUM3piclMxM05pNmlFaUFERnV2Q01qRks4eXlFcF96MDREdTN3ZFREOENPMEk5NFREOGJyakg2ZjZnNDVpbGlwY19OOElvem8?oc=5",
+   "url": "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
    "src": "Ньюс-Баш",
    "photoQuery": "insulin pen close-up",
    "photo": {
@@ -39,6 +78,13 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=dia_news&utm_medium=referral",
     "alt": "A semaglutide injection pen is shown"
+   },
+   "body": {
+    "ru": "Прокуратура Советского района Уфы выступила в защиту прав ребёнка-инвалида, больного сахарным диабетом. Об этом сообщили в пресс-службе ведомства. По его данным, ребёнку постоянно необходимы инсулин и специальные медицинские изделия.\n\nПо льготной программе эти препараты должны поступать регулярно, однако поставки неоднократно срывались. Из-за того, что нужных лекарств не было в аптеках, законный представитель ребёнка вынужден был покупать их на собственные деньги.\n\nПрокуратура обратилась в суд с иском: потребовала вернуть уже потраченные средства и взыскать компенсацию морального вреда. Суд полностью удовлетворил требования надзорного ведомства. Согласно публикации, все расходы и положенная компенсация уже выплачены отцу ребёнка.\n\nВ материале не указаны сумма возмещения и размер компенсации, название суда и дата решения, а также продолжительность перебоев с поставками. Дальнейшие шаги после выплаты не описаны, поэтому нынешнее положение семьи из этого источника установить нельзя.",
+    "en": "Prosecutors in the Sovetsky district of Ufa have stepped in to protect the rights of a disabled child with diabetes, the district prosecutor's office said in a press statement. According to the agency, the child constantly needs insulin and special medical products.\n\nUnder the state benefit programme these supplies should arrive on a regular basis, but deliveries were repeatedly disrupted. Because the required medicines were not available at pharmacies, the child's legal representative had to buy them with personal funds.\n\nThe prosecutor's office brought a lawsuit seeking repayment of the money already spent and compensation for moral harm. The court fully upheld the agency's claims. According to the report, all costs and the awarded compensation have already been paid to the child's father.\n\nThe article does not state the refunded amount or the size of the compensation, the name of the court or the date of the ruling, or how long the supply gaps lasted. It also does not describe any steps after the payment, so the family's current situation cannot be established from this source.",
+    "kk": "Уфа қаласының Советский ауданы прокуратурасы қант диабеті бар мүгедек баланың құқығын қорғауға кірісті. Бұл туралы ведомствоның баспасөз қызметі хабарлады. Оның мәліметінше, балаға үнемі инсулин мен арнайы медициналық бұйымдар қажет.\n\nЖеңілдікті бағдарлама бойынша бұл препараттар тұрақты түрде жеткізілуі тиіс, бірақ жеткізу бірнеше рет үзілген. Дәріханаларда қажетті дәрілер болмағандықтан, баланың заңды өкілі оларды өз қаражатына сатып алуға мәжбүр болған.\n\nПрокуратура жұмсалған қаражатты қайтаруды және моральдық зиянға өтемақы төлеуді талап етіп, сотқа арыз берді. Сот ведомствоның талаптарын толық қанағаттандырды. Жарияланымға сәйкес, барлық шығын мен тағайындалған өтемақы баланың әкесіне қазірдің өзінде төленген.\n\nМатериалда қайтарылған сома мен өтемақы көлемі, соттың атауы мен шешім күні, сондай-ақ жеткізудегі үзілістердің ұзақтығы көрсетілмеген. Төлемнен кейінгі қадамдар сипатталмаған, сондықтан отбасының қазіргі жағдайын осы дерек көзінен анықтау мүмкін емес.",
+    "de": "Die Staatsanwaltschaft des Sowjetski-Bezirks in Ufa hat sich für die Rechte eines behinderten Kindes mit Diabetes eingesetzt, wie die Behörde über ihren Pressedienst mitteilte. Nach deren Angaben benötigt das Kind dauerhaft Insulin und spezielle medizinische Produkte.\n\nIm Rahmen des vergünstigten staatlichen Programms sollten diese Mittel regelmäßig geliefert werden, doch es kam wiederholt zu Lieferunterbrechungen. Weil die nötigen Präparate in den Apotheken fehlten, musste der gesetzliche Vertreter des Kindes sie aus eigenen Mitteln bezahlen.\n\nDie Staatsanwaltschaft reichte eine Klage ein und forderte die Rückzahlung der bereits ausgegebenen Summe sowie eine Entschädigung für immateriellen Schaden. Das Gericht gab den Forderungen der Behörde vollständig statt. Laut Bericht wurden sämtliche Kosten und die zugesprochene Entschädigung dem Vater des Kindes bereits ausgezahlt.\n\nDer Artikel nennt weder den erstatteten Betrag noch die Höhe der Entschädigung, den Namen des Gerichts oder das Datum der Entscheidung und auch nicht die Dauer der Versorgungslücken. Schritte nach der Zahlung werden ebenfalls nicht beschrieben, sodass die aktuelle Lage der Familie aus dieser Quelle allein nicht feststellbar ist.",
+    "es": "La Fiscalía del distrito Sovetski de Ufa, en Baskortostán (Rusia), intervino para defender los derechos de un niño con discapacidad y diabetes, según informó el propio organismo a través de su servicio de prensa. Según esa información, el menor necesita de forma constante insulina y productos médicos específicos.\n\nEn el marco del programa estatal de prestaciones, estos suministros deberían llegar de manera regular, pero las entregas se interrumpieron en repetidas ocasiones. Como los medicamentos necesarios no estaban disponibles en las farmacias, el representante legal del niño tuvo que comprarlos con su propio dinero.\n\nLa fiscalía presentó una demanda para exigir la devolución del dinero ya gastado y una indemnización por daño moral. El tribunal estimó íntegramente las pretensiones del organismo. Según el informe, todos los gastos y la indemnización reconocida ya han sido abonados al padre del menor.\n\nEl texto no indica la cantidad reembolsada ni el monto de la indemnización, tampoco el nombre del tribunal, la fecha de la resolución ni cuánto duraron los retrasos en el suministro. Tampoco describe medidas posteriores al pago, por lo que la situación actual de la familia no puede establecerse solo con esta fuente."
    }
   },
   {
@@ -71,7 +117,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/chest-x-ray-of-rib-cage-tHS9j3HWT1s?utm_source=dia_news&utm_medium=referral",
     "alt": "A chest X-ray showing the rib cage, lungs, and heart structure"
-   }
+   },
+   "bodyTried": true
   },
   {
    "id": "nG8wP29jPTU",
@@ -103,7 +150,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/foot-massage-with-oil-nhEIkQVj0iI?utm_source=dia_news&utm_medium=referral",
     "alt": "Hands massaging a foot with oil on a white towel"
-   }
+   },
+   "bodyTried": true
   },
   {
    "id": "nTBNP29jPTU",
@@ -127,7 +175,8 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmVHS0ZpbmlYM0NBYVYtR3dFSDRZYl9kOGNEd2o4MXlDNGZKT2ItazBVaWZjMzBodzhTWmJvWlVXNDZfR1d6SUJrbElHTVhCNlk0VmpDaWdxQ3ZjRzVVN21fU3ZXRkZFUENBbm9NUXFvU1doYVp0Nk8yb1lHMGRSRjNUZkJ0WVd5TzlweWt1OEtYOW96ODJPQUlDTmpNTy1EeS1ZNS1HNWVPT19HQjJObGFuNDNyOUpfaDgzZUc1U0M?oc=5",
    "src": "Bioengineer.org",
-   "photoQuery": "blood glucose meter testing"
+   "photoQuery": "blood glucose meter testing",
+   "bodyTried": true
   },
   {
    "id": "nOUo_b2M9NQ",
@@ -149,7 +198,7 @@ const DIA_NEWS={
     "de": "Ärzte aus der Region Orjol erklärten Eltern, auf welche Anzeichen von Diabetes bei Kindern sie achten sollten.",
     "es": "Los médicos de la región de Oriol explicaron a los padres qué signos de diabetes en los niños deben vigilar."
    },
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXV6Ukc3TWhMNS1wTk9XWVA3Q2U0cXlFUi1zT2lhWGVtOUtMeTl5a2xEd1R1dER0by0xOFNCcksybXQ4OHpVdk42T1g0NlVVc1c4Q1lkUzE5WHlyNHl0RlBIdGV2Y3NaYW0takdsbDNZTFRXSHBiWS1QaFoxc1hUZmFscDFsYXR5RUZod0N5V1MxSWNxdnpWaF9KQ1MzT0nSAZ8BQVVfeXFMTzV1elJHN01oTDUtcE5PV1lQN0NlNHF5RVItc09pYVhlbTlLTHk5eWtsRHdUdXREdG8tMThTQnJLMm10ODh6VXZONk9YNDZVVXNXOENZZFMxOVh5cjR5dEZQSHRldmNzWmFtLWpHbGwzWUxUV0hwYlktUGhaMXNYVGZhbHAxbGF0eUVGaHdDeVdTMUljcXZ6VmhfSkNTM09J?oc=5",
+   "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
    "src": "\"Орелтаймс\"",
    "photoQuery": "pediatrician checking child",
    "photo": {
@@ -159,7 +208,154 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/a-young-child-is-being-examined-by-a-doctor-fx9RJgZYRUE?utm_source=dia_news&utm_medium=referral",
     "alt": "a young child is being examined by a doctor"
-   }
+   },
+   "body": {
+    "ru": "Врачи БУЗ Орловской области «Колпнянская ЦРБ» рассказали, как распознать сахарный диабет у детей. Об этом 8 ноября 2026 года сообщил «Орелтаймс». По их словам, случаи заболевания всё чаще фиксируются у детей и молодёжи. Болезнь может маскироваться под обычную усталость или активный рост, а откладывание диагностики чревато тяжёлыми последствиями.\n\nЧаще всего у детей встречается диабет 1-го типа — аутоиммунное заболевание, при котором организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у людей до 35–40 лет. Диабет 2-го типа, по словам медиков, тоже «молодеет» из-за эпидемии ожирения, фастфуда и малоподвижного образа жизни. У детей с ожирением на начальных этапах повышен уровень инсулина; лечение направлено на снижение инсулинорезистентности: диета без рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками врачи называют то, что ребёнок больше пьёт и ест, чаще ходит в туалет, резко худеет и жалуется на слабость без видимой причины. Родители нередко объясняют это нагрузкой в школе или тем, что подросток быстро растёт. Без инсулина глюкоза не поступает из крови в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. Как предупреждают врачи, это требует госпитализации в реанимацию, а в тяжёлых случаях может привести к инвалидности или гибели ребёнка.\n\nВ заключение специалисты призывают родителей внимательнее относиться к симптомам и вовремя обращаться к врачам, поскольку чем раньше поставлен диагноз, тем больше возможностей для эффективного лечения и профилактики осложнений. Автор материала — Дарья Панова.",
+    "en": "Doctors at the Kolpna Central District Hospital (BUZ of the Oryol Region «Kolpnyanskaya CRB») have explained how to recognise diabetes in children, according to a report by the Oryol Times published on 8 November 2026. They say cases are increasingly being recorded among children and young people. The illness can be disguised as ordinary tiredness or rapid growth, and delaying diagnosis can have serious consequences.\n\nType 1 diabetes is the most common form in children. It is an autoimmune condition in which the body destroys the insulin-producing beta cells of the pancreas. It usually appears between the ages of 4 and 14, but it can also emerge later, including in people up to 35–40 years old. According to doctors, type 2 diabetes is also appearing at younger ages, driven by the obesity epidemic, fast food and sedentary lifestyles. In children with obesity, insulin levels are initially raised, and treatment aims to reduce insulin resistance through a diet without refined carbohydrates, less fat and more physical activity.\n\nThe warning signs doctors point to are a child drinking and eating more, urinating more often, losing weight sharply, and complaining of weakness without an obvious cause. Parents often attribute these to school workload or a teenager growing fast. Without insulin, glucose cannot move from the blood into the tissues, so the body starts burning fat and protein, ketone bodies build up and ketoacidosis develops. Doctors warn that this requires intensive care hospitalisation and, in severe cases, can lead to disability or the death of the child.\n\nIn conclusion, the specialists urge parents to pay closer attention to symptoms and see a doctor in time, since the earlier a diagnosis is made, the greater the options for effective treatment and for preventing complications. The article is by Daria Panova.",
+    "kk": "Орел облысындағы «Колпнянская ЦРБ» дәрігерлері балалардағы қант диабетін қалай анықтау керектігін түсіндірді. Бұл туралы «Орелтаймс» 2026 жылғы 8 қарашада хабарлады. Олардың айтуынша, балалар мен жастар арасында ауру жағдайлары барған сайын көбеюде. Ауру әдеттегі шаршау немесе белсенді өсу сияқты көрінуі мүмкін, ал диагнозды кешіктіру ауыр салдарға әкелуі мүмкін.\n\nБалаларда ең жиі 1-түрдегі диабет кездеседі. Бұл аутоиммундық ауру, онда ағза ұйқы безінің инсулин шығаратын бета-жасушаларын жояды. Ол әдетте 4-тен 14 жасқа дейін білінеді, бірақ кейінірек, соның ішінде 35–40 жасқа дейінгі адамдарда да пайда болуы мүмкін. Дәрігерлердің айтуынша, 2-түрдегі диабет те семіздік эпидемиясы, фастфуд және қозғалыссыз өмір салты себепті жас арасында кездесе бастаған. Семіз балаларда бастапқы кезеңде инсулин деңгейі жоғарылайды; емдеу инсулинге төзімділікті азайтуға бағытталған: рафинадталған көмірсуы жоқ диета, аз май және көбірек дене белсенділігі.\n\nДәрігерлер ескерту белгілері ретінде баланың көбірек ішіп-жеп, жиі дәретханаға баруын, күрт арықтауын және себепсіз әлсіздікке шағымдануын атайды. Ата-аналар мұны мектептегі жүктеме немесе жасөспірімнің тез өсуімен түсіндіреді. Инсулинсіз глюкоза қаннан тіндерге өте алмайды, сондықтан ағза майлар мен ақуыздарды жағуға көшеді, кетон денелері жиналып, кетоацидоз дамиды. Дәрігерлердің ескертуінше, бұл реанимацияға жатқызуды талап етеді және ауыр жағдайда баланы мүгедектікке немесе өлімге әкелуі мүмкін.\n\nҚорытындыда мамандар ата-аналарды белгілерге мұқият қарауға және уақытында дәрігерге жүгінуге шақырады, себебі диагноз неғұрлым ертерек қойылса, тиімді емдеу мүмкіндігі соғұрлым көп болады және асқыныстардың алдын алуға болады. Материалдың авторы — Дарья Панова.",
+    "de": "Ärzte aus der Region Orjol haben erklärt, wie sich Diabetes bei Kindern erkennen lässt, berichtete die Zeitung Oreltimes am 8. November 2026. Laut der Kreisklinik Kolpna (BUZ der Region Orjol „Kolpnjanskaja CRB“) werden Fälle bei Kindern und jungen Menschen immer häufiger registriert. Die Krankheit kann sich hinter gewöhnlicher Müdigkeit oder schnellem Wachstum verbergen, und eine verzögerte Diagnose kann schwerwiegende Folgen haben.\n\nAm häufigsten tritt bei Kindern Typ-1-Diabetes auf, eine Autoimmunerkrankung, bei der der Körper die insulinbildenden Beta-Zellen der Bauchspeicheldrüse zerstört. Sie zeigt sich meist zwischen 4 und 14 Jahren, kann aber auch später auftreten, auch bei Menschen bis 35 bis 40 Jahre. Auch Typ-2-Diabetes tritt laut Medizinern durch die Adipositas-Epidemie, Fast Food und Bewegungsmangel in immer jüngerem Alter auf. Bei übergewichtigen Kindern ist der Insulinspiegel in den Anfangsstadien erhöht; die Behandlung zielt auf eine geringere Insulinresistenz ab, etwa durch eine Ernährung ohne raffinierte Kohlenhydrate, weniger Fett und mehr Bewegung.\n\nAls Warnzeichen nennen die Ärzte, dass das Kind mehr trinkt und isst, häufiger zur Toilette muss, stark abnimmt und ohne erkennbaren Grund über Schwäche klagt. Eltern führen dies oft auf Schulbelastung oder das schnelle Wachstum eines Teenagers zurück. Ohne Insulin kann Glukose nicht aus dem Blut in das Gewebe gelangen; der Körper verbrennt dann Fette und Eiweiße, Ketonkörper sammeln sich an und es kommt zur Ketoazidose. Die Ärzte warnen, dass dies eine Behandlung auf der Intensivstation erfordert und in schweren Fällen zu Behinderung oder zum Tod des Kindes führen kann.\n\nZum Schluss fordern die Fachleute Eltern auf, Symptome genauer zu beobachten und rechtzeitig einen Arzt aufzusuchen, denn je früher die Diagnose gestellt wird, desto größer sind die Möglichkeiten einer wirksamen Behandlung und der Vorbeugung von Komplikationen. Die Autorin des Beitrags ist Daria Panowa.",
+    "es": "Médicos de la región de Oriol explicaron cómo reconocer la diabetes en niños, según informó Oreltimes el 8 de noviembre de 2026. Según el hospital distrital de Kolpna (BUZ de la región de Oriol «Kolpnyanskaya CRB»), cada vez se registran más casos en niños y jóvenes. La enfermedad puede disimularse como cansancio común o crecimiento acelerado, y retrasar el diagnóstico puede tener consecuencias graves.\n\nLa forma más frecuente en niños es la diabetes tipo 1, una enfermedad autoinmune en la que el organismo destruye las células beta del páncreas que producen insulina. Suele manifestarse entre los 4 y los 14 años, aunque también puede aparecer más tarde, incluso hasta los 35–40 años. Según los médicos, la diabetes tipo 2 también se presenta a edades más tempranas por la epidemia de obesidad, la comida rápida y el sedentarismo. En niños con obesidad, el nivel de insulina está elevado en las primeras etapas; el tratamiento busca reducir la resistencia a la insulina con una dieta sin carbohidratos refinados, menos grasas y más actividad física.\n\nEntre las señales de alerta que señalan los médicos están que el niño beba y coma más, orine con más frecuencia, pierda peso bruscamente y se queje de debilidad sin una causa evidente. Los padres suelen atribuir estos síntomas a la carga escolar o al estirón de un adolescente. Sin insulina, la glucosa no pasa de la sangre a los tejidos, por lo que el cuerpo quema grasas y proteínas, se acumulan cuerpos cetónicos y aparece la cetoacidosis. Los médicos advierten de que esto exige hospitalización en cuidados intensivos y que, en casos graves, puede causar discapacidad o la muerte del niño.\n\nPara concluir, los especialistas piden a los padres prestar más atención a los síntomas y acudir al médico a tiempo, ya que cuanto antes se haga el diagnóstico, mayores son las opciones de un tratamiento eficaz y de prevenir complicaciones. El texto es de Daria Panova."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Типичный возраст начала диабета 1-го типа",
+      "en": "Typical onset age for type 1 diabetes",
+      "kk": "1-түрдегі диабеттің әдеттегі басталу жасы",
+      "de": "Typisches Erkrankungsalter bei Typ-1-Diabetes",
+      "es": "Edad típica de inicio de la diabetes tipo 1"
+     },
+     "v": {
+      "ru": "от 4 до 14 лет",
+      "en": "4 to 14 years",
+      "kk": "4-тен 14 жасқа дейін",
+      "de": "4 bis 14 Jahre",
+      "es": "de 4 a 14 años"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возможный возраст проявления диабета в более позднем возрасте",
+      "en": "Possible later onset of diabetes",
+      "kk": "Кейінірек білінуі мүмкін жас шегі",
+      "de": "Mögliches späteres Erkrankungsalter",
+      "es": "Posible inicio más tardío de la enfermedad"
+     },
+     "v": {
+      "ru": "до 35–40 лет",
+      "en": "up to 35–40 years",
+      "kk": "35–40 жасқа дейін",
+      "de": "bis 35–40 Jahre",
+      "es": "hasta los 35–40 años"
+     }
+    }
+   ]
+  },
+  {
+   "id": "n1dRP29jPTU",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-07",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "Финское исследование: число случаев диабета 1 типа у детей снизилось после локдауна",
+    "en": "Finnish study finds childhood type 1 diabetes fell after lockdown",
+    "kk": "Финляндиялық зерттеу: локдауннан кейін балалардағы 1 типті қант диабеті жағдайлары азайған",
+    "de": "Finnische Studie: Typ-1-Diabetes bei Kindern ging nach dem Lockdown zurück",
+    "es": "Estudio finlandés: los casos de diabetes tipo 1 infantil disminuyeron tras el confinamiento"
+   },
+   "text": {
+    "ru": "Наблюдательное исследование из Финляндии показало снижение заболеваемости диабетом 1 типа у детей после периода карантинных ограничений.",
+    "en": "An observational study from Finland reports a decline in childhood type 1 diabetes after the lockdown period.",
+    "kk": "Финляндиядан жүргізілген бақылау зерттеуі карантин шектеулерінен кейінгі кезеңде балалардағы 1 типті қант диабетінің азайғанын көрсетті.",
+    "de": "Eine Beobachtungsstudie aus Finnland berichtet über einen Rückgang von Typ-1-Diabetes bei Kindern nach der Lockdown-Phase.",
+    "es": "Un estudio observacional de Finlandia informa de un descenso de la diabetes tipo 1 infantil tras el periodo de confinamiento."
+   },
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVJKckVQSVlNQ2VxWTdyTEw5MDlkTlh0NUFYbjFWZlJ0d2pPdzdmbHVMdmRiMWdpLVJwcUc5UDc5LVlxZnJLQUtLSmJVcElIQ04xbGpaUE5fZnF6OEI3aV9zaUlkQzV0LU9ZOWZYUkd2YS13QzRfY1BQU0dnVUJjT2tscUFFenFPOFJYejlHNVlUZjFDLTFaVTh0ZkJIMl9fUHdSRExGWQ?oc=5",
+   "src": "Bioengineer.org",
+   "photoQuery": "scientist laboratory research",
+   "photo": {
+    "id": "u_8yS04veb1TQ",
+    "url": "https://images.unsplash.com/photo-1581093577421-f561a654a353?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8c2NpZW50aXN0JTIwbGFib3JhdG9yeSUyMHJlc2VhcmNofGVufDF8MHx8fDE3OTQxNDI0NzZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "ThisisEngineering",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/scientist-using-laptop-in-laboratory-8yS04veb1TQ?utm_source=dia_news&utm_medium=referral",
+    "alt": "A scientist in a white lab coat using a laptop in a laboratory"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nVuYz9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-07",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "Врачи Кубани проведут бесплатные обследования для снижения риска диабета",
+    "en": "Kuban doctors to offer free examinations to reduce diabetes risk",
+    "kk": "Кубань дәрігерлері диабет қаупін азайту үшін тегін тексерулер жүргізеді",
+    "de": "Ärzte in Kuban bieten kostenlose Untersuchungen zur Senkung des Diabetesrisikos an",
+    "es": "Médicos de Kubán ofrecerán exámenes gratuitos para reducir el riesgo de diabetes"
+   },
+   "text": {
+    "ru": "Врачи Кубани проведут бесплатные обследования, направленные на снижение риска диабета.",
+    "en": "Doctors in the Kuban region will hold free examinations aimed at reducing diabetes risk.",
+    "kk": "Кубань дәрігерлері диабет қаупін төмендетуге бағытталған тегін тексерулер өткізеді.",
+    "de": "Ärzte der Region Kuban führen kostenlose Untersuchungen zur Verringerung des Diabetesrisikos durch.",
+    "es": "Los médicos de la región de Kubán realizarán exámenes gratuitos para reducir el riesgo de diabetes."
+   },
+   "url": "https://kuban.bfm.ru/news/64712",
+   "src": "BFM Кубань",
+   "photoQuery": "medical checkup doctor stethoscope",
+   "photo": {
+    "id": "u_hIgeoQjS_iE",
+    "url": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGNoZWNrdXAlMjBkb2N0b3IlMjBzdGV0aG9zY29wZXxlbnwxfDB8fHwxNzk0MTQyNDc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Online Marketing",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-holding-red-stethoscope-hIgeoQjS_iE?utm_source=dia_news&utm_medium=referral",
+    "alt": "doctor holding red stethoscope"
+   },
+   "body": {
+    "ru": "Неделя, посвящённая борьбе с диабетом, пройдёт в Краснодарском крае с 9 по 15 ноября. По данным BFM Кубань, на протяжении семи дней врачи будут объяснять жителям, как предотвратить это заболевание.\n\nВ программу входят выезды мобильного центра скрининговой диагностики и занятия школы здоровья, где речь пойдёт о профилактике сахарного диабета и его осложнений. Площадки для обследований появятся в Краснодаре, Новороссийске, а также в Славянском, Тимашевском и Тбилисском районах.\n\nСпециалисты напоминают: контроль уровня сахара в крови, сбалансированное питание, регулярные физические нагрузки и своевременные проверки помогают держать риски под контролем. Андрей Сахаров, главный внештатный специалист по медицинской профилактике минздрава края, объясняет, что эти меры уменьшают вероятность болезни и её последствий.\n\nВ заголовке обследования названы бесплатными. В доступной версии текста не указаны часы работы и точные адреса каждой площадки, поэтому перед визитом стоит уточнить детали в местной поликлинике или у органов здравоохранения.",
+    "en": "A week devoted to the fight against diabetes will take place in Krasnodar Krai from 9 to 15 November. According to BFM Kuban, over the course of seven days doctors will explain to residents how this disease can be prevented.\n\nThe programme includes trips by a mobile screening diagnostics centre and sessions at a health school, where the focus will be on preventing diabetes and its complications. Examination sites will be set up in Krasnodar, Novorossiysk, and in the Slavyansky, Timashevsky and Tbilissky districts.\n\nSpecialists remind people that monitoring blood sugar levels, eating a balanced diet, staying physically active and getting check-ups on time help keep risks under control. Andrey Sakharov, the region's chief freelance specialist in medical prevention, explains that these measures reduce the likelihood of the illness and its consequences.\n\nThe headline describes the examinations as free. The available version of the text does not give opening hours or exact addresses for each site, so it is worth checking details with a local clinic or the health authorities before visiting.",
+    "kk": "Қант диабетімен күресу апталығы Краснодар өлкесінде 9-нан 15 қарашаға дейін өтеді. BFM Kuban хабарлағанындай, жеті күн бойы дәрігерлер тұрғындарға бұл ауруды қалай алдын алуға болатынын түсіндіреді.\n\nБағдарламаға скринингтік диагностиканың жылжымалы орталығының сапарлары және денсаулық мектебінің сабақтары кіреді; мектепте қант диабетінің және оның асқынуларының алдын алу туралы әңгіме болады. Тексеру алаңдары Краснодарда, Новороссийскіде, сондай-ақ Славян, Тимашев және Тбилис аудандарында ашылады.\n\nМамандар қан қантының деңгейін бақылаудың, теңгерімді тамақтанудың, тұрақты дене белсенділігінің және уақытылы тексеруден өтудің тәуекелдерді бақылауда ұстауға көмектесетінін еske салады. Өлкенің медициналық профилактика жөніндегі бас сырттай маманы Андрей Саharов бұл шаралар аурудың және оның салдарының ықтималдығын азайтатынын түсіндіреді.\n\nТақырыпта тексерулер тегін деп көрсетілген. Қолжетімді мәтінде әр алаңның жұмыс уақыты мен нақты мекенжайлары берілмеген, сондықтан баруға дейін жергілікті емханадан немесе денсаулық сақтау органдарынан нақтылаған жөн.",
+    "de": "Vom 9. bis 15. November findet in der Region Krasnodar eine Woche im Kampf gegen Diabetes statt, berichtet BFM Kuban. Sieben Tage lang wollen Ärztinnen und Ärzte den Einwohnern erklären, wie sich die Krankheit vorbeugen lässt.\n\nZum Programm gehören Einsätze eines mobilen Zentrums für Screening-Diagnostik sowie Veranstaltungen einer Gesundheitsschule, die sich der Vorbeugung von Diabetes und seinen Folgeerkrankungen widmen. Untersuchungsstandorte entstehen in Krasnodar, Noworossijsk sowie in den Bezirken Slawjansk, Timaschewsk und Tbilissk.\n\nFachleute erinnern daran, dass Blutzuckerkontrolle, ausgewogene Ernährung, regelmäßige Bewegung und rechtzeitige Untersuchungen dabei helfen, Risiken im Griff zu behalten. Andrej Sacharow, leitender freiberuflicher Spezialist für medizinische Prävention im regionalen Gesundheitsministerium, erklärt, dass diese Maßnahmen die Wahrscheinlichkeit der Erkrankung und ihrer Folgen verringern.\n\nDie Überschrift bezeichnet die Untersuchungen als kostenlos. Im verfügbaren Text fehlen Öffnungszeiten und genaue Adressen der einzelnen Standorte; vor einem Besuch sollten Interessierte diese Angaben daher bei ihrer örtlichen Klinik oder bei den Gesundheitsbehörden erfragen.",
+    "es": "Del 9 al 15 de noviembre se celebrará en el krai de Krasnodar una semana dedicada a la lucha contra la diabetes, según informa BFM Kubán. Durante siete días, los médicos explicarán a los vecinos cómo prevenir la enfermedad.\n\nEl programa incluye salidas de un centro móvil de diagnóstico por cribado y sesiones de una escuela de salud centrada en la prevención de la diabetes y sus complicaciones. Los puntos de revisión se instalarán en Krasnodar, Novorossiisk y en los distritos de Slavyansk, Timashevsk y Tbilisi.\n\nLos especialistas recuerdan que controlar la glucosa en sangre, comer de forma equilibrada, mantenerse físicamente activo y acudir a los chequeos a tiempo ayuda a mantener los riesgos bajo control. Andréi Sájarov, principal especialista independiente en prevención médica del ministerio de salud regional, explica que estas medidas reducen la probabilidad de la enfermedad y de sus consecuencias.\n\nEl titular califica los exámenes de gratuitos. El texto disponible no indica horarios ni direcciones exactas de cada punto, por lo que conviene consultarlos en la clínica local o en las autoridades sanitarias antes de acudir."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Период кампании",
+      "en": "Campaign period",
+      "kk": "Науқан кезеңі",
+      "de": "Aktionszeitraum",
+      "es": "Periodo de la campaña"
+     },
+     "v": {
+      "ru": "9–15 ноября 2026",
+      "en": "9–15 November 2026",
+      "kk": "2026 жылғы 9–15 қараша",
+      "de": "9.–15. November 2026",
+      "es": "9–15 de noviembre de 2026"
+     }
+    },
+    {
+     "k": {
+      "ru": "Места обследований",
+      "en": "Examination sites",
+      "kk": "Тексеру алаңдары",
+      "de": "Untersuchungsstandorte",
+      "es": "Puntos de revisión"
+     },
+     "v": {
+      "ru": "2 города и 4 района края",
+      "en": "2 cities and 4 districts of the region",
+      "kk": "2 қала және өлкенің 4 ауданы",
+      "de": "2 Städte und 4 Bezirke der Region",
+      "es": "2 ciudades y 4 distritos de la región"
+     }
+    }
+   ]
   },
   {
    "id": "nFVFP29jPTU",
@@ -181,7 +377,7 @@ const DIA_NEWS={
     "de": "Das Gesundheitsministerium schlägt vor, die Fernüberwachung von Patienten mit Diabetes und Bluthochdruck zu erlauben.",
     "es": "El Ministerio de Salud propone permitir el seguimiento remoto de pacientes con diabetes e hipertensión."
    },
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkVyX29PSXF6LVRhMUI4Q1pYTUl1U2VEQkZqVEFRS0wxaGRVZVlWc005S1BlVklvQ2VDZTg1ZksxMGRXRXJCTGl2UjlfdUJVWHlFZEFtZXhEVHpnSmdVb0pQeUZVNlZxTW5RSDVvUkR6TzlNRjRQcDNDVGw1Z2QxUXRGU08xQnZiRThreFJuMmRTYW1Mb21aNUwtazlNcDZLYkFrVEFEUE9Qc0xa0gGyAUFVX3lxTE8zQXJJUGwzMHAwV2hCd2JiWEFBTV85aHptbDc1MnVyYmZTT0lLMEo1aFhRa3llbXV0OE10MDBjc193SkdZREhpQjg0eXVlU1NMWFBwMGlvRjVQSERvTWxKOVVGbk1OS2N4QktTaDVVWm1fcnlBN2pZcDVlNDlzQTRSQmRjOXZuS3NZVlhPQjQ4VEgweTJoQnRja1lqdUF1amdPWGpyanl0Tl9TTFV5NDJSdUE?oc=5",
+   "url": "https://www1.ru/news/2026/11/07/poliklinikam-mogut-razresit-distancionno-nabliudat-pacientov-s-diabetom.html",
    "src": "www1.ru",
    "photoQuery": "doctor video consultation laptop",
    "photo": {
@@ -191,7 +387,32 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/person-sitting-while-using-laptop-computer-and-green-stethoscope-near-NFvdKIhxYlU?utm_source=dia_news&utm_medium=referral",
     "alt": "person sitting while using laptop computer and green stethoscope near"
-   }
+   },
+   "body": {
+    "ru": "Минздрав России предложил разрешить поликлиникам дистанционно наблюдать пациентов с артериальной гипертензией и сахарным диабетом. Об этом, со ссылкой на РИА «Новости» и ведомственный документ, сообщает www1.ru. Материал вышел 7 ноября 2026 года.\n\nПредлагаемые поправки касаются порядка оказания медпомощи взрослым по профилю «терапия» и должны закрепить использование телемедицинских технологий. Поликлиники смогут оснащать кабинеты медицинскими изделиями, которые передают данные на расстоянии. Их количество будет определяться числом пациентов, которым нужен удалённый контроль.\n\nПроект также описывает порядок направлений: при необходимости терапевт отправит пациента к профильному специалисту, а затем продолжит наблюдение и лечение, в том числе дистанционно, опираясь на рекомендации этого врача. Помощь можно будет оказывать по месту жительства или пребывания пациента при острых состояниях, обострениях хронических болезней и когда вызывают медработника.\n\nПо данным издания, дистанционный мониторинг помогает держать хронические болезни под контролем без постоянных визитов в клинику. Для людей с диабетом и гипертонией это означает меньше поездок в поликлинику и больше данных для врача.\n\nВажное уточнение: инициатива пока не принята, документ лишь предложен Минздравом.",
+    "en": "Russia's Ministry of Health has proposed allowing polyclinics to monitor patients with high blood pressure and diabetes from a distance. www1.ru reports this, citing RIA Novosti and a departmental document. The article was published on November 7, 2026.\n\nThe proposed amendments concern the procedure for providing care to adults in the therapy specialty and would formally enshrine the use of telemedicine. Polyclinics could equip their offices with medical devices that transmit data remotely. The number of devices would depend on how many patients need remote supervision.\n\nThe draft also outlines how referrals would work: when necessary, a general practitioner would send the patient to a specialist and then carry on observation and treatment, including remotely, guided by that doctor's recommendations. Care could also be delivered at the patient's home or temporary residence for acute illnesses, flare-ups of chronic diseases, and when a medical worker is called.\n\nAccording to the outlet, remote monitoring helps keep chronic conditions under control without constant clinic visits. For people with diabetes and hypertension, this would mean fewer trips to the polyclinic and more data for the doctor.\n\nImportant caveat: the initiative has not been adopted yet; the document is only a proposal from the Ministry.",
+    "kk": "Ресей Денсаулық сақтау министрлігі емханаларға артериалдық гипертензиясы және қант диабеті бар пациенттерді қашықтан бақылауға рұқсат беруді ұсынды. Бұл туралы www1.ru РИА «Новости» агенттігіне және ведомстволық құжатқа сілтеме жасап хабарлайды. Материал 2026 жылғы 7 қарашада жарияланды.\n\nҰсынылған түзетулер ересектерге «терапия» бейіні бойынша медициналық көмек көрсету тәртібіне қатысты және телемедицина технологияларын бекітуі тиіс. Емханалар кабинеттерін деректерді қашықтан беретін медициналық бұйымдармен жабдықтай алады. Олардың саны қашықтан бақылауды қажет ететін пациенттер санына байланысты анықталады.\n\nЖоба жолдаманың тәртібін де сипаттайды: қажет болса, терапевт пациентті бейіндік маманға жібереді, содан кейін сол дәрігердің ұсынымдарына сүйеніп, бақылау мен емдеуді, оның ішінде қашықтан, жалғастырады. Көмекті пациенттің тұрғылықты немесе уақытша орналасқан жерінде де көрсетуге болады: жедел аурулар, созылмалы аурулардың асқынуы және медқызметкер шақырылған жағдайда.\n\nБасылымның мәліметінше, қашықтан мониторинг созылмалы ауруларды клиникаға жиі бармай-ақ бақылауда ұстауға көмектеседі. Диабеті және гипертониясы бар адамдар үшін бұл поликлиникаға аз баруды және дәрігер үшін көбірек деректерді білдіреді.\n\nМаңызды нақтылау: бастама әлі қабылданбаған, құжат тек Минздрав ұсынысы ретінде ұсынылған.",
+    "de": "Das russische Gesundheitsministerium hat vorgeschlagen, Polikliniken die Fernüberwachung von Patienten mit Bluthochdruck und Diabetes zu erlauben. Darüber berichtet www1.ru unter Berufung auf die Nachrichtenagentur RIA Novosti und ein Behördendokument. Der Beitrag erschien am 7. November 2026.\n\nDie geplanten Änderungen betreffen die Regeln für die Versorgung erwachsener Patienten im Fachbereich „Therapie“ und würden Telemedizin ausdrücklich verankern. Polikliniken könnten ihre Behandlungsräume mit medizinischen Geräten ausstatten, die Daten aus der Ferne übermitteln. Wie viele Geräte nötig sind, richtet sich nach der Zahl der Patienten, die eine Fernüberwachung benötigen.\n\nDer Entwurf beschreibt zudem den Ablauf von Überweisungen: Bei Bedarf schickt der Therapeut den Patienten zu einem Facharzt und übernimmt danach wieder die Beobachtung und Behandlung, auch aus der Ferne, gemäß den Empfehlungen dieses Spezialisten. Hilfe soll außerdem am Wohn- oder Aufenthaltsort möglich sein, etwa bei akuten Erkrankungen, Verschlechterungen chronischer Leiden oder wenn ein Medizinmitarbeiter gerufen wird.\n\nLaut dem Portal hilft die Fernüberwachung, chronische Krankheiten ohne ständige Praxisbesuche im Blick zu behalten. Für Menschen mit Diabetes und Hypertonie bedeutet das weniger Fahrten in die Klinik und mehr Daten für die behandelnde Ärztin oder den Arzt.\n\nWichtig: Die Initiative ist noch nicht beschlossen; das Dokument ist bislang nur ein Vorschlag des Ministeriums.",
+    "es": "El Ministerio de Salud de Rusia ha propuesto permitir que las policlínicas monitoreen a distancia a pacientes con hipertensión arterial y diabetes. Lo informa www1.ru, citando a la agencia RIA Novosti y a un documento departamental. La noticia se publicó el 7 de noviembre de 2026.\n\nLos cambios previstos afectan el procedimiento de atención a adultos en el perfil de «terapia» y consolidarían el uso de la telemedicina. Las policlínicas podrían equipar sus consultorios con dispositivos médicos que transmiten datos a distancia. La cantidad de equipos dependería del número de pacientes que necesiten esa vigilancia remota.\n\nEl borrador también describe cómo funcionarían las derivaciones: si hace falta, el terapeuta enviaría al paciente a un especialista y luego seguiría la observación y el tratamiento, incluido el remoto, según las indicaciones de ese profesional. La atención podría prestarse en el domicilio o el lugar de estancia del paciente, en casos de enfermedades agudas, agravamientos de crónicas o cuando se llama a un profesional sanitario.\n\nSegún el medio, el seguimiento remoto ayuda a mantener bajo control las enfermedades crónicas sin visitas constantes. Para las personas con diabetes e hipertensión, eso supone menos viajes a la policlínica y más datos para el médico.\n\nAdvertencia importante: la iniciativa todavía no ha sido aprobada; el documento es solo una propuesta del Ministerio."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Статус инициативы",
+      "en": "Initiative status",
+      "kk": "Бастаманың күйі",
+      "de": "Status der Initiative",
+      "es": "Estado de la iniciativa"
+     },
+     "v": {
+      "ru": "Пока только предложение Минздрава, не принято",
+      "en": "Still only a Health Ministry proposal, not adopted",
+      "kk": "Әзірге тек Минздрав ұсынысы, қабылданбаған",
+      "de": "Bisher nur ein Vorschlag des Ministeriums, nicht beschlossen",
+      "es": "Todavía solo una propuesta del Ministerio, no aprobada"
+     }
+    }
+   ]
   },
   {
    "id": "nBsbj9vYz01",
@@ -502,6 +723,235 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Zc3hsSlpyQXJTeFdSaGpaNHgycjRUQ0JwRnNQcEJFUnJYWmtUMXhNemdaQ002UzZFbEp3ZEdFNi0xdGF0djE2THRRWjdWZ1REWUtfSlEtSGduQ1U?oc=5",
    "src": "Vesty.co.il",
    "photoQuery": "child checking blood sugar"
+  },
+  {
+   "id": "npjdz9vYz01",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-06",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "Могут ли диета и физическая активность обратить диабет 2 типа? Что показало новое исследование",
+    "en": "Can diet and exercise reverse type 2 diabetes? What a new study found",
+    "kk": "Диета мен дене шынықтыру 2 типті қант диабетін кері қайтара ала ма? Жаңа зерттеу не көрсетті",
+    "de": "Können Ernährung und Bewegung Typ-2-Diabetes umkehren? Was eine neue Studie ergab",
+    "es": "¿Pueden la dieta y el ejercicio revertir la diabetes tipo 2? Lo que encontró un nuevo estudio"
+   },
+   "text": {
+    "ru": "Новое исследование изучает, могут ли изменения в питании и физических нагрузках привести к ремиссии диабета 2 типа.",
+    "en": "A new study examines whether changes in diet and physical activity can lead to remission of type 2 diabetes.",
+    "kk": "Жаңа зерттеу тағамдық әдет пен дене белсенділігіндегі өзгерістердің 2 типті қант диабетінің ремиссиясына әкелуі мүмкін бе, соны зерттейді.",
+    "de": "Eine neue Studie untersucht, ob Ernährungs- und Bewegungsänderungen zu einer Remission von Typ-2-Diabetes führen können.",
+    "es": "Un nuevo estudio analiza si los cambios en la dieta y la actividad física pueden llevar a la remisión de la diabetes tipo 2."
+   },
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDE3WDZTcXhuQ2ZPM1hYNFVHUm1MaEdRbU9fdGlGTE1JdWItMnozSVJjZGpHeDRhYUtkTk5vOW0xWTNlaFg0TjNxOXFDc1BsaWlBVTFIS2JWMDljN2hxUktKZjRPaU9mTXA5SkZ4MUV0U1Z6LUp2WHptQzhDRGxEdmN3dG1ZLW9xYTl6NkdJcw?oc=5",
+   "src": "CNN",
+   "photoQuery": "healthy vegetable salad",
+   "photo": {
+    "id": "u_IGfIGP5ONV0",
+    "url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHZlZ2V0YWJsZSUyMHNhbGFkfGVufDF8MHx8fDE3OTQxNDI0Nzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Anna Pelzer",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/bowl-of-vegetable-salads-IGfIGP5ONV0?utm_source=dia_news&utm_medium=referral",
+    "alt": "bowl of vegetable salads"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nmRyP29jPTU",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-06",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "На Орловщине планируют выявлять сахарный диабет на ранней стадии",
+    "en": "Orel region plans early detection of diabetes",
+    "kk": "Орел облысында қант диабетін ерте сатысында анықтау жоспарланып отыр",
+    "de": "Region Orel plant Früherkennung von Diabetes",
+    "es": "La región de Oriol planea detectar la diabetes en una fase temprana"
+   },
+   "text": {
+    "ru": "Власти Орловской области намерены выявлять сахарный диабет на ранних стадиях.",
+    "en": "Authorities in the Orel region intend to detect diabetes at an early stage.",
+    "kk": "Орел облысының билігі қант диабетін ерте кезеңде анықтауды көздеуде.",
+    "de": "Die Behörden der Region Orel wollen Diabetes im frühen Stadium erkennen.",
+    "es": "Las autoridades de la región de Oriol pretenden detectar la diabetes en una etapa temprana."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1lONlh1TTBSVUhPOVNRSnhqUXJGRDFERlgxVjVoTDJOODJNbVRpT0xfVFl4eWlVQU5XM1JjdG9ESE4teVRzMzVtQVVvTTUtR2VKN0NvQW41bksySzAwNUNHSzhHZUYyYnhiZlh1T0VVdU4xblRRdnd3bHNUZXlaS3pLVTY1ZDY0UGlDMXBuRTBITXVFZFZuS3p3Z292bGEtdjdr?oc=5",
+   "src": "ОрелГрад",
+   "photoQuery": "blood glucose test clinic",
+   "bodyTried": true
+  },
+  {
+   "id": "ndHY_b2M9NQ",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-06",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "В Дагестане пройдет Неделя борьбы с сахарным диабетом",
+    "en": "Week against diabetes to be held in Dagestan",
+    "kk": "Дағыстанда қант диабетіне қарсы апта өтеді",
+    "de": "Woche gegen Diabetes in Dagestan",
+    "es": "Semana contra la diabetes en Daguestán"
+   },
+   "text": {
+    "ru": "С 9 по 15 ноября в Дагестане проходит Неделя борьбы с сахарным диабетом.",
+    "en": "From November 9 to 15, Dagestan holds a week dedicated to the fight against diabetes.",
+    "kk": "Дағыстанда 9-15 қараша аралығында қант диабетіне қарсы апта өткізіледі.",
+    "de": "Vom 9. bis 15. November findet in Dagestan eine Woche im Kampf gegen Diabetes statt.",
+    "es": "Del 9 al 15 de noviembre, Daguestán celebra una semana dedicada a la lucha contra la diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVNWTmxqNXJoZXJGSEFOc2hyNWFLMXB5YlNOVVFHVEpMOHlmYlprLUlMd19BVDJqRnhuRGNwUTVuSDB6eU15QzlBLWlFSkRoRXZ2M3QtcXRwSWZFa3pYdzh6TVlHM2dWMGF0YUNhdzRTdW5kajZ4MjFBVV9sV1A1YVVIVnV1N01Dd2Z1NUgyaFI5NkR6T0tv?oc=5",
+   "src": "Этномедиахолдинг \"Дагестан\"",
+   "photoQuery": "blood glucose meter",
+   "bodyTried": true
+  },
+  {
+   "id": "nNadz9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-06",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "В Риге можно бесплатно проверить уровень сахара в крови и риск диабета",
+    "en": "Free blood sugar and diabetes risk checks offered in Riga",
+    "kk": "Ригада қандағы қант деңгейі мен диабет қаупін тегін тексеруге болады",
+    "de": "In Riga kostenlose Prüfung von Blutzucker und Diabetesrisiko",
+    "es": "En Riga se puede comprobar gratis el nivel de azúcar en sangre y el riesgo de diabetes"
+   },
+   "text": {
+    "ru": "Жители Риги могут бесплатно проверить уровень сахара в крови и оценить риск развития диабета.",
+    "en": "Residents of Riga can get a free blood sugar test and assessment of diabetes risk.",
+    "kk": "Рига тұрғындары қандағы қант деңгейін тегін тексеріп, диабет қаупін бағалата алады.",
+    "de": "Einwohner Rigas können ihren Blutzucker kostenlos prüfen lassen und ihr Diabetesrisiko einschätzen.",
+    "es": "Los residentes de Riga pueden hacerse gratis una prueba de azúcar en sangre y evaluar su riesgo de diabetes."
+   },
+   "url": "https://bb.lv/statja/nasha-latvija/2026/11/06/v-rige-mozno-budet-besplatno-proverit-uroven-saxara-v-krovi-i-risk-diabeta",
+   "src": "BB.LV",
+   "photoQuery": "glucose meter fingertip test",
+   "body": {
+    "ru": "Рижская 1-я больница 13 ноября, в пятницу, проводит день бесплатной диагностики сахарного диабета. Организатором выступает сама больница. С 12:00 до 15:00 жители города смогут проверить основные показатели здоровья и получить индивидуальные консультации специалистов. Акция называется «Проверь бесплатно уровень сахара в крови. Узнай свой риск!».\n\nВо время визита можно измерить уровень глюкозы в крови и артериальное давление, а также рассчитать индекс массы тела (ИМТ). Кроме того, посетители смогут поговорить с эндокринологом, специалистами по питанию и подологами, то есть врачами, которые занимаются стопами.\n\nВрачи помогут разобраться в полученных результатах, выявить возможные факторы риска развития диабета и подскажут, как дальше следить за здоровьем. При необходимости посетителям посоветуют обратиться к семейному врачу или к другому специалисту. В больнице отмечают, что регулярный контроль сахара в крови важен не только для людей, уже живущих с диабетом, но и для того, чтобы болезнь заметили на раннем этапе. Ранняя диагностика помогает вовремя увидеть тревожные изменения и при необходимости начать лечение.\n\nУчастие в акции бесплатное, однако заранее нужно записаться. Мероприятие пройдёт 13 ноября с 12:00 до 15:00 в Рижской 1-й больнице. Других условий в материале не указано, поэтому за подробностями о порядке записи стоит обращаться напрямую в больницу.",
+    "en": "On Friday, 13 November, Riga's 1st Hospital will hold a day of free diabetes diagnostics. The hospital itself is organising the event. From 12:00 to 15:00, residents will be able to check their main health indicators and receive individual consultations with specialists. The campaign is called \"Check your blood sugar for free. Find out your risk!\".\n\nDuring the visit, participants can have their blood glucose and blood pressure measured, and their body mass index (BMI) calculated. Visitors will also be able to speak with an endocrinologist, nutrition specialists and podiatrists, the doctors who look after the feet.\n\nDoctors will help interpret the results, identify possible risk factors for diabetes and suggest how to keep monitoring their health. If needed, visitors will be advised to see their family doctor or another specialist. The hospital notes that regular blood sugar checks matter not only for people who already live with diabetes, but also for catching the disease early. Early diagnosis makes it possible to notice worrying changes in time and, when necessary, start treatment on time.\n\nParticipation is free, but advance registration is required. The event takes place on 13 November from 12:00 to 15:00 at Riga's 1st Hospital. The article does not mention any other conditions, so anyone wanting details about how to sign up should contact the hospital directly.",
+    "kk": "Рига қаласының 1-ші ауруханасы 13 қарашада, жұма күні, қант диабетін тегін тексеру күнін өткізеді. Іс-шараны аурухананың өзі ұйымдастырады. Сағат 12:00-ден 15:00-ге дейін тұрғындар денсаулығының негізгі көрсеткіштерін тексеріп, мамандардың жеке кеңесін ала алады. Науқан «Қан қантын тегін тексер. Тәуекеліңді біл!» деп аталады.\n\nКелушілерге қан глюкозасының деңгейін және артериялық қысымды өлшеп, дене салмағының индексін (ИМТ) есептеуге болады. Сонымен қатар эндокринологпен, тамақтану мамандарымен және аяқ-қол мамандары саналатын подологтармен сөйлесуге мүмкіндік бар.\n\nДәрігерлер нәтижелерді түсіндіруге көмектесіп, диабет дамуының мүмкін қауіп факторларын анықтайды және денсаулықты одан әрі қалай бақылау керектігі туралы ұсыныстар береді. Қажет болса, келушілерге отбасылық дәрігерге немесе басқа маманға жүгіну кеңесі беріледі. Аурухана қан қантын тұрақты бақылаудың тек диабеті бар адамдар үшін емес, аурудың ерте кезеңде байқалуы үшін де маңызды екенін атап өтеді. Ерте диагностика алаңдатарлық өзгерістерді уақытында байқауға және қажет болса емді уақтылы бастауға мүмкіндік береді.\n\nҚатысу тегін, бірақ алдын ала жазылу міндетті. Іс-шара 13 қарашада сағат 12:00-ден 15:00-ге дейін Рига 1-ші ауруханасында өтеді. Материалда басқа шарттар көрсетілмеген, сондықтан жазылу тәртібі туралы толық мәлімет алу үшін ауруханаға тікелей хабарласқан жөн.",
+    "de": "Am Freitag, dem 13. November, veranstaltet das Rigaer 1. Krankenhaus einen Tag der kostenlosen Diagnostik von Diabetes. Die Organisation übernimmt das Krankenhaus selbst. Von 12:00 bis 15:00 Uhr können Einwohner ihre wichtigsten Gesundheitswerte prüfen lassen und individuelle Beratungen durch Fachleute erhalten. Die Aktion trägt den Titel „Prüfen Sie kostenlos Ihren Blutzucker. Erfahren Sie Ihr Risiko!“.\n\nBei dem Besuch kann der Glukosewert im Blut gemessen werden, außerdem der Blutdruck und der Body-Mass-Index (BMI). Zusätzlich stehen Gespräche mit einem Endokrinologen, Ernährungsfachleuten und Podologen bereit, also Fachleuten für die Füße.\n\nDie Ärzte sollen dabei helfen, die Ergebnisse einzuordnen, mögliche Risikofaktoren für Diabetes zu erkennen und Hinweise zu geben, wie die eigene Gesundheit weiter beobachtet werden kann. Bei Bedarf werden die Besucher an ihren Hausarzt oder einen anderen Spezialisten verwiesen. Das Krankenhaus betont, dass regelmäßige Blutzuckerkontrollen nicht nur für Menschen wichtig sind, die bereits mit Diabetes leben, sondern auch, um die Erkrankung früh zu entdecken. Eine frühe Diagnose macht es möglich, Auffälligkeiten rechtzeitig zu bemerken und bei Bedarf zügig mit einer Behandlung zu beginnen.\n\nDie Teilnahme ist kostenlos, eine vorherige Anmeldung ist jedoch erforderlich. Die Veranstaltung findet am 13. November von 12:00 bis 15:00 Uhr im Rigaer 1. Krankenhaus statt. Weitere Bedingungen nennt der Bericht nicht, wer Details zur Anmeldung benötigt, sollte sich deshalb direkt an das Krankenhaus wenden.",
+    "es": "El viernes 13 de noviembre, el Hospital Número 1 de Riga organiza una jornada de diagnóstico gratuito de la diabetes. La propia institución se encarga de la organización. De 12:00 a 15:00, los vecinos podrán revisar sus principales indicadores de salud y recibir asesoramiento individual de especialistas. La campaña se llama «¡Compruebe gratis su nivel de azúcar en sangre y conozca su riesgo!».\n\nDurante la visita se puede medir la glucosa en sangre y la presión arterial, además de calcular el índice de masa corporal (IMC). También habrá consultas con un endocrinólogo, especialistas en nutrición y podólogos, es decir, profesionales que se ocupan de los pies.\n\nLos médicos ayudarán a interpretar los resultados, a detectar posibles factores de riesgo de diabetes y a orientar sobre cómo seguir vigilando la salud. Si hace falta, se aconsejará a los asistentes que acudan a su médico de familia u otro especialista. El hospital subraya que el control regular del azúcar en sangre importa no solo a quienes ya conviven con la diabetes, sino también para detectar la enfermedad en una fase temprana. El diagnóstico precoz permite notar a tiempo los cambios preocupantes y, si es necesario, empezar el tratamiento de forma oportuna.\n\nLa participación es gratuita, pero es obligatorio inscribirse con antelación. El evento se celebra el 13 de noviembre, de 12:00 a 15:00, en el Hospital Número 1 de Riga. El artículo no menciona otras condiciones, así que quien quiera conocer el procedimiento de inscripción debe ponerse en contacto directamente con el hospital."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Дата и время",
+      "en": "Date and time",
+      "kk": "Күні мен уақыты",
+      "de": "Datum und Uhrzeit",
+      "es": "Fecha y hora"
+     },
+     "v": {
+      "ru": "13 ноября, 12:00–15:00",
+      "en": "13 November, 12:00–15:00",
+      "kk": "13 қараша, 12:00–15:00",
+      "de": "13. November, 12:00–15:00 Uhr",
+      "es": "13 de noviembre, 12:00–15:00"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участие",
+      "en": "Participation",
+      "kk": "Қатысу",
+      "de": "Teilnahme",
+      "es": "Participación"
+     },
+     "v": {
+      "ru": "бесплатно, нужна предварительная запись",
+      "en": "free, advance registration required",
+      "kk": "тегін, алдын ала жазылу міндетті",
+      "de": "kostenlos, Anmeldung erforderlich",
+      "es": "gratuita, con inscripción previa"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nNWUT9vYz01",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-06",
+   "added": "2026-11-08T12:54:36.346Z",
+   "title": {
+    "ru": "В Шымкенте женщина стала донором почки для сестры с диабетом",
+    "en": "Woman in Shymkent donates kidney to diabetic sister",
+    "kk": "Шымкентте бір әйел диабеті бар қарындасына бүйрегін донорлық етіп берді",
+    "de": "Frau in Schymkent spendet Niere an diabeteskranke Schwester",
+    "es": "Una mujer de Shymkent dona un riñón a su hermana con diabetes"
+   },
+   "text": {
+    "ru": "Жительница Шымкента стала донором почки для своей сестры, страдающей сахарным диабетом.",
+    "en": "A woman from Shymkent became a kidney donor for her sister, who has diabetes.",
+    "kk": "Шымкент тұрғынын қант диабеті бар қарындасына бүйрек доноры болды.",
+    "de": "Eine Frau aus Schymkent wurde Nierenspenderin für ihre Schwester, die an Diabetes leidet.",
+    "es": "Una mujer de Shymkent se convirtió en donante de riñón para su hermana, que tiene diabetes."
+   },
+   "url": "https://newtimes.kz/obshchestvo/225711-v-shymkente-zhenshchina-stala-donorom-pochki-dlia-rodnoi-sestry-s-diabetom",
+   "src": "Newtimes.kz",
+   "photoQuery": "kidney transplant surgery operating room",
+   "body": {
+    "ru": "В городской клинической больнице №1 Шымкента выполнили сложную операцию по пересадке почки. Донором для женщины, у которой из-за многолетнего сахарного диабета отказали почки, стала её родная сестра. Об этом сообщает NewTimes.kz, материал опубликован 6 ноября 2026 года.\n\nПациентка около десяти лет живёт с диабетом, который тяжело повредил обе почки. Из-за этого она три раза в неделю проходила гемодиализ, процедуру очистки крови. По словам медиков, единственным способом вернуть ей полноценную жизнь и избавить от постоянных процедур была пересадка органа, и сестра согласилась отдать свою почку.\n\nХирург Сабитхан Байтемиров рассказал, что операция состоит из трёх основных этапов: изъятие органа у донора, его обработка и охлаждение в консервирующем растворе, а затем вживление почки реципиенту с подсоединением к сосудам. Дополнительную сложность создавало состояние сосудов пациентки, которые сильно пострадали за десять лет болезни. Врач-трансплантолог Рахымжан Умбетов отметил, что у пациентки теперь появилась возможность восстановить здоровье.\n\nСейчас женщина находится под наблюдением специалистов, которые контролируют, как приживается донорский орган. Впереди долгий период реабилитации с постоянным приёмом препаратов, предотвращающих отторжение. Операция стала 257-й трансплантацией почки в истории медицины Шымкента. В материале также говорится, что в Казахстане тысячи пациентов ждут пересадки, а главным барьером для посмертного донорства остаются отказы родственников и стереотипы, поэтому основным источником спасения жизней пока остаются родственные пересадки.",
+    "en": "Doctors at City Clinical Hospital No. 1 in Shymkent carried out a complex kidney transplant. The donor for a woman whose kidneys had failed because of years of diabetes was her own sister. NewTimes.kz reports this; the story was published on 6 November 2026.\n\nThe patient has lived with diabetes for about ten years, and the illness severely damaged both kidneys. Because of this, she had to undergo haemodialysis, a blood-cleansing procedure, three times a week. According to medics, a transplant was the only way to return her to a full life and end the regular procedures, and her sister agreed to give one of her kidneys.\n\nSurgeon Sabitkhan Baitemirov explained that the operation has three main stages: removing the organ from the donor, cooling and treating it in a preservation solution, and then implanting it in the recipient and connecting it to blood vessels. The condition of the patient's vessels, badly affected over a decade of illness, added difficulty for the team. Transplant specialist Rakhymzhan Umbetov noted that the patient now has a chance to restore her health.\n\nThe woman is now under the care of specialists who are monitoring how the donor organ is taking hold. A long rehabilitation period lies ahead, with constant medication to prevent rejection. The operation was the 257th kidney transplant in Shymkent's medical history. The report also says that thousands of patients in Kazakhstan are waiting for transplants, and that refusals by relatives and stereotypes remain the main barrier to deceased-donor transplantation, which is why transplants from living relatives still remain the primary source of lifesaving organs.",
+    "kk": "Шымкент қаласындағы №1 қалалық клиникалық ауруханада күрделі бүйрек трансплантациясы жасалды. Бірнеше жыл бойы қант диабетімен ауырып, екі бүйрегі де бұзылған әйелге донор болған – оның туған қарындасы. Бұл туралы NewTimes.kz хабарлады, материал 2026 жылдың 6 қарашасында жарияланған.\n\nНауқас шамамен он жыл диабетпен өмір сүріп келеді, ауру екі бүйректі де қатты зақымдаған. Сондықтан ол апта сайын үш рет қанды тазалайтын гемодиализ процедурасына түсуге мәжбүр болған. Медиктердің айтуынша, оны толыққанды өмірге қайтарудың және тұрақты процедуралардан құтқарудың жалғыз жолы – ағза ауыстыру болған, ал қарындасы бүйрегінің бірін беруге келіскен.\n\nХирург Сабитхан Байтемиров операцияның үш негізгі кезеңі бар екенін түсіндірді: донордан ағзаны алу, оны консервациялаушы ерітіндіде салқындатып өңдеу, содан кейін реципиентке орнатып, қан тамырларына жалғау. Науқастың тамырларының күйі, он жылдық ауру кезінде қатты зақымданған, топ үшін қосымша қиындық туғызған. Трансплантолог Рахымжан Өмбетов науқаста денсаулығын қалпына келтіру мүмкіндігі пайда болғанын атап өтті.\n\nҚазір әйел мамандардың бақылауында, олар донорлық ағзаның қалай бекіп жатқанын қадағалайды. Алда ұзақ реабилитация кезеңі тұр, ол кезде ағзаның бас тартуын болдырмайтын препараттарды үнемі қабылдау қажет. Бұл операция Шымкент медицинасы тарихындағы 257-ші бүйрек трансплантациясы болды. Материалда Қазақстанда мыңдаған науқастың ағза күтіп жатқаны, өлгеннен кейінгі донорлыққа негізгі кедергі туыстардың бас тартуы мен стереотиптер екені, сондықтан туыстардан алынған ағзалар әлі де басты көз болып қалып отырғаны айтылады.",
+    "de": "Im Städtischen Klinischen Krankenhaus Nr. 1 in Schymkent wurde eine komplizierte Nierentransplantation durchgeführt. Spenderin für eine Frau, deren Nieren infolge eines jahrelangen Diabetes versagt hatten, war ihre leibliche Schwester. Darüber berichtet NewTimes.kz; der Beitrag erschien am 6. November 2026.\n\nDie Patientin lebt seit rund zehn Jahren mit Diabetes, der beide Nieren schwer geschädigt hat. Deshalb musste sie sich dreimal pro Woche einer Hämodialyse unterziehen, einem Verfahren zur Blutreinigung. Nach Angaben der Mediziner war eine Transplantation der einzige Weg, ihr ein vollwertiges Leben zurückzugeben und die regelmäßigen Behandlungen zu beenden; die Schwester erklärte sich bereit, eine ihrer Nieren abzugeben.\n\nChirurg Sabitchan Baitemirow erläuterte, dass der Eingriff drei Hauptschritte umfasst: die Entnahme des Organs beim Spender, seine Kühlung und Behandlung in einer Konservierungslösung sowie das Einsetzen beim Empfänger mit Anschluss an die Blutgefäße. Der Zustand der Gefäße der Patientin, die durch zehn Jahre Krankheit stark geschädigt waren, bereitete dem Team zusätzliche Schwierigkeiten. Der Transplantationsmediziner Rachymschan Umbetow merkte an, dass die Patientin nun die Chance habe, ihre Gesundheit wiederzuerlangen.\n\nDie Frau wird inzwischen von Fachleuten betreut, die kontrollieren, wie gut das Spenderorgan anwächst. Vor ihr liegt eine lange Reha mit dauerhafter Medikamenteneinnahme, die eine Abstoßung verhindern soll. Die Operation war die 257. Nierentransplantation in der Geschichte der Medizin in Schymkent. Der Bericht erwähnt außerdem, dass in Kasachstan Tausende Patienten auf Organe warten und dass die Ablehnung durch Angehörige sowie Vorurteile das größte Hindernis für Organspenden nach dem Tod sind, weshalb Transplantationen von lebenden Verwandten bislang die wichtigste Quelle bleiben.",
+    "es": "En el Hospital Clínico Municipal n.º 1 de Shymkent se realizó un complejo trasplante de riñón. La donante para una mujer cuyos riñones habían fallado por una diabetes de años fue su propia hermana. Lo informa NewTimes.kz, que publicó la noticia el 6 de noviembre de 2026.\n\nLa paciente convive con la diabetes desde hace unos diez años, enfermedad que dañó gravemente ambos riñones. Por ello debía someterse a hemodiálisis, un procedimiento de limpieza de la sangre, tres veces por semana. Según los médicos, el trasplante era la única forma de devolverle una vida plena y acabar con los procedimientos periódicos, y su hermana aceptó donar uno de sus riñones.\n\nEl cirujano Sabitkhan Baitemirov explicó que la intervención tiene tres etapas principales: extraer el órgano al donante, enfriarlo y tratarlo con una solución conservante, e implantarlo en el receptor conectándolo a los vasos sanguíneos. El estado de los vasos de la paciente, muy afectados tras una década de enfermedad, supuso una dificultad añadida para el equipo. El especialista en trasplantes Rajymzhan Umbetov comentó que ahora ella tiene la oportunidad de recuperar la salud.\n\nLa mujer está bajo la vigilancia de especialistas que controlan cómo se adapta el órgano donado. Le espera una larga rehabilitación con medicación constante para evitar el rechazo. La operación fue el trasplante de riñón número 257 en la historia médica de Shymkent. La noticia también señala que miles de pacientes en Kazajistán esperan un órgano y que la negativa de los familiares y los estereotipos son el principal obstáculo para la donación tras la muerte, por lo que los trasplantes de donantes vivos siguen siendo la fuente principal."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Срок жизни с диабетом у пациентки",
+      "en": "Years living with diabetes",
+      "kk": "Пациенттің диабетпен өмір сүру мерзімі",
+      "de": "Jahre mit Diabetes",
+      "es": "Años con diabetes"
+     },
+     "v": {
+      "ru": "около 10 лет",
+      "en": "about 10 years",
+      "kk": "шамамен 10 жыл",
+      "de": "rund 10 Jahre",
+      "es": "unos 10 años"
+     }
+    },
+    {
+     "k": {
+      "ru": "Гемодиализ до трансплантации",
+      "en": "Haemodialysis before transplant",
+      "kk": "Трансплантацияға дейінгі гемодиализ",
+      "de": "Hämodialyse vor der Transplantation",
+      "es": "Hemodiálisis antes del trasplante"
+     },
+     "v": {
+      "ru": "3 раза в неделю",
+      "en": "3 times a week",
+      "kk": "аптасына 3 рет",
+      "de": "dreimal pro Woche",
+      "es": "3 veces por semana"
+     }
+    },
+    {
+     "k": {
+      "ru": "Номер трансплантации почки в Шымкенте",
+      "en": "Kidney transplant number in Shymkent",
+      "kk": "Шымкентте бүйрек трансплантациясының реті",
+      "de": "Nierentransplantation in Schymkent, Nummer",
+      "es": "Número de trasplante de riñón en Shymkent"
+     },
+     "v": {
+      "ru": "257-я",
+      "en": "257th",
+      "kk": "257-ші",
+      "de": "257.",
+      "es": "257.º"
+     }
+    }
+   ]
   },
   {
    "id": "nlZRP29jPTU",
@@ -878,198 +1328,6 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2hVZGRmUXdKYWxrbzV1WjduQjA1aXVHdXJNaFdtV1hRblMxOW9TZTlURFNkM0VzWm5nNVBKcG1UN1ZwUWFYcDdZQ01sRDJaVGJPOXFyTXNEcmk4VzR5V3NMcl9JZHhzNjUya3lWNmJMSUR5MWV6cDlZNmNoRlRGaEpmbTdya0FScHV3a0h1OXZ4bUt1Ri1Fdl83cFN5MUMzMlB3RkM4VjU4dGVOMUVxUUU5c1R6VXZzWFBR?oc=5",
    "src": "UA.NEWS",
    "photoQuery": "Mediterranean market vegetables"
-  },
-  {
-   "id": "nVWQj9vYz01",
-   "cat": "community",
-   "stage": "campaign",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Рижская 1-я больница приглашает на бесплатный скрининг диабета: как участвовать в акции",
-    "en": "Riga 1st Hospital invites people to free diabetes screening: how to take part in the campaign",
-    "kk": "Рига 1-ші ауруханасы қант диабетіне тегін скринингке шақырады: акцияға қалай қатысуға болады",
-    "de": "Das Rigaer 1. Krankenhaus lädt zum kostenlosen Diabetes-Screening ein: So können Sie teilnehmen",
-    "es": "El Hospital n.º 1 de Riga invita a un cribado gratuito de diabetes: cómo participar en la campaña"
-   },
-   "text": {
-    "ru": "Рижская 1-я больница приглашает на бесплатный скрининг диабета в рамках акции.",
-    "en": "Riga 1st Hospital invites people to a free diabetes screening as part of a campaign.",
-    "kk": "Рига 1-ші ауруханасы акция аясында қант диабетіне тегін скринингке шақырады.",
-    "de": "Das Rigaer 1. Krankenhaus lädt im Rahmen einer Aktion zu einem kostenlosen Diabetes-Screening ein.",
-    "es": "El Hospital n.º 1 de Riga invita a un cribado gratuito de diabetes como parte de una campaña."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0pmUzdTUTRSTGt3aEtnaVNQTzJqSFRJQThnMEJwYUI5UmRpSzljRzVuVkdtRWd6Z1o5amhEVmE4VElwbjY2YzMzWDJvUFRZMWhPWjlnYl8tVHVBdUl5S2dveUFJTVpzZ1lmUWlTRnRqN01kRzBqRlctQ3VHdVhMYzZWZEFWcDJReW5CUl9hWFFrcEhDMzJLQlE5M3I3RlkzWkJlTVh5WU5ZSDJmMkNNSE1RQ3pqaVhSMFpLOS1pVTNib3BZX3JGLUVB?oc=5",
-   "src": "Mixnews",
-   "photoQuery": "blood glucose screening test"
-  },
-  {
-   "id": "nVVvP29jPTU",
-   "cat": "events",
-   "stage": "campaign",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "К Всемирному дню борьбы с диабетом, 14 ноября 2026 года: действовать сегодня ради здоровья завтра",
-    "en": "Ahead of World Diabetes Day, 14 November 2026: act today for tomorrow's health",
-    "kk": "Қант диабетімен күресу әлемдік күніне, 2026 жылғы 14 қарашаға орай: ертеңгі денсаулық үшін бүгін әрекет ету",
-    "de": "Zum Welt-Diabetes-Tag am 14. November 2026: heute handeln für die Gesundheit von morgen",
-    "es": "Con motivo del Día Mundial de la Diabetes, 14 de noviembre de 2026: actuar hoy por la salud de mañana"
-   },
-   "text": {
-    "ru": "Материал приурочен к Всемирному дню борьбы с диабетом, который отмечается 14 ноября 2026 года.",
-    "en": "The article is timed to World Diabetes Day, observed on 14 November 2026.",
-    "kk": "Материал 2026 жылғы 14 қарашада аталып өтетін Қант диабетімен күресу әлемдік күніне арналған.",
-    "de": "Der Artikel ist auf den Welt-Diabetes-Tag am 14. November 2026 abgestimmt.",
-    "es": "El artículo se enmarca en el Día Mundial de la Diabetes, que se celebra el 14 de noviembre de 2026."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEJ5ZnlXWUpJSHl0RlNsWTFJeVh1TmFrQzZJN3dTdmZsTk90Z0MxTk5EY3M0OHRPazJiTDYzS1Jlak12d3NEZVFmZVlBSjZCeGh0MTdFcUlpbFNNdkhLSjFzNlRab1VleG4yVGIzSmpuaTRvVW15SVBDRHZUU1pldlM0SEp4WlRFMlVXY2otdTB4S1FOTGRWSERtSUpuSmFKcm56eXJqWTBRUFpQa0l5Mjh6bU02MENaMDhLZFpMUUo?oc=5",
-   "src": "Vietnam.vn",
-   "photoQuery": "blue awareness ribbon"
-  },
-  {
-   "id": "nFlUT9vYz01",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Сильное загрязнение воздуха повышает риск развития диабета",
-    "en": "Severe air pollution increases the risk of developing diabetes",
-    "kk": "Ауаның қатты ластануы қант диабетінің даму қаупін арттырады",
-    "de": "Starke Luftverschmutzung erhöht das Diabetesrisiko",
-    "es": "La fuerte contaminación del aire aumenta el riesgo de desarrollar diabetes"
-   },
-   "text": {
-    "ru": "Согласно материалу, сильное загрязнение воздуха повышает риск развития диабета.",
-    "en": "According to the article, severe air pollution increases the risk of developing diabetes.",
-    "kk": "Материалға сәйкес, ауаның қатты ластануы қант диабетінің дамуына қаупін арттырады.",
-    "de": "Laut dem Artikel erhöht starke Luftverschmutzung das Risiko, an Diabetes zu erkranken.",
-    "es": "Según el artículo, la fuerte contaminación del aire aumenta el riesgo de desarrollar diabetes."
-   },
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE0ydDQta28xd1F2S1M5dWpURmQ4dnQ1bVdzb1AzT0Z0MkkxdFh2LUp4c3JiZnJKTFFPSEdvcFFVVFNkZHdFazdxZzkydVQtLW1QM01ZZThOLUl2TzAxamdBc2RkVFlEVnZzcEUzNk1uX084QTlIS2dBMDZzYUF2UktSSEFWMlBZaVpMVW1VOGxaZWdUNjNqeQ?oc=5",
-   "src": "Vietnam.vn",
-   "photoQuery": "smog city traffic"
-  },
-  {
-   "id": "nOXY_b2M9NQ",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-06T16:08:21.221Z",
-   "title": {
-    "ru": "Ученые Сеченовского Университета показали эффективность ИИ-мониторинга при диабете",
-    "en": "Sechenov University scientists show effectiveness of AI monitoring in diabetes",
-    "kk": "Сеченов университетінің ғалымдары диабетті ЖИ мониторингі арқылы бақылаудың тиімділігін көрсетті",
-    "de": "Sechenow-Universität: Wirksamkeit von KI-Monitoring bei Diabetes gezeigt",
-    "es": "Científicos de la Universidad Sechenov demuestran la eficacia del monitoreo con IA en la diabetes"
-   },
-   "text": {
-    "ru": "Исследователи Сеченовского Университета продемонстрировали эффективность мониторинга диабета с помощью искусственного интеллекта.",
-    "en": "Researchers at Sechenov University have demonstrated the effectiveness of AI-based diabetes monitoring.",
-    "kk": "Сеченов университетінің зерттеушілері жасанды интеллект негізіндегі диабет мониторингінің тиімділігін дәлелдеді.",
-    "de": "Wissenschaftler der Sechenow-Universität haben die Wirksamkeit eines KI-gestützten Diabetesmonitorings nachgewiesen.",
-    "es": "Investigadores de la Universidad Sechenov han demostrado la eficacia del monitoreo de la diabetes basado en inteligencia artificial."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHBHelJ0ZGItT3Z3X21TSUUxUHJuQU5OLVFyekNqSkhuVUZ6NFBkN3ZKS3hIZTV6el95TDJpV1VjVHdUQ1VJaW83RjNqQ0JZV0NGdGVKa1lGWGFrcGZnclNpYmpNZnJWUWkyRi1yWUlyUE9sTWdHaUhtczd3V0g5RzRwckdxanUwUXVpZWU1R0NWam1naURuNHViLWxXQmdmSjlSeU9uaUNLQi1VRnBmOEU1Z09pczI0LW9v?oc=5",
-   "src": "Сеченовский Университет",
-   "photoQuery": "digital health monitoring app"
-  },
-  {
-   "id": "nFVRP29jPTU",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-06",
-   "added": "2026-11-06T16:08:21.221Z",
-   "title": {
-    "ru": "Минздрав разрешит терапевтам удалённо вести пациентов с диабетом и гипертонией",
-    "en": "Health Ministry to allow therapists to see diabetes and hypertension patients remotely",
-    "kk": "Денсаулық сақтау министрлігі терапевттерге диабеті мен гипертониясы бар науқастарды қашықтықтан қабылдауға рұқсат береді",
-    "de": "Gesundheitsministerium will Hausärzten Fernbetreuung von Diabetes- und Hypertoniepatienten erlauben",
-    "es": "El Ministerio de Salud permitirá a los terapeutas atender a pacientes con diabetes e hipertensión a distancia"
-   },
-   "text": {
-    "ru": "Сообщается, что терапевты смогут наблюдать пациентов с диабетом и гипертонией дистанционно.",
-    "en": "The report says therapists will be allowed to monitor patients with diabetes and hypertension remotely.",
-    "kk": "Хабарда терапевттердің диабеті мен гипертониясы бар науқастарды қашықтан бақылауына рұқсат берілетіні айтылған.",
-    "de": "Laut Bericht sollen Therapeuten Patienten mit Diabetes und Bluthochdruck künftig aus der Ferne betreuen dürfen.",
-    "es": "Según la noticia, los terapeutas podrán atender de forma remota a pacientes con diabetes e hipertensión."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KWkhMX0hxdVRtUF9ZTFhjR2k0aHBYcDQ1RUVILUdZUEJheDJiekNjWnRHaFdBTkJvcV9RV3RuMXZCY1lDMGx5SENMWGZtUQ?oc=5",
-   "src": "YakutiaMedia",
-   "photoQuery": "telehealth consultation laptop"
-  },
-  {
-   "id": "n0djP29jPTU",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-06T16:08:21.221Z",
-   "title": {
-    "ru": "Строгая диета и регулярные тренировки помогли более половине молодых пациентов обратить диабет 2-го типа",
-    "en": "Strict diet and regular exercise helped over half of young patients reverse type 2 diabetes",
-    "kk": "Қатаң диета мен тұрақты жаттығулар жас науқастардың жартысынан көбіне 2-типті диабетті кері қайтаруға көмектесті",
-    "de": "Strenge Diät und regelmäßiges Training halfen mehr als der Hälfte junger Patienten, Typ-2-Diabetes zurückzubilden",
-    "es": "Una dieta estricta y el ejercicio regular ayudaron a más de la mitad de los pacientes jóvenes a revertir la diabetes tipo 2"
-   },
-   "text": {
-    "ru": "По данным сообщения, при строгой диете и регулярных тренировках у более чем половины молодых пациентов удалось добиться ремиссии диабета 2-го типа.",
-    "en": "According to the report, more than half of young patients on a strict diet with regular workouts achieved remission of type 2 diabetes.",
-    "kk": "Хабарға сәйкес, қатаң диетаны ұстаған және үнемі жаттыққан жас науқастардың жартысынан астамында 2-типті диабет ремиссиясына қол жеткізілген.",
-    "de": "Laut Bericht erreichten mehr als die Hälfte der jungen Patienten mit strenger Diät und regelmäßigem Training eine Remission ihres Typ-2-Diabetes.",
-    "es": "Según el informe, más de la mitad de los pacientes jóvenes que siguieron una dieta estricta y entrenaron con regularidad lograron la remisión de la diabetes tipo 2."
-   },
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnRwRlJZV2JxQzV6Yk1Ua2VRTXVPSVdVdzh0NFZtQ0xhUUtUR0NQVkZvUnRUdGtEVXZOU3h6R1MybXN0U1NJQkRURGhrYjF2ZS0xTzdHUlZQRkdlX0d0Qm9yRVc4VHAwMUZMcUV6am5fbjZwMHpNQ0tPY0ZoZlNXVHQtNUwxYldZMVA0R3NNd2hWT1RtNWdsVDB0RVlncE9FSnU3dUVTNENuZVY0c203OTVTcmhVTWFWVGNySVkwcnNCVV9MQUd4UGRrY1ZLLTVqWDVYVXVIa3RvNDFuaWthZTdXcWNuUW9ETUY0Y1VvZlVZLU1POGc?oc=5",
-   "src": "NUR.KZ",
-   "photoQuery": "young people running park"
-  },
-  {
-   "id": "nFVUT9vYz01",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-06T16:08:21.221Z",
-   "title": {
-    "ru": "Глюкозный напиток с кетоновым субстратом облегчает восстановление после гипогликемии при диабете 1 типа",
-    "en": "Glucose drink with ketone substrate eases recovery from hypoglycemia in type 1 diabetes trial",
-    "kk": "Кетон субстратымен байытылған глюкоза сусыны 1-типті диабеттегі гипогликемиядан қалпына келуге көмектеседі",
-    "de": "Glukosegetränk mit Ketonsubstrat erleichtert die Erholung von Hypoglykämie bei Typ-1-Diabetes",
-    "es": "Una bebida de glucosa con sustrato cetónico facilita la recuperación de la hipoglucemia en la diabetes tipo 1"
-   },
-   "text": {
-    "ru": "Испытание показало, что напиток с глюкозой и кетоновым субстратом помогает восстанавливаться после гипогликемии у людей с диабетом 1 типа.",
-    "en": "A trial found that a glucose drink containing a ketone substrate helps people with type 1 diabetes recover from hypoglycemia.",
-    "kk": "Сынақ нәтижесінде кетон субстраты бар глюкоза сусыны 1-типті диабеті бар адамдардың гипогликемиядан кейінгі қалпына келуіне көмектесетіні анықталды.",
-    "de": "Eine Studie zeigt, dass ein Glukosegetränk mit Ketonsubstrat Menschen mit Typ-1-Diabetes nach einer Hypoglykämie bei der Erholung unterstützt.",
-    "es": "Un ensayo muestra que una bebida de glucosa con sustrato cetónico ayuda a las personas con diabetes tipo 1 a recuperarse de la hipoglucemia."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2FGWEpLU09Bc25RRkhfOHE4RjBKVDFjSFBNRW9wbkRMN1JScWxCNEVMNXdfdE5KN181RHlJR1Q1Y2NDdTJjSXpqMkM0bmNtWTJIdE45V0xFNzZ6aEZlNE5pNVNjT2ZsNFM3TVotWml0QXRwalRZVzAyb2VNaWEya3BQcGZuM1hFWnVjM0E1Y1FxNl9HTDQ3SUJQYnVlSWtlZVllell4MGM1eTM3UUJQSDdqUQ?oc=5",
-   "src": "Bioengineer.org",
-   "photoQuery": "sports drink glass"
-  },
-  {
-   "id": "nY5Rj9vYz01",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-06T16:08:21.221Z",
-   "title": {
-    "ru": "Оземпик и Мунджаро могут превосходить метформин в профилактике диабета 2 типа",
-    "en": "Ozempic and Mounjaro may outperform metformin in preventing type 2 diabetes",
-    "kk": "Ozempic және Mounjaro 2-типті диабетті алдын алуда метформинтен асып түсуі мүмкін",
-    "de": "Ozempic und Mounjaro könnten Metformin bei der Vorbeugung von Typ-2-Diabetes überlegen sein",
-    "es": "Ozempic y Mounjaro podrían superar a la metformina en la prevención de la diabetes tipo 2"
-   },
-   "text": {
-    "ru": "Исследование указывает, что препараты Оземпик и Мунджаро могут оказаться эффективнее метформина в предотвращении диабета 2 типа.",
-    "en": "A study suggests Ozempic and Mounjaro may be more effective than metformin at preventing type 2 diabetes.",
-    "kk": "Зерттеу бойынша Ozempic және Mounjaro 2-типті диабеттің алдын алуда метформинге қарағанда тиімдірек болуы мүмкін.",
-    "de": "Eine Studie legt nahe, dass Ozempic und Mounjaro bei der Vorbeugung von Typ-2-Diabetes wirksamer sein könnten als Metformin.",
-    "es": "Un estudio sugiere que Ozempic y Mounjaro podrían ser más eficaces que la metformina para prevenir la diabetes tipo 2."
-   },
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY1p2cU40Vk5vQmpBZndVY3BrVHJXV0FmZmlNYURWSjlIdlZmR1pNcFZaTDg4SUEwN1J2MDhzdzhUSURsLU9JM21POHI1MHlTc2NUQy1sWmdtM3U5cXVPRXl6cXJpbG9ERU1PQkRKQ2hJS3I0c29MMGk1bGIyVVlWR3M2c0J6Y1JzeTRRelpCQngyS2RtSXc0MWNvYl96VlpHR3lCZlN2c3VXbG1qU0hNMnFJSWlLQzVCMUZxV1RZaEx6b2Q4U19oY25OVGhtWWd2TDZKS29mNEw5cFhsQ0hoU1ZFR2xxTGxqUGYxZnd1c1g1X0XSAfMBQVVfeXFMUGNadnFONFZOb0JqQWZ3VWNwa1RyV1dBZmZpTWFEVko5SHZWZkdaTXBWWkw4OElBMDdSdjA4c3c4VElEbC1PSTNtTzhyNTB5U3NjVEMtbFpnbTN1OXF1T0V5enFyaWxvREVNT0JESkNoSUtyNHNvTDBpNWxiMlVZVkdzNnNCemNSc3k0UXpaQkJ4MktkbUl3NDFjb2JfelZaR0d5QmZTdnN1V2xtalNITTJxSUlpS0M1QjFGcVdUWWhMem9kOFNfaGNuTlRobVlndkw2SktvZjRMOXBYbENIaFNWRUdscUxsalBmMWZ3dXNYNV9F?oc=5",
-   "src": "Medical Dialogues",
-   "photoQuery": "weekly injection pen medication"
   }
  ],
  "stats": {
