@@ -285,7 +285,7 @@ async function searchPhotos(query, n = 20) {
 }
 // prefer the result whose description shares the most words with the query (the first hit is often off-topic)
 const STOP = new Set(["a", "an", "the", "of", "on", "in", "with", "and", "for", "to", "up", "close"]);
-const stem = (w) => w.toLowerCase().replace(/(ing|es|s)$/, "");
+const stem = (w) => w.toLowerCase().replace(/s$/, "");
 function bestMatch(list, query, used) {
   const qw = norm(query).split(" ").filter((w) => w.length > 2 && !STOP.has(w)).map(stem);
   let best = null, bestScore = -1;
