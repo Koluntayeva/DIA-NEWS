@@ -7,85 +7,119 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-08T12:54:36.346Z",
+ "updated": "2026-11-08T13:19:35.703Z",
  "items": [
-  {
-   "id": "nVUU_b2M9NQ",
-   "cat": "access",
-   "stage": "report",
-   "date": "2026-11-08",
-   "added": "2026-11-08T12:54:36.346Z",
-   "title": {
-    "ru": "В Уфе ребенок с диабетом остался без инсулина",
-    "en": "Child with diabetes left without insulin in Ufa",
-    "kk": "Уфада қант диабеті бар бала инсулинсіз қалды",
-    "de": "Diabetisches Kind in Ufa ohne Insulin",
-    "es": "Niño con diabetes se queda sin insulina en Ufa"
-   },
-   "text": {
-    "ru": "Семья ребенка с сахарным диабетом столкнулась с отсутствием инсулина в Уфе.",
-    "en": "The family of a child with diabetes faced a lack of insulin in Ufa.",
-    "kk": "Уфада қант диабеті бар баланың отбасы инсулин жетіспеушілігіне тап болды.",
-    "de": "Die Familie eines Kindes mit Diabetes stand in Ufa ohne Insulin da.",
-    "es": "La familia de un niño con diabetes se enfrentó a la falta de insulina en Ufa."
-   },
-   "url": "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
-   "src": "Gorobzor",
-   "photoQuery": "insulin pen close-up",
-   "photo": {
-    "id": "u_NiXMv9iFN1c",
-    "url": "https://images.unsplash.com/photo-1745939912168-cc7333d65327?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQxNDI0NzZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Haberdoedas",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-blue-insulin-pen-rests-on-a-white-surface-NiXMv9iFN1c?utm_source=dia_news&utm_medium=referral",
-    "alt": "A blue insulin pen rests on a white surface"
-   },
-   "body": {
-    "ru": "8 ноября 2026 года прокуратура Советского района Уфы вступилась за права ребенка-инвалида, больного сахарным диабетом. Об этом сообщила пресс-служба ведомства, а новость опубликовал портал «Горобзор». Поводом стало то, что ребенок оставался без необходимых препаратов.\n\nПроверка показала, что ребенку необходимы постоянный прием инсулина и специальные медицинские изделия. Однако поставки по льготной программе регулярно срывались. Из-за того, что нужных лекарств не было в аптеках, законному представителю ребенка приходилось покупать их на собственные деньги.\n\nПрокуратура обратилась в суд с иском: вернуть потраченные средства и взыскать компенсацию морального вреда. Суд полностью удовлетворил требования ведомства, и все расходы вместе с положенной компенсацией уже выплачены отцу ребенка.\n\nВ публикации не указаны сумма затрат, возраст ребенка, сроки перебоев и названия препаратов. Также не сообщается о мерах, которые помогут избежать подобных перебоев в будущем. Поскольку выплаты уже произведены, дальнейшие шаги по делу не описаны.",
-    "en": "On 8 November 2026, the Soviet District Prosecutor's Office in Ufa stepped in to protect the rights of a disabled child with diabetes. The office's press service announced it, and the Gorobzor news portal reported the case. The trigger was that the child had been left without the medicines it needed.\n\nThe check established that the child needs constant insulin and special medical supplies. However, supplies under the state benefit programme were repeatedly interrupted. Because the medicines were missing from pharmacies, the child's legal representative had to pay for them personally.\n\nThe prosecutors filed a lawsuit seeking repayment of the money spent and compensation for moral harm. The court fully upheld the agency's demands, and all costs plus the due compensation have already been paid to the child's father.\n\nThe report does not give the amount spent, the child's age, the timing of the interruptions or the names of the medicines. It also does not mention any measures to prevent future shortages. Since the payments have already been made, no further steps in the case are described.",
-    "kk": "2026 жылдың 8 қарашасында Уфа қаласының Советский ауданы прокуратурасы қант диабеті бар мүгедек баланың құқығын қорғауға араласты. Бұл туралы ведомствоның баспасөз қызметі хабарлады, ал оқиғаны «Горобзор» порталы жариялады. Себебі — баланың қажетті дәрісіз қалуы.\n\nТексеру барысында баланың тұрақты түрде инсулин мен арнайы медициналық бұйымдарды қабылдауы қажет екені анықталды. Алайда жеңілдетілген бағдарлама бойынша жеткізілім жиі үзіліп отырған. Дәрілер дәріханаларда болмағандықтан, баланың заңды өкілі оларды өз қаражатына сатып алуға мәжбүр болған.\n\nПрокуратура сотқа талап арызын берді: жұмсалған ақшаны қайтаруды және моральдық зиянға өтемақы төлеуді сұрады. Сот ведомствоның талаптарын толық қанағаттандырды, ал барлық шығын мен тиісті өтемақы баланың әкесіне қазірдің өзінде төленген.\n\nХабарда жұмсалған соманың мөлшері, баланың жасы, үзілістердің мерзімі және дәрілердің атаулары көрсетілмеген. Болашақта мұндай тапшылықтың алдын алу шаралары туралы да айтылмайды. Төлемдер жасалғандықтан, іс бойынша одан әрі қадамдар сипатталмаған.",
-    "de": "Am 8. November 2026 setzte sich die Staatsanwaltschaft des Sowjetski-Bezirks in Ufa für die Rechte eines behinderten Kindes mit Diabetes ein. Die Behörde teilte dies über ihren Pressedienst mit; berichtet hat das Nachrichtenportal Gorobzor. Auslöser war, dass dem Kind die nötigen Medikamente fehlten.\n\nEs stellte sich heraus, dass das Kind dauerhaft Insulin und spezielle medizinische Hilfsmittel benötigt. Die Versorgung im Rahmen des Vergünstigungsprogramms kam jedoch immer wieder ins Stocken. Weil die Präparate in den Apotheken fehlten, musste der gesetzliche Vertreter des Kindes sie selbst bezahlen.\n\nDie Staatsanwaltschaft reichte Klage ein mit der Forderung, das ausgegebene Geld zurückzuerstatten und eine Entschädigung für immateriellen Schaden zuzusprechen. Das Gericht gab den Forderungen der Behörde vollständig statt; alle Kosten sowie die zustehende Entschädigung wurden bereits an den Vater des Kindes ausgezahlt.\n\nDie Meldung nennt weder die Höhe der Ausgaben noch das Alter des Kindes, die Dauer der Lieferausfälle oder die Namen der Präparate. Auch Maßnahmen gegen künftige Engpässe werden nicht erwähnt. Da die Zahlungen bereits erfolgt sind, werden keine weiteren Schritte im Verfahren beschrieben.",
-    "es": "El 8 de noviembre de 2026, la Fiscalía del distrito Soviético de Ufa intervino para proteger los derechos de un niño con discapacidad que tiene diabetes. Así lo comunicó el servicio de prensa del organismo, y la noticia fue publicada por el portal Gorobzor. El detonante fue que el menor se había quedado sin los medicamentos que necesitaba.\n\nSe constató que el niño necesita insulina de forma permanente y dispositivos médicos especiales. Sin embargo, el suministro dentro del programa de prestaciones se interrumpía con frecuencia. Como los fármacos no estaban disponibles en las farmacias, el representante legal tuvo que pagarlos de su propio bolsillo.\n\nLa fiscalía presentó una demanda para recuperar el dinero gastado y obtener una indemnización por daño moral. El tribunal estimó por completo las pretensiones del organismo, y tanto los gastos como la compensación correspondiente ya han sido abonados al padre del niño.\n\nLa información no indica el monto de los gastos, la edad del menor, la duración de los cortes ni los nombres de los medicamentos. Tampoco menciona medidas para evitar futuras faltas de suministro. Como los pagos ya se realizaron, no se describen más pasos en el caso."
-   }
-  },
   {
    "id": "nbTg_b2M9NQ",
    "cat": "access",
-   "stage": "policy",
+   "stage": "report",
    "date": "2026-11-08",
-   "added": "2026-11-08T12:48:49.190Z",
+   "added": "2026-11-08T13:19:35.703Z",
    "title": {
     "ru": "Отцу ребёнка с диабетом из Уфы вернули деньги за инсулин после иска прокуратуры",
-    "en": "Father of child with diabetes in Ufa refunded for insulin after prosecutor's lawsuit",
-    "kk": "Уфадағы диабеті бар баланың әкесіне прокуратура талабынан кейін инсулинге төленген ақша қайтарылды",
-    "de": "Vater eines diabetischen Kindes aus Ufa erhält Geld für Insulin nach Klage der Staatsanwaltschaft zurück",
-    "es": "Padre de un niño con diabetes de Ufa recupera el dinero pagado por insulina tras una demanda de la fiscalía"
+    "en": "Father of child with diabetes from Ufa refunded for insulin after prosecutor's lawsuit",
+    "kk": "Уфадан шыққан диабеті бар баланың әкесіне прокуратура талабынан кейін инсулин үшін ақша қайтарылды",
+    "de": "Nach Klage der Staatsanwaltschaft erhielt der Vater eines diabetischen Kindes aus Ufa das Geld für Insulin zurück",
+    "es": "Tras una demanda de la fiscalía, el padre de un niño con diabetes de Ufa recupera el dinero del insulina"
    },
    "text": {
-    "ru": "После иска прокуратуры отцу ребёнка с диабетом из Уфы вернули деньги, уплаченные за инсулин.",
-    "en": "After a lawsuit by the prosecutor's office, the father of a child with diabetes from Ufa was refunded money paid for insulin.",
-    "kk": "Прокуратура талабынан кейін Уфадан шыққан диабеті бар баланың әкесіне инсулинге төленген ақша қайтарылды.",
-    "de": "Nach einer Klage der Staatsanwaltschaft wurde dem Vater eines diabetischen Kindes aus Ufa das für Insulin gezahlte Geld erstattet.",
-    "es": "Tras una demanda de la fiscalía, al padre de un niño con diabetes de Ufa le devolvieron el dinero pagado por insulina."
+    "ru": "После иска прокуратуры отцу ребёнка с диабетом из Уфы вернули деньги, потраченные на инсулин.",
+    "en": "After a prosecutor's lawsuit, the father of a child with diabetes in Ufa was refunded money spent on insulin.",
+    "kk": "Прокуратура талабынан кейін Уфадағы диабеті бар баланың әкесіне инсулинге жұмсалған ақша қайтарылды.",
+    "de": "Nach einer Klage der Staatsanwaltschaft wurde dem Vater eines Kindes mit Diabetes aus Ufa das für Insulin ausgegebene Geld erstattet.",
+    "es": "Tras una demanda de la fiscalía, al padre de un niño con diabetes de Ufa le devolvieron el dinero gastado en insulina."
    },
    "url": "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
    "src": "Ньюс-Баш",
    "photoQuery": "insulin pen close-up",
    "photo": {
-    "id": "u_TzKc7FGaL7Y",
-    "url": "https://images.unsplash.com/photo-1745939921744-ba8ef27940bf?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQxNDIxMzR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "id": "u_S5y5jdRCCsk",
+    "url": "https://images.unsplash.com/photo-1745939931505-da371555a603?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQxNDM5NzV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
     "credit": "Haberdoedas",
     "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=dia_news&utm_medium=referral",
-    "alt": "A semaglutide injection pen is shown"
+    "link": "https://unsplash.com/photos/insulin-pen-and-its-packaging-are-shown-S5y5jdRCCsk?utm_source=dia_news&utm_medium=referral",
+    "alt": "Insulin pen and its packaging are shown"
    },
    "body": {
-    "ru": "Прокуратура Советского района Уфы выступила в защиту прав ребёнка-инвалида, больного сахарным диабетом. Об этом сообщили в пресс-службе ведомства. По его данным, ребёнку постоянно необходимы инсулин и специальные медицинские изделия.\n\nПо льготной программе эти препараты должны поступать регулярно, однако поставки неоднократно срывались. Из-за того, что нужных лекарств не было в аптеках, законный представитель ребёнка вынужден был покупать их на собственные деньги.\n\nПрокуратура обратилась в суд с иском: потребовала вернуть уже потраченные средства и взыскать компенсацию морального вреда. Суд полностью удовлетворил требования надзорного ведомства. Согласно публикации, все расходы и положенная компенсация уже выплачены отцу ребёнка.\n\nВ материале не указаны сумма возмещения и размер компенсации, название суда и дата решения, а также продолжительность перебоев с поставками. Дальнейшие шаги после выплаты не описаны, поэтому нынешнее положение семьи из этого источника установить нельзя.",
-    "en": "Prosecutors in the Sovetsky district of Ufa have stepped in to protect the rights of a disabled child with diabetes, the district prosecutor's office said in a press statement. According to the agency, the child constantly needs insulin and special medical products.\n\nUnder the state benefit programme these supplies should arrive on a regular basis, but deliveries were repeatedly disrupted. Because the required medicines were not available at pharmacies, the child's legal representative had to buy them with personal funds.\n\nThe prosecutor's office brought a lawsuit seeking repayment of the money already spent and compensation for moral harm. The court fully upheld the agency's claims. According to the report, all costs and the awarded compensation have already been paid to the child's father.\n\nThe article does not state the refunded amount or the size of the compensation, the name of the court or the date of the ruling, or how long the supply gaps lasted. It also does not describe any steps after the payment, so the family's current situation cannot be established from this source.",
-    "kk": "Уфа қаласының Советский ауданы прокуратурасы қант диабеті бар мүгедек баланың құқығын қорғауға кірісті. Бұл туралы ведомствоның баспасөз қызметі хабарлады. Оның мәліметінше, балаға үнемі инсулин мен арнайы медициналық бұйымдар қажет.\n\nЖеңілдікті бағдарлама бойынша бұл препараттар тұрақты түрде жеткізілуі тиіс, бірақ жеткізу бірнеше рет үзілген. Дәріханаларда қажетті дәрілер болмағандықтан, баланың заңды өкілі оларды өз қаражатына сатып алуға мәжбүр болған.\n\nПрокуратура жұмсалған қаражатты қайтаруды және моральдық зиянға өтемақы төлеуді талап етіп, сотқа арыз берді. Сот ведомствоның талаптарын толық қанағаттандырды. Жарияланымға сәйкес, барлық шығын мен тағайындалған өтемақы баланың әкесіне қазірдің өзінде төленген.\n\nМатериалда қайтарылған сома мен өтемақы көлемі, соттың атауы мен шешім күні, сондай-ақ жеткізудегі үзілістердің ұзақтығы көрсетілмеген. Төлемнен кейінгі қадамдар сипатталмаған, сондықтан отбасының қазіргі жағдайын осы дерек көзінен анықтау мүмкін емес.",
-    "de": "Die Staatsanwaltschaft des Sowjetski-Bezirks in Ufa hat sich für die Rechte eines behinderten Kindes mit Diabetes eingesetzt, wie die Behörde über ihren Pressedienst mitteilte. Nach deren Angaben benötigt das Kind dauerhaft Insulin und spezielle medizinische Produkte.\n\nIm Rahmen des vergünstigten staatlichen Programms sollten diese Mittel regelmäßig geliefert werden, doch es kam wiederholt zu Lieferunterbrechungen. Weil die nötigen Präparate in den Apotheken fehlten, musste der gesetzliche Vertreter des Kindes sie aus eigenen Mitteln bezahlen.\n\nDie Staatsanwaltschaft reichte eine Klage ein und forderte die Rückzahlung der bereits ausgegebenen Summe sowie eine Entschädigung für immateriellen Schaden. Das Gericht gab den Forderungen der Behörde vollständig statt. Laut Bericht wurden sämtliche Kosten und die zugesprochene Entschädigung dem Vater des Kindes bereits ausgezahlt.\n\nDer Artikel nennt weder den erstatteten Betrag noch die Höhe der Entschädigung, den Namen des Gerichts oder das Datum der Entscheidung und auch nicht die Dauer der Versorgungslücken. Schritte nach der Zahlung werden ebenfalls nicht beschrieben, sodass die aktuelle Lage der Familie aus dieser Quelle allein nicht feststellbar ist.",
-    "es": "La Fiscalía del distrito Sovetski de Ufa, en Baskortostán (Rusia), intervino para defender los derechos de un niño con discapacidad y diabetes, según informó el propio organismo a través de su servicio de prensa. Según esa información, el menor necesita de forma constante insulina y productos médicos específicos.\n\nEn el marco del programa estatal de prestaciones, estos suministros deberían llegar de manera regular, pero las entregas se interrumpieron en repetidas ocasiones. Como los medicamentos necesarios no estaban disponibles en las farmacias, el representante legal del niño tuvo que comprarlos con su propio dinero.\n\nLa fiscalía presentó una demanda para exigir la devolución del dinero ya gastado y una indemnización por daño moral. El tribunal estimó íntegramente las pretensiones del organismo. Según el informe, todos los gastos y la indemnización reconocida ya han sido abonados al padre del menor.\n\nEl texto no indica la cantidad reembolsada ni el monto de la indemnización, tampoco el nombre del tribunal, la fecha de la resolución ni cuánto duraron los retrasos en el suministro. Tampoco describe medidas posteriores al pago, por lo que la situación actual de la familia no puede establecerse solo con esta fuente."
+    "ru": "8 ноября 2026 года прокуратура Советского района Уфы сообщила о вмешательстве в интересах ребенка-инвалида с сахарным диабетом. Ему постоянно требуются инсулин и специальные медицинские изделия.\n\nПо словам ведомства, льготное обеспечение регулярно прерывалось. Когда нужных препаратов не было в аптеках, законный представитель ребенка, его отец, покупал их на собственные средства. Сами перебои в тексте описаны лишь в общих чертах.\n\nПрокуратура подала иск о возврате потраченных денег и компенсации морального вреда. Суд полностью удовлетворил требования надзорного органа.\n\nПо сообщению, отцу уже выплачены все расходы и положенная компенсация. В статье не указаны суммы, даты покупок и возраст ребенка. В сообщении также не говорится, сколько было покупок и за какой период.\n\nИнформация исходит из пресс-службы прокуратуры, поэтому она отражает позицию ведомства. Дальнейшие шаги и независимые проверки в сообщении не описаны.",
+    "en": "On 8 November 2026, the Soviet district prosecutor's office in Ufa, Bashkortostan, announced that it had stepped in to protect the rights of a disabled child with diabetes. The child needs a constant supply of insulin and special medical devices.\n\nAccording to the agency, supplies under the preferential benefit program had repeatedly been interrupted. When the medicines were missing from pharmacies, the child's legal representative, the father, had to buy them with his own money. The article describes these interruptions only in general terms.\n\nThe prosecutor's office filed a lawsuit demanding repayment of the money spent plus compensation for moral harm. The court fully granted the agency's claims.\n\nAccording to the report, the father has since been paid all expenses and the awarded compensation. The article gives no amounts, purchase dates or the child's age. It also does not say how many purchases were made or over what period.\n\nThe information comes from the prosecutor's press service, so it reflects the agency's account. The report does not describe any further steps or independent checks.",
+    "kk": "2026 жылдың 8 қарашасында Башқұртстанның Уфа қаласы Кеңес ауданының прокуратурасы қант диабеті бар мүгедек баланың құқығын қорғауға араласқанын хабарлады. Балаға тұрақты түрде инсулин және арнайы медициналық бұйымдар қажет.\n\nВедомство мәліметінше, жеңілдетілген қамтамасыз ету жиі үзіліп тұрған. Дәрілер аптекаларда болмағанда баланың заңды өкілі, әкесі, оларды өз қаражатына сатып алуға мәжбүр болған. Үзілістер мәтінде жалпы түрде ғана сипатталған.\n\nПрокуратура жұмсалған ақшаны қайтаруды және моральдық зиян үшін өтемақы төлеуді талап етіп сотқа арыз берген. Сот қадағалау органының талаптарын толық қанағаттандырған.\n\nХабарламаға сәйкес, әкесіне қазір барлық шығын мен тағайындалған өтемақы төленген. Мақалада соманың мөлшері, сатып алу күндері және баланың жасы көрсетілмеген. Сондай-ақ сатып алулардың саны мен кезеңі де айтылмаған.\n\nАқпарат прокуратураның баспасөз қызметінен шыққан, сондықтан ол ведомствоның көзқарасын көрсетеді. Хабарламада әрі қарай қабылданатын шаралар мен тәуелсіз тексерулер сипатталмаған.",
+    "de": "Am 8. November 2026 meldete die Staatsanwaltschaft des Sowjetski-Bezirks in Ufa (Baschkirien), dass sie sich für die Rechte eines behinderten Kindes mit Diabetes eingesetzt hat. Das Kind braucht dauerhaft Insulin und spezielle Medizinprodukte.\n\nLaut der Behörde kam es bei der vergünstigten Versorgung immer wieder zu Unterbrechungen. Fehlten die Medikamente in den Apotheken, musste der gesetzliche Vertreter des Kindes, der Vater, sie aus eigenen Mitteln kaufen. Die Unterbrechungen werden nur allgemein beschrieben.\n\nDie Staatsanwaltschaft reichte eine Klage ein, mit der die Rückzahlung des verauslagten Geldes und eine Entschädigung für immateriellen Schaden verlangt wurden. Das Gericht gab den Forderungen der Behörde vollständig statt.\n\nDem Bericht zufolge wurden dem Vater inzwischen alle Ausgaben sowie die zugesprochene Entschädigung ausgezahlt. Der Artikel nennt weder Beträge, Kaufdaten noch das Alter des Kindes. Auch die Zahl der Käufe und der Zeitraum werden nicht genannt.\n\nDie Informationen stammen aus der Pressestelle der Staatsanwaltschaft und spiegeln daher deren Sicht wider. Weitere Schritte und unabhängige Prüfungen beschreibt die Meldung nicht.",
+    "es": "El 8 de noviembre de 2026, la fiscalía del distrito Sovetski de Ufa (Baskortostán) informó de que había intervenido para proteger los derechos de un menor con discapacidad y diabetes. El menor necesita insulina de forma constante y dispositivos médicos especiales.\n\nSegún el organismo, el suministro en condiciones preferenciales se había interrumpido en varias ocasiones. Cuando faltaban los medicamentos en las farmacias, el representante legal del menor, su padre, tenía que comprarlos con su propio dinero. Las interrupciones solo se describen en términos generales.\n\nLa fiscalía presentó una demanda para exigir la devolución del dinero gastado y una indemnización por daño moral. El tribunal estimó íntegramente las pretensiones del organismo.\n\nSegún el comunicado, el padre ya ha recibido el pago de todos los gastos y de la compensación establecida. La publicación no indica los importes, las fechas de compra ni la edad del menor. Tampoco se indica cuántas compras se hicieron ni en qué periodo.\n\nLa información procede del servicio de prensa de la fiscalía, por lo que refleja la versión de esa institución. El comunicado no describe pasos posteriores ni verificaciones independientes."
    }
+  },
+  {
+   "id": "nOUo_b2M9NQ",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-08",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Орловские врачи рассказали, как распознать диабет у детей",
+    "en": "Oryol doctors explain how to recognize diabetes in children",
+    "kk": "Орел дәрігерлері балалардағы диабетті қалай тануға болатынын түсіндірді",
+    "de": "Ärzte aus Orel erklären, wie Diabetes bei Kindern zu erkennen ist",
+    "es": "Médicos de Oriol explican cómo reconocer la diabetes en los niños"
+   },
+   "text": {
+    "ru": "Врачи Орла объяснили, по каким признакам можно распознать диабет у детей.",
+    "en": "Doctors in Oryol explained the signs by which diabetes in children can be recognized.",
+    "kk": "Орел дәрігерлері балалардағы диабетті қандай белгілер бойынша тануға болатынын түсіндірді.",
+    "de": "Ärzte in Orel erklärten, an welchen Anzeichen sich Diabetes bei Kindern erkennen lässt.",
+    "es": "Los médicos de Oriol explicaron los signos por los que puede reconocerse la diabetes en los niños."
+   },
+   "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
+   "src": "\"Орелтаймс\"",
+   "photoQuery": "pediatrician checking child health",
+   "photo": {
+    "id": "u_kinSYGfBSzc",
+    "url": "https://images.unsplash.com/photo-1676313030076-4ac0b37050fd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGVkaWF0cmljaWFuJTIwY2hlY2tpbmclMjBjaGlsZCUyMGhlYWx0aHxlbnwxfDB8fHwxNzk0MTQzOTc2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Bermix Studio",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-doctor-examining-a-childs-stomach-with-a-stethoscope-kinSYGfBSzc?utm_source=dia_news&utm_medium=referral",
+    "alt": "a doctor examining a child's stomach with a stethoscope"
+   },
+   "body": {
+    "ru": "8 ноября 2026 года «Орелтаймс» опубликовал материал со ссылкой на специалистов БУЗ Орловской области «Колпнянская ЦРБ». По их словам, диабет всё чаще выявляют у детей и молодых людей, а сам недуг может маскироваться под обычную усталость или период активного роста. Врачи подчёркивают, что задержка с диагностикой грозит серьёзными последствиями.\n\nЧаще всего у детей встречается диабет 1-го типа — аутоиммунное заболевание, при котором организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у молодых людей до 35–40 лет. Диабет 2-го типа, по данным медиков, тоже «молодеет» на фоне ожирения, фастфуда и малоподвижного образа жизни. Лечение при нём направлено на снижение инсулинорезистентности: диета с исключением рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками названы то, что ребёнок больше пьёт и ест, чаще ходит в туалет, резко худеет и жалуется на слабость без видимой причины. Родители нередко списывают это на нагрузку в школе или на подростковый рост. Механизм такой: без инсулина глюкоза не поступает из крови в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. По словам врачей, это требует госпитализации в реанимацию и в тяжёлых случаях ведёт к инвалидизации или гибели ребёнка.\n\nВ материале не приводится статистика по числу случаев в регионе, а рекомендации основаны на комментариях врачей одной больницы. В завершение авторы призывают родителей внимательно относиться к симптомам и своевременно обращаться к врачу.",
+    "en": "On 8 November 2026, Orel Times published a report citing specialists from the Kolpna central district hospital in the Oryol region. According to them, diabetes is being diagnosed more often in children and young people, and the illness can be mistaken for ordinary tiredness or a period of active growth. The doctors stress that a delayed diagnosis can have serious consequences.\n\nType 1 diabetes is the most common form in children. It is an autoimmune condition in which the body destroys the beta cells of the pancreas that produce insulin. It usually shows up between the ages of 4 and 14, but it can also appear later, including in young people up to 35–40 years old. According to the medics quoted, type 2 diabetes is also appearing at younger ages, linked to the obesity epidemic, fast food and sedentary lifestyles. Treatment aims to reduce insulin resistance through a diet that excludes refined carbohydrates, less fat and more physical activity.\n\nWarning signs include a child drinking and eating more, urinating more often, losing weight sharply and complaining of weakness without an apparent cause. Parents often attribute these to school workload or a growth spurt. Without insulin, glucose cannot pass from the blood into the tissues, so the body burns fat and protein, ketone bodies build up and ketoacidosis can develop. The doctors say this requires intensive care hospitalisation and, in severe cases, leads to disability or death.\n\nThe article gives no regional case statistics, and its advice comes from doctors at a single hospital. It closes by urging parents to watch for these symptoms and seek medical care promptly.",
+    "kk": "8 қараша 2026 жылы Орелтаймс басылымы Орел облысындағы «Колпнянская ЦРБ» мекемесінің мамандарына сүйеніп материал жариялады. Олардың айтуынша, балалар мен жас адамдар арасында қант диабеті бұрынғыдан жиі анықталып жатыр, ал ауру «қалыпты шаршау» немесе «белсенді өсу» кезеңі ретінде шатастырылуы мүмкін. Дәрігерлер диагнозды кешіктіру ауыр салдарға әкелетінін атап өтеді.\n\nБалаларда көбінесе 1-типті диабет кездеседі. Бұл аутоиммундық ауру: ағза ұйқы безінің инсулин өндіретін бета-жасушаларын жояды. Әдетте ол 4-тен 14 жасқа дейін білінеді, бірақ кейінірек, соның ішінде 35–40 жасқа дейінгі жастарда да пайда болуы мүмкін. Материалдағы мәліметтерге қарағанда, 2-типті диабет те семіздік, фастфуд және қозғалыссыз өмір салтымен байланысты түрде жас ұлғайып жатыр. Емдеу инсулинге төзімділікті азайтуға бағытталған: рафинадталған көмірсуларды алып тастайтын тағам, майды азайту және дене белсенділігін арттыру.\n\nАлаңдатарлық белгілер: бала көбірек ішеді және көбірек жейді, жиі зәр шығарады, күрт арықтайды және себепсіз әлсіздікке шағымданады. Ата-аналар мұны мектептегі жүктемемен немесе өсумен түсіндіруі жиі. Инсулинсіз глюкоза қаннан тіндерге өте алмайды, сондықтан ағза май мен ақуызды жағады, кетон денелері жинақталып, кетоацидоз дамуы мүмкін. Дәрігерлердің айтуынша, бұл реанимацияға жатқызуды қажет етеді, ал ауыр жағдайда мүгедектікке немесе баланың өліміне әкеледі.\n\nМатериалда аймақтағы жағдай туралы статистика жоқ, ал ұсынымдар бір аурухананың дәрігерлерінің пікіріне негізделген. Соңында ата-аналарға осы белгілерге назар аудару және уақытында дәрігерге қаралу шақырылады.",
+    "de": "Am 8. November 2026 veröffentlichte Orel Times einen Beitrag, der sich auf Fachleute der Zentralen Kreisklinik Kolpna im Gebiet Orel stützt. Demnach werden Diabeteserkrankungen bei Kindern und jungen Menschen immer häufiger festgestellt; die Krankheit kann sich hinter gewöhnlicher Müdigkeit oder einem Wachstumsschub verbergen. Die Ärzte betonen, dass eine verspätete Diagnose schwerwiegende Folgen haben kann.\n\nTyp-1-Diabetes ist bei Kindern am häufigsten. Es handelt sich um eine Autoimmunerkrankung, bei der der Körper die insulinproduzierenden Beta-Zellen der Bauchspeicheldrüse zerstört. Meist zeigt sie sich zwischen 4 und 14 Jahren, kann aber auch später auftreten, bei jungen Erwachsenen bis 35–40 Jahre. Laut dem Bericht wird auch Typ-2-Diabetes in jüngerem Alter sichtbar, was mit Adipositas, Fast Food und Bewegungsmangel zusammenhängt. Die Behandlung zielt darauf ab, die Insulinresistenz zu verringern: Ernährung ohne raffinierte Kohlenhydrate, weniger Fett und mehr Bewegung.\n\nWarnzeichen sind, wenn ein Kind mehr trinkt und isst, häufiger urinieren muss, stark abnimmt und ohne erkennbaren Grund über Schwäche klagt. Eltern führen dies oft auf die Schulbelastung oder das Wachstum zurück. Ohne Insulin kann Glukose nicht aus dem Blut ins Gewebe gelangen; der Körper verbrennt Fett und Eiweiß, Ketonkörper sammeln sich an, und eine Ketoazidose kann entstehen. Laut den Ärzten ist dafür eine Intensivbehandlung nötig; in schweren Fällen führt es zu Behinderung oder zum Tod des Kindes.\n\nDer Artikel enthält keine regionalen Fallzahlen, und die Empfehlungen stammen von Ärzten eines einzigen Krankenhauses. Abschließend appelliert er an Eltern, auf diese Symptome zu achten und rasch medizinische Hilfe zu suchen.",
+    "es": "El 8 de noviembre de 2026, Orel Times publicó un reportaje basado en especialistas del hospital central del distrito de Kolpna, en la región de Oriol. Según ellos, cada vez se detectan más casos de diabetes en niños y jóvenes, y la enfermedad puede confundirse con el cansancio habitual o con una etapa de crecimiento. Los médicos advierten de que retrasar el diagnóstico puede tener consecuencias graves.\n\nLa diabetes tipo 1 es la más frecuente en la infancia. Es una enfermedad autoinmune en la que el organismo destruye las células beta del páncreas que producen insulina. Suele aparecer entre los 4 y los 14 años, pero también puede manifestarse más tarde, incluso en personas de 35 a 40 años. Según el texto, la diabetes tipo 2 también aparece a edades más tempranas, vinculada a la epidemia de obesidad, la comida rápida y el sedentarismo. El tratamiento busca reducir la resistencia a la insulina mediante una dieta sin carbohidratos refinados, menos grasa y más actividad física.\n\nLas señales de alarma son que el niño beba y coma más, orine con mayor frecuencia, pierda peso bruscamente y se queje de debilidad sin causa aparente. Los padres suelen atribuirlo a la carga escolar o al estirón. Sin insulina, la glucosa no pasa de la sangre a los tejidos, así que el cuerpo quema grasas y proteínas, se acumulan cuerpos cetónicos y puede desarrollarse una cetoacidosis. Según los médicos, esto exige hospitalización en cuidados intensivos y, en casos graves, lleva a discapacidad o a la muerte.\n\nEl artículo no ofrece cifras de casos en la región, y sus recomendaciones proceden de médicos de un solo hospital. Su mensaje final pide a los padres estar atentos a estos síntomas y acudir al médico sin demora."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Типичный возраст начала диабета 1-го типа у детей",
+      "en": "Typical age of type 1 onset in children",
+      "kk": "Балаларда 1-типті диабеттің әдеттегі басталу жасы",
+      "de": "Typisches Erkrankungsalter bei Typ-1-Diabetes bei Kindern",
+      "es": "Edad típica de inicio de la diabetes tipo 1 en niños"
+     },
+     "v": {
+      "ru": "от 4 до 14 лет",
+      "en": "4 to 14 years",
+      "kk": "4-тен 14 жасқа дейін",
+      "de": "4 bis 14 Jahre",
+      "es": "de 4 a 14 años"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст, в котором заболевание может проявиться позже",
+      "en": "Age up to which the disease may appear later",
+      "kk": "Ауру кейінірек білінуі мүмкін жас шегі",
+      "de": "Alter, bis zu dem die Krankheit später auftreten kann",
+      "es": "Edad hasta la que la enfermedad puede manifestarse más tarde"
+     },
+     "v": {
+      "ru": "до 35–40 лет",
+      "en": "up to 35–40 years",
+      "kk": "35–40 жасқа дейін",
+      "de": "bis 35–40 Jahre",
+      "es": "hasta los 35–40 años"
+     }
+    }
+   ]
   },
   {
    "id": "nSGM_b2M9NQ",
@@ -118,7 +152,8 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/chest-x-ray-of-rib-cage-tHS9j3HWT1s?utm_source=dia_news&utm_medium=referral",
     "alt": "A chest X-ray showing the rib cage, lungs, and heart structure"
    },
-   "bodyTries": 1
+   "bodyTries": 1,
+   "bodyTried": true
   },
   {
    "id": "nG8wP29jPTU",
@@ -140,7 +175,7 @@ const DIA_NEWS={
     "de": "Eine Studie in einem Krankenhaus in Äthiopien ergab Lücken im Wissen der Patienten über die Selbstpflege ihrer Füße bei Diabetes.",
     "es": "Un estudio en un hospital de Etiopía encontró lagunas en el conocimiento de los pacientes sobre el autocuidado de los pies en la diabetes."
    },
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlFOZFVnenZYTGtKM1paUWpHX3RZaEk1dmllOTNmT0ZNU2NuWHFKWE1XdEhDbU50MmQ5VlNmVGRqQmZQT3dKczF0aUw4cmx0UEw5ckdTX2tzUjdHYUdkVmlWZW1wcGhWXzFCRTF2YjlnZnVvMTdsTkVSdTQxWjZVeVlaclNndkdpcUc4aTVNSzdkZkJtRUQtWEc0VEZVVDNJSlo0?oc=5",
+   "url": "https://bioengineer.org/hospital-study-reveals-gaps-in-diabetic-foot-self-care-knowledge-in-ethiopia/",
    "src": "Bioengineer.org",
    "photoQuery": "diabetic foot care nurse",
    "photo": {
@@ -151,7 +186,47 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/foot-massage-with-oil-nhEIkQVj0iI?utm_source=dia_news&utm_medium=referral",
     "alt": "Hands massaging a foot with oil on a white towel"
    },
-   "bodyTries": 1
+   "body": {
+    "ru": "Исследователи из Университетской клинической больницы Гондара на северо-западе Эфиопии изучили, насколько взрослые пациенты с диабетом знают правила ухода за стопами. Работа опубликована в журнале Discover Endocrinology and Metabolism. Данные собирали с 1 по 14 августа 2021 года в кабинете наблюдения за диабетом при этой больнице. Из 374 пациентов, которые прошли опрос (доля ответивших 97,1%), хорошие знания показала меньше половины.\n\nХорошие знания продемонстрировали 49,2% участников (95% доверительный интервал: 44,1–54,3%). Средний балл по 13 вопросам составил 6,6 при стандартном отклонении 3,3. Большинство понимало, что регулярный приём лекарств предотвращает осложнения, а почти две трети осознавали необходимость осмотра стоп, так как мелкие раны могут не ощущаться. Однако более половины не знали правильную температуру воды для мытья ног, как часто нужно менять обувь и что делать при покраснении или кровотечении из пальцев.\n\nЧетыре фактора были значимо связаны с лучшим уровнем знаний: образование на уровне колледжа и выше (скорректированное отношение шансов 2,33), знание своего типа диабета, ранее полученные инструкции по уходу за стопами и поддержка семьи. У пациентов с диабетом 1 типа шансы на хорошие знания были ниже (скорректированное OR 0,44) по сравнению с теми, кто не знал свой тип. 156 участников (41,1%) не знали, какой у них тип диабета, а более половины оценили семейную поддержку как низкую.\n\nАвторы указывают на ограничения: исследование проведено в одной больнице, причинно-следственные связи установить нельзя, ответы самооценочные и могут искажаться памятью или желанием понравиться, а использованный амхарский вариант опросника не проходил формальной проверки валидности и надёжности. Исследователи советуют регулярно обучать пациентов уходу за стопами с помощью аудиовизуальных материалов в часы ожидания в поликлинике, уделяя особое внимание пациентам с низким образованием, с диабетом 1 типа и без предшествующего обучения.",
+    "en": "Researchers at the University of Gondar Comprehensive Specialized Referral Hospital in northwest Ethiopia assessed how well adult patients with diabetes understand foot self-care. The cross-sectional study was published in Discover Endocrinology and Metabolism. Data were collected from August 1 to 14, 2021, at the hospital's diabetic follow-up clinic. Of the 374 patients who completed the survey (a 97.1% response rate), fewer than half showed good knowledge.\n\nGood knowledge was shown by 49.2% of participants (95% confidence interval: 44.1% to 54.3%). The mean score across 13 questions was 6.6, with a standard deviation of 3.3. Most respondents understood that taking regular medication prevents complications, and nearly two-thirds recognized the need for foot inspection because minor wounds can go unfelt. However, more than half did not know the correct water temperature for washing feet, how often footwear should be replaced, or what to do about toe redness or bleeding.\n\nFour factors were significantly linked to better knowledge: college education or higher (adjusted odds ratio 2.33), awareness of one's diabetes type, earlier foot-care instruction, and family support. Patients with type 1 diabetes had lower odds of good knowledge than those who did not know their type (adjusted OR 0.44). A total of 156 participants (41.1%) did not know their diabetes type, and more than half rated their family support as poor.\n\nThe authors acknowledge limitations: the study took place at a single hospital, cannot establish cause and effect, relied on self-reported answers that may be affected by recall or social desirability, and the Amharic version of the questionnaire lacked formal validity and reliability testing. The investigators recommend regular foot-care teaching with audiovisual materials during clinic waiting times, with particular attention to patients with lower education, those with type 1 diabetes, and those who have had no prior instruction.",
+    "kk": "Эфиопиядағы Гондар университетінің клиникалық мамандандырылған референс-ауруханасының зерттеушілері (Солтүстік-Батыс Эфиопия) ересек диабеттік пациенттердің аяқ күтімі туралы білімін бағалады. Жұмыс Discover Endocrinology and Metabolism журналында жарияланды. Деректер 2021 жылдың 1–14 тамызы аралығында аурухананың диабетті бақылау клиникасында жиналды. Сауалнаманы толтырған 374 пациенттің (жауап беру деңгейі 97,1%) жартысынан азы жақсы білім көрсетті.\n\nЖақсы білім деңгейіне қатысушылардың 49,2%-ы жетті (95% сенім аралығы: 44,1–54,3%). 13 сұрақ бойынша орташа балл 6,6, стандартты ауытқу 3,3 болды. Көпшілігі тұрақты дәрі қабылдаудың асқынуларды алдын алатынын білді, ал шамамен үштен екісі кішкентай жаралар сезілмеуі мүмкін болғандықтан аяқты тексеру қажеттігін түсінді. Дегенмен жартысынан көбі жуу суының дұрыс температурасын, аяқ киімді қанша жиі ауыстыру керектігін және саусақ қызарғанда немесе қан кеткенде не істеу керектігін білмеді.\n\nЖақсы білімге байланысты төрт фактор анықталды: колледж және одан жоғары білім (түзетілген шансы қатынасы 2,33), диабет түрін білу, бұрын аяқ күтімі бойынша нұсқаулық алу және отбасылық қолдау. 1-типті диабеті бар пациенттерде жақсы білу ықтималдығы өз түрін білмейтіндермен салыстырғанда төмен болды (түзетілген OR 0,44). 156 қатысушы (41,1%) өз диабетінің түрін білмеді, ал жартысынан көбі отбасылық қолдауды төмен деп бағалады.\n\nАвторлар шектеулерді атап өтті: зерттеу бір ауруханада жүргізілді, себеп-салдарлық байланысты анықтау мүмкін емес, жауаптар өзін-өзі бағалауға негізделген және есте сақтау немесе әлеуметтік қалауға байланысты бұрмалануы мүмкін, ал амхар тіліндегі сауалнама формальды валидтілік пен сенімділік тексерісінен өтпеген. Зерттеушілер пациенттерді аяқ күтіміне клиникада кезекте күтетін уақытта аудиовизуалды құралдармен оқытуды ұсынады; төмен білімі бар, 1-типті диабеті бар және бұрын нұсқаулық алмаған пациенттерге ерекше назар аудару қажет.",
+    "de": "Forschende des Universitätskrankenhauses Gondar im Nordwesten Äthiopiens haben untersucht, wie gut erwachsene Patientinnen und Patienten mit Diabetes die Fußpflege kennen. Die Querschnittsstudie wurde in der Fachzeitschrift Discover Endocrinology and Metabolism veröffentlicht. Die Befragung fand vom 1. bis 14. August 2021 in der diabetologischen Nachsorgeambulanz der Klinik statt. Von den 374 Teilnehmenden, die den Fragebogen vollständig beantworteten (Rücklaufquote 97,1 %), verfügte weniger als die Hälfte über gutes Wissen.\n\nGutes Wissen zeigten 49,2 % der Teilnehmenden (95-%-Konfidenzintervall: 44,1 bis 54,3 %). Der mittlere Wert bei 13 Fragen lag bei 6,6 mit einer Standardabweichung von 3,3. Die meisten wussten, dass regelmäßige Medikamenteneinnahme Komplikationen verhindert, und knapp zwei Drittel erkannten, wie wichtig die Fußkontrolle ist, weil kleine Wunden unbemerkt bleiben können. Mehr als die Hälfte wusste jedoch nicht, welche Wassertemperatur zum Waschen richtig ist, wie oft Schuhe zu wechseln sind oder was bei Rötung oder Blutung an den Zehen zu tun ist.\n\nVier Faktoren hingen signifikant mit besserem Wissen zusammen: ein Studium oder höherer Abschluss (adjustierte Odds Ratio 2,33), das Wissen um den eigenen Diabetestyp, frühere Anleitung zur Fußpflege und familiäre Unterstützung. Bei Typ-1-Diabetes lagen die Chancen auf gutes Wissen im Vergleich zu Personen, die ihren Typ nicht kannten, niedriger (adjustierte OR 0,44). 156 Teilnehmende (41,1 %) kannten ihren Diabetestyp nicht, und mehr als die Hälfte bewertete die familiäre Unterstützung als gering.\n\nDie Autorinnen und Autoren nennen Einschränkungen: Die Untersuchung fand nur an einem Krankenhaus statt, Ursache und Wirkung lassen sich nicht belegen, die Angaben beruhten auf Selbstauskunft und könnten durch Erinnerungslücken oder sozial erwünschte Antworten verzerrt sein, und der amharische Fragebogen war nicht formell auf Validität und Reliabilität geprüft. Das Team empfiehlt regelmäßige Fußpflegeschulungen mit audiovisuellen Medien während der Wartezeit in der Ambulanz, besonders für Menschen mit niedriger Bildung, mit Typ-1-Diabetes und ohne frühere Anleitung.",
+    "es": "Investigadores del Hospital Comprehensivo Especializado de Referencia de la Universidad de Gondar, en el noroeste de Etiopía, evaluaron cuánto saben los pacientes adultos con diabetes sobre el autocuidado del pie. El estudio transversal se publicó en la revista Discover Endocrinology and Metabolism. La encuesta se realizó del 1 al 14 de agosto de 2021 en la clínica de seguimiento diabético del hospital. De los 374 pacientes que completaron el cuestionario (tasa de respuesta del 97,1 %), menos de la mitad mostró buenos conocimientos.\n\nEl 49,2 % de los participantes alcanzó un nivel de buen conocimiento (intervalo de confianza del 95 %: 44,1 % a 54,3 %). La puntuación media en 13 preguntas fue de 6,6, con una desviación estándar de 3,3. La mayoría sabía que tomar la medicación con regularidad previene complicaciones, y casi dos tercios reconocían la necesidad de revisar los pies porque las heridas pequeñas pueden pasar desapercibidas. Sin embargo, más de la mitad desconocía la temperatura correcta del agua para lavar los pies, la frecuencia adecuada para cambiar el calzado y qué hacer ante enrojecimiento o sangrado de los dedos.\n\nCuatro factores se asociaron significativamente con un mejor conocimiento: tener estudios universitarios o superiores (odds ratio ajustada de 2,33), conocer el tipo de diabetes que se tiene, haber recibido instrucción previa sobre el cuidado de los pies y contar con apoyo familiar. Los pacientes con diabetes tipo 1 tuvieron menor probabilidad de buen conocimiento que quienes desconocían su tipo (OR ajustada de 0,44). 156 participantes (41,1 %) no sabían qué tipo de diabetes tenían, y más de la mitad calificó el apoyo familiar como bajo.\n\nLos autores señalan limitaciones: el estudio se hizo en un solo hospital, no permite establecer relaciones causales, las respuestas fueron autoinformadas y pueden estar sesgadas por la memoria o por la deseabilidad social, y el cuestionario traducido al amárico no tuvo pruebas formales de validez y fiabilidad. Recomiendan impartir educación periódica sobre el cuidado de los pies con material audiovisual durante la espera en consulta externa, prestando especial atención a quienes tienen menor escolaridad, diabetes tipo 1 o no han recibido instrucción previa."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Доля пациентов с хорошими знаниями о самоуходе за стопой",
+      "en": "Share of patients with good foot self-care knowledge",
+      "kk": "Аяқ күтімі туралы жақсы білімі бар пациенттердің үлесі",
+      "de": "Anteil der Patientinnen und Patienten mit gutem Wissen zur Fußpflege",
+      "es": "Proporción de pacientes con buenos conocimientos sobre el cuidado del pie"
+     },
+     "v": {
+      "ru": "49,2% (95% ДИ: 44,1–54,3%)",
+      "en": "49.2% (95% CI: 44.1–54.3%)",
+      "kk": "49,2% (95% СИ: 44,1–54,3%)",
+      "de": "49,2 % (95-%-KI: 44,1–54,3 %)",
+      "es": "49,2 % (IC 95 %: 44,1–54,3 %)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участники исследования",
+      "en": "Study participants",
+      "kk": "Зерттеуге қатысушылар",
+      "de": "Studienteilnehmende",
+      "es": "Participantes del estudio"
+     },
+     "v": {
+      "ru": "374 пациента; доля ответивших 97,1%",
+      "en": "374 patients; 97.1% response rate",
+      "kk": "374 пациент; жауап беру деңгейі 97,1%",
+      "de": "374 Patientinnen und Patienten; Rücklaufquote 97,1 %",
+      "es": "374 pacientes; tasa de respuesta del 97,1 %"
+     }
+    }
+   ]
   },
   {
    "id": "nTBNP29jPTU",
@@ -176,77 +251,111 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmVHS0ZpbmlYM0NBYVYtR3dFSDRZYl9kOGNEd2o4MXlDNGZKT2ItazBVaWZjMzBodzhTWmJvWlVXNDZfR1d6SUJrbElHTVhCNlk0VmpDaWdxQ3ZjRzVVN21fU3ZXRkZFUENBbm9NUXFvU1doYVp0Nk8yb1lHMGRSRjNUZkJ0WVd5TzlweWt1OEtYOW96ODJPQUlDTmpNTy1EeS1ZNS1HNWVPT19HQjJObGFuNDNyOUpfaDgzZUc1U0M?oc=5",
    "src": "Bioengineer.org",
    "photoQuery": "blood glucose meter testing",
-   "bodyTries": 1
+   "bodyTries": 1,
+   "bodyTried": true
   },
   {
-   "id": "nOUo_b2M9NQ",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-08",
-   "added": "2026-11-08T12:48:49.190Z",
+   "id": "nlVUT9vYz01",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-07",
+   "added": "2026-11-08T13:19:35.703Z",
    "title": {
-    "ru": "Орловские врачи рассказали, как распознать диабет у детей",
-    "en": "Oryol doctors explain how to recognise diabetes in children",
-    "kk": "Орел дәрігерлері балалардағы диабетті қалай анықтауға болатынын түсіндірді",
-    "de": "Ärzte aus Orjol erklären, wie man Diabetes bei Kindern erkennt",
-    "es": "Médicos de Oriol explican cómo reconocer la diabetes en los niños"
+    "ru": "Минздрав предложил разрешить дистанционное наблюдение пациентов с гипертонией и диабетом",
+    "en": "Health ministry proposes allowing remote monitoring of patients with hypertension and diabetes",
+    "kk": "Денсаулық сақтау министрлігі гипертониясы және диабеті бар пациенттерді қашықтан бақылауға рұқсат беруді ұсынды",
+    "de": "Gesundheitsministerium schlägt Fernüberwachung von Patienten mit Bluthochdruck und Diabetes vor",
+    "es": "El Ministerio de Salud propone permitir el seguimiento remoto de pacientes con hipertensión y diabetes"
    },
    "text": {
-    "ru": "Врачи Орловской области рассказали родителям, на какие признаки диабета у детей стоит обратить внимание.",
-    "en": "Doctors in the Oryol region explained to parents which signs of diabetes in children to watch for.",
-    "kk": "Орел облысының дәрігерлері ата-analарға балалардағы диабеттің қандай белгілеріне назар аудару керектігін түсіндірді.",
-    "de": "Ärzte aus der Region Orjol erklärten Eltern, auf welche Anzeichen von Diabetes bei Kindern sie achten sollten.",
-    "es": "Los médicos de la región de Oriol explicaron a los padres qué signos de diabetes en los niños deben vigilar."
+    "ru": "Врачи могли бы наблюдать пациентов с повышенным давлением и диабетом дистанционно.",
+    "en": "Doctors could monitor patients with high blood pressure and diabetes remotely under the proposal.",
+    "kk": "Ұсыныс бойынша дәрігерлер жоғары қан қысымы және диабеті бар пациенттерді қашықтан бақылай алады.",
+    "de": "Nach dem Vorschlag könnten Ärzte Patienten mit Bluthochdruck und Diabetes aus der Ferne betreuen.",
+    "es": "Según la propuesta, los médicos podrían supervisar a distancia a pacientes con hipertensión y diabetes."
    },
-   "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
-   "src": "\"Орелтаймс\"",
-   "photoQuery": "pediatrician checking child",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRVo3UHNXdW5BVDh6bzB3NHFRalRsNm1FYlk0aU1pY3VpSjRMYnh3R0dPQ3l6eEd5aWQtX3IwN29mMVk5cUY5OFctdnViVmsySE9BRDN2bnJiUQ?oc=5",
+   "src": "Новости Новомосковск сегодня",
+   "photoQuery": "telehealth video consultation doctor",
    "photo": {
-    "id": "u_fx9RJgZYRUE",
-    "url": "https://images.unsplash.com/photo-1632053002928-1919605ee6f7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cGVkaWF0cmljaWFuJTIwY2hlY2tpbmclMjBjaGlsZHxlbnwxfDB8fHwxNzk0MTQyMTM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "CDC",
+    "id": "u_c1ZGaJTOnJs",
+    "url": "https://images.unsplash.com/photo-1758691462743-f9fc9e430d39?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8dGVsZWhlYWx0aCUyMHZpZGVvJTIwY29uc3VsdGF0aW9uJTIwZG9jdG9yfGVufDF8MHx8fDE3OTQxNDM5Nzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitaly Gariev",
     "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-young-child-is-being-examined-by-a-doctor-fx9RJgZYRUE?utm_source=dia_news&utm_medium=referral",
-    "alt": "a young child is being examined by a doctor"
+    "link": "https://unsplash.com/photos/doctor-consulting-patient-via-video-call-on-laptop-c1ZGaJTOnJs?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor consulting patient via video call on laptop"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nBTUT9vYz01",
+   "cat": "events",
+   "stage": "conference",
+   "date": "2026-11-07",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Нге Ан делится последними достижениями в диагностике и лечении эндокринных заболеваний и диабета",
+    "en": "Nghe An shares latest advances in diagnosing and treating endocrine diseases and diabetes",
+    "kk": "Нге Ан эндокриндік аурулар мен диабетті диагностикалау және емдеудегі соңғы жетістіктерімен бөліседі",
+    "de": "Nghe An stellt neueste Fortschritte bei Diagnose und Behandlung endokriner Erkrankungen und Diabetes vor",
+    "es": "Nghe An comparte los últimos avances en el diagnóstico y tratamiento de enfermedades endocrinas y la diabetes"
+   },
+   "text": {
+    "ru": "Провинция Нге Ан представила последние достижения в диагностике и лечении эндокринных заболеваний и диабета.",
+    "en": "Nghe An province presented recent advances in the diagnosis and treatment of endocrine diseases and diabetes.",
+    "kk": "Нге Ан провинциясы эндокриндік аурулар мен диабетті диагностикалау және емдеудегі соңғы жетістіктерді ұсынды.",
+    "de": "Die Provinz Nghe An stellte aktuelle Fortschritte bei Diagnose und Behandlung endokriner Erkrankungen und Diabetes vor.",
+    "es": "La provincia de Nghe An presentó los avances recientes en el diagnóstico y tratamiento de enfermedades endocrinas y la diabetes."
+   },
+   "url": "https://baonghean.vn/nghe-an-cap-nhat-tien-bo-moi-trong-chan-doan-dieu-tri-benh-noi-tiet-dai-thao-duong-10355308.html",
+   "src": "Báo Nghệ An",
+   "photoQuery": "medical conference doctors presentation",
+   "photo": {
+    "id": "u_EVgsAbL51Rk",
+    "url": "https://images.unsplash.com/photo-1558008258-3256797b43f3?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGNvbmZlcmVuY2UlMjBkb2N0b3JzJTIwcHJlc2VudGF0aW9ufGVufDF8MHx8fDE3OTQxNDM5Nzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Stem List",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/audience-in-a-conference-EVgsAbL51Rk?utm_source=dia_news&utm_medium=referral",
+    "alt": "audience in a conference"
    },
    "body": {
-    "ru": "Врачи БУЗ Орловской области «Колпнянская ЦРБ» рассказали, как распознать сахарный диабет у детей. Об этом 8 ноября 2026 года сообщил «Орелтаймс». По их словам, случаи заболевания всё чаще фиксируются у детей и молодёжи. Болезнь может маскироваться под обычную усталость или активный рост, а откладывание диагностики чревато тяжёлыми последствиями.\n\nЧаще всего у детей встречается диабет 1-го типа — аутоиммунное заболевание, при котором организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у людей до 35–40 лет. Диабет 2-го типа, по словам медиков, тоже «молодеет» из-за эпидемии ожирения, фастфуда и малоподвижного образа жизни. У детей с ожирением на начальных этапах повышен уровень инсулина; лечение направлено на снижение инсулинорезистентности: диета без рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками врачи называют то, что ребёнок больше пьёт и ест, чаще ходит в туалет, резко худеет и жалуется на слабость без видимой причины. Родители нередко объясняют это нагрузкой в школе или тем, что подросток быстро растёт. Без инсулина глюкоза не поступает из крови в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. Как предупреждают врачи, это требует госпитализации в реанимацию, а в тяжёлых случаях может привести к инвалидности или гибели ребёнка.\n\nВ заключение специалисты призывают родителей внимательнее относиться к симптомам и вовремя обращаться к врачам, поскольку чем раньше поставлен диагноз, тем больше возможностей для эффективного лечения и профилактики осложнений. Автор материала — Дарья Панова.",
-    "en": "Doctors at the Kolpna Central District Hospital (BUZ of the Oryol Region «Kolpnyanskaya CRB») have explained how to recognise diabetes in children, according to a report by the Oryol Times published on 8 November 2026. They say cases are increasingly being recorded among children and young people. The illness can be disguised as ordinary tiredness or rapid growth, and delaying diagnosis can have serious consequences.\n\nType 1 diabetes is the most common form in children. It is an autoimmune condition in which the body destroys the insulin-producing beta cells of the pancreas. It usually appears between the ages of 4 and 14, but it can also emerge later, including in people up to 35–40 years old. According to doctors, type 2 diabetes is also appearing at younger ages, driven by the obesity epidemic, fast food and sedentary lifestyles. In children with obesity, insulin levels are initially raised, and treatment aims to reduce insulin resistance through a diet without refined carbohydrates, less fat and more physical activity.\n\nThe warning signs doctors point to are a child drinking and eating more, urinating more often, losing weight sharply, and complaining of weakness without an obvious cause. Parents often attribute these to school workload or a teenager growing fast. Without insulin, glucose cannot move from the blood into the tissues, so the body starts burning fat and protein, ketone bodies build up and ketoacidosis develops. Doctors warn that this requires intensive care hospitalisation and, in severe cases, can lead to disability or the death of the child.\n\nIn conclusion, the specialists urge parents to pay closer attention to symptoms and see a doctor in time, since the earlier a diagnosis is made, the greater the options for effective treatment and for preventing complications. The article is by Daria Panova.",
-    "kk": "Орел облысындағы «Колпнянская ЦРБ» дәрігерлері балалардағы қант диабетін қалай анықтау керектігін түсіндірді. Бұл туралы «Орелтаймс» 2026 жылғы 8 қарашада хабарлады. Олардың айтуынша, балалар мен жастар арасында ауру жағдайлары барған сайын көбеюде. Ауру әдеттегі шаршау немесе белсенді өсу сияқты көрінуі мүмкін, ал диагнозды кешіктіру ауыр салдарға әкелуі мүмкін.\n\nБалаларда ең жиі 1-түрдегі диабет кездеседі. Бұл аутоиммундық ауру, онда ағза ұйқы безінің инсулин шығаратын бета-жасушаларын жояды. Ол әдетте 4-тен 14 жасқа дейін білінеді, бірақ кейінірек, соның ішінде 35–40 жасқа дейінгі адамдарда да пайда болуы мүмкін. Дәрігерлердің айтуынша, 2-түрдегі диабет те семіздік эпидемиясы, фастфуд және қозғалыссыз өмір салты себепті жас арасында кездесе бастаған. Семіз балаларда бастапқы кезеңде инсулин деңгейі жоғарылайды; емдеу инсулинге төзімділікті азайтуға бағытталған: рафинадталған көмірсуы жоқ диета, аз май және көбірек дене белсенділігі.\n\nДәрігерлер ескерту белгілері ретінде баланың көбірек ішіп-жеп, жиі дәретханаға баруын, күрт арықтауын және себепсіз әлсіздікке шағымдануын атайды. Ата-аналар мұны мектептегі жүктеме немесе жасөспірімнің тез өсуімен түсіндіреді. Инсулинсіз глюкоза қаннан тіндерге өте алмайды, сондықтан ағза майлар мен ақуыздарды жағуға көшеді, кетон денелері жиналып, кетоацидоз дамиды. Дәрігерлердің ескертуінше, бұл реанимацияға жатқызуды талап етеді және ауыр жағдайда баланы мүгедектікке немесе өлімге әкелуі мүмкін.\n\nҚорытындыда мамандар ата-аналарды белгілерге мұқият қарауға және уақытында дәрігерге жүгінуге шақырады, себебі диагноз неғұрлым ертерек қойылса, тиімді емдеу мүмкіндігі соғұрлым көп болады және асқыныстардың алдын алуға болады. Материалдың авторы — Дарья Панова.",
-    "de": "Ärzte aus der Region Orjol haben erklärt, wie sich Diabetes bei Kindern erkennen lässt, berichtete die Zeitung Oreltimes am 8. November 2026. Laut der Kreisklinik Kolpna (BUZ der Region Orjol „Kolpnjanskaja CRB“) werden Fälle bei Kindern und jungen Menschen immer häufiger registriert. Die Krankheit kann sich hinter gewöhnlicher Müdigkeit oder schnellem Wachstum verbergen, und eine verzögerte Diagnose kann schwerwiegende Folgen haben.\n\nAm häufigsten tritt bei Kindern Typ-1-Diabetes auf, eine Autoimmunerkrankung, bei der der Körper die insulinbildenden Beta-Zellen der Bauchspeicheldrüse zerstört. Sie zeigt sich meist zwischen 4 und 14 Jahren, kann aber auch später auftreten, auch bei Menschen bis 35 bis 40 Jahre. Auch Typ-2-Diabetes tritt laut Medizinern durch die Adipositas-Epidemie, Fast Food und Bewegungsmangel in immer jüngerem Alter auf. Bei übergewichtigen Kindern ist der Insulinspiegel in den Anfangsstadien erhöht; die Behandlung zielt auf eine geringere Insulinresistenz ab, etwa durch eine Ernährung ohne raffinierte Kohlenhydrate, weniger Fett und mehr Bewegung.\n\nAls Warnzeichen nennen die Ärzte, dass das Kind mehr trinkt und isst, häufiger zur Toilette muss, stark abnimmt und ohne erkennbaren Grund über Schwäche klagt. Eltern führen dies oft auf Schulbelastung oder das schnelle Wachstum eines Teenagers zurück. Ohne Insulin kann Glukose nicht aus dem Blut in das Gewebe gelangen; der Körper verbrennt dann Fette und Eiweiße, Ketonkörper sammeln sich an und es kommt zur Ketoazidose. Die Ärzte warnen, dass dies eine Behandlung auf der Intensivstation erfordert und in schweren Fällen zu Behinderung oder zum Tod des Kindes führen kann.\n\nZum Schluss fordern die Fachleute Eltern auf, Symptome genauer zu beobachten und rechtzeitig einen Arzt aufzusuchen, denn je früher die Diagnose gestellt wird, desto größer sind die Möglichkeiten einer wirksamen Behandlung und der Vorbeugung von Komplikationen. Die Autorin des Beitrags ist Daria Panowa.",
-    "es": "Médicos de la región de Oriol explicaron cómo reconocer la diabetes en niños, según informó Oreltimes el 8 de noviembre de 2026. Según el hospital distrital de Kolpna (BUZ de la región de Oriol «Kolpnyanskaya CRB»), cada vez se registran más casos en niños y jóvenes. La enfermedad puede disimularse como cansancio común o crecimiento acelerado, y retrasar el diagnóstico puede tener consecuencias graves.\n\nLa forma más frecuente en niños es la diabetes tipo 1, una enfermedad autoinmune en la que el organismo destruye las células beta del páncreas que producen insulina. Suele manifestarse entre los 4 y los 14 años, aunque también puede aparecer más tarde, incluso hasta los 35–40 años. Según los médicos, la diabetes tipo 2 también se presenta a edades más tempranas por la epidemia de obesidad, la comida rápida y el sedentarismo. En niños con obesidad, el nivel de insulina está elevado en las primeras etapas; el tratamiento busca reducir la resistencia a la insulina con una dieta sin carbohidratos refinados, menos grasas y más actividad física.\n\nEntre las señales de alerta que señalan los médicos están que el niño beba y coma más, orine con más frecuencia, pierda peso bruscamente y se queje de debilidad sin una causa evidente. Los padres suelen atribuir estos síntomas a la carga escolar o al estirón de un adolescente. Sin insulina, la glucosa no pasa de la sangre a los tejidos, por lo que el cuerpo quema grasas y proteínas, se acumulan cuerpos cetónicos y aparece la cetoacidosis. Los médicos advierten de que esto exige hospitalización en cuidados intensivos y que, en casos graves, puede causar discapacidad o la muerte del niño.\n\nPara concluir, los especialistas piden a los padres prestar más atención a los síntomas y acudir al médico a tiempo, ya que cuanto antes se haga el diagnóstico, mayores son las opciones de un tratamiento eficaz y de prevenir complicaciones. El texto es de Daria Panova."
+    "ru": "7 ноября 2026 года Управление здравоохранения Нгеан совместно с Больницей эндокринологии Нгеан провело научный семинар по эндокринологии и диабету на 2026 год. Мероприятие приурочено к Всемирному дню борьбы с диабетом (14 ноября) и Дню всенародного употребления йодированной соли (2 ноября). В нём приняли участие медицинские работники, специалисты, врачи и фармацевты из провинции и других регионов.\n\nСеминар стал профессиональной площадкой, где участники узнали о новых подходах к диагностике и лечению эндокринных и метаболических нарушений, а также обменялись опытом и повысили квалификацию. Делегаты прослушали три научные сессии. Темы касались эпидемиологии диабета, новых консенсусов по его лечению, комплексного ведения сердечно-сосудистых, почечных и метаболических рисков, индивидуализации терапии и применения искусственного интеллекта в клинической практике.\n\nВыступающие также рассказали о многофакторном управлении ожирением, инсулинорезистентности, редких эндокринных заболеваниях и разборе реальных клинических случаев. Ключевая мысль семинара заключалась в том, что лечение должно выходить за рамки контроля отдельных показателей и переходить к управлению общими факторами риска, подбору схемы под каждого пациента и защите здоровья в долгосрочной перспективе. В статье отмечается, что ИИ может помогать врачам в диагностике, наблюдении и лечении при условии научной обоснованности и безопасности.\n\nОрганизаторы считают, что полученные знания помогут медицинским учреждениям применять их при обследовании и лечении, улучшать ведение диабета, заболеваний щитовидной железы и нарушений обмена веществ, снижать риск осложнений и повышать качество жизни пациентов. В статье не приводятся конкретные данные о пациентах, результатах или планах дальнейших действий после семинара.",
+    "en": "On 7 November 2026, the Nghe An Department of Health, together with the Nghe An Endocrinology Hospital, held a scientific workshop on endocrinology and diabetes for 2026. The event was timed to the run-up to World Diabetes Day (14 November) and National Iodized Salt Day (2 November). Health workers, specialists, doctors and pharmacists from inside and outside the province took part.\n\nThe workshop served as a professional forum for updating participants on recent advances in diagnosing and treating endocrine and metabolic disorders, and for exchanging experience and building skills. Delegates attended three scientific sessions. Topics included diabetes epidemiology, new consensus on diabetes treatment, comprehensive management of cardiovascular, kidney and metabolic risk, individualised therapy, and the use of artificial intelligence in clinical practice.\n\nSpeakers also covered multimodal obesity management, insulin resistance, rare endocrine conditions and case-based discussions of real patients. A central message was that care should look beyond single indicators toward managing overall risk factors, tailoring treatment plans to each patient and protecting long-term health. The article notes that AI could help doctors with diagnosis, monitoring and treatment, provided it rests on sound science and safety.\n\nOrganisers expect the knowledge shared to help health facilities apply it in examinations and treatment, improve the management of diabetes, thyroid disease and metabolic disorders, reduce complications and raise patients' quality of life. The article does not report specific patient figures, outcomes or follow-up plans from the workshop.",
+    "kk": "2026 жылғы 7 қарашада Нгеан провинциясының денсаулық сақтау басқармасы Нгеан эндокринология ауруханасымен бірлесіп, 2026 жылға арналған эндокринология және диабет бойынша ғылыми семинар өткізді. Іс-шара Бүкіләлемдік диабетпен күрес күніне (14 қараша) және йодталған тұз қолдану жалпыхалықтық күніне (2 қараша) орай ұйымдастырылды. Оған провинция ішінен және сыртынан медицина қызметкерлері, мамандар, дәрігерлер мен фармацевттер қатысты.\n\nСеминар қатысушыларға эндокриндік және метаболизмдік бұзылыстарды диагностикалау мен емдеудегі соңғы жетістіктерді таныстыратын, тәжірибе алмасуға және біліктілікті арттыруға мүмкіндік беретін кәсіби алаң болды. Делегаттар үш ғылыми сессияға қатысты. Талқыланған тақырыптарға диабеттің эпидемиологиясы, диабетті емдеу бойынша жаңа консенсустар, жүрек-қан тамыры, бүйрек және метаболизм қауіптерін кешенді басқару, емді жекелендіру және клиникалық тәжірибеде жасанды интеллектті қолдану жатты.\n\nСөйлеушілер көпфакторлы семіздікті басқару, инсулинге резистенттілік, сирек кездесетін эндокриндік аурулар және нақты емделушілердің жағдайларын талдау туралы да айтты. Семинардың негізгі ойы бөлек көрсеткіштерді бақылаудан асып, жалпы қауіп факторларын басқаруға, әр емделушіге жеке емдеу жоспарын таңдауға және ұзақ мерзімді денсаулықты қорғауға көшу қажеттігі болды. Мақалада ЖИ дәрігерлерге диагностикада, бақылауда және емдеуде көмектесе алатыны, бірақ бұл ғылыми негізге және қауіпсіздікке сүйенуі керектігі атап өтілген.\n\nҰйымдастырушылар ортақ білімнің денсаулық сақтау мекемелеріне тексеру мен емдеуде қолдануға, диабетті, қалқанша безі ауруларын және зат алмасу бұзылыстарын басқаруды жақсартуға, асқынулар қаupiуын азайтуға және емделушілердің өмір сапасын арттыруға көмектеседі деп күтеді. Мақалада семинардан кейінгі нақты пациенттер деректері, нәтижелер немесе кейінгі іс-шаралар жоспары туралы ақпарат жоқ.",
+    "de": "Am 7. November 2026 veranstaltete das Gesundheitsamt der Provinz Nghe An gemeinsam mit dem Endokrinologie-Krankenhaus Nghe An einen wissenschaftlichen Workshop zu Endokrinologie und Diabetes für 2026. Die Veranstaltung fiel in die Zeit vor dem Weltdiabetestag (14. November) und dem Nationalen Tag des jodierten Salzes (2. November). Teilnehmer waren Gesundheitsfachkräfte, Fachärzte, Ärzte und Apotheker aus der Provinz und von außerhalb.\n\nDer Workshop diente als fachliches Forum, um die Teilnehmer über neue Fortschritte bei Diagnostik und Behandlung endokriner und metabolischer Erkrankungen zu informieren sowie Erfahrungen auszutauschen und Kompetenzen zu stärken. Die Delegierten besuchten drei wissenschaftliche Sitzungen. Behandelt wurden unter anderem die Epidemiologie des Diabetes, neue Konsensusempfehlungen zu seiner Therapie, die umfassende Steuerung kardiovaskulärer, renaler und metabolischer Risiken, individualisierte Behandlung sowie der Einsatz künstlicher Intelligenz in der klinischen Praxis.\n\nReferenten sprachen außerdem über die multimodale Behandlung von Adipositas, Insulinresistenz, seltene endokrine Erkrankungen und die Besprechung realer Fallbeispiele. Eine zentrale Botschaft lautete, dass sich die Versorgung von der Kontrolle einzelner Werte hin zur Steuerung des Gesamtrisikos, zu auf jeden Patienten abgestimmten Behandlungsplänen und zum langfristigen Schutz der Gesundheit entwickeln sollte. Laut Artikel könnte KI Ärzten bei Diagnose, Überwachung und Behandlung helfen, sofern sie auf solider wissenschaftlicher Grundlage und mit Blick auf die Sicherheit eingesetzt wird.\n\nDie Veranstalter erwarten, dass das vermittelte Wissen Gesundheitseinrichtungen dabei unterstützt, es bei Untersuchungen und Behandlungen anzuwenden, die Versorgung von Diabetes, Schilddrüsenerkrankungen und Stoffwechselstörungen zu verbessern, Komplikationen zu verringern und die Lebensqualität der Patienten zu erhöhen. Der Artikel nennt keine konkreten Patientenzahlen, Ergebnisse oder Folgepläne des Workshops.",
+    "es": "El 7 de noviembre de 2026, el Departamento de Salud de la provincia de Nghe An, junto con el Hospital de Endocrinología de Nghe An, celebró un taller científico sobre endocrinología y diabetes correspondiente a 2026. El evento se programó en vísperas del Día Mundial de la Diabetes (14 de noviembre) y del Día Nacional de la Sal Yodada (2 de noviembre). Participaron personal sanitario, especialistas, médicos y farmacéuticos de dentro y fuera de la provincia.\n\nEl taller funcionó como foro profesional para actualizar a los asistentes sobre los avances recientes en el diagnóstico y tratamiento de trastornos endocrinos y metabólicos, y para intercambiar experiencias y mejorar competencias. Los delegados asistieron a tres sesiones científicas. Los temas incluyeron la epidemiología de la diabetes, los nuevos consensos sobre su tratamiento, el manejo integral del riesgo cardiovascular, renal y metabólico, la terapia individualizada y el uso de la inteligencia artificial en la práctica clínica.\n\nLos ponentes abordaron además el manejo multimodal de la obesidad, la resistencia a la insulina, las enfermedades endocrinas poco frecuentes y el análisis de casos reales. Un mensaje central fue que la atención debe ir más allá del control de indicadores aislados, hacia la gestión de los factores de riesgo globales, la adaptación de los planes terapéuticos a cada paciente y la protección de la salud a largo plazo. El artículo señala que la IA podría ayudar a los médicos en el diagnóstico, el seguimiento y el tratamiento, siempre que se base en una ciencia sólida y garantice la seguridad.\n\nLos organizadores esperan que los conocimientos compartidos ayuden a los centros sanitarios a aplicarlos en exámenes y tratamientos, a mejorar el manejo de la diabetes, las enfermedades tiroideas y los trastornos metabólicos, a reducir las complicaciones y a elevar la calidad de vida de los pacientes. El artículo no informa de cifras concretas de pacientes, resultados ni planes de seguimiento tras el taller."
    },
    "facts": [
     {
      "k": {
-      "ru": "Типичный возраст начала диабета 1-го типа",
-      "en": "Typical onset age for type 1 diabetes",
-      "kk": "1-түрдегі диабеттің әдеттегі басталу жасы",
-      "de": "Typisches Erkrankungsalter bei Typ-1-Diabetes",
-      "es": "Edad típica de inicio de la diabetes tipo 1"
+      "ru": "Научные сессии семинара",
+      "en": "Scientific sessions at the workshop",
+      "kk": "Семинардағы ғылыми сессиялар",
+      "de": "Wissenschaftliche Sitzungen des Workshops",
+      "es": "Sesiones científicas del taller"
      },
      "v": {
-      "ru": "от 4 до 14 лет",
-      "en": "4 to 14 years",
-      "kk": "4-тен 14 жасқа дейін",
-      "de": "4 bis 14 Jahre",
-      "es": "de 4 a 14 años"
+      "ru": "3",
+      "en": "3",
+      "kk": "3",
+      "de": "3",
+      "es": "3"
      }
     },
     {
      "k": {
-      "ru": "Возможный возраст проявления диабета в более позднем возрасте",
-      "en": "Possible later onset of diabetes",
-      "kk": "Кейінірек білінуі мүмкін жас шегі",
-      "de": "Mögliches späteres Erkrankungsalter",
-      "es": "Posible inicio más tardío de la enfermedad"
+      "ru": "Дата проведения семинара",
+      "en": "Workshop date",
+      "kk": "Семинар өткен күн",
+      "de": "Datum des Workshops",
+      "es": "Fecha del taller"
      },
      "v": {
-      "ru": "до 35–40 лет",
-      "en": "up to 35–40 years",
-      "kk": "35–40 жасқа дейін",
-      "de": "bis 35–40 Jahre",
-      "es": "hasta los 35–40 años"
+      "ru": "7 ноября 2026 года",
+      "en": "7 November 2026",
+      "kk": "2026 жылғы 7 қараша",
+      "de": "7. November 2026",
+      "es": "7 de noviembre de 2026"
      }
     }
    ]
@@ -282,7 +391,8 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/scientist-using-laptop-in-laboratory-8yS04veb1TQ?utm_source=dia_news&utm_medium=referral",
     "alt": "A scientist in a white lab coat using a laptop in a laboratory"
    },
-   "bodyTries": 1
+   "bodyTries": 1,
+   "bodyTried": true
   },
   {
    "id": "nVuYz9vYz01",
@@ -443,7 +553,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/scientist-using-pipette-with-test-tubes-in-lab-RlOAwXt2fEA?utm_source=dia_news&utm_medium=referral",
     "alt": "scientist using pipette with test tubes in lab"
-   }
+   },
+   "bodyTried": true
   },
   {
    "id": "nGR3P29jPTU",
@@ -475,7 +586,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/blood-pressure-monitor-with-grey-cuff-i1iqQRLULlg?utm_source=dia_news&utm_medium=referral",
     "alt": "A person using a digital blood pressure monitor with a grey cuff on their arm"
-   }
+   },
+   "bodyTries": 1
   },
   {
    "id": "nhidz9vYz01",
@@ -506,7 +618,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/a-yellow-medical-sensor-attached-to-a-persons-arm-tIEsUnmLaKY?utm_source=dia_news&utm_medium=referral",
     "alt": "A yellow medical sensor attached to a person's arm"
-   }
+   },
+   "bodyTried": true
   },
   {
    "id": "nU1E_b2M9NQ",
@@ -528,9 +641,50 @@ const DIA_NEWS={
     "de": "Eine Studie ergab, dass eine intensive Blutdrucktherapie die kardiovaskulären Ereignisse bei Erwachsenen mit Diabetes nicht verringerte.",
     "es": "Un estudio encontró que el tratamiento intensivo de la presión arterial no redujo los eventos cardiovasculares en adultos con diabetes."
    },
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHNpM2VTcmdYbC0taGpjRFJFYnJZdFl2N2lNX2llTXdQT0dJcUlzc3JpTkNCOXhJQnZBdkY0djRFb0JmMVgtbFUzLTRQNktDQnZmclB2VmZoa0oteC1DaHJtcTJrMXlGVEdNRUpXRG1HYW1lZ1gwWHl3dWFISEpiampQalo5aWVJYXl6QkdCN2lkQ09QYUtxalR2Y2pMd1RXRkZTcGtxSzRtcVVBa3pDaWhsdmhYcEFLZjFzd1ZSSQ?oc=5",
+   "url": "https://newsroom.heart.org/news/intensive-blood-pressure-therapy-did-not-cut-cardiovascular-events-in-adults-with-diabetes",
    "src": "www.heart.org",
-   "photoQuery": "blood pressure monitor cuff"
+   "photoQuery": "blood pressure monitor cuff",
+   "body": {
+    "ru": "Интенсивное снижение артериального давления не привело к значимому сокращению числа серьезных сердечно-сосудистых событий у взрослых с диабетом 2 типа. Результаты представили 7 ноября 2026 года на научной сессии Американской кардиологической ассоциации (AHA) в Чикаго. Сравнивали две цели по систолическому давлению: ниже 120 мм рт. ст. в интенсивной группе и ниже 140 мм рт. ст. при стандартном лечении.\n\nДанные взяли из испытания OPTIMAL-DIABETES. В нем участвовали 9 476 взрослых старше 50 лет на 33 площадках в Бразилии. У всех систолическое давление было в пределах от 130 до 180 мм рт. ст., а также был диабет 2 типа и еще один фактор риска: сердечно-сосудистое заболевание, его скрытые признаки, болезнь почек или другие факторы. Руководитель исследования Карла Санто работает в госпитале Einstein в Сан-Паулу.\n\nЗа медианное наблюдение длительностью четыре года у участников интенсивной группы риск серьезного сердечно-сосудистого события был примерно на 10% ниже. Это различие статистически незначимо. Событие произошло у 286 человек (6,0%) в интенсивной группе и у 315 (6,7%) в стандартной.\n\nПочечные осложнения, напротив, встречались чаще при интенсивном лечении: 270 участников (5,7%) против 175 (3,7%), то есть примерно на 55% больше. В основном речь шла о снижении функции почек; частота терминальной стадии почечной недостаточности между группами была похожей. Серьезные нежелательные явления также были сопоставимы.\n\nУ исследования есть ограничения: оно открытое, то есть участники и исследователи знали, какое лечение получает каждый. Результаты могут не относиться к людям за пределами Бразилии. Представленные данные предварительные, пока работа не опубликована полностью в рецензируемом журнале; одновременно она вышла в New England Journal of Medicine. Авторы подчеркивают, что эти данные не доказывают неэффективность интенсивного снижения давления, а подход к целям лечения должен быть индивидуальным, без универсального порога ниже 120 мм рт. ст.",
+    "en": "Intensive blood pressure treatment did not significantly reduce major cardiovascular events in adults with type 2 diabetes. The results were presented on November 7, 2026, at the American Heart Association's Scientific Sessions in Chicago. Two systolic targets were compared: below 120 mm Hg in the intensive group and below 140 mm Hg with standard care.\n\nThe data came from the OPTIMAL-DIABETES trial, which enrolled 9,476 adults aged 50 and older at 33 sites in Brazil. All had systolic blood pressure between 130 and 180 mm Hg and type 2 diabetes, plus another risk factor such as existing cardiovascular disease, signs of silent heart or vessel disease, kidney disease or other risks. The lead author, Karla Santo, works at Einstein Hospital Israelita in São Paulo.\n\nOver a median follow-up of four years, participants in the intensive group had about a 10% lower risk of a major cardiovascular event. That difference was not statistically significant. Such events occurred in 286 people (6.0%) in the intensive group and 315 (6.7%) in the standard group.\n\nKidney-related events, by contrast, were more frequent with intensive treatment: 270 participants (5.7%) versus 175 (3.7%), about 55% higher. These were mainly declines in kidney function, and end-stage renal disease occurred at similar rates in both groups. Serious adverse events were also similar.\n\nThe study has limitations. It was open-label, so participants and investigators knew which treatment was being given. Results may not apply to populations outside Brazil. The findings are preliminary until the full paper is peer-reviewed, although they were published the same day in the New England Journal of Medicine. The researchers stress that the results do not show intensive lowering is ineffective, and that blood pressure targets should be individualized rather than a target below 120 mm Hg applied to everyone.",
+    "kk": "Қарқынды қан қысымын төмендету емі 2-типті қант диабеті бар ересектерде негізгі жүрек-қан тамыр оқиғаларының санын елеулі азайтқан жоқ. Бұл нәтижелер 2026 жылғы 7 қарашада Чикагодағы Американдық жүрек қауымдастығының (AHA) ғылыми сессиясында ұсынылды. Систолалық мақсаттар салыстырылды: қарқынды топта 120 мм сын.бағ.-дан төмен, стандартты емде 140 мм сын.бағ.-дан төмен.\n\nДеректер OPTIMAL-DIABETES сынағынан алынды. Оған Бразилиядағы 33 орында 50 жас және одан үлкен 9 476 ересек қатысты. Барлығының систолалық қан қысымы 130-дан 180 мм сын.бағ. аралығында, 2-типті қант диабеті бар, сонымен қатар жүрек-қан тамыр ауруы, бүйрек ауруы немесе басқа қауіп факторлары болды. Негізгі авторы Карла Санто Сан-Паулудағы Einstein Hospital Israelita ауруханасында жұмыс істейді.\n\nМедиандық бақылау төрт жылды құраған кезде қарқынды топ қатысушыларының негізгі жүрек-қан тамыр оқиғасы қаупі шамамен 10% төмен болды. Бұл айырмашылық статистикалық маңызды емес. Мұндай оқиға қарқынды топта 286 адамда (6,0%), стандартты топта 315 адамда (6,7%) орын алды.\n\nКерісінше, бүйрекпен байланысты оқиғалар қарқынды емде жиірек болды: 270 қатысушы (5,7%) мен 175 (3,7%), шамамен 55% жоғары. Негізінен бүйрек қызметінің төмендеуі байқалды, ал соңғы сатылы бүйрек жеткіліксіздігі екі топта да ұқсас жиілікте болды. Елеулі жағымсыз оқиғалар да ұқсас болды.\n\nЗерттеудің шектеулері бар: ол ашық түрде жүргізілді, яғни қатысушылар мен зерттеушілер әр адамның қандай ем алатынын білді. Нәтижелер Бразилиядан тыс популяцияға қолданылмауы мүмкін. Толық жұмыс рецензияланатын журналда жарияланғанға дейін қорытындылар алдын ала болып саналады, дегенмен олар сол күні New England Journal of Medicine журналында жарияланды. Зерттеушілер нәтижелер қарқынды төмендетудің тиімсіз екенін дәлелдемейтінін және қан қысымының мақсаттары жеке бейімделуі керек екенін, барлығына бірдей 120 мм сын.бағ.-дан төмен мақсат қоюға болмайтынын атап өтті.",
+    "de": "Eine intensive Blutdrucksenkung hat bei Erwachsenen mit Typ-2-Diabetes die Zahl schwerer kardiovaskulärer Ereignisse nicht signifikant verringert. Die Ergebnisse wurden am 7. November 2026 bei den Scientific Sessions der American Heart Association in Chicago vorgestellt. Verglichen wurden ein systolischer Zielwert unter 120 mm Hg in der intensiven Gruppe und ein Wert unter 140 mm Hg bei der Standardbehandlung.\n\nDie Daten stammen aus der OPTIMAL-DIABETES-Studie mit 9.476 Erwachsenen ab 50 Jahren an 33 Standorten in Brasilien. Alle hatten einen systolischen Blutdruck zwischen 130 und 180 mm Hg und Typ-2-Diabetes sowie weitere Risikofaktoren wie bestehende Herz-Kreislauf-Erkrankungen, Hinweise auf eine stille Gefäßerkrankung, Nierenerkrankung oder andere Risiken. Die Hauptautorin Karla Santo arbeitet am Einstein Hospital Israelita in São Paulo.\n\nÜber eine mittlere Nachbeobachtungszeit von vier Jahren hatten Teilnehmende der intensiven Gruppe ein etwa 10 % geringeres Risiko für ein schweres kardiovaskuläres Ereignis. Dieser Unterschied war statistisch nicht signifikant. Solche Ereignisse traten in der intensiven Gruppe bei 286 Personen (6,0 %) auf, in der Standardgruppe bei 315 (6,7 %).\n\nNierenbezogene Ereignisse waren dagegen unter intensiver Behandlung häufiger: 270 Teilnehmende (5,7 %) gegenüber 175 (3,7 %), also etwa 55 % mehr. Es handelte sich vor allem um Rückgänge der Nierenfunktion; ein Nierenversagen im Endstadium trat in beiden Gruppen ähnlich häufig auf. Auch schwerwiegende unerwünschte Ereignisse waren vergleichbar.\n\nDie Studie hat Grenzen: Sie war offen angelegt, sodass Teilnehmende und Forschende wussten, welche Behandlung gegeben wurde. Die Ergebnisse sind möglicherweise nicht auf Bevölkerungen außerhalb Brasiliens übertragbar. Bis zur begutachteten Veröffentlichung des vollständigen Manuskripts sind die Befunde vorläufig; die Arbeit erschien jedoch am selben Tag im New England Journal of Medicine. Die Forschenden betonen, dass die Ergebnisse nicht belegen, dass eine intensive Senkung unwirksam sei, und dass Blutdruckziele individuell festgelegt werden sollten statt eines Zielwerts unter 120 mm Hg für alle.",
+    "es": "El tratamiento intensivo para bajar la presión arterial no redujo de forma significativa los eventos cardiovasculares mayores en adultos con diabetes tipo 2. Los resultados se presentaron el 7 de noviembre de 2026 en las Sesiones Científicas de la Asociación Estadounidense del Corazón (AHA), en Chicago. Se compararon dos metas para la presión sistólica: menos de 120 mm Hg en el grupo intensivo y menos de 140 mm Hg con el tratamiento estándar.\n\nLos datos proceden del ensayo OPTIMAL-DIABETES, que incluyó a 9.476 adultos de 50 años o más en 33 centros de Brasil. Todos tenían una presión sistólica entre 130 y 180 mm Hg y diabetes tipo 2, además de otros factores de riesgo, como enfermedad cardiovascular ya existente, signos de enfermedad silenciosa del corazón o de los vasos, enfermedad renal u otros riesgos. La autora principal, Karla Santo, trabaja en el Hospital Israelita Albert Einstein de São Paulo.\n\nDurante un seguimiento mediano de cuatro años, los participantes del grupo intensivo tuvieron un riesgo de evento cardiovascular mayor aproximadamente un 10 % menor. Esa diferencia no fue estadísticamente significativa. Estos eventos ocurrieron en 286 personas (6,0 %) del grupo intensivo y en 315 (6,7 %) del grupo estándar.\n\nLos eventos relacionados con los riñones, en cambio, fueron más frecuentes con el tratamiento intensivo: 270 participantes (5,7 %) frente a 175 (3,7 %), alrededor de un 55 % más. Se trató sobre todo de caídas de la función renal; la enfermedad renal terminal apareció con frecuencia similar en ambos grupos. Los efectos adversos graves también fueron parecidos.\n\nEl estudio tiene limitaciones: fue abierto, por lo que participantes e investigadores sabían qué tratamiento recibía cada persona. Los resultados podrían no aplicarse a poblaciones fuera de Brasil. Los hallazgos son preliminares hasta que el artículo completo sea publicado en una revista con revisión por pares, aunque se publicaron el mismo día en el New England Journal of Medicine. Los investigadores subrayan que los resultados no demuestran que bajar la presión de forma intensiva sea ineficaz, y que las metas de presión arterial deben individualizarse en lugar de aplicar a todos un objetivo por debajo de 120 mm Hg."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Серьезные сердечно-сосудистые события (интенсивная / стандартная группа)",
+      "en": "Major cardiovascular events (intensive / standard group)",
+      "kk": "Негізгі жүрек-қан тамыр оқиғалары (қарқынды / стандартты топ)",
+      "de": "Schwere kardiovaskuläre Ereignisse (intensive / Standardgruppe)",
+      "es": "Eventos cardiovasculares mayores (grupo intensivo / estándar)"
+     },
+     "v": {
+      "ru": "286 (6,0%) / 315 (6,7%)",
+      "en": "286 (6.0%) / 315 (6.7%)",
+      "kk": "286 (6,0%) / 315 (6,7%)",
+      "de": "286 (6,0 %) / 315 (6,7 %)",
+      "es": "286 (6,0 %) / 315 (6,7 %)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Почечные события (интенсивная / стандартная группа)",
+      "en": "Kidney-related events (intensive / standard group)",
+      "kk": "Бүйрекпен байланысты оқиғалар (қарқынды / стандартты топ)",
+      "de": "Nierenbezogene Ereignisse (intensive / Standardgruppe)",
+      "es": "Eventos renales (grupo intensivo / estándar)"
+     },
+     "v": {
+      "ru": "270 (5,7%) / 175 (3,7%)",
+      "en": "270 (5.7%) / 175 (3.7%)",
+      "kk": "270 (5,7%) / 175 (3,7%)",
+      "de": "270 (5,7 %) / 175 (3,7 %)",
+      "es": "270 (5,7 %) / 175 (3,7 %)"
+     }
+    }
+   ]
   },
   {
    "id": "nnRCP29jPTU",
@@ -552,9 +706,50 @@ const DIA_NEWS={
     "de": "Forscher schlugen einen Ansatz vor, Diabetes anhand der Stimme zu erkennen.",
     "es": "Investigadores propusieron un enfoque para identificar la diabetes a partir de la voz."
    },
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tMHRZbnlFU01vZzBfTVJBNlJNcXlITXBfZG1pbW5fX0dvdURkWU1fdEQxUzZJd0ZWdzZnNkdBSms5TmtZOGNfeW1FUDVPdEl2c2tB?oc=5",
+   "url": "https://news.day.az/medicine/1869526.html",
    "src": "Day.Az",
-   "photoQuery": "woman speaking smartphone microphone"
+   "photoQuery": "woman speaking smartphone microphone",
+   "body": {
+    "ru": "Исследователи создали инструмент на основе искусственного интеллекта, который по записи речи длиной около 20 секунд может указать на признаки диабета второго типа. Доклад о разработке прозвучал на ежегодной встрече Европейской ассоциации по изучению диабета (EASD). Материал опубликовал Day.Az со ссылкой на Lenta.ru, датирован он 7 ноября 2026 года.\n\nДля обучения модели взяли 63 283 записи голоса более чем 21 тысячи человек из США и Великобритании. Для проверки использовали новые записи: добровольцы вслух читали одну из басен Эзопа на протяжении 20 секунд. Ранее у людей с диабетом отмечали более хриплый и грубоватый голос и хуже контролируемое дыхание при речи. Алгоритм учитывает совокупность таких акустических черт, многие из которых слушатель сам не замечает.\n\nНа выборке из 7319 взрослых система в 80% случаев приписывала человеку с диабетом более высокий риск, чем человеку без него. При сверке с анализами крови 801 участника ИИ верно указал на 82% людей с диабетом. Программа также делит людей на группы низкого, среднего и высокого риска. Ни у кого из отнесённых к низкому риску анализ крови не выявил ни диабета, ни преддиабета.\n\nАвторы полагают, что со временем голосовой анализ может пригодиться для быстрого первичного скрининга по телефону или через мобильное приложение. В статье не говорится, когда такой метод может войти в повседневную практику, и не описано его клиническое одобрение.",
+    "en": "Researchers have built an artificial intelligence tool that can flag signs of type 2 diabetes from a voice recording of about 20 seconds. The work was presented at the annual meeting of the European Association for the Study of Diabetes (EASD). The report was published by Day.Az, citing Lenta.ru, and is dated 7 November 2026.\n\nTo train the model, 63,283 voice recordings from more than 21,000 people in the United States and the United Kingdom were used. For testing, new recordings were made in which volunteers read one of Aesop's fables aloud for 20 seconds. Earlier, people with diabetes were reported to have a hoarser, rougher voice and weaker breath control while speaking. The algorithm weighs a combination of such acoustic traits, many of which a listener would not notice.\n\nIn a sample of 7,319 adults, the system gave a higher risk score to a person with diabetes than to a person without it in 80% of cases. When compared with blood tests from 801 participants, the AI correctly identified 82% of people with diabetes. The program also sorts people into low, medium and high risk groups. None of those placed in the low-risk group had diabetes or prediabetes according to their blood test.\n\nThe authors suggest that voice analysis could eventually be used for quick first-stage screening by phone or through a mobile app. The article does not say when such a method might enter routine use, and it does not describe any clinical approval.",
+    "kk": "Ғалымдар адамның шамамен 20 секундтық дауыс жазбасы бойынша 2-түрдегі қант диабетінің белгілерін анықтай алатын жасанды интеллект құралын жасады. Жұмыс туралы баяндама Еуропалық диабетті зерттеу қауымдастығының (EASD) жыл сайынғы кездесуінде ұсынылды. Материалды Day.Az Lenta.ru сілтемесімен жариялаған; ол 2026 жылғы 7 қарашаға жатады.\n\nМодельді оқыту үшін АҚШ пен Ұлыбританиядағы 21 мыңнан астам адамның 63 283 дауыс жазбасы пайдаланылды. Тексеру үшін жаңа жазбалар жасалды: ерікті қатысушылар Эзоптың мысалдарының бірін 20 секунд бойы дауыстап оқыды. Бұрын диабеті бар адамдарда дауыстың қыңырлығы мен дөрекілігі, сөйлеу кезіндегі тыныс бақылауының нашарлауы байқалған. Алгоритм осындай акустикалық ерекшеліктердің жиынтығын ескереді, олардың көбін тыңдаушы байқамайды.\n\n7319 ересектен тұратын іріктемеде жүйе 80% жағдайда диабеті бар адамға диабеті жоқ адамнан жоғарырақ қауіп деңгейін берді. 801 қатысушының қан анализімен салыстырғанда ЖИ диабеті бар адамдардың 82%-ын дұрыс анықтады. Бағдарлама адамдарды төмен, орташа және жоғары қауіп топтарына бөледі. Төмен қауіп тобына жатқызылғандардың ешқайсысында қан анализі диабетті немесе преддиабетті көрсеткен жоқ.\n\nАвторлардың пікірінше, болашақта дауыс талдауы телефон арқылы немесе мобильді қосымша арқылы тез бастапқы скрининг үшін қолданылуы мүмкін. Мақалада мұндай әдістің қашан күнделікті тәжірибеге енетіні айтылмайды және оның клиникалық мақұлдауы сипатталмаған.",
+    "de": "Forschende haben ein auf künstlicher Intelligenz basierendes Verfahren entwickelt, das anhand einer rund 20 Sekunden langen Sprachaufnahme Anzeichen für Typ-2-Diabetes erkennen kann. Die Ergebnisse wurden auf der Jahrestagung der Europäischen Gesellschaft für Diabetesforschung (EASD) vorgestellt. Die Meldung stammt von Day.Az und beruft sich auf Lenta.ru; datiert ist sie auf den 7. November 2026.\n\nZum Training der Software dienten 63.283 Stimmaufnahmen von mehr als 21.000 Menschen aus den USA und Großbritannien. Zur Prüfung wurden neue Aufnahmen herangezogen, in denen Teilnehmende 20 Sekunden lang eine der Fabeln Äsops vorlasen. Bei Menschen mit Diabetes war zuvor eine heisere, rauere Stimme und eine schlechtere Atemkontrolle beim Sprechen aufgefallen. Das System wertet ein Zusammenspiel solcher akustischen Merkmale aus, von denen viele ein Zuhörer nicht bemerkt.\n\nBei 7.319 Erwachsenen vergab das System in 80 Prozent der Fälle an Menschen mit Diabetes ein höheres Risiko als an Menschen ohne die Erkrankung. Im Abgleich mit Blutuntersuchungen von 801 Teilnehmenden erkannte es 82 Prozent der Menschen mit Diabetes korrekt. Die Software ordnet Personen außerdem in Gruppen mit niedrigem, mittlerem und hohem Risiko ein. In der Gruppe mit niedrigem Risiko zeigte bei niemandem die Blutuntersuchung Diabetes oder Prädiabetes.\n\nDie Autorinnen und Autoren halten es für denkbar, dass Stimmanalysen künftig für ein schnelles erstes Screening per Telefon oder über eine App genutzt werden. Der Artikel nennt keinen Zeitpunkt, ab dem das Verfahren im Alltag eingesetzt werden könnte, und beschreibt keine klinische Zulassung.",
+    "es": "Investigadores han creado un sistema de inteligencia artificial capaz de detectar señales de diabetes tipo 2 a partir de unos 20 segundos de voz. Los resultados se presentaron en la reunión anual de la Asociación Europea para el Estudio de la Diabetes (EASD). La información la difundió Day.Az, citando a Lenta.ru, y está fechada el 7 de noviembre de 2026.\n\nPara entrenar el modelo se emplearon 63.283 grabaciones de voz de más de 21.000 personas de Estados Unidos y Reino Unido. Para la prueba se usaron grabaciones nuevas en las que los participantes leyeron en voz alta una de las fábulas de Esopo durante 20 segundos. Anteriormente se había observado en personas con diabetes una voz más ronca y áspera, así como un peor control de la respiración al hablar. El algoritmo analiza un conjunto de rasgos acústicos de este tipo, muchos de los cuales una persona no llega a notar.\n\nEn una muestra de 7.319 adultos, el sistema asignó un riesgo más alto a la persona con diabetes que a la persona sin ella en el 80 % de los casos. Al compararlo con análisis de sangre de 801 participantes, identificó correctamente al 82 % de las personas con diabetes. El sistema también clasifica a las personas en grupos de riesgo bajo, medio y alto. Ninguno de los incluidos en el grupo de riesgo bajo presentó diabetes ni prediabetes en el análisis de sangre.\n\nLos autores consideran que, en el futuro, el análisis de la voz podría usarse para un cribado inicial rápido por teléfono o mediante una aplicación móvil. El artículo no indica cuándo podría incorporarse a la práctica habitual ni describe una aprobación clínica."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Записей голоса для обучения системы",
+      "en": "Voice recordings used to train the system",
+      "kk": "Жүйені оқытуға пайдаланылған дауыс жазбалары",
+      "de": "Stimmaufnahmen für das Training des Systems",
+      "es": "Grabaciones de voz para entrenar el sistema"
+     },
+     "v": {
+      "ru": "63 283",
+      "en": "63,283",
+      "kk": "63 283",
+      "de": "63.283",
+      "es": "63.283"
+     }
+    },
+    {
+     "k": {
+      "ru": "Людей с диабетом, верно выявленных ИИ",
+      "en": "People with diabetes correctly identified by the AI",
+      "kk": "ЖИ дұрыс анықтаған диабеті бар адамдар",
+      "de": "Menschen mit Diabetes, die die KI korrekt erkannte",
+      "es": "Personas con diabetes identificadas correctamente por la IA"
+     },
+     "v": {
+      "ru": "82%",
+      "en": "82%",
+      "kk": "82%",
+      "de": "82 %",
+      "es": "82 %"
+     }
+    }
+   ]
   },
   {
    "id": "nUnc_b2M9NQ",
@@ -576,7 +771,7 @@ const DIA_NEWS={
     "de": "Ein in rotem Fleisch gefundenes Zuckermolekül wird mit dem Diabetesrisiko in Verbindung gebracht.",
     "es": "Una molécula de azúcar hallada en la carne roja se ha asociado con el riesgo de diabetes."
    },
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6dndORU45dFFkMkZzeUxncVhENVdrbVZOTlZmWVNCUXduT0R0dklOb3RsNlc0ZDJuWnBPU2dVWnFiQjhZRXJYNHRVSFc2b2VtOURORw?oc=5",
+   "url": "https://news.day.az/gurmaniya/1869525.html",
    "src": "Day.Az",
    "photoQuery": "raw red meat steak",
    "photo": {
@@ -586,7 +781,48 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/two-steaks-on-a-plate-with-parsley-U5lLwx17rWs?utm_source=dia_news&utm_medium=referral",
     "alt": "Two steaks on a plate with parsley"
-   }
+   },
+   "body": {
+    "ru": "7 ноября 2026 года Day.Az со ссылкой на Gazeta.ru сообщил, что молекула сахара Neu5Gc, которая содержится главным образом в красном мясе, может повышать риск диабета 2 типа. Предварительные результаты представили на ежегодном собрании Европейской ассоциации по изучению диабета (EASD) в Милане. У людей с самым высоким потреблением этой молекулы вероятность заболеть была на 63% выше, чем у тех, кто редко ел красное мясо.\n\nИсследователи проанализировали данные 89 953 взрослых участников долгосрочного французского проекта NutriNet-Santé. Средний возраст добровольцев составлял 42 года, женщины составляли 79%. На старте диабета ни у кого не было; за 7,2 года наблюдения зафиксировали 966 новых случаев. Участники вели дневники питания, а по ним учёные оценивали, сколько Neu5Gc поступало с пищей.\n\nЧем больше было потребление, тем выше оказывался риск. Связь сохранялась после учёта возраста, пола, физической активности, качества рациона, курения и других факторов. Учёт индекса массы тела ослаблял её, но она оставалась статистически значимой. Neu5Gc из молочных продуктов с диабетом связан не был.\n\nВажные оговорки: результаты не доказывают, что Neu5Gc напрямую вызывает диабет. После учёта общего количества красного мяса связь ослабла, что указывает на возможное влияние других компонентов мясных продуктов. По мнению учёных, человеческий организм утратил способность вырабатывать эту молекулу из-за древней генетической мутации, поэтому иммунная система может воспринимать её как чужеродную и вызывать хроническое воспаление.\n\nАвторы планируют в дальнейших работах оценить роль антител к Neu5Gc и хронического воспаления.",
+    "en": "On November 7, 2026, Day.Az, citing Gazeta.ru, reported that the sugar molecule Neu5Gc, found mainly in red meat, may raise the risk of type 2 diabetes. The preliminary findings were presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan. People with the highest intake of this molecule had a 63% higher likelihood of developing the disease than those who rarely ate red meat.\n\nThe researchers analysed data from 89,953 adults taking part in NutriNet-Santé, a long-term French study. The volunteers had an average age of 42, and 79% were women. None had diabetes at the start; over 7.2 years of follow-up, 966 new cases were recorded. Participants kept food diaries, and scientists used them to estimate how much Neu5Gc came in with their diet.\n\nThe higher the intake, the higher the risk. The link held after accounting for age, sex, physical activity, diet quality, smoking and other factors. Adjusting for body mass index weakened it, but it remained statistically significant. Neu5Gc from dairy products showed no link to type 2 diabetes.\n\nImportant caveats: the results do not prove that Neu5Gc directly causes diabetes. After accounting for total red meat intake, the association weakened, which points to possible effects from other components of meat products. According to the scientists, the human body lost the ability to make this molecule through an ancient genetic mutation, so the immune system may treat it as foreign and trigger chronic inflammation.\n\nThe authors plan to examine, in future work, the role of antibodies against Neu5Gc and of chronic inflammation.",
+    "kk": "2026 жылдың 7 қарашасында Day.Az, Gazeta.ru сілтемесіне сүйеніп, негізінен қызыл етте кездесетін Neu5Gc қант молекуласы 2-типті қант диабеті қаупін арттыруы мүмкін екенін хабарлады. Алдын ала нәтижелер Миланда өткен Еуропалық диабетті зерттеу қауымдастығының (EASD) жылдық жиналысында ұсынылды. Осы молекуланы ең көп тұтынғандардың ауруға шалдығу ықтималдығы қызыл етті сирек жегендермен салыстырғанда 63% жоғары болған.\n\nЗерттеушілер ұзақ мерзімді француз NutriNet-Santé жобасына қатысқан 89 953 ересек адамның деректерін талдады. Ерікті қатысушылардың орташа жасы 42 болды, олардың 79%-ы әйелдер еді. Басында ешкімде қант диабеті болмаған; 7,2 жылдық бақылау барысында 966 жаңа жағдай тіркелді. Қатысушылар тамақтану күнделігін жүргізді, ал ғалымдар осы күнделіктерге сүйеніп, тамақпен қанша Neu5Gc түскенін бағалады.\n\nТұтыну неғұрлым көп болса, қауіп соғұрлым жоғары болды. Байланыс жасты, жынысты, дене белсенділігін, рацион сапасын, темекі шегуді және басқа факторларды ескергеннен кейін де сақталды. Дене салмағы индексін ескергенде байланыс әлсіреді, бірақ статистикалық тұрғыдан маңызды күйінде қалды. Сүт өнімдеріндегі Neu5Gc мен 2-типті диабет арасында байланыс табылмады.\n\nМаңызды ескерту: нәтижелер Neu5Gc диабетті тікелей туғызатынын дәлелдемейді. Қызыл еттің жалпы мөлшерін ескергеннен кейін байланыс әлсіреді, бұл ет өнімдерінің басқа құрамдастарының да ықпалы болуы мүмкін екенін көрсетеді. Ғалымдардың айтуынша, адам ағзасы ерте заманғы генетикалық мутация салдарынан осы молекуланы өндіру қабілетін жоғалтқан, сондықтан иммундық жүйе оны жат зат ретінде қабылдап, созылмалы қабынуды туғызуы мүмкін.\n\nАвторлар келесі жұмыстарда Neu5Gc-ке қарсы антиденелердің және созылмалы қабынудың рөлін бағалауды жоспарлап отыр.",
+    "de": "Am 7. November 2026 berichtete Day.Az unter Berufung auf Gazeta.ru, dass das Zuckermolekül Neu5Gc, das vor allem in rotem Fleisch vorkommt, das Risiko für Typ-2-Diabetes erhöhen kann. Vorläufige Ergebnisse wurden auf der Jahrestagung der Europäischen Gesellschaft für Diabetesforschung (EASD) in Mailand vorgestellt. Menschen mit der höchsten Aufnahme dieses Moleküls hatten eine um 63 % höhere Wahrscheinlichkeit, zu erkranken, als jene, die selten rotes Fleisch aßen.\n\nDie Forschenden werteten Daten von 89.953 Erwachsenen aus der langfristigen französischen Studie NutriNet-Santé aus. Das Durchschnittsalter der Freiwilligen lag bei 42 Jahren, 79 % waren Frauen. Zu Studienbeginn hatte niemand Diabetes; im Beobachtungszeitraum von 7,2 Jahren wurden 966 Neuerkrankungen erfasst. Die Teilnehmenden führten Ernährungstagebücher, anhand derer die Wissenschaftler abschätzten, wie viel Neu5Gc über die Nahrung aufgenommen wurde.\n\nJe höher die Aufnahme, desto größer das Risiko. Der Zusammenhang blieb bestehen, nachdem Alter, Geschlecht, körperliche Aktivität, Ernährungsqualität, Rauchen und weitere Faktoren berücksichtigt wurden. Die Berücksichtigung des Body-Mass-Index schwächte ihn ab, er blieb aber statistisch signifikant. Für Neu5Gc aus Milchprodukten zeigte sich kein Zusammenhang mit Typ-2-Diabetes.\n\nWichtige Einschränkung: Die Ergebnisse beweisen nicht, dass Neu5Gc Diabetes direkt auslöst. Nach Berücksichtigung der gesamten Menge an rotem Fleisch wurde der Zusammenhang schwächer, was auf mögliche Einflüsse anderer Bestandteile von Fleischprodukten hindeutet. Laut den Wissenschaftlern hat der menschliche Körper die Fähigkeit, dieses Molekül herzustellen, durch eine alte genetische Mutation verloren; daher könnte das Immunsystem es als fremd einstufen und eine chronische Entzündung auslösen.\n\nDie Autorinnen und Autoren wollen in künftigen Arbeiten die Rolle von Antikörpern gegen Neu5Gc und chronischer Entzündung untersuchen.",
+    "es": "El 7 de noviembre de 2026, Day.Az, citando a Gazeta.ru, informó de que la molécula de azúcar Neu5Gc, presente sobre todo en la carne roja, podría aumentar el riesgo de diabetes tipo 2. Los resultados preliminares se presentaron en la reunión anual de la Asociación Europea para el Estudio de la Diabetes (EASD) en Milán. Quienes tenían el mayor consumo de esta molécula presentaban una probabilidad un 63 % mayor de desarrollar la enfermedad que quienes rara vez comían carne roja.\n\nLos investigadores analizaron datos de 89.953 adultos del proyecto francés de largo plazo NutriNet-Santé. La edad media de los voluntarios era de 42 años y el 79 % eran mujeres. Al inicio, ninguno tenía diabetes; durante 7,2 años de seguimiento se registraron 966 casos nuevos. Los participantes llevaban diarios de alimentación, y con ellos los científicos estimaron cuánto Neu5Gc ingerían con la dieta.\n\nA mayor consumo, mayor riesgo. La asociación se mantuvo tras tener en cuenta la edad, el sexo, la actividad física, la calidad de la dieta, el tabaquismo y otros factores. Al ajustar por el índice de masa corporal, la asociación se debilitó, pero siguió siendo estadísticamente significativa. No se halló relación entre el Neu5Gc de los productos lácteos y la diabetes tipo 2.\n\nAdvertencia importante: los resultados no demuestran que el Neu5Gc cause directamente la diabetes. Tras considerar el consumo total de carne roja, la asociación se debilitó, lo que apunta a posibles efectos de otros componentes de los productos cárnicos. Según los científicos, el organismo humano perdió la capacidad de producir esta molécula por una antigua mutación genética, por lo que el sistema inmunitario podría tratarla como extraña y provocar inflamación crónica.\n\nLos autores planean evaluar en trabajos futuros el papel de los anticuerpos contra el Neu5Gc y de la inflamación crónica."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Риск диабета 2 типа у людей с самым высоким потреблением Neu5Gc",
+      "en": "Type 2 diabetes risk in people with the highest Neu5Gc intake",
+      "kk": "Neu5Gc-ті ең көп тұтынғандардағы 2-типті диабет қаупі",
+      "de": "Typ-2-Diabetes-Risiko bei der höchsten Neu5Gc-Aufnahme",
+      "es": "Riesgo de diabetes tipo 2 con el mayor consumo de Neu5Gc"
+     },
+     "v": {
+      "ru": "на 63% выше",
+      "en": "63% higher",
+      "kk": "63% жоғары",
+      "de": "63 % höher",
+      "es": "63 % mayor"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участники исследования NutriNet-Santé",
+      "en": "NutriNet-Santé participants",
+      "kk": "NutriNet-Santé қатысушылары",
+      "de": "Teilnehmende der NutriNet-Santé-Studie",
+      "es": "Participantes de NutriNet-Santé"
+     },
+     "v": {
+      "ru": "89 953 взрослых; 7,2 года наблюдения; 966 новых случаев",
+      "en": "89,953 adults; 7.2 years of follow-up; 966 new cases",
+      "kk": "89 953 ересек; 7,2 жыл бақылау; 966 жаңа жағдай",
+      "de": "89.953 Erwachsene; 7,2 Jahre Beobachtung; 966 Neuerkrankungen",
+      "es": "89.953 adultos; 7,2 años de seguimiento; 966 casos nuevos"
+     }
+    }
+   ]
   },
   {
    "id": "nZNUT9vYz01",
@@ -618,7 +854,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/person-holding-black-tablet-computer-EhbuqJYNCRk?utm_source=dia_news&utm_medium=referral",
     "alt": "person holding black tablet computer"
-   }
+   },
+   "bodyTried": true
   },
   {
    "id": "naE4_b2M9NQ",
@@ -640,9 +877,66 @@ const DIA_NEWS={
     "de": "Eine Poliklinik in Syktywkar hat ihre Geräte zur Diabeteskontrolle erneuert; eine Analyse dauert 96 Sekunden.",
     "es": "Una policlínica de Syktyvkar actualizó su equipo para controlar la diabetes; un análisis tarda 96 segundos."
    },
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40QnlmTFNOMVh2ZndWa0NvV1ZKT2VqOGJBaW02a3lEcm5nVF9kZlZUQV80Vm00a2tiR1V1YWdLcXV4QWoyMlJhU2h3SU9uYThN?oc=5",
+   "url": "https://www.bnkomi.ru/data/news/205446/",
    "src": "Bnkomi.ru",
-   "photoQuery": "medical lab equipment clinic"
+   "photoQuery": "medical lab equipment clinic",
+   "body": {
+    "ru": "В клинико-диагностической лаборатории поликлиники №3 Сыктывкара установили два новых анализатора для определения гликированного гемоглобина, сообщил БНК 7 ноября 2026 года. Этот показатель отражает средний уровень сахара в крови за два–три месяца. Его оценивают у пациентов с диабетом первого и второго типов, а также в ходе диспансеризации.\n\nПо словам заведующей лабораторией Елены Крисановой, приборы работают методом высокоэффективной жидкостной хроматографии. Раньше для этого исследования использовали биохимическое оборудование. Новая система автоматизирована: кровь исследуют прямо из первичной пробирки, которую не нужно вскрывать, что снижает риск ошибок. Один анализ занимает 96 секунд, а аппарат одновременно может работать со 110 пробами.\n\nСпрос на исследование стабильно высокий: в 2024 году в поликлинике выполнили более 19 тысяч таких тестов, в 2025-м около 23 тысяч, и за неполные 11 месяцев 2026 года также около 23 тысяч. Материал из заборных пунктов доставляют примерно каждые полтора часа. Сначала результаты проверяет врач клинико-лабораторной диагностики, затем они поступают терапевту или профильному специалисту. В материале подчёркивается, что одного анализа на гликированный гемоглобин недостаточно для диагноза: используют комплекс исследований, включая глюкозу натощак и тест на толерантность к глюкозе.\n\nВ лаборатории обновили и другие направления: появилась гематологическая станция из двух анализаторов, иммунохемилюминесцентные и биохимические анализаторы, оборудование для иммуноферментного анализа. Поликлиника трижды в год участвует в межлабораторном контроле качества, на данный момент замечаний нет. Параллельно идёт ремонт: второй этаж завершён, на первом работы продолжаются, финиш запланирован на декабрь 2026 года. В дальнейшем учреждение намерено открыть ПЦР-лабораторию.",
+    "en": "Two new analyzers for measuring glycated haemoglobin have been installed in the clinical diagnostic laboratory of Syktyvkar polyclinic No. 3, BNK reported on 7 November 2026. The test shows average blood sugar over the previous two to three months. It is used for people with type 1 and type 2 diabetes and during routine health check-ups.\n\nAccording to the laboratory head, Elena Krisanova, the devices use high-performance liquid chromatography. Previously the polyclinic ran this test on biochemical equipment. The new system automates the process: blood is tested straight from the primary tube, which does not need to be opened, reducing the chance of errors. One analysis takes 96 seconds, and the device can process 110 samples at once.\n\nDemand is steady: more than 19,000 tests were done in 2024, about 23,000 in 2025, and again about 23,000 in the first eleven months of 2026. Samples arrive from the clinic's collection points roughly every hour and a half. A laboratory diagnostics doctor checks results first, and then they go to the therapist or specialist. The article stresses that one such test is not enough to diagnose diabetes; a set of studies, including fasting glucose and a glucose tolerance test, is used.\n\nOther lab areas have also been upgraded: a haematology station made of two analyzers, immunochemiluminescence and biochemical analyzers, and equipment for ELISA. The polyclinic takes part in interlaboratory quality control three times a year, and currently there are no remarks. Renovation is under way in stages: the second floor is finished, work on the first floor continues, and completion is planned for December 2026. The clinic also intends to open a PCR laboratory later.",
+    "kk": "Сыктывкардағы №3 емхананың клиникалық-диагностикалық зертханасына гликирленген гемоглобинді анықтауға арналған екі жаңа анализатор орнатылды, деп хабарлады BNK 2026 жылғы 7 қарашада. Бұл көрсеткіш соңғы екі-үш айдағы қанның орташа қант деңгейін көрсетеді. Оны 1-типті және 2-типті қант диабеті бар пациенттерде, сондай-ақ диспансеризация кезінде бағалайды.\n\nЗертхана меңгерушісі Елена Крисанованың айтуынша, приборлар жоғары тиімді сұйық хроматография әдісімен жұмыс істейді. Бұрын бұл зерттеу үшін биохимиялық жабдық қолданылған. Жаңа жүйе автоматтандырылған: қан ашудың қажеті жоқ бастапқы түтіктен тікелей зерттеледі, бұл қате ықтималдығын азайтады. Бір талдау 96 секунд алады, ал аппарат бір мезгілде 110 үлгіні өңдей алады.\n\nСұраныс тұрақты жоғары: 2024 жылы емханада мұндай 19 мыңнан астам тест жасалды, 2025 жылы шамамен 23 мың, ал 2026 жылдың 11 айына жуық уақытта да шамамен 23 мың. Материал алу пункттерінен шамамен әр жарты сағат сайын жеткізіледі. Алдымен нәтижелерді клиникалық-зертханалық диагностика дәрігері тексереді, содан кейін олар терапевтке немесе маманға жетеді. Материалда бір ғана гликирленген гемоглобин талдауы диагноз қоюға жеткіліксіз екені атап өтіледі: ашқарынға глюкоза және глюкозаға толеранттылық сынағы сияқты кешенді зерттеулер қолданылады.\n\nЗертханада басқа бағыттар да жаңартылды: екі анализатордан тұратын гематологиялық станция, иммунохемилюминесценттік және биохимиялық анализаторлар, иммуноферменттік талдауға арналған жабдық пайда болды. Емхана жылына үш рет зертханалар аралық сапа бақылауына қатысады, қазіргі уақытта ескертпелер жоқ. Қатар жөндеу жүріп жатыр: екінші қабат аяқталды, бірінші қабатта жұмыс жалғасуда, аяқтау 2026 жылдың желтоқсанына жоспарланған. Кейіннен мекеме ПТР-зертхана ашуды көздейді.",
+    "de": "Im klinisch-diagnostischen Labor der Poliklinik Nr. 3 in Syktywkar wurden zwei neue Analysegeräte zur Bestimmung des glykierten Hämoglobins installiert, berichtete BNK am 7. November 2026. Der Wert zeigt den durchschnittlichen Blutzucker der letzten zwei bis drei Monate. Er wird bei Menschen mit Diabetes Typ 1 und Typ 2 sowie im Rahmen der Gesundheitsuntersuchung bestimmt.\n\nLaut der Laborleiterin Jelena Krisanowa arbeiten die Geräte nach der Methode der Hochleistungsflüssigkeitschromatografie. Zuvor wurde dieser Test mit biochemischer Technik durchgeführt. Das neue System ist automatisiert: Das Blut wird direkt aus dem Primärröhrchen untersucht, das nicht einmal geöffnet werden muss, was das Fehlerrisiko verringert. Eine Analyse dauert 96 Sekunden, und das Gerät kann gleichzeitig 110 Proben verarbeiten.\n\nDie Nachfrage ist konstant hoch: 2024 wurden in der Poliklinik mehr als 19.000 solcher Tests durchgeführt, 2025 rund 23.000 und in den knapp elf Monaten von 2026 ebenfalls etwa 23.000. Das Material wird etwa alle anderthalb Stunden aus den Entnahmestellen abgeholt. Zuerst prüft ein Facharzt für klinische Labordiagnostik die Ergebnisse, danach gehen sie an den Therapeuten oder Facharzt. Der Bericht betont, dass ein einzelner HbA1c-Wert für die Diagnose nicht ausreicht; verwendet wird ein Untersuchungspaket, etwa mit Nüchternglukose und dem Glukosetoleranztest.\n\nAuch andere Laborbereiche wurden modernisiert: Hinzugekommen sind eine hämatologische Station aus zwei Analysatoren, immunchemilumineszente und biochemische Analysatoren sowie Geräte für den ELISA. Die Poliklinik nimmt dreimal jährlich an der überregionalen Qualitätskontrolle zwischen Laboren teil; derzeit gibt es keine Beanstandungen. Parallel laufen Umbauarbeiten: Der zweite Stock ist fertig, im ersten Stock wird noch gearbeitet, der Abschluss ist für Dezember 2026 geplant. Später will die Einrichtung ein PCR-Labor eröffnen.",
+    "es": "En el laboratorio clínico-diagnóstico de la policlínica n.º 3 de Syktyvkar se instalaron dos nuevos analizadores para medir la hemoglobina glicada, informó BNK el 7 de noviembre de 2026. Este indicador muestra el nivel medio de azúcar en sangre de los últimos dos o tres meses. Se utiliza en personas con diabetes tipo 1 y tipo 2, y también en los chequeos médicos periódicos.\n\nSegún la jefa del laboratorio, Elena Krisánova, los equipos trabajan con cromatografía líquida de alta eficacia. Antes, esta prueba se realizaba con equipamiento bioquímico. El nuevo sistema está automatizado: la sangre se analiza directamente desde el tubo primario, que ni siquiera hace falta abrir, lo que reduce el riesgo de errores. Cada análisis tarda 96 segundos y el aparato puede procesar 110 muestras a la vez.\n\nLa demanda se mantiene alta: en 2024 la policlínica realizó más de 19 000 de estas pruebas, en 2025 unas 23 000 y en casi once meses de 2026 también unas 23 000. El material llega desde los puntos de extracción aproximadamente cada hora y media. Primero lo revisa un médico especialista en diagnóstico clínico de laboratorio y luego los resultados pasan al terapeuta o al especialista. El texto subraya que una sola prueba de hemoglobina glicada no basta para diagnosticar la diabetes, por lo que se emplea un conjunto de estudios, como la glucosa en ayunas y la prueba de tolerancia a la glucosa.\n\nTambién se renovaron otras áreas del laboratorio: se incorporó una estación hematológica formada por dos analizadores, analizadores de inmunoquimioluminiscencia y bioquímicos, y equipos para ELISA. La policlínica participa tres veces al año en el control externo de calidad entre laboratorios; por ahora no hay observaciones. Las obras avanzan por etapas: el segundo piso ya está terminado, el primero sigue en marcha y la finalización está prevista para diciembre de 2026. Más adelante, el centro pretende abrir un laboratorio de PCR."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Время одного анализа",
+      "en": "Time per analysis",
+      "kk": "Бір талдау уақыты",
+      "de": "Dauer einer Analyse",
+      "es": "Duración de un análisis"
+     },
+     "v": {
+      "ru": "96 секунд",
+      "en": "96 seconds",
+      "kk": "96 секунд",
+      "de": "96 Sekunden",
+      "es": "96 segundos"
+     }
+    },
+    {
+     "k": {
+      "ru": "Проб одновременно",
+      "en": "Samples at once",
+      "kk": "Бір мезгілде үлгі саны",
+      "de": "Proben gleichzeitig",
+      "es": "Muestras simultáneas"
+     },
+     "v": {
+      "ru": "110",
+      "en": "110",
+      "kk": "110",
+      "de": "110",
+      "es": "110"
+     }
+    },
+    {
+     "k": {
+      "ru": "Анализов на гликированный гемоглобин в 2025 году",
+      "en": "HbA1c tests in 2025",
+      "kk": "2025 жылы гликирленген гемоглобин талдаулары",
+      "de": "HbA1c-Tests 2025",
+      "es": "Pruebas de HbA1c en 2025"
+     },
+     "v": {
+      "ru": "около 23 тысяч",
+      "en": "about 23,000",
+      "kk": "шамамен 23 мың",
+      "de": "rund 23.000",
+      "es": "unas 23 000"
+     }
+    }
+   ]
   },
   {
    "id": "nk9BP29jPTU",
@@ -674,7 +968,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/a-person-blood-glucose-testing-using-gluco-meter-SBtNby0IiG0?utm_source=dia_news&utm_medium=referral",
     "alt": "a person blood glucose testing using gluco-meter"
-   }
+   },
+   "bodyTried": true
   },
   {
    "id": "n5Wbz9vYz01",
@@ -696,9 +991,66 @@ const DIA_NEWS={
     "de": "In der Region Krasnodar findet eine Woche zur Diabetesprävention statt.",
     "es": "En el krai de Krasnodar se celebrará una semana de prevención de la diabetes."
    },
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZFpMdTJXRmVhRkR2NEZMemIxaDRCNFVYYzBYb3JKbjZ6UXF0MDE4d1pSTnc2MFFiVTRDUXRxMm9oTW9razgyLVMyVDVZQmw2ZGd0Ti1JNVo?oc=5",
+   "url": "https://brief24.ru/krasnodar/2026/11/7/310643",
    "src": "Бриф24",
-   "photoQuery": "blood glucose test"
+   "photoQuery": "blood glucose test",
+   "body": {
+    "ru": "Минздрав Краснодарского края сообщил, что с 9 по 15 ноября в регионе пройдет неделя борьбы с сахарным диабетом. В течение семи дней медики планируют рассказывать жителям, как предупредить развитие заболевания и избежать его осложнений. Информацию распространила пресс-служба регионального ведомства; материал «Бриф24» вышел 7 ноября.\n\nВ программе недели — выезды мобильного центра скрининговой диагностики и занятия в школе здоровья. Тема занятий: «Профилактика сахарного диабета и его осложнений». Врачи особенно советуют следить за уровнем сахара в крови, питанием и физической активностью.\n\nГлавный внештатный специалист по медицинской профилактике Минздрава Кубани Андрей Сахаров напомнил, что регулярные обследования помогают вовремя заметить нарушения и снизить риск развития болезни. Мероприятия пройдут в Краснодаре, Новороссийске, а также в Славянском, Тимашевском и Тбилисском районах.\n\nВ сообщении не уточняются адреса площадок, часы их работы, перечень обследований и ожидаемое число участников. Подробности по конкретным точкам, судя по тексту, пока не опубликованы, поэтому их стоит искать в последующих официальных сообщениях регионального Минздрава. Текст также не содержит оценок результатов программы, поскольку он описывает запланированные мероприятия.",
+    "en": "The regional Ministry of Health of Krasnodar Krai announced that a week devoted to fighting diabetes will run in the region from November 9 to 15. Over those seven days, medical staff plan to explain to residents how to prevent the disease and avoid its complications. The information came from the ministry's press service and was published by the Brief24 outlet on November 7.\n\nThe programme includes trips by a mobile screening diagnostic centre and sessions at a health school. The lessons are titled \"Prevention of diabetes and its complications.\" Doctors particularly urge attention to monitoring blood sugar levels, nutrition and physical activity.\n\nAndrei Sakharov, the chief freelance specialist for medical prevention at the Kuban health ministry, noted that regular check-ups help detect disorders in time and reduce the risk of developing the disease. Events will take place in Krasnodar and Novorossiysk, as well as in the Slavyansky, Timashevsky and Tbilissky districts.\n\nThe report does not give exact addresses, opening hours of the sites, the list of tests offered, or how many people are expected to take part. Further details on individual sites are therefore not available in the article, and readers would need to check later official announcements from the regional health ministry. The report also contains no assessment of the programme's results, since it describes planned events only.",
+    "kk": "Краснодар өлкесінің денсаулық сақтау министрлігі 9-нан 15-не қарашаға дейін өлкеде қант диабетімен күресуге арналған апталық өтетінін хабарлады. Осы жеті күн ішінде медицина қызметкерлері тұрғындарға ауруды қалай алдын алуға және оның асқынуларынан қалай сақтанулары керектігін түсіндіруді жоспарлап отыр. Ақпаратты министрліктің баспасөз қызметі таратты, ал Brief24 басылымы материалды 7 қарашада жариялады.\n\nАптаның бағдарламасына скрининг диагностикасының жылжымалы орталығының шығулары және денсаулық мектебіндегі сабақтар кіреді. Сабақтардың тақырыбы — «Қант диабетінің және оның асқынуларының алдын алу». Дәрігерлер қан қантының деңгейін бақылауға, тамақтануға және дене белсенділігіне ерекше назар аударуға кеңес береді.\n\nКраснодар өлкесі денсаулық сақтау министрлігінің медициналық профилактика жөніндегі бас сырттай маманы Андрей Сахаров тұрақты тексерулер бұзылыстарды уақтылы байқауға және ауру туу қаупін азайтуға көмектесетінін атап өтті. Іс-шаралар Краснодарда, Новороссийскте, сондай-ақ Славянск, Тимашевск және Тбилисск аудандарында өтеді.\n\nХабарламада нақты мекенжайлар, алаңдардың жұмыс уақыты, ұсынылатын тексерулердің тізімі және қанша адам қатысуы күтіліп отырғаны көрсетілмеген. Сондықтан әрбір алаң туралы толық мәліметті мақаладан таба алмайсыз, оны аймақтық денсаулық сақтау министрлігінің кейінгі ресми хабарламаларынан іздеу керек. Мәтінде бағдарламаның нәтижелеріне баға берілмеген, себебі ол жоспарланған іс-шараларды ғана сипаттайды.",
+    "de": "Das regionale Gesundheitsministerium der Region Krasnodar hat angekündigt, dass vom 9. bis 15. November eine Woche im Kampf gegen Diabetes stattfindet. In diesen sieben Tagen wollen medizinische Fachkräfte den Einwohnern erklären, wie sie der Erkrankung vorbeugen und Folgeschäden vermeiden können. Die Information stammt von der Pressestelle des Ministeriums; das Portal Brief24 veröffentlichte die Meldung am 7. November.\n\nZum Programm gehören Einsätze eines mobilen Zentrums für Screening-Diagnostik sowie Unterrichtseinheiten an einer Gesundheitsschule. Das Thema lautet „Vorbeugung von Diabetes und seinen Komplikationen“. Ärzte raten besonders dazu, den Blutzuckerspiegel im Blick zu behalten und auf Ernährung sowie körperliche Aktivität zu achten.\n\nAndrej Sacharow, leitender nicht fest angestellter Fachmann für medizinische Prävention im Gesundheitsministerium der Region Kuban, betonte, dass regelmäßige Untersuchungen helfen, Störungen rechtzeitig zu erkennen und das Erkrankungsrisiko zu senken. Die Veranstaltungen finden in Krasnodar und Noworossijsk sowie in den Bezirken Slawjansk, Timaschewsk und Tbilissk statt.\n\nDer Bericht nennt weder genaue Adressen noch Öffnungszeiten der Standorte oder die Liste der angebotenen Untersuchungen. Auch wie viele Menschen teilnehmen sollen, geht aus dem Artikel nicht hervor. Weitere Einzelheiten zu den Standorten sind daher nur in späteren offiziellen Mitteilungen des regionalen Gesundheitsministeriums zu erwarten. Eine Bewertung der Ergebnisse enthält der Text nicht, da er lediglich geplante Veranstaltungen beschreibt.",
+    "es": "El Ministerio de Salud regional de la región de Krasnodar anunció que del 9 al 15 de noviembre se celebrará una semana dedicada a combatir la diabetes. Durante esos siete días, el personal sanitario prevé explicar a los vecinos cómo prevenir la enfermedad y evitar sus complicaciones. La información procede del servicio de prensa del ministerio, y el medio Brief24 la publicó el 7 de noviembre.\n\nEl programa incluye desplazamientos de un centro móvil de diagnóstico de cribado y sesiones en una escuela de salud. Las clases llevan por título «Prevención de la diabetes y sus complicaciones». Los médicos insisten especialmente en vigilar el nivel de azúcar en sangre, la alimentación y la actividad física.\n\nAndrei Sajárov, especialista principal no adscrito en prevención médica del ministerio de salud de Kubán, recordó que los exámenes periódicos ayudan a detectar alteraciones a tiempo y a reducir el riesgo de contraer la enfermedad. Las actividades se realizarán en Krasnodar y Novorossiysk, así como en los distritos de Slaviansk, Timashevsk y Tbilisi.\n\nLa noticia no indica las direcciones exactas, los horarios de los puntos, la lista de pruebas que se ofrecerán ni cuántas personas se espera que participen. Los detalles sobre cada sede tendrán que buscarse en futuros comunicados oficiales del ministerio regional de salud. El texto tampoco evalúa resultados, porque solo describe actividades previstas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Период",
+      "en": "Dates",
+      "kk": "Мерзім",
+      "de": "Zeitraum",
+      "es": "Fechas"
+     },
+     "v": {
+      "ru": "9–15 ноября",
+      "en": "November 9–15",
+      "kk": "9–15 қараша",
+      "de": "9.–15. November",
+      "es": "9–15 de noviembre"
+     }
+    },
+    {
+     "k": {
+      "ru": "Длительность",
+      "en": "Duration",
+      "kk": "Ұзақтығы",
+      "de": "Dauer",
+      "es": "Duración"
+     },
+     "v": {
+      "ru": "7 дней",
+      "en": "7 days",
+      "kk": "7 күн",
+      "de": "7 Tage",
+      "es": "7 días"
+     }
+    },
+    {
+     "k": {
+      "ru": "Места проведения",
+      "en": "Locations",
+      "kk": "Өткізу орындары",
+      "de": "Orte",
+      "es": "Lugares"
+     },
+     "v": {
+      "ru": "Краснодар, Новороссийск и 3 района края",
+      "en": "Krasnodar, Novorossiysk and 3 districts of the region",
+      "kk": "Краснодар, Новороссийск және өлкенің 3 ауданы",
+      "de": "Krasnodar, Noworossijsk und 3 Bezirke der Region",
+      "es": "Krasnodar, Novorossiysk y 3 distritos de la región"
+     }
+    }
+   ]
   },
   {
    "id": "nMVU_b2M9NQ",
@@ -722,7 +1074,448 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Zc3hsSlpyQXJTeFdSaGpaNHgycjRUQ0JwRnNQcEJFUnJYWmtUMXhNemdaQ002UzZFbEp3ZEdFNi0xdGF0djE2THRRWjdWZ1REWUtfSlEtSGduQ1U?oc=5",
    "src": "Vesty.co.il",
-   "photoQuery": "child checking blood sugar"
+   "photoQuery": "child checking blood sugar",
+   "bodyTries": 1
+  },
+  {
+   "id": "nOXY_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Ученые Сеченовского Университета показали эффективность ИИ-мониторинга при диабете",
+    "en": "Sechenov University scientists show effectiveness of AI monitoring in diabetes",
+    "kk": "Сеченов университетінің ғалымдары диабетті жасанды интеллект көмегімен бақылаудың тиімділігін көрсетті",
+    "de": "Forscher der Sechenov-Universität zeigen die Wirksamkeit von KI-Monitoring bei Diabetes",
+    "es": "Científicos de la Universidad Sechenov demuestran la eficacia del monitoreo con IA en la diabetes"
+   },
+   "text": {
+    "ru": "Исследование показало эффективность мониторинга с использованием искусственного интеллекта у пациентов с диабетом.",
+    "en": "A study shows the effectiveness of artificial intelligence monitoring for people with diabetes.",
+    "kk": "Зерттеу диабеті бар адамдарды жасанды интеллект көмегімен бақылаудың тиімділігін көрсетті.",
+    "de": "Eine Studie zeigt die Wirksamkeit der KI-gestützten Überwachung bei Menschen mit Diabetes.",
+    "es": "Un estudio muestra la eficacia del seguimiento con inteligencia artificial en personas con diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHBHelJ0ZGItT3Z3X21TSUUxUHJuQU5OLVFyekNqSkhuVUZ6NFBkN3ZKS3hIZTV6el95TDJpV1VjVHdUQ1VJaW83RjNqQ0JZV0NGdGVKa1lGWGFrcGZnclNpYmpNZnJWUWkyRi1yWUlyUE9sTWdHaUhtczd3V0g5RzRwckdxanUwUXVpZWU1R0NWam1naURuNHViLWxXQmdmSjlSeU9uaUNLQi1VRnBmOEU1Z09pczI0LW9v?oc=5",
+   "src": "Сеченовский Университет",
+   "photoQuery": "smartphone health monitoring app",
+   "photo": {
+    "id": "u_QwAL909kTiY",
+    "url": "https://images.unsplash.com/photo-1609921141835-710b7fa6e438?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c21hcnRwaG9uZSUyMGhlYWx0aCUyMG1vbml0b3JpbmclMjBhcHB8ZW58MXwwfHx8MTc5NDE0Mzk3OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Tran Mau Tri Tam ✪",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/person-holding-black-android-smartphone-QwAL909kTiY?utm_source=dia_news&utm_medium=referral",
+    "alt": "person holding black android smartphone"
+   },
+   "body": {
+    "ru": "Учёные Сеченовского Университета проверили, как ежедневный дистанционный мониторинг с помощью голосового ИИ-помощника влияет на людей с диабетом 2-го типа и ожирением. Итоги опубликованы в журнале «Кардиология», работа поддержана программой «Приоритет 2030».\n\nВ исследовании участвовали 121 доброволец. 71 человек, помимо стандартного лечения, каждый день общался с голосовым помощником, а 50 получали только обычную помощь. Система сама звонила участникам в заранее согласованное время: пациенты называли уровень глюкозы и обхват талии, отвечали на вопросы о признаках низкого и высокого сахара и получали напоминания о приёме лекарств. Для этого не требовались приложение или интернет, достаточно мобильной связи.\n\nЧерез месяц в группе с удалённым наблюдением индекс накопления липидов LAP снизился на 25,9%, индекс висцерального ожирения — на 31,2%, а глюкоза натощак — на 15,1%. В контрольной группе значимых изменений не выявили. Выполнение рекомендаций выросло: их полностью соблюдали 42% пациентов против 18% в группе стандартного наблюдения. Оценка качества жизни поднялась в среднем на семь баллов, тогда как в контроле — на один балл.\n\nАвторы отмечают ограничения: исследование длилось всего месяц и проходило в одном центре, поэтому долгосрочный эффект пока оценить нельзя. Для подтверждения нужны более длительные многоцентровые работы, включая оценку гликированного гемоглобина и частоты сердечно-сосудистых осложнений. Учёные также указывают, что голосовой формат может быть удобнее для пожилых пациентов, которым сложно работать с медицинскими приложениями.",
+    "en": "Researchers at Sechenov University tested how daily remote monitoring through a voice AI assistant affects people with type 2 diabetes and obesity. The results were published in the journal \"Kardiologiya\" (Cardiology), and the work was supported by the Priority 2030 programme.\n\nThe study involved 121 volunteers. 71 people, in addition to standard treatment, spoke with the voice assistant every day, while 50 received only usual care. The system called participants automatically at agreed times: they reported their glucose level and waist circumference, answered questions about signs of low and high blood sugar, and received reminders to take their medication. No app or internet access was required, only a mobile phone connection.\n\nAfter one month, in the remote-monitoring group the LAP lipid accumulation index fell by 25.9%, the visceral obesity index by 31.2%, and fasting glucose by 15.1%. The control group showed no significant changes. Adherence was higher: 42% of patients in the AI group followed the recommendations fully, compared with 18% in standard follow-up. Quality-of-life scores rose by seven points on average, versus one point in the control group.\n\nThe authors note limitations: the study lasted only one month and took place at a single centre, so the long-term effect cannot yet be judged. Confirmation will require longer, multicentre studies, including assessment of glycated haemoglobin and the frequency of cardiovascular complications. The researchers also point out that the voice format may suit older patients who find medical apps difficult to use.",
+    "kk": "Сеченов университетінің ғалымдары күнделікті қашықтан бақылаудың, яғни дауыстық жасанды интеллект көмекшісі арқылы жүргізілетін мониторингтің, 2-типті қант диабеті және семіздігі бар адамдардың жағдайына әсерін зерттеді. Нәтижелері «Кардиология» журналында жарияланды, жұмысты «Приоритет 2030» бағдарламасы қолдады.\n\nЗерттеуге 121 ерікті қатысты. Стандартты емге қосымша күн сайын дауыстық көмекшімен сөйлескен 71 адам болды, ал қалған 50 адам тек дәстүрлі көмек алды. Жүйе қоңырауды келісілген уақытта өздігінен шалды: науқастар глюкоза деңгейі мен белдеу айналымын айтып, қант деңгейінің төмендеуі мен жоғарылауының белгілері туралы сұрақтарға жауап берді және дәрі қабылдау туралы еске салғыштар алды. Қолданба немесе интернет қажет болмады, тек ұялы байланыс жеткілікті болды.\n\nБір айдан кейін қашықтан бақылау тобында LAP липидтерінің жиналу индексі 25,9%-ға, висцералды семіздік индексі 31,2%-ға төмендеді, ал ашқарынға глюкоза деңгейі 15,1%-ға азайды. Бақылау тобында бұл көрсеткіштерде маңызды өзгеріс байқалмады. Емдеу ұсынымдарын толық орындау артты: жасанды интеллект көмекшісі бар топта науқастардың 42%-ы, ал стандартты бақылау тобында 18%-ы оларды толық сақтады. Өмір сапасын бағалау орта есеппен жеті ұпайға өсті, бақылау тобында бір ұпай болды.\n\nАвторлар шектеулерін атап өтеді: зерттеу бір ай ғана созылды және бір орталықта жүргізілді, сондықтан ұзақмерзімді әсерді әзірге бағалау мүмкін емес. Нәтижені растау үшін гликирленген гемоглобинді және жүрек-қан тамырлары асқынуларының жиілігін бағалайтын ұзақ, көпорталықты зерттеулер қажет. Ғалымдар дауыстық формат қолданбалы бағдарламалармен жұмыс істеуге қиналатын жасы үлкен науқастар үшін ыңғайлы болуы мүмкін екенін де атап өтеді.",
+    "de": "Forschende der Sechenow-Universität haben untersucht, wie tägliche Fernüberwachung durch einen Sprach-KI-Assistenten Menschen mit Typ-2-Diabetes und Adipositas beeinflusst. Die Ergebnisse wurden in der Zeitschrift „Kardiologija“ (Kardiologie) veröffentlicht; die Arbeit wurde vom Programm „Priorität 2030“ unterstützt.\n\nAn der Studie nahmen 121 Freiwillige teil. 71 Personen erhielten die Standardbehandlung und sprachen zusätzlich täglich mit dem Sprachassistenten, die übrigen 50 erhielten nur die übliche Versorgung. Das System rief die Teilnehmenden automatisch zu vereinbarten Zeiten an. Sie nannten ihren Glukosewert und ihren Taillenumfang, beantworteten Fragen zu Anzeichen von Unter- und Überzuckerung und bekamen Erinnerungen an die Medikamenteneinnahme. Eine App oder ein Internetzugang war nicht nötig, nur ein Mobilfunkanschluss.\n\nNach einem Monat sank in der Fernüberwachungsgruppe der LAP-Index (Lipidakkumulationsprodukt) um 25,9 %, der Index für viszerale Adipositas um 31,2 % und die Nüchternglukose um 15,1 %. In der Kontrollgruppe wurden keine signifikanten Veränderungen festgestellt. Die Therapietreue war höher: 42 % der Patientinnen und Patienten befolgten die Empfehlungen vollständig, gegenüber 18 % bei der Standardbetreuung. Der Lebensqualitätswert stieg im Mittel um sieben Punkte, in der Kontrollgruppe nur um einen Punkt.\n\nDie Autorinnen und Autoren verweisen auf Grenzen: Die Studie dauerte nur einen Monat und fand in einem einzigen Zentrum statt, daher lässt sich der Langzeiteffekt noch nicht beurteilen. Zur Bestätigung sind größere multizentrische Studien nötig, unter anderem mit Bewertung des glykierten Hämoglobins und der Häufigkeit kardiovaskulärer Komplikationen. Das Team weist zudem darauf hin, dass das Sprachformat für ältere Menschen praktisch sein kann, die mit medizinischen Apps Schwierigkeiten haben.",
+    "es": "Investigadores de la Universidad Sechenov evaluaron cómo el seguimiento diario a distancia mediante un asistente de voz con IA afecta a personas con diabetes tipo 2 y obesidad. Los resultados se publicaron en la revista «Kardiologiya» (Cardiología), y el trabajo contó con el respaldo del programa «Prioridad 2030».\n\nEn el estudio participaron 121 voluntarios. 71 personas, además del tratamiento habitual, hablaban a diario con el asistente de voz, mientras que 50 solo recibieron la atención estándar. El sistema llamaba automáticamente a los pacientes en horarios acordados: ellos comunicaban su nivel de glucosa y su perímetro de cintura, respondían preguntas sobre síntomas de hipoglucemia e hiperglucemia y recibían recordatorios para tomar sus medicamentos. No hacía falta una aplicación ni internet, solo telefonía móvil.\n\nAl cabo de un mes, en el grupo con seguimiento a distancia, el índice de acumulación de lípidos (LAP) bajó un 25,9 %, el índice de obesidad visceral un 31,2 % y la glucosa en ayunas un 15,1 %. En el grupo control no se observaron cambios significativos. La adherencia fue mayor: el 42 % de los pacientes siguió por completo las recomendaciones, frente al 18 % con observación estándar. La puntuación de calidad de vida subió de media siete puntos, frente a uno en el grupo control.\n\nLos autores señalan limitaciones: el estudio duró solo un mes y se realizó en un único centro, por lo que aún no se puede juzgar el efecto a largo plazo. Para confirmarlo hacen falta estudios multicéntricos más largos, que incluyan la hemoglobina glicosilada y la frecuencia de complicaciones cardiovasculares. Los investigadores también indican que el formato de voz puede resultar más cómodo para pacientes mayores que tienen dificultades con las aplicaciones médicas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Участники исследования",
+      "en": "Study participants",
+      "kk": "Зерттеу қатысушылары",
+      "de": "Studienteilnehmer",
+      "es": "Participantes del estudio"
+     },
+     "v": {
+      "ru": "121 доброволец",
+      "en": "121 volunteers",
+      "kk": "121 ерікті",
+      "de": "121 Freiwillige",
+      "es": "121 voluntarios"
+     }
+    },
+    {
+     "k": {
+      "ru": "Снижение глюкозы натощак за месяц (группа ИИ-мониторинга)",
+      "en": "Fasting glucose drop after one month (AI monitoring group)",
+      "kk": "Бір айдан кейін ашқарынға глюкоза деңгейінің төмендеуі (ЖИ мониторингі тобы)",
+      "de": "Rückgang der Nüchternglukose nach einem Monat (KI-Überwachungsgruppe)",
+      "es": "Descenso de la glucosa en ayunas tras un mes (grupo con seguimiento por IA)"
+     },
+     "v": {
+      "ru": "15,1%",
+      "en": "15.1%",
+      "kk": "15,1%",
+      "de": "15,1 %",
+      "es": "15,1 %"
+     }
+    }
+   ]
+  },
+  {
+   "id": "n0djP29jPTU",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Строгая диета и регулярные тренировки помогли более половины молодых пациентов обратить диабет 2 типа",
+    "en": "Strict diet and regular exercise helped over half of young patients reverse type 2 diabetes",
+    "kk": "Қатаң диета мен үнемі жаттығу жас науқастардың жартысынан көбіне 2-типті диабетті кері қайтаруға көмектесті",
+    "de": "Strenge Diät und regelmäßiges Training halfen mehr als der Hälfte junger Patienten, Typ-2-Diabetes rückgängig zu machen",
+    "es": "Una dieta estricta y el ejercicio regular ayudaron a más de la mitad de los pacientes jóvenes a revertir la diabetes tipo 2"
+   },
+   "text": {
+    "ru": "По данным сообщения, строгая диета и регулярные физические нагрузки позволили большинству молодых пациентов с диабетом 2 типа добиться ремиссии.",
+    "en": "According to the report, a strict diet and regular exercise led to remission in most young patients with type 2 diabetes.",
+    "kk": "Хабарламаға сәйкес, қатаң диета мен үнемі дене жаттығулары жас 2-типті диабетпен ауыратын науқастардың көбінде ремиссияға әкелген.",
+    "de": "Laut Bericht führten eine strenge Diät und regelmäßige Bewegung bei den meisten jungen Patienten mit Typ-2-Diabetes zur Remission.",
+    "es": "Según el informe, una dieta estricta y el ejercicio regular llevaron a la remisión en la mayoría de los pacientes jóvenes con diabetes tipo 2."
+   },
+   "url": "https://www.nur.kz/health/healthy-lifestyle/2452866-strogaya-dieta-i-regulyarnye-trenirovki-pomogli-bolee-chem-polovine-molodyh-pacientov-obratit-diabet-2-go-tipa/",
+   "src": "NUR.KZ",
+   "photoQuery": "healthy meal vegetables salad",
+   "photo": {
+    "id": "u_r8A-FTlLY3c",
+    "url": "https://images.unsplash.com/photo-1569760142069-bc6838de16c1?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aGVhbHRoeSUyMG1lYWwlMjB2ZWdldGFibGVzJTIwc2FsYWR8ZW58MXwwfHx8MTc5NDE0Mzk3OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jonathan Ybema",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/plate-of-vegetable-salad-r8A-FTlLY3c?utm_source=dia_news&utm_medium=referral",
+    "alt": "plate of vegetable salad"
+   },
+   "body": {
+    "ru": "Канадские исследователи из Университета Макгилла (Монреаль) сообщили, что жесткая низкокалорийная диета в сочетании с регулярной физической активностью может привести к ремиссии диабета 2-го типа, возникшего в молодом возрасте. Работа опубликована в журнале The Lancet Regional Health: Americas. О ней 6 ноября 2026 года со ссылкой на Medical News Today рассказал NUR.KZ.\n\nВ 24-недельном клиническом испытании участвовали 96 человек от 18 до 45 лет с ожирением, у которых диагноз был поставлен не более шести лет назад. Участников разделили на две равные группы. В первые 12 недель экспериментальная группа соблюдала диету в 800–900 килокалорий в сутки (30% белков, 50% углеводов, 20% жиров) и дважды в неделю занималась силовыми и аэробными упражнениями под контролем специалистов, а еще одну тренировку выполняла самостоятельно. Следующие 12 недель добровольцы перешли на поддерживающее питание и тренировались без постоянного надзора. Контрольная группа получала только стандартную медицинскую помощь.\n\nЧерез 12 недель ремиссия наступила у 58% участников основной группы. К концу полугодового эксперимента стойкое улучшение сохранили 54% — 27 из 50 человек, тогда как в контрольной группе так ответили лишь двое пациентов. Ведущий автор, профессор медицины Кабери Дасгупта, отметила, что у молодых людей болезнь прогрессирует быстрее, поэтому немедикаментозные методы важны для профилактики ранних инсультов, болезней сердца и почек.\n\nНезависимые специалисты призывают к осторожности. Врач Дэвид Катлер из Санта-Моники отметил, что около 86% участников экспериментальной группы жаловались на побочные эффекты: запоры, головные боли, головокружение и ощущение холода. Доцент Имон Лэрд из Ирландии предупредил, что повторять протокол самостоятельно без медицинского контроля не стоит, и напомнил, что временная ремиссия не означает полного излечения.",
+    "en": "Canadian researchers from McGill University in Montreal report that a strict low-calorie diet combined with regular physical activity can push type 2 diabetes that began at a young age into remission. The findings were published in The Lancet Regional Health: Americas. On 6 November 2026, NUR.KZ reported on them, citing Medical News Today.\n\nThe 24-week clinical trial enrolled 96 people aged 18 to 45 who had obesity and a diagnosis made no more than six years earlier. Participants were split into two equal groups. In the first 12 weeks, the intervention group followed a diet of 800–900 kilocalories a day (30% protein, 50% carbohydrates, 20% fat) and trained twice a week under supervision, with strength and aerobic work, plus one session on their own. The next 12 weeks moved them to a maintenance diet with training done without constant supervision. The control group received only standard medical care.\n\nAfter 12 weeks, 58% of the intervention group had reached remission. By the end of the six-month experiment, 54% — 27 of 50 participants — kept the improvement, compared with just two patients in the control group. Lead author Kabery Dasgupta, a professor of medicine, noted that the disease progresses faster in young people, so non-drug approaches matter for preventing early strokes and heart and kidney disease.\n\nIndependent experts urge caution. Physician David Cutler of Santa Monica said about 86% of the intervention group reported side effects such as constipation, headaches, dizziness and feeling cold. Associate Professor Eamonn Laird of Ireland warned against trying the protocol alone without medical oversight and reminded readers that temporary remission is not a full cure.",
+    "kk": "Канадалық ғалымдар Монреальдағы МакГилл университетінің зерттеушілері қатты төмен калориялы диета мен үнемі дене белсенділігі жас кезде басталған 2-типті диабеттің ремиссиясына әкелуі мүмкін екенін хабарлады. Нәтижелер The Lancet Regional Health: Americas журналында жарияланды. Бұл туралы NUR.KZ 2026 жылдың 6 қарашасында Medical News Today сілтемесімен жазды.\n\n24 аптаға созылған клиникалық сынаққа 18-ден 45-ке дейінгі, семіздігі бар 96 адам қатысты; олардың диагнозы кемінде алты жыл бұрын қойылған. Қатысушылар тең екі топқа бөлінді. Алғашқы 12 аптада эксперименттік топ күніне 800–900 килокалория диетасын ұстанды (30% ақуыз, 50% көмірсу, 20% май) және апта сайын екі рет мамандар бақылауымен күш пен аэробтық жаттығуларды орындады, тағы бір жаттығуды өз бетінше жасады. Келесі 12 аптада еріктілер ұстау диетасына көшіп, жаттығуды дербес жалғастырды. Бақылау тобы тек стандартты медициналық көмек алды.\n\n12 аптадан кейін араласу тобындағы қатысушылардың 58%-ы ремиссияға жетті. Алты айлық тәжірибенің соңында 54%-ы — 50 адамның 27-сі — жақсарғанын сақтады, ал бақылау тобында мұндай нәтиже бар болғаны екі пациентте тіркелді. Жетекші автор, медицина профессоры Кабери Дасгупта жастарда ауру тезірек дамитынын, сондықтан дәрі-дәрмексіз әдістер ерте инсульт, жүрек және бүйрек аурулардың алдын алуда маңызды екенін атап өтті.\n\nТәуелсіз мамандар сақ болуға шақырады. Санта-Моникадан дәрігер Дэвид Катлер араласу тобы қатысушыларының шамамен 86%-ы ішек қатуы, бас ауруы, бас айналу және тоңу сезімі сияқты жанама әсерлерге шағымданғанын айтты. Ирландиядан доцент Эймон Лэрд медициналық бақылаусыз бұл хаттаманы өз бетінше қайталауға болмайтынын ескертіп, уақытша ремиссияның толық емделуді білдірмейтінін еске салды.",
+    "de": "Kanadische Forschende der McGill-Universität in Montreal berichten, dass eine strikt kalorienarme Diät in Kombination mit regelmäßiger körperlicher Aktivität einen früh begonnenen Typ-2-Diabetes in Remission bringen kann. Die Ergebnisse erschienen in The Lancet Regional Health: Americas. NUR.KZ berichtete darüber am 6. November 2026 unter Berufung auf Medical News Today.\n\nAn der 24-wöchigen klinischen Studie nahmen 96 Erwachsene im Alter von 18 bis 45 Jahren mit Adipositas teil, deren Diagnose höchstens sechs Jahre zurücklag. Die Teilnehmenden wurden in zwei gleich große Gruppen aufgeteilt. In den ersten zwölf Wochen hielt sich die Interventionsgruppe an eine Ernährung mit 800–900 Kilokalorien täglich (30 % Eiweiß, 50 % Kohlenhydrate, 20 % Fett) und trainierte zweimal wöchentlich unter Aufsicht Kraft und Ausdauer, dazu eine weitere Einheit allein. Danach folgten zwölf Wochen mit erhaltender Ernährung und selbstständigem Training. Die Kontrollgruppe erhielt ausschließlich die übliche medizinische Versorgung.\n\nNach zwölf Wochen hatten 58 % der Interventionsgruppe eine Remission erreicht. Am Ende des halbjährigen Versuchs hielten 54 % – 27 von 50 Personen – die Verbesserung aufrecht, in der Kontrollgruppe waren es nur zwei Patienten. Die leitende Autorin, Professorin für Medizin Kabery Dasgupta, betonte, dass die Krankheit bei jungen Menschen schneller voranschreitet, weshalb nicht-medikamentöse Maßnahmen zur Vorbeugung früher Schlaganfälle sowie von Herz- und Nierenerkrankungen besonders wichtig seien.\n\nUnabhängige Fachleute mahnen zur Vorsicht. Der Arzt David Cutler aus Santa Monica hob hervor, dass rund 86 % der Teilnehmenden der Interventionsgruppe über Nebenwirkungen klagten, etwa Verstopfung, Kopfschmerzen, Schwindel und Frösteln. Der Dozent Eamonn Laird aus Irland warnte davor, das Protokoll ohne ärztliche Kontrolle allein nachzuahmen, und erinnerte daran, dass eine vorübergehende Remission keine vollständige Heilung bedeutet.",
+    "es": "Investigadores canadienses de la Universidad McGill, en Montreal, informan de que una dieta estricta baja en calorías combinada con actividad física regular puede llevar a la remisión de la diabetes tipo 2 de inicio temprano. Los resultados se publicaron en The Lancet Regional Health: Americas. NUR.KZ los dio a conocer el 6 de noviembre de 2026, citando a Medical News Today.\n\nEl ensayo clínico de 24 semanas incluyó a 96 personas de entre 18 y 45 años con obesidad y un diagnóstico realizado hace no más de seis años. Los participantes se dividieron en dos grupos iguales. Durante las primeras 12 semanas, el grupo de intervención siguió una dieta de 800–900 kilocalorías diarias (30 % proteínas, 50 % carbohidratos, 20 % grasas) y entrenó dos veces por semana bajo supervisión, con fuerza y aeróbicos, además de una sesión por su cuenta. Las siguientes 12 semanas pasaron a una alimentación de mantenimiento con entrenamiento independiente. El grupo de control recibió solo la atención médica estándar.\n\nTras 12 semanas, la remisión se alcanzó en el 58 % del grupo de intervención. Al terminar los seis meses, el 54 % —27 de 50 personas— mantenía la mejora, frente a solo dos pacientes del grupo de control. La autora principal, la profesora de medicina Kabery Dasgupta, señaló que la enfermedad avanza más rápido en los jóvenes, por lo que los métodos no farmacológicos son importantes para prevenir ictus tempranos y enfermedades cardíacas y renales.\n\nExpertos independientes piden cautela. El médico David Cutler, de Santa Mónica, destacó que alrededor del 86 % de los participantes del grupo de intervención se quejó de efectos secundarios como estreñimiento, dolor de cabeza, mareos y sensación de frío. El profesor asociado Eamonn Laird, de Irlanda, advirtió contra intentar reproducir el protocolo por cuenta propia sin supervisión médica y recordó que una remisión temporal no equivale a una curación completa."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Ремиссия через 24 недели",
+      "en": "Remission at 24 weeks",
+      "kk": "24 аптадан кейін ремиссия",
+      "de": "Remission nach 24 Wochen",
+      "es": "Remisión a las 24 semanas"
+     },
+     "v": {
+      "ru": "54% (27 из 50)",
+      "en": "54% (27 of 50)",
+      "kk": "54% (50 адамның 27-сі)",
+      "de": "54 % (27 von 50)",
+      "es": "54 % (27 de 50)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Побочные эффекты в экспериментальной группе",
+      "en": "Side effects in the intervention group",
+      "kk": "Араласу тобындағы жанама әсерлер",
+      "de": "Nebenwirkungen in der Interventionsgruppe",
+      "es": "Efectos secundarios en el grupo de intervención"
+     },
+     "v": {
+      "ru": "около 86%",
+      "en": "about 86%",
+      "kk": "шамамен 86%",
+      "de": "rund 86 %",
+      "es": "alrededor del 86 %"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nFlUT9vYz01",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Сильное загрязнение воздуха повышает риск диабета",
+    "en": "Heavy air pollution linked to higher risk of diabetes",
+    "kk": "Ауаның қатты ластануы диабет қаупін арттырады",
+    "de": "Starke Luftverschmutzung erhöht das Diabetesrisiko",
+    "es": "La fuerte contaminación del aire aumenta el riesgo de diabetes"
+   },
+   "text": {
+    "ru": "Согласно сообщению, высокий уровень загрязнения воздуха связан с повышенным риском развития диабета.",
+    "en": "According to the report, high air pollution is associated with an increased risk of developing diabetes.",
+    "kk": "Хабарламаға сәйкес, ауаның жоғары ластануы диабеттің даму қаупінің артуымен байланысты.",
+    "de": "Laut Bericht ist eine hohe Luftverschmutzung mit einem erhöhten Diabetesrisiko verbunden.",
+    "es": "Según el informe, una alta contaminación del aire se asocia con un mayor riesgo de desarrollar diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE0ydDQta28xd1F2S1M5dWpURmQ4dnQ1bVdzb1AzT0Z0MkkxdFh2LUp4c3JiZnJKTFFPSEdvcFFVVFNkZHdFazdxZzkydVQtLW1QM01ZZThOLUl2TzAxamdBc2RkVFlEVnZzcEUzNk1uX084QTlIS2dBMDZzYUF2UktSSEFWMlBZaVpMVW1VOGxaZWdUNjNqeQ?oc=5",
+   "src": "Vietnam.vn",
+   "photoQuery": "city smog air pollution",
+   "bodyTried": true
+  },
+  {
+   "id": "nWxCP29jPTU",
+   "cat": "drugs",
+   "stage": "early",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "BetaLife открыла в Китае лабораторию перед испытаниями терапии диабета",
+    "en": "BetaLife opens laboratory in China ahead of diabetes therapy trials",
+    "kk": "BetaLife Қытайда диабет терапиясын сынақтан өткізер алдында зертхана ашты",
+    "de": "BetaLife eröffnet Labor in China vor Studien zur Diabetes-Therapie",
+    "es": "BetaLife abre un laboratorio en China antes de los ensayos de una terapia para la diabetes"
+   },
+   "text": {
+    "ru": "Компания открыла лабораторию в Китае до начала испытаний своей терапии диабета.",
+    "en": "The company has opened a laboratory in China ahead of trials of its diabetes therapy.",
+    "kk": "Компания диабет терапиясын сынаудың алдында Қытайда зертхана ашты.",
+    "de": "Das Unternehmen hat vor den Studien zu seiner Diabetes-Therapie ein Labor in China eröffnet.",
+    "es": "La empresa ha abierto un laboratorio en China antes de los ensayos de su terapia para la diabetes."
+   },
+   "url": "https://ua.news/en/dovkolo-svitu/betalife-vidkrila-v-kitayi-laboratoriiu-pered-viprobuvanniami-terapiyi-diabetu-channel-newsasia",
+   "src": "UA.NEWS",
+   "photoQuery": "laboratory scientist pipette cells",
+   "body": {
+    "ru": "Сингапурская медтех-компания BetaLife в июле открыла в Сямэне (Китай) исследовательскую и производственную лабораторию. Это происходит перед первыми испытаниями на людях терапии диабета на основе стволовых клеток. По данным издания, компания уже проводит тесты и набирает пациентов.\n\nBetaLife разрабатывает стволовые терапии, призванные заменять клетки, которые повредил диабет. Работа ведётся совместно с Первой аффилированной больницей Сямэньского университета.\n\nСоучредитель и директор Нованн Сеах называет Китай важной частью азиатской и глобальной стратегии роста. По её словам, страна сочетает возможности больниц и производства с развивающейся экосистемой клеточной терапии. Компания оценивает, что небольшое первое исследование на людях в Китае может обойтись на 20–50% дешевле аналогичной программы в Сингапуре, а подготовка регуляторных процедур и площадок для испытаний может занять на несколько недель или месяцев меньше, в зависимости от больницы и дизайна исследования.\n\nДля контекста: по оценкам Международной федерации диабета 2024 года, в Китае около 148 млн взрослых с диабетом, примерно четверть мирового числа взрослых пациентов. В статье также упоминается компания Lion TCR, которая в Гуанчжоу проводит испытания клеточной терапии рака печени, связанного с гепатитом B. Постановление Госсовета № 818, действующее с мая, определяет порядок внедрения новых биомедицинских технологий в клиническую практику.\n\nОграничения: сроки и экономия пока остаются оценками компании. Статья не называет дату первого введения препарата пациенту и число участников. Enterprise Singapore помогает сингапурским компаниям разбираться в изменениях китайского регулирования.",
+    "en": "Singapore-based medtech firm BetaLife set up a research and manufacturing laboratory in Xiamen, China, in July. The site comes before the first human tests of its stem cell-based diabetes treatment. According to the report, the company is already running tests and enrolling patients.\n\nBetaLife is developing stem cell treatments meant to stand in for cells that diabetes has damaged. The work is being carried out together with the First Affiliated Hospital of Xiamen University.\n\nCo-founder and director Novanne Seah describes China as a key part of the firm's growth plans across Asia and globally. In her view, the country pairs hospital capacity and manufacturing with a cell therapy ecosystem that is still developing. The company estimates that a small first human study in China could cost 20–50% less than a comparable programme in Singapore, and that preparing regulatory steps and trial sites might take several weeks or months less, depending on the hospital and study design.\n\nFor context, International Diabetes Federation estimates for 2024 put the number of adults with diabetes in China at about 148 million, roughly a quarter of the global adult total. The article also mentions Lion TCR, which is running clinical trials in Guangzhou of a cell therapy for liver cancer linked to hepatitis B. State Council Decree No. 818, in force since May, sets out how new biomedical technologies enter clinical practice.\n\nCaveats: the cost and timing savings remain the company's own estimates. The article gives no date for the first patient dose and no number of participants. Enterprise Singapore helps Singaporean firms follow regulatory changes in China.",
+    "kk": "Сингапурдік медтех компаниясы BetaLife шілдеде Қытайдың Сямэнь қаласында зерттеу және өндіріс зертханасын ашты. Бұл адамдарға арналған бағаналық жасушаларға негізделген диабет емінің алғашқы клиникалық сынақтарына дейін жасалды. Хабарламаға сәйкес, компания қазірдің өзінде тесттер жүргізіп, пациенттерді іріктеп жатыр.\n\nBetaLife диабет зақымдаған жасушаларды алмастыруға арналған бағаналық жасушалық емдеу тәсілдерін әзірлейді. Бұл жұмыс Сямэнь университетінің Бірінші бірлескен ауруханасымен бірге жүргізіледі.\n\nКомпанияның негізін қалаушы әрі директоры Нованн Сеах Қытайды фирманың Азиядағы және әлемдегі өсу жоспарларының маңызды бөлігі деп атайды. Оның пікірінше, ел ауруханалардың мүмкіндіктерін және өндірісті дамып келе жатқан жасушалық терапия экожүйесімен біріктіреді. Компания бағалауынша, Қытайдағы адамдарға арналған алғашқы шағын зерттеу Сингапурдағы ұқсас бағдарламадан 20–50% арзанға түсуі мүмкін, ал реттеу қадамдары мен сынақ алаңдарын дайындау ауруханаға және зерттеу дизайнына байланысты бірнеше аптаға немесе айға қысқа болуы ықтимал.\n\nКонтекст үшін: Халықаралық диабет федерациясының 2024 жылғы бағалауы бойынша Қытайда диабеті бар ересектер шамамен 148 миллион, бұл әлемдегі ересек пациенттердің шамамен төрттен бірі. Мақалада сондай-ақ Lion TCR туралы айтылады; ол Гуанчжоуда B гепатитімен байланысты бауыр қатерлі ісігіне арналған жасушалық терапияның сынақтарын жүргізеді. Мамырдан бері күшінде болған Мемлекеттік кеңестің № 818 қаулысы жаңа биомедициналық технологиялардың клиникалық тәжірибеге енгізілу тәртібін белгілейді.\n\nЕскерту: мерзім мен үнемдеу әлі компанияның өз бағалаулары болып қалады. Мақалада алғашқы пациентке препарат берілетін күн немесе қатысушылар саны көрсетілмеген. Enterprise Singapore сингапурлық фирмаларға Қытайдағы реттеу өзгерістерін түсінуге көмектеседі.",
+    "de": "Das singapurische Medizintechnikunternehmen BetaLife hat im Juli in Xiamen im Südosten Chinas ein Forschungs- und Produktionslabor eröffnet. Die Eröffnung fällt vor die ersten Studien am Menschen mit einer stammzellbasierten Diabetes-Therapie. Laut Bericht laufen bereits Tests, und das Unternehmen wirbt Patienten an.\n\nBetaLife entwickelt Stammzelltherapien, die durch Diabetes geschädigte Zellen ersetzen sollen. Dabei arbeitet die Firma mit dem Ersten Angegliederten Krankenhaus der Universität Xiamen zusammen.\n\nMitgründerin und Direktorin Novanne Seah bezeichnet China als wichtigen Baustein der asiatischen und globalen Wachstumsstrategie. Das Land verbinde Klinikkapazitäten und Fertigung mit einem sich entwickelnden Ökosystem für Zelltherapien. BetaLife schätzt, dass eine kleine erste Humanstudie in China 20 bis 50 Prozent weniger kosten könnte als ein vergleichbares Programm in Singapur. Auch die Vorbereitung regulatorischer Verfahren und Studienzentren könnte je nach Klinik und Studiendesign einige Wochen oder Monate kürzer dauern.\n\nZum Hintergrund nennt der Artikel Schätzungen der Internationalen Diabetes Föderation von 2024: In China leben demnach rund 148 Millionen Erwachsene mit Diabetes, etwa ein Viertel der weltweiten Zahl erwachsener Patienten. Erwähnt wird zudem Lion TCR, ein weiteres singapurisches Unternehmen, das in Guangzhou eine Zelltherapie gegen hepatitis-B-bedingten Leberkrebs klinisch prüft. Die Verordnung Nr. 818 des Staatsrats, seit Mai in Kraft, regelt den Weg neuer biomedizinischer Technologien in die klinische Praxis.\n\nEinschränkend gilt: Die Einsparungen bei Kosten und Zeit sind Schätzungen des Unternehmens. Der Artikel nennt weder einen Termin für die erste Behandlung eines Patienten noch die Zahl der Teilnehmer. Enterprise Singapore unterstützt singapurische Firmen dabei, Änderungen der chinesischen Regulierung nachzuvollziehen.",
+    "es": "La empresa singapurense de tecnología médica BetaLife abrió en julio un laboratorio de investigación y fabricación en Xiamen, en el sureste de China. La instalación llega antes de los primeros ensayos en personas de una terapia para la diabetes basada en células madre. Según el reportaje, la compañía ya realiza pruebas y recluta pacientes.\n\nBetaLife desarrolla terapias con células madre destinadas a reemplazar células dañadas por la diabetes. Para ello colabora con el Primer Hospital Afiliado de la Universidad de Xiamen.\n\nNovanne Seah, cofundadora y directora, considera que China es una pieza clave de la estrategia de crecimiento de la empresa en Asia y a escala global. Según ella, el país combina capacidad hospitalaria y de fabricación con un ecosistema de terapia celular en desarrollo. BetaLife calcula que un primer estudio pequeño en humanos realizado en China podría costar entre un 20 % y un 50 % menos que un programa comparable en Singapur. Además, preparar los trámites regulatorios y los centros de ensayo podría llevar unas semanas o meses menos, según el hospital y el diseño del estudio.\n\nComo contexto, el artículo cita estimaciones de 2024 de la Federación Internacional de Diabetes: unos 148 millones de adultos con diabetes viven en China, aproximadamente una cuarta parte del total mundial de pacientes adultos. También menciona a Lion TCR, otra empresa singapurense que lleva a cabo ensayos clínicos en Guangzhou de una terapia celular para el cáncer de hígado relacionado con la hepatitis B. El decreto n.º 818 del Consejo de Estado, vigente desde mayo, define el procedimiento para introducir nuevas tecnologías biomédicas en la práctica clínica.\n\nConviene tener en cuenta las limitaciones: los ahorros de costo y tiempo son estimaciones de la compañía, y el artículo no indica la fecha de la primera dosis en un paciente ni el número de participantes. Enterprise Singapore ayuda a las empresas singapurenses a entender los cambios regulatorios en China."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Взрослые с диабетом в Китае (оценка IDF, 2024)",
+      "en": "Adults with diabetes in China (IDF estimate, 2024)",
+      "kk": "Қытайдағы диабеті бар ересектер (IDF бағалауы, 2024)",
+      "de": "Erwachsene mit Diabetes in China (IDF-Schätzung, 2024)",
+      "es": "Adultos con diabetes en China (estimación FID, 2024)"
+     },
+     "v": {
+      "ru": "около 148 млн",
+      "en": "about 148 million",
+      "kk": "шамамен 148 миллион",
+      "de": "rund 148 Millionen",
+      "es": "unos 148 millones"
+     }
+    },
+    {
+     "k": {
+      "ru": "Снижение стоимости первого исследования на людях в Китае по сравнению с Сингапуром (оценка компании)",
+      "en": "Cost reduction of a first human study in China vs Singapore (company estimate)",
+      "kk": "Қытайдағы алғашқы адам зерттеуінің Сингапурмен салыстырғандағы құны (компания бағалауы)",
+      "de": "Kostenersparnis einer ersten Humanstudie in China gegenüber Singapur (Schätzung des Unternehmens)",
+      "es": "Ahorro de costo de un primer estudio en humanos en China frente a Singapur (estimación de la compañía)"
+     },
+     "v": {
+      "ru": "на 20–50% меньше",
+      "en": "20–50% less",
+      "kk": "20–50% аз",
+      "de": "20–50 % weniger",
+      "es": "entre un 20 % y un 50 % menos"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVHcz9vYz01",
+   "cat": "access",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Врач отказал в наблюдении брянчанке с диабетом: замену искали через прокуратуру",
+    "en": "Doctor refused to monitor a Bryansk woman with diabetes; a replacement was sought via the prosecutor",
+    "kk": "Брянскілік диабеті бар әйелді бақылаудан дәрігер бас тартты: ауыстыруды прокуратура арқылы іздеді",
+    "de": "Arzt lehnte Betreuung einer Diabetikerin aus Brjansk ab – Ersatz wurde über die Staatsanwaltschaft gesucht",
+    "es": "Un médico rechazó atender a una mujer diabética de Briansk; la sustitución se buscó a través de la fiscalía"
+   },
+   "text": {
+    "ru": "Пациентке с диабетом из Брянска отказали в наблюдении врача, и замену искали через прокуратуру.",
+    "en": "A diabetic patient in Bryansk was refused follow-up by her doctor, and a replacement was sought through the prosecutor's office.",
+    "kk": "Брянскідегі диабеті бар науқасқа дәрігер бақылауды тоқтатты, ал ауыстыруды прокуратура арқылы іздеді.",
+    "de": "Einer Patientin mit Diabetes aus Brjansk wurde die ärztliche Betreuung verweigert; einen Ersatz suchte man über die Staatsanwaltschaft.",
+    "es": "A una paciente con diabetes de Briansk se le negó el seguimiento médico, y se buscó un sustituto a través de la fiscalía."
+   },
+   "url": "https://newsbryansk.ru/fn_1987731.html",
+   "src": "Bryansktoday",
+   "photoQuery": "doctor patient consultation clinic",
+   "body": {
+    "ru": "Жительница Брянска, больная сахарным диабетом, осталась без лечащего врача: её эндокринолог внезапно отказался продолжать наблюдение за пациенткой. Женщине жизненно необходимо постоянное медицинское сопровождение, однако руководство медицинского учреждения не стало назначать ей другого специалиста. Материал датирован 6 ноября 2026 года.\n\nПациентка обратилась за помощью в прокуратуру Фокинского района. В ходе проверки сотрудники надзорного ведомства подтвердили, что действия медиков нарушают законодательство об охране здоровья. Чтобы защитить права пациентки, прокуроры внесли представление главному врачу учреждения.\n\nПосле этого руководство оперативно исправило ситуацию: женщине организовали замену лечащего врача-эндокринолога. Иными словами, замена врача стала возможной лишь после вмешательства прокуратуры.\n\nВ публикации не указаны причины, по которым врач отказался от пациентки, и нет комментария медицинского учреждения. Также не сообщается, сколько времени женщина оставалась без наблюдения. Других числовых данных в материале нет.",
+    "en": "A woman from Bryansk who has diabetes was left without an attending doctor: her endocrinologist suddenly refused to continue monitoring her. She urgently needs ongoing medical supervision, yet the management of the medical facility did not arrange another specialist for her. The report is dated 6 November 2026.\n\nThe patient turned to the Fokinsky District prosecutor's office for help. During the check, officials from the supervisory body confirmed that the medical staff's actions violated health-protection legislation. To protect the patient's rights, prosecutors submitted a formal presentation to the chief physician of the institution.\n\nAfter that, the management quickly fixed the situation: the woman was assigned a new attending endocrinologist. In other words, the doctor could be changed only after the prosecutor's office intervened.\n\nThe report does not state the reasons the doctor gave for refusing the patient, and it contains no comment from the medical facility. It also does not say how long the woman went without monitoring. The article contains no other numerical data.",
+    "kk": "Брянск қаласының диабеті бар тұрғыны емдеуші дәрігерсіз қалды: оның эндокринологы науқасты бақылауды кенеттен жалғастырудан бас тартты. Әйелге өмірлік маңызы бар үнемі медициналық бақылау қажет, бірақ емдеу мекемесінің басшылығы оған басқа маман тағайындамаған. Материал 2026 жылғы 6 қарашада жарияланған.\n\nНауқас көмек сұрап Фокин аудандық прокуратурасына жүгінді. Тексеру барысында қадағалау органының қызметкерлері медицина мамандарының әрекеттері денсаулық сақтау туралы заңнаманы бұзады деп растады. Науқастың құқықтарын қорғау үшін прокурорлар мекеме бас дәрігеріне ресми ұсыным жіберді.\n\nОсыдан кейін басшылық жағдайды жедел түзетті: әйелге емдеуші эндокринолог ауыстырылды. Басқаша айтқанда, дәрігерді ауыстыру тек прокуратураның араласуынан кейін мүмкін болды.\n\nМатериалда дәрігердің науқастан бас тартуының себептері көрсетілмеген және медициналық мекеменің пікірі берілмеген. Әйелдің қанша уақыт бақылаусыз қалғаны да айтылмаған. Материалда басқа сандық деректер жоқ.",
+    "de": "Eine Frau aus Brjansk, die an Diabetes leidet, blieb ohne behandelnde Ärztin: Ihre Endokrinologin weigerte sich plötzlich, die Betreuung fortzusetzen. Sie braucht dringend eine dauerhafte medizinische Begleitung, doch die Leitung der Einrichtung sorgte nicht für einen anderen Facharzt. Der Bericht ist auf den 6. November 2026 datiert.\n\nDie Patientin wandte sich um Hilfe an die Staatsanwaltschaft des Fokinski-Bezirks. Bei der Prüfung bestätigten Mitarbeiter der Aufsichtsbehörde, dass das Vorgehen des medizinischen Personals gegen das Gesundheitsschutzrecht verstößt. Zum Schutz der Rechte der Patientin legten die Staatsanwälte dem Chefarzt der Einrichtung eine förmliche Beanstandung vor.\n\nDanach behob die Klinikleitung die Lage rasch: Der Frau wurde eine neue behandelnde Endokrinologin zugewiesen. Mit anderen Worten: Der Arztwechsel wurde erst möglich, nachdem die Staatsanwaltschaft eingeschritten war.\n\nDer Bericht nennt nicht die Gründe, die der Arzt für seine Ablehnung angab, und enthält keine Stellungnahme der Einrichtung. Auch wie lange die Frau ohne Betreuung war, wird nicht genannt. Weitere Zahlenangaben enthält der Beitrag nicht.",
+    "es": "Una mujer de Bryansk que vive con diabetes se quedó sin médico responsable: su endocrinóloga se negó de repente a seguir atendiéndola. Necesita con urgencia un seguimiento médico constante, pero la dirección del centro no le asignó otro especialista. La noticia está fechada el 6 de noviembre de 2026.\n\nLa paciente acudió en busca de ayuda a la fiscalía del distrito de Fokinski. Durante la inspección, funcionarios del organismo de supervisión confirmaron que la actuación del personal sanitario vulneraba la legislación sobre protección de la salud. Para proteger los derechos de la paciente, los fiscales presentaron un requerimiento formal al director médico del centro.\n\nTras ello, la dirección resolvió la situación con rapidez: se asignó a la mujer una nueva endocrinóloga responsable. En otras palabras, el cambio de médico solo fue posible después de la intervención de la fiscalía.\n\nEl texto no señala los motivos que el médico dio para rechazar a la paciente y no incluye ningún comentario del centro sanitario. Tampoco indica cuánto tiempo estuvo la mujer sin seguimiento. No hay otras cifras en el artículo."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Дата публикации",
+      "en": "Publication date",
+      "kk": "Жарияланған күні",
+      "de": "Veröffentlichungsdatum",
+      "es": "Fecha de publicación"
+     },
+     "v": {
+      "ru": "6 ноября 2026 года",
+      "en": "6 November 2026",
+      "kk": "2026 жылғы 6 қараша",
+      "de": "6. November 2026",
+      "es": "6 de noviembre de 2026"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nNkdz9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Карагандинцев приглашают на бесплатные консультации врачей ко Дню борьбы с сахарным диабетом",
+    "en": "Karaganda residents invited to free doctor consultations for World Diabetes Day",
+    "kk": "Қарағанды тұрғындарын Қант диабетіне қарсы күнге орай дәрігерлердің тегін кеңестеріне шақырады",
+    "de": "Einwohner von Karaganda sind zu kostenlosen Arztberatungen zum Weltdiabetestag eingeladen",
+    "es": "Se invita a los habitantes de Karaganda a consultas médicas gratuitas con motivo del Día Mundial de la Diabetes"
+   },
+   "text": {
+    "ru": "Жители Караганды могут бесплатно проконсультироваться с врачами в рамках акции ко Дню борьбы с диабетом.",
+    "en": "Residents of Karaganda can get free consultations with doctors as part of activities for the diabetes awareness day.",
+    "kk": "Қарағанды тұрғындары диабетке қарсы күн аясындағы іс-шара шеңберінде дәрігерлермен тегін кеңесе алады.",
+    "de": "Die Einwohner von Karaganda können im Rahmen der Aktionen zum Diabetes-Tag kostenlos Ärzte konsultieren.",
+    "es": "Los habitantes de Karaganda pueden obtener consultas gratuitas con médicos como parte de las actividades por el día de la diabetes."
+   },
+   "url": "https://inkaraganda.kz/trends/v-odnoj-iz-klinik-karagandy-sostoitsja-den-otkrytyh-dverej/",
+   "src": "Новости Караганды",
+   "photoQuery": "doctor consultation free health check",
+   "body": {
+    "ru": "Жителей Караганды приглашают 13 ноября на день открытых дверей в областную клиническую больницу. Мероприятие приурочено ко Всемирному дню борьбы с сахарным диабетом, сообщило управление здравоохранения Карагандинской области. Адрес: проспект Сакена Сейфуллина, 17.\n\nПринимать будут эндокринологи, нефрологи, ревматологи, кардиологи, урологи, проктологи и подологи, как для горожан, так и для жителей городов-спутников. Ведущие врачи также возьмут анализы и при показаниях проведут ультразвуковые исследования.\n\nПо расписанию эндокринологи К. К. Бимагамбетов (8:30–10:30) и Н. Ж. Башпаев (13:00–14:00); руководитель Центра диабетической стопы Е. С. Морозов (9:00–10:30); кардиолог Н. М. Жайлау и уролог А. Л. Гапкаирова (по 10:00–11:00); проктолог Б. А. Шелехова (8:00–9:30). Также предусмотрен осмотр подолога.\n\nВ программу обследований входят УЗИ сосудов нижних конечностей, оптическая когерентная томография (ОКТ), общий анализ крови и мочи, анализ на гликированный гемоглобин и определение глюкозы в крови. Можно измерить давление и получить рекомендации по профилактике осложнений диабета и уходу за стопами.\n\nПрием и обследования бесплатные и без направления, но только для тех, у кого статус «Застрахован» в системе ОСМС. При себе нужно иметь удостоверение личности. Предварительная запись обязательна: 8(7212) 94-04-77, +7 (778) 003-71-47.",
+    "en": "Residents of Karaganda, Kazakhstan, are invited to an open day at the regional clinical hospital (OKB) on 13 November. The event is timed to World Diabetes Day, the regional health department said. The address is 17 Sakena Seifullin Avenue.\n\nPatients from Karaganda and nearby satellite towns can see endocrinologists, nephrologists, rheumatologists, cardiologists, urologists, proctologists and podiatrists. Senior doctors will also take samples for laboratory tests and, where indicated, carry out ultrasound scans.\n\nThe published timetable lists endocrinologists K. K. Bimagambetov (8:30–10:30) and N. Zh. Bashpayev (13:00–14:00); E. S. Morozov, head of the Diabetic Foot Centre (9:00–10:30); cardiologist N. M. Zhailau and urology specialist A. L. Gapkairova (both 10:00–11:00); and proctologist B. A. Shelekhova (8:00–9:30). A podiatrist will also see patients.\n\nPlanned tests include ultrasound of the lower-limb vessels, optical coherence tomography (OCT), general blood and urine tests, glycated haemoglobin and blood glucose. Blood pressure can also be measured, and visitors can receive advice on preventing diabetes complications and caring for their feet.\n\nThe visits and examinations are free and need no referral, but only people with «insured» status in the OSMS compulsory health insurance system qualify. Attendees must bring identity documents, and advance registration is mandatory at 8(7212) 94-04-77 or +7 (778) 003-71-47.",
+    "kk": "Қарағанды тұрғындары 13 қарашада облыстық клиникалық ауруханада (ОКБ) ашық есік күніне шақырылады. Іс-шара Бүкіләлемдік қант диабетімен күрес күніне орайластырылған, деп хабарлайды облыстық денсаулық сақтау басқармасы. Мекенжай: Сәкен Сейфуллин даңғылы, 17.\n\nҚабылдауда эндокринологтар, нефрологтар, ревматологтар, кардиологтар, урологтар, проктологтар және подологтар жұмыс істейді. Қарағанды мен маңайдағы серіктес қалалардың тұрғындары да қабылданады. Жетекші дәрігерлер талдауға биоматериал алады, ал көрсетілім бойынша ультрадыбыстық зерттеу жүргізеді.\n\nКесте бойынша эндокринологтар К. К. Бимағамбетов (8:30–10:30) және Н. Ж. Башпаев (13:00–14:00); Диабеттік табан орталығының басшысы Е. С. Морозов (9:00–10:30); кардиолог Н. М. Жайлау мен уролог А. Л. Гапкаирова (екеуі де 10:00–11:00); проктолог Б. А. Шелехова (8:00–9:30) қабылдайды. Подологтың қарауы да көзделген.\n\nЗерттеулерге төменгі аяқ тамырларының ультрадыбыстық зерттеуі, оптикалық когерентті томография (ОКТ), жалпы қан және зәр талдауы, гликатталған гемоглобинге талдау және қан глюкозасын анықтау кіреді. Қан қысымын өлшеуге болады, сондай-ақ диабет асқынуларының алдын алу және табанға күту бойынша кеңес беріледі.\n\nҚабылау мен зерттеулер тегін және жолдамасыз, бірақ тек ОСМС жүйесінде «Сақтандырылған» мәртебесі бар адамдарға. Өзіңізбен жеке куәлік алыңыз. Алдын ала жазылу міндетті: 8(7212) 94-04-77, +7 (778) 003-71-47.",
+    "de": "In Karaganda in Kasachstan sind Einwohner zu einem Tag der offenen Tür am 13. November in das regionale Klinikum (OKB) eingeladen. Die Veranstaltung fällt auf den Weltdiabetestag, teilte die regionale Gesundheitsbehörde mit. Die Adresse lautet Sakena-Seifullin-Allee 17.\n\nPatienten aus Karaganda und den umliegenden Satellitenstädten können Endokrinologen, Nephrologen, Rheumatologen, Kardiologen, Urologen, Proktologen und Podologen aufsuchen. Leitende Ärzte nehmen außerdem Proben für Laboruntersuchungen ab und führen bei Bedarf Ultraschalluntersuchungen durch.\n\nDer veröffentlichte Zeitplan nennt die Endokrinologen K. K. Bimagambetow (8:30–10:30) und N. Zh. Baschpajew (13:00–14:00), E. S. Morosow, Leiter des Diabetischen-Fuß-Zentrums (9:00–10:30), den Kardiologen N. M. Schailáu und die Urologin A. L. Gapkairowa (jeweils 10:00–11:00) sowie die Proktologin B. A. Schelechowa (8:00–9:30). Außerdem ist eine podologische Untersuchung vorgesehen.\n\nGeplant sind Ultraschall der Gefäße der unteren Extremitäten, optische Kohärenztomografie (OCT), allgemeine Blut- und Urinuntersuchungen, Bestimmung des glykierten Hämoglobins und der Blutglukose. Auch der Blutdruck kann gemessen werden; zudem gibt es Hinweise zur Vorbeugung von Diabetes-Komplikationen und zur Fußpflege.\n\nDie Untersuchungen sind kostenlos und benötigen keine Überweisung, stehen aber nur Personen mit dem Status „versichert“ im OSMS-System der Pflichtversicherung offen. Ein Ausweisdokument ist mitzubringen, und eine vorherige Anmeldung ist verpflichtend unter 8(7212) 94-04-77 oder +7 (778) 003-71-47.",
+    "es": "En Karaganda (Kazajistán) se invita a los residentes a una jornada de puertas abiertas en el hospital clínico regional (OKB) el 13 de noviembre. El evento coincide con el Día Mundial de la Diabetes, según informó el departamento regional de salud. La dirección es la avenida Sakena Seifullin, 17.\n\nAtenderán a pacientes de Karaganda y de las ciudades satélite cercanas especialistas en endocrinología, nefrología, reumatología, cardiología, urología, proctología y podología. Los médicos principales también tomarán muestras para análisis y, si está indicado, realizarán ecografías.\n\nEl horario publicado incluye a los endocrinólogos K. K. Bimagambetov (8:30–10:30) y N. Zh. Bashpayev (13:00–14:00); a E. S. Morozov, jefe del Centro de Pie Diabético (9:00–10:30); al cardiólogo N. M. Zhailau y a A. L. Gapkairova, de urología (ambos de 10:00 a 11:00); y a B. A. Shelekhova, de proctología (8:00–9:30). También habrá consulta de podología.\n\nLas pruebas previstas incluyen ecografía de los vasos de las extremidades inferiores, tomografía de coherencia óptica (OCT), análisis generales de sangre y orina, hemoglobina glicada y glucosa en sangre. También se puede medir la presión arterial y recibir consejos para prevenir complicaciones de la diabetes y cuidar los pies.\n\nLas consultas y los estudios son gratuitos y no requieren derivación, pero solo para personas con estatus «asegurado» en el sistema OSMS. Hay que llevar documento de identidad, y la inscripción previa es obligatoria: 8(7212) 94-04-77 o +7 (778) 003-71-47."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Дата открытого дня",
+      "en": "Open-day date",
+      "kk": "Ашық есік күні",
+      "de": "Datum des Tages der offenen Tür",
+      "es": "Fecha de la jornada de puertas abiertas"
+     },
+     "v": {
+      "ru": "13 ноября",
+      "en": "13 November",
+      "kk": "13 қараша",
+      "de": "13. November",
+      "es": "13 de noviembre"
+     }
+    },
+    {
+     "k": {
+      "ru": "Условие доступа",
+      "en": "Access condition",
+      "kk": "Қолжетімділік шарты",
+      "de": "Zugangsbedingung",
+      "es": "Condición de acceso"
+     },
+     "v": {
+      "ru": "Бесплатно, без направления, статус «Застрахован» в ОСМС",
+      "en": "Free, no referral, OSMS «insured» status",
+      "kk": "Тегін, жолдамасыз, ОСМС «Сақтандырылған» мәртебесі",
+      "de": "Kostenlos, ohne Überweisung, Status „versichert“ im OSMS",
+      "es": "Gratis, sin derivación, estatus «asegurado» en OSMS"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVWQj9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "Рижская 1-я больница приглашает на бесплатный скрининг диабета",
+    "en": "Riga 1st Hospital invites public to free diabetes screening",
+    "kk": "Рига 1-ші ауруханасы диабетке тегін скрининг өткізуге шақырады",
+    "de": "Das 1. Krankenhaus Riga lädt zum kostenlosen Diabetes-Screening ein",
+    "es": "El Primer Hospital de Riga invita a un cribado gratuito de diabetes"
+   },
+   "text": {
+    "ru": "Рижская 1-я больница приглашает жителей пройти бесплатный скрининг на диабет в рамках акции.",
+    "en": "Riga 1st Hospital invites residents to a free diabetes screening as part of a campaign.",
+    "kk": "Рига 1-ші ауруханасы науқан аясында тұрғындарды диабетке тегін скринингтен өтуге шақырады.",
+    "de": "Das 1. Krankenhaus Riga lädt Einwohner im Rahmen einer Aktion zu einem kostenlosen Diabetes-Screening ein.",
+    "es": "El Primer Hospital de Riga invita a los residentes a un cribado gratuito de diabetes como parte de una campaña."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0pmUzdTUTRSTGt3aEtnaVNQTzJqSFRJQThnMEJwYUI5UmRpSzljRzVuVkdtRWd6Z1o5amhEVmE4VElwbjY2YzMzWDJvUFRZMWhPWjlnYl8tVHVBdUl5S2dveUFJTVpzZ1lmUWlTRnRqN01kRzBqRlctQ3VHdVhMYzZWZEFWcDJReW5CUl9hWFFrcEhDMzJLQlE5M3I3RlkzWkJlTVh5WU5ZSDJmMkNNSE1RQ3pqaVhSMFpLOS1pVTNib3BZX3JGLUVB?oc=5",
+   "src": "Mixnews",
+   "photoQuery": "blood glucose test fingerstick",
+   "bodyTried": true
+  },
+  {
+   "id": "nNWUT9vYz01",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-06",
+   "added": "2026-11-08T13:19:35.703Z",
+   "title": {
+    "ru": "В Шымкенте женщина стала донором почки для родной сестры с диабетом",
+    "en": "Woman in Shymkent becomes kidney donor for her diabetic sister",
+    "kk": "Шымкентте әйел диабеті бар туған қарындасына бүйрегін донорлық берді",
+    "de": "Frau aus Schymkent wird Nierenspenderin für ihre an Diabetes erkrankte Schwester",
+    "es": "Una mujer de Shymkent dona un riñón a su hermana con diabetes"
+   },
+   "text": {
+    "ru": "Жительница Шымкента стала донором почки для своей сестры, страдающей диабетом.",
+    "en": "A woman from Shymkent became a kidney donor for her sister, who has diabetes.",
+    "kk": "Шымкенттен шыққан әйел диабеті бар қарындасына бүйрегін донорлық берді.",
+    "de": "Eine Frau aus Schymkent wurde Nierenspenderin für ihre Schwester, die an Diabetes leidet.",
+    "es": "Una mujer de Shymkent se convirtió en donante de riñón para su hermana, que tiene diabetes."
+   },
+   "url": "https://newtimes.kz/obshchestvo/225711-v-shymkente-zhenshchina-stala-donorom-pochki-dlia-rodnoi-sestry-s-diabetom",
+   "src": "Newtimes.kz",
+   "photoQuery": "organ transplant operating room",
+   "body": {
+    "ru": "В городской клинической больнице №1 Шымкента врачи выполнили сложную пересадку почки женщине, у которой почки отказали на фоне многолетнего сахарного диабета. Орган ей передала родная сестра.\n\nПо данным регионального портала otyrar.kz, длительно повышенный уровень глюкозы привел к тяжелому поражению обеих почек пациентки. Для очистки крови она трижды в неделю проходила гемодиализ. Только пересадка могла вернуть ей полноценную жизнь и избавить от постоянных процедур.\n\nХирург Сабитхан Байтемиров рассказал, что операция состояла из трех основных этапов: изъятие органа у донора, его обработка и охлаждение в специальном растворе, затем вживление реципиенту и соединение с сосудами. Дополнительную трудность создало состояние сосудов пациентки, сильно пострадавших за десять лет борьбы с диабетом.\n\nВмешательство прошло успешно. Специалисты наблюдают за приживаемостью донорской почки, а впереди у пациентки долгая реабилитация с постоянным приемом препаратов, предотвращающих отторжение. Это 257-я трансплантация почки в истории медицины Шымкента.\n\nВ Казахстане тысячи пациентов ждут пересадки органов. Главными препятствиями для посмертного донорства остаются отказы родственников и стереотипы, поэтому основным источником спасения жизней пока остаются пересадки от живых родственников.",
+    "en": "At the municipal clinical hospital No. 1 in Shymkent, doctors carried out a complex kidney transplant for a woman whose kidneys had failed as a result of long-standing diabetes. Her full sister gave her one of her own kidneys.\n\nAccording to the regional portal otyrar.kz, prolonged high blood glucose had caused severe damage to both of the patient's kidneys. To cleanse her blood, she had to undergo hemodialysis three times a week. A transplant was the only option that could return her to a full life and free her from these constant procedures.\n\nSurgeon Sabitkhan Baitemirov explained that the operation unfolded in three main stages: removing the organ from the donor, processing and chilling it in a special preservation solution, and then implanting it in the recipient and connecting it to blood vessels. The condition of the patient's blood vessels, badly damaged over a decade of fighting diabetes, posed an additional difficulty.\n\nThe operation was successful. Specialists are monitoring whether the donor kidney is taking hold, and the patient faces a long rehabilitation period with ongoing medication to prevent rejection. It is the 257th kidney transplant in Shymkent's medical history.\n\nThousands of patients in Kazakhstan are waiting for organ transplants. Refusals by relatives and stereotypes remain the main barrier to posthumous donation, which is why transplants from living relatives are still the chief way lives are saved.",
+    "kk": "Шымкент қаласының No1 қалалық клиникалық ауруханасында дәрігерлер диабеттен бүйрегі істен шыққан әйелге күрделі бүйрек трансплантациясын сәтті жасады. Бүйрегін оған туған қарындасы берді.\n\nӨңірлік otyrar.kz порталының деректері бойынша, ұзақ уақыт қан глюкозасының жоғары болуы пациенттің екі бүйрегіне де ауыр зақым келтірген. Қанын тазалау үшін ол апта сайын үш рет гемодиализ процедурасынан өтуге мәжбүр болған. Тек трансплантация ғана оған толыққанды өмірге оралуға және осы тұрақты процедуралардан құтылуға мүмкіндік беретін жол болды.\n\nХирург Сабитхан Байтемиров операцияның үш негізгі кезеңнен тұрғанын айтты: донордан органды алу, оны арнайы консервациялық ерітіндіде өңдеп салқындату, содан кейін реципиентке салып, қан тамырларына жалғау. Пациенттің қан тамырларының жағдайы, яғни диабетпен он жыл күресу барысында қатты зақымданғаны, дәрігерлер үшін қосымша қиындық туғызған.\n\nОперация сәтті өтті. Мамандар донорлық бүйректің тамыр жайғасуын бақылауда, ал алда пациентті препараттарды үздіксіз қабылдаумен қатар ұзақ реабилитация кезеңі күтеді. Бұл Шымкент медицина тарихындағы 257-ші бүйрек трансплантациясы.\n\nҚазақстанда органды ауыстыруды күткен мыңдаған пациент бар. Қайтыс болғаннан кейінгі донорлыққа негізгі кедергі — туыстардың бас тартуы мен стереотиптер, сондықтан өмірді сақтаудың басты жолы әлі де тірі туыстардан алынған трансплантациялар болып қалуда.",
+    "de": "In der städtischen klinischen Klinik Nr. 1 in Schymkent haben Ärzte eine komplizierte Nierentransplantation erfolgreich durchgeführt. Die Patientin, deren Nieren infolge jahrelangen Diabetes versagt hatten, erhielt eine Niere von ihrer leiblichen Schwester.\n\nLaut dem regionalen Portal otyrar.kz hatte ein über lange Zeit erhöhter Blutzuckerspiegel bei der Frau eine schwere Schädigung beider Nieren verursacht. Zur Blutreinigung musste sie dreimal pro Woche eine Hämodialyse über sich ergehen lassen. Nur eine Transplantation konnte ihr ein volles Leben zurückgeben und sie von den ständigen Behandlungen befreien.\n\nChirurg Sabitchan Baitemirow erklärte, dass der Eingriff in drei Hauptphasen ablief: Entnahme des Organs beim Spender, Aufbereitung und Kühlung in einer speziellen Konservierungslösung sowie das Einsetzen beim Empfänger mit Anschluss an die Blutgefäße. Eine zusätzliche Herausforderung stellte der Zustand der Gefäße der Patientin dar, die nach zehn Jahren im Kampf gegen den Diabetes stark geschädigt waren.\n\nDer Eingriff verlief erfolgreich. Fachleute überwachen, ob die Spenderniere anwächst; vor der Patientin liegt eine lange Reha mit dauerhafter Einnahme von Medikamenten gegen Abstoßung. Es ist die 257. Nierentransplantation in der Geschichte der Medizin Schymkents.\n\nIn Kasachstan warten Tausende Patienten auf eine Organtransplantation. Als größte Hürde für die Organspende nach dem Tod gelten Ablehnungen durch Angehörige und Vorurteile, weshalb Transplantationen von lebenden Verwandten weiterhin die wichtigste Quelle zur Rettung von Leben bleiben.",
+    "es": "En el Hospital Clínico Municipal n.º 1 de Shymkent, los médicos realizaron con éxito un complejo trasplante de riñón a una mujer cuyos riñones habían fallado por una diabetes de muchos años. El órgano lo donó su hermana biológica.\n\nSegún el portal regional otyrar.kz, los niveles elevados de glucosa en sangre durante mucho tiempo causaron un grave daño en ambos riñones de la paciente. Para depurar la sangre, debía someterse a hemodiálisis tres veces por semana. Solo el trasplante podía devolverle una vida plena y librarla de esas sesiones constantes.\n\nEl cirujano Sabitkhan Baitemirov explicó que la intervención constó de tres etapas principales: extraer el órgano del donante, prepararlo y enfriarlo en una solución conservante especial, e implantarlo en la receptora conectándolo a los vasos sanguíneos. El estado de los vasos de la paciente, muy dañados tras una década de lucha contra la diabetes, supuso un reto adicional.\n\nLa operación fue exitosa. Los especialistas vigilan que el riñón donado prenda; por delante le espera una larga rehabilitación con medicación constante para evitar el rechazo. Es el trasplante de riñón número 257 en la historia de la medicina de Shymkent.\n\nEn Kazajistán, miles de pacientes esperan un trasplante de órganos. Las negativas de los familiares y los estereotipos siguen siendo el principal obstáculo para la donación después de la muerte, por lo que los trasplantes de familiares vivos continúan siendo la principal fuente para salvar vidas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Частота гемодиализа у пациентки",
+      "en": "Dialysis frequency for the patient",
+      "kk": "Пациенттің гемодиализ жиілігі",
+      "de": "Dialysefrequenz der Patientin",
+      "es": "Frecuencia de hemodiálisis de la paciente"
+     },
+     "v": {
+      "ru": "трижды в неделю",
+      "en": "three times a week",
+      "kk": "аптасына үш рет",
+      "de": "dreimal pro Woche",
+      "es": "tres veces por semana"
+     }
+    },
+    {
+     "k": {
+      "ru": "Место операции в истории медицины Шымкента",
+      "en": "Position in Shymkent's transplant history",
+      "kk": "Шымкент медицина тарихындағы орны",
+      "de": "Platz in der Transplantationsgeschichte Schymkents",
+      "es": "Lugar en la historia de trasplantes de Shymkent"
+     },
+     "v": {
+      "ru": "257-я трансплантация почки",
+      "en": "257th kidney transplant",
+      "kk": "257-ші бүйрек трансплантациясы",
+      "de": "257. Nierentransplantation",
+      "es": "trasplante de riñón número 257"
+     }
+    }
+   ]
   },
   {
    "id": "npjdz9vYz01",
@@ -755,7 +1548,8 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/bowl-of-vegetable-salads-IGfIGP5ONV0?utm_source=dia_news&utm_medium=referral",
     "alt": "bowl of vegetable salads"
    },
-   "bodyTries": 1
+   "bodyTries": 1,
+   "bodyTried": true
   },
   {
    "id": "nmRyP29jPTU",
@@ -780,7 +1574,8 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1lONlh1TTBSVUhPOVNRSnhqUXJGRDFERlgxVjVoTDJOODJNbVRpT0xfVFl4eWlVQU5XM1JjdG9ESE4teVRzMzVtQVVvTTUtR2VKN0NvQW41bksySzAwNUNHSzhHZUYyYnhiZlh1T0VVdU4xblRRdnd3bHNUZXlaS3pLVTY1ZDY0UGlDMXBuRTBITXVFZFZuS3p3Z292bGEtdjdr?oc=5",
    "src": "ОрелГрад",
    "photoQuery": "blood glucose test clinic",
-   "bodyTries": 1
+   "bodyTries": 1,
+   "bodyTried": true
   },
   {
    "id": "ndHY_b2M9NQ",
@@ -805,7 +1600,8 @@ const DIA_NEWS={
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVNWTmxqNXJoZXJGSEFOc2hyNWFLMXB5YlNOVVFHVEpMOHlmYlprLUlMd19BVDJqRnhuRGNwUTVuSDB6eU15QzlBLWlFSkRoRXZ2M3QtcXRwSWZFa3pYdzh6TVlHM2dWMGF0YUNhdzRTdW5kajZ4MjFBVV9sV1A1YVVIVnV1N01Dd2Z1NUgyaFI5NkR6T0tv?oc=5",
    "src": "Этномедиахолдинг \"Дагестан\"",
    "photoQuery": "blood glucose meter",
-   "bodyTries": 1
+   "bodyTries": 1,
+   "bodyTried": true
   },
   {
    "id": "nNadz9vYz01",
@@ -873,87 +1669,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nNWUT9vYz01",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-06",
-   "added": "2026-11-08T12:54:36.346Z",
-   "title": {
-    "ru": "В Шымкенте женщина стала донором почки для сестры с диабетом",
-    "en": "Woman in Shymkent donates kidney to diabetic sister",
-    "kk": "Шымкентте бір әйел диабеті бар қарындасына бүйрегін донорлық етіп берді",
-    "de": "Frau in Schymkent spendet Niere an diabeteskranke Schwester",
-    "es": "Una mujer de Shymkent dona un riñón a su hermana con diabetes"
-   },
-   "text": {
-    "ru": "Жительница Шымкента стала донором почки для своей сестры, страдающей сахарным диабетом.",
-    "en": "A woman from Shymkent became a kidney donor for her sister, who has diabetes.",
-    "kk": "Шымкент тұрғынын қант диабеті бар қарындасына бүйрек доноры болды.",
-    "de": "Eine Frau aus Schymkent wurde Nierenspenderin für ihre Schwester, die an Diabetes leidet.",
-    "es": "Una mujer de Shymkent se convirtió en donante de riñón para su hermana, que tiene diabetes."
-   },
-   "url": "https://newtimes.kz/obshchestvo/225711-v-shymkente-zhenshchina-stala-donorom-pochki-dlia-rodnoi-sestry-s-diabetom",
-   "src": "Newtimes.kz",
-   "photoQuery": "kidney transplant surgery operating room",
-   "body": {
-    "ru": "В городской клинической больнице №1 Шымкента выполнили сложную операцию по пересадке почки. Донором для женщины, у которой из-за многолетнего сахарного диабета отказали почки, стала её родная сестра. Об этом сообщает NewTimes.kz, материал опубликован 6 ноября 2026 года.\n\nПациентка около десяти лет живёт с диабетом, который тяжело повредил обе почки. Из-за этого она три раза в неделю проходила гемодиализ, процедуру очистки крови. По словам медиков, единственным способом вернуть ей полноценную жизнь и избавить от постоянных процедур была пересадка органа, и сестра согласилась отдать свою почку.\n\nХирург Сабитхан Байтемиров рассказал, что операция состоит из трёх основных этапов: изъятие органа у донора, его обработка и охлаждение в консервирующем растворе, а затем вживление почки реципиенту с подсоединением к сосудам. Дополнительную сложность создавало состояние сосудов пациентки, которые сильно пострадали за десять лет болезни. Врач-трансплантолог Рахымжан Умбетов отметил, что у пациентки теперь появилась возможность восстановить здоровье.\n\nСейчас женщина находится под наблюдением специалистов, которые контролируют, как приживается донорский орган. Впереди долгий период реабилитации с постоянным приёмом препаратов, предотвращающих отторжение. Операция стала 257-й трансплантацией почки в истории медицины Шымкента. В материале также говорится, что в Казахстане тысячи пациентов ждут пересадки, а главным барьером для посмертного донорства остаются отказы родственников и стереотипы, поэтому основным источником спасения жизней пока остаются родственные пересадки.",
-    "en": "Doctors at City Clinical Hospital No. 1 in Shymkent carried out a complex kidney transplant. The donor for a woman whose kidneys had failed because of years of diabetes was her own sister. NewTimes.kz reports this; the story was published on 6 November 2026.\n\nThe patient has lived with diabetes for about ten years, and the illness severely damaged both kidneys. Because of this, she had to undergo haemodialysis, a blood-cleansing procedure, three times a week. According to medics, a transplant was the only way to return her to a full life and end the regular procedures, and her sister agreed to give one of her kidneys.\n\nSurgeon Sabitkhan Baitemirov explained that the operation has three main stages: removing the organ from the donor, cooling and treating it in a preservation solution, and then implanting it in the recipient and connecting it to blood vessels. The condition of the patient's vessels, badly affected over a decade of illness, added difficulty for the team. Transplant specialist Rakhymzhan Umbetov noted that the patient now has a chance to restore her health.\n\nThe woman is now under the care of specialists who are monitoring how the donor organ is taking hold. A long rehabilitation period lies ahead, with constant medication to prevent rejection. The operation was the 257th kidney transplant in Shymkent's medical history. The report also says that thousands of patients in Kazakhstan are waiting for transplants, and that refusals by relatives and stereotypes remain the main barrier to deceased-donor transplantation, which is why transplants from living relatives still remain the primary source of lifesaving organs.",
-    "kk": "Шымкент қаласындағы №1 қалалық клиникалық ауруханада күрделі бүйрек трансплантациясы жасалды. Бірнеше жыл бойы қант диабетімен ауырып, екі бүйрегі де бұзылған әйелге донор болған – оның туған қарындасы. Бұл туралы NewTimes.kz хабарлады, материал 2026 жылдың 6 қарашасында жарияланған.\n\nНауқас шамамен он жыл диабетпен өмір сүріп келеді, ауру екі бүйректі де қатты зақымдаған. Сондықтан ол апта сайын үш рет қанды тазалайтын гемодиализ процедурасына түсуге мәжбүр болған. Медиктердің айтуынша, оны толыққанды өмірге қайтарудың және тұрақты процедуралардан құтқарудың жалғыз жолы – ағза ауыстыру болған, ал қарындасы бүйрегінің бірін беруге келіскен.\n\nХирург Сабитхан Байтемиров операцияның үш негізгі кезеңі бар екенін түсіндірді: донордан ағзаны алу, оны консервациялаушы ерітіндіде салқындатып өңдеу, содан кейін реципиентке орнатып, қан тамырларына жалғау. Науқастың тамырларының күйі, он жылдық ауру кезінде қатты зақымданған, топ үшін қосымша қиындық туғызған. Трансплантолог Рахымжан Өмбетов науқаста денсаулығын қалпына келтіру мүмкіндігі пайда болғанын атап өтті.\n\nҚазір әйел мамандардың бақылауында, олар донорлық ағзаның қалай бекіп жатқанын қадағалайды. Алда ұзақ реабилитация кезеңі тұр, ол кезде ағзаның бас тартуын болдырмайтын препараттарды үнемі қабылдау қажет. Бұл операция Шымкент медицинасы тарихындағы 257-ші бүйрек трансплантациясы болды. Материалда Қазақстанда мыңдаған науқастың ағза күтіп жатқаны, өлгеннен кейінгі донорлыққа негізгі кедергі туыстардың бас тартуы мен стереотиптер екені, сондықтан туыстардан алынған ағзалар әлі де басты көз болып қалып отырғаны айтылады.",
-    "de": "Im Städtischen Klinischen Krankenhaus Nr. 1 in Schymkent wurde eine komplizierte Nierentransplantation durchgeführt. Spenderin für eine Frau, deren Nieren infolge eines jahrelangen Diabetes versagt hatten, war ihre leibliche Schwester. Darüber berichtet NewTimes.kz; der Beitrag erschien am 6. November 2026.\n\nDie Patientin lebt seit rund zehn Jahren mit Diabetes, der beide Nieren schwer geschädigt hat. Deshalb musste sie sich dreimal pro Woche einer Hämodialyse unterziehen, einem Verfahren zur Blutreinigung. Nach Angaben der Mediziner war eine Transplantation der einzige Weg, ihr ein vollwertiges Leben zurückzugeben und die regelmäßigen Behandlungen zu beenden; die Schwester erklärte sich bereit, eine ihrer Nieren abzugeben.\n\nChirurg Sabitchan Baitemirow erläuterte, dass der Eingriff drei Hauptschritte umfasst: die Entnahme des Organs beim Spender, seine Kühlung und Behandlung in einer Konservierungslösung sowie das Einsetzen beim Empfänger mit Anschluss an die Blutgefäße. Der Zustand der Gefäße der Patientin, die durch zehn Jahre Krankheit stark geschädigt waren, bereitete dem Team zusätzliche Schwierigkeiten. Der Transplantationsmediziner Rachymschan Umbetow merkte an, dass die Patientin nun die Chance habe, ihre Gesundheit wiederzuerlangen.\n\nDie Frau wird inzwischen von Fachleuten betreut, die kontrollieren, wie gut das Spenderorgan anwächst. Vor ihr liegt eine lange Reha mit dauerhafter Medikamenteneinnahme, die eine Abstoßung verhindern soll. Die Operation war die 257. Nierentransplantation in der Geschichte der Medizin in Schymkent. Der Bericht erwähnt außerdem, dass in Kasachstan Tausende Patienten auf Organe warten und dass die Ablehnung durch Angehörige sowie Vorurteile das größte Hindernis für Organspenden nach dem Tod sind, weshalb Transplantationen von lebenden Verwandten bislang die wichtigste Quelle bleiben.",
-    "es": "En el Hospital Clínico Municipal n.º 1 de Shymkent se realizó un complejo trasplante de riñón. La donante para una mujer cuyos riñones habían fallado por una diabetes de años fue su propia hermana. Lo informa NewTimes.kz, que publicó la noticia el 6 de noviembre de 2026.\n\nLa paciente convive con la diabetes desde hace unos diez años, enfermedad que dañó gravemente ambos riñones. Por ello debía someterse a hemodiálisis, un procedimiento de limpieza de la sangre, tres veces por semana. Según los médicos, el trasplante era la única forma de devolverle una vida plena y acabar con los procedimientos periódicos, y su hermana aceptó donar uno de sus riñones.\n\nEl cirujano Sabitkhan Baitemirov explicó que la intervención tiene tres etapas principales: extraer el órgano al donante, enfriarlo y tratarlo con una solución conservante, e implantarlo en el receptor conectándolo a los vasos sanguíneos. El estado de los vasos de la paciente, muy afectados tras una década de enfermedad, supuso una dificultad añadida para el equipo. El especialista en trasplantes Rajymzhan Umbetov comentó que ahora ella tiene la oportunidad de recuperar la salud.\n\nLa mujer está bajo la vigilancia de especialistas que controlan cómo se adapta el órgano donado. Le espera una larga rehabilitación con medicación constante para evitar el rechazo. La operación fue el trasplante de riñón número 257 en la historia médica de Shymkent. La noticia también señala que miles de pacientes en Kazajistán esperan un órgano y que la negativa de los familiares y los estereotipos son el principal obstáculo para la donación tras la muerte, por lo que los trasplantes de donantes vivos siguen siendo la fuente principal."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Срок жизни с диабетом у пациентки",
-      "en": "Years living with diabetes",
-      "kk": "Пациенттің диабетпен өмір сүру мерзімі",
-      "de": "Jahre mit Diabetes",
-      "es": "Años con diabetes"
-     },
-     "v": {
-      "ru": "около 10 лет",
-      "en": "about 10 years",
-      "kk": "шамамен 10 жыл",
-      "de": "rund 10 Jahre",
-      "es": "unos 10 años"
-     }
-    },
-    {
-     "k": {
-      "ru": "Гемодиализ до трансплантации",
-      "en": "Haemodialysis before transplant",
-      "kk": "Трансплантацияға дейінгі гемодиализ",
-      "de": "Hämodialyse vor der Transplantation",
-      "es": "Hemodiálisis antes del trasplante"
-     },
-     "v": {
-      "ru": "3 раза в неделю",
-      "en": "3 times a week",
-      "kk": "аптасына 3 рет",
-      "de": "dreimal pro Woche",
-      "es": "3 veces por semana"
-     }
-    },
-    {
-     "k": {
-      "ru": "Номер трансплантации почки в Шымкенте",
-      "en": "Kidney transplant number in Shymkent",
-      "kk": "Шымкентте бүйрек трансплантациясының реті",
-      "de": "Nierentransplantation in Schymkent, Nummer",
-      "es": "Número de trasplante de riñón en Shymkent"
-     },
-     "v": {
-      "ru": "257-я",
-      "en": "257th",
-      "kk": "257-ші",
-      "de": "257.",
-      "es": "257.º"
-     }
-    }
-   ]
-  },
-  {
    "id": "nlZRP29jPTU",
    "cat": "research",
    "stage": "results",
@@ -975,7 +1690,8 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVlSNjZ3OHg0cl96NU9nX0ZJZjBTWDFOaW5PM2YteVRmYUVlb0djdXR5MzZkZDB4cDdzX3dpY2dlV0R4X2J5V0F3VGRWVjMzOXIzNU9KZGd3dEEtQWxwR1FKR3hFdjhTZTBsTXIwUGQ3clRfbnh3OTE2RVNBblFwLXh6VQ?oc=5",
    "src": "infohub.kz",
-   "photoQuery": "healthy meal vegetables"
+   "photoQuery": "healthy meal vegetables",
+   "bodyTried": true
   },
   {
    "id": "npOaD9vYz01",
@@ -997,7 +1713,7 @@ const DIA_NEWS={
     "de": "Eine Endokrinologin des russischen Gesundheitsministeriums bestätigte, dass die Grippeimpfung für Patienten mit Diabetes wichtig ist.",
     "es": "Una endocrinóloga del Ministerio de Salud de Rusia confirmó la importancia de la vacunación antigripal para los pacientes con diabetes."
    },
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB3MlFQNXVkeDYwM3M2MngzWVVqRlFDRU9wWFdEMlhhVkdwWUJwZ2MzUDNuOWw5OWVfLUJNaDIzdnBaZzNh?oc=5",
+   "url": "https://riac34.ru/news/230645/",
    "src": "РИАЦ",
    "photoQuery": "flu vaccine syringe",
    "photo": {
@@ -1007,7 +1723,32 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/person-drawing-liquid-into-syringe-cM1aU42FnRg?utm_source=dia_news&utm_medium=referral",
     "alt": "A person in white latex gloves drawing liquid from a vial into a syringe"
-   }
+   },
+   "body": {
+    "ru": "6 ноября 2026 года РИАЦ (Волгоград) опубликовал материал, в котором Наталья Мокрышева, директор НМИЦ эндокринологии имени Дедова Минздрава России, объяснила, зачем людям с диабетом нужна прививка от гриппа. По её словам, диабет заметно повышает вероятность тяжёлого течения гриппа и других респираторных инфекций, и связано это с хроническим воспалением и сбоями иммунитета.\n\nВирусная инфекция, в том числе грипп, может вызвать гипергликемию и колебания сахара в крови. Из-за этого растёт риск декомпенсации и острых состояний, например диабетического кетоацидоза или гиперосмолярного гипергликемического состояния. Эксперт считает прививку главным инструментом защиты: она помогает не заболеть, а при заражении снижает риск осложнений, госпитализации и неблагоприятного исхода.\n\nПрививку рекомендуют при любом типе диабета. Среди приоритетных групп — люди старше 65 лет: для них вероятность тяжёлой пневмонии существенно выше. Также вакцинация важна пациентам с множественными сосудистыми осложнениями, сердечно-сосудистыми заболеваниями и хронической болезнью почек, в том числе находящимся на диализе или перенесшим пересадку почки.\n\nОтсутствие целевых показателей сахара в крови само по себе не считается противопоказанием. Однако при выраженной декомпенсации нужны осторожность и оценка состояния пациента, а при острых метаболических осложнениях прививают после стабилизации. Перед вакцинацией следует проконсультироваться с врачом, который при необходимости скорректирует сахароснижающую терапию.\n\nМатериал представляет собой комментарий одного специалиста: в нём не приводятся статистика по заболеваемости гриппом или данные об эффективности конкретных вакцин. Дальнейших шагов в публикации не описано.",
+    "en": "On November 6, 2026, the Volgograd-based regional information and analysis center RIAC published a piece in which Natalya Mokrysheva, director of the Dedov National Medical Research Center for Endocrinology under Russia's Ministry of Health, laid out why people with diabetes should get a flu shot. According to her, diabetes substantially raises the chance of a severe course of influenza and other respiratory infections, which she links to chronic inflammation and immune dysfunction.\n\nViral infections, flu included, can push blood glucose up and make it erratic. That raises the risk of decompensation and acute complications such as diabetic ketoacidosis or hyperosmolar hyperglycemic state. The expert presents vaccination as the main and most effective safeguard: it can prevent illness or, if infection occurs, lower the odds of complications, hospital admission and poor outcomes.\n\nVaccination is recommended for patients with any type of diabetes. Among the priority groups are people over 65, for whom the risk of severe pneumonia is considerably higher. The piece also stresses vaccination for patients with multiple vascular complications, cardiovascular disease and chronic kidney disease, including those on dialysis or after a kidney transplant.\n\nFailing to reach blood sugar targets does not, by itself, count as a contraindication. However, in cases of marked decompensation, caution and an assessment of the patient's condition are needed, and after acute metabolic complications the shot is given once the patient has stabilized. Before vaccination, patients should consult a doctor, who can adjust glucose-lowering treatment if necessary.\n\nThe article is commentary from a single specialist and offers no flu incidence statistics or efficacy data for specific vaccines. It does not describe any follow-up steps.",
+    "kk": "2026 жылдың 6 қарашасында Волгоградтағы РИАЦ өңірлік ақпараттық-талдау орталығы материал жариялады. Онда Ресей Денсаулық сақтау министрлігінің академик Дедов атындағы эндокринология ұлттық медициналық зерттеу орталығының директоры Наталья Мокрышева диабеті бар адамдарға неге тұмауға қарсы екпе салдырудың қажет екенін түсіндірді. Оның айтуынша, қант диабеті тұмау және басқа тыныс алу инфекцияларының ауыр өтуіне едәуір қауіп төндіреді, бұның себебі созылмалы қабыну мен иммунитеттің бұзылуында.\n\nТұмау сияқты вирустық инфекциялар қандағы глюкозаны көтеріп, оны тұрақсыз ете алады. Бұл декомпенсация қаупін және диабеттік кетоацидоз, гиперосмолярлық гипергликемиялық жағдай сияқты жедел асқынуларды арттырады. Маман екпені негізгі әрі ең тиімді қорғаныс құралы деп санайды: ол ауырудан сақтауға көмектеседі, ал жұқтырған жағдайда асқыну, ауруханаға түсу және жағымсыз нәтиже қаупін азайтады.\n\nЕкпе диабеттің кез келген түріне ұсынылады. Басым топтардың бірі — 65 жастан асқан адамдар, себебі олардың ауыр пневмония қаупі айтарлықтай жоғары. Материалда қан тамырларының көптеген асқынулары, жүрек-қан тамыр аурулары және созылмалы бүйрек ауруы бар науқастар үшін де екпенің маңызы атап өтіледі, соның ішінде диализде отырғандар мен бүйрегі ауыстырылғандар да бар.\n\nҚан қантының мақсатты көрсеткіштерге жетпеуі өздігінен қарсы көрсеткіш болып саналмайды. Алайда диабет айқын декомпенсацияланған жағдайда абай болу және науқастың жай-күйін бағалау қажет, ал жедел метаболизмдік асқынулардан кейін екпе науқас тұрақтанғаннан соң салынады. Екпеден бұрын дәрігермен кеңесу керек, ол қажет болса қант мөлшерін төмендететін емді түзетеді.\n\nМатериал бір маманның түсініктемесі болып табылады: онда тұмаумен сырқаттану статистикасы немесе жекелеген вакциналардың тиімділігі туралы деректер берілмеген. Одан кейінгі қадамдар сипатталмаған.",
+    "de": "Am 6. November 2026 veröffentlichte die Regionale Informations- und Analysezentrale RIAC aus Wolgograd einen Beitrag, in dem Natalja Mokryscheva, Direktorin des Dedow-Zentrums für Endokrinologie im russischen Gesundheitsministerium, erklärte, weshalb Menschen mit Diabetes gegen Grippe geimpft werden sollten. Laut ihr erhöht Diabetes das Risiko eines schweren Verlaufs von Grippe und anderen Atemwegsinfektionen deutlich; als Ursache nennt sie chronische Entzündungen und Störungen des Immunsystems.\n\nVirusinfektionen wie die Grippe können den Blutzucker in die Höhe treiben und ihn schwanken lassen. Dadurch steigen die Gefahr einer Dekompensation und akuter Komplikationen wie diabetische Ketoazidose oder das hyperosmolare hyperglykämische Syndrom. Die Expertin bezeichnet die Impfung als wichtigstes und wirksamstes Mittel: Sie kann eine Erkrankung verhindern oder bei einer Ansteckung das Risiko von Komplikationen, Klinikaufenthalten und ungünstigen Verläufen senken.\n\nDie Impfung wird Patienten mit jeder Diabetesform empfohlen. Besonders wichtig ist sie für Menschen über 65 Jahre, bei denen das Risiko einer schweren Lungenentzündung deutlich erhöht ist. Auch Betroffene mit mehreren Gefäßkomplikationen, Herz-Kreislauf-Erkrankungen und chronischer Nierenerkrankung, etwa bei Dialyse oder nach einer Nierentransplantation, sollten laut Beitrag geimpft werden.\n\nDass Blutzuckerzielwerte nicht erreicht werden, ist für sich genommen keine Kontraindikation. Bei ausgeprägter Dekompensation sind jedoch Vorsicht und eine Einschätzung des Gesundheitszustands nötig. Treten akute Stoffwechselkomplikationen auf, wird erst nach Stabilisierung geimpft. Vor der Impfung sollte ärztlicher Rat eingeholt werden; gegebenenfalls passt der Arzt die blutzuckersenkende Therapie an.\n\nDer Beitrag gibt die Einschätzung einer einzelnen Expertin wieder; er enthält weder Statistiken zu Grippefällen noch Angaben zur Wirksamkeit einzelner Impfstoffe. Weitere Schritte werden nicht beschrieben.",
+    "es": "El 6 de noviembre de 2026, el centro regional de información y análisis RIAC, con sede en Volgogrado, publicó un texto en el que Natalia Mokrysheva, directora del Centro Nacional de Investigación en Endocrinología Dedov del Ministerio de Salud ruso, explicó por qué las personas con diabetes deben vacunarse contra la gripe. Según ella, la diabetes eleva de forma notable el riesgo de un curso grave de la gripe y de otras infecciones respiratorias, algo que atribuye a la inflamación crónica y a las alteraciones del sistema inmunitario.\n\nUna infección viral, como la gripe, puede provocar hiperglucemia e inestabilidad de la glucosa en sangre. Eso aumenta el riesgo de descompensación y de complicaciones agudas, como la cetoacidosis diabética o el estado hiperosmolar hiperglucémico. La especialista considera la vacunación el método principal y más eficaz: ayuda a evitar la enfermedad o, si hay contagio, reduce el riesgo de complicaciones, hospitalización y desenlace desfavorable.\n\nLa vacuna se recomienda a todos los pacientes, sea cual sea el tipo de diabetes. Es especialmente relevante para las personas mayores de 65 años, cuya probabilidad de neumonía grave es considerablemente mayor. También es importante para quienes presentan múltiples complicaciones vasculares, enfermedades cardiovasculares o enfermedad renal crónica, incluidas las personas en diálisis o con trasplante de riñón.\n\nNo alcanzar los objetivos de glucemia no es, por sí solo, una contraindicación. Sin embargo, si la diabetes está claramente descompensada, hay que actuar con cautela y valorar el estado del paciente. Ante complicaciones metabólicas agudas, la vacuna se aplica tras la estabilización. Antes de vacunarse conviene consultar al médico, que, si es necesario, ajustará el tratamiento hipoglucemiante.\n\nEl texto es el comentario de una sola especialista: no incluye estadísticas sobre casos de gripe ni datos sobre la eficacia de vacunas concretas. No se describen pasos posteriores."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Возрастной порог повышенного риска пневмонии",
+      "en": "Age threshold for higher pneumonia risk",
+      "kk": "Пневмонияның жоғары қаупінің жас шегі",
+      "de": "Altersgrenze für erhöhtes Pneumonierisiko",
+      "es": "Umbral de edad de mayor riesgo de neumonía"
+     },
+     "v": {
+      "ru": "старше 65 лет",
+      "en": "over 65 years",
+      "kk": "65 жастан асқан",
+      "de": "über 65 Jahre",
+      "es": "mayores de 65 años"
+     }
+    }
+   ]
   },
   {
    "id": "nVjM_b2M9NQ",
@@ -1031,303 +1772,8 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0JEa1YycHliT3VjM2VEMllXcjNwejhiV000UTA1ZGtwakt4bzF4ODNNalBTUlRFZjh0OXFLUHBsT09Cc1JSUldvNEpCWFphX1JJQmNQRzJ1eHZZYXhVWjNPQzRuWXhzM1VxVE5IVlpkSVdQZ0dteW1ySDNLNjRlRGJmUVhHTVhfZHBCVHlOOFpoRzZ2MjRJaExqNXBqdFlLbHNQMEZzZVczN2hPb2JNUnV3?oc=5",
    "src": "rus tvnet",
-   "photoQuery": "blood sugar finger test"
-  },
-  {
-   "id": "nBRUT9vYz01",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "Молодые люди добились ремиссии диабета 2 типа благодаря диете и физкультуре",
-    "en": "Young people achieved remission of type 2 diabetes through diet and exercise",
-    "kk": "Жас адамдар диета мен дене жаттығуының арқасында 2 типті диабеттің ремиссиясына жетті",
-    "de": "Junge Menschen erreichten durch Ernährung und Bewegung eine Remission von Typ-2-Diabetes",
-    "es": "Jóvenes lograron la remisión de la diabetes tipo 2 gracias a la dieta y el ejercicio"
-   },
-   "text": {
-    "ru": "Сообщается, что у молодых людей с диабетом 2 типа наступила ремиссия благодаря изменению питания и физической активности.",
-    "en": "Reports say young people with type 2 diabetes went into remission through changes in diet and physical activity.",
-    "kk": "Хабарлауынша, 2 типті диабеті бар жас адамдар тамақтану мен дене белсенділігін өзгерту арқасында ремиссияға өтken.",
-    "de": "Berichten zufolge trat bei jungen Menschen mit Typ-2-Diabetes durch Ernährungs- und Bewegungsumstellung eine Remission ein.",
-    "es": "Según los informes, jóvenes con diabetes tipo 2 entraron en remisión gracias a cambios en la alimentación y la actividad física."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnFaYlZ0SnVoNk9DMk9oLWpFUHIxeDRDZXc3VjBhMlZDZk9CcE83NEZhWU1VZTVJYVluQnBaTlJQdlpJbWtWY3dfamhBT2QtX01oemVQSFIyS04xaHlqQ1RBLVliTDVRWGJFVUFZU2VYUTBvNlhyMDdpeDdNczlCMk5OTWYwNmFjcHRMM19LOWRrVEdPSmFoNDZLYmIwQ1BPcXU0SHFDRENpQQ?oc=5",
-   "src": "ФармМедПром",
-   "photoQuery": "healthy breakfast fresh fruit",
-   "photo": {
-    "id": "u_8manzosDSGM",
-    "url": "https://images.unsplash.com/photo-1467453678174-768ec283a940?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMGZyZXNoJTIwZnJ1aXR8ZW58MXwwfHx8MTc5NDE0MjE0NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Jannis Brandt",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/fruit-lot-on-ceramic-plate-8manzosDSGM?utm_source=dia_news&utm_medium=referral",
-    "alt": "fruit lot on ceramic plate"
-   }
-  },
-  {
-   "id": "nQk4_b2M9NQ",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-06",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "В Твери отцу девочки с сахарным диабетом 1 типа передали необходимые расходники",
-    "en": "In Tver, the father of a girl with type 1 diabetes received necessary supplies",
-    "kk": "Тверьде 1 типті диабеті бар қыздың әкесіне қажетті шығыс материалдары берілді",
-    "de": "In Twer erhielt der Vater eines Mädchens mit Typ-1-Diabetes benötigte Verbrauchsmaterialien",
-    "es": "En Tver, el padre de una niña con diabetes tipo 1 recibió los suministros necesarios"
-   },
-   "text": {
-    "ru": "Отцу девочки с сахарным диабетом 1 типа в Твери передали необходимые расходные материалы.",
-    "en": "In Tver, the father of a girl with type 1 diabetes was handed the consumables she needs.",
-    "kk": "Тверьде 1 типті диабеті бар қыздың әкесіне қыздың қажетті шығыс материалдары тапсырылды.",
-    "de": "In Twer wurden dem Vater eines Mädchens mit Typ-1-Diabetes die benötigten Verbrauchsmaterialien übergeben.",
-    "es": "En Tver, al padre de una niña con diabetes tipo 1 se le entregaron los suministros necesarios."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2NFFTN1Flb1pUSjB0MkRXa3pJYkIybFdNeVpiRVBocllCSkpkeW9lV1NmMDlXLThZWFVlRFh2ODYwMzhGTlBN?oc=5",
-   "src": "TverNews",
-   "photoQuery": "insulin pen syringe"
-  },
-  {
-   "id": "n4wVT9vYz01",
-   "cat": "access",
-   "stage": "report",
-   "date": "2026-11-06",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "Доставка специального питания при диабете: результаты",
-    "en": "Delivery of special diabetes nutrition: results",
-    "kk": "Диабетке арналған арнайы тамақтарды жеткізу: нәтижелер",
-    "de": "Lieferung spezieller Diabetesernährung: Ergebnisse",
-    "es": "Entrega de alimentación especial para la diabetes: resultados"
-   },
-   "text": {
-    "ru": "Приведены итоги программы доставки специального питания для людей с диабетом.",
-    "en": "Results of a programme delivering special nutrition for people with diabetes are presented.",
-    "kk": "Диабеті бар адамдарға арнайы тамақ жеткізу бағдарламасының нәтижелері берілген.",
-    "de": "Es werden die Ergebnisse eines Programms zur Lieferung spezieller Ernährung für Menschen mit Diabetes vorgestellt.",
-    "es": "Se presentan los resultados de un programa de entrega de alimentación especial para personas con diabetes."
-   },
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUtQRWJPS0gtdmdUVG93LWx4cWEwUFc4c1BPd0xYWFFKV0RjYjk3TXVtVS04YVJkUThrMEhKczJRRldnWm5vMkxGcFVONlByekNZTUxCdzE5VEw3UmljanFGWlBRMGZjZGpQVTVvT1VVV1EzWTdzcWJYRHRGbnNqaklsNXpKT0k1QTRydWlKNEx6SnF1STFKaXluTUNrdVFkaUtwUkp2Q2dWaXRqS1HSAbMBQVVfeXFMTjFZXzBQYUlOQ1VYeDh6c1NqazFySXRER3VTM3p1Tkh3eUNwRHctUldqMFJGVFUtRHhYT1ktOVFiblZJOHlwZUhxZ2lka3dGTDA5T2ZaeWJ0UG0tekxtbXZfNkI3Zkk1eGh6WEFPUThSZDFzSk9mTUQycUk3MmtTQ0tfb2hrU2NUN3ZiWnVtNmJ5SlBHVWV3azV5RGhXOFFMaTNyUzJHR29PT3ZWcjI2cW1HN0U?oc=5",
-   "src": "socportal.info",
-   "photoQuery": "diabetic meal plate"
-  },
-  {
-   "id": "nlozP29jPTU",
-   "cat": "community",
-   "stage": "report",
-   "date": "2026-11-06",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "Число больных сахарным диабетом в Кыргызстане продолжает увеличиваться",
-    "en": "Number of people with diabetes in Kyrgyzstan continues to grow",
-    "kk": "Қырғызстанда қант диабетімен ауыратындар саны артуда",
-    "de": "Zahl der Diabetiker in Kirgisistan steigt weiter",
-    "es": "El número de personas con diabetes en Kirguistán sigue aumentando"
-   },
-   "text": {
-    "ru": "Количество людей с сахарным диабетом в Кыргызстане продолжает расти.",
-    "en": "The number of people with diabetes in Kyrgyzstan keeps rising.",
-    "kk": "Қырғызстанда қант диабетімен ауыратын адамдардың саны өсуде.",
-    "de": "Die Zahl der Menschen mit Diabetes in Kirgisistan steigt weiter.",
-    "es": "El número de personas con diabetes en Kirguistán sigue creciendo."
-   },
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMXY2N0FQVXpTNGc2aVZ0dG84VVUyRUZOeW5wa09lRUQ0OE4wRUR2Vlpmb0x0dzQ1MnhFLVZNMlBnOUlmcGlYS1UwQlR1ejBMc3JCVVVGZ2xLWkgzdlhyTE1xMzJBOWhKV3JXUzJHZlhaZS1tam9ZQ1g5UHdTeTB2UEpFZzJzRGFiN291SS1NYUlseHBOdllybnZ3?oc=5",
-   "src": "24.KG",
-   "photoQuery": "blood sugar test strips"
-  },
-  {
-   "id": "nVGs_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Минздрав предложил разрешить врачам наблюдать пациентов с диабетом удаленно",
-    "en": "Health Ministry proposes allowing doctors to monitor diabetes patients remotely",
-    "kk": "Денсаулық сақтау министрлігі дәрігерлерге диабеті бар науқастарды қашықтан бақылауға рұқсат беруді ұсынды",
-    "de": "Gesundheitsministerium schlägt vor, Ärzten die Fernüberwachung von Diabetespatienten zu erlauben",
-    "es": "El Ministerio de Salud propone permitir a los médicos monitorizar a distancia a los pacientes con diabetes"
-   },
-   "text": {
-    "ru": "Минздрав предложил разрешить врачам дистанционно наблюдать пациентов с диабетом. Подробности в материале не указаны.",
-    "en": "The Health Ministry has proposed allowing doctors to monitor patients with diabetes remotely. The snippet gives no further details.",
-    "kk": "Денсаулық сақтау министрлігі дәрігерлерге диабеті бар науқастарды қашықтан бақылауға рұқсат беруді ұсынды. Материалда басқа мәліметтер көрсетілмеген.",
-    "de": "Das Gesundheitsministerium hat vorgeschlagen, Ärzten die Fernüberwachung von Patienten mit Diabetes zu erlauben. Weitere Details werden nicht genannt.",
-    "es": "El Ministerio de Salud ha propuesto permitir a los médicos monitorizar a distancia a los pacientes con diabetes. No se ofrecen más detalles."
-   },
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVBfUlV0aldFSWxDM0hpMUVxRllZNmp1anJOV0ZVZXIzS1poblJoYkRPa1p4azhZbHdUckpVTHFTMnZSakZLX0IycGZjY3M2cmNLMzRMMHZGQk9JUmotaFZzWVVQQXNMWl9FeW4wRXZnVktNa1hMdnJTQXdsRnU4N0pUaVY1UmpQSTRfSTB3dWVOUlJNSVlvNDVqLXFtcFVKdGlCVVVjNkJDbnc2MC1Ia2kxSTk?oc=5",
-   "src": "Здоровье Mail",
-   "photoQuery": "doctor video call patient"
-  },
-  {
-   "id": "nVkU_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Виталий Королев поручил взять на особый контроль бесплатное обеспечение детей с сахарным диабетом первого типа инсулиновыми помпами и расходными материалами",
-    "en": "Vitaly Korolev orders special oversight of free provision of insulin pumps and consumables for children with type 1 diabetes",
-    "kk": "Виталий Королев 1-типті қант диабеті бар балаларды инсулин сорғыларымен және шығыс материалдарымен тегін қамтамасыз etуді ерекше бақылауға алуды тапсырды",
-    "de": "Vitaly Korolev ordnet besondere Kontrolle der kostenlosen Versorgung von Kindern mit Typ-1-Diabetes mit Insulinpumpen und Verbrauchsmaterial an",
-    "es": "Vitaly Korolev ordena un control especial sobre el suministro gratuito de bombas de insulina y consumibles para niños con diabetes tipo 1"
-   },
-   "text": {
-    "ru": "Виталий Королев поручил установить особый контроль за бесплатным обеспечением детей с диабетом 1 типа инсулиновыми помпами и расходными материалами.",
-    "en": "Vitaly Korolev has ordered special oversight of the free supply of insulin pumps and consumables for children with type 1 diabetes.",
-    "kk": "Виталий Королев 1-типті қант диабеті бар балаларды инсулин сорғыларымен және шығыс материалдарымен тегін қамтамасыз етуді ерекше бақылауға алуды тапсырды.",
-    "de": "Vitaly Korolev hat eine besondere Kontrolle der kostenlosen Versorgung von Kindern mit Typ-1-Diabetes mit Insulinpumpen und Verbrauchsmaterial angeordnet.",
-    "es": "Vitaly Korolev ha ordenado un control especial sobre el suministro gratuito de bombas de insulina y consumibles para niños con diabetes tipo 1."
-   },
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOUpxZlpYOGEtUTYxY3FWY2RuUXRGVUhLanVoWWkwYlh1TW1YR2NGQkh3N2RtNUxGaVFGejZaZWR2TlV1V3A2LXlvQnlrb1lxRW94NmVYZGpSQlZsS3VSRWJCY25HdnJWSzEwbHJLTUF1LS1QZVVUX2VsMHM5VW9lbldocmpBc2lQR3E2ek5MbzZudHVpQXB6VDFMVHU0NUxqcGZDOGQycVVtaFhxOWNleDUwR2k3V1JOWG5OOUZ0WjZkcEhDcDFadm1vTVJRaXI0VjFzbDVEdjVJUWZJVUFhUXJjaTJfM0JSRHRsY2xhb25BckJTZk00LTVEN1d6WWZwbW1qWFZKYWZjV1ZtaVE?oc=5",
-   "src": "Панорама ПРО",
-   "photoQuery": "insulin pump device"
-  },
-  {
-   "id": "nQk0_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "В алтайском Минздраве заявили об отсутствии дефицита важного препарата для диабетиков",
-    "en": "Altai regional health ministry says there is no shortage of an important drug for diabetes patients",
-    "kk": "Алтай өлкесінің денсаулық сақтау министрлігі қант диабеті бар адамдар үшін маңызды дәрі тапшылығы жоқ екенін мәлімдеді",
-    "de": "Gesundheitsministerium der Region Altai meldet keinen Mangel an einem wichtigen Medikament für Diabetiker",
-    "es": "El Ministerio de Salud de Altái afirma que no hay escasez de un medicamento importante para los diabéticos"
-   },
-   "text": {
-    "ru": "Минздрав Алтайского края сообщил, что дефицита важного препарата для пациентов с диабетом нет.",
-    "en": "The Altai regional health ministry reported no shortage of an important medicine for patients with diabetes.",
-    "kk": "Алтай өлкесінің денсаулық сақтау министрлігі қант диабеті бар науқастар үшін маңызды дәрінің тапшылығы жоқ екенін хабарлады.",
-    "de": "Das Gesundheitsministerium der Region Altai teilte mit, dass es keinen Mangel an einem wichtigen Medikament für Diabetespatienten gibt.",
-    "es": "El Ministerio de Salud de la región de Altái informó de que no hay escasez de un medicamento importante para los pacientes con diabetes."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQnhiTzQwZWJjY2hYblMydzJMOG44MkZWeTdRdDJwZzRSeXJCaUgxVGJJV3FBOFk0dll3anY2Y2w4T3lTanhGX3Jla2c1dHBM?oc=5",
-   "src": "Банкфакс",
-   "photoQuery": "pharmacy medicine shelves"
-  },
-  {
-   "id": "nRVaz9vYz01",
-   "cat": "access",
-   "stage": "report",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Жительница Брянска с диабетом попала к эндокринологу только через прокуратуру",
-    "en": "Bryansk woman with diabetes saw an endocrinologist only after involving the prosecutor's office",
-    "kk": "Брянск тұрғыны, қант диабеті бар, эндокринологқа прокуратура арқылы ғана жетті",
-    "de": "Frau aus Brjansk mit Diabetes erhielt einen Termin beim Endokrinologen erst über die Staatsanwaltschaft",
-    "es": "Una mujer de Briansk con diabetes solo logró ver a un endocrinólogo a través de la fiscalía"
-   },
-   "text": {
-    "ru": "Пациентка из Брянска смогла получить консультацию эндокринолога только после обращения в прокуратуру.",
-    "en": "A patient from Bryansk was able to see an endocrinologist only after appealing to the prosecutor's office.",
-    "kk": "Брянск тұрғыны эндокринологтың кеңесін тек прокуратураға жүгінгеннен кейін ала алды.",
-    "de": "Eine Patientin aus Brjansk konnte einen Endokrinologen erst nach einer Eingabe bei der Staatsanwaltschaft konsultieren.",
-    "es": "Una paciente de Briansk pudo consultar a un endocrinólogo solo después de acudir a la fiscalía."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uYmQ0XzhwZFNaTDh4TXM3ZjI2U2kwSldfMXdVUTM3RzJjOHRjX2YwTERnYUY4YXI3UTEtM0xMUWlDQ0RId0pmWVhrbklfdUk?oc=5",
-   "src": "Новости Брянска и Брянской области",
-   "photoQuery": "doctor consultation office"
-  },
-  {
-   "id": "nbWM_b2M9NQ",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Можно ли обратить диабет 2 типа вспять? 14-летнее исследование показало значимые результаты",
-    "en": "Can type 2 diabetes be reversed? A 14-year study reports notable results",
-    "kk": "2-типті қант диабетін кері қайтаруға бола ма? 14 жылдық зерттеу маңызды нәтижелерді көрсетті",
-    "de": "Lässt sich Typ-2-Diabetes umkehren? Eine 14-jährige Studie berichtet bemerkenswerte Ergebnisse",
-    "es": "¿Se puede revertir la diabetes tipo 2? Un estudio de 14 años muestra resultados notables"
-   },
-   "text": {
-    "ru": "Четырнадцатилетнее исследование посвящено вопросу, можно ли обратить диабет 2 типа, и приводит заметные результаты.",
-    "en": "A 14-year study examines whether type 2 diabetes can be reversed and reports notable results.",
-    "kk": "14 жылдық зерттеу 2-типті қант диабетін кері қайтаруға бола ма деген сұракқа арналған және маңызды нәтижелерді береді.",
-    "de": "Eine 14-jährige Studie untersucht, ob Typ-2-Diabetes umkehrbar ist, und berichtet über bemerkenswerte Ergebnisse.",
-    "es": "Un estudio de 14 años analiza si la diabetes tipo 2 puede revertirse y presenta resultados notables."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUNhSVdkTHRJcVhXb3JtMEcyZEM0VzRrd0V1TXRiNndsa3VIY20xcHJyN2dYTHNWTDRxQWJKMVRaajNwX0JmazVPaFYzcnd5NTV1Tmpob241aXBHaWpjUkpFRlhYdzhsX0lFYlR3bGlhZ0ZOeTQ5b2VQSVRPQ096MnJxeEYyQ0RGa0lzUERhVHFXb1U4Q1kyZHNVb3BSUmtOVmc?oc=5",
-   "src": "SciTechDaily",
-   "photoQuery": "young people walking outdoors"
-  },
-  {
-   "id": "nRE0_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Антипсихотики и риск диабета: первые 90 дней критичны для мониторинга",
-    "en": "Antipsychotics and diabetes risk: the first 90 days are critical for monitoring",
-    "kk": "Антипсихотиктер және қант диабетінің қаупі: алғашқы 90 күн бақылау үшін маңызды",
-    "de": "Antipsychotika und Diabetesrisiko: Die ersten 90 Tage sind für das Monitoring entscheidend",
-    "es": "Antipsicóticos y riesgo de diabetes: los primeros 90 días son clave para el seguimiento"
-   },
-   "text": {
-    "ru": "Материал указывает, что первые 90 дней приёма антипсихотиков важны для контроля риска диабета.",
-    "en": "The article indicates that the first 90 days of antipsychotic treatment are important for monitoring diabetes risk.",
-    "kk": "Материалда антипсихотиктерді қабылдаудың алғашқы 90 күні қант диабетінің қаупін бақылау үшін маңызды екені айтылған.",
-    "de": "Der Artikel weist darauf hin, dass die ersten 90 Tage einer Antipsychotika-Behandlung für die Überwachung des Diabetesrisikos wichtig sind.",
-    "es": "El artículo indica que los primeros 90 días de tratamiento con antipsicóticos son importantes para vigilar el riesgo de diabetes."
-   },
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTU5wdldzOXVvWndTRk9lRUZfYjluREd6ckJBQkxaaHdELTl0ZUFlbUtNaURxTzVWaVVza3ItTnMxLTJzLVprZVE4U0IyZWVZa1VuWjEtRHhqUkEweFFqTFE5MENFZW43TTlWdU9Gcm5vbFRJempuYVF1Z2hRSWNrOHYwU3ZSbVZLNGwzZ05feU93aUUwQ2FtYkw0RlM5WW1oU2d2UE9wSlkzcW9aelRwWVdXODM?oc=5",
-   "src": "Medvestnik",
-   "photoQuery": "prescription pill bottles"
-  },
-  {
-   "id": "nGRSP29jPTU",
-   "cat": "devices",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Голосовой ИИ-помощник улучшил состояние пациентов с диабетом",
-    "en": "Voice AI assistant improved the condition of patients with diabetes",
-    "kk": "Дауыстық ЖИ көмекшісі қант диабеті бар науқастардың жағдайын жақсартты",
-    "de": "Sprachbasierter KI-Assistent hat den Zustand von Diabetespatienten verbessert",
-    "es": "Un asistente de voz con IA mejoró el estado de los pacientes con diabetes"
-   },
-   "text": {
-    "ru": "Сообщается, что голосовой ИИ-помощник улучшил состояние пациентов с диабетом.",
-    "en": "Reports say a voice-based AI assistant improved the condition of patients with diabetes.",
-    "kk": "Хабарламада дауыстық ЖИ көмекшісі қант диабеті бар науқастардың жағдайын жақсартқаны айтылады.",
-    "de": "Berichten zufolge hat ein sprachbasierter KI-Assistent den Zustand von Patienten mit Diabetes verbessert.",
-    "es": "Según la información, un asistente de voz con IA mejoró el estado de los pacientes con diabetes."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vSVFqakpBOHFydkJNaGJOaVRFQW10TWtCSjBUV040NTY5dVFFZ05ycXF5Rzc5a3ltbkhiakoxbWNHSEpHOXpHWHdR?oc=5",
-   "src": "Интернет-газета «ЖУК»",
-   "photoQuery": "smart speaker kitchen"
-  },
-  {
-   "id": "nQlI_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-06",
-   "added": "2026-11-07T03:02:36.536Z",
-   "title": {
-    "ru": "Распространённость диабета в Южной Европе достигла 9,3% несмотря на близость к PHD",
-    "en": "Diabetes prevalence in Southern Europe reaches 9.3% despite proximity to PHD",
-    "kk": "Оңтүстік Еуропада қант диабетінің таралуы PHD-ге жақын болғанына қарамастан 9,3%-ға жетті",
-    "de": "Diabetes-Prävalenz in Südeuropa erreicht 9,3 % trotz der Nähe zu PHD",
-    "es": "La prevalencia de diabetes en el sur de Europa alcanza el 9,3 % a pesar de la proximidad a PHD"
-   },
-   "text": {
-    "ru": "По сообщению источника, распространённость диабета в Южной Европе составляет 9,3%.",
-    "en": "According to the source, diabetes prevalence in Southern Europe stands at 9.3%.",
-    "kk": "Дереккөзге сәйкес, Оңтүстік Еуропада қант диабетінің таралуы 9,3% құрайды.",
-    "de": "Laut Quelle liegt die Diabetes-Prävalenz in Südeuropa bei 9,3 %.",
-    "es": "Según la fuente, la prevalencia de diabetes en el sur de Europa es del 9,3 %."
-   },
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2hVZGRmUXdKYWxrbzV1WjduQjA1aXVHdXJNaFdtV1hRblMxOW9TZTlURFNkM0VzWm5nNVBKcG1UN1ZwUWFYcDdZQ01sRDJaVGJPOXFyTXNEcmk4VzR5V3NMcl9JZHhzNjUya3lWNmJMSUR5MWV6cDlZNmNoRlRGaEpmbTdya0FScHV3a0h1OXZ4bUt1Ri1Fdl83cFN5MUMzMlB3RkM4VjU4dGVOMUVxUUU5c1R6VXZzWFBR?oc=5",
-   "src": "UA.NEWS",
-   "photoQuery": "Mediterranean market vegetables"
+   "photoQuery": "blood sugar finger test",
+   "bodyTried": true
   }
  ],
  "stats": {
