@@ -9,7 +9,9 @@
    4. Finds a photo for each story on Unsplash (UNSPLASH_ACCESS_KEY; or Pexels,
       PEXELS_API_KEY) by an AI-written search phrase, or by the story's section.
       Also keeps a pool of good photos per section that the site uses as a fallback.
-   5. Merges them with the stories already in data/news.js and rewrites it.
+   5. For each story the AI reads the source article (web fetch/search tools)
+      and writes a full retelling in 5 languages (the "Read more" text).
+   6. Merges them with the stories already in data/news.js and rewrites it.
    No npm dependencies: Node 20+ only. */
 
 import fs from "node:fs";
@@ -183,6 +185,67 @@ async function callAI(prompt) {
     return j.choices[0].message.content;
   }
   return null;
+}
+
+/* ---------- full text: the AI reads the source article and retells it ---------- */
+const MAX_BODIES = Number(process.env.MAX_BODIES || 14); // articles read per run (cost control)
+async function writeBody(it) {
+  const t = it.title.ru || it.title.en || Object.values(it.title)[0];
+  const prompt = `You write for DIA news, a multilingual news site about diabetes for patients and families.
+Story: "${t}" (outlet: ${it.src}, date: ${it.date})
+Link: ${it.url}
+
+1. Read the original article. Fetch the link; if it is a Google News link or does not open, search the web for the headline and outlet and fetch the original article page.
+2. Retell it IN YOUR OWN WORDS (never copy sentences, no quotes longer than a few words): 180–320 words in 3–5 short paragraphs separated by a blank line. Neutral news style: what happened and when, who, the key details and numbers, caveats or limitations, what happens next. Use ONLY facts from the article; give numbers, doses, phases and dates exactly as in the article. No medical advice.
+3. Give the same text in 5 languages: ru, en, kk (Kazakh, Cyrillic), de, es.
+4. Optionally 1–3 key figures from the article as facts: [{"k":{"ru","en","kk","de","es"},"v":{"ru","en","kk","de","es"}}].
+5. If you found the original article at a different address than the link, put it in "url".
+
+If you cannot open the article or it is not about this story, reply {"body":null}.
+Reply at the very end with JSON only: {"body":{"ru":"...","en":"...","kk":"...","de":"...","es":"..."},"facts":[...],"url":"..."}`;
+  let messages = [{ role: "user", content: prompt }];
+  for (let turn = 0; turn < 4; turn++) {
+    const r = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "content-type": "application/json", "x-api-key": process.env.ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01" },
+      body: JSON.stringify({
+        model: process.env.ANTHROPIC_MODEL || "claude-haiku-5-5", max_tokens: 12000, messages,
+        tools: [
+          { type: "web_fetch_20250910", name: "web_fetch", max_uses: 3, max_content_tokens: 8000 },
+          { type: "web_search_20250305", name: "web_search", max_uses: 2 },
+        ],
+      }),
+      signal: AbortSignal.timeout(240000),
+    });
+    if (!r.ok) throw new Error("Anthropic HTTP " + r.status + ": " + (await r.text()).slice(0, 300));
+    const j = await r.json();
+    if (j.stop_reason === "pause_turn") { messages = [...messages, { role: "assistant", content: j.content }]; continue; }
+    const text = j.content.filter((c) => c.type === "text").map((c) => c.text).join("");
+    const starts = [...text.matchAll(/\{\s*"body"/g)];
+    if (!starts.length) throw new Error("no JSON in reply");
+    return JSON.parse(text.slice(starts[starts.length - 1].index, text.lastIndexOf("}") + 1));
+  }
+  throw new Error("too many turns");
+}
+async function addBodies(items) {
+  if (!process.env.ANTHROPIC_API_KEY) return 0;
+  let done = 0, tried = 0;
+  const order = [...items].sort((a, b) => String(b.added || "").localeCompare(String(a.added || "")));
+  for (const it of order) {
+    if (it.body || it.bodyTried || tried >= MAX_BODIES) continue;
+    tried++;
+    try {
+      const res = await writeBody(it);
+      if (res && res.body && (res.body.ru || res.body.en)) {
+        it.body = langObj(res.body, { lang: "en", value: res.body.en || res.body.ru });
+        if (Array.isArray(res.facts) && res.facts.length) it.facts = res.facts.slice(0, 3).filter((f) => f && f.k && f.v);
+        if (typeof res.url === "string" && /^https?:\/\//.test(res.url) && !res.url.includes("news.google.")) it.url = res.url;
+        done++;
+      } else it.bodyTried = true;
+    } catch (e) { log(`full text "${(it.title.ru || it.title.en || "").slice(0, 40)}": ${e.message}`); it.bodyTried = true; }
+  }
+  log(`full texts written: ${done} of ${tried}`);
+  return done;
 }
 
 function langObj(o, fallback) {
@@ -368,9 +431,11 @@ if (PHOTO_ON) {
   log(`photo API calls left this hour: ${budget}${rateLimited ? " (rate limited)" : ""}`);
 } else log("no UNSPLASH_ACCESS_KEY / PEXELS_API_KEY: stories use the site's built-in photos");
 
+const bodiesAdded = await addBodies(items);
+
 const poolChanged = JSON.stringify(photoPool) !== JSON.stringify(cur.photoPool || null);
 if (!items.length) { log("nothing to publish; data/news.js left unchanged"); process.exit(0); }
-if (!fresh.length && !photosAdded && !poolChanged) { log("no new stories or photos today; data/news.js left unchanged"); process.exit(0); }
+if (!fresh.length && !photosAdded && !poolChanged && !bodiesAdded) { log("no new stories or photos today; data/news.js left unchanged"); process.exit(0); }
 
 const out = { demo: false, updated: stamp, items, stats: cur.stats || null, posts: cur.posts || [], events: cur.events || [], photoPool };
 const file = `/* The feed. Generated by scripts/update-news.mjs (GitHub Actions, daily). Manual edits to items may be overwritten.
@@ -383,4 +448,4 @@ const file = `/* The feed. Generated by scripts/update-news.mjs (GitHub Actions,
 const DIA_NEWS=${JSON.stringify(out, null, 1)};
 `;
 fs.writeFileSync(NEWS_FILE, file);
-log(`wrote ${items.length} stories (${fresh.length} new, ${photosAdded} photos)`);
+log(`wrote ${items.length} stories (${fresh.length} new, ${photosAdded} photos, ${bodiesAdded} full texts)`);
