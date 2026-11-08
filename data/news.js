@@ -127,15 +127,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmVHS0ZpbmlYM0NBYVYtR3dFSDRZYl9kOGNEd2o4MXlDNGZKT2ItazBVaWZjMzBodzhTWmJvWlVXNDZfR1d6SUJrbElHTVhCNlk0VmpDaWdxQ3ZjRzVVN21fU3ZXRkZFUENBbm9NUXFvU1doYVp0Nk8yb1lHMGRSRjNUZkJ0WVd5TzlweWt1OEtYOW96ODJPQUlDTmpNTy1EeS1ZNS1HNWVPT19HQjJObGFuNDNyOUpfaDgzZUc1U0M?oc=5",
    "src": "Bioengineer.org",
-   "photoQuery": "blood glucose meter testing",
-   "photo": {
-    "id": "u_ZJaK9jQXeDA",
-    "url": "https://images.unsplash.com/photo-1624454002429-40ed87a5ec04?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBnbHVjb3NlJTIwbWV0ZXIlMjB0ZXN0aW5nfGVufDF8MHx8fDE3OTQxNDIxMzZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Towfiqu barbhuiya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=dia_news&utm_medium=referral",
-    "alt": "white digital device beside white pen"
-   }
+   "photoQuery": "blood glucose meter testing"
   },
   {
    "id": "nOUo_b2M9NQ",
@@ -317,15 +309,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHNpM2VTcmdYbC0taGpjRFJFYnJZdFl2N2lNX2llTXdQT0dJcUlzc3JpTkNCOXhJQnZBdkY0djRFb0JmMVgtbFUzLTRQNktDQnZmclB2VmZoa0oteC1DaHJtcTJrMXlGVEdNRUpXRG1HYW1lZ1gwWHl3dWFISEpiampQalo5aWVJYXl6QkdCN2lkQ09QYUtxalR2Y2pMd1RXRkZTcGtxSzRtcVVBa3pDaWhsdmhYcEFLZjFzd1ZSSQ?oc=5",
    "src": "www.heart.org",
-   "photoQuery": "blood pressure monitor cuff",
-   "photo": {
-    "id": "u_f0h8EIdTXWo",
-    "url": "https://images.unsplash.com/photo-1700832082152-0416a3ee5e60?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8Ymxvb2QlMjBwcmVzc3VyZSUyMG1vbml0b3IlMjBjdWZmfGVufDF8MHx8fDE3OTQxNDIxMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Immo Wegmann",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-stethoscope-laying-on-top-of-a-bed-next-to-a-medical-bag-f0h8EIdTXWo?utm_source=dia_news&utm_medium=referral",
-    "alt": "a stethoscope laying on top of a bed next to a medical bag"
-   }
+   "photoQuery": "blood pressure monitor cuff"
   },
   {
    "id": "nnRCP29jPTU",
@@ -349,15 +333,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tMHRZbnlFU01vZzBfTVJBNlJNcXlITXBfZG1pbW5fX0dvdURkWU1fdEQxUzZJd0ZWdzZnNkdBSms5TmtZOGNfeW1FUDVPdEl2c2tB?oc=5",
    "src": "Day.Az",
-   "photoQuery": "woman speaking smartphone microphone",
-   "photo": {
-    "id": "u_6e8gSi8WHOg",
-    "url": "https://images.unsplash.com/photo-1574921026809-5ed918f8ddd2?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzcGVha2luZyUyMHNtYXJ0cGhvbmUlMjBtaWNyb3Bob25lfGVufDF8MHx8fDE3OTQxNDIxNDF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Shirish Suwal",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/womens-black-zip-up-jacket-6e8gSi8WHOg?utm_source=dia_news&utm_medium=referral",
-    "alt": "women's black zip-up jacket"
-   }
+   "photoQuery": "woman speaking smartphone microphone"
   },
   {
    "id": "nUnc_b2M9NQ",
@@ -445,15 +421,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40QnlmTFNOMVh2ZndWa0NvV1ZKT2VqOGJBaW02a3lEcm5nVF9kZlZUQV80Vm00a2tiR1V1YWdLcXV4QWoyMlJhU2h3SU9uYThN?oc=5",
    "src": "Bnkomi.ru",
-   "photoQuery": "medical lab equipment clinic",
-   "photo": {
-    "id": "u__zbqco3m7dA",
-    "url": "https://images.unsplash.com/photo-1758691462651-611d730c5272?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGxhYiUyMGVxdWlwbWVudCUyMGNsaW5pY3xlbnwxfDB8fHwxNzk0MTQyMTQzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-female-doctor-wearing-a-stethoscope-sits-at-her-desk-_zbqco3m7dA?utm_source=dia_news&utm_medium=referral",
-    "alt": "A female doctor wearing a stethoscope sits at her desk"
-   }
+   "photoQuery": "medical lab equipment clinic"
   },
   {
    "id": "nk9BP29jPTU",
@@ -509,15 +477,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZFpMdTJXRmVhRkR2NEZMemIxaDRCNFVYYzBYb3JKbjZ6UXF0MDE4d1pSTnc2MFFiVTRDUXRxMm9oTW9razgyLVMyVDVZQmw2ZGd0Ti1JNVo?oc=5",
    "src": "Бриф24",
-   "photoQuery": "blood glucose test",
-   "photo": {
-    "id": "u_ViLMUXvGXVg",
-    "url": "https://images.unsplash.com/photo-1685485276219-cbdf9309be1a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8Ymxvb2QlMjBnbHVjb3NlJTIwdGVzdHxlbnwxfDB8fHwxNzk0MTQyMTQ0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "isens usa",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-holding-a-thermometer-next-to-an-electronic-device-ViLMUXvGXVg?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person holding a thermometer next to an electronic device"
-   }
+   "photoQuery": "blood glucose test"
   },
   {
    "id": "nMVU_b2M9NQ",
@@ -541,15 +501,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Zc3hsSlpyQXJTeFdSaGpaNHgycjRUQ0JwRnNQcEJFUnJYWmtUMXhNemdaQ002UzZFbEp3ZEdFNi0xdGF0djE2THRRWjdWZ1REWUtfSlEtSGduQ1U?oc=5",
    "src": "Vesty.co.il",
-   "photoQuery": "child checking blood sugar",
-   "photo": {
-    "id": "u_63t5BcDc_ME",
-    "url": "https://images.unsplash.com/photo-1685485276224-d78ce78f3b95?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8Y2hpbGQlMjBjaGVja2luZyUyMGJsb29kJTIwc3VnYXJ8ZW58MXwwfHx8MTc5NDE0MjE0NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "isens usa",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-holding-a-pen-and-a-cell-phone-on-a-table-63t5BcDc_ME?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person holding a pen and a cell phone on a table"
-   }
+   "photoQuery": "child checking blood sugar"
   },
   {
    "id": "nlZRP29jPTU",
@@ -573,15 +525,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVlSNjZ3OHg0cl96NU9nX0ZJZjBTWDFOaW5PM2YteVRmYUVlb0djdXR5MzZkZDB4cDdzX3dpY2dlV0R4X2J5V0F3VGRWVjMzOXIzNU9KZGd3dEEtQWxwR1FKR3hFdjhTZTBsTXIwUGQ3clRfbnh3OTE2RVNBblFwLXh6VQ?oc=5",
    "src": "infohub.kz",
-   "photoQuery": "healthy meal vegetables",
-   "photo": {
-    "id": "u_IGfIGP5ONV0",
-    "url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMG1lYWwlMjB2ZWdldGFibGVzfGVufDF8MHx8fDE3OTQxNDIxMzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Anna Pelzer",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/bowl-of-vegetable-salads-IGfIGP5ONV0?utm_source=dia_news&utm_medium=referral",
-    "alt": "bowl of vegetable salads"
-   }
+   "photoQuery": "healthy meal vegetables"
   },
   {
    "id": "npOaD9vYz01",
@@ -637,15 +581,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0JEa1YycHliT3VjM2VEMllXcjNwejhiV000UTA1ZGtwakt4bzF4ODNNalBTUlRFZjh0OXFLUHBsT09Cc1JSUldvNEpCWFphX1JJQmNQRzJ1eHZZYXhVWjNPQzRuWXhzM1VxVE5IVlpkSVdQZ0dteW1ySDNLNjRlRGJmUVhHTVhfZHBCVHlOOFpoRzZ2MjRJaExqNXBqdFlLbHNQMEZzZVczN2hPb2JNUnV3?oc=5",
    "src": "rus tvnet",
-   "photoQuery": "blood sugar finger test",
-   "photo": {
-    "id": "u_8gG2PDqpktY",
-    "url": "https://images.unsplash.com/photo-1685485276223-0bb0226dcca8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBzdWdhciUyMGZpbmdlciUyMHRlc3R8ZW58MXwwfHx8MTc5NDE0MjE0MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "isens usa",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-cell-phone-8gG2PDqpktY?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person sitting at a table with a cell phone"
-   }
+   "photoQuery": "blood sugar finger test"
   },
   {
    "id": "nBRUT9vYz01",
@@ -701,15 +637,7 @@ const DIA_NEWS={
    },
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2NFFTN1Flb1pUSjB0MkRXa3pJYkIybFdNeVpiRVBocllCSkpkeW9lV1NmMDlXLThZWFVlRFh2ODYwMzhGTlBN?oc=5",
    "src": "TverNews",
-   "photoQuery": "insulin pen syringe",
-   "photo": {
-    "id": "u_msQB97gUxY0",
-    "url": "https://images.unsplash.com/photo-1624625021542-41a4ff97c025?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbiUyMHN5cmluZ2V8ZW58MXwwfHx8MTc5NDE0MjE0NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Towfiqu barbhuiya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/silver-and-black-tube-type-vaporizer-msQB97gUxY0?utm_source=dia_news&utm_medium=referral",
-    "alt": "silver and black tube type vaporizer"
-   }
+   "photoQuery": "insulin pen syringe"
   },
   {
    "id": "n4wVT9vYz01",

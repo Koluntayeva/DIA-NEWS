@@ -283,6 +283,20 @@ async function searchPhotos(query, n = 20) {
     }));
   } catch (e) { log(`photo search "${query}": ${e.message}`); return []; }
 }
+// prefer the result whose description shares the most words with the query (the first hit is often off-topic)
+const STOP = new Set(["a", "an", "the", "of", "on", "in", "with", "and", "for", "to", "up", "close"]);
+const stem = (w) => w.toLowerCase().replace(/(ing|es|s)$/, "");
+function bestMatch(list, query, used) {
+  const qw = norm(query).split(" ").filter((w) => w.length > 2 && !STOP.has(w)).map(stem);
+  let best = null, bestScore = -1;
+  list.forEach((ph, i) => {
+    if (used.has(ph.id)) return;
+    const aw = new Set(norm(ph.alt).split(" ").map(stem));
+    const score = qw.filter((w) => aw.has(w)).length * 10 - i; // matches first, then search rank
+    if (score > bestScore) { best = ph; bestScore = score; }
+  });
+  return best;
+}
 // Unsplash asks apps to report each photo they use (API guidelines)
 async function usePhoto(ph) {
   const { _track, ...clean } = ph;
@@ -326,7 +340,7 @@ if (PHOTO_ON) {
     for (const q of queries) {
       if (budget < 2) break;
       searched++;
-      const ph = (await searchPhotos(q)).find((x) => !used.has(x.id));
+      const ph = bestMatch(await searchPhotos(q), q, used);
       if (ph) { got = await usePhoto(ph); break; }
     }
     if (got) { used.add(got.id); it.photo = got; photosAdded++; }
