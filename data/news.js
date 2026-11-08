@@ -122,39 +122,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nbTg_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-08",
-   "added": "2026-11-08T13:57:57.040Z",
-   "title": {
-    "ru": "Отцу ребёнка с диабетом из Уфы вернули деньги за инсулин после иска прокуратуры",
-    "en": "Ufa father of child with diabetes refunded for insulin after prosecutor's lawsuit",
-    "kk": "Өфаның диабеті бар баланың әкесіне прокуратура талабынан кейін инсулин үшін ақша қайтарылды",
-    "de": "Vater eines diabeteskranken Kindes aus Ufa erhält Geld für Insulin nach Klage der Staatsanwaltschaft zurück",
-    "es": "Al padre de un niño con diabetes de Ufa le devuelven el dinero del insulina tras una demanda de la fiscalía"
-   },
-   "text": {
-    "ru": "После иска прокуратуры отцу ребёнка с диабетом из Уфы вернули деньги, потраченные на инсулин.",
-    "en": "After a lawsuit by the prosecutor's office, the father of a child with diabetes from Ufa has been refunded the money he paid for insulin.",
-    "kk": "Прокуратура талабынан кейін Өфадан диабеті бар баланың әкесіне инсулинге жұмсаған ақшасы қайтарылды.",
-    "de": "Nach einer Klage der Staatsanwaltschaft wurde dem Vater eines diabeteskranken Kindes aus Ufa das für Insulin gezahlte Geld erstattet.",
-    "es": "Tras una demanda de la fiscalía, al padre de un niño con diabetes de Ufa le han devuelto el dinero que pagó por la insulina."
-   },
-   "url": "https://news-bash.ru/news/ottsu-rebyonka-s-diabetom-iz-ufy-vernuli-dengi-za-insulin-posle-iska-prokuratury/",
-   "src": "Ньюс-Баш",
-   "photoQuery": "insulin vial pharmacy",
-   "photo": {
-    "id": "u_5Hib8uDTm6g",
-    "url": "https://images.unsplash.com/photo-1593491034932-844ab981ed7c?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHZpYWwlMjBwaGFybWFjeXxlbnwxfDB8fHwxNzk0MTQ2NTIxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Mykenzie Johnson",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/orange-and-white-plastic-bottle-on-brown-wooden-table-5Hib8uDTm6g?utm_source=dia_news&utm_medium=referral",
-    "alt": "orange and white plastic bottle on brown wooden table"
-   },
-   "bodyTried": true
-  },
-  {
    "id": "nJsUT9vYz01",
    "cat": "research",
    "stage": "report",
@@ -600,45 +567,11 @@ const DIA_NEWS={
    "src": "Vademec.ru",
    "photoQuery": "scientist laboratory microscope",
    "photo": {
-    "id": "u_JxoWb7wHqnA",
-    "url": "https://images.unsplash.com/photo-1630959305790-4c956ce6c0b6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8c2NpZW50aXN0JTIwbGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDE0NjUxOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/scientist-using-microscope-in-laboratory-JxoWb7wHqnA?utm_source=dia_news&utm_medium=referral",
-    "alt": "A person in a white lab coat looking through a microscope in a laboratory"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nlVUT9vYz01",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-07",
-   "added": "2026-11-08T13:19:35.703Z",
-   "title": {
-    "ru": "Минздрав предложил разрешить дистанционное наблюдение пациентов с гипертонией и диабетом",
-    "en": "Health ministry proposes allowing remote monitoring of patients with hypertension and diabetes",
-    "kk": "Денсаулық сақтау министрлігі гипертониясы және диабеті бар пациенттерді қашықтан бақылауға рұқсат беруді ұсынды",
-    "de": "Gesundheitsministerium schlägt Fernüberwachung von Patienten mit Bluthochdruck und Diabetes vor",
-    "es": "El Ministerio de Salud propone permitir el seguimiento remoto de pacientes con hipertensión y diabetes"
-   },
-   "text": {
-    "ru": "Врачи могли бы наблюдать пациентов с повышенным давлением и диабетом дистанционно.",
-    "en": "Doctors could monitor patients with high blood pressure and diabetes remotely under the proposal.",
-    "kk": "Ұсыныс бойынша дәрігерлер жоғары қан қысымы және диабеті бар пациенттерді қашықтан бақылай алады.",
-    "de": "Nach dem Vorschlag könnten Ärzte Patienten mit Bluthochdruck und Diabetes aus der Ferne betreuen.",
-    "es": "Según la propuesta, los médicos podrían supervisar a distancia a pacientes con hipertensión y diabetes."
-   },
-   "url": "https://www.nmosktoday.ru/news/society/109515/",
-   "src": "Новости Новомосковск сегодня",
-   "photoQuery": "telehealth video consultation doctor",
-   "photo": {
-    "id": "u_c1ZGaJTOnJs",
-    "url": "https://images.unsplash.com/photo-1758691462743-f9fc9e430d39?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8dGVsZWhlYWx0aCUyMHZpZGVvJTIwY29uc3VsdGF0aW9uJTIwZG9jdG9yfGVufDF8MHx8fDE3OTQxNDM5Nzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-consulting-patient-via-video-call-on-laptop-c1ZGaJTOnJs?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor consulting patient via video call on laptop"
+    "url": "assets/photos/dia-research-lab.jpg",
+    "credit": "DIA news",
+    "license": "",
+    "link": "",
+    "alt": "Исследователи в лаборатории изучают данные мониторинга глюкозы"
    },
    "bodyTried": true
   },
@@ -789,63 +722,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nFVFP29jPTU",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-07",
-   "added": "2026-11-08T12:48:49.190Z",
-   "title": {
-    "ru": "Поликлиникам могут разрешить дистанционно наблюдать пациентов с диабетом",
-    "en": "Polyclinics may be allowed to monitor diabetes patients remotely",
-    "kk": "Емханаларға диабеті бар науқастарды қашықтықтан бақылауға рұқсат берілуі мүмкін",
-    "de": "Polikliniken könnten die Fernüberwachung von Diabetes-Patienten erlaubt werden",
-    "es": "Las policlínicas podrían autorizarse a monitorizar a pacientes con diabetes a distancia"
-   },
-   "text": {
-    "ru": "Минздрав предлагает разрешить дистанционное наблюдение пациентов с диабетом и гипертонией.",
-    "en": "The Ministry of Health proposes allowing remote monitoring of patients with diabetes and hypertension.",
-    "kk": "Денсаулық сақтау министрлігі диабеті мен гипертониясы бар науқастарды қашықтан бақылауға рұқсат беруді ұсынады.",
-    "de": "Das Gesundheitsministerium schlägt vor, die Fernüberwachung von Patienten mit Diabetes und Bluthochdruck zu erlauben.",
-    "es": "El Ministerio de Salud propone permitir el seguimiento remoto de pacientes con diabetes e hipertensión."
-   },
-   "url": "https://www1.ru/news/2026/11/07/poliklinikam-mogut-razresit-distancionno-nabliudat-pacientov-s-diabetom.html",
-   "src": "www1.ru",
-   "photoQuery": "doctor video consultation laptop",
-   "photo": {
-    "id": "u_NFvdKIhxYlU",
-    "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdmlkZW8lMjBjb25zdWx0YXRpb24lMjBsYXB0b3B8ZW58MXwwfHx8MTc5NDE0MjEzN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/person-sitting-while-using-laptop-computer-and-green-stethoscope-near-NFvdKIhxYlU?utm_source=dia_news&utm_medium=referral",
-    "alt": "person sitting while using laptop computer and green stethoscope near"
-   },
-   "body": {
-    "ru": "Минздрав России предложил разрешить поликлиникам дистанционно наблюдать пациентов с артериальной гипертензией и сахарным диабетом. Об этом, со ссылкой на РИА «Новости» и ведомственный документ, сообщает www1.ru. Материал вышел 7 ноября 2026 года.\n\nПредлагаемые поправки касаются порядка оказания медпомощи взрослым по профилю «терапия» и должны закрепить использование телемедицинских технологий. Поликлиники смогут оснащать кабинеты медицинскими изделиями, которые передают данные на расстоянии. Их количество будет определяться числом пациентов, которым нужен удалённый контроль.\n\nПроект также описывает порядок направлений: при необходимости терапевт отправит пациента к профильному специалисту, а затем продолжит наблюдение и лечение, в том числе дистанционно, опираясь на рекомендации этого врача. Помощь можно будет оказывать по месту жительства или пребывания пациента при острых состояниях, обострениях хронических болезней и когда вызывают медработника.\n\nПо данным издания, дистанционный мониторинг помогает держать хронические болезни под контролем без постоянных визитов в клинику. Для людей с диабетом и гипертонией это означает меньше поездок в поликлинику и больше данных для врача.\n\nВажное уточнение: инициатива пока не принята, документ лишь предложен Минздравом.",
-    "en": "Russia's Ministry of Health has proposed allowing polyclinics to monitor patients with high blood pressure and diabetes from a distance. www1.ru reports this, citing RIA Novosti and a departmental document. The article was published on November 7, 2026.\n\nThe proposed amendments concern the procedure for providing care to adults in the therapy specialty and would formally enshrine the use of telemedicine. Polyclinics could equip their offices with medical devices that transmit data remotely. The number of devices would depend on how many patients need remote supervision.\n\nThe draft also outlines how referrals would work: when necessary, a general practitioner would send the patient to a specialist and then carry on observation and treatment, including remotely, guided by that doctor's recommendations. Care could also be delivered at the patient's home or temporary residence for acute illnesses, flare-ups of chronic diseases, and when a medical worker is called.\n\nAccording to the outlet, remote monitoring helps keep chronic conditions under control without constant clinic visits. For people with diabetes and hypertension, this would mean fewer trips to the polyclinic and more data for the doctor.\n\nImportant caveat: the initiative has not been adopted yet; the document is only a proposal from the Ministry.",
-    "kk": "Ресей Денсаулық сақтау министрлігі емханаларға артериалдық гипертензиясы және қант диабеті бар пациенттерді қашықтан бақылауға рұқсат беруді ұсынды. Бұл туралы www1.ru РИА «Новости» агенттігіне және ведомстволық құжатқа сілтеме жасап хабарлайды. Материал 2026 жылғы 7 қарашада жарияланды.\n\nҰсынылған түзетулер ересектерге «терапия» бейіні бойынша медициналық көмек көрсету тәртібіне қатысты және телемедицина технологияларын бекітуі тиіс. Емханалар кабинеттерін деректерді қашықтан беретін медициналық бұйымдармен жабдықтай алады. Олардың саны қашықтан бақылауды қажет ететін пациенттер санына байланысты анықталады.\n\nЖоба жолдаманың тәртібін де сипаттайды: қажет болса, терапевт пациентті бейіндік маманға жібереді, содан кейін сол дәрігердің ұсынымдарына сүйеніп, бақылау мен емдеуді, оның ішінде қашықтан, жалғастырады. Көмекті пациенттің тұрғылықты немесе уақытша орналасқан жерінде де көрсетуге болады: жедел аурулар, созылмалы аурулардың асқынуы және медқызметкер шақырылған жағдайда.\n\nБасылымның мәліметінше, қашықтан мониторинг созылмалы ауруларды клиникаға жиі бармай-ақ бақылауда ұстауға көмектеседі. Диабеті және гипертониясы бар адамдар үшін бұл поликлиникаға аз баруды және дәрігер үшін көбірек деректерді білдіреді.\n\nМаңызды нақтылау: бастама әлі қабылданбаған, құжат тек Минздрав ұсынысы ретінде ұсынылған.",
-    "de": "Das russische Gesundheitsministerium hat vorgeschlagen, Polikliniken die Fernüberwachung von Patienten mit Bluthochdruck und Diabetes zu erlauben. Darüber berichtet www1.ru unter Berufung auf die Nachrichtenagentur RIA Novosti und ein Behördendokument. Der Beitrag erschien am 7. November 2026.\n\nDie geplanten Änderungen betreffen die Regeln für die Versorgung erwachsener Patienten im Fachbereich „Therapie“ und würden Telemedizin ausdrücklich verankern. Polikliniken könnten ihre Behandlungsräume mit medizinischen Geräten ausstatten, die Daten aus der Ferne übermitteln. Wie viele Geräte nötig sind, richtet sich nach der Zahl der Patienten, die eine Fernüberwachung benötigen.\n\nDer Entwurf beschreibt zudem den Ablauf von Überweisungen: Bei Bedarf schickt der Therapeut den Patienten zu einem Facharzt und übernimmt danach wieder die Beobachtung und Behandlung, auch aus der Ferne, gemäß den Empfehlungen dieses Spezialisten. Hilfe soll außerdem am Wohn- oder Aufenthaltsort möglich sein, etwa bei akuten Erkrankungen, Verschlechterungen chronischer Leiden oder wenn ein Medizinmitarbeiter gerufen wird.\n\nLaut dem Portal hilft die Fernüberwachung, chronische Krankheiten ohne ständige Praxisbesuche im Blick zu behalten. Für Menschen mit Diabetes und Hypertonie bedeutet das weniger Fahrten in die Klinik und mehr Daten für die behandelnde Ärztin oder den Arzt.\n\nWichtig: Die Initiative ist noch nicht beschlossen; das Dokument ist bislang nur ein Vorschlag des Ministeriums.",
-    "es": "El Ministerio de Salud de Rusia ha propuesto permitir que las policlínicas monitoreen a distancia a pacientes con hipertensión arterial y diabetes. Lo informa www1.ru, citando a la agencia RIA Novosti y a un documento departamental. La noticia se publicó el 7 de noviembre de 2026.\n\nLos cambios previstos afectan el procedimiento de atención a adultos en el perfil de «terapia» y consolidarían el uso de la telemedicina. Las policlínicas podrían equipar sus consultorios con dispositivos médicos que transmiten datos a distancia. La cantidad de equipos dependería del número de pacientes que necesiten esa vigilancia remota.\n\nEl borrador también describe cómo funcionarían las derivaciones: si hace falta, el terapeuta enviaría al paciente a un especialista y luego seguiría la observación y el tratamiento, incluido el remoto, según las indicaciones de ese profesional. La atención podría prestarse en el domicilio o el lugar de estancia del paciente, en casos de enfermedades agudas, agravamientos de crónicas o cuando se llama a un profesional sanitario.\n\nSegún el medio, el seguimiento remoto ayuda a mantener bajo control las enfermedades crónicas sin visitas constantes. Para las personas con diabetes e hipertensión, eso supone menos viajes a la policlínica y más datos para el médico.\n\nAdvertencia importante: la iniciativa todavía no ha sido aprobada; el documento es solo una propuesta del Ministerio."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Статус инициативы",
-      "en": "Initiative status",
-      "kk": "Бастаманың күйі",
-      "de": "Status der Initiative",
-      "es": "Estado de la iniciativa"
-     },
-     "v": {
-      "ru": "Пока только предложение Минздрава, не принято",
-      "en": "Still only a Health Ministry proposal, not adopted",
-      "kk": "Әзірге тек Минздрав ұсынысы, қабылданбаған",
-      "de": "Bisher nur ein Vorschlag des Ministeriums, nicht beschlossen",
-      "es": "Todavía solo una propuesta del Ministerio, no aprobada"
-     }
-    }
-   ]
-  },
-  {
    "id": "nGR3P29jPTU",
    "cat": "research",
    "stage": "report",
@@ -957,12 +833,11 @@ const DIA_NEWS={
    "src": "Тюменская линия",
    "photoQuery": "glucose sensor on arm",
    "photo": {
-    "id": "u_tIEsUnmLaKY",
-    "url": "https://images.unsplash.com/photo-1776761916500-f639da084b7b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Z2x1Y29zZSUyMHNlbnNvciUyMG9uJTIwYXJtfGVufDF8MHx8fDE3OTQxNDIxMzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Salahuddin Ahmed",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-yellow-medical-sensor-attached-to-a-persons-arm-tIEsUnmLaKY?utm_source=dia_news&utm_medium=referral",
-    "alt": "A yellow medical sensor attached to a person's arm"
+    "url": "assets/photos/dia-cgm-phone-man.jpg",
+    "credit": "DIA news",
+    "license": "",
+    "link": "",
+    "alt": "Мужчина с датчиком глюкозы смотрит данные в телефоне"
    },
    "body": {
     "ru": "7 ноября 2026 года тюменский терапевт и нутрициолог Вероника Сычкова рассказала местным СМИ, помогает ли датчик непрерывного мониторинга глюкозы (CGM) сбросить вес. Изначально такие сенсоры создавали для людей с диабетом, но сейчас ими интересуются и те, кто хочет похудеть.\n\nДатчик обычно крепится на плечо и круглосуточно измеряет уровень глюкозы в межклеточной жидкости, передавая данные в приложение на смартфоне. По словам врача, сам по себе датчик жир не сжигает, но показывает, как организм конкретного человека реагирует на разные продукты: овсянка, гречка, фруктовые смузи или батончики из фиников могут давать у разных людей разные графики. Прибор также помогает связать питание с самочувствием. Например, прогулка 15 минут после ужина может сделать подъём глюкозы менее выраженным.\n\nГлавное ограничение: для здоровых людей без диабета убедительных доказательств того, что постоянное ношение датчика само по себе помогает худеть, пока недостаточно. Для снижения веса по-прежнему важен общий дефицит калорий: идеальные графики не спасут от набора веса при переедании. Специалист также напомнила, что подъём сахара после еды – нормальная реакция, а стремление к идеально ровной линии и отказ от углеводов могут привести к расстройствам пищевого поведения и нехватке питательных веществ.\n\nНосить датчик месяцами, чтобы изучить реакции организма, не обязательно: иногда хватает 2–4 недель, но самостоятельно трактовать каждое изменение графика не стоит. Врач подчеркнула, что датчик – прежде всего медицинский прибор для контроля диабета, а не потребительский гаджет. Использовать его здоровым людям без назначения врача бессмысленно и может вызвать тревожность и расстройство пищевого поведения. Обсудить мониторинг с врачом можно при нарушениях углеводного обмена, в том числе при преддиабете. Дальнейших шагов материал не описывает.",
@@ -1330,12 +1205,11 @@ const DIA_NEWS={
    "src": "МегаТюмень",
    "photoQuery": "glucose sensor arm",
    "photo": {
-    "id": "u_SBtNby0IiG0",
-    "url": "https://images.unsplash.com/photo-1683727186226-910f31a9da45?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Z2x1Y29zZSUyMHNlbnNvciUyMGFybXxlbnwxfDB8fHwxNzk0MTQyMTQzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-blood-glucose-testing-using-gluco-meter-SBtNby0IiG0?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person blood glucose testing using gluco-meter"
+    "url": "assets/photos/dia-cgm-phone-woman.jpg",
+    "credit": "DIA news",
+    "license": "",
+    "link": "",
+    "alt": "Датчик глюкозы на плече и график в телефоне"
    },
    "body": {
     "ru": "7 ноября 2026 года тюменское издание «МегаТюмень» опубликовало материал о датчиках непрерывного мониторинга глюкозы (CGM), которые всё чаще встречаются у людей без диабета, желающих похудеть. Первоначально эта технология создавалась для пациентов с сахарным диабетом.\n\nАвтор материала Ирина Труханович взяла комментарий у терапевта и нутрициолога Вероники Сычковой, члена Российского научного медицинского общества терапевтов. По её словам, небольшой сенсор крепится на плечо, круглосуточно измеряет глюкозу в межклеточной жидкости, а результаты выводятся в смартфон в виде графиков.\n\nГлавную пользу врач видит в возможности понять, как организм конкретного человека реагирует на отдельные продукты. Овсянка, гречка, фруктовый смузи или финиковые батончики могут поднимать сахар у разных людей по-разному. Прогулка 15 минут после ужина способна смягчить пик глюкозы, а горсть орехов к яблоку делает реакцию более плавной. При этом высокий пик сам по себе не делает продукт вредным: на показатели влияют размер порции, состав блюда и физическая нагрузка.\n\nДатчик не сжигает жир и не ускоряет обмен веществ, а при переедании вес может расти даже при ровных графиках. Для людей без диабета доказательств того, что прибор сам по себе помогает худеть, пока недостаточно. При преддиабете исследование обязательным не считается, а вопрос о его использовании стоит обсудить с врачом. Сычкова предупреждает: стремление к идеально ровной кривой и отказ от углеводов может привести к расстройствам пищевого поведения и нехватке питательных веществ.\n\nЕсли врач сочтёт наблюдение целесообразным, для знакомства с реакциями организма может хватить 2–4 недель. Сычкова напоминает, что датчик прежде всего медицинский прибор для контроля диабета, а здоровым людям без назначения он может принести тревожность. В материале не сообщается о дальнейших шагах; основной совет — согласовывать использование с врачом.",
@@ -1458,7 +1332,14 @@ const DIA_NEWS={
       "es": "Krasnodar, Novorossiysk y 3 distritos de la región"
      }
     }
-   ]
+   ],
+   "photo": {
+    "url": "assets/photos/dia-community-group.jpg",
+    "credit": "DIA news",
+    "license": "",
+    "link": "",
+    "alt": "Люди с датчиками глюкозы общаются за столом"
+   }
   },
   {
    "id": "nMVU_b2M9NQ",
@@ -2037,79 +1918,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nVGs_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-06",
-   "added": "2026-11-08T13:57:57.040Z",
-   "title": {
-    "ru": "Минздрав предложил разрешить врачам наблюдать пациентов с диабетом удалённо",
-    "en": "Health ministry proposes allowing doctors to monitor diabetes patients remotely",
-    "kk": "Денсаулық сақтау министрлігі дәрігерлерге диабеті бар пациенттерді қашықтан бақылауға рұқсат беруді ұсынды",
-    "de": "Gesundheitsministerium schlägt vor, Ärzten die Fernüberwachung von Diabetespatienten zu erlauben",
-    "es": "El Ministerio de Salud propone permitir a los médicos el seguimiento remoto de pacientes con diabetes"
-   },
-   "text": {
-    "ru": "Министерство здравоохранения предложило разрешить врачам дистанционно наблюдать пациентов с диабетом.",
-    "en": "Russia's Ministry of Health has proposed allowing doctors to monitor patients with diabetes remotely.",
-    "kk": "Ресей денсаулық сақтау министрлігі дәрігерлерге диабеті бар пациенттерді қашықтан бақылауға рұқсат беруді ұсынды.",
-    "de": "Das russische Gesundheitsministerium hat vorgeschlagen, dass Ärzte Diabetespatienten aus der Ferne betreuen dürfen.",
-    "es": "El Ministerio de Salud de Rusia ha propuesto permitir a los médicos supervisar a los pacientes con diabetes a distancia."
-   },
-   "url": "https://health.mail.ru/news/3955951-minzdrav-predlozhil-razreshit-vracham-nablyudat-pacientov-s-diabetom-udalenno/",
-   "src": "Здоровье Mail",
-   "photoQuery": "doctor video call patient",
-   "body": {
-    "ru": "Минздрав России выступил с инициативой: разрешить терапевтам удалённо отслеживать состояние людей, живущих с сахарным диабетом и артериальной гипертензией. Идея изложена в проекте приказа, размещённом на федеральном портале проектов нормативных правовых актов. Новость вышла 6 ноября 2026 года.\n\nСогласно проекту, медицинские организации смогут оснащать поликлиники устройствами, которые передают показатели здоровья пациентов на расстоянии. Число таких приборов будет определяться исходя из того, сколько людей нуждаются в дистанционном контроле. Документ также допускает оказание помощи с применением телемедицины, но её организация должна соответствовать приказу Минздрава № 193н от 11 апреля 2025 года.\n\nКроме того, ведомство предлагает норматив нагрузки для участковых терапевтов: один врач на 1,7 тысячи прикреплённых взрослых пациентов, а в сельской местности — один на 1,3 тысячи человек.\n\nВажно понимать, что это пока проект, а не действующее правило. В публикации не сказано, когда изменения могут вступить в силу и как именно будет организован дистанционный контроль. Материал также напоминает, что сведения носят справочный характер, самолечение недопустимо, а при первых признаках болезни нужно обращаться к врачу.",
-    "en": "The Russian Ministry of Health has proposed letting therapists keep track of people living with diabetes and high blood pressure from a distance. The idea appears in a draft order posted on the federal portal where draft legal acts are published. The report appeared on 6 November 2026.\n\nUnder the draft, clinics could equip polyclinics with devices that transmit patients' health data remotely. The number of devices would be set according to how many people need remote monitoring. The draft also allows care delivered through telemedicine, provided its organization follows the ministry's order No. 193n of 11 April 2025.\n\nThe ministry also suggests a workload benchmark for district therapists: one specialist per 1,700 adult patients assigned, or one per 1,300 in rural areas.\n\nThis remains a draft rather than a binding rule. The article does not say when the changes could take effect or how remote monitoring would work in practice. It also notes that the information is for reference only, that people should not self-medicate, and that they should see a doctor when first symptoms appear.",
-    "kk": "Ресей Денсаулық сақтау министрлігі терапевттерге қант диабеті және артериялық гипертензия бар науқастардың жай-күйін қашықтан бақылауға рұқсат беруді ұсынды. Бұл идея федералдық құқықтық актілер жобаларының порталында жарияланған бұйрық жобасында айтылған. Хабар 2026 жылғы 6 қарашада шықты.\n\nЖоба бойынша медициналық ұйымдар емханаларды науқастардың денсаулық көрсеткіштерін қашықтан беретін құрылғылармен жабдықтай алады. Құрылғылар санын қашықтан бақылауды қажет ететін адамдар санына қарай белгілейді. Жобада телемедицина арқылы көмек көрсетуге де жол берілген, бірақ оны ұйымдастыру министрліктің 2025 жылғы 11 сәуірдегі № 193н бұйрығына сай болуы керек.\n\nМинистрлік учаскелік терапевтерге жүктеме нормативін ұсынады: әр маманға тіркелген 1,7 мың ересек пациент, ауылдық жерде — 1,3 мың адамға бір дәрігер.\n\nБұл әлі ереже емес, жоба ғана. Мақалада өзгерістердің қашан күшіне енетіні және қашықтан бақылау іс жүзінде қалай ұйымдастырылатыны айтылмаған. Ақпарат анықтамалық сипатта екені, өзін-өзі емдеуге болмайтыны және белгілер пайда болғанда дәрігерге қаралу керектігі ескертілген.",
-    "de": "Das russische Gesundheitsministerium hat vorgeschlagen, dass Therapeutinnen und Therapeuten Menschen mit Diabetes und Bluthochdruck künftig aus der Ferne betreuen dürfen. Die Idee steht in einem Verordnungsentwurf, der auf dem föderalen Portal für Rechtsakt-Entwürfe veröffentlicht wurde. Der Bericht erschien am 6. November 2026.\n\nLaut Entwurf könnten medizinische Einrichtungen Polikliniken mit Geräten ausstatten, die Gesundheitsdaten von Patienten aus der Entfernung übermitteln. Wie viele Geräte nötig sind, soll sich danach richten, wie viele Menschen eine Fernüberwachung brauchen. Auch Telemedizin bleibt als Option vorgesehen; ihre Organisation muss der Verordnung Nr. 193n des Ministeriums vom 11. April 2025 folgen.\n\nAußerdem schlägt das Ministerium eine Personalvorgabe für Bezirkstherapeuten vor: ein Facharzt auf 1.700 erwachsene zugeordnete Patienten, auf dem Land ein Arzt auf 1.300 Menschen.\n\nDies ist bislang ein Entwurf und keine verbindliche Regel. Der Artikel nennt weder einen Zeitpunkt für das Inkrafttreten noch Details zur praktischen Umsetzung der Fernüberwachung. Die Informationen dienen nur als Hinweis; Selbstbehandlung ist nicht ratsam, bei ersten Anzeichen sollte man ärztlichen Rat einholen.",
-    "es": "El Ministerio de Salud de Rusia ha propuesto permitir que los terapeutas supervisen a distancia a los pacientes con diabetes y presión arterial alta. La idea figura en un proyecto de orden publicado en el portal federal de proyectos de actos normativos. La noticia apareció el 6 de noviembre de 2026.\n\nSegún el borrador, los centros médicos podrían equipar las policlínicas con dispositivos que transmiten a distancia los datos de salud de los pacientes. El número de aparatos se calcularía según cuántas personas necesiten control remoto. El texto también contempla la atención con telemedicina, siempre que su organización respete la orden del Ministerio n.º 193н, de 11 de abril de 2025.\n\nEl ministerio también plantea una norma de plantilla para los terapeutas de distrito: un especialista por cada 1.700 pacientes adultos asignados, y en zonas rurales, un médico por cada 1.300 personas.\n\nSe trata todavía de un proyecto, no de una norma vigente. El artículo no indica cuándo podrían entrar en vigor los cambios ni cómo se aplicaría en la práctica el seguimiento remoto. La información es solo orientativa, no debe usarse para automedicarse y, ante los primeros síntomas, conviene consultar a un médico."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Норматив участковых терапевтов (город)",
-      "en": "District therapist norm (urban)",
-      "kk": "Учаскелік терапевттің нормативі (қала)",
-      "de": "Personalvorgabe Bezirkstherapeuten (Stadt)",
-      "es": "Norma de terapeutas de distrito (ciudad)"
-     },
-     "v": {
-      "ru": "1 врач на 1,7 тыс. взрослых пациентов",
-      "en": "1 doctor per 1,700 adult patients",
-      "kk": "1 дәрігер — 1,7 мың ересек пациент",
-      "de": "1 Arzt je 1.700 erwachsene Patienten",
-      "es": "1 médico por cada 1.700 pacientes adultos"
-     }
-    },
-    {
-     "k": {
-      "ru": "Норматив участковых терапевтов (сельская местность)",
-      "en": "District therapist norm (rural)",
-      "kk": "Учаскелік терапевттің нормативі (ауыл)",
-      "de": "Personalvorgabe Bezirkstherapeuten (ländlich)",
-      "es": "Norma de terapeutas de distrito (rural)"
-     },
-     "v": {
-      "ru": "1 врач на 1,3 тыс. человек",
-      "en": "1 doctor per 1,300 people",
-      "kk": "1 дәрігер — 1,3 мың адам",
-      "de": "1 Arzt je 1.300 Menschen",
-      "es": "1 médico por cada 1.300 personas"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u_EVX9pt2dD1o",
-    "url": "https://images.unsplash.com/photo-1758691463620-188ca7c1a04f?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8ZG9jdG9yJTIwdmlkZW8lMjBjYWxsJTIwcGF0aWVudHxlbnwxfDB8fHwxNzk0MTQ2NTIyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-consulting-patient-via-video-call-on-laptop-EVX9pt2dD1o?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor consulting patient via video call on laptop"
-   }
-  },
-  {
    "id": "nGRSP29jPTU",
    "cat": "devices",
    "stage": "results",
@@ -2220,5 +2028,102 @@ const DIA_NEWS={
   "market": [],
   "events": [],
   "community": []
- }
+ },
+ "seen": [
+  "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
+  "отцу ребёнка с диабетом из уфы вернули деньги за инсулин после иска прокуратуры",
+  "father of a child with diabetes in ufa refunded for insulin after prosecutor s lawsuit",
+  "https://bioengineer.org/hospital-study-reveals-gaps-in-diabetic-foot-self-care-knowledge-in-ethiopia/",
+  "исследование в эфиопской больнице выявило пробелы в знаниях об уходе за стопой при диабете",
+  "ethiopian hospital study reveals gaps in diabetic foot self care knowledge",
+  "https://news-bash.ru/news/ottsu-rebyonka-s-diabetom-iz-ufy-vernuli-dengi-za-insulin-posle-iska-prokuratury/",
+  "ufa father of child with diabetes refunded for insulin after prosecutor s lawsuit",
+  "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
+  "онкология диабет и деменция названы главными болезнями связанными со старением",
+  "cancer diabetes and dementia named main age related diseases",
+  "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
+  "орловские врачи рассказали как распознать диабет у детей",
+  "oryol doctors explain how to recognize diabetes in children",
+  "https://bioengineer.org/study-tracks-us-deaths-listing-both-lung-cancer-and-diabetes-across-decades/",
+  "исследование в сша за десятилетия фиксировались смерти с указанием и рака лёгких и диабета",
+  "study tracks us deaths listing both lung cancer and diabetes across decades",
+  "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
+  "уход при диабетических осложнениях выходит за рамки глюкозы приоритет уязвимости органов",
+  "diabetes complication care expands beyond glucose to prioritise organ vulnerability",
+  "https://prospect.com.ru/news/7153433/minzdrav-predlogil-vvesti-distantsionnoe-nablyudenie-za-diabetom-i-gipertoniej.html",
+  "минздрав предложил ввести дистанционное наблюдение за диабетом и гипертонией",
+  "health ministry proposes remote monitoring for diabetes and hypertension",
+  "https://bioengineer.org/finnish-observational-study-finds-childhood-type-1-diabetes-fell-after-lockdown/",
+  "финское исследование заболеваемость диабетом 1 типа у детей снизилась после локдауна",
+  "finnish study finds childhood type 1 diabetes fell after lockdown",
+  "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
+  "российские вузы создают новые подходы к терапии сахарного диабета",
+  "russian universities develop new approaches to diabetes therapy",
+  "https://www.nmosktoday.ru/news/society/109515/",
+  "минздрав предложил разрешить дистанционное наблюдение пациентов с гипертонией и диабетом",
+  "health ministry proposes allowing remote monitoring of patients with hypertension and diabetes",
+  "https://baonghean.vn/nghe-an-cap-nhat-tien-bo-moi-trong-chan-doan-dieu-tri-benh-noi-tiet-dai-thao-duong-10355308.html",
+  "нге ан делится последними достижениями в диагностике и лечении эндокринных заболеваний и диабета",
+  "nghe an shares latest advances in diagnosing and treating endocrine diseases and diabetes",
+  "https://kuban.bfm.ru/news/64712",
+  "врачи кубани проведут бесплатные обследования для снижения риска диабета",
+  "kuban doctors to offer free examinations to reduce diabetes risk",
+  "https://www1.ru/news/2026/11/07/poliklinikam-mogut-razresit-distancionno-nabliudat-pacientov-s-diabetom.html",
+  "поликлиникам могут разрешить дистанционно наблюдать пациентов с диабетом",
+  "polyclinics may be allowed to monitor diabetes patients remotely",
+  "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/",
+  "снижение давления после инсульта и при диабете сложности в исследованиях и практике",
+  "lowering blood pressure after stroke or with diabetes poses challenges in research and practice",
+  "https://t-l.ru/411151.html",
+  "помогает ли датчик глюкозы похудеть мнение врача из тюмени",
+  "does a glucose sensor help with weight loss tyumen doctor explains",
+  "https://newsroom.heart.org/news/intensive-blood-pressure-therapy-did-not-cut-cardiovascular-events-in-adults-with-diabetes",
+  "интенсивная терапия давления не снизила число сердечно сосудистых событий у взрослых с диабетом",
+  "intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes",
+  "https://news.day.az/medicine/1869526.html",
+  "учёные изобрели способ выявлять сахарный диабет по голосу",
+  "scientists devised a way to detect diabetes by voice",
+  "https://news.day.az/gurmaniya/1869525.html",
+  "в красном мясе нашли молекулу сахара связанную с риском диабета",
+  "sugar molecule linked to diabetes risk found in red meat",
+  "https://www.bnkomi.ru/data/news/205446/",
+  "96 секунд на анализ в сыктывкарской поликлинике обновили оборудование для контроля сахарного диабета",
+  "96 seconds per test syktyvkar clinic updates diabetes monitoring equipment",
+  "https://megatyumen.ru/zdorovye/gadzhet-dlya-poxudeniya-tyumenskij-vrach-rasskazala-kak-rabotaet-nepreryvnyj-monitoring-glyukozy-i-pochemu-on-ne-zamenit-dietu/",
+  "как работает непрерывный мониторинг глюкозы и почему он не заменит диету",
+  "how continuous glucose monitoring works and why it won t replace diet",
+  "https://brief24.ru/krasnodar/2026/11/7/310643",
+  "на кубани с 9 по 15 ноября пройдет неделя профилактики сахарного диабета",
+  "diabetes prevention week to be held in kuban from 9 to 15 november",
+  "https://www.vesty.co.il/main/article/sj9lqka6fx",
+  "с 5 лет с диабетом кто болеет в израиле и как это лечат по новому",
+  "diabetes from age 5 who is affected in israel and how it is now treated",
+  "https://www.sechenov.ru/news/news/uchenye-sechenovskogo-universiteta-pokazali-effektivnost-ii-monitoringa-pri-diabete-/",
+  "ученые сеченовского университета показали эффективность ии мониторинга при диабете",
+  "sechenov university scientists show effectiveness of ai monitoring in diabetes",
+  "https://medvestnik.ru/content/articles/antipsihotiki-i-risk-diabeta-pervye-90-dnei-kritichny-dlya-monitoringa.html",
+  "антипсихотики и риск диабета первые 90 дней критичны для мониторинга",
+  "antipsychotics and diabetes risk first 90 days critical for monitoring",
+  "https://pharmmedprom.ru/news/molodye-lyudi-dostigli-remissii-diabeta-2-tipa-blagodarya-diete-i-fizkulture/",
+  "молодые люди достигли ремиссии диабета 2 типа благодаря диете и физкультуре",
+  "young people achieve remission of type 2 diabetes through diet and exercise",
+  "https://zamana.info/news/s-9-po-15-noyabrya-budet-prohodit-nedelya-borby-s-saharnym-diabetom",
+  "с 9 по 15 ноября в дагестане пройдёт неделя борьбы с сахарным диабетом",
+  "diabetes awareness week runs november 9 15 in dagestan",
+  "https://www.bankfax.ru/povestka/168284/",
+  "в алтайском минздраве заявили об отсутствии дефицита важного препарата для диабетиков",
+  "altai health ministry says there is no shortage of an important drug for diabetics",
+  "https://tvernews.ru/news/340081/",
+  "в твери отцу девочки с сахарным диабетом 1 типа передали необходимые расходные материалы",
+  "in tver the father of a girl with type 1 diabetes was given needed supplies",
+  "https://riac34.ru/news/230645/",
+  "эндокринолог минздрава рф подтвердила важность вакцинации от гриппа для пациентов с диабетом",
+  "endocrinologist confirms importance of flu vaccination for patients with diabetes",
+  "https://health.mail.ru/news/3955951-minzdrav-predlozhil-razreshit-vracham-nablyudat-pacientov-s-diabetom-udalenno/",
+  "минздрав предложил разрешить врачам наблюдать пациентов с диабетом удалённо",
+  "health ministry proposes allowing doctors to monitor diabetes patients remotely",
+  "https://zhukovsky.life/news/24120/",
+  "голосовой ии помощник улучшил состояние пациентов с диабетом",
+  "voice ai assistant improved condition of diabetes patients"
+ ]
 };

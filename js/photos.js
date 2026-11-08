@@ -4,7 +4,12 @@ const PH=(file,credit,license)=>({file,credit,license,link:"https://commons.wiki
 const MG=(img,page,credit)=>({url:"https://img.magnific.com/free-photo/"+img+".jpg?w=1200",credit:"Image by "+credit,license:"Magnific",link:"https://www.magnific.com/free-photo/"+page+".htm"});
 const SRC=p=>p.url||CM(p.file);
 const UP=(f,credit)=>({url:"assets/photos/"+f,credit,license:"Magnific",link:"https://www.magnific.com/"});
+const OWN=(f,alt)=>({url:"assets/photos/"+f,credit:"DIA news",license:"",link:"",alt});
 const STOCK={
+ own_cgm_woman:OWN("dia-cgm-phone-woman.jpg","Датчик глюкозы на плече и график в телефоне"),
+ own_cgm_man:OWN("dia-cgm-phone-man.jpg","Мужчина с датчиком глюкозы смотрит данные в телефоне"),
+ own_lab:OWN("dia-research-lab.jpg","Исследователи в лаборатории изучают данные мониторинга глюкозы"),
+ own_group:OWN("dia-community-group.jpg","Люди с датчиками глюкозы общаются за столом"),
  up_patch1:UP("glucose-patch-sensor.jpg","Image by Magnific"),
  up_patch2:UP("glucose-patch-sensor.jpg","Image by Magnific"),
  up_person:UP("glucose-level-check.jpg","Image by Magnific"),
@@ -31,12 +36,12 @@ const STOCK={
  walk:PH("Participants of a walk against Diabetes and for general fitness around Nauru airport.jpg","Lorrie Graham / AusAID","CC BY 2.0"),
  run:PH("World Diabetes Day Fun Run in Maldives (150).jpg","The President's Office, Maldives",""),
 };
-const CAT_PHOTOS={devices:["up_patch1","up_patch2","libre7","mg_person1","cgm14","libre5","pump780","libre2"],drugs:["up_person","mg_person2","pen1","pen3","mg_woman2"],access:["mg_doctor","mg_woman2","doc3"],approval:["mg_doctor","doc1","doc4","libre3app"],research:["lab1","lab2","doc5"],market:["up_patch2","libre3app","pump780","libre2"],events:["run","walk"],community:["walk","run","mg_woman2"]}
+const CAT_PHOTOS={devices:["own_cgm_woman","own_cgm_man","up_patch1","libre7","mg_person1","cgm14","libre5","pump780","libre2"],drugs:["up_person","mg_person2","pen1","pen3","mg_woman2"],access:["mg_doctor","mg_woman2","doc3"],approval:["mg_doctor","doc1","doc4","libre3app"],research:["own_lab","lab1","lab2","doc5"],market:["up_patch2","libre3app","pump780","libre2"],events:["own_group","run","walk"],community:["own_group","walk","run","mg_woman2"]}
 /* Pexels pool from data/news.js (refreshed by the daily script): when present it replaces the old Commons/Magnific photos */
 ;(()=>{const pp=typeof DIA_NEWS!=="undefined"&&DIA_NEWS.photoPool;if(!pp)return;
   for(const c of Object.keys(CAT_PHOTOS)){const list=Array.isArray(pp[c])?pp[c]:[];if(list.length<3)continue;
     const keys=list.map(ph=>{const k="px_"+ph.id;STOCK[k]={url:ph.url,credit:ph.credit,license:ph.license||"Pexels",link:ph.link};return k});
-    const own=CAT_PHOTOS[c].filter(k=>k.startsWith("up_"));CAT_PHOTOS[c]=keys.concat(own)}
+    const own=CAT_PHOTOS[c].filter(k=>k.startsWith("up_")||k.startsWith("own_"));CAT_PHOTOS[c]=own.filter(k=>k.startsWith("own_")).concat(keys,own.filter(k=>k.startsWith("up_")))}
 })();
 const POOL=[...new Set(Object.values(CAT_PHOTOS).flat())];let PHOTO_MAP=new Map(),PHOTO_SIG="";
 /* each built-in photo at most once on the page (and never one a story already uses as its own);
