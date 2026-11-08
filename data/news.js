@@ -5,8 +5,284 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-07T03:02:36.536Z",
+ "updated": "2026-11-08T03:03:37.668Z",
  "items": [
+  {
+   "id": "nU1E_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "Интенсивная терапия давления не снизила число сердечно-сосудистых событий у взрослых с диабетом",
+    "en": "Intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes",
+    "kk": "Диабеті бар ересектерде қан қысымын қарқынды емдеу жүрек-қан тамырлары оқиғаларын азайтқан жоқ",
+    "de": "Intensive Blutdrucktherapie senkte kardiovaskuläre Ereignisse bei Erwachsenen mit Diabetes nicht",
+    "es": "El tratamiento intensivo de la presión arterial no redujo los eventos cardiovasculares en adultos con diabetes"
+   },
+   "text": {
+    "ru": "Исследование показало, что интенсивная терапия артериального давления не уменьшила число сердечно-сосудистых событий у взрослых с диабетом.",
+    "en": "A study found that intensive blood pressure therapy did not reduce cardiovascular events in adults with diabetes.",
+    "kk": "Зерттеу қарқынды артериалды қысым емі диабеті бар ересектерде жүрек-қан тамырлары оқиғаларының санын азайтпағанын көрсетті.",
+    "de": "Eine Studie ergab, dass eine intensive Blutdrucktherapie die kardiovaskulären Ereignisse bei Erwachsenen mit Diabetes nicht verringerte.",
+    "es": "Un estudio encontró que el tratamiento intensivo de la presión arterial no redujo los eventos cardiovasculares en adultos con diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHNpM2VTcmdYbC0taGpjRFJFYnJZdFl2N2lNX2llTXdQT0dJcUlzc3JpTkNCOXhJQnZBdkY0djRFb0JmMVgtbFUzLTRQNktDQnZmclB2VmZoa0oteC1DaHJtcTJrMXlGVEdNRUpXRG1HYW1lZ1gwWHl3dWFISEpiampQalo5aWVJYXl6QkdCN2lkQ09QYUtxalR2Y2pMd1RXRkZTcGtxSzRtcVVBa3pDaWhsdmhYcEFLZjFzd1ZSSQ?oc=5",
+   "src": "www.heart.org"
+  },
+  {
+   "id": "nnRCP29jPTU",
+   "cat": "research",
+   "stage": "early",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "Учёные изобрели способ выявлять сахарный диабет по голосу",
+    "en": "Scientists devised a way to detect diabetes by voice",
+    "kk": "Ғалымдар дауыс арқылы қант диабетін анықтау тәсілін ойлап тапты",
+    "de": "Forscher entwickeln eine Methode zur Diabeteserkennung über die Stimme",
+    "es": "Científicos desarrollan un método para detectar la diabetes por la voz"
+   },
+   "text": {
+    "ru": "Исследователи предложили подход к выявлению сахарного диабета по голосу. Подробности в исходной публикации.",
+    "en": "Researchers proposed an approach to identify diabetes from a person's voice. Further details are in the original report.",
+    "kk": "Зерттеушілер адамның дауысы бойынша қант диабетін анықтау тәсілін ұсынды.",
+    "de": "Forscher schlugen einen Ansatz vor, Diabetes anhand der Stimme zu erkennen.",
+    "es": "Investigadores propusieron un enfoque para identificar la diabetes a partir de la voz."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tMHRZbnlFU01vZzBfTVJBNlJNcXlITXBfZG1pbW5fX0dvdURkWU1fdEQxUzZJd0ZWdzZnNkdBSms5TmtZOGNfeW1FUDVPdEl2c2tB?oc=5",
+   "src": "Day.Az"
+  },
+  {
+   "id": "nUnc_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "В красном мясе нашли молекулу сахара, связанную с риском диабета",
+    "en": "Sugar molecule linked to diabetes risk found in red meat",
+    "kk": "Қызыл етте диабет қаупімен байланысты қант молекуласы табылды",
+    "de": "Zuckermolekül mit Diabetesrisiko in rotem Fleisch gefunden",
+    "es": "Hallan en la carne roja una molécula de azúcar asociada al riesgo de diabetes"
+   },
+   "text": {
+    "ru": "Обнаружена молекула сахара в красном мясе, которую связывают с риском развития диабета.",
+    "en": "A sugar molecule found in red meat has been associated with diabetes risk.",
+    "kk": "Қызыл етте табылған қант молекуласы диабет даму қаупімен байланыстырылады.",
+    "de": "Ein in rotem Fleisch gefundenes Zuckermolekül wird mit dem Diabetesrisiko in Verbindung gebracht.",
+    "es": "Una molécula de azúcar hallada en la carne roja se ha asociado con el riesgo de diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6dndORU45dFFkMkZzeUxncVhENVdrbVZOTlZmWVNCUXduT0R0dklOb3RsNlc0ZDJuWnBPU2dVWnFiQjhZRXJYNHRVSFc2b2VtOURORw?oc=5",
+   "src": "Day.Az"
+  },
+  {
+   "id": "nZNUT9vYz01",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "Минздрав предложил ввести дистанционное наблюдение за пациентами с диабетом и гипертонией",
+    "en": "Ministry of Health proposes remote monitoring of diabetes and hypertension patients",
+    "kk": "Денсаулық сақтау министрлігі диабет пен гипертониясы бар пациенттерді қашықтан бақылауды енгізуді ұсынды",
+    "de": "Gesundheitsministerium schlägt Fernüberwachung von Diabetes- und Hypertoniepatienten vor",
+    "es": "El Ministerio de Salud propone introducir el seguimiento remoto de pacientes con diabetes e hipertensión"
+   },
+   "text": {
+    "ru": "Предлагается разрешить поликлиникам дистанционно наблюдать пациентов с диабетом и повышенным давлением.",
+    "en": "It is proposed to allow clinics to monitor patients with diabetes and high blood pressure remotely.",
+    "kk": "Емханаларға диабеті және жоғары қан қысымы бар пациенттерді қашықтан бақылауға рұқсат беру ұсынылады.",
+    "de": "Vorgeschlagen wird, Kliniken die Fernüberwachung von Patienten mit Diabetes und Bluthochdruck zu erlauben.",
+    "es": "Se propone permitir que las clínicas supervisen a distancia a pacientes con diabetes y presión alta."
+   },
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWVFqcDl3aUZrNkxFZS1HcFU2WHJ5T3hqQVFnbTVCRUpuVW9HcFRjenVZbmNsOFk0Yjh6WXdHbk1wdDJ5NWVJQjhGZVVfRUNHRk1pRFFaVWh2RTd0cVg2aDU0Nl9kVm9halJVQ3UwY3YtZEUzQi1SZXdPeVlGZkZRUV9GWEV0M0xTbVpya0VZQVN3d2hTYktEQkFnZHA1TE96LXplUnBOZUhNYzV3d0pmZ2cwOTBaSXluU2Z6MQ?oc=5",
+   "src": "prospect.com.ru"
+  },
+  {
+   "id": "naE4_b2M9NQ",
+   "cat": "devices",
+   "stage": "launch",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "96 секунд на анализ: в сыктывкарской поликлинике обновили оборудование для контроля сахарного диабета",
+    "en": "96 seconds per test: Syktyvkar clinic updates diabetes monitoring equipment",
+    "kk": "Талдауға 96 секунд: Сыктывкар емханасында қант диабетін бақылау жабдығы жаңартылды",
+    "de": "96 Sekunden pro Analyse: Klinik in Syktywkar aktualisiert Geräte zur Diabeteskontrolle",
+    "es": "96 segundos por análisis: una clínica de Syktyvkar actualiza su equipo para el control de la diabetes"
+   },
+   "text": {
+    "ru": "В сыктывкарской поликлинике обновили оборудование для контроля сахарного диабета; анализ занимает 96 секунд.",
+    "en": "A Syktyvkar polyclinic has updated its diabetes control equipment; an analysis takes 96 seconds.",
+    "kk": "Сыктывкар емханасы қант диабетін бақылау жабдығын жаңартты; талдау 96 секундқа созылады.",
+    "de": "Eine Poliklinik in Syktywkar hat ihre Geräte zur Diabeteskontrolle erneuert; eine Analyse dauert 96 Sekunden.",
+    "es": "Una policlínica de Syktyvkar actualizó su equipo para controlar la diabetes; un análisis tarda 96 segundos."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40QnlmTFNOMVh2ZndWa0NvV1ZKT2VqOGJBaW02a3lEcm5nVF9kZlZUQV80Vm00a2tiR1V1YWdLcXV4QWoyMlJhU2h3SU9uYThN?oc=5",
+   "src": "Bnkomi.ru"
+  },
+  {
+   "id": "nk9BP29jPTU",
+   "cat": "devices",
+   "stage": "report",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "Как работает непрерывный мониторинг глюкозы и почему он не заменит диету",
+    "en": "How continuous glucose monitoring works and why it won't replace diet",
+    "kk": "Үздіксіз глюкоза мониторингі қалай жұмыс істейді және ол неге диетаны алмастырмайды",
+    "de": "Wie die kontinuierliche Glukosemessung funktioniert und warum sie die Ernährung nicht ersetzt",
+    "es": "Cómo funciona la monitorización continua de glucosa y por qué no sustituye a la dieta"
+   },
+   "text": {
+    "ru": "Материал объясняет принцип работы непрерывного мониторинга глюкозы и подчёркивает, что он не заменяет диету.",
+    "en": "An explainer on how continuous glucose monitoring works and why it does not replace diet.",
+    "kk": "Материалда үздіксіз глюкоза мониторингінің жұмыс принципі түсіндіріліп, ол диетаны алмастырмайтыны атап өтіледі.",
+    "de": "Der Beitrag erklärt, wie die kontinuierliche Glukosemessung funktioniert, und betont, dass sie die Ernährung nicht ersetzt.",
+    "es": "El artículo explica cómo funciona la monitorización continua de glucosa y subraya que no reemplaza la dieta."
+   },
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNzNDTjZBQTlXb0IteFRROFVlenRiVnlkUDhPbVMtTzNrZ0pBZERUcWtOQjZPVEtjQ1hySGVSbjY2TkhoUndxOTZLeEs5c2NMeXJrbEZLZlF1aUZRNGc2RlFuZ19qTFd5RlQ5MnM3dFJKaTdFek5selBSd1J1a1J1SnUwNVBSMmU1N3NINFdnYXVIMk44enBCYkhaVTFXTGhxNlE3em9hRUdCdzhJUWdrRUJyTmpGX0hSZDduQmYyQ0I1NS01RS1nTE9LVUtOWTFpMk1XcUtlOTZpWmJadnlwWUIxckU4RkV5aXpGSjZfOA?oc=5",
+   "src": "МегаТюмень"
+  },
+  {
+   "id": "n5Wbz9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "На Кубани с 9 по 15 ноября пройдет неделя профилактики сахарного диабета",
+    "en": "Diabetes prevention week to be held in Kuban from 9 to 15 November",
+    "kk": "Кубаньда 9-нан 15 қарашаға дейін қант диабетінің алдын алу аптасы өтеді",
+    "de": "In der Region Kuban findet vom 9. bis 15. November eine Woche der Diabetesprävention statt",
+    "es": "En Kubán se celebrará del 9 al 15 de noviembre una semana de prevención de la diabetes"
+   },
+   "text": {
+    "ru": "В Краснодарском крае пройдет неделя профилактики сахарного диабета.",
+    "en": "A diabetes prevention week will take place in the Krasnodar Krai region.",
+    "kk": "Краснодар өлкесінде қант диабетінің алдын алу аптасы өтеді.",
+    "de": "In der Region Krasnodar findet eine Woche zur Diabetesprävention statt.",
+    "es": "En el krai de Krasnodar se celebrará una semana de prevención de la diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZFpMdTJXRmVhRkR2NEZMemIxaDRCNFVYYzBYb3JKbjZ6UXF0MDE4d1pSTnc2MFFiVTRDUXRxMm9oTW9razgyLVMyVDVZQmw2ZGd0Ti1JNVo?oc=5",
+   "src": "Бриф24"
+  },
+  {
+   "id": "nMVU_b2M9NQ",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-07",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "С 5 лет с диабетом: кто болеет в Израиле и как это лечат по-новому",
+    "en": "Diabetes from age 5: who is affected in Israel and how it is now treated",
+    "kk": "5 жастан бастап диабет: Израильде кімдер ауырады және оны қалай жаңаша емдейді",
+    "de": "Diabetes ab 5 Jahren: Wer in Israel betroffen ist und wie heute behandelt wird",
+    "es": "Diabetes desde los 5 años: quién la padece en Israel y cómo se trata ahora"
+   },
+   "text": {
+    "ru": "Материал рассказывает о том, кто страдает диабетом в Израиле, начиная с 5 лет, и о новых подходах к лечению.",
+    "en": "An article looks at who in Israel has diabetes, starting from age 5, and at newer approaches to treatment.",
+    "kk": "Материалда Израильде 5 жастан бастап диабетпен кім ауыратыны және емдеудің жаңа тәсілдері туралы айтылады.",
+    "de": "Der Artikel beschreibt, wer in Israel ab 5 Jahren an Diabetes erkrankt, und neue Behandlungsansätze.",
+    "es": "El artículo describe quién en Israel padece diabetes desde los 5 años y los nuevos enfoques de tratamiento."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Zc3hsSlpyQXJTeFdSaGpaNHgycjRUQ0JwRnNQcEJFUnJYWmtUMXhNemdaQ002UzZFbEp3ZEdFNi0xdGF0djE2THRRWjdWZ1REWUtfSlEtSGduQ1U?oc=5",
+   "src": "Vesty.co.il"
+  },
+  {
+   "id": "nBRUT9vYz01",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-06",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "Молодые люди добились ремиссии диабета 2 типа благодаря диете и физкультуре",
+    "en": "Young people achieved remission of type 2 diabetes through diet and exercise",
+    "kk": "Жас адамдар диета мен дене жаттығуының арқасында 2 типті диабеттің ремиссиясына жетті",
+    "de": "Junge Menschen erreichten durch Ernährung und Bewegung eine Remission von Typ-2-Diabetes",
+    "es": "Jóvenes lograron la remisión de la diabetes tipo 2 gracias a la dieta y el ejercicio"
+   },
+   "text": {
+    "ru": "Сообщается, что у молодых людей с диабетом 2 типа наступила ремиссия благодаря изменению питания и физической активности.",
+    "en": "Reports say young people with type 2 diabetes went into remission through changes in diet and physical activity.",
+    "kk": "Хабарлауынша, 2 типті диабеті бар жас адамдар тамақтану мен дене белсенділігін өзгерту арқасында ремиссияға өтken.",
+    "de": "Berichten zufolge trat bei jungen Menschen mit Typ-2-Diabetes durch Ernährungs- und Bewegungsumstellung eine Remission ein.",
+    "es": "Según los informes, jóvenes con diabetes tipo 2 entraron en remisión gracias a cambios en la alimentación y la actividad física."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnFaYlZ0SnVoNk9DMk9oLWpFUHIxeDRDZXc3VjBhMlZDZk9CcE83NEZhWU1VZTVJYVluQnBaTlJQdlpJbWtWY3dfamhBT2QtX01oemVQSFIyS04xaHlqQ1RBLVliTDVRWGJFVUFZU2VYUTBvNlhyMDdpeDdNczlCMk5OTWYwNmFjcHRMM19LOWRrVEdPSmFoNDZLYmIwQ1BPcXU0SHFDRENpQQ?oc=5",
+   "src": "ФармМедПром"
+  },
+  {
+   "id": "nQk4_b2M9NQ",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-06",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "В Твери отцу девочки с сахарным диабетом 1 типа передали необходимые расходники",
+    "en": "In Tver, the father of a girl with type 1 diabetes received necessary supplies",
+    "kk": "Тверьде 1 типті диабеті бар қыздың әкесіне қажетті шығыс материалдары берілді",
+    "de": "In Twer erhielt der Vater eines Mädchens mit Typ-1-Diabetes benötigte Verbrauchsmaterialien",
+    "es": "En Tver, el padre de una niña con diabetes tipo 1 recibió los suministros necesarios"
+   },
+   "text": {
+    "ru": "Отцу девочки с сахарным диабетом 1 типа в Твери передали необходимые расходные материалы.",
+    "en": "In Tver, the father of a girl with type 1 diabetes was handed the consumables she needs.",
+    "kk": "Тверьде 1 типті диабеті бар қыздың әкесіне қыздың қажетті шығыс материалдары тапсырылды.",
+    "de": "In Twer wurden dem Vater eines Mädchens mit Typ-1-Diabetes die benötigten Verbrauchsmaterialien übergeben.",
+    "es": "En Tver, al padre de una niña con diabetes tipo 1 se le entregaron los suministros necesarios."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2NFFTN1Flb1pUSjB0MkRXa3pJYkIybFdNeVpiRVBocllCSkpkeW9lV1NmMDlXLThZWFVlRFh2ODYwMzhGTlBN?oc=5",
+   "src": "TverNews"
+  },
+  {
+   "id": "n4wVT9vYz01",
+   "cat": "access",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "Доставка специального питания при диабете: результаты",
+    "en": "Delivery of special diabetes nutrition: results",
+    "kk": "Диабетке арналған арнайы тамақтарды жеткізу: нәтижелер",
+    "de": "Lieferung spezieller Diabetesernährung: Ergebnisse",
+    "es": "Entrega de alimentación especial para la diabetes: resultados"
+   },
+   "text": {
+    "ru": "Приведены итоги программы доставки специального питания для людей с диабетом.",
+    "en": "Results of a programme delivering special nutrition for people with diabetes are presented.",
+    "kk": "Диабеті бар адамдарға арнайы тамақ жеткізу бағдарламасының нәтижелері берілген.",
+    "de": "Es werden die Ergebnisse eines Programms zur Lieferung spezieller Ernährung für Menschen mit Diabetes vorgestellt.",
+    "es": "Se presentan los resultados de un programa de entrega de alimentación especial para personas con diabetes."
+   },
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUtQRWJPS0gtdmdUVG93LWx4cWEwUFc4c1BPd0xYWFFKV0RjYjk3TXVtVS04YVJkUThrMEhKczJRRldnWm5vMkxGcFVONlByekNZTUxCdzE5VEw3UmljanFGWlBRMGZjZGpQVTVvT1VVV1EzWTdzcWJYRHRGbnNqaklsNXpKT0k1QTRydWlKNEx6SnF1STFKaXluTUNrdVFkaUtwUkp2Q2dWaXRqS1HSAbMBQVVfeXFMTjFZXzBQYUlOQ1VYeDh6c1NqazFySXRER3VTM3p1Tkh3eUNwRHctUldqMFJGVFUtRHhYT1ktOVFiblZJOHlwZUhxZ2lka3dGTDA5T2ZaeWJ0UG0tekxtbXZfNkI3Zkk1eGh6WEFPUThSZDFzSk9mTUQycUk3MmtTQ0tfb2hrU2NUN3ZiWnVtNmJ5SlBHVWV3azV5RGhXOFFMaTNyUzJHR29PT3ZWcjI2cW1HN0U?oc=5",
+   "src": "socportal.info"
+  },
+  {
+   "id": "nlozP29jPTU",
+   "cat": "community",
+   "stage": "report",
+   "date": "2026-11-06",
+   "added": "2026-11-08T03:03:37.668Z",
+   "title": {
+    "ru": "Число больных сахарным диабетом в Кыргызстане продолжает увеличиваться",
+    "en": "Number of people with diabetes in Kyrgyzstan continues to grow",
+    "kk": "Қырғызстанда қант диабетімен ауыратындар саны артуда",
+    "de": "Zahl der Diabetiker in Kirgisistan steigt weiter",
+    "es": "El número de personas con diabetes en Kirguistán sigue aumentando"
+   },
+   "text": {
+    "ru": "Количество людей с сахарным диабетом в Кыргызстане продолжает расти.",
+    "en": "The number of people with diabetes in Kyrgyzstan keeps rising.",
+    "kk": "Қырғызстанда қант диабетімен ауыратын адамдардың саны өсуде.",
+    "de": "Die Zahl der Menschen mit Diabetes in Kirgisistan steigt weiter.",
+    "es": "El número de personas con diabetes en Kirguistán sigue creciendo."
+   },
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMXY2N0FQVXpTNGc2aVZ0dG84VVUyRUZOeW5wa09lRUQ0OE4wRUR2Vlpmb0x0dzQ1MnhFLVZNMlBnOUlmcGlYS1UwQlR1ejBMc3JCVVVGZ2xLWkgzdlhyTE1xMzJBOWhKV3JXUzJHZlhaZS1tam9ZQ1g5UHdTeTB2UEpFZzJzRGFiN291SS1NYUlseHBOdllybnZ3?oc=5",
+   "src": "24.KG"
+  },
   {
    "id": "nVGs_b2M9NQ",
    "cat": "access",
