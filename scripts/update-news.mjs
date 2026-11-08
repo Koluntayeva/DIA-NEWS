@@ -187,6 +187,48 @@ async function callAI(prompt) {
   return null;
 }
 
+/* ---------- Google News links -> the original article address ---------- */
+async function resolveGoogleNews(url) {
+  if (!/news\.google\.com\/(rss\/)?articles\//.test(url)) return url;
+  const id = url.split("/articles/")[1].split("?")[0];
+  // old-style ids carry the address inside the base64 payload
+  try {
+    const raw = Buffer.from(id.replace(/-/g, "+").replace(/_/g, "/"), "base64").toString("latin1");
+    const m = raw.match(/https?:\/\/[\x21-\x7e]+/);
+    if (m && !raw.includes("AU_yqL")) return m[0];
+  } catch (e) {}
+  // new-style ids: ask Google News for the address (the same call its own redirect page makes)
+  try {
+    const ua = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36" };
+    const page = await (await fetch(`https://news.google.com/articles/${id}`, { headers: ua, signal: AbortSignal.timeout(15000) })).text();
+    const sg = (page.match(/data-n-a-sg="([^"]+)"/) || [])[1], ts = (page.match(/data-n-a-ts="([^"]+)"/) || [])[1];
+    if (!sg || !ts) return url;
+    const req = [[["Fbv4je", `["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],"${id}",${ts},"${sg}"]`, null, "generic"]]];
+    const r = await fetch("https://news.google.com/_/DotsSplashUi/data/batchexecute", {
+      method: "POST", headers: { ...ua, "content-type": "application/x-www-form-urlencoded;charset=UTF-8" },
+      body: "f.req=" + encodeURIComponent(JSON.stringify(req)), signal: AbortSignal.timeout(15000),
+    });
+    const text = await r.text();
+    // reply: )]}'  then lines of JSON; the "Fbv4je" entry holds a JSON string ["garturlres","<address>",...]
+    for (const line of text.split("\n")) {
+      if (!line.includes("garturlres")) continue;
+      try {
+        for (const row of JSON.parse(line)) if (row[1] === "Fbv4je" && row[2]) { const inner = JSON.parse(row[2]); if (/^https?:\/\//.test(inner[1])) return inner[1]; }
+      } catch (e) {}
+    }
+  } catch (e) { log("Google News link:", e.message); }
+  return url;
+}
+async function resolveAll(items) {
+  let n = 0;
+  for (const it of items) {
+    if (!it.url.includes("news.google.")) continue;
+    const real = await resolveGoogleNews(it.url);
+    if (real !== it.url) { it.url = real; n++; if (it.bodyTried && !it.body) { delete it.bodyTried; } }
+  }
+  log(`Google News links resolved: ${n}`);
+}
+
 /* ---------- full text: the AI reads the source article and retells it ---------- */
 const MAX_BODIES = Number(process.env.MAX_BODIES || 14); // articles read per run (cost control)
 async function writeBody(it) {
@@ -434,6 +476,7 @@ if (PHOTO_ON) {
   log(`photo API calls left this hour: ${budget}${rateLimited ? " (rate limited)" : ""}`);
 } else log("no UNSPLASH_ACCESS_KEY / PEXELS_API_KEY: stories use the site's built-in photos");
 
+await resolveAll(items);
 const bodiesAdded = await addBodies(items);
 // the same article reached via two feeds: keep the newer copy (with a photo/full text if only one has it)
 {
