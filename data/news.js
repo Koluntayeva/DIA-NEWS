@@ -7,8 +7,302 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-09T09:44:35.768Z",
+ "updated": "2026-11-09T10:50:10.606Z",
  "items": [
+  {
+   "id": "nXBuP29jPTU",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-09",
+   "added": "2026-11-09T10:50:10.606Z",
+   "title": {
+    "ru": "Ученые предупредили о последствиях слишком строгого контроля уровня сахара при диабете",
+    "en": "Scientists warn of risks from overly strict blood sugar control in diabetes",
+    "kk": "Ғалымдар диабетте қант деңгейін тым қатаң бақылаудың салдары туралы ескертті",
+    "de": "Forscher warnen vor Folgen einer zu strengen Blutzuckerkontrolle bei Diabetes",
+    "es": "Científicos advierten de los efectos de un control de la glucemia demasiado estricto en la diabetes"
+   },
+   "text": {
+    "ru": "Исследователи обратили внимание на возможные последствия излишне жёсткого контроля глюкозы у людей с диабетом.",
+    "en": "Researchers highlight possible consequences of overly tight glucose control in people with diabetes.",
+    "kk": "Зерттеушілер диабеті бар адамдарда глюкозаны тым қатаң бақылаудың ықтимал салдарына назар аударды.",
+    "de": "Forschende weisen auf mögliche Folgen einer übermäßig strengen Glukosekontrolle bei Menschen mit Diabetes hin.",
+    "es": "Los investigadores señalan las posibles consecuencias de un control de la glucosa excesivamente estricto en personas con diabetes."
+   },
+   "url": "https://news.day.az/medicine/1869534.html",
+   "src": "Day.Az",
+   "photoQuery": "blood glucose meter",
+   "photo": {
+    "id": "u_pqtd9ZB_NR8",
+    "url": "https://images.unsplash.com/photo-1683028866998-dd7aed8c4980?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTR8fGJsb29kJTIwZ2x1Y29zZSUyMG1ldGVyfGVufDF8MHx8fDE3OTQyMjE0MTF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-looks-at-high-blood-glucose-results-on-smart-phone-pqtd9ZB_NR8?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person looks at high blood glucose results on smart phone"
+   },
+   "body": {
+    "ru": "Немецкие исследователи предположили, что стремление держать сахар в крови идеально ровным может иметь и побочный эффект. По данным исследования PRO-MENTAL, которое провел институт FIDAM из Германии, люди с диабетом чувствовали себя лучше в дни, когда уровень глюкозы сильнее колебался, но не выходил за безопасные рамки. Информацию передал Day.Az со ссылкой на Gazeta.ru.\n\nГруппа под руководством профессора Доминика Эрманна две недели сравнивала показатели непрерывного мониторинга глюкозы с ежедневными оценками самочувствия. В исследовании участвовали 400 пациентов: 72% с диабетом первого типа и 28% со вторым, средний возраст составил 47 лет. Каждый день участники отмечали, как они себя чувствуют, а датчики в это время фиксировали уровень сахара.\n\nОжидаемо, больше времени в диапазоне 70–140 мг/дл предсказывало лучшее самочувствие на следующий день. Неожиданным стало то, что большая вариабельность глюкозы, пока она оставалась в безопасных границах, также совпадала с лучшим самочувствием, сном и уровнем энергии.\n\nАвторы осторожны в выводах: постоянные усилия и ограничения, нужные для подавления любых колебаний, сами по себе могут снижать радость повседневной жизни. Они подчеркивают, что это не призыв отказаться от контроля глюкозы, который по-прежнему важен, а наблюдение, которое показывает связь, но не доказывает причину, и опирается на субъективные оценки.\n\nСовременные системы мониторинга все чаще ориентируют пациентов на максимальное «время в целевом диапазоне». Новые данные не отменяют этот показатель, но добавляют к нему качество жизни. Авторы призывают врачей учитывать психологическую нагрузку от постоянного страха скачков сахара и строгих ограничений в питании и режиме.",
+    "en": "Researchers in Germany suggest that trying to keep blood sugar perfectly flat may carry a downside. In the PRO-MENTAL study, carried out by the German institute FIDAM, people with diabetes reported feeling better on days when their glucose moved more widely, as long as it stayed within safe limits. The report was relayed by Day.Az, citing Gazeta.ru.\n\nA team led by Professor Dominik Ermann compared two weeks of continuous glucose monitoring data with daily self-ratings of well-being. The sample included 400 patients: 72% with type 1 diabetes and 28% with type 2, with an average age of 47. Each day, participants recorded how they felt, while sensors tracked their glucose levels.\n\nAs expected, more time within the 70–140 mg/dL range predicted better well-being the next day. The unexpected finding was that greater glucose variability, as long as it did not leave safe boundaries, also went along with better feeling, better sleep and higher energy levels.\n\nThe authors interpret the results cautiously: the constant effort and restrictions needed to suppress every fluctuation may themselves reduce enjoyment of daily life. They stress that this is not a call to abandon glucose control, which remains important. The study shows an association rather than a cause, and it relies on subjective ratings.\n\nModern monitoring systems increasingly steer patients toward maximizing \"time in target range.\" The new data do not cancel this measure, but they add a quality-of-life dimension to it. The authors urge doctors to consider the psychological burden of constant fear of glucose spikes and strict limits on diet and routine.",
+    "kk": "Герман зерттеушілері қандағы қантты мүлде тегіс ұстауға тырысудың кері әсері болуы мүмкін деп болжайды. Германиялық FIDAM институтының жүргізген PRO-MENTAL зерттеуінде глюкоза деңгейі кең ауытқыған, бірақ қауіпсіз шектен шықпаған күндері диабеті бар адамдар өздерін жақсырақ сезінгенін айтқан. Бұл деректерді Day.Az, Gazeta.ru сілтемесімен таратты.\n\nПрофессор Доминик Эрманның басшылығындағы топ екі апта бойы үздіксіз глюкоза мониторингінің деректерін күнделікті әл-ауқатты бағалаумен салыстырды. Зерттеуге 400 пациент қатысты: олардың 72%-ында 1-типті, 28%-ында 2-типті диабет болған, орташа жасы 47. Қатысушылар күн сайын өздерінің жағдайын жазып отырды, ал датчиктер қант деңгейін тіркеді.\n\nКүтілгендей, 70–140 мг/дл диапазонында өткізілген уақыттың көбеюі келесі күнгі жақсы әл-ауқатпен байланысты болды. Күтпеген нәтиже: қауіпсіз шекара ішінде қалған глюкозаның үлкен ауытқуы да жақсы сезіммен, жақсырақ ұйқымен және жоғары энергиямен қатар жүрді.\n\nАвторлар нәтижені сақтықпен түсіндіреді: әр ауытқуды басуға қажет тұрақты күш-жігер мен шектеулер өздігінен күнделікті өмірдің қуанышын азайтуы мүмкін. Олар бұл глюкозаны бақылаудан бас тарту шақырығы емес, ал оның маңызы сақталып қалатынын атап өтеді. Зерттеу байланысты көрсетеді, себепті емес, және субъективті бағаларға сүйенеді.\n\nҚазіргі мониторинг жүйелері пациенттерді «мақсатты диапазондағы уақыт» көрсеткішін барынша арттыруға бағыттауда. Жаңа деректер бұл көрсеткішті жоққа шығармайды, бірақ оған өмір сапасы өлшемін қосады. Авторлар дәрігерлерді қант секіруінен тұрақты қорқыныштың және тамақтану мен күн тәртібіндегі қатаң шектеулердің психологиялық ауыртпалығын ескеруге шақырады.",
+    "de": "Forschende aus Deutschland legen nahe, dass der Versuch, den Blutzucker möglichst gleichmäßig zu halten, auch Nachteile haben kann. In der PRO-MENTAL-Studie, die vom deutschen Institut FIDAM durchgeführt wurde, berichteten Menschen mit Diabetes, dass es ihnen an Tagen besser ging, an denen ihr Glukosewert stärker schwankte, solange er in sicheren Grenzen blieb. Die Meldung verbreitete Day.Az unter Berufung auf Gazeta.ru.\n\nEin Team unter Leitung von Professor Dominik Ermann verglich zwei Wochen lang Daten der kontinuierlichen Glukosemessung mit täglichen Selbsteinschätzungen des Wohlbefindens. Die Stichprobe umfasste 400 Patientinnen und Patienten: 72 Prozent mit Typ-1-Diabetes und 28 Prozent mit Typ-2-Diabetes, das Durchschnittsalter lag bei 47 Jahren. Jeden Tag hielten die Teilnehmenden fest, wie es ihnen ging, während Sensoren ihren Zuckerspiegel erfassten.\n\nWie erwartet ging mehr Zeit im Bereich von 70 bis 140 mg/dl am Folgetag mit einem besseren Befinden einher. Unerwartet war, dass auch eine größere Schwankungsbreite des Glukosewerts, solange sie die sicheren Grenzen nicht verließ, mit besserem Wohlbefinden, erholsamerem Schlaf und mehr Energie verbunden war.\n\nDie Autorinnen und Autoren deuten das Ergebnis vorsichtig: Der ständige Aufwand und die Einschränkungen, die nötig sind, um jede Schwankung zu unterdrücken, könnten an sich die Freude am Alltag mindern. Sie betonen, dass dies kein Aufruf ist, die Glukosekontrolle aufzugeben, die weiterhin wichtig bleibt. Die Studie zeigt einen Zusammenhang, aber keine Ursache, und stützt sich auf subjektive Angaben.\n\nModerne Monitoringsysteme lenken Patientinnen und Patienten zunehmend auf eine möglichst hohe \"Zeit im Zielbereich\". Die neuen Daten heben diesen Wert nicht auf, ergänzen ihn aber um die Lebensqualität. Die Autorinnen und Autoren raten Ärztinnen und Ärzten, die seelische Belastung durch die ständige Angst vor Zuckerspitzen sowie durch strenge Vorgaben bei Ernährung und Tagesablauf zu berücksichtigen.",
+    "es": "Investigadores de Alemania sugieren que el afán por mantener la glucosa en sangre perfectamente estable podría tener un lado negativo. En el estudio PRO-MENTAL, realizado por el instituto alemán FIDAM, las personas con diabetes dijeron sentirse mejor los días en que su glucosa fluctuaba más, siempre que se mantuviera dentro de límites seguros. La información llega a través de Day.Az, que cita a Gazeta.ru.\n\nUn equipo dirigido por el profesor Dominik Ermann comparó durante dos semanas los datos de monitorización continua de glucosa con valoraciones diarias del bienestar. Participaron 400 pacientes: el 72 % con diabetes tipo 1 y el 28 % con tipo 2, con una edad media de 47 años. Cada día, los participantes anotaban cómo se sentían mientras los sensores registraban sus niveles de azúcar.\n\nComo se esperaba, pasar más tiempo entre 70 y 140 mg/dl se asoció con un mejor bienestar al día siguiente. Lo inesperado fue que una mayor variabilidad de la glucosa, mientras no saliera de los límites seguros, también iba de la mano con mejor ánimo, mejor sueño y más energía.\n\nLos autores interpretan el resultado con cautela: el esfuerzo constante y las restricciones necesarias para frenar cada oscilación podrían reducir por sí mismos el disfrute de la vida diaria. Aclaran que no es una invitación a descuidar el control de la glucosa, que sigue siendo importante, y que el estudio muestra una asociación, no una causa, además de apoyarse en valoraciones subjetivas.\n\nLos sistemas de monitorización actuales orientan cada vez más a los pacientes hacia el máximo \"tiempo en rango\" posible. Los nuevos datos no anulan ese indicador, pero le suman la dimensión de la calidad de vida. Los autores piden a los médicos considerar la carga psicológica del miedo constante a los picos de glucosa y de las restricciones estrictas en la alimentación y la rutina."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Участники исследования",
+      "en": "Study participants",
+      "kk": "Зерттеу қатысушылары",
+      "de": "Studienteilnehmende",
+      "es": "Participantes del estudio"
+     },
+     "v": {
+      "ru": "400 пациентов (72% с диабетом первого типа, 28% второго)",
+      "en": "400 patients (72% type 1 diabetes, 28% type 2)",
+      "kk": "400 пациент (72% — 1-типті, 28% — 2-типті диабет)",
+      "de": "400 Patientinnen und Patienten (72 % Typ 1, 28 % Typ 2)",
+      "es": "400 pacientes (72 % con tipo 1, 28 % con tipo 2)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Целевой диапазон глюкозы в исследовании",
+      "en": "Glucose range used in the study",
+      "kk": "Зерттеудегі глюкозаның мақсатты диапазоны",
+      "de": "Im Studie verwendeter Glukosebereich",
+      "es": "Rango de glucosa usado en el estudio"
+     },
+     "v": {
+      "ru": "70–140 мг/дл",
+      "en": "70–140 mg/dL",
+      "kk": "70–140 мг/дл",
+      "de": "70–140 mg/dl",
+      "es": "70–140 mg/dl"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVVE_b2M9NQ",
+   "cat": "community",
+   "stage": "report",
+   "date": "2026-11-09",
+   "added": "2026-11-09T10:50:10.606Z",
+   "title": {
+    "ru": "17 тыс. ставропольцев посетили «Школу диабета» в 2025 году",
+    "en": "17,000 Stavropol residents attended the Diabetes School in 2025",
+    "kk": "2025 жылы Ставрополь тұрғындарының 17 мыңы «Диабет мектебіне» қатысты",
+    "de": "17.000 Einwohner von Stawropol besuchten 2025 die „Diabetesschule“",
+    "es": "17 000 habitantes de Stávropol asistieron a la «Escuela de la diabetes» en 2025"
+   },
+   "text": {
+    "ru": "Количество жителей Ставропольского края, посетивших школы диабета в 2025 году, стало известно из отчёта.",
+    "en": "The number of Stavropol Krai residents who attended diabetes schools in 2025 has been reported.",
+    "kk": "2025 жылы диабет мектептеріне қатысқан Ставрополь өлкесі тұрғындарының саны белгілі болды.",
+    "de": "Die Zahl der Einwohner der Region Stawropol, die 2025 Diabetesschulen besuchten, wurde bekannt gegeben.",
+    "es": "Se ha dado a conocer el número de residentes del krai de Stávropol que asistieron a escuelas de diabetes en 2025."
+   },
+   "url": "https://pobeda26.ru/news/zdravookhranenie/2026-11-09/17-tys-stavropoltsev-posetili-shkolu-diabeta-v-2025-godu-376087",
+   "src": "Победа 26",
+   "photoQuery": "anatomical model desk classroom",
+   "local": true,
+   "photo": {
+    "id": "u_W949DE3ia0g",
+    "url": "https://images.unsplash.com/photo-1784989966317-3007bbb2ce1c?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8YW5hdG9taWNhbCUyMG1vZGVsJTIwZGVzayUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzk0MjIxNDExfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Brecht Corbeel",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/an-empty-science-classroom-with-desks-and-a-green-blackboard-W949DE3ia0g?utm_source=dia_news&utm_medium=referral",
+    "alt": "An empty science classroom with desks and a green blackboard"
+   },
+   "body": {
+    "ru": "По сообщению Победы 26 от 9 ноября 2026 года, в 2025 году «Школу диабета» в Ставропольском крае посетили около 17 тыс. жителей. Эту цифру привёл краевой минздрав.\n\nЗанятия в «Школе диабета» проходят в группах. Здесь пациенты с диабетом разных категорий изучают основы самоконтроля, соблюдение рекомендаций врачей и принципы здорового образа жизни.\n\nЭтот материал охватывает только цифру из заголовка и вводную часть. Основной текст статьи в доступной копии прочитать полностью не удалось, поэтому другие данные, места проведения и детали программы здесь не приведены.",
+    "en": "According to a report by Pobeda 26 dated 9 November 2026, about 17,000 residents of Stavropol Krai attended the \"Diabetes School\" in 2025. The regional health ministry provided this figure.\n\nThe Diabetes School runs group sessions. Patients with diabetes from different categories learn the basics of self-monitoring, following doctors' recommendations and principles of a healthy lifestyle.\n\nThis piece covers only the headline figure and the introductory section. The main body of the article could not be read in full in the available copy, so other data, venues and program details are not included here.",
+    "kk": "Pobeda 26 басылымының 2026 жылғы 9 қарашадағы хабарламасына сәйкес, 2025 жылы Ставрополь өлкесінің шамамен 17 мың тұрғыны «Диабет мектебіне» қатысқан. Бұл деректі өлкенің денсаулық сақтау министрлігі берген.\n\n«Диабет мектебінің» сабақтары топтарда өтеді. Әртүрлі санаттағы диабеті бар пациенттер өзін-өзі бақылау негіздерін, дәрігер ұсынымдарын сақтауды және салауатты өмір салты қағидаттарын үйренеді.\n\nБұл материал тек тақырыптағы санды және кіріспе бөлімді қамтиды. Мақаланың негізгі мәтінін қолжетімді нұсқада толық оқу мүмкін болмады, сондықтан басқа деректер, орындар мен бағдарлама мәліметтері осында берілмеген.",
+    "de": "Laut einem Bericht von Pobeda 26 vom 9. November 2026 haben im Jahr 2025 rund 17.000 Einwohner der Region Stawropol die „Diabetesschule“ besucht. Die Angabe stammt vom regionalen Gesundheitsministerium.\n\nDie Diabetesschule bietet Kurse in Gruppen an. Patienten mit Diabetes aus verschiedenen Kategorien lernen dort die Grundlagen der Selbstkontrolle, die Einhaltung ärztlicher Empfehlungen und die Prinzipien eines gesunden Lebensstils.\n\nDieser Beitrag umfasst nur die Zahl aus der Überschrift und den einleitenden Abschnitt. Der Haupttext des Artikels war in der verfügbaren Fassung nicht vollständig lesbar, daher fehlen hier weitere Angaben, Standorte und Programmdetails.",
+    "es": "Según un informe de Pobeda 26 publicado el 9 de noviembre de 2026, unos 17 000 habitantes de la región de Stavropol asistieron a la «Escuela de diabetes» en 2025. La cifra fue facilitada por el ministerio regional de salud.\n\nLa Escuela de diabetes ofrece sesiones en grupo. Pacientes con diabetes de distintas categorías aprenden las bases del autocontrol, el seguimiento de las recomendaciones médicas y los principios de un estilo de vida saludable.\n\nEste texto recoge solo la cifra del titular y la parte introductoria. El cuerpo principal del artículo no se pudo leer completo en la copia disponible, por lo que otros datos, sedes y detalles del programa no aparecen aquí."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Посетители «Школы диабета» в 2025 году",
+      "en": "Diabetes School attendees in 2025",
+      "kk": "2025 жылы «Диабет мектебінің» қатысушылары",
+      "de": "Besucher der Diabetesschule 2025",
+      "es": "Asistentes a la Escuela de diabetes en 2025"
+     },
+     "v": {
+      "ru": "17 тыс. человек",
+      "en": "17,000 people",
+      "kk": "17 мың адам",
+      "de": "17.000 Personen",
+      "es": "17 000 personas"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nRXc_b2M9NQ",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T10:50:10.606Z",
+   "title": {
+    "ru": "В Санкт-Петербурге стартовала Неделя борьбы с диабетом",
+    "en": "Diabetes Awareness Week starts in St Petersburg",
+    "kk": "Санкт-Петербургте диабетпен күрес аптасы басталды",
+    "de": "In Sankt Petersburg hat die Woche des Kampfes gegen Diabetes begonnen",
+    "es": "En San Petersburgo arranca la Semana de lucha contra la diabetes"
+   },
+   "text": {
+    "ru": "В рамках недели петербуржцы могут бесплатно проверить уровень сахара в крови.",
+    "en": "As part of the week, residents can get a free blood sugar test.",
+    "kk": "Апта аясында тұрғындар қандағы қант деңгейін тегін тексере алады.",
+    "de": "Im Rahmen der Woche können Einwohner ihren Blutzucker kostenlos testen lassen.",
+    "es": "Como parte de la semana, los residentes pueden hacerse una prueba de glucemia gratuita."
+   },
+   "url": "https://spbdnevnik.ru/news/2026-11-09/v-sankt-peterburge-startovala-nedelia-borby-s-diabetom",
+   "src": "spbdnevnik.ru",
+   "photoQuery": "Saint Petersburg embankment canal",
+   "local": true,
+   "photo": {
+    "id": "u_iEev684_GOQ",
+    "url": "https://images.unsplash.com/photo-1786865545037-31f3bfec91d8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8U2FpbnQlMjBQZXRlcnNidXJnJTIwZW1iYW5rbWVudCUyMGNhbmFsfGVufDF8MHx8fDE3OTQyMjE0MTF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Nikita Kulikov",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/canal-with-tour-boats-in-saint-petersburg-iEev684_GOQ?utm_source=dia_news&utm_medium=referral",
+    "alt": "A canal with tour boats in Saint Petersburg lined by historic yellow buildings"
+   },
+   "body": {
+    "ru": "9 ноября в Петербурге начали проводить неделю, посвящённую борьбе с диабетом. Её приурочили ко Всемирному дню борьбы с диабетом, который отмечают 14 ноября. В течение недели жители смогут без предварительной записи и бесплатно пройти экспресс-обследование и поговорить с врачом. Об этом сообщила пресс-служба Смольного.\n\nГубернатор Александр Беглов отметил, что диабет требует постоянного внимания, но при грамотном отношении к здоровью не мешает вести полноценную жизнь. По его словам, в городе выстроена система от районных поликлиник до регионального эндокринологического центра, и её планируют развивать, чтобы ранняя диагностика была доступна каждому.\n\n12 ноября с 10:00 до 14:00 Мариинская больница проводит акцию «СТОП диабет!»: пациенты старше 45 лет с избыточным весом или гипертонией смогут бесплатно сдать анализ на глюкозу и получить консультацию эндокринолога. Для участия нужно заранее направить заявку на почту callcenter@mariin.ru с пометкой «СТОП диабет! – 2026» и взять с собой паспорт, СНИЛС и полис ОМС. В тот же день в Музее гигиены (Итальянская, 25) в 15:00, после экскурсии, можно проконсультироваться с терапевтом и сдать экспресс-анализ на глюкозу; предварительная регистрация не нужна.\n\n14 ноября с 12:00 до 17:00 в Пушкинском районе, на площадке КДЦ «Гринпарк» (Ростовская, 20, Шушары), заработает большая зона чекапа: биоимпедансметрия, проверка сердечно-сосудистой системы, онкоскрининг кожи и экспресс-диагностика глюкозы. Также запланированы лекторий с диетологами и психологами и мастер-класс о питании спортсменов. В районных поликлиниках пройдут акции с экспресс-анализами крови на глюкозу и консультациями специалистов; полный список учреждений опубликован на сайте Комитета по здравоохранению.",
+    "en": "On November 9, a week devoted to fighting diabetes began in St. Petersburg. It is timed to World Diabetes Day, marked on November 14. Over the course of the week, residents can take a free express test and talk with a doctor without booking in advance. The Smolny press service reported this.\n\nGovernor Alexander Beglov said diabetes needs constant attention but, with the right approach to health, does not prevent a full life. In his words, the city has built a system that runs from district polyclinics up to the regional endocrinology center, and it plans to keep developing it so that early diagnosis is available to everyone.\n\nOn November 12, from 10:00 to 14:00, Mariinsky Hospital is holding the \"STOP diabetes!\" event: patients over 45 who are overweight or have hypertension can get a free glucose test and a consultation with an endocrinologist. To take part, you must send an application in advance to callcenter@mariin.ru with \"STOP diabetes! – 2026\" in the subject line, and bring a passport, SNILS and an OMS policy. The same day, at 15:00 at the Museum of Hygiene (25 Italyanskaya Street), visitors can see a therapist and take an express glucose test after a tour; no pre-registration is required.\n\nOn November 14, from 12:00 to 17:00, a large checkup zone will operate in the Pushkinsky district at the Greenpark community center (20 Rostovskaya Street, Shushary). It offers bioimpedance measurement, a cardiovascular check, skin cancer screening and express glucose diagnostics. Dietitians and psychologists will also give talks, and there will be a master class on athletes' nutrition. District polyclinics will hold events with express blood glucose tests and specialist consultations; the full list of facilities is published on the Health Committee's website.",
+    "kk": "9 қарашада Санкт-Петербургте диабетпен күрес аптасы басталды. Ол дүниежүзілік диабетпен күрес күніне (14 қараша) орайластырылған. Апта бойы тұрғындар алдын ала жазылусыз және тегін экспресс-талдаудан өтіп, дәрігермен сөйлесе алады. Бұл туралы Смольный баспасөз қызметі хабарлады.\n\nҚала губернаторы Александр Беглов сахарлық диабетке тұрақты назар аудару қажет екенін, бірақ денсаулыққа дұрыс қараған жағдайда адам толыққанды өмір сүре алатынын атап өтті. Оның айтуынша, қалада аудандық емханалардан өңірлік эндокринологиялық орталыққа дейінгі жүйе құрылған, ал ерте диагностика барлығына қолжетімді болу үшін оны дамыту жалғасады.\n\n12 қарашада сағат 10:00-ден 14:00-ге дейін Мариинск ауруханасы «СТОП диабет!» акциясын өткізеді: 45 жастан асқан, артық салмағы немесе гипертониясы бар пациенттер глюкозаға тегін талдау тапсырып, эндокринолог кеңесін ала алады. Қатысу үшін callcenter@mariin.ru поштасына алдын ала өтінім жіберіп, хат тақырыбында «СТОП диабет! – 2026» деп көрсету керек, өзімен бірге паспорт, СНИЛС және ОМС полисін алу қажет. Сол күні Итальянская көшесі, 25 мекенжайындағы Гигиена мұражайында саядаттан кейін сағат 15:00-де терапевтпен кеңесуге және глюкозаға экспресс-талдау тапсыруға болады; алдын ала тіркелу қажет емес.\n\n14 қарашада сағат 12:00-ден 17:00-ге дейін Пушкин ауданында, «Гринпарк» КДО алаңында (Ростовская, 20, Шушары) үлкен чекап аймағы жұмыс істейді: биоимпеданс өлшеу, жүрек-қан тамырлары жүйесін тексеру, терінің онкоскринингі және глюкозаға экспресс-диагностика. Сондай-ақ диетологтар мен психологтар сөз сөйлейтін лекторий және спортшылардың тамақтануы туралы шеберлік сағаты өтеді. Аудандық емханаларда глюкозаға қан экспресс-талдауы мен мамандар кеңесі бойынша акциялар өтеді; мекемелердің толық тізімі Денсаулық сақтау комитетінің сайтында жарияланған.",
+    "de": "Am 9. November hat in St. Petersburg eine Woche begonnen, die dem Kampf gegen Diabetes gewidmet ist. Sie fällt auf den Weltdiabetestag am 14. November. Während der Woche können Einwohner ohne vorherige Anmeldung und kostenlos einen Schnelltest machen und mit einem Arzt sprechen. Darüber informierte der Pressedienst des Smolny.\n\nGouverneur Alexander Beglow erklärte, Diabetes erfordere ständige Aufmerksamkeit, stehe bei einem richtigen Umgang mit der eigenen Gesundheit aber einem erfüllten Leben nicht im Weg. Nach seinen Worten hat die Stadt ein System aufgebaut, das von den Bezirkspolikliniken bis zum regionalen Zentrum für Endokrinologie reicht, und man wolle es weiterentwickeln, damit eine frühe Diagnose für alle zugänglich ist.\n\nAm 12. November findet von 10:00 bis 14:00 Uhr in der Mariinski-Klinik die Aktion „STOPP Diabetes!“ statt: Patienten über 45 Jahren mit Übergewicht oder Bluthochdruck können einen kostenlosen Glukosetest machen und sich von einem Endokrinologen beraten lassen. Zur Teilnahme ist eine vorherige Anmeldung per E-Mail an callcenter@mariin.ru nötig, mit dem Betreff „STOPP Diabetes! – 2026“; mitzubringen sind Reisepass, SNILS und die OMS-Police. Am selben Tag kann man ab 15:00 Uhr nach einer Führung im Hygienemuseum (Italjanskaja 25) mit einem Therapeuten sprechen und einen Glukose-Schnelltest machen; eine Voranmeldung ist nicht nötig.\n\nAm 14. November arbeitet von 12:00 bis 17:00 Uhr im Bezirk Puschkin, auf dem Gelände des Gesundheitszentrums „Grinpark“ (Rostowskaja 20, Schuschary), eine große Check-up-Zone. Angeboten werden Bioimpedanzmessung, eine Prüfung des Herz-Kreislauf-Systems, ein Hautkrebs-Screening und eine Schnelldiagnostik der Glukose. Außerdem sind Vorträge von Ernährungsberatern und Psychologen sowie ein Meisterkurs zur Ernährung von Sportlern geplant. In den Bezirkspolikliniken finden Aktionen mit Schnelltests auf Blutzucker und Fachberatungen statt; die vollständige Liste der Einrichtungen steht auf der Website des Gesundheitskomitees.",
+    "es": "El 9 de noviembre comenzó en San Petersburgo una semana dedicada a la lucha contra la diabetes. Coincide con el Día Mundial de la Diabetes, que se celebra el 14 de noviembre. Durante la semana, los vecinos podrán hacerse una prueba express gratuita y hablar con un médico sin cita previa. Así lo informó el servicio de prensa del Smolny.\n\nEl gobernador Alexandr Beglov señaló que la diabetes requiere atención constante, pero que, con un enfoque adecuado de la salud, no impide llevar una vida plena. Según sus palabras, la ciudad ha creado un sistema que va desde las policlínicas de los distritos hasta el centro regional de endocrinología, y planea seguir desarrollándolo para que el diagnóstico temprano llegue a todos.\n\nEl 12 de noviembre, de 10:00 a 14:00, el Hospital Mariinski organiza la acción «¡STOP diabetes!»: los pacientes mayores de 45 años con sobrepeso o hipertensión podrán hacerse gratis un análisis de glucosa y recibir una consulta con un endocrinólogo. Para participar hay que enviar antes una solicitud a callcenter@mariin.ru con «¡STOP diabetes! – 2026» en el asunto, y llevar pasaporte, SNILS y la póliza del OMS. Ese mismo día, a las 15:00, en el Museo de Higiene (calle Italianskaya, 25), tras una visita guiada, se podrá consultar con un terapeuta y hacerse una prueba express de glucosa; no es necesaria la inscripción previa.\n\nEl 14 de noviembre, de 12:00 a 17:00, funcionará en el distrito de Pushkin, en el centro comunitario KDC «Grinpark» (calle Rostovskaya, 20, Shushary), una amplia zona de chequeo. Incluirá bioimpedanciometría, revisión del sistema cardiovascular, cribado oncológico de la piel y diagnóstico express de glucosa. También habrá una zona de conferencias con dietistas y psicólogos y un taller sobre la alimentación de los deportistas. Las policlínicas de los distritos realizarán acciones con pruebas express de glucosa en sangre y consultas con especialistas; la lista completa de centros está publicada en la web del Comité de Salud."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Всемирный день борьбы с диабетом",
+      "en": "World Diabetes Day",
+      "kk": "Дүниежүзілік диабетпен күрес күні",
+      "de": "Weltdiabetestag",
+      "es": "Día Mundial de la Diabetes"
+     },
+     "v": {
+      "ru": "14 ноября",
+      "en": "November 14",
+      "kk": "14 қараша",
+      "de": "14. November",
+      "es": "14 de noviembre"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возрастной порог акции «СТОП диабет!» в Мариинской больнице",
+      "en": "Age threshold for the \"STOP diabetes!\" event at Mariinsky Hospital",
+      "kk": "Мариинск ауруханасындағы «СТОП диабет!» акциясының жас шегі",
+      "de": "Altersgrenze der Aktion „STOPP Diabetes!“ in der Mariinski-Klinik",
+      "es": "Edad mínima para la acción «¡STOP diabetes!» en el Hospital Mariinski"
+     },
+     "v": {
+      "ru": "старше 45 лет",
+      "en": "over 45 years",
+      "kk": "45 жастан асқан",
+      "de": "über 45 Jahre",
+      "es": "mayores de 45 años"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nGR3P29jPTU",
+   "cat": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-09T10:50:10.606Z",
+   "title": {
+    "ru": "Врач рассказала, когда кыргызстанцам проверять сахар в крови",
+    "en": "Doctor explains when Kyrgyz residents should check blood sugar",
+    "kk": "Дәрігер қырғыздарға қанның қант деңгейін қашан тексеру керектігін түсіндірді",
+    "de": "Ärztin erklärt, wann Kirgisen ihren Blutzucker prüfen sollten",
+    "es": "Una médica explica cuándo los kirguisos deben medir su azúcar en sangre"
+   },
+   "text": {
+    "ru": "Врач рассказала о преддиабете и о том, когда стоит проверять уровень сахара в крови.",
+    "en": "The doctor discusses prediabetes and when to test blood sugar levels.",
+    "kk": "Дәрігер преддиабет туралы және қанның қант деңгейін қашан тексеру қажеттігі туралы айтты.",
+    "de": "Die Ärztin spricht über Prädiabetes und darüber, wann der Blutzuckerspiegel getestet werden sollte.",
+    "es": "La médica habla sobre el prediabetes y cuándo conviene medir el nivel de azúcar en sangre."
+   },
+   "url": "https://kaktus.media/doc/556513_obratit_vspiat_preddiabet._vrach_rasskazala_kogda_kyrgyzstancam_proveriat_sahar_v_krovi.html",
+   "src": "Кактус.медиа",
+   "photoQuery": "blood glucose meter",
+   "local": true,
+   "photo": {
+    "id": "u_ZJaK9jQXeDA",
+    "url": "https://images.unsplash.com/photo-1624454002429-40ed87a5ec04?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBnbHVjb3NlJTIwbWV0ZXJ8ZW58MXwwfHx8MTc5NDIyMTQxMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Towfiqu barbhuiya",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=dia_news&utm_medium=referral",
+    "alt": "white digital device beside white pen"
+   },
+   "body": {
+    "ru": "Диабет второго типа нередко начинается незаметно. Ему часто предшествует преддиабет: уровень глюкозы уже выше нормы, но до порога диабета еще не доходит. Эндокринолог Полина Лучкина в эфире местного радио объяснила, что на этом этапе питание, физическая нагрузка и образ жизни нередко позволяют повлиять на дальнейший ход болезни.\n\nЛучкина назвала возраст, с которого стоит начинать проверку, ориентируясь на рекомендации Американской диабетической ассоциации: с 35 лет, даже без факторов риска. Если нет лишнего веса, наследственной предрасположенности и сопутствующих болезней, повторять анализ можно раз в три года. При риске, например диабете у родителей, ожирении, сердечно-сосудистых болезнях или гестационном диабете в прошлом, обследоваться нужно минимум ежегодно.\n\nВ таких случаях врач советует сдавать глюкозу натощак и гликированный гемоглобин. Домашний глюкометр годится лишь для самоконтроля: у него есть погрешность, а капиллярная кровь не заменяет лабораторный анализ венозной плазмы. Если прибор показывает больше ожидаемого, стоит обратиться к врачу, а не ставить диагноз самостоятельно.\n\nОриентиры для глюкозы натощак: до 6,1 ммоль/л — норма; от 6,1 до 6,9 ммоль/л — нужна дополнительная оценка; 7,0 ммоль/л и выше — порог диабета. Глюкоза через два часа после еды ориентировочно до 7,8 ммоль/л. Гликированный гемоглобин 6,5% и выше — диагностический порог; он отражает средний уровень сахара примерно за три месяца. Окончательно диагноз устанавливает врач по лабораторным данным, иногда требуется повторное обследование.\n\nПройти анализы можно в частных лабораториях или в государственных учреждениях: в Центре семейной медицины или у семейного врача в поликлинике. Лучкина подчеркнула, что ждать появления симптомов не стоит. Предотвратить диабет второго типа удается не всегда, важны наследственность и особенности организма, а врач в отдельных случаях может назначить лекарства для снижения риска.",
+    "en": "Type 2 diabetes often develops unnoticed. It is frequently preceded by prediabetes, a stage where blood glucose is already above normal but has not yet reached the diabetes threshold. Endocrinologist Polina Luchkina, speaking on a local radio program, explained that at this stage diet, physical activity and daily habits can often influence how the condition progresses.\n\nLuchkina said screening should begin at age 35, following recommendations from the American Diabetes Association, even without risk factors. If a person has no excess weight, no hereditary predisposition and no related illnesses, the test can be repeated once every three years. For people with risk factors, such as diabetes in a parent, obesity, cardiovascular disease or gestational diabetes in the past, testing should happen at least once a year.\n\nIn such cases, the doctor advises a fasting glucose test and a glycated hemoglobin test. Home glucometers are useful only for self-monitoring: they have a margin of error, and capillary blood cannot replace a laboratory analysis of venous plasma. If a home device shows a higher value than expected, the advice is to see a doctor rather than self-diagnose.\n\nReference points for fasting glucose: up to 6.1 mmol/L is normal; 6.1 to 6.9 mmol/L needs further evaluation; 7.0 mmol/L and above matches the diabetes threshold. Glucose two hours after eating is roughly up to 7.8 mmol/L. A glycated hemoglobin of 6.5% or higher is the diagnostic threshold, reflecting average blood sugar over about three months. The final diagnosis is made by a doctor based on laboratory data, and a repeat test is sometimes required.\n\nTests can be done in private laboratories or state institutions, including a Family Medicine Center or a family doctor at a polyclinic. Luchkina stressed that people should not wait for symptoms to appear. Type 2 diabetes cannot always be prevented, since heredity and individual characteristics matter, though in some cases a doctor may prescribe medication to lower the risk.",
+    "kk": "Екінші типті қант диабеті көбіне байқалмай дамиды. Оған жиі преддиабет күйі алдын ала келеді: қандағы глюкоза қалыптыдан жоғары, бірақ диабет шегіне әлі жетпеген. Эндокринолог Полина Лучкина жергілікті радио эфирінде бұл кезеңде тамақтану, дене белсенділігі мен күнделікті әдеттердің ауру барысына ықпал ете алатынын түсіндірді.\n\nЛучкина тексеруді қауіп факторлары болмаса да, Америка диабет қауымдастығының ұсынысына сәйкес, 35 жастан бастау керек деді. Артық салмақ, тұқым қуалаушылық бейімділік және қатар жүретін аурулар болмаса, талдауды үш жылда бір рет қайталауға болады. Қауіп факторлары бар адамдарда, мысалы, ата-анасында диабет, семіздік, жүрек-қан тамыр аурулары немесе бұрынғы гестациялық диабет болса, кемінде жылына бір рет тексерілу керек.\n\nМұндай жағдайда дәрігер ашқарынға глюкоза және гликирленген гемоглобин талдауын тапсыруға кеңес береді. Үй глюкометрі тек өзін-өзі бақылауға жарайды: оның қателігі бар, ал капилляр қаны веноздық плазманы зертханада талдаудың орнын баса алмайды. Аспап күткеннен жоғары көрсеткіш берсе, өз бетінше диагноз қоймай, дәрігерге қаралу керек.\n\nАшқарынға глюкоза бойынша бағдар мәндері: 6,1 ммоль/л дейін — қалыпты; 6,1-ден 6,9 ммоль/л-ге дейін — қосымша бағалау қажет; 7,0 ммоль/л және одан жоғары — диабет шегі. Тамақтанғаннан кейін екі сағаттан соң глюкоза шамамен 7,8 ммоль/л дейін болады. Гликирленген гемоглобин 6,5% және одан жоғары — диагностикалық шек, ол шамамен үш айдағы орташа қант деңгейін көрсетеді. Соңғы диагнозды дәрігер зертханалық деректерге сүйеніп қояды, кейде қайта тексеру қажет болады.\n\nТалдауларды жеке зертханаларда немесе мемлекеттік мекемелерде тапсыруға болады: Отбасылық медицина орталығында немесе емханадағы отбасы дәрігерінде. Лучкина белгілер пайда болуын күтпеу керектігін атап өтті. Қант диабетін екінші типте әрдайым алдын алу мүмкін емес, себебі тұқым қуалаушылық пен дене ерекшеліктері маңызды; кейбір жағдайда дәрігер қауіпті азайту үшін дәрі тағайындауы мүмкін.",
+    "de": "Typ-2-Diabetes entwickelt sich oft unbemerkt. Ihm geht häufig ein Prädiabetes voraus: Der Blutzucker liegt bereits über dem Normalwert, hat aber die Diabetes-Schwelle noch nicht erreicht. Die Endokrinologin Polina Luchkina erklärte in einer Sendung eines lokalen Radiosenders, dass in dieser Phase Ernährung, körperliche Aktivität und Alltagsgewohnheiten den weiteren Verlauf oft beeinflussen können.\n\nLuchkina sagte, die Untersuchung solle sich nach Empfehlungen der American Diabetes Association richten und bereits mit 35 Jahren beginnen, auch ohne Risikofaktoren. Bestehen weder Übergewicht noch erbliche Veranlagung oder Begleiterkrankungen, kann der Test alle drei Jahre wiederholt werden. Bei Risikofaktoren, etwa Diabetes bei einem Elternteil, Adipositas, Herz-Kreislauf-Erkrankungen oder einem früheren Schwangerschaftsdiabetes, sollte mindestens einmal jährlich getestet werden.\n\nIn solchen Fällen rät die Ärztin zu einer Nüchternglukose-Messung und zu einem HbA1c-Test. Heimglukometer taugen nur zur Selbstkontrolle: Sie haben eine Messungenauigkeit, und Kapillarblut kann die Laboranalyse von Venenplasma nicht ersetzen. Zeigt das Gerät einen höheren Wert als erwartet, sollte man ärztlichen Rat suchen und sich nicht selbst diagnostizieren.\n\nRichtwerte für die Nüchternglukose: bis 6,1 mmol/l gilt als normal; 6,1 bis 6,9 mmol/l erfordert eine weitere Abklärung; 7,0 mmol/l und mehr entspricht der Diabetes-Schwelle. Zwei Stunden nach dem Essen liegt der Orientierungswert bei etwa bis 7,8 mmol/l. Ein HbA1c von 6,5 % oder mehr ist der Diagnoseschwellenwert und zeigt den durchschnittlichen Zuckerwert über etwa drei Monate. Die endgültige Diagnose stellt der Arzt anhand von Laborwerten; manchmal ist eine Wiederholung nötig.\n\nUntersuchungen sind in Privatlaboren oder staatlichen Einrichtungen möglich, etwa im Zentrum für Familienmedizin oder bei einem Hausarzt in der Poliklinik. Luchkina betonte, man solle nicht auf Symptome warten. Ein Typ-2-Diabetes lässt sich nicht immer verhindern, da Erbanlagen und individuelle Merkmale eine Rolle spielen; in manchen Fällen kann der Arzt zur Senkung des Risikos Medikamente verschreiben.",
+    "es": "La diabetes tipo 2 suele desarrollarse sin que se note. A menudo la precede el prediabetes, una etapa en la que la glucosa en sangre ya supera lo normal, pero todavía no alcanza el umbral de diabetes. La endocrinóloga Polina Luchkina explicó en un programa de radio local que, en esta fase, la alimentación, la actividad física y los hábitos diarios pueden influir en la evolución de la enfermedad.\n\nLuchkina dijo que el cribado debería empezar a los 35 años, siguiendo las recomendaciones de la Asociación Estadounidense de Diabetes, incluso sin factores de riesgo. Si no hay exceso de peso, predisposición hereditaria ni enfermedades asociadas, la prueba puede repetirse cada tres años. En personas con factores de riesgo, como diabetes en un progenitor, obesidad, enfermedades cardiovasculares o diabetes gestacional previa, el control debe hacerse al menos una vez al año.\n\nEn esos casos, la médica aconseja medir la glucosa en ayunas y la hemoglobina glicosilada. Los glucómetros domésticos sirven solo para el autocontrol: tienen un margen de error y la sangre capilar no sustituye al análisis de laboratorio en plasma venoso. Si el aparato marca un valor superior al esperado, lo recomendable es acudir al médico y no autodiagnosticarse.\n\nValores orientativos de la glucosa en ayunas: hasta 6,1 mmol/l es normal; de 6,1 a 6,9 mmol/l requiere una evaluación adicional; 7,0 mmol/l o más corresponde al umbral de diabetes. La glucosa dos horas después de comer se sitúa, como referencia, en torno a 7,8 mmol/l. Una hemoglobina glicosilada de 6,5 % o más es el umbral diagnóstico y refleja el nivel medio de azúcar en unos tres meses. El diagnóstico definitivo lo establece el médico con datos de laboratorio, y a veces hay que repetir la prueba.\n\nLos análisis pueden hacerse en laboratorios privados o en instituciones estatales, como el Centro de Medicina Familiar o con el médico de familia de la policlínica. Luchkina subrayó que no conviene esperar a que aparezcan síntomas. No siempre es posible prevenir la diabetes tipo 2, porque influyen la herencia y las características individuales; en algunos casos el médico puede recetar medicación para reducir el riesgo."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Порог диабета: глюкоза натощак (венозная плазма)",
+      "en": "Diabetes threshold: fasting glucose (venous plasma)",
+      "kk": "Диабет шегі: ашқарынға глюкоза (веноздық плазма)",
+      "de": "Diabetes-Schwelle: Nüchternglukose (Venenplasma)",
+      "es": "Umbral de diabetes: glucosa en ayunas (plasma venoso)"
+     },
+     "v": {
+      "ru": "7,0 ммоль/л и выше",
+      "en": "7.0 mmol/L and above",
+      "kk": "7,0 ммоль/л және одан жоғары",
+      "de": "7,0 mmol/l und mehr",
+      "es": "7,0 mmol/l o más"
+     }
+    },
+    {
+     "k": {
+      "ru": "Гликированный гемоглобин: диагностический порог",
+      "en": "Glycated hemoglobin: diagnostic threshold",
+      "kk": "Гликирленген гемоглобин: диагностикалық шек",
+      "de": "Glykiertes Hämoglobin: Diagnoseschwelle",
+      "es": "Hemoglobina glicosilada: umbral diagnóstico"
+     },
+     "v": {
+      "ru": "6,5% и выше",
+      "en": "6.5% and above",
+      "kk": "6,5% және одан жоғары",
+      "de": "6,5 % und mehr",
+      "es": "6,5 % o más"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст начала обследования на диабет",
+      "en": "Age to begin diabetes screening",
+      "kk": "Қант диабетіне тексеруді бастау жасы",
+      "de": "Alter für den Beginn des Diabetes-Screenings",
+      "es": "Edad para iniciar el cribado de diabetes"
+     },
+     "v": {
+      "ru": "35 лет",
+      "en": "35 years",
+      "kk": "35 жас",
+      "de": "35 Jahre",
+      "es": "35 años"
+     }
+    }
+   ]
+  },
   {
    "id": "nSGM_b2M9NQ",
    "cat": "access",
@@ -1918,264 +2212,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nbTg_b2M9NQ",
-   "cat": "access",
-   "stage": "results",
-   "date": "2026-11-08",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Отцу ребёнка с диабетом из Уфы вернули деньги за инсулин после иска прокуратуры",
-    "en": "Father of a child with diabetes in Ufa refunded for insulin after prosecutor's lawsuit",
-    "kk": "Уфадағы диабеті бар баланың әкесіне прокуратура талабынан кейін инсулин үшін ақша қайтарылды",
-    "de": "Vater eines diabetischen Kindes aus Ufa nach Klage der Staatsanwaltschaft Geld für Insulin erstattet",
-    "es": "Al padre de un niño con diabetes de Ufa le devolvieron el dinero del insulina tras una demanda de la fiscalía"
-   },
-   "text": {
-    "ru": "После иска прокуратуры отцу ребёнка с диабетом из Уфы вернули деньги, потраченные на инсулин.",
-    "en": "After a prosecutor's lawsuit, the father of a child with diabetes in Ufa was refunded the money he had spent on insulin.",
-    "kk": "Прокуратура талабынан кейін Уфадағы диабеті бар баланың әкесіне инсулинге жұмсаған ақшасы қайтарылды.",
-    "de": "Nach einer Klage der Staatsanwaltschaft wurde dem Vater eines Kindes mit Diabetes aus Ufa das für Insulin ausgegebene Geld erstattet.",
-    "es": "Tras una demanda de la fiscalía, al padre de un niño con diabetes de Ufa le devolvieron el dinero gastado en insulina."
-   },
-   "url": "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
-   "src": "Ньюс-Баш",
-   "photoQuery": "insulin pen close-up",
-   "photo": {
-    "id": "u_NiXMv9iFN1c",
-    "url": "https://images.unsplash.com/photo-1745939912168-cc7333d65327?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQxNDY1MTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Haberdoedas",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-blue-insulin-pen-rests-on-a-white-surface-NiXMv9iFN1c?utm_source=dia_news&utm_medium=referral",
-    "alt": "A blue insulin pen rests on a white surface"
-   },
-   "body": {
-    "ru": "В Уфе прокуратура Советского района выступила в защиту прав ребёнка-инвалида, который страдает сахарным диабетом. Об этом сообщили в пресс-службе ведомства; новость опубликована 8 ноября 2026 года.\n\nРебёнку жизненно необходимы постоянный приём инсулина и специальные медицинские изделия. Однако льготное обеспечение регулярно давало сбои. Из-за отсутствия препаратов в аптеках законный представитель ребёнка вынужден был покупать их на собственные средства.\n\nПрокуратура направила в суд иск с требованием вернуть потраченные деньги и взыскать компенсацию морального вреда. Иск подала не семья, а сама прокуратура, действовавшая в интересах ребёнка. Суд полностью удовлетворил требования надзорного ведомства.\n\nПо сообщению, все расходы и положенная компенсация уже выплачены отцу ребёнка. В публикации не называются сумма выплаты, период, в течение которого возникали перебои, и дата судебного решения. Поэтому подробности дела известны пока только из сообщения прокуратуры.\n\nДальнейшие шаги в материале не описаны, поскольку выплаты уже завершены.",
-    "en": "In Ufa, the Sovetsky district prosecutor's office stepped in to defend the rights of a disabled child who has diabetes, the agency's press service said. The report was published on 8 November 2026.\n\nThe child needs insulin taken regularly and special medical devices on an ongoing basis. However, state-funded supply of these items was repeatedly interrupted. Because pharmacies lacked the drugs, the child's legal representative had to pay for them personally.\n\nThe prosecutor's office filed a lawsuit seeking repayment of the money spent and compensation for moral harm. The suit was brought by the prosecutor, acting for the child, not by the family. The court fully granted the agency's claims.\n\nAccording to the report, all costs and the due compensation have already been paid to the child's father. The article does not give the payment amount, the period during which the shortages occurred, or the date of the court ruling, so details of the case come only from the prosecutor's statement.\n\nThe article describes no further steps, since the payments have already been completed.",
-    "kk": "Өфе қаласында Советский аудандық прокуратурасы диабеті бар мүгедек баланың құқықтарын қорғауға шықты. Бұл туралы ведомствоның баспасөз қызметі хабарлады. Хабар 2026 жылғы 8 қарашада жарияланды.\n\nБалаға инсулинді үнемі қабылдау және арнайы медициналық бұйымдар өмірлік маңызды. Алайда жеңілдікпен қамтамасыз ету жиі үзіліп тұрды. Дәріханаларда дәрі болмағандықтан, баланың заңды өкілі оларды өз қаражатына сатып алуға мәжбүр болды.\n\nПрокуратура сотқа шығындарды қайтаруды және моральдық зиянға өтемақы өндіруді талап ететін талап-арыз берді. Талап-арызды отбасы емес, баланың мүддесін қорғаған прокуратура берді. Сот ведомствоның талаптарын толық қанағаттандырды.\n\nХабарға сәйкес, барлық шығындар мен тиесілі өтемақы баланың әкесіне толық төленген. Мақалада төлем сомасы, үзілістер болған кезең және соттың шешім күні көрсетілмеген, сондықтан іс туралы толық мәлімет тек прокуратура мәлімдемесінен белгілі.\n\nМақалада одан әрі қадамдар сипатталмаған, өйткені төлемдер аяқталған.",
-    "de": "In Ufa hat die Staatsanwaltschaft des Sowjetski-Bezirks die Rechte eines behinderten Kindes mit Diabetes verteidigt, teilte die Pressestelle der Behörde mit. Die Meldung erschien am 8. November 2026.\n\nDas Kind braucht dauerhaft Insulin und spezielle Medizinprodukte. Die vergünstigte Versorgung war jedoch wiederholt unterbrochen. Weil die Präparate in den Apotheken fehlten, musste der gesetzliche Vertreter des Kindes sie selbst bezahlen.\n\nDie Staatsanwaltschaft reichte Klage ein, mit der die Rückerstattung des ausgegebenen Geldes und eine Entschädigung für immateriellen Schaden verlangt wurden. Klägerin war die Staatsanwaltschaft im Interesse des Kindes, nicht die Familie. Das Gericht gab den Forderungen der Behörde vollständig statt.\n\nLaut Mitteilung wurden alle Kosten und die zustehende Entschädigung bereits an den Vater des Kindes gezahlt. Der Artikel nennt weder die Zahlungssumme noch den Zeitraum der Engpässe oder das Datum des Urteils; Einzelheiten stammen daher bisher nur aus der Erklärung der Staatsanwaltschaft.\n\nWeitere Schritte beschreibt der Artikel nicht, da die Zahlungen abgeschlossen sind.",
-    "es": "En Ufa, la fiscalía del distrito Sovetski defendió los derechos de un niño con discapacidad que tiene diabetes, según informó el servicio de prensa del organismo. La noticia se publicó el 8 de noviembre de 2026.\n\nEl menor necesita de forma permanente insulina y dispositivos médicos especiales. Sin embargo, el suministro con prestación oficial se interrumpía con regularidad. Como las farmacias no tenían los medicamentos, el representante legal del niño tuvo que pagarlos de su propio bolsillo.\n\nLa fiscalía presentó una demanda para exigir la devolución del dinero gastado y una indemnización por daño moral. La demanda la presentó la fiscalía en defensa del niño, no la familia. El tribunal aceptó por completo las pretensiones del organismo.\n\nSegún el comunicado, todos los gastos y la indemnización correspondiente ya se han pagado al padre del niño. El artículo no indica el importe, el periodo de las interrupciones ni la fecha de la sentencia, por lo que los detalles del caso proceden solo de la declaración de la fiscalía.\n\nEl artículo no describe próximos pasos, ya que los pagos están completados."
-   }
-  },
-  {
-   "id": "nG8wP29jPTU",
-   "cat": "research",
-   "stage": "survey",
-   "date": "2026-11-08",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Исследование в эфиопской больнице выявило пробелы в знаниях об уходе за стопой при диабете",
-    "en": "Ethiopian hospital study reveals gaps in diabetic foot self-care knowledge",
-    "kk": "Эфиопиядағы аурухана зерттеуі диабеттік аяқ күтімі туралы білімдегі олқылықтарды анықтады",
-    "de": "Krankenhausstudie in Äthiopien zeigt Wissenslücken bei der Selbstpflege des diabetischen Fußes",
-    "es": "Estudio en un hospital de Etiopía revela lagunas en el conocimiento sobre el autocuidado del pie diabético"
-   },
-   "text": {
-    "ru": "Исследование в больнице Эфиопии показало пробелы в знаниях пациентов об уходе за стопами при диабете.",
-    "en": "A hospital study in Ethiopia found gaps in patients' knowledge of diabetic foot self-care.",
-    "kk": "Эфиопиядағы аурухана зерттеуі науқастардың диабеттік аяқ күтімі туралы білімінде олқылықтар бар екенін көрсетті.",
-    "de": "Eine Krankenhausstudie in Äthiopien ergab Lücken im Wissen der Patienten über die Selbstpflege des diabetischen Fußes.",
-    "es": "Un estudio hospitalario en Etiopía halló lagunas en el conocimiento de los pacientes sobre el cuidado del pie diabético."
-   },
-   "url": "https://bioengineer.org/hospital-study-reveals-gaps-in-diabetic-foot-self-care-knowledge-in-ethiopia/",
-   "src": "Bioengineer.org",
-   "photoQuery": "foot care cream towel",
-   "body": {
-    "ru": "Исследователи специализированной больницы-направителя Университета Гондара на северо-западе Эфиопии изучили, насколько хорошо взрослые пациенты с диабетом знают, как ухаживать за стопами. Поперечное исследование, о котором сообщили 8 ноября 2026 года, показало: хорошие знания есть лишь у 49,2 % участников (95% доверительный интервал: от 44,1 % до 54,3 %).\n\nКоманда опросила 374 пациента диабетологической амбулатории этой больницы, использовав 13 вопросов о знаниях. Лучшие знания были связаны с четырьмя факторами: высшим образованием, знанием конкретного диагноза, ранее полученным обучением по уходу за стопами и поддержкой семьи. У пациентов с диабетом 1 типа шансы хорошо разбираться были ниже (скорректированное отношение шансов 0,44). Более половины не знали правильной температуры воды для мытья ног и не понимали, что делать, если палец покраснел или кровоточит.\n\nАвторы сопоставили результаты с общими цифрами: в 2017 году в мире с диабетом жили около 425 млн человек, и к 2045 году ожидается 629 млн. Полевой этап проходил с 1 по 14 августа 2021 года; планировалось опросить 385 пациентов, а анкету заполнили 374, что дало 97,1 % ответов.\n\nУ исследования есть явные ограничения. Оно проводилось в одной больнице, поперечный дизайн не позволяет установить причины и следствия, ответы были самоотчётными, а амхарская версия опросника не проходила формальной проверки валидности и надёжности.\n\nАвторы рекомендуют регулярно проводить обучение по уходу за стопами с использованием аудиовизуальных материалов во время ожидания приёма, уделяя внимание пациентам с низким уровнем образования, людям с диабетом 1 типа и тем, кто ранее не получал инструктажа.",
-    "en": "Researchers at the Comprehensive Specialized Referral Hospital of the University of Gondar in northwest Ethiopia examined how well adults with diabetes understand foot self-care. Their cross-sectional study, reported on November 8, 2026, found that only 49.2 percent of participants showed good knowledge (95 percent confidence interval: 44.1 to 54.3 percent).\n\nThe team surveyed 374 patients at the hospital's diabetic follow-up clinic using 13 knowledge questions. Four factors were linked to better knowledge: higher education, knowing one's specific diabetes diagnosis, earlier foot-care instruction and family support. Patients with type 1 diabetes had lower odds of good knowledge (adjusted odds ratio 0.44). More than half did not know the correct washing water temperature or what to do if a toe turned red or bled.\n\nThe authors set the findings against wider figures: about 425 million people had diabetes worldwide in 2017, a number projected to reach 629 million by 2045. Fieldwork ran from August 1 to 14, 2021; 385 patients were targeted, and 374 completed the survey, a 97.1 percent response rate.\n\nThe study has clear limits. It took place at a single referral hospital, its cross-sectional design cannot establish cause and effect, answers were self-reported, and the Amharic questionnaire had not undergone formal validity and reliability testing.\n\nThe authors recommend regular foot-care education using audiovisual materials during clinic waiting times, focusing on patients with less schooling, those with type 1 diabetes, and people who have never received instruction.",
-    "kk": "Эфиопияның солтүстік-батысындағы Гондар университетінің мамандандырылған анықтама ауруханасының зерттеушілері диабеті бар ересек науқастардың аяқ күтімін қаншалықты білетінін зерттеді. 2026 жылғы 8 қарашада хабарланған көлденең зерттеу қатысушылардың тек 49,2%-ында жақсы білім бар екенін көрсетті (95% сенімділік аралығы: 44,1%-дан 54,3%-ға дейін).\n\nТоп ауруханасының диабет амбулаториясында 374 науқасты 13 білім сұрағымен сауалнамадан өткізді. Жақсы білімге қатысты төрт фактор анықталды: жоғары білім, нақты диагнозды білу, бұрын аяқ күтімі бойынша оқыту алу және отбасылық қолдау. 1 типті диабеті бар науқастарда жақсы білім ықтималдығы төмен болды (түзетілген шанстар қатынасы 0,44). Жартысынан астам адам жуатын судың дұрыс температурасын немесе саусақ қызарса не қан кетсе, не істеу керектігін білмеді.\n\nАвторлар нәтижелерді ауқымды деректермен салыстырды: 2017 жылы әлемде шамамен 425 миллион адам диабетпен өмір сүрді, бұл сан 2045 жылға қарай 629 миллионға жетеді деп болжанады. Далалық жұмыс 2021 жылғы 1-14 тамыз аралығында жүрді; 385 науқас көзделді, ал сауалнаманы 374 адам толтырды, бұл 97,1% жауап беру деңгейі.\n\nЗерттеудің нақты шектеулері бар. Ол бір ғана анықтама ауруханасында жүргізілді, көлденең дизайн себеп-салдар байланысын дәлелдей алмайды, жауаптар өздері хабарлаған, ал амхар тіліндегі сауалнаманың ресми валидтілік және сенімділік тексерісінен өтпеген.\n\nАвторлар емхана күтуі кезінде аудиовизуалдық материалдар арқылы аяқ күтімі бойынша тұрақты оқытуды ұсынады, оған оқуы төмен науқастарға, 1 типті диабеті бар адамдарға және бұрын нұсқау алмағандарға ерекше назар аудару керек.",
-    "de": "Forschende am Comprehensive Specialized Referral Hospital der Universität Gondar im Nordwesten Äthiopiens untersuchten, wie gut erwachsene Diabetespatienten die Fußpflege beherrschen. Die Querschnittsstudie, über die am 8. November 2026 berichtet wurde, ergab, dass nur 49,2 Prozent der Teilnehmenden gute Kenntnisse aufwiesen (95-Prozent-Konfidenzintervall: 44,1 bis 54,3 Prozent).\n\nDas Team befragte 374 Patienten in der Diabetes-Nachsorgeambulanz des Krankenhauses mithilfe von 13 wissensbezogenen Fragen. Vier Faktoren hingen mit besserem Wissen zusammen: höhere Bildung, das Wissen um die eigene Diabetesdiagnose, zuvor erhaltene Anleitung zur Fußpflege und familiäre Unterstützung. Patienten mit Typ-1-Diabetes hatten geringere Chancen auf gute Kenntnisse (bereinigte Odds Ratio 0,44). Mehr als die Hälfte wusste nicht, welche Waschwassertemperatur richtig ist, oder was zu tun ist, wenn sich ein Zeh rötet oder blutet.\n\nDie Autorinnen und Autoren stellten die Ergebnisse größeren Zahlen gegenüber: Im Jahr 2017 lebten weltweit rund 425 Millionen Menschen mit Diabetes, bis 2045 wird ein Anstieg auf 629 Millionen erwartet. Die Feldarbeit lief vom 1. bis 14. August 2021; angestrebt waren 385 Patienten, 374 beendeten die Befragung, was einer Rücklaufquote von 97,1 Prozent entspricht.\n\nDie Studie hat klare Grenzen. Sie fand an nur einem Überweisungskrankenhaus statt, ihr Querschnittsdesign kann keine Ursache-Wirkung-Beziehungen belegen, die Antworten beruhten auf Selbstangaben, und der amharische Fragebogen war keiner formalen Prüfung von Validität und Reliabilität unterzogen worden.\n\nDie Autorinnen und Autoren empfehlen regelmäßige Fußpflegeschulungen mit audiovisuellen Materialien während der Wartezeit in der Ambulanz, mit besonderem Fokus auf Patienten mit geringerer Schulbildung, Menschen mit Typ-1-Diabetes und jene, die bisher keine Anleitung erhalten haben.",
-    "es": "Investigadores del Hospital Comprehensivo Especializado de Referencia de la Universidad de Gondar, en el noroeste de Etiopía, analizaron cuánto saben los adultos con diabetes sobre el autocuidado de los pies. El estudio transversal, dado a conocer el 8 de noviembre de 2026, halló que solo el 49,2 % de los participantes tenía buenos conocimientos (intervalo de confianza del 95 %: 44,1 % a 54,3 %).\n\nEl equipo encuestó a 374 pacientes de la consulta de seguimiento de diabetes del hospital con 13 preguntas de conocimiento. Cuatro factores se asociaron a mejores conocimientos: estudios superiores, saber qué tipo de diabetes se tiene, haber recibido antes instrucción sobre cuidado de los pies y el apoyo familiar. Los pacientes con diabetes tipo 1 tuvieron menos probabilidades de tener buenos conocimientos (odds ratio ajustado de 0,44). Más de la mitad desconocía la temperatura adecuada del agua para lavarse los pies o qué hacer si un dedo se enrojecía o sangraba.\n\nLos autores contrastaron los resultados con cifras globales: en 2017 había unos 425 millones de personas con diabetes en el mundo, y se proyecta que la cifra llegue a 629 millones en 2045. El trabajo de campo se realizó del 1 al 14 de agosto de 2021; se previeron 385 pacientes y 374 completaron la encuesta, con una tasa de respuesta del 97,1 %.\n\nEl estudio tiene límites claros. Se realizó en un solo hospital de referencia, su diseño transversal no permite establecer causa y efecto, las respuestas fueron autodeclaradas y el cuestionario en amárico no había pasado pruebas formales de validez y fiabilidad.\n\nLos autores recomiendan impartir educación periódica sobre cuidado de los pies con material audiovisual durante la espera en consulta, prestando atención a pacientes con menor escolaridad, personas con diabetes tipo 1 y quienes nunca han recibido instrucción."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Доля участников с хорошими знаниями об уходе за стопой",
-      "en": "Share of participants with good foot self-care knowledge",
-      "kk": "Аяқ күтімі туралы жақсы білімі бар қатысушылардың үлесі",
-      "de": "Anteil der Teilnehmenden mit guten Kenntnissen zur Fußpflege",
-      "es": "Proporción de participantes con buenos conocimientos sobre el cuidado de los pies"
-     },
-     "v": {
-      "ru": "49,2 %",
-      "en": "49.2%",
-      "kk": "49,2%",
-      "de": "49,2 %",
-      "es": "49,2 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Число пациентов в исследовании",
-      "en": "Number of patients in the study",
-      "kk": "Зерттеуге қатысqan науқастар саны",
-      "de": "Anzahl der Patienten in der Studie",
-      "es": "Número de pacientes en el estudio"
-     },
-     "v": {
-      "ru": "374",
-      "en": "374",
-      "kk": "374",
-      "de": "374",
-      "es": "374"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u_INQlYgeCtcA",
-    "url": "https://images.unsplash.com/photo-1638859471856-c6793be39109?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8Zm9vdCUyMGNhcmUlMjBjcmVhbSUyMHRvd2VsfGVufDF8MHx8fDE3OTQyMTc0Nzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "C WC",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-laying-on-a-towel-next-to-a-jar-of-cream-INQlYgeCtcA?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person laying on a towel next to a jar of cream"
-   }
-  },
-  {
-   "id": "nJsUT9vYz01",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-08",
-   "added": "2026-11-08T13:25:49.141Z",
-   "title": {
-    "ru": "Онкология, диабет и деменция названы главными болезнями, связанными со старением",
-    "en": "Cancer, diabetes and dementia named main age-related diseases",
-    "kk": "Онкология, диабет және деменция қартаюмен байланысты негізгі аурулар деп аталды",
-    "de": "Krebs, Diabetes und Demenz gelten als wichtigste altersbedingte Erkrankungen",
-    "es": "Cáncer, diabetes y demencia, señaladas como las principales enfermedades relacionadas con la edad"
-   },
-   "text": {
-    "ru": "Онкологические заболевания, диабет и деменция названы основными болезнями, связанными со старением. Подробностей в анонсе немного.",
-    "en": "Cancer, diabetes and dementia have been named the main diseases associated with aging. The snippet offers few details.",
-    "kk": "Онкологиялық аурулар, диабет және деменция қартаюмен байланысты негізгі аурулар ретінде аталды. Анонсте мәліметтер аз.",
-    "de": "Krebs, Diabetes und Demenz wurden als wichtigste mit dem Altern verbundene Krankheiten genannt. Der Anriss enthält wenige Details.",
-    "es": "El cáncer, la diabetes y la demencia han sido señalados como las principales enfermedades asociadas al envejecimiento. El avance ofrece pocos detalles."
-   },
-   "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
-   "src": "Хибины.ру",
-   "photoQuery": "medical clipboard stethoscope",
-   "body": {
-    "ru": "8 ноября 2026 года российские региональные СМИ передали комментарии Ольги Ткачевой, директора Российского геронтологического научно-клинического центра Пироговского университета и президента Российской ассоциации геронтологов и гериатров. «Хибины.ру» вынесли материал под заголовком о главных болезнях, связанных со старением, где упомянуты онкология, диабет и деменция.\n\nВ интервью Ткачева назвала болезни сердца и сосудов, злокачественные новообразования, сахарный диабет, патологии костно-мышечной системы, хроническую обструктивную болезнь легких и деменцию. По ее словам, именно эти недуги чаще всего снижают качество жизни и приводят к преждевременной смерти.\n\nГлавный совет специалиста — не дожидаться первых симптомов. Диспансеризация, по ее словам, помогает выявить болезнь на ранней стадии и обнаружить факторы риска, которые еще можно скорректировать. Менять образ жизни можно и раньше, на стадии предрисков, когда болезни еще нет, но уже видна неблагоприятная траектория.\n\nТкачева добавила, что в России открываются центры медицины здорового долголетия, где определяют не столько риски, сколько предриски. По ее мнению, профилактика на этом этапе может дать наибольший эффект.\n\nВажно понимать, что это экспертное мнение, а не результаты исследования. В сообщениях не приведено новых статистических данных и не указаны сроки дальнейших мер.",
-    "en": "On 8 November 2026, Russian regional media reported comments by Olga Tkacheva, director of the Russian Gerontological Clinical Centre at Pirogov University and president of the Russian Association of Gerontologists and Geriatricians. Khibiny.ru ran the story under a headline that names oncology, diabetes and dementia as major diseases linked to ageing.\n\nIn the interview, Tkacheva listed heart and blood vessel disease, cancer, diabetes, musculoskeletal disorders, chronic obstructive pulmonary disease and dementia as the conditions most directly tied to ageing. She said these are the most common causes of reduced quality of life and early death.\n\nHer central message was not to wait for symptoms. Regular medical check-ups, known in Russia as dispensary examinations, can detect disease at an early stage and reveal risk factors that can still be corrected. She added that people can begin changing their lifestyle even earlier, at the \"pre-risk\" stage, when no illness is present yet but an unfavourable trajectory is visible.\n\nTkacheva also said healthy longevity centres are opening across Russia to identify pre-risks rather than only risks. In her view, prevention is most effective at this early stage.\n\nThe statements are expert opinion rather than study results. The coverage presents no new statistics and gives no timeline for further measures.",
-    "kk": "2026 жылдың 8 қарашасында ресейлік өңірлік БАҚ Пирогов университетінің Ресейлік геронтологиялық ғылыми-клиникалық орталығының директоры әрі Ресейлік геронтологтар мен гериатрлар қауымдастығының президенті Ольга Ткачеваның пікірлерін жариялады. «Хибины.ру» бұл материалды қартаюмен байланысты негізгі аурулар туралы тақырыппен шығарды, онда онкология, диабет және деменция аталған.\n\nСұхбатында Ткачева жүрек пен қан тамырларының аурулары, қатерлі ісіктер, қант диабеті, сүйек-бұлшық ет жүйесінің патологиялары, созылмалы обструктивті өкпе ауруы және деменцияны атады. Оның айтуынша, дәл осы сырқаттар өмір сапасының төмендеуіне және ерте өлімге жиі әкеледі.\n\nМаманның басты ұсынысы — алғашқы белгілерді күтпеу. Оның айтуынша, диспансерлік тексеру ауруды ерте сатысында анықтауға және әлі түзетуге болатын қауіп факторларын табуға көмектеседі. Адамдар одан да бұрын, яғни «алдын ала қауіп» сатысында, ауру әлі жоқ, бірақ қолайсыз бағыт байқала бастаған кезде өмір салтын өзгерте бастауы мүмкін.\n\nТкачева Ресейде ұзақ өмір сүру медицинасы орталықтарының ашылып жатқанын да айтты. Бұл орталықтар тек қауіптерді емес, алдын ала қауіптерді анықтайды. Оның пікірінше, профилактика дәл осы кезеңде ең тиімді болуы мүмкін.\n\nМәлімдемелер ғылыми зерттеу нәтижелері емес, сарапшының пікірі. Хабарламада жаңа статистикалық деректер келтірілмеген және одан кейінгі шаралардың мерзімдері көрсетілмеген.",
-    "de": "Am 8. November 2026 berichteten russische Regionalmedien über Aussagen von Olga Tkacheva, Direktorin des Russischen Gerontologischen Klinisch-Wissenschaftlichen Zentrums der Pirogow-Universität und Präsidentin des Russischen Verbands der Gerontologen und Geriater. Khibiny.ru veröffentlichte den Beitrag unter einer Überschrift, die Onkologie, Diabetes und Demenz als wichtige, mit dem Altern verbundene Krankheiten nennt.\n\nIm Interview zählte Tkacheva Herz- und Gefäßerkrankungen, Krebs, Diabetes, Erkrankungen des Bewegungsapparats, chronisch obstruktive Lungenerkrankung und Demenz auf. Diese Leiden führten am häufigsten zu einer schlechteren Lebensqualität und einem vorzeitigen Tod, sagte sie.\n\nIhr zentraler Rat lautete, nicht auf erste Symptome zu warten. Regelmäßige Untersuchungen, in Russland Dispansarisierung genannt, können Erkrankungen im Frühstadium entdecken und Risikofaktoren aufzeigen, die sich noch korrigieren lassen. Laut Tkacheva kann man den Lebensstil noch früher ändern, im Stadium der sogenannten Vorrisiken, wenn noch keine Krankheit besteht, aber eine ungünstige Entwicklung erkennbar ist.\n\nTkacheva erwähnte außerdem, dass in Russland Zentren für gesundes Altern entstehen, die Vorrisiken statt nur Risiken ermitteln. Ihrer Ansicht nach kann Vorbeugung in diesem frühen Stadium am wirksamsten sein.\n\nDie Aussagen sind Expertenmeinungen und keine Studienergebnisse. Die Berichterstattung enthält keine neuen Statistiken und nennt keine Fristen für weitere Maßnahmen.",
-    "es": "El 8 de noviembre de 2026, medios regionales rusos difundieron declaraciones de Olga Tkacheva, directora del Centro Clínico Científico de Gerontología de la Universidad Pirogov y presidenta de la Asociación Rusa de Gerontólogos y Geriatras. Khibiny.ru publicó la noticia con un titular que señala la oncología, la diabetes y la demencia como enfermedades principales relacionadas con el envejecimiento.\n\nEn la entrevista, Tkacheva citó las enfermedades del corazón y los vasos sanguíneos, el cáncer, la diabetes, los trastornos musculoesqueléticos, la enfermedad pulmonar obstructiva crónica y la demencia como las afecciones más directamente ligadas al envejecimiento. Según dijo, son las que más a menudo reducen la calidad de vida y provocan muerte prematura.\n\nEl mensaje central fue no esperar a los primeros síntomas. Los controles médicos periódicos, llamados en Rusia exámenes de dispensario, pueden detectar la enfermedad en una etapa temprana y revelar factores de riesgo que aún pueden corregirse. Añadió que las personas pueden empezar a cambiar su estilo de vida incluso antes, en la fase de los llamados «preriesgos», cuando todavía no hay enfermedad pero ya se observa una trayectoria desfavorable.\n\nTkacheva también señaló que en Rusia se están abriendo centros de medicina para la longevidad saludable, que identifican preriesgos y no solo riesgos. En su opinión, la prevención es más eficaz en esta etapa temprana.\n\nLas declaraciones son opiniones de una experta, no resultados de un estudio. La información no presenta nuevas estadísticas ni plazos para medidas adicionales."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Дата публикации интервью",
-      "en": "Interview publication date",
-      "kk": "Сұхбат жарияланған күні",
-      "de": "Veröffentlichungsdatum des Interviews",
-      "es": "Fecha de publicación de la entrevista"
-     },
-     "v": {
-      "ru": "8 ноября 2026 года",
-      "en": "8 November 2026",
-      "kk": "2026 жылдың 8 қарашасы",
-      "de": "8. November 2026",
-      "es": "8 de noviembre de 2026"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u_7n2suA0AmjY",
-    "url": "https://images.unsplash.com/photo-1777805865927-a6ee4c4eacb1?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMGNsaXBib2FyZCUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sasun Bughdaryan",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/clipboard-with-stethoscope-on-a-brown-background-7n2suA0AmjY?utm_source=dia_news&utm_medium=referral",
-    "alt": "Clipboard with stethoscope on a brown background"
-   }
-  },
-  {
-   "id": "nSGM_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-08",
-   "added": "2026-11-08T12:48:49.190Z",
-   "title": {
-    "ru": "Исследование: в США за десятилетия фиксировались смерти с указанием и рака лёгких, и диабета",
-    "en": "Study tracks US deaths listing both lung cancer and diabetes across decades",
-    "kk": "Зерттеу: АҚШ-та онжылдықтар бойы өлім жағдайларында өкпе қатерлі ісігі мен диабет бірге көрсетілгені байқалды",
-    "de": "Studie untersucht US-Todesfälle mit Lungenkrebs und Diabetes über Jahrzehnte",
-    "es": "Estudio analiza las muertes en EE. UU. en las que figuran a la vez cáncer de pulmón y diabetes a lo largo de décadas"
-   },
-   "text": {
-    "ru": "Исследование отслеживает в США смерти, в свидетельствах о которых одновременно указаны рак лёгких и диабет, за несколько десятилетий.",
-    "en": "The study tracks US deaths in which both lung cancer and diabetes are listed, across several decades.",
-    "kk": "Зерттеу бірнеше онжылдық ішінде АҚШ-та өлім туралы куәліктерде өкпе қатерлі ісігі мен диабет қатар көрсетілген жағдайларды қарастырады.",
-    "de": "Die Studie erfasst über mehrere Jahrzehnte US-Todesfälle, bei denen sowohl Lungenkrebs als auch Diabetes angegeben sind.",
-    "es": "El estudio recoge, a lo largo de varias décadas, las muertes en EE. UU. en las que se registran tanto cáncer de pulmón como diabetes."
-   },
-   "url": "https://bioengineer.org/study-tracks-us-deaths-listing-both-lung-cancer-and-diabetes-across-decades/",
-   "src": "Bioengineer.org",
-   "photoQuery": "chest x-ray scan",
-   "photo": {
-    "id": "u_tHS9j3HWT1s",
-    "url": "https://images.unsplash.com/photo-1616012480717-fd9867059ca0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y2hlc3QlMjB4LXJheSUyMHNjYW58ZW58MXwwfHx8MTc5NDE0MjEzNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Umanoide",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/chest-x-ray-of-rib-cage-tHS9j3HWT1s?utm_source=dia_news&utm_medium=referral",
-    "alt": "A chest X-ray showing the rib cage, lungs, and heart structure"
-   },
-   "body": {
-    "ru": "8 ноября 2026 года сайт Bioengineer.org сообщил о национальном исследовании свидетельств о смерти в США, где одновременно указывались рак лёгких и диабет.\n\nРабота, опубликованная в журнале Discover Public Health, опиралась на федеральные данные о смертности за 1999–2023 годы и включила 174422 смерти людей в возрасте от 25 лет и старше. Авторы не измеряли личный риск или долю людей с обоими заболеваниями, а считали, как часто оба диагноза фиксировались вместе, на 100000 жителей. Показатель, скорректированный по возрасту, составил 2.871 в 1999 году и вырос до пика 3.425 в 2007 году. За следующие одиннадцать лет он снизился на 20.3 процента, до 2.731 в 2018 году. Затем вырос до 3.262 в 2021 году и снизился до 2.990 в 2023 году. Авторы оценили, что COVID-19 объяснял примерно 31 процент роста в 2019–2021 годах; остальной рост сохранился и после исключения свидетельств с COVID-19. У мужчин показатели были выше каждый год, хотя разрыв сокращался.\n\nАвторы отмечают важные ограничения. Диабет указан менее чем в 40 процентах свидетельств о смерти людей, которые, как известно, жили с этим заболеванием, поэтому реальное число умерших с обоими диагнозами, вероятно, выше. В свидетельствах также нет данных о курении, ожирении, стадии болезни и лечении. Результаты описывают закономерности и не могут установить биологические механизмы.\n\nИсследователи заключили, что эти закономерности не дают оснований менять действующие рекомендации по скринингу рака лёгких низкодозовой компьютерной томографией без прямых интервенционных испытаний. В статье не описаны конкретные дальнейшие исследования, кроме этого призыва.",
-    "en": "On November 8, 2026, the news site Bioengineer.org reported on a national study of U.S. death certificates that listed both lung cancer and diabetes.\n\nThe research, published in the journal Discover Public Health, used federal mortality records covering 1999 through 2023 and included 174422 deaths among adults aged 25 and older. Instead of measuring personal risk or the share of people with both diseases, the authors counted how often both conditions were recorded together per 100000 residents. The age-adjusted rate started at 2.871 in 1999 and peaked at 3.425 in 2007. Over the next eleven years it fell by 20.3 percent, reaching 2.731 in 2018. It then rose to 3.262 in 2021 and eased to 2.990 in 2023. The authors estimated that COVID-19 accounted for roughly 31 percent of the increase between 2019 and 2021; the rest persisted even after certificates mentioning COVID-19 were excluded. Men had higher rates every year, although the gap narrowed.\n\nThe authors note important limits. Diabetes appears on fewer than 40 percent of death certificates for people known to live with it, so the true number of people who died with both diseases is likely higher. Certificates also lack data on smoking, obesity, disease stage and treatment. The findings describe patterns and cannot establish biological mechanisms.\n\nThe researchers concluded that these patterns do not justify changing current low-dose CT lung cancer screening guidelines without direct intervention trials. The article does not describe specific follow-up studies beyond this call.",
-    "kk": "2026 жылдың 8 қарашасында Bioengineer.org сайты АҚШ-тың өлім куәліктерін ұлттық деңгейде зерттеу туралы хабарлады, онда бір мезгілде өкпе рагы мен қант диабеті көрсетілген.\n\nDiscover Public Health журналында жарияланған жұмыс 1999–2023 жылдардағы федералдық өлім статистикасына сүйенді және 25 жас және одан үлкен ересектердің 174422 өліміне қатысты. Авторлар жеке қауіп немесе екі ауруы бар адамдардың үлесін емес, екі диагноздың бірге тіркелу жиілігін 100000 тұрғынға шаққанда санады. Жасқа түзетілген көрсеткіш 1999 жылы 2.871 болды, 2007 жылы 3.425 шыңына жетті. Келесі он бір жылда ол 20.3 пайызға төмендеп, 2018 жылы 2.731-ге жетті. Содан кейін 2021 жылы 3.262-ге көтерілді, 2023 жылы 2.990-ға дейін азайды. Авторлардың бағалауынша, 2019–2021 жылдардағы өсудің шамамен 31 пайызын COVID-19 түсіндірген; қалған өсім COVID-19 көрсетілген куәліктер алынып тасталғаннан кейін де сақталды. Ерлерде көрсеткіш әр жылы жоғары болды, бірақ айырмашылық азайды.\n\nАвторлар маңызды шектеулерді атап өтеді. Қант диабеті осы ауруымен өмір сүретіні белгілі адамдардың өлім куәліктерінің 40 пайыздан азында көрсетілген, сондықтан екі ауруымен қайтыс болғандардың нақты саны жоғарырақ болуы мүмкін. Куәліктерде темекі шегу, семіздік, ауру сатысы және емдеу туралы деректер жоқ. Нәтижелер заңдылықтарды сипаттайды және биологиялық механизмдерді дәлелдей алмайды.\n\nЗерттеушілер бұл заңдылықтар тікелей араласу сынақтарынсыз өкпе рагын төмен дозалы компьютерлік томографиямен скринингтеудің қолданыстағы ұсыныстарын өзгертуге негіз бермейді деген қорытындыға келді. Мақалада осы шақырудан басқа нақты қосымша зерттеулер сипатталмаған.",
-    "de": "Am 8. November 2026 berichtete die Nachrichtenseite Bioengineer.org über eine landesweite Studie zu US-Totenscheinen, auf denen sowohl Lungenkrebs als auch Diabetes vermerkt waren.\n\nDie Arbeit, veröffentlicht im Fachjournal Discover Public Health, stützte sich auf bundesweite Sterblichkeitsdaten von 1999 bis 2023 und umfasste 174422 Todesfälle von Erwachsenen ab 25 Jahren. Statt das persönliche Sterberisiko oder den Anteil der Menschen mit beiden Krankheiten zu messen, zählten die Autoren, wie oft beide Diagnosen gemeinsam eingetragen waren, pro 100000 Einwohner. Die altersstandardisierte Rate lag 1999 bei 2.871 und stieg bis 2007 auf einen Höchstwert von 3.425. In den folgenden elf Jahren sank sie um 20.3 Prozent auf 2.731 im Jahr 2018. Danach stieg sie auf 3.262 im Jahr 2021 und ging bis 2023 auf 2.990 zurück. Die Autoren schätzten, dass COVID-19 rund 31 Prozent des Anstiegs zwischen 2019 und 2021 erklärt; der übrige Anstieg blieb auch bestehen, nachdem Totenscheine mit COVID-19 herausgerechnet wurden. Männer hatten jedes Jahr höhere Raten, wobei sich der Abstand verringerte.\n\nDie Autoren nennen wichtige Grenzen. Diabetes steht auf weniger als 40 Prozent der Totenscheine von Menschen, von denen bekannt ist, dass sie mit der Krankheit lebten; die tatsächliche Zahl der Menschen, die mit beiden Krankheiten starben, dürfte daher höher liegen. Die Totenscheine enthalten außerdem keine Angaben zu Rauchen, Adipositas, Krankheitsstadium oder Behandlung. Die Ergebnisse beschreiben Muster und können keine biologischen Mechanismen belegen.\n\nDie Forscher folgerten, dass diese Muster ohne direkte Interventionsstudien keine Grundlage bieten, die aktuellen Empfehlungen zum Lungenkrebs-Screening mit Niedrigdosis-CT zu ändern. Der Artikel beschreibt außer diesem Aufruf keine konkreten weiteren Studien.",
-    "es": "El 8 de noviembre de 2026, el sitio Bioengineer.org informó sobre un estudio nacional de certificados de defunción en EE. UU. en los que figuraban tanto el cáncer de pulmón como la diabetes.\n\nEl trabajo, publicado en la revista Discover Public Health, utilizó registros federales de mortalidad de 1999 a 2023 e incluyó 174422 muertes de adultos de 25 años o más. En lugar de medir el riesgo personal o la proporción de personas con ambas enfermedades, los autores contaron con qué frecuencia aparecían juntas ambas condiciones por cada 100000 residentes. La tasa ajustada por edad fue de 2.871 en 1999 y alcanzó un máximo de 3.425 en 2007. En los once años siguientes bajó un 20.3 por ciento, hasta 2.731 en 2018. Después subió a 3.262 en 2021 y descendió a 2.990 en 2023. Los autores estimaron que la COVID-19 explicó alrededor del 31 por ciento del aumento entre 2019 y 2021; el resto persistió incluso al excluir los certificados que mencionaban COVID-19. Los hombres tuvieron tasas más altas cada año, aunque la brecha se redujo.\n\nLos autores señalan límites importantes. La diabetes aparece en menos del 40 por ciento de los certificados de defunción de personas que se sabía que vivían con ella, por lo que el número real de personas que murieron con ambas enfermedades probablemente sea mayor. Además, los certificados no recogen datos sobre tabaquismo, obesidad, estadio de la enfermedad ni tratamiento. Los resultados describen patrones y no pueden establecer mecanismos biológicos.\n\nLos investigadores concluyeron que estos patrones no justifican cambiar las recomendaciones vigentes de cribado del cáncer de pulmón con tomografía computarizada de baja dosis sin ensayos de intervención directos. El artículo no describe estudios de seguimiento concretos más allá de este llamado."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Пик показателя смертей с обоими диагнозами",
-      "en": "Peak of the rate for deaths listing both diagnoses",
-      "kk": "Екі диагнозмен өлім көрсеткішінің шыңы",
-      "de": "Höchstwert der Rate für Todesfälle mit beiden Diagnosen",
-      "es": "Máximo de la tasa de muertes con ambos diagnósticos"
-     },
-     "v": {
-      "ru": "3.425 на 100000 человек в 2007 году",
-      "en": "3.425 per 100000 in 2007",
-      "kk": "2007 жылы 100000 адамға 3.425",
-      "de": "3.425 pro 100.000 im Jahr 2007",
-      "es": "3.425 por 100000 en 2007"
-     }
-    },
-    {
-     "k": {
-      "ru": "Снижение показателя с 2007 по 2018 год",
-      "en": "Decline in the rate from 2007 to 2018",
-      "kk": "2007–2018 жылдардағы көрсеткіш төмендеуі",
-      "de": "Rückgang der Rate von 2007 bis 2018",
-      "es": "Descenso de la tasa de 2007 a 2018"
-     },
-     "v": {
-      "ru": "на 20.3 процента, до 2.731 на 100000",
-      "en": "20.3 percent, to 2.731 per 100000",
-      "kk": "20.3 пайызға, 100000 адамға 2.731-ге дейін",
-      "de": "um 20.3 Prozent auf 2.731 pro 100.000",
-      "es": "20.3 por ciento, hasta 2.731 por 100000"
-     }
-    },
-    {
-     "k": {
-      "ru": "Доля роста в 2019–2021 годах, связанная с COVID-19",
-      "en": "Share of the 2019–2021 rise linked to COVID-19",
-      "kk": "2019–2021 жылдардағы өсімнің COVID-19-мен байланысты үлесі",
-      "de": "Anteil des Anstiegs 2019–2021, der mit COVID-19 zusammenhängt",
-      "es": "Parte del aumento de 2019–2021 vinculada a la COVID-19"
-     },
-     "v": {
-      "ru": "около 31 процента",
-      "en": "roughly 31 percent",
-      "kk": "шамамен 31 пайыз",
-      "de": "rund 31 Prozent",
-      "es": "alrededor del 31 por ciento"
-     }
-    }
-   ]
-  },
-  {
    "id": "cure-sana-up421",
    "cat": "cure",
    "stage": "early",
@@ -2574,6 +2610,18 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://news.day.az/medicine/1869534.html",
+  "ученые предупредили о последствиях слишком строгого контроля уровня сахара при диабете",
+  "scientists warn of risks from overly strict blood sugar control in diabetes",
+  "https://pobeda26.ru/news/zdravookhranenie/2026-11-09/17-tys-stavropoltsev-posetili-shkolu-diabeta-v-2025-godu-376087",
+  "17 тыс ставропольцев посетили школу диабета в 2025 году",
+  "17 000 stavropol residents attended the diabetes school in 2025",
+  "https://spbdnevnik.ru/news/2026-11-09/v-sankt-peterburge-startovala-nedelia-borby-s-diabetom",
+  "в санкт петербурге стартовала неделя борьбы с диабетом",
+  "diabetes awareness week starts in st petersburg",
+  "https://kaktus.media/doc/556513_obratit_vspiat_preddiabet._vrach_rasskazala_kogda_kyrgyzstancam_proveriat_sahar_v_krovi.html",
+  "врач рассказала когда кыргызстанцам проверять сахар в крови",
+  "doctor explains when kyrgyz residents should check blood sugar",
   "https://www.kp40.ru/news/society/150063/",
   "почти 800 калужан с диабетом получили системы непрерывного мониторинга глюкозы",
   "nearly 800 kaluga residents with diabetes received continuous glucose monitoring systems",
@@ -2667,18 +2715,6 @@ const DIA_NEWS={
   "https://bioengineer.org/case-report-details-fulminant-type-1-diabetes-superimposed-on-gestational-diabetes/",
   "описан случай фульминантного диабета 1 типа на фоне гестационного диабета",
   "case report describes fulminant type 1 diabetes superimposed on gestational diabetes",
-  "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
-  "отцу ребёнка с диабетом из уфы вернули деньги за инсулин после иска прокуратуры",
-  "father of a child with diabetes in ufa refunded for insulin after prosecutor s lawsuit",
-  "https://bioengineer.org/hospital-study-reveals-gaps-in-diabetic-foot-self-care-knowledge-in-ethiopia/",
-  "исследование в эфиопской больнице выявило пробелы в знаниях об уходе за стопой при диабете",
-  "ethiopian hospital study reveals gaps in diabetic foot self care knowledge",
-  "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
-  "онкология диабет и деменция названы главными болезнями связанными со старением",
-  "cancer diabetes and dementia named main age related diseases",
-  "https://bioengineer.org/study-tracks-us-deaths-listing-both-lung-cancer-and-diabetes-across-decades/",
-  "исследование в сша за десятилетия фиксировались смерти с указанием и рака лёгких и диабета",
-  "study tracks us deaths listing both lung cancer and diabetes across decades",
   "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
   "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
   "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
@@ -2694,6 +2730,18 @@ const DIA_NEWS={
   "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
   "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
   "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
+  "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
+  "отцу ребёнка с диабетом из уфы вернули деньги за инсулин после иска прокуратуры",
+  "father of a child with diabetes in ufa refunded for insulin after prosecutor s lawsuit",
+  "https://bioengineer.org/hospital-study-reveals-gaps-in-diabetic-foot-self-care-knowledge-in-ethiopia/",
+  "исследование в эфиопской больнице выявило пробелы в знаниях об уходе за стопой при диабете",
+  "ethiopian hospital study reveals gaps in diabetic foot self care knowledge",
+  "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
+  "онкология диабет и деменция названы главными болезнями связанными со старением",
+  "cancer diabetes and dementia named main age related diseases",
+  "https://bioengineer.org/study-tracks-us-deaths-listing-both-lung-cancer-and-diabetes-across-decades/",
+  "исследование в сша за десятилетия фиксировались смерти с указанием и рака лёгких и диабета",
+  "study tracks us deaths listing both lung cancer and diabetes across decades",
   "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
   "уход при диабетических осложнениях выходит за рамки глюкозы приоритет уязвимости органов",
   "diabetes complication care expands beyond glucose to prioritise organ vulnerability",
@@ -2996,10 +3044,255 @@ const DIA_NEWS={
     "alt": "silver and black digital device"
    }
   ],
-  "drugs": [],
-  "access": [],
-  "market": [],
-  "events": [],
-  "community": []
+  "drugs": [
+   {
+    "id": "u_msQB97gUxY0",
+    "url": "https://images.unsplash.com/photo-1624625021542-41a4ff97c025?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbnxlbnwxfDB8fHwxNzk0MjA3ODI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Towfiqu barbhuiya",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/silver-and-black-tube-type-vaporizer-msQB97gUxY0?utm_source=dia_news&utm_medium=referral",
+    "alt": "silver and black tube type vaporizer"
+   },
+   {
+    "id": "u_J4HwEwZtIs8",
+    "url": "https://images.unsplash.com/photo-1612851300081-30cac0077b3b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8aW5zdWxpbiUyMHBlbnxlbnwxfDB8fHwxNzk0MjA3ODI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Dennis Klicker",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/yellow-and-clear-glass-bottle-J4HwEwZtIs8?utm_source=dia_news&utm_medium=referral",
+    "alt": "yellow and clear glass bottle"
+   },
+   {
+    "id": "u_z03Q6GAkqKM",
+    "url": "https://images.unsplash.com/photo-1599814516324-66aa0bf16425?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGluc3VsaW4lMjBwZW58ZW58MXwwfHx8MTc5NDIwNzgyNXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "diabetesmagazijn.nl",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/silver-and-white-cross-pendant-necklace-z03Q6GAkqKM?utm_source=dia_news&utm_medium=referral",
+    "alt": "silver and white cross pendant necklace"
+   },
+   {
+    "id": "u_lB9arVo7v50",
+    "url": "https://images.unsplash.com/photo-1685485276914-6cefc2417c05?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTF8fGluc3VsaW4lMjBwZW58ZW58MXwwfHx8MTc5NDIwNzgyNXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "isens usa",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-thermometer-and-a-thermometer-on-a-table-lB9arVo7v50?utm_source=dia_news&utm_medium=referral",
+    "alt": "a thermometer and a thermometer on a table"
+   },
+   {
+    "id": "u_0aURKZ0sii4",
+    "url": "https://images.unsplash.com/photo-1626092806645-ae053131caff?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTJ8fGluc3VsaW4lMjBwZW58ZW58MXwwfHx8MTc5NDIwNzgyNXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Towfiqu barbhuiya",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-blue-click-pen-beside-teal-tablet-computer-0aURKZ0sii4?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and blue click pen beside teal tablet computer"
+   },
+   {
+    "id": "u_7pomsk3sj6w",
+    "url": "https://images.unsplash.com/photo-1599814516385-5eb0a11888d4?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTN8fGluc3VsaW4lMjBwZW58ZW58MXwwfHx8MTc5NDIwNzgyNXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "diabetesmagazijn.nl",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-and-orange-space-ship-toy-7pomsk3sj6w?utm_source=dia_news&utm_medium=referral",
+    "alt": "black and orange space ship toy"
+   }
+  ],
+  "access": [
+   {
+    "id": "u_byGTytEGjBo",
+    "url": "https://images.unsplash.com/photo-1580281657527-47f249e8f4df?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQyMjE0MTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/pharmacist-reaching-for-medication-on-shelf-byGTytEGjBo?utm_source=dia_news&utm_medium=referral",
+    "alt": "A pharmacist in a white coat reaching for a medication box on a shelf"
+   },
+   {
+    "id": "u_0-HAIyTj7Xw",
+    "url": "https://images.unsplash.com/photo-1586015555751-63bb77f4322a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQyMjE0MTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "freestocks",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-red-labeled-bottles-0-HAIyTj7Xw?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and red labeled bottles"
+   },
+   {
+    "id": "u_pyuOXgO951U",
+    "url": "https://images.unsplash.com/photo-1597121870960-7b5391b88b84?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQyMjE0MTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Franki Chamaki",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/green-and-white-labeled-box-lot-pyuOXgO951U?utm_source=dia_news&utm_medium=referral",
+    "alt": "green and white labeled box lot"
+   },
+   {
+    "id": "u_FLntgQJNjD0",
+    "url": "https://images.unsplash.com/photo-1696861308115-54a5e5a134b0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQyMjE0MTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "David Trinks",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-shelf-filled-with-lots-of-different-types-of-medicine-FLntgQJNjD0?utm_source=dia_news&utm_medium=referral",
+    "alt": "a shelf filled with lots of different types of medicine"
+   },
+   {
+    "id": "u_THdmJFIBEI8",
+    "url": "https://images.unsplash.com/photo-1528272252360-5efd274e36fb?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQyMjE0MTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Angel Sinigersky",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/assorted-labeled-bottle-on-display-shelf-THdmJFIBEI8?utm_source=dia_news&utm_medium=referral",
+    "alt": "assorted labeled bottle on display shelf"
+   },
+   {
+    "id": "u_mLaIFEtUZFs",
+    "url": "https://images.unsplash.com/photo-1696861286643-341a8d7a79e9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fHBoYXJtYWN5JTIwc2hlbHZlc3xlbnwxfDB8fHwxNzk0MjIxNDEyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "David Trinks",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-pharmacy-shelf-filled-with-lots-of-medicine-bottles-mLaIFEtUZFs?utm_source=dia_news&utm_medium=referral",
+    "alt": "a pharmacy shelf filled with lots of medicine bottles"
+   }
+  ],
+  "market": [
+   {
+    "id": "u_0lrJo37r6Nk",
+    "url": "https://images.unsplash.com/photo-1513224502586-d1e602410265?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMHRlY2hub2xvZ3klMjBkZXZpY2V8ZW58MXwwfHx8MTc5NDIyMTQxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jair Lázaro",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/medical-monitor-displaying-vital-signs-0lrJo37r6Nk?utm_source=dia_news&utm_medium=referral",
+    "alt": "A medical monitor displaying vital signs with green waveforms on a dark screen"
+   },
+   {
+    "id": "u_LwYlLzteMxo",
+    "url": "https://images.unsplash.com/photo-1595464144526-5fb181b74625?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMHRlY2hub2xvZ3klMjBkZXZpY2V8ZW58MXwwfHx8MTc5NDIyMTQxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "HH E",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-gray-digital-device-LwYlLzteMxo?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and gray digital device"
+   },
+   {
+    "id": "u_d7BwTSp3uQs",
+    "url": "https://images.unsplash.com/photo-1559000357-f6b52ddfbe37?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8bWVkaWNhbCUyMHRlY2hub2xvZ3klMjBkZXZpY2V8ZW58MXwwfHx8MTc5NDIyMTQxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "sandro porfirio",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-medical-machine-d7BwTSp3uQs?utm_source=dia_news&utm_medium=referral",
+    "alt": "white medical machine"
+   },
+   {
+    "id": "u_Gmu260C-1Mk",
+    "url": "https://images.unsplash.com/photo-1630128295920-627fb9aff5a4?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8bWVkaWNhbCUyMHRlY2hub2xvZ3klMjBkZXZpY2V8ZW58MXwwfHx8MTc5NDIyMTQxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Mufid Majnun",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-and-gray-digital-device-Gmu260C-1Mk?utm_source=dia_news&utm_medium=referral",
+    "alt": "black and gray digital device"
+   },
+   {
+    "id": "u_mBrfAiw_CZA",
+    "url": "https://images.unsplash.com/photo-1579684288402-e3e337bcc7af?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8bWVkaWNhbCUyMHRlY2hub2xvZ3klMjBkZXZpY2V8ZW58MXwwfHx8MTc5NDIyMTQxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/gray-and-black-electronic-devices-mBrfAiw_CZA?utm_source=dia_news&utm_medium=referral",
+    "alt": "gray and black electronic devices"
+   },
+   {
+    "id": "u_UmJKil_edI8",
+    "url": "https://images.unsplash.com/photo-1606206848010-83949917a080?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8bWVkaWNhbCUyMHRlY2hub2xvZ3klMjBkZXZpY2V8ZW58MXwwfHx8MTc5NDIyMTQxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Testalize.me",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-black-electric-sewing-machine-UmJKil_edI8?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and black electric sewing machine"
+   }
+  ],
+  "events": [
+   {
+    "id": "u_Dbl5UilMGIQ",
+    "url": "https://images.unsplash.com/photo-1679205691826-9157415559c2?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjIxNDEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Mars Plex",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-room-filled-with-lots-of-white-chairs-Dbl5UilMGIQ?utm_source=dia_news&utm_medium=referral",
+    "alt": "a room filled with lots of white chairs"
+   },
+   {
+    "id": "u_ZN5Q-PYdYWQ",
+    "url": "https://images.unsplash.com/photo-1586814207575-0dea25062083?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjIxNDEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Grady Coleman",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-padded-chairs-on-brown-wooden-floor-ZN5Q-PYdYWQ?utm_source=dia_news&utm_medium=referral",
+    "alt": "black padded chairs on brown wooden floor"
+   },
+   {
+    "id": "u_IQAGcyw4zns",
+    "url": "https://images.unsplash.com/photo-1773730356782-e3044e73cf6f?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjIxNDEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Liam Scotchmer",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/rows-of-empty-orange-theater-seats-IQAGcyw4zns?utm_source=dia_news&utm_medium=referral",
+    "alt": "Rows of empty orange theater seats"
+   },
+   {
+    "id": "u_yjlTDZdsvak",
+    "url": "https://images.unsplash.com/photo-1783979384797-7a5d2ad23fc8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjIxNDEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Danny Pérez",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/modern-television-studio-with-purple-lighting-and-large-screens-yjlTDZdsvak?utm_source=dia_news&utm_medium=referral",
+    "alt": "Modern television studio with purple lighting and large screens"
+   },
+   {
+    "id": "u_yPZEzoZ0EkA",
+    "url": "https://images.unsplash.com/photo-1661169398728-5fa6359767c8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjIxNDEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vizito Visitor Management",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-desk-with-a-laptop-and-a-chair-yPZEzoZ0EkA?utm_source=dia_news&utm_medium=referral",
+    "alt": "a desk with a laptop and a chair"
+   },
+   {
+    "id": "u_0_OlKblZ4eY",
+    "url": "https://images.unsplash.com/photo-1771147372634-976f022c0033?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGNvbmZlcmVuY2UlMjBoYWxsJTIwc2VhdHN8ZW58MXwwfHx8MTc5NDIyMTQxM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jakub Żerdzicki",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/orange-chairs-around-a-wooden-conference-table-0_OlKblZ4eY?utm_source=dia_news&utm_medium=referral",
+    "alt": "Orange chairs around a wooden conference table"
+   }
+  ],
+  "community": [
+   {
+    "id": "u_8manzosDSGM",
+    "url": "https://images.unsplash.com/photo-1467453678174-768ec283a940?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIyMTQxNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jannis Brandt",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/fruit-lot-on-ceramic-plate-8manzosDSGM?utm_source=dia_news&utm_medium=referral",
+    "alt": "fruit lot on ceramic plate"
+   },
+   {
+    "id": "u_26LFdL8exMo",
+    "url": "https://images.unsplash.com/photo-1631021967261-c57ee4dfa9bb?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIyMTQxNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vije Vijendranath",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/red-and-yellow-tomatoes-in-brown-woven-basket-26LFdL8exMo?utm_source=dia_news&utm_medium=referral",
+    "alt": "red and yellow tomatoes in brown woven basket"
+   },
+   {
+    "id": "u_RwoKbjJdYvE",
+    "url": "https://images.unsplash.com/photo-1455853739633-8c94c03d8121?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIyMTQxNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Carissa Gan",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/sunny-side-up-egg-on-white-ceramic-plate-beside-stainless-steel-butter-knife-and-fork-RwoKbjJdYvE?utm_source=dia_news&utm_medium=referral",
+    "alt": "sunny side-up egg on white ceramic plate beside stainless steel butter knife and fork"
+   },
+   {
+    "id": "u_vRJJy22uXcw",
+    "url": "https://images.unsplash.com/photo-1550677133-afc1a1608f23?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIyMTQxNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Hong Food",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/dish-served-on-plate-vRJJy22uXcw?utm_source=dia_news&utm_medium=referral",
+    "alt": "dish served on plate"
+   },
+   {
+    "id": "u_lgyFO6a9JTM",
+    "url": "https://images.unsplash.com/photo-1540298901673-82186025e606?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGhlYWx0aHklMjBicmVha2Zhc3QlMjB2ZWdldGFibGVzfGVufDF8MHx8fDE3OTQyMjE0MTR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "K15 Photos",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/selective-focus-photography-of-vegetables-lgyFO6a9JTM?utm_source=dia_news&utm_medium=referral",
+    "alt": "selective focus photography of vegetables"
+   },
+   {
+    "id": "u_QXzUcPen7QM",
+    "url": "https://images.unsplash.com/photo-1599297915779-0dadbd376d49?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTF8fGhlYWx0aHklMjBicmVha2Zhc3QlMjB2ZWdldGFibGVzfGVufDF8MHx8fDE3OTQyMjE0MTR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Simona Sergi",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/sliced-carrots-and-green-vegetable-in-black-ceramic-bowl-QXzUcPen7QM?utm_source=dia_news&utm_medium=referral",
+    "alt": "sliced carrots and green vegetable in black ceramic bowl"
+   }
+  ]
  }
 };
