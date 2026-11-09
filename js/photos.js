@@ -36,7 +36,7 @@ const STOCK={
  walk:PH("Participants of a walk against Diabetes and for general fitness around Nauru airport.jpg","Lorrie Graham / AusAID","CC BY 2.0"),
  run:PH("World Diabetes Day Fun Run in Maldives (150).jpg","The President's Office, Maldives",""),
 };
-const CAT_PHOTOS={devices:["own_cgm_woman","own_cgm_man","up_patch1","libre7","mg_person1","cgm14","libre5","pump780","libre2"],drugs:["up_person","mg_person2","pen1","pen3","mg_woman2"],access:["mg_doctor","mg_woman2","doc3"],approval:["mg_doctor","doc1","doc4","libre3app"],research:["own_lab","lab1","lab2","doc5"],market:["up_patch2","libre3app","pump780","libre2"],events:["own_group","run","walk"],community:["own_group","walk","run","mg_woman2"]}
+const CAT_PHOTOS={cure:["own_lab","lab1","lab2"],devices:["own_cgm_woman","own_cgm_man","up_patch1","libre7","mg_person1","cgm14","libre5","pump780","libre2"],drugs:["up_person","mg_person2","pen1","pen3","mg_woman2"],access:["mg_doctor","mg_woman2","doc3"],approval:["mg_doctor","doc1","doc4","libre3app"],research:["own_lab","lab1","lab2","doc5"],market:["up_patch2","libre3app","pump780","libre2"],events:["own_group","run","walk"],community:["own_group","walk","run","mg_woman2"]}
 /* Pexels pool from data/news.js (refreshed by the daily script): when present it replaces the old Commons/Magnific photos */
 ;(()=>{const pp=typeof DIA_NEWS!=="undefined"&&DIA_NEWS.photoPool;if(!pp)return;
   for(const c of Object.keys(CAT_PHOTOS)){const list=Array.isArray(pp[c])?pp[c]:[];if(list.length<3)continue;

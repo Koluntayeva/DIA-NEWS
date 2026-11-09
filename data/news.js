@@ -10,6 +10,448 @@ const DIA_NEWS={
  "updated": "2026-11-09T03:02:09.070Z",
  "items": [
   {
+   "id": "cure-tegoprubart-12of12",
+   "cat": "cure",
+   "stage": "results",
+   "date": "2026-06-08",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Пересадка островковых клеток с тегопрубартом: все 12 участников живут без инсулина",
+    "en": "Islet transplants with tegoprubart: all 12 participants are living without insulin",
+    "kk": "Тегопрубартпен аралшық жасушаларын ауыстыру: 12 қатысушының бәрі инсулинсіз өмір сүруде",
+    "de": "Inselzelltransplantation mit Tegoprubart: Alle 12 Teilnehmenden leben ohne Insulin",
+    "es": "Trasplante de islotes con tegoprubart: los 12 participantes viven sin insulina"
+   },
+   "text": {
+    "ru": "В пилотном исследовании Чикагского университета все 12 взрослых с многолетним диабетом 1 типа отказались от инсулина после пересадки донорских островков. Вместо такролимуса им давали новое антитело тегопрубарт от компании Eledon.",
+    "en": "In a University of Chicago pilot study, all 12 adults with long-standing type 1 diabetes stopped insulin after receiving donor islets. Instead of tacrolimus they were given tegoprubart, a new antibody from Eledon.",
+    "kk": "Чикаго университетінің пилоттық зерттеуінде ұзақ жылдар 1 типті диабетпен ауыратын 12 ересектің бәрі донорлық аралшықтарды алғаннан кейін инсулиннен бас тартты. Такролимустың орнына оларға Eledon компаниясының жаңа тегопрубарт антиденесі берілді.",
+    "de": "In einer Pilotstudie der University of Chicago konnten alle 12 Erwachsenen mit langjährigem Typ-1-Diabetes nach einer Spender-Inselzelltransplantation auf Insulin verzichten. Statt Tacrolimus erhielten sie Tegoprubart, einen neuen Antikörper von Eledon.",
+    "es": "En un estudio piloto de la Universidad de Chicago, los 12 adultos con diabetes tipo 1 de larga evolución dejaron la insulina tras recibir islotes de donante. En lugar de tacrolimus recibieron tegoprubart, un nuevo anticuerpo de Eledon."
+   },
+   "body": {
+    "ru": "В июне 2026 года на 86-м научном конгрессе Американской диабетической ассоциации хирург Пётр Витковски (UChicago Medicine) представил обновлённые данные пилотного исследования. В нём 12 взрослым с давним диабетом 1 типа и тяжёлыми гипогликемиями пересадили островковые клетки поджелудочной железы от умерших доноров. Клетки вводят через воротную вену в печень, где они приживаются и начинают вырабатывать инсулин.\n\nГлавное отличие от прежних протоколов — защита от отторжения. Обычно для этого используют такролимус, который токсичен для почек и, по мнению исследователей, повреждает и сами бета-клетки. Здесь его заменили тегопрубартом — экспериментальным антителом против CD40L, которое разрабатывает компания Eledon Pharmaceuticals.\n\nРезультат: все 12 участников перестали нуждаться во внешнем инсулине. У всех гликированный гемоглобин ниже 6,5%, в среднем 5,4%. После пересадки не было ни одного эпизода тяжёлой гипогликемии, отторжения или новых донор-специфических антител. По оценке исследователей, приживается и работает в 3–5 раз больше островков, чем при схеме с такролимусом. Срок наблюдения на момент отчёта — от 8 до 22 месяцев; части участников понадобилась вторая инфузия клеток.\n\nОграничения: исследование маленькое и без контрольной группы, донорских островков мало, а участники по-прежнему получают иммуносупрессию — тегопрубарт вводят капельно каждые три недели. Нужны данные за несколько лет. Компания получает от FDA рекомендации о пути к регистрации, а программу расширяют на другие центры, включая Университет Майами.",
+    "en": "In June 2026, at the American Diabetes Association's 86th Scientific Sessions, surgeon Piotr Witkowski of UChicago Medicine presented updated data from a pilot study. Twelve adults with long-standing type 1 diabetes and severe hypoglycemia received pancreatic islet cells from deceased donors. The cells are infused through the portal vein into the liver, where they settle and start making insulin.\n\nThe key change is how the graft is protected. The usual drug, tacrolimus, is toxic to the kidneys and, researchers believe, to beta cells themselves. Here it was replaced with tegoprubart, an experimental anti-CD40L antibody developed by Eledon Pharmaceuticals.\n\nThe result: all 12 participants no longer need external insulin. Every one has an HbA1c below 6.5%, with an average of 5.4%. Since transplant there have been no severe hypoglycemic events, no rejection episodes and no new donor-specific antibodies. Researchers estimate that 3 to 5 times more islets engraft and function than with tacrolimus-based regimens. Follow-up at the time of the report ranged from 8 to 22 months, and some participants needed a second islet infusion.\n\nLimitations: the study is small and has no control group, donor islets are scarce, and participants still take immunosuppression, with tegoprubart infused every three weeks. Multi-year data are needed. Eledon is seeking FDA guidance on a path to approval, and the program is expanding to other centers, including the University of Miami.",
+    "kk": "2026 жылғы маусымда Америка диабет қауымдастығының 86-шы ғылыми сессиясында UChicago Medicine хирургы Пётр Витковски пилоттық зерттеудің жаңартылған деректерін ұсынды. Ұзақ жылдар 1 типті диабетпен ауыратын және ауыр гипогликемиясы бар 12 ересекке қайтыс болған донорлардың ұйқы безі аралшық жасушалары ауыстырылды. Жасушалар қақпа венасы арқылы бауырға енгізіледі, сонда орнығып, инсулин шығара бастайды.\n\nНегізгі айырмашылық — трансплантатты қорғау тәсілі. Әдетте қолданылатын такролимус бүйрекке, ал зерттеушілердің пікірінше, бета-жасушалардың өзіне де улы. Мұнда ол Eledon Pharmaceuticals әзірлеп жатқан CD40L-ге қарсы тәжірибелік антидене — тегопрубартпен ауыстырылды.\n\nНәтиже: 12 қатысушының бәріне сырттан инсулин қажет емес. Барлығында гликирленген гемоглобин 6,5%-дан төмен, орташа 5,4%. Ауыстырудан кейін ауыр гипогликемия, тосырқау немесе жаңа донорға тән антиденелер тіркелмеді. Зерттеушілердің бағалауынша, такролимус схемасымен салыстырғанда 3–5 есе көп аралшық орнығып, жұмыс істейді. Есеп кезіндегі бақылау мерзімі 8–22 ай; кейбір қатысушыларға жасушаларды екінші рет енгізу қажет болды.\n\nШектеулер: зерттеу шағын әрі бақылау тобы жоқ, донорлық аралшықтар аз, ал қатысушылар әлі де иммуносупрессия алады — тегопрубарт үш апта сайын тамшылатып енгізіледі. Бірнеше жылдық деректер керек. Компания тіркеуге жол бойынша FDA-дан ұсыным алуда, ал бағдарлама басқа орталықтарға, соның ішінде Майами университетіне кеңейіп жатыр.",
+    "de": "Im Juni 2026 stellte der Chirurg Piotr Witkowski (UChicago Medicine) auf dem 86. Kongress der American Diabetes Association aktualisierte Daten einer Pilotstudie vor. Zwölf Erwachsene mit langjährigem Typ-1-Diabetes und schweren Unterzuckerungen erhielten Inselzellen aus der Bauchspeicheldrüse verstorbener Spender. Die Zellen werden über die Pfortader in die Leber geleitet, wo sie anwachsen und Insulin bilden.\n\nNeu ist der Schutz vor Abstoßung. Das übliche Medikament Tacrolimus schädigt die Nieren und nach Ansicht der Forschenden auch die Betazellen selbst. Hier wurde es durch Tegoprubart ersetzt, einen experimentellen Anti-CD40L-Antikörper von Eledon Pharmaceuticals.\n\nDas Ergebnis: Alle 12 Teilnehmenden brauchen kein externes Insulin mehr. Bei allen liegt der HbA1c unter 6,5 %, im Mittel bei 5,4 %. Seit der Transplantation gab es keine schweren Unterzuckerungen, keine Abstoßung und keine neuen spenderspezifischen Antikörper. Nach Schätzung der Forschenden wachsen 3- bis 5-mal mehr Inselzellen an als unter Tacrolimus. Die Nachbeobachtung lag zum Zeitpunkt des Berichts bei 8 bis 22 Monaten; einige Teilnehmende benötigten eine zweite Infusion.\n\nEinschränkungen: Die Studie ist klein und hat keine Kontrollgruppe, Spenderinseln sind knapp, und die Teilnehmenden erhalten weiterhin Immunsuppression – Tegoprubart wird alle drei Wochen als Infusion gegeben. Langzeitdaten über mehrere Jahre fehlen noch. Eledon holt bei der FDA Empfehlungen für den Zulassungsweg ein, und das Programm wird auf weitere Zentren ausgeweitet, darunter die University of Miami.",
+    "es": "En junio de 2026, en las 86.ª Sesiones Científicas de la Asociación Americana de Diabetes, el cirujano Piotr Witkowski (UChicago Medicine) presentó datos actualizados de un estudio piloto. Doce adultos con diabetes tipo 1 de larga evolución e hipoglucemias graves recibieron islotes pancreáticos de donantes fallecidos. Las células se infunden por la vena porta hasta el hígado, donde se asientan y empiezan a producir insulina.\n\nLa novedad es cómo se protege el injerto. El fármaco habitual, el tacrolimus, es tóxico para los riñones y, según los investigadores, también para las propias células beta. Aquí se sustituyó por tegoprubart, un anticuerpo experimental anti-CD40L de Eledon Pharmaceuticals.\n\nResultado: los 12 participantes ya no necesitan insulina externa. Todos tienen una HbA1c inferior al 6,5 %, con una media del 5,4 %. Desde el trasplante no ha habido hipoglucemias graves, rechazos ni nuevos anticuerpos específicos del donante. Los investigadores estiman que prenden y funcionan de 3 a 5 veces más islotes que con pautas basadas en tacrolimus. El seguimiento en el momento del informe iba de 8 a 22 meses, y algunos participantes necesitaron una segunda infusión.\n\nLimitaciones: el estudio es pequeño y sin grupo control, los islotes de donante escasean y los participantes siguen recibiendo inmunosupresión: el tegoprubart se administra por infusión cada tres semanas. Hacen falta datos de varios años. Eledon busca orientación de la FDA sobre la vía de aprobación y el programa se amplía a otros centros, como la Universidad de Miami."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Без инсулина",
+      "en": "Insulin-free",
+      "kk": "Инсулинсіз",
+      "de": "Ohne Insulin",
+      "es": "Sin insulina"
+     },
+     "v": {
+      "ru": "12 из 12",
+      "en": "12 of 12",
+      "kk": "12-ден 12",
+      "de": "12 von 12",
+      "es": "12 de 12"
+     }
+    },
+    {
+     "k": {
+      "ru": "Средний HbA1c",
+      "en": "Mean HbA1c",
+      "kk": "Орташа HbA1c",
+      "de": "Mittlerer HbA1c",
+      "es": "HbA1c media"
+     },
+     "v": "5,4%"
+    },
+    {
+     "k": {
+      "ru": "Наблюдение",
+      "en": "Follow-up",
+      "kk": "Бақылау",
+      "de": "Nachbeobachtung",
+      "es": "Seguimiento"
+     },
+     "v": {
+      "ru": "8–22 мес.",
+      "en": "8–22 months",
+      "kk": "8–22 ай",
+      "de": "8–22 Monate",
+      "es": "8–22 meses"
+     }
+    }
+   ],
+   "url": "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
+   "src": "Eledon / Breakthrough T1D"
+  },
+  {
+   "id": "cure-katie-beth-hand",
+   "cat": "cure",
+   "stage": "results",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "251 день без инсулина: история Кэти Бет Хэнд, пациентки №9 в исследовании тегопрубарта",
+    "en": "251 days without insulin: the story of Katie Beth Hand, patient No. 9 in the tegoprubart trial",
+    "kk": "Инсулинсіз 251 күн: тегопрубарт зерттеуіндегі №9 пациент Кэти Бет Хэндтің оқиғасы",
+    "de": "251 Tage ohne Insulin: die Geschichte von Katie Beth Hand, Patientin Nr. 9 der Tegoprubart-Studie",
+    "es": "251 días sin insulina: la historia de Katie Beth Hand, paciente n.º 9 del ensayo de tegoprubart"
+   },
+   "text": {
+    "ru": "40-летняя американка 13 лет жила с диабетом 1 типа. После пересадки донорских островков 13 января 2026 года она через неделю отказалась от базального инсулина, а с 3 марта не колет инсулин совсем.",
+    "en": "The 40-year-old American had lived with type 1 diabetes for 13 years. After a donor islet transplant on January 13, 2026, she dropped basal insulin within a week and has taken no insulin at all since March 3.",
+    "kk": "40 жастағы америкалық әйел 13 жыл 1 типті диабетпен өмір сүрді. 2026 жылғы 13 қаңтарда донорлық аралшықтар ауыстырылғаннан кейін бір аптадан соң базальды инсулиннен бас тартты, ал 3 наурыздан бері инсулинді мүлдем салмайды.",
+    "de": "Die 40-jährige Amerikanerin lebte 13 Jahre mit Typ-1-Diabetes. Nach einer Inselzelltransplantation am 13. Januar 2026 verzichtete sie nach einer Woche auf Basalinsulin und spritzt seit dem 3. März gar kein Insulin mehr.",
+    "es": "La estadounidense de 40 años vivió 13 años con diabetes tipo 1. Tras un trasplante de islotes el 13 de enero de 2026, dejó la insulina basal en una semana y desde el 3 de marzo no se inyecta nada de insulina."
+   },
+   "body": {
+    "ru": "Кэти Бет Хэнд из штата Арканзас поставили диабет 1 типа в 2013 году. Годами она засыпала с мыслью о том, куда ночью уйдёт сахар, и боялась тяжёлых гипогликемий. Она стала девятым участником пилотного исследования Чикагского университета, где донорские островковые клетки защищают от отторжения новым препаратом тегопрубарт вместо такролимуса.\n\nЗвонок о подходящем доноре застал её в ресторане, а через несколько дней она уже была в Чикаго. Накануне процедуры ей ввели тимоглобулин — ночь прошла с температурой, ознобом и рвотой. Сама пересадка 13 января 2026 года прошла под местной анестезией: интервенционный радиолог ввёл клетки через воротную вену в печень. Восстановление, по её словам, было лёгким, без боли.\n\nЧерез неделю после пересадки она отказалась от базального инсулина, а к 3 марта — от инсулина полностью. На 9 ноября 2026 года это 251 день без инсулина. Тегопрубарт она получает капельно раз в три недели и, по её словам, побочных эффектов не замечает. Сахар, говорит она, впервые за десять с лишним лет всё время в целевом диапазоне.\n\nСамым большим изменением Кэти Бет называет не отсутствие высоких сахаров, а отсутствие низких — и тишину в голове, где раньше постоянно шёл подсчёт. Её путь — часть исследования, в котором без инсулина живут все 12 участников. Врачи подчёркивают: это экспериментальное лечение, оно требует постоянной иммуносупрессии и многолетнего наблюдения.",
+    "en": "Katie Beth Hand from Arkansas was diagnosed with type 1 diabetes in 2013. For years she fell asleep worrying where her glucose would go overnight and feared severe lows. She became the ninth participant in a University of Chicago pilot study that protects donor islet cells from rejection with a new drug, tegoprubart, instead of tacrolimus.\n\nThe call about a matching donor reached her at a restaurant, and within days she was in Chicago. The night before the procedure she received thymoglobulin and had fever, chills and vomiting. The transplant itself, on January 13, 2026, was done under local anesthesia: an interventional radiologist infused the cells through the portal vein into her liver. She says recovery was easy and painless.\n\nA week after the transplant she stopped basal insulin, and by March 3 she was off insulin completely. As of November 9, 2026, that is 251 days without insulin. She receives tegoprubart by infusion every three weeks and says she notices no side effects. For the first time in over a decade, she says, her glucose stays in range all the time.\n\nKatie Beth says the biggest change is not the absence of highs but the absence of lows, and a quiet mind where there used to be constant calculation. Her journey is part of a study in which all 12 participants now live without insulin. Doctors stress that this is an experimental treatment that requires ongoing immunosuppression and years of follow-up.",
+    "kk": "Арканзас штатындағы Кэти Бет Хэндке 1 типті диабет 2013 жылы қойылды. Жылдар бойы ол түнде қант қайда кетеді деп уайымдап ұйықтап, ауыр гипогликемиядан қорқатын. Ол Чикаго университетінің пилоттық зерттеуінің тоғызыншы қатысушысы болды: онда донорлық аралшық жасушалары тосырқаудан такролимустың орнына жаңа тегопрубарт препаратымен қорғалады.\n\nЛайықты донор туралы қоңырау оны мейрамханада ұстады, бірнеше күннен кейін ол Чикагода болды. Процедура алдында оған тимоглобулин енгізілді — түн дене қызуы, қалтырау және құсумен өтті. Ауыстырудың өзі 2026 жылғы 13 қаңтарда жергілікті анестезиямен жасалды: интервенциялық радиолог жасушаларды қақпа венасы арқылы бауырға енгізді. Оның айтуынша, қалпына келу оңай әрі ауырсынусыз болды.\n\nАуыстырудан бір апта өткен соң ол базальды инсулиннен бас тартты, ал 3 наурызға қарай инсулиннен толық бас тартты. 2026 жылғы 9 қарашадағы жағдай бойынша бұл — инсулинсіз 251 күн. Тегопрубартты үш апта сайын тамшылатып алады және жанама әсерлерін байқамайтынын айтады. Оның сөзінше, он жылдан астам уақытта алғаш рет қант үнемі мақсатты диапазонда.\n\nКэти Бет ең үлкен өзгеріс жоғары қанттың болмауы емес, төмен қанттың болмауы деп санайды — бұрын үздіксіз есеп жүретін басында енді тыныштық. Оның жолы 12 қатысушының бәрі инсулинсіз өмір сүріп жатқан зерттеудің бөлігі. Дәрігерлер бұл тұрақты иммуносупрессияны және көпжылдық бақылауды қажет ететін тәжірибелік ем екенін атап өтеді.",
+    "de": "Bei Katie Beth Hand aus Arkansas wurde 2013 Typ-1-Diabetes festgestellt. Jahrelang schlief sie mit der Sorge ein, wohin ihr Zucker nachts wandert, und fürchtete schwere Unterzuckerungen. Sie wurde die neunte Teilnehmerin einer Pilotstudie der University of Chicago, in der Spender-Inselzellen mit dem neuen Medikament Tegoprubart statt Tacrolimus vor Abstoßung geschützt werden.\n\nDer Anruf wegen eines passenden Spenders erreichte sie in einem Restaurant, wenige Tage später war sie in Chicago. Am Vorabend erhielt sie Thymoglobulin und hatte Fieber, Schüttelfrost und Erbrechen. Die Transplantation selbst am 13. Januar 2026 erfolgte unter örtlicher Betäubung: Ein interventioneller Radiologe leitete die Zellen über die Pfortader in die Leber. Die Erholung sei leicht und schmerzfrei gewesen, sagt sie.\n\nEine Woche nach der Transplantation setzte sie das Basalinsulin ab, bis zum 3. März jegliches Insulin. Am 9. November 2026 sind das 251 Tage ohne Insulin. Tegoprubart bekommt sie alle drei Wochen als Infusion und bemerkt nach eigener Aussage keine Nebenwirkungen. Zum ersten Mal seit über zehn Jahren liege ihr Zucker ständig im Zielbereich.\n\nDie größte Veränderung sei nicht das Fehlen hoher Werte, sondern das Fehlen der Unterzuckerungen – und Ruhe im Kopf, wo früher ständig gerechnet wurde. Ihr Weg ist Teil einer Studie, in der alle 12 Teilnehmenden ohne Insulin leben. Die Ärzte betonen: Es handelt sich um eine experimentelle Behandlung, die dauerhafte Immunsuppression und jahrelange Nachbeobachtung erfordert.",
+    "es": "A Katie Beth Hand, de Arkansas, le diagnosticaron diabetes tipo 1 en 2013. Durante años se dormía preocupada por dónde iría su glucosa por la noche y temía las hipoglucemias graves. Se convirtió en la novena participante de un estudio piloto de la Universidad de Chicago que protege los islotes de donante del rechazo con un nuevo fármaco, tegoprubart, en lugar de tacrolimus.\n\nLa llamada sobre un donante compatible la sorprendió en un restaurante y a los pocos días ya estaba en Chicago. La noche anterior recibió timoglobulina y tuvo fiebre, escalofríos y vómitos. El trasplante, el 13 de enero de 2026, se hizo con anestesia local: un radiólogo intervencionista infundió las células por la vena porta hasta el hígado. Dice que la recuperación fue fácil y sin dolor.\n\nUna semana después del trasplante dejó la insulina basal y el 3 de marzo ya no usaba insulina en absoluto. A 9 de noviembre de 2026 son 251 días sin insulina. Recibe tegoprubart por infusión cada tres semanas y afirma no notar efectos secundarios. Por primera vez en más de diez años, dice, su glucosa está siempre en rango.\n\nPara Katie Beth, el mayor cambio no es la ausencia de subidas, sino la de bajadas, y una mente tranquila donde antes había cálculos constantes. Su caso forma parte de un estudio en el que los 12 participantes viven sin insulina. Los médicos recalcan que es un tratamiento experimental que exige inmunosupresión continua y años de seguimiento."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Пересадка",
+      "en": "Transplant",
+      "kk": "Ауыстыру",
+      "de": "Transplantation",
+      "es": "Trasplante"
+     },
+     "v": {
+      "ru": "13 янв. 2026",
+      "en": "Jan 13, 2026",
+      "kk": "13 қаң. 2026",
+      "de": "13. Jan. 2026",
+      "es": "13 ene 2026"
+     }
+    },
+    {
+     "k": {
+      "ru": "Без инсулина с",
+      "en": "Insulin-free since",
+      "kk": "Инсулинсіз",
+      "de": "Insulinfrei seit",
+      "es": "Sin insulina desde"
+     },
+     "v": {
+      "ru": "3 марта 2026",
+      "en": "Mar 3, 2026",
+      "kk": "3 наурыз 2026",
+      "de": "3. März 2026",
+      "es": "3 mar 2026"
+     }
+    },
+    {
+     "k": {
+      "ru": "Дней без инсулина",
+      "en": "Days insulin-free",
+      "kk": "Инсулинсіз күндер",
+      "de": "Tage ohne Insulin",
+      "es": "Días sin insulina"
+     },
+     "v": {
+      "ru": "251 (на 9 нояб.)",
+      "en": "251 (as of Nov 9)",
+      "kk": "251 (9 қарашада)",
+      "de": "251 (Stand 9. Nov.)",
+      "es": "251 (al 9 nov)"
+     }
+    }
+   ],
+   "url": "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
+   "src": "T1D Exchange · NBC News",
+   "photoTried": true,
+   "art": "cells"
+  },
+  {
+   "id": "cure-vertex-zimislecel",
+   "cat": "cure",
+   "stage": "phase3",
+   "date": "2026-11-02",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Островки из стволовых клеток Vertex: 10 из 12 пациентов без инсулина, следующая версия подойдёт для любой группы крови",
+    "en": "Vertex's stem-cell islets: 10 of 12 patients off insulin, and the next version is designed for any blood type",
+    "kk": "Vertex-тің бағаналы жасушалардан алынған аралшықтары: 12 пациенттің 10-ы инсулинсіз, келесі нұсқа кез келген қан тобына арналған",
+    "de": "Vertex' Stammzell-Inseln: 10 von 12 Patienten ohne Insulin, die nächste Version soll für jede Blutgruppe passen",
+    "es": "Islotes de células madre de Vertex: 10 de 12 pacientes sin insulina y la próxima versión, para cualquier grupo sanguíneo"
+   },
+   "text": {
+    "ru": "Зимислесел — выращенные в лаборатории островковые клетки. Через год после одной инфузии 10 из 12 участников не нуждались в инсулине. Сейчас Vertex делает ставку на VX-017 для людей с любой группой крови.",
+    "en": "Zimislecel consists of lab-grown islet cells. A year after a single infusion, 10 of 12 participants no longer needed insulin. Vertex is now prioritizing VX-017, designed for people of any blood type.",
+    "kk": "Зимислесел — зертханада өсірілген аралшық жасушалары. Бір рет енгізгеннен кейін бір жылдан соң 12 қатысушының 10-ына инсулин қажет болмады. Қазір Vertex кез келген қан тобындағы адамдарға арналған VX-017-ге басымдық береді.",
+    "de": "Zimislecel besteht aus im Labor gezüchteten Inselzellen. Ein Jahr nach einer einzigen Infusion brauchten 10 von 12 Teilnehmenden kein Insulin mehr. Vertex setzt nun vorrangig auf VX-017 für Menschen jeder Blutgruppe.",
+    "es": "El zimislecel son células de islote cultivadas en laboratorio. Un año después de una sola infusión, 10 de 12 participantes ya no necesitaban insulina. Vertex prioriza ahora VX-017, pensado para personas de cualquier grupo sanguíneo."
+   },
+   "body": {
+    "ru": "Зимислесел (ранее VX-880) компании Vertex Pharmaceuticals — первая полностью дифференцированная островковая терапия из стволовых клеток. Клетки выращивают в лаборатории, а не берут у доноров, поэтому их теоретически можно производить в нужном количестве. Их вводят однократно через воротную вену в печень на фоне стандартной иммуносупрессии.\n\nВ фазе 1/2 исследования FORWARD 12 человек с тяжёлыми гипогликемиями получили полную дозу — 0,8 миллиарда клеток. У всех клетки прижились: появился С-пептид, которого до лечения не было. Через год 10 из 12 участников обходились без инсулина, у всех HbA1c был ниже 7%, не было тяжёлых гипогликемий, а время в целевом диапазоне превышало 70%. Результаты опубликованы в New England Journal of Medicine в 2025 году.\n\nВ 2026 году план изменился. Зимислесел подходит только людям с группой крови A или AB, поэтому Vertex сделал приоритетом новую версию VX-017 — клетки от донора с группой крови O, «универсального донора». FDA разрешило её клинические испытания и присвоило статус Fast Track; компания рассчитывает перейти к основной (пивотальной) фазе в 2027 году. По оценке Vertex, это удвоит число людей, которым подходит терапия, — примерно с 60 до 120 тысяч. Исследование зимислесела при этом продолжается.\n\nВажно: пока это экспериментальное лечение для людей с тяжёлым течением диабета, и оно требует пожизненной иммуносупрессии. Первоначальный план подать документы на регистрацию в 2026 году компания пересматривает.",
+    "en": "Zimislecel (formerly VX-880) from Vertex Pharmaceuticals is the first fully differentiated stem-cell-derived islet therapy. The cells are grown in the lab rather than taken from donors, so in theory they can be produced at scale. They are given once, through the portal vein into the liver, alongside standard immunosuppression.\n\nIn the Phase 1/2 part of the FORWARD study, 12 people with severe hypoglycemia received the full dose of 0.8 billion cells. In all of them the cells engrafted, and C-peptide appeared where there had been none before treatment. After a year, 10 of 12 participants were insulin-free; all had an HbA1c below 7%, no severe hypoglycemia and more than 70% time in range. The results were published in the New England Journal of Medicine in 2025.\n\nIn 2026 the plan changed. Zimislecel suits only people with blood type A or AB, so Vertex prioritized a new version, VX-017, made from cells of a type O \"universal donor\". The FDA cleared its clinical trial and granted Fast Track designation; the company expects pivotal development in 2027. Vertex estimates this would double the number of eligible people from about 60,000 to about 120,000. The zimislecel study continues.\n\nNote: this is still an experimental treatment for people with severe diabetes, and it requires lifelong immunosuppression. The company is revising its original plan to file for approval in 2026.",
+    "kk": "Vertex Pharmaceuticals компаниясының зимислеселі (бұрынғы VX-880) — бағаналы жасушалардан алынған алғашқы толық дифференцияланған аралшық терапиясы. Жасушалар донорлардан алынбайды, зертханада өсіріледі, сондықтан теория жүзінде оларды қажетті мөлшерде өндіруге болады. Олар стандартты иммуносупрессия аясында қақпа венасы арқылы бауырға бір рет енгізіледі.\n\nFORWARD зерттеуінің 1/2 фазасында ауыр гипогликемиясы бар 12 адам толық дозаны — 0,8 миллиард жасушаны алды. Барлығында жасушалар орнықты: емге дейін болмаған С-пептид пайда болды. Бір жылдан кейін 12 қатысушының 10-ы инсулинсіз жүрді, барлығында HbA1c 7%-дан төмен, ауыр гипогликемия болмады, ал мақсатты диапазондағы уақыт 70%-дан асты. Нәтижелер 2025 жылы New England Journal of Medicine журналында жарияланды.\n\n2026 жылы жоспар өзгерді. Зимислесел тек A немесе AB қан тобындағы адамдарға сәйкес келеді, сондықтан Vertex жаңа нұсқаға — O қан тобындағы «әмбебап донордың» жасушаларынан жасалған VX-017-ге басымдық берді. FDA оның клиникалық сынақтарына рұқсат беріп, Fast Track мәртебесін берді; компания 2027 жылы негізгі (пивоттық) фазаға өтуді жоспарлап отыр. Vertex бағалауынша, бұл терапия сәйкес келетін адамдар санын шамамен 60 мыңнан 120 мыңға дейін екі есе арттырады. Зимислесел зерттеуі жалғасуда.\n\nМаңызды: бұл әзірге диабеттің ауыр түрі бар адамдарға арналған тәжірибелік ем және өмір бойы иммуносупрессияны қажет етеді. Компания тіркеуге құжаттарды 2026 жылы тапсыру туралы бастапқы жоспарын қайта қарап жатыр.",
+    "de": "Zimislecel (früher VX-880) von Vertex Pharmaceuticals ist die erste vollständig ausdifferenzierte Inselzelltherapie aus Stammzellen. Die Zellen werden im Labor gezüchtet statt von Spendern gewonnen und lassen sich daher theoretisch in großer Menge herstellen. Sie werden einmalig über die Pfortader in die Leber gegeben, begleitet von einer Standard-Immunsuppression.\n\nIm Phase-1/2-Teil der FORWARD-Studie erhielten 12 Menschen mit schweren Unterzuckerungen die volle Dosis von 0,8 Milliarden Zellen. Bei allen wuchsen die Zellen an, und es trat C-Peptid auf, das vor der Behandlung fehlte. Nach einem Jahr kamen 10 von 12 ohne Insulin aus; alle hatten einen HbA1c unter 7 %, keine schweren Unterzuckerungen und über 70 % Zeit im Zielbereich. Die Ergebnisse erschienen 2025 im New England Journal of Medicine.\n\n2026 änderte sich der Plan. Zimislecel eignet sich nur für Menschen mit Blutgruppe A oder AB, deshalb priorisiert Vertex die neue Version VX-017 aus Zellen eines Spenders der Blutgruppe 0, eines „Universalspenders“. Die FDA genehmigte die klinische Studie und vergab den Fast-Track-Status; die entscheidende Studienphase soll 2027 beginnen. Laut Vertex würde sich die Zahl geeigneter Patienten damit von etwa 60.000 auf etwa 120.000 verdoppeln. Die Zimislecel-Studie läuft weiter.\n\nWichtig: Es handelt sich weiterhin um eine experimentelle Behandlung für Menschen mit schwerem Diabetes, die lebenslange Immunsuppression erfordert. Den ursprünglichen Plan, 2026 die Zulassung zu beantragen, überarbeitet das Unternehmen.",
+    "es": "El zimislecel (antes VX-880) de Vertex Pharmaceuticals es la primera terapia de islotes totalmente diferenciados a partir de células madre. Las células se cultivan en laboratorio en vez de obtenerse de donantes, por lo que en teoría pueden producirse a gran escala. Se administran una sola vez por la vena porta hasta el hígado, junto con inmunosupresión estándar.\n\nEn la fase 1/2 del estudio FORWARD, 12 personas con hipoglucemias graves recibieron la dosis completa de 0,8 mil millones de células. En todas las células prendieron y apareció péptido C, ausente antes del tratamiento. Al cabo de un año, 10 de 12 participantes no necesitaban insulina; todos tenían HbA1c inferior al 7 %, ninguna hipoglucemia grave y más del 70 % del tiempo en rango. Los resultados se publicaron en el New England Journal of Medicine en 2025.\n\nEn 2026 el plan cambió. El zimislecel solo sirve para personas con grupo sanguíneo A o AB, así que Vertex priorizó una nueva versión, VX-017, hecha con células de un donante del grupo O, \"donante universal\". La FDA autorizó su ensayo clínico y le concedió la designación Fast Track; la compañía prevé pasar a la fase pivotal en 2027. Según Vertex, eso duplicaría el número de personas candidatas, de unas 60.000 a unas 120.000. El estudio de zimislecel continúa.\n\nImportante: sigue siendo un tratamiento experimental para personas con diabetes grave y requiere inmunosupresión de por vida. La compañía está revisando su plan inicial de solicitar la aprobación en 2026."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Без инсулина через год",
+      "en": "Insulin-free at 1 year",
+      "kk": "Бір жылдан кейін инсулинсіз",
+      "de": "Ohne Insulin nach 1 Jahr",
+      "es": "Sin insulina al año"
+     },
+     "v": {
+      "ru": "10 из 12",
+      "en": "10 of 12",
+      "kk": "12-ден 10",
+      "de": "10 von 12",
+      "es": "10 de 12"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доза",
+      "en": "Dose",
+      "kk": "Доза",
+      "de": "Dosis",
+      "es": "Dosis"
+     },
+     "v": {
+      "ru": "0,8 млрд клеток",
+      "en": "0.8 billion cells",
+      "kk": "0,8 млрд жасуша",
+      "de": "0,8 Mrd. Zellen",
+      "es": "0,8 mil millones de células"
+     }
+    },
+    {
+     "k": {
+      "ru": "VX-017, пивотальная фаза",
+      "en": "VX-017 pivotal phase",
+      "kk": "VX-017 пивоттық фазасы",
+      "de": "VX-017 Zulassungsstudie",
+      "es": "VX-017 fase pivotal"
+     },
+     "v": "2027"
+    }
+   ],
+   "url": "https://investors.vrtx.com/node/35101/pdf",
+   "src": "Vertex Pharmaceuticals · NEJM"
+  },
+  {
+   "id": "cure-sana-up421",
+   "cat": "cure",
+   "stage": "early",
+   "date": "2026-11-05",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Островки работают 14 месяцев без иммуносупрессии: генно-модифицированные клетки Sana обходят иммунитет",
+    "en": "Islets working for 14 months without immunosuppression: Sana's gene-edited cells evade the immune system",
+    "kk": "Аралшықтар иммуносупрессиясыз 14 ай жұмыс істеп тұр: Sana-ның гендік түрлендірілген жасушалары иммунитеттен жалтарады",
+    "de": "Inselzellen arbeiten seit 14 Monaten ohne Immunsuppression: Sanas genveränderte Zellen entgehen dem Immunsystem",
+    "es": "Islotes que funcionan 14 meses sin inmunosupresión: las células editadas de Sana esquivan al sistema inmune"
+   },
+   "text": {
+    "ru": "В Швеции пациенту с диабетом 1 типа пересадили «гипоиммунные» донорские островки без каких-либо препаратов против отторжения. Через 14 месяцев клетки живы и вырабатывают инсулин.",
+    "en": "In Sweden, a person with type 1 diabetes received \"hypoimmune\" donor islets without any anti-rejection drugs. Fourteen months later the cells are alive and producing insulin.",
+    "kk": "Швецияда 1 типті диабеті бар пациентке тосырқауға қарсы ешқандай препаратсыз «гипоиммунды» донорлық аралшықтар ауыстырылды. 14 айдан кейін жасушалар тірі және инсулин шығарып жатыр.",
+    "de": "In Schweden erhielt ein Mensch mit Typ-1-Diabetes „hypoimmune“ Spender-Inselzellen ganz ohne Medikamente gegen Abstoßung. 14 Monate später leben die Zellen und bilden Insulin.",
+    "es": "En Suecia, una persona con diabetes tipo 1 recibió islotes de donante \"hipoinmunes\" sin ningún fármaco antirrechazo. Catorce meses después, las células siguen vivas y producen insulina."
+   },
+   "body": {
+    "ru": "Главное препятствие для пересадки островков — необходимость пожизненно подавлять иммунитет: иначе организм отторгнет чужие клетки, а аутоиммунная атака, вызвавшая диабет, повторится. Компания Sana Biotechnology пытается решить обе проблемы генным редактированием.\n\nВ исследовании, которое ведёт профессор Пер-Ула Карлссон в Университетской больнице Уппсалы, донорские островки отредактировали по технологии HIP («гипоиммунные клетки») и ввели небольшую дозу в мышцу предплечья одному пациенту с диабетом 1 типа. Никаких иммуносупрессантов, включая стероиды, он не получал.\n\nЧерез 14 месяцев в крови по-прежнему определяется С-пептид, и его уровень растёт после еды — значит, пересаженные бета-клетки работают и реагируют на пищу. ПЭТ-МРТ на 12-й и 52-й неделе показала клетки в месте пересадки. Проблем с безопасностью не выявлено, иммунная система клетки не атакует. Результаты опубликованы в New England Journal of Medicine.\n\nОграничения: это один пациент и очень малая доза, поэтому исследование не рассчитано на отказ от инсулина — его цель доказать, что клетки выживают без иммуносупрессии. Следующий шаг Sana — SC451: гипоиммунные островки из стволовых клеток донора с группой крови O(-). Компания планирует подать заявку на клинические испытания и начать фазу 1/2.",
+    "en": "The main obstacle to islet transplantation is the need for lifelong immune suppression: otherwise the body rejects the foreign cells, and the autoimmune attack that caused diabetes returns. Sana Biotechnology is trying to solve both problems with gene editing.\n\nIn a study led by Professor Per-Ola Carlsson at Uppsala University Hospital, donor islets were edited with HIP (\"hypoimmune\") technology and a small dose was placed into the forearm muscle of one patient with type 1 diabetes. He received no immunosuppressants at all, not even steroids.\n\nAfter 14 months, C-peptide is still present in the blood and rises after a meal, meaning the transplanted beta cells work and respond to food. PET-MRI at weeks 12 and 52 showed the cells at the transplant site. No safety issues were found, and the immune system is not attacking the cells. The results were published in the New England Journal of Medicine.\n\nLimitations: this is one patient and a very small dose, so the study was not designed to get him off insulin; its goal is to show that the cells survive without immunosuppression. Sana's next step is SC451, hypoimmune islets made from stem cells of an O-negative donor. The company plans to file for clinical trials and start a Phase 1/2 study.",
+    "kk": "Аралшықтарды ауыстырудың басты кедергісі — иммунитетті өмір бойы басу қажеттігі: әйтпесе ағза бөгде жасушаларды тосырқайды, ал диабетті тудырған аутоиммундық шабуыл қайталанады. Sana Biotechnology компаниясы екі мәселені де гендік редакциялау арқылы шешуге тырысуда.\n\nУппсала университеттік ауруханасында профессор Пер-Ула Карлссон жүргізіп отырған зерттеуде донорлық аралшықтар HIP («гипоиммунды жасушалар») технологиясымен редакцияланып, 1 типті диабеті бар бір пациенттің білек бұлшықетіне шағын доза енгізілді. Ол ешқандай иммуносупрессант, тіпті стероид та алмады.\n\n14 айдан кейін қанда С-пептид әлі анықталады және тамақтан кейін көтеріледі — демек, ауыстырылған бета-жасушалар жұмыс істеп, тамаққа жауап береді. 12-ші және 52-ші аптадағы ПЭТ-МРТ жасушаларды ауыстырылған жерде көрсетті. Қауіпсіздік мәселелері анықталмады, иммундық жүйе жасушаларға шабуыл жасамайды. Нәтижелер New England Journal of Medicine журналында жарияланды.\n\nШектеулер: бұл бір пациент және өте аз доза, сондықтан зерттеу инсулиннен бас тартуға есептелмеген — оның мақсаты жасушалардың иммуносупрессиясыз тірі қалатынын дәлелдеу. Sana-ның келесі қадамы — SC451: O(-) қан тобындағы донордың бағаналы жасушаларынан алынған гипоиммунды аралшықтар. Компания клиникалық сынақтарға өтінім беріп, 1/2 фазаны бастауды жоспарлап отыр.",
+    "de": "Das größte Hindernis bei Inselzelltransplantationen ist die lebenslange Unterdrückung des Immunsystems: Sonst stößt der Körper die fremden Zellen ab, und der Autoimmunangriff, der den Diabetes ausgelöst hat, kehrt zurück. Sana Biotechnology will beide Probleme mit Genom-Editierung lösen.\n\nIn einer Studie unter Leitung von Professor Per-Ola Carlsson am Universitätskrankenhaus Uppsala wurden Spender-Inselzellen mit der HIP-Technologie („hypoimmun“) verändert und in kleiner Dosis in den Unterarmmuskel eines Patienten mit Typ-1-Diabetes gesetzt. Er erhielt keinerlei Immunsuppressiva, auch keine Steroide.\n\nNach 14 Monaten ist weiterhin C-Peptid im Blut nachweisbar, und es steigt nach dem Essen – die transplantierten Betazellen arbeiten also und reagieren auf Nahrung. PET-MRT-Aufnahmen in Woche 12 und 52 zeigten die Zellen an der Transplantationsstelle. Sicherheitsprobleme traten nicht auf, das Immunsystem greift die Zellen nicht an. Die Ergebnisse erschienen im New England Journal of Medicine.\n\nEinschränkungen: Es handelt sich um einen einzigen Patienten und eine sehr kleine Dosis; die Studie sollte daher nicht zur Insulinfreiheit führen, sondern zeigen, dass die Zellen ohne Immunsuppression überleben. Sanas nächster Schritt ist SC451, hypoimmune Inselzellen aus Stammzellen eines Spenders mit Blutgruppe 0 negativ. Das Unternehmen will die klinische Prüfung beantragen und eine Phase-1/2-Studie beginnen.",
+    "es": "El principal obstáculo del trasplante de islotes es la necesidad de suprimir el sistema inmune de por vida: de lo contrario, el cuerpo rechaza las células ajenas y vuelve el ataque autoinmune que causó la diabetes. Sana Biotechnology intenta resolver ambos problemas con edición genética.\n\nEn un estudio dirigido por el profesor Per-Ola Carlsson en el Hospital Universitario de Uppsala, se editaron islotes de donante con la tecnología HIP (\"hipoinmune\") y se implantó una dosis pequeña en el músculo del antebrazo de un paciente con diabetes tipo 1. No recibió ningún inmunosupresor, ni siquiera esteroides.\n\nA los 14 meses, el péptido C sigue presente en sangre y sube después de comer: las células beta trasplantadas funcionan y responden a la comida. Las PET-RM de las semanas 12 y 52 mostraron las células en el lugar del implante. No se detectaron problemas de seguridad y el sistema inmune no las ataca. Los resultados se publicaron en el New England Journal of Medicine.\n\nLimitaciones: es un solo paciente y una dosis muy pequeña, por lo que el estudio no se diseñó para retirar la insulina; su objetivo es demostrar que las células sobreviven sin inmunosupresión. El siguiente paso de Sana es SC451, islotes hipoinmunes obtenidos de células madre de un donante O negativo. La compañía prevé solicitar los ensayos clínicos e iniciar una fase 1/2."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Наблюдение",
+      "en": "Follow-up",
+      "kk": "Бақылау",
+      "de": "Nachbeobachtung",
+      "es": "Seguimiento"
+     },
+     "v": {
+      "ru": "14 месяцев",
+      "en": "14 months",
+      "kk": "14 ай",
+      "de": "14 Monate",
+      "es": "14 meses"
+     }
+    },
+    {
+     "k": {
+      "ru": "Иммуносупрессия",
+      "en": "Immunosuppression",
+      "kk": "Иммуносупрессия",
+      "de": "Immunsuppression",
+      "es": "Inmunosupresión"
+     },
+     "v": {
+      "ru": "нет",
+      "en": "none",
+      "kk": "жоқ",
+      "de": "keine",
+      "es": "ninguna"
+     }
+    },
+    {
+     "k": {
+      "ru": "Следующий шаг",
+      "en": "Next step",
+      "kk": "Келесі қадам",
+      "de": "Nächster Schritt",
+      "es": "Siguiente paso"
+     },
+     "v": "SC451"
+    }
+   ],
+   "url": "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
+   "src": "Sana Biotechnology · NEJM"
+  },
+  {
+   "id": "cure-cipsc-china",
+   "cat": "cure",
+   "stage": "phase1",
+   "date": "2024-09-25",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Островки из собственных клеток пациентки: в Китае женщина больше года живёт без инсулина",
+    "en": "Islets grown from the patient's own cells: a woman in China has lived without insulin for over a year",
+    "kk": "Пациенттің өз жасушаларынан өсірілген аралшықтар: Қытайда әйел бір жылдан астам инсулинсіз өмір сүруде",
+    "de": "Inselzellen aus eigenen Zellen: Eine Frau in China lebt seit über einem Jahr ohne Insulin",
+    "es": "Islotes cultivados con las propias células de la paciente: una mujer en China lleva más de un año sin insulina"
+   },
+   "text": {
+    "ru": "Учёные перепрограммировали клетки самой пациентки в стволовые и вырастили из них островки. С 75-го дня после пересадки она не нуждается в инсулине — так было на протяжении всего года наблюдения.",
+    "en": "Scientists reprogrammed the patient's own cells into stem cells and grew islets from them. From day 75 after the transplant she no longer needed insulin, and this held for the whole year of follow-up.",
+    "kk": "Ғалымдар пациенттің өз жасушаларын бағаналы жасушаларға қайта бағдарламалап, олардан аралшықтар өсірді. Ауыстырудан кейінгі 75-ші күннен бастап оған инсулин қажет болмады — бұл бақылаудың бүкіл жылы бойы сақталды.",
+    "de": "Forscher programmierten Zellen der Patientin in Stammzellen um und züchteten daraus Inselzellen. Ab Tag 75 nach der Transplantation brauchte sie kein Insulin mehr – über das gesamte Beobachtungsjahr.",
+    "es": "Los científicos reprogramaron células de la propia paciente en células madre y cultivaron islotes con ellas. Desde el día 75 tras el trasplante no necesitó insulina, y así siguió durante todo el año de seguimiento."
+   },
+   "body": {
+    "ru": "В сентябре 2024 года журнал Cell опубликовал результаты первой в мире аутологичной пересадки островков, выращенных из химически индуцированных плюрипотентных стволовых клеток. Работу возглавили Дэн Хункуй из Пекинского университета и Шэнь Чжунъян из Тяньцзиня.\n\nУ 25-летней пациентки с трудно контролируемым диабетом 1 типа взяли клетки жировой ткани и с помощью набора небольших молекул, без введения генов, превратили их в плюрипотентные стволовые клетки, а затем — в островки. Поскольку клетки свои, риск отторжения как чужеродного трансплантата отпадает. Островки ввели не в печень, а под переднюю оболочку прямой мышцы живота — это место легко наблюдать с помощью МРТ и при необходимости удалить клетки.\n\nДоза инсулина после операции постепенно снижалась, и на 75-й день пациентка полностью отказалась от инсулина. В течение года наблюдения сахар натощак оставался ниже порога диагноза диабета, а время в целевом диапазоне выросло с 43% до 96% к четвёртому месяцу и затем держалось выше 98%. Гликированный гемоглобин опустился до уровня людей без диабета.\n\nОграничения: это один человек и одна фаза 1 исследования (ChiCTR2300072200). Пациентка уже принимала иммуносупрессанты после двух пересадок печени, поэтому вопрос о том, защитят ли собственные клетки от аутоиммунной атаки без лекарств, остаётся открытым. Нужны новые пациенты и долгое наблюдение.",
+    "en": "In September 2024 the journal Cell published the results of the world's first autologous transplant of islets grown from chemically induced pluripotent stem cells. The work was led by Deng Hongkui of Peking University and Shen Zhongyang of Tianjin.\n\nFat-tissue cells were taken from a 25-year-old woman with hard-to-control type 1 diabetes and turned into pluripotent stem cells using a set of small molecules, without inserting genes, and then into islets. Because the cells are her own, the risk of rejection as a foreign graft goes away. The islets were placed not in the liver but under the front sheath of the abdominal rectus muscle, a site that is easy to monitor by MRI and from which the cells could be removed if needed.\n\nHer insulin dose fell gradually after the operation, and on day 75 she stopped insulin completely. Throughout the year of follow-up her fasting glucose stayed below the diabetes threshold, and time in range rose from 43% to 96% by month four, then stayed above 98%. Her HbA1c fell to non-diabetic levels.\n\nLimitations: this is one person and a Phase 1 study (ChiCTR2300072200). The patient was already taking immunosuppressants after two liver transplants, so whether her own cells would be safe from the autoimmune attack without drugs remains an open question. More patients and long follow-up are needed.",
+    "kk": "2024 жылғы қыркүйекте Cell журналы химиялық жолмен индукцияланған плюрипотентті бағаналы жасушалардан өсірілген аралшықтарды әлемде алғаш рет аутологиялық ауыстыру нәтижелерін жариялады. Жұмысты Пекин университетінен Дэн Хункуй және Тяньцзиньнен Шэнь Чжунъян басқарды.\n\nҚиын бақыланатын 1 типті диабеті бар 25 жастағы пациенттен май тінінің жасушалары алынып, гендер енгізбей, шағын молекулалар жиынтығы арқылы плюрипотентті бағаналы жасушаларға, содан кейін аралшықтарға айналдырылды. Жасушалар өзінікі болғандықтан, бөгде трансплантат ретінде тосырқау қаупі жойылады. Аралшықтар бауырға емес, іштің тік бұлшықетінің алдыңғы қабығының астына енгізілді — бұл жерді МРТ арқылы бақылау оңай, қажет болса жасушаларды алып тастауға болады.\n\nОперациядан кейін инсулин дозасы біртіндеп азайып, 75-ші күні пациент инсулиннен толық бас тартты. Бақылаудың бір жылы бойы аш қарынға қант диабет диагнозының шегінен төмен болды, ал мақсатты диапазондағы уақыт төртінші айға қарай 43%-дан 96%-ға дейін өсіп, кейін 98%-дан жоғары болды. Гликирленген гемоглобин диабеті жоқ адамдардың деңгейіне дейін төмендеді.\n\nШектеулер: бұл бір адам және 1 фазалық зерттеу (ChiCTR2300072200). Пациент бауырды екі рет ауыстырғаннан кейін иммуносупрессанттар қабылдап жүрген, сондықтан өз жасушалары дәрісіз аутоиммундық шабуылдан қорғала ма деген сұрақ ашық қалады. Жаңа пациенттер және ұзақ бақылау қажет.",
+    "de": "Im September 2024 veröffentlichte die Fachzeitschrift Cell die Ergebnisse der weltweit ersten autologen Transplantation von Inselzellen aus chemisch induzierten pluripotenten Stammzellen. Geleitet wurde die Arbeit von Deng Hongkui (Peking-Universität) und Shen Zhongyang (Tianjin).\n\nEiner 25-jährigen Patientin mit schwer einstellbarem Typ-1-Diabetes wurden Fettgewebszellen entnommen und mit einem Satz kleiner Moleküle – ohne Einschleusen von Genen – in pluripotente Stammzellen und dann in Inselzellen umgewandelt. Da es ihre eigenen Zellen sind, entfällt die Abstoßung als fremdes Transplantat. Die Inseln wurden nicht in die Leber, sondern unter die vordere Scheide des geraden Bauchmuskels gesetzt – eine Stelle, die sich per MRT gut überwachen lässt und an der die Zellen notfalls entfernt werden können.\n\nIhre Insulindosis sank nach der Operation schrittweise, an Tag 75 verzichtete sie vollständig auf Insulin. Im gesamten Beobachtungsjahr lag der Nüchternzucker unter der Diabetes-Schwelle, die Zeit im Zielbereich stieg bis Monat vier von 43 % auf 96 % und lag danach über 98 %. Der HbA1c sank auf das Niveau von Menschen ohne Diabetes.\n\nEinschränkungen: Es handelt sich um eine Person in einer Phase-1-Studie (ChiCTR2300072200). Die Patientin nahm nach zwei Lebertransplantationen bereits Immunsuppressiva; ob eigene Zellen ohne Medikamente vor dem Autoimmunangriff sicher wären, bleibt offen. Weitere Patienten und lange Beobachtung sind nötig.",
+    "es": "En septiembre de 2024 la revista Cell publicó los resultados del primer trasplante autólogo del mundo de islotes obtenidos de células madre pluripotentes inducidas químicamente. El trabajo lo dirigieron Deng Hongkui, de la Universidad de Pekín, y Shen Zhongyang, de Tianjin.\n\nA una paciente de 25 años con diabetes tipo 1 difícil de controlar se le extrajeron células de tejido graso, que se convirtieron en células madre pluripotentes con un conjunto de moléculas pequeñas, sin introducir genes, y después en islotes. Al ser células propias, desaparece el riesgo de rechazo como injerto ajeno. Los islotes no se colocaron en el hígado sino bajo la vaina anterior del músculo recto del abdomen, un lugar fácil de vigilar por resonancia y del que podrían retirarse si hiciera falta.\n\nSu dosis de insulina bajó poco a poco tras la operación y el día 75 la dejó por completo. Durante todo el año de seguimiento la glucosa en ayunas se mantuvo por debajo del umbral de diabetes y el tiempo en rango pasó del 43 % al 96 % al cuarto mes y después se mantuvo por encima del 98 %. Su HbA1c bajó a niveles de personas sin diabetes.\n\nLimitaciones: es una sola persona y un estudio de fase 1 (ChiCTR2300072200). La paciente ya tomaba inmunosupresores tras dos trasplantes de hígado, así que sigue abierta la pregunta de si sus propias células estarían a salvo del ataque autoinmune sin fármacos. Hacen falta más pacientes y un seguimiento largo."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Без инсулина с",
+      "en": "Insulin-free from",
+      "kk": "Инсулинсіз",
+      "de": "Insulinfrei ab",
+      "es": "Sin insulina desde"
+     },
+     "v": {
+      "ru": "75-го дня",
+      "en": "day 75",
+      "kk": "75-ші күннен",
+      "de": "Tag 75",
+      "es": "el día 75"
+     }
+    },
+    {
+     "k": {
+      "ru": "Время в диапазоне",
+      "en": "Time in range",
+      "kk": "Диапазондағы уақыт",
+      "de": "Zeit im Zielbereich",
+      "es": "Tiempo en rango"
+     },
+     "v": "43% → >98%"
+    },
+    {
+     "k": {
+      "ru": "Наблюдение",
+      "en": "Follow-up",
+      "kk": "Бақылау",
+      "de": "Nachbeobachtung",
+      "es": "Seguimiento"
+     },
+     "v": {
+      "ru": "1 год",
+      "en": "1 year",
+      "kk": "1 жыл",
+      "de": "1 Jahr",
+      "es": "1 año"
+     }
+    }
+   ],
+   "url": "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
+   "src": "Cell"
+  },
+  {
+   "id": "cure-stanford-tolerance",
+   "cat": "cure",
+   "stage": "early",
+   "date": "2026-04-28",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Стэнфорд: островки и костный мозг от одного донора — шаг к пересадке без пожизненных лекарств",
+    "en": "Stanford: islets and bone marrow from one donor, a step toward transplants without lifelong drugs",
+    "kk": "Стэнфорд: бір донордың аралшықтары мен сүйек кемігі — өмір бойы дәрісіз ауыстыруға қадам",
+    "de": "Stanford: Inselzellen und Knochenmark vom selben Spender – ein Schritt zu Transplantationen ohne lebenslange Medikamente",
+    "es": "Stanford: islotes y médula ósea del mismo donante, un paso hacia trasplantes sin fármacos de por vida"
+   },
+   "text": {
+    "ru": "Врачи Стэнфорда впервые пересадили донорские островки вместе с костным мозгом того же донора, чтобы иммунитет принял клетки как свои. Время в целевом диапазоне сахара у пациента выросло с менее чем 40% почти до 100%.",
+    "en": "Stanford doctors for the first time transplanted donor islets together with bone marrow from the same donor so the immune system would accept the cells as its own. The patient's time in glucose target range rose from under 40% to nearly 100%.",
+    "kk": "Стэнфорд дәрігерлері алғаш рет донорлық аралшықтарды сол донордың сүйек кемігімен бірге ауыстырды, иммунитет жасушаларды өзінікі ретінде қабылдауы үшін. Пациенттің мақсатты диапазондағы уақыты 40%-дан төменнен шамамен 100%-ға дейін өсті.",
+    "de": "Ärzte in Stanford transplantierten erstmals Spender-Inselzellen zusammen mit Knochenmark desselben Spenders, damit das Immunsystem die Zellen als eigene akzeptiert. Die Zeit im Zielbereich stieg beim Patienten von unter 40 % auf fast 100 %.",
+    "es": "Médicos de Stanford trasplantaron por primera vez islotes de donante junto con médula ósea del mismo donante para que el sistema inmune acepte las células como propias. El tiempo en rango del paciente pasó de menos del 40 % a casi el 100 %."
+   },
+   "body": {
+    "ru": "В апреле 2026 года Стэнфордский медицинский центр рассказал о первой пересадке донорских островков с индукцией иммунной толерантности. Процедуру провели в мае 2025 года в рамках программы SPIRIT. Идею называют «смешанным химеризмом»: вместе с островками пациент получает костный мозг того же донора, и иммунная система учится считать донорские клетки своими.\n\nОстровки умершего донора выделили специалисты UCSF и ввели в печень, а на следующий день пациенту перелили донорский костный мозг. Вся госпитализация заняла четыре дня — гораздо меньше, чем восстановление после пересадки поджелудочной железы.\n\nПосле процедуры у пациента вырос С-пептид — признак того, что островки прижились и вырабатывают инсулин. Время в целевом диапазоне сахара увеличилось с менее чем 40% почти до 100%.\n\nВажная оговорка: у этого пациента раньше была пересадка почки, поэтому он и так принимает препараты против отторжения, и проверить, можно ли обойтись без них, в его случае нельзя. Команда — хирург Стефан Буск, нефролог Джейн Тан, гематолог Эверетт Мейер и другие — планирует лечить новых пациентов, начиная с людей с нераспознаваемыми гипогликемиями, и уже у них оценивать отказ от иммуносупрессии. Продолжение работы зависит от дополнительного финансирования.",
+    "en": "In April 2026, Stanford Health Care described the first donor islet transplant with immune tolerance induction. The procedure was performed in May 2025 under the SPIRIT program. The idea is called mixed chimerism: along with the islets the patient receives bone marrow from the same donor, and the immune system learns to treat the donor cells as its own.\n\nIslets from a deceased donor were isolated by UCSF specialists and infused into the liver, and the next day the patient received the donor's bone marrow. The entire hospital stay took four days, far shorter than recovery from a pancreas transplant.\n\nAfter the procedure the patient's C-peptide rose, a sign that the islets had engrafted and were making insulin. Time in the glucose target range increased from under 40% to nearly 100%.\n\nAn important caveat: this patient had a previous kidney transplant and already takes anti-rejection drugs, so whether they could be stopped could not be tested in his case. The team, including surgeon Stephan Busque, nephrologist Jane Tan and hematologist Everett Meyer, plans to treat more patients, starting with people with hypoglycemia unawareness, and to assess stopping immunosuppression in them. Continuing the work depends on additional funding.",
+    "kk": "2026 жылғы сәуірде Стэнфорд медициналық орталығы иммундық толеранттылықты индукциялай отырып донорлық аралшықтарды алғаш ауыстыру туралы хабарлады. Процедура 2025 жылғы мамырда SPIRIT бағдарламасы аясында жасалды. Бұл идея «аралас химеризм» деп аталады: аралшықтармен бірге пациент сол донордың сүйек кемігін алады, ал иммундық жүйе донор жасушаларын өзінікі деп санауға үйренеді.\n\nҚайтыс болған донордың аралшықтарын UCSF мамандары бөліп алып, бауырға енгізді, ал келесі күні пациентке донордың сүйек кемігі құйылды. Бүкіл ауруханада болу төрт күнге созылды — ұйқы безін ауыстырудан кейінгі қалпына келуден әлдеқайда қысқа.\n\nПроцедурадан кейін пациенттің С-пептиді өсті — бұл аралшықтардың орнығып, инсулин шығарып жатқанының белгісі. Мақсатты диапазондағы уақыт 40%-дан төменнен шамамен 100%-ға дейін артты.\n\nМаңызды ескерту: бұл пациентке бұрын бүйрек ауыстырылған, сондықтан ол тосырқауға қарсы препараттарды онсыз да қабылдайды, оның жағдайында олардан бас тартуға болатынын тексеру мүмкін емес. Хирург Стефан Буск, нефролог Джейн Тан, гематолог Эверетт Мейер және басқалардан тұратын топ жаңа пациенттерді, ең алдымен гипогликемияны сезбейтін адамдарды емдеуді және соларда иммуносупрессиядан бас тартуды бағалауды жоспарлап отыр. Жұмыстың жалғасуы қосымша қаржыландыруға байланысты.",
+    "de": "Im April 2026 berichtete Stanford Health Care über die erste Transplantation von Spender-Inselzellen mit Induktion von Immuntoleranz. Der Eingriff fand im Mai 2025 im Rahmen des Programms SPIRIT statt. Das Prinzip heißt gemischter Chimärismus: Zusammen mit den Inselzellen erhält der Patient Knochenmark desselben Spenders, und das Immunsystem lernt, die Spenderzellen als eigene zu behandeln.\n\nInselzellen eines verstorbenen Spenders wurden von UCSF-Spezialisten isoliert und in die Leber gegeben, am Folgetag erhielt der Patient das Knochenmark des Spenders. Der gesamte Klinikaufenthalt dauerte vier Tage – viel kürzer als die Erholung nach einer Pankreastransplantation.\n\nNach dem Eingriff stieg das C-Peptid – ein Zeichen, dass die Inselzellen angewachsen sind und Insulin bilden. Die Zeit im Zielbereich stieg von unter 40 % auf fast 100 %.\n\nWichtige Einschränkung: Der Patient hatte zuvor eine Nierentransplantation und nimmt ohnehin Medikamente gegen Abstoßung, daher ließ sich bei ihm nicht prüfen, ob man darauf verzichten kann. Das Team um den Chirurgen Stephan Busque, die Nephrologin Jane Tan und den Hämatologen Everett Meyer will weitere Patienten behandeln, zunächst Menschen mit unbemerkten Unterzuckerungen, und bei ihnen das Absetzen der Immunsuppression prüfen. Die Fortsetzung hängt von zusätzlicher Finanzierung ab.",
+    "es": "En abril de 2026, Stanford Health Care informó del primer trasplante de islotes de donante con inducción de tolerancia inmunitaria. El procedimiento se realizó en mayo de 2025 dentro del programa SPIRIT. La idea se llama quimerismo mixto: junto con los islotes, el paciente recibe médula ósea del mismo donante y el sistema inmune aprende a tratar las células del donante como propias.\n\nEspecialistas de la UCSF aislaron islotes de un donante fallecido y se infundieron en el hígado; al día siguiente el paciente recibió la médula ósea del donante. Toda la hospitalización duró cuatro días, mucho menos que la recuperación de un trasplante de páncreas.\n\nTras el procedimiento subió el péptido C del paciente, señal de que los islotes prendieron y producen insulina. El tiempo en rango de glucosa pasó de menos del 40 % a casi el 100 %.\n\nSalvedad importante: este paciente tenía un trasplante de riñón previo y ya toma fármacos antirrechazo, por lo que en su caso no se pudo comprobar si podría prescindir de ellos. El equipo —el cirujano Stephan Busque, la nefróloga Jane Tan, el hematólogo Everett Meyer y otros— prevé tratar a más pacientes, empezando por personas con hipoglucemias inadvertidas, y evaluar en ellos la retirada de la inmunosupresión. La continuidad depende de financiación adicional."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Время в диапазоне",
+      "en": "Time in range",
+      "kk": "Диапазондағы уақыт",
+      "de": "Zeit im Zielbereich",
+      "es": "Tiempo en rango"
+     },
+     "v": "<40% → ~100%"
+    },
+    {
+     "k": {
+      "ru": "В больнице",
+      "en": "Hospital stay",
+      "kk": "Ауруханада",
+      "de": "Klinikaufenthalt",
+      "es": "Hospitalización"
+     },
+     "v": {
+      "ru": "4 дня",
+      "en": "4 days",
+      "kk": "4 күн",
+      "de": "4 Tage",
+      "es": "4 días"
+     }
+    }
+   ],
+   "url": "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
+   "src": "Stanford Health Care"
+  },
+  {
    "id": "nFRBP29jPTU",
    "cat": "research",
    "stage": "results",

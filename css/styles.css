@@ -9,7 +9,7 @@ img{max-width:100%}
 :root{
   --bg:#ffffff; --surface:#ffffff; --soft:#f6f7f9; --fg:#0c1b26; --muted:#4f6474; --line:#d6e3e8;
   --navy:#0b0d12; --mint:#0e8a7a; --mint-soft:#dff2ee; --navy-ink:#ffffff; --hot:#d3192b; --link:#0b4f9c;
-  --c-research:#6b4fd8; --c-approval:#1b8a58; --c-devices:#1672cc; --c-drugs:#d8452f; --c-access:#c27a00; --c-market:#0b8585; --c-events:#b0306e; --c-community:#4f7a12; --t1:#1672cc; --t2:#c27a00; --kid:#d3192b;
+  --c-cure:#e0533d; --c-research:#6b4fd8; --c-approval:#1b8a58; --c-devices:#1672cc; --c-drugs:#d8452f; --c-access:#c27a00; --c-market:#0b8585; --c-events:#b0306e; --c-community:#4f7a12; --t1:#1672cc; --t2:#c27a00; --kid:#d3192b;
   --display:"Archivo","Arial Narrow",Arial,sans-serif;
   --body:"Source Serif 4",Georgia,"Times New Roman",serif;
   --ui:"Archivo",Arial,Helvetica,sans-serif;

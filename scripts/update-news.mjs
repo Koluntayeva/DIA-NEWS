@@ -27,7 +27,7 @@ const MAX_ITEMS = 40;      // stories kept in the feed
 const MAX_NEW = 12;        // new stories added per run
 const MAX_CANDIDATES = 40; // candidates sent to the AI per run
 const LANGS = ["ru", "en", "kk", "de", "es"];
-const CATS = ["research", "approval", "devices", "drugs", "access", "market", "events", "community"];
+const CATS = ["cure", "research", "approval", "devices", "drugs", "access", "market", "events", "community"];
 const STAGES = ["phase1", "phase12", "phase2", "phase3", "early", "approved", "cleared", "launch", "results", "report", "survey", "policy", "conference", "campaign", "community"];
 
 const gn = (q, hl, gl) => `https://news.google.com/rss/search?q=${encodeURIComponent(q + " when:3d")}&hl=${hl}&gl=${gl}&ceid=${gl}:${hl.split("-")[0]}`;
@@ -35,6 +35,8 @@ const FEEDS = [
   { name: "Google News RU", url: gn("диабет", "ru", "RU"), lang: "ru" },
   { name: "Google News KZ", url: gn("диабет", "ru", "KZ"), lang: "ru" },
   { name: "Google News EN", url: gn("diabetes (insulin OR CGM OR FDA OR trial OR study)", "en-US", "US"), lang: "en" },
+  { name: "Google News cure EN", url: gn("(islet transplant OR \"stem cell\" islets OR tegoprubart OR zimislecel OR hypoimmune OR \"beta cell\") type 1 diabetes", "en-US", "US"), lang: "en" },
+  { name: "Google News cure RU", url: gn("(островковых клеток OR стволовые клетки OR бета-клетки OR излечение) диабет 1 типа", "ru", "RU"), lang: "ru" },
   { name: "ScienceDaily", url: "https://www.sciencedaily.com/rss/health_medicine/diabetes.xml", lang: "en" },
   { name: "Medical Xpress", url: "https://medicalxpress.com/rss-feed/diabetes-news/", lang: "en" },
   { name: "FDA", url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml", lang: "en", mustMatch: true },
@@ -43,6 +45,7 @@ const FEEDS = [
 
 /* Pexels search phrases per section: used for the fallback pool and when the AI gave no phrase */
 const CAT_QUERIES = {
+  cure: ["pancreatic islet cells microscope", "stem cell laboratory research", "scientist cell culture"],
   devices: ["continuous glucose monitor arm", "insulin pump", "blood glucose meter"],
   drugs: ["insulin pen", "medicine pills hand", "pharmacist medication"],
   research: ["scientist laboratory", "microscope research", "lab pipette"],
@@ -120,6 +123,7 @@ function loadCurrent() {
 /* ---------- classification without AI ---------- */
 function guessCat(s) {
   const t = s.toLowerCase();
+  if (/islet|островк|stem.cell|стволов|hypoimmune|tegoprubart|zimislecel|beta.cell|бета-клет|излечен|cure/.test(t)) return "cure";
   if (/fda|одобр|approv|clearance|регистрац|разрешен/.test(t)) return "approval";
   if (/конгресс|конференц|congress|conference|symposium|ada \d|easd|форум/.test(t)) return "events";
   if (/цен|компенсац|льгот|бесплатн|обеспечен|price|cost|access|reimburs|insurance|medicare/.test(t)) return "access";
@@ -145,6 +149,8 @@ function guessStage(s, cat) {
 /* ---------- AI selection + translation ---------- */
 const PROMPT = (cands) => `You edit DIA news, a multilingual news site about diabetes (type 1 and type 2) for patients and families.
 Below are candidate stories from RSS feeds (title, snippet, source, date). Pick up to ${MAX_NEW} that are genuinely about diabetes and newsworthy: research, regulatory approvals, drugs, devices, access and prices, market, conferences, community. Skip ads, horoscopes, vague lifestyle listicles, folk remedies, miracle cures, and duplicates (keep only one story per event). Prefer variety of sections and sources.
+
+The section "cure" is the site's priority: research that can give people with type 1 diabetes a real chance to live without insulin (islet transplantation, stem-cell-derived islets, hypoimmune/gene-edited cells, immune tolerance, beta-cell regeneration, companies like Vertex, Eledon/tegoprubart, Sana, CRISPR, Sernova). Always pick such stories when they are substantive, and put them in "cure".
 
 For each pick return:
 - "i": the candidate number
@@ -349,7 +355,7 @@ function plainPick(cands) {
 
 /* ---------- main ---------- */
 const cur = loadCurrent();
-const old = (cur.items || []).filter((x) => !/^d\d+$/.test(x.id) && x.date >= daysAgo(KEEP_DAYS)); // drop demo items
+const old = (cur.items || []).filter((x) => !/^d\d+$/.test(x.id) && (x.pin || x.date >= daysAgo(KEEP_DAYS))); // drop demo items; pinned stories stay
 const seenUrl = new Set(old.map((x) => x.url));
 const seenTitle = new Set(old.flatMap((x) => Object.values(x.title || {}).map(norm)));
 // stories shown before (incl. removed duplicates) never come back
@@ -440,7 +446,9 @@ const fresh = picks.map((p) => {
   return it;
 });
 
-let items = [...fresh, ...old].sort((a, b) => String(b.date).localeCompare(String(a.date)) || String(b.added || "").localeCompare(String(a.added || ""))).slice(0, MAX_ITEMS);
+const byNew = (a, b) => String(b.date).localeCompare(String(a.date)) || String(b.added || "").localeCompare(String(a.added || ""));
+const pinned = old.filter((x) => x.pin);
+let items = [...pinned, ...[...fresh, ...old.filter((x) => !x.pin)].sort(byNew).slice(0, Math.max(0, MAX_ITEMS - pinned.length))].sort(byNew);
 
 // 1) a photo for every story that has none yet (new ones first, then older ones)
 let photosAdded = 0;

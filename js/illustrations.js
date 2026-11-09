@@ -60,7 +60,7 @@ const SCENES={
    `<rect x="40" y="26" width="130" height="160" rx="10" fill="#fff"/><rect x="80" y="18" width="50" height="16" rx="4" fill="#cfc4f5"/>`+[60,92,124,156].map((y,i)=>`<rect x="56" y="${y}" width="18" height="18" rx="4" fill="${i<3?"#6b4fd8":"#e5def9"}"/>${i<3?curve(`59,${y+9} 64,${y+14} 72,${y+4}`,"#fff",3):""}<rect x="84" y="${y+5}" width="70" height="8" rx="3" fill="#e5def9"/>`).join("")+
    P(240,70,.95,SK[0],"#ffd166","#5a3a1a")+P(310,62,1.05,SK[2],"#ffffff","#141414")+P(370,74,.9,SK[3],"#4cc48b","#8a5a2a")
 };
-const CAT_SCENES={research:["lab","trial","cells"],approval:["shield","doctor-patient"],devices:["sensor-arm","phone-graph","ketone-sensor"],drugs:["pills","pen","heart","scale"],access:["price","doctor-patient"],market:["chart","sensor-arm"],events:["stage"],community:["community"]};
+const CAT_SCENES={cure:["cells","lab","trial"],research:["lab","trial","cells"],approval:["shield","doctor-patient"],devices:["sensor-arm","phone-graph","ketone-sensor"],drugs:["pills","pen","heart","scale"],access:["price","doctor-patient"],market:["chart","sensor-arm"],events:["stage"],community:["community"]};
 function sceneFor(it){
   if(it.art&&SCENES[it.art])return it.art;
   const list=CAT_SCENES[it.cat]||Object.keys(SCENES);let h=0;for(const ch of (it._id||"x"))h=(h*31+ch.charCodeAt(0))>>>0;return list[h%list.length];
