@@ -105,14 +105,6 @@ const DIA_NEWS={
    "url": "https://tmgnews.ru/novosti/v-tuve-startovala-nedelya-borby-s-diabetom/amp/",
    "src": "Тува Медиа Групп",
    "photoQuery": "glucose meter fingertip test",
-   "photo": {
-    "id": "u_uaN7SjUfWv0",
-    "url": "https://images.unsplash.com/photo-1683123657967-d05ea4980c95?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTF8fGdsdWNvc2UlMjBtZXRlciUyMGZpbmdlcnRpcCUyMHRlc3R8ZW58MXwwfHx8MTc5NDIwNzgxOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-doing-a-finger-prick-test-for-blood-glucose-uaN7SjUfWv0?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person doing a finger prick test for blood glucose"
-   },
    "body": {
     "ru": "С 9 по 15 ноября жители Тувы, как и всей страны, участвуют в недельной кампании, приуроченной ко Всемирному дню борьбы с диабетом. Медики призывают уделять внимание профилактике и раннему выявлению болезни.\n\nДиабет описывается как опасная хроническая болезнь, при которой уровень глюкозы в крови остаётся постоянно высоким. Причина в том, что организм вырабатывает мало инсулина или клетки хуже на него реагируют. Главная угроза — осложнения: растёт риск инфаркта и инсульта, возможно поражение почек, нервной системы и сетчатки глаза, а также развитие катаракты.\n\nВыделяют два типа заболевания. Первый тип нельзя предотвратить полностью, но можно замедлить его развитие и избежать осложнений, поддерживая глюкозу на нормальном уровне. Второй тип встречается у 90% больных; у него есть конкретные факторы риска: лишний вес, малоподвижность, нездоровое питание, возраст старше 45 лет, гестационный диабет при беременности и наследственность.\n\nДля профилактики второго типа в статье рекомендуют питание с большим количеством клетчатки, физические нагрузки не менее 30 минут в день пять дней в неделю, поддержание нормального веса и ежегодную проверку уровня глюкозы в крови в рамках медосмотров.\n\nВ материале не сообщается о местных мероприятиях, данных по Туве или дальнейших шагах помимо этих рекомендаций.",
     "en": "From November 9 to 15, residents of Tuva, like the rest of Russia, are taking part in a week-long campaign timed to World Diabetes Day. Medical staff are urging people to focus on prevention and early detection of the disease.\n\nThe article describes diabetes as a dangerous chronic illness in which blood glucose stays persistently high. The cause is either too little insulin being produced or cells responding poorly to it. The main threat is complications: the risk of heart attack and stroke rises, the kidneys, nervous system and retina can be damaged, and cataracts can develop.\n\nTwo types are distinguished. Type 1 cannot be prevented completely, but its progression can be slowed and complications avoided by keeping glucose at a normal level. Type 2 accounts for 90% of patients and has specific risk factors: excess weight, inactivity, poor diet, age over 45, gestational diabetes during pregnancy, and genetic predisposition.\n\nTo prevent type 2, the article recommends a fiber-rich diet, physical activity of at least 30 minutes a day on five days a week, maintaining a healthy weight, and an annual blood glucose test as part of regular medical checkups.\n\nThe piece does not mention local events, figures specific to Tuva, or any further steps beyond these recommendations.",
@@ -210,15 +202,7 @@ const DIA_NEWS={
    },
    "url": "https://tgl.ru/news/item/26080-profilakticheskaya-akciya-saharnyy-diabet-ne-prigovor-kontroliruy-i-zhivi-polnocenno/",
    "src": "Администрация городского округа Тольятти",
-   "photoQuery": "community health event people",
-   "photo": {
-    "id": "u_nhxN9_O7xZY",
-    "url": "https://images.unsplash.com/photo-1761250027507-c0be614c0254?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29tbXVuaXR5JTIwaGVhbHRoJTIwZXZlbnQlMjBwZW9wbGV8ZW58MXwwfHx8MTc5NDIwNzgxOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Avesta",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-large-group-of-people-gathered-indoors-at-an-event-nhxN9_O7xZY?utm_source=dia_news&utm_medium=referral",
-    "alt": "A large group of people gathered indoors at an event"
-   },
+   "photoQuery": "",
    "bodyTried": true
   },
   {
@@ -244,14 +228,6 @@ const DIA_NEWS={
    "url": "https://www.inform.kz/ru/kak-sohranit-zdorove-nog-pri-diabete-rekomendatsii-hirurga-2f0603a8",
    "src": "Казинформ",
    "photoQuery": "diabetic foot care examination",
-   "photo": {
-    "id": "u_nhEIkQVj0iI",
-    "url": "https://images.unsplash.com/photo-1675159364615-38e1f6b62282?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8ZGlhYmV0aWMlMjBmb290JTIwY2FyZSUyMGV4YW1pbmF0aW9ufGVufDF8MHx8fDE3OTQyMDc4MTl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Oswald Elsaboath",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/foot-massage-with-oil-nhEIkQVj0iI?utm_source=dia_news&utm_medium=referral",
-    "alt": "Hands massaging a foot with oil on a white towel"
-   },
    "body": {
     "ru": "Казинформ опубликовал беседу с Толейгуль Искаковой, врачом-хирургом, которая заведует отделением инфекционной хирургии городской клинической больницы № 7 Алматы, о сохранении здоровья ног при диабете. По её словам, ежедневный уход за стопами и обращение к врачу без промедления помогают избежать тяжёлых осложнений сахарного диабета.\n\nОтсутствие боли, по словам специалиста, не значит, что с ногой всё в порядке. Она рекомендует каждый день осматривать ноги, включая подошвы и межпальцевые промежутки, чтобы замечать проблему на ранней стадии. Из-за сниженной чувствительности можно не заметить даже ожог, поэтому не стоит распаривать ноги, использовать горячую воду или срезать мозоли самостоятельно.\n\nХирург отмечает, что при ране важно вовремя оценить её состояние, кровоснабжение ноги и наличие инфекции. Иногда одной перевязки недостаточно: заживление может потребовать комплексного лечения и снижения нагрузки на поражённую стопу. Даже после заживления язвы риск повторного повреждения сохраняется.\n\nВ статье также сказано, что врачам удалось сохранить коленный сустав и опорную функцию конечности, а также добиться заживления язв. Ежедневный осмотр ног, правильная обувь и регулярное наблюдение у специалиста, по её словам, должны стать привычкой для каждого пациента с диабетом. Любую ранку, язву или вскрывшийся волдырь нужно показать специалисту в тот же день: своевременное обращение может помочь сохранить конечность и подвижность.",
     "en": "Kazinform has published an interview with Toleigul Iskakova, a surgeon who heads the infectious surgery department at City Clinical Hospital No. 7 in Almaty, on keeping the feet healthy in people with diabetes. Her main message is that daily foot care and early contact with a doctor help prevent serious complications of the disease.\n\nAccording to the surgeon, a lack of pain does not mean a foot is fine. She recommends checking the feet every day, including the soles and the spaces between the toes, so that problems are caught early. Because sensation can be reduced, a person may not notice even a burn, which is why she advises against soaking the feet, using hot water, or trimming calluses at home.\n\nWhen a wound appears, she says it is essential to assess its condition, the blood supply to the leg and whether infection is present without delay. Sometimes one dressing is not enough; healing may require complex treatment and reduced load on the affected foot. Even after an ulcer heals, the risk of new injury remains.\n\nThe article also mentions that doctors managed to save a knee joint and the weight-bearing function of a limb, and to heal ulcers. Iskakova says that daily foot checks, proper shoes and regular specialist follow-up should become routine for every patient with diabetes. Any wound, ulcer or opened blister should be shown to a specialist the same day, since prompt care may help preserve the limb and the ability to move freely.",
@@ -283,14 +259,6 @@ const DIA_NEWS={
    "url": "https://zur-kazan.ru/news/article/nedelya-borby-s-diabetom-startovala-v-tatarstane-s-9-noyabrya-199916/",
    "src": "zur-kazan.ru",
    "photoQuery": "medical clinic waiting room",
-   "photo": {
-    "id": "u_rqdWlkRzerg",
-    "url": "https://images.unsplash.com/photo-1758654860024-9e352f70d1f9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGNsaW5pYyUyMHdhaXRpbmclMjByb29tfGVufDF8MHx8fDE3OTQyMDc4MjB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Navy Medicine",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/people-waiting-in-a-hallway-with-chairs-and-chairs-rqdWlkRzerg?utm_source=dia_news&utm_medium=referral",
-    "alt": "People waiting in a hallway with chairs and chairs"
-   },
    "bodyTried": true
   },
   {
@@ -316,14 +284,6 @@ const DIA_NEWS={
    "url": "https://ysia.ru/v-yakutii-eta-nedelya-posvyashhena-borbe-s-diabetom/",
    "src": "ЯСИА",
    "photoQuery": "blood sugar test kit",
-   "photo": {
-    "id": "u_V8Z-RdGs5M8",
-    "url": "https://images.unsplash.com/photo-1778876092192-e76c88c48f12?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGNvbmZlcmVuY2UlMjBhdWRpZW5jZXxlbnwxfDB8fHwxNzk0MjA3ODIwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Ufoma Ojo",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-large-group-of-people-gathered-in-an-auditorium-V8Z-RdGs5M8?utm_source=dia_news&utm_medium=referral",
-    "alt": "A large group of people gathered in an auditorium"
-   },
    "body": {
     "ru": "В медицинских учреждениях Якутии с 9 по 15 ноября проходит неделя, посвященная борьбе с сахарным диабетом. Для пациентов запланированы профилактические осмотры, лекции и занятия. Мероприятия приурочены к Всемирному дню борьбы с диабетом, который ежегодно отмечают 14 ноября.\n\nЦентры здоровья выедут на предприятия и в организации, а для трудовых коллективов предусмотрена диспансеризация. Медики уделят особое внимание раннему выявлению диабета у детей и подростков, а родителям расскажут о факторах риска и профилактике диабета второго типа.\n\nДля специалистов 11 и 12 ноября пройдет научно-практическая конференция «Школа практикующего эндокринолога», а 14 ноября состоится междисциплинарная конференция о предупреждении нарушений зрения при диабете.\n\n13 ноября с 11:00 до 14:00 в Республиканском эндокринологическом центре Якутской республиканской клинической больницы пройдет акция «Узнай свой риск развития сахарного диабета 2-го типа». В этот же день с 14:00 до 15:00 для пациентов проведут занятие школы диабета и тематическую викторину. В течение недели клинические ординаторы Медицинского института СВФУ предложат жителям Якутска заполнить анкету FINDRISK для оценки риска.\n\nПо словам редакции, осмотры и диспансеризация помогают вовремя находить факторы риска и нарушения углеводного обмена. Раннее выявление хронических болезней входит в задачи национального проекта «Продолжительная и активная жизнь», инициированного президентом Владимиром Путиным.",
     "en": "Medical facilities across Yakutia are marking a week devoted to diabetes from 9 to 15 November. During this period, preventive check-ups, lectures and classes for people living with diabetes are scheduled. The events are timed to World Diabetes Day, which is observed every year on 14 November.\n\nHealth centres plan to travel to workplaces and organisations, and dispensary examinations are planned for work teams. Doctors will pay particular attention to spotting diabetes early in children and adolescents, and parents will be briefed on risk factors and ways to prevent type 2 diabetes.\n\nProfessional events are also on the calendar. A scientific and practical conference, \"School of the Practising Endocrinologist\", will take place on 11 and 12 November. On 14 November an interdisciplinary conference will focus on preventing vision problems in people with diabetes.\n\nOn 13 November, from 11:00 to 14:00, the Republican Endocrinology Centre of the Yakutsk Republican Clinical Hospital will host the campaign \"Find out your risk of developing type 2 diabetes\". The same day, from 14:00 to 15:00, patients can attend a session of the diabetes school and a themed quiz. Throughout the week, clinical residents from the SVFU Medical Institute will invite Yakutsk residents to complete the FINDRISK questionnaire, which estimates the risk of type 2 diabetes.\n\nAccording to the article, check-ups and dispensary exams help identify risk factors and disorders of carbohydrate metabolism in good time. Early detection of chronic diseases is among the goals of the national project \"Longer and Active Life\", launched on the initiative of President Vladimir Putin.",
@@ -472,14 +432,6 @@ const DIA_NEWS={
    "url": "https://www.nur.kz/health/healthy-lifestyle/2453763-preparaty-ot-ozhireniya-i-diabeta-mogut-zashchitit-pamyat-i-kognitivnye-funkcii-mozga/",
    "src": "NUR.KZ",
    "photoQuery": "brain scan monitor",
-   "photo": {
-    "id": "u_Wl3hAbxMF80",
-    "url": "https://images.unsplash.com/photo-1758691462668-046fd85ceac9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGJyYWluJTIwc2NhbiUyMG1vbml0b3J8ZW58MXwwfHx8MTc5NDE5MzMyOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-examining-brain-scan-on-tablet-at-desk-Wl3hAbxMF80?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor examining brain scan on tablet at desk"
-   },
    "body": {
     "ru": "9 ноября 2026 года NUR.KZ сообщил о научном обзоре, согласно которому препараты, применяемые при диабете и ожирении, могут помочь сохранить память и внимание. Обзор подготовили исследователи Гетеборгского и Копенгагенского университетов, а итоги работы пересказал сайт News Medical. Популярные агонисты рецепторов GLP-1, в том числе семаглутид и тирзепатид, широко назначают при диабете второго типа и ожирении. При этом они действуют и на ключевые биологические процессы в центральной нервной системе.\n\nОпыты на животных показывают положительное влияние препаратов этого класса на память и способность к обучению. Данные о людях пока противоречивы. Анализ медицинских карт связал приём таких средств со снижением риска деменции у пациентов с диабетом второго типа, однако причинно-следственная связь не доказана. В испытаниях EVOKE и EVOKE+, которые проводила компания Novo Nordisk, семаглутид изменил биологические маркеры, но не замедлил прогрессирование ранней болезни Альцгеймера.\n\nАвторы считают, что препараты могут быть полезны и другим группам. Людям с метаболическими нарушениями и избыточным весом часто свойственны снижение концентрации, ухудшение планирования и замедление обработки информации. Ведущая автор работы Стина Берчерс отметила, что важно выяснить, сохраняет ли терапия когнитивные способности, если начать её до выраженных нарушений. Руководитель группы Кристоффер Клемменсен добавил, что разделение прямого и косвенного влияния лекарств на мозг поможет создать специализированные средства для защиты когнитивных функций.\n\nУчёные также призывают учитывать риск быстрой потери мышечной массы у пожилых людей. Редакция подчёркивает, что материал носит ознакомительный характер и не является руководством к действию. Семаглутид и другие препараты GLP-1 относятся к рецептурным лекарствам с широким списком противопоказаний и побочных эффектов, поэтому перед любым лечением нужна консультация врача.",
     "en": "On November 9, 2026, NUR.KZ reported on a scientific review suggesting that drugs used for diabetes and obesity may help preserve memory and attention. The review was prepared by researchers from the University of Gothenburg and the University of Copenhagen, and News Medical relayed the findings. Popular GLP-1 receptor agonists, including semaglutide and tirzepatide, are widely prescribed for type 2 diabetes and obesity, yet they also act on key biological processes in the central nervous system.\n\nExperiments on animals show that this drug class has a positive effect on memory and learning ability. Evidence from people is less consistent. An analysis of patient records linked use of these medicines to a lower dementia risk among people with type 2 diabetes, but a direct cause-and-effect relationship has not been proven. In the EVOKE and EVOKE+ trials run by Novo Nordisk, semaglutide altered biological markers but did not slow the progression of early Alzheimer's disease.\n\nThe authors believe the drugs could still benefit other groups. People with metabolic disorders and excess weight often experience reduced concentration, poorer planning and slower information processing. Lead author Stina Berchers said it is important to find out whether treatment preserves cognitive abilities when started before marked impairment appears. Group leader Christoffer Clemmensen added that separating the drugs' direct and indirect effects on the brain could lead to specialized medicines for protecting cognitive function.\n\nScientists also urge attention to the risk of rapid muscle loss in older adults. The outlet stresses that the material is for information only and is not a guide to action. Semaglutide and other GLP-1 agonists are prescription medicines with a wide range of contraindications and side effects, so anyone considering treatment should consult a doctor first.",
@@ -528,14 +480,6 @@ const DIA_NEWS={
    "url": "https://116.ru/text/world/2026/11/09/76661508/",
    "src": "116.ru",
    "photoQuery": "insulin pen close-up",
-   "photo": {
-    "id": "u_S5y5jdRCCsk",
-    "url": "https://images.unsplash.com/photo-1745939931505-da371555a603?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQxOTMzMzB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Haberdoedas",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/insulin-pen-and-its-packaging-are-shown-S5y5jdRCCsk?utm_source=dia_news&utm_medium=referral",
-    "alt": "Insulin pen and its packaging are shown"
-   },
    "body": {
     "ru": "Житель Казани Виталий Александров, которому 54 года, уже год пытается добиться справедливости после того, как на таможне на него завели дело о контрабанде. Он болеет диабетом второго типа с 2019 года, такой же диагноз у его мамы. Врачи назначили им препарат «Галвус Мет» по одной таблетке два раза в день. Мужчина рассказал изданию 116.RU, что 60 таблеток на месяц в России стоят почти 4 тысячи рублей, а в Турции — 850, поэтому он несколько раз привозил оттуда годовой запас для себя и мамы.\n\nВ октябре 2025 года он возвращался на машине с женой из Турции через Грузию и Верхний Ларс в Северной Осетии. При досмотре нашли 79 упаковок лекарств, включая несколько других препаратов для личного пользования, и на него составили два протокола о нарушениях. По его словам, в протоколе написано, что таблетки нашли в «тайнике», хотя видеозаписей такого изъятия нет. Кроме того, в материалах ошибочно указано, что лекарства купили в Грузии. По подсчётам таможни, речь шла о лекарствах на 600 евро и 8 килограммах. Пару, по его словам, продержали девять часов, с двух дня до одиннадцати вечера, препарат изъяли, а он подписал бумаги, на одной странице которых оказалось признание вины и указание на коммерческую цель.\n\nДело прошло через несколько инстанций. Советский суд Владикавказа признал его виновным. Верховный суд отменил решение и вернул дело на новое рассмотрение, однако нижестоящий суд вынес такой же приговор. После этого Александров подал жалобы в транспортную прокуратуру и Генеральную прокуратуру. Служебная проверка привела к дисциплинарному наказанию старшего инспектора за отсутствие записи видеорегистратора. Сам мужчина предполагает, что таможенники составили материалы, чтобы получить взятку.\n\nОн требует полной реабилитации и увольнения сотрудников таможни. В опубликованной части статьи окончательное решение по делу не упоминается.",
     "en": "Vitaly Alexandrov, a 54-year-old resident of Kazan, has spent a year trying to clear his name after a smuggling case was opened against him at a customs checkpoint. He has had type 2 diabetes since 2019, and his mother has the same diagnosis. Their doctors prescribed Galvus Met, one tablet twice a day. He told 116.RU that 60 tablets, enough for a month, cost almost 4,000 rubles in Russia but 850 in Turkey, which is why he had brought back a year's supply for himself and his mother several times.\n\nIn October 2025, he was driving home with his wife from Turkey via Georgia and the Verkhny Lars crossing in North Ossetia. Officers found 79 packs of medicine, including several other drugs for personal use, and drew up two administrative protocols against him. By his account, the paperwork claims the tablets were found in a hidden compartment, although no video of such a seizure exists. The file also wrongly states the medicines were bought in Georgia. According to the customs figures, the goods were worth 600 euros and weighed 8 kilograms. He says the couple was held for nine hours, from 2 p.m. to 11 p.m., his medication was seized, and he signed documents that, on one page, recorded an admission of guilt and a commercial purpose.\n\nThe case went through several courts. The Sovetsky court in Vladikavkaz found him guilty. The Supreme Court overturned that ruling and sent the case back, but the lower court issued the same verdict again. Alexandrov then filed complaints with the transport prosecutor's office and the General Prosecutor's Office. An internal inquiry led to disciplinary action against a senior customs inspector for the missing dashcam footage. Alexandrov suspects the officers drew up the charges in order to extract a bribe.\n\nHe wants full rehabilitation and the dismissal of the customs officers involved. The published part of the article does not report a final court decision.",
@@ -1038,15 +982,7 @@ const DIA_NEWS={
    },
    "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
    "src": "\"Орелтаймс\"",
-   "photoQuery": "child doctor consultation",
-   "photo": {
-    "id": "u_fx9RJgZYRUE",
-    "url": "https://images.unsplash.com/photo-1632053002928-1919605ee6f7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBkb2N0b3IlMjBjb25zdWx0YXRpb258ZW58MXwwfHx8MTc5NDIwNzgyMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "CDC",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-young-child-is-being-examined-by-a-doctor-fx9RJgZYRUE?utm_source=dia_news&utm_medium=referral",
-    "alt": "a young child is being examined by a doctor"
-   },
+   "photoQuery": "",
    "body": {
     "ru": "8 ноября 2026 года орловское издание «Орелтаймс» опубликовало материал, в котором врачи Колпнянской ЦРБ Орловской области объясняют, как заметить диабет у детей. По словам специалистов, случаи заболевания всё чаще выявляют у детей и молодёжи. Симптомы могут принимать за обычную усталость или период активного роста, а откладывание диагностики способно привести к тяжёлым последствиям.\n\nЧаще всего у детей встречается диабет 1-го типа, аутоиммунная болезнь, при которой организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у людей до 35–40 лет. Диабет 2-го типа, по словам медиков, тоже всё чаще встречается у молодых на фоне эпидемии ожирения, фастфуда и малоподвижного образа жизни. На ранних этапах у детей с ожирением отмечают повышенный уровень инсулина; лечение направлено на снижение инсулинорезистентности: диета без рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками врачи называют ситуации, когда ребёнок много пьёт и ест, чаще ходит в туалет, резко худеет или жалуется на слабость без видимой причины. Взрослые нередко объясняют это школьной нагрузкой или ростом. Медики напоминают, что без инсулина глюкоза не попадает в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. Это требует госпитализации в реанимацию и в тяжёлых случаях ведёт к инвалидизации или смерти ребёнка.\n\nВ заключение авторы призывают родителей внимательнее относиться к таким симптомам и своевременно обращаться к врачам. В материале не приведены статистические данные по региону, поэтому это общий разъяснительный текст, а не клинические рекомендации.",
     "en": "On 8 November 2026, the Oryol outlet OrelTimes published a report in which doctors from the Kolpna district hospital, a healthcare institution in the Oryol region, explain how to recognise diabetes in children. According to the specialists, cases are being found more and more often among children and young people. Symptoms can be mistaken for ordinary tiredness or a period of rapid growth, and delaying diagnosis can lead to serious consequences.\n\nType 1 diabetes is the form most often seen in children. It is an autoimmune disease in which the body destroys the beta cells of the pancreas that produce insulin. It usually shows itself between the ages of 4 and 14, but it can also appear later, including in people up to 35–40 years old. Type 2 diabetes is also appearing at younger ages, according to the doctors, linked to the obesity epidemic, fast food and low physical activity. In children with obesity, elevated insulin levels are seen in the early stages. Treatment aims to reduce insulin resistance through a diet without refined carbohydrates, less fat and more movement.\n\nThe doctors list warning signs: a child who drinks and eats much more than usual, urinates more often, loses weight rapidly, or complains of weakness without an obvious cause. Adults often attribute these changes to school workload or growth. Without insulin, glucose cannot pass into the tissues, so the body starts burning fat and protein, ketone bodies accumulate, and ketoacidosis develops. This requires hospital treatment in intensive care and, in severe cases, can lead to disability or the child's death.\n\nIn conclusion, the authors urge parents to pay closer attention to such symptoms and to see doctors in good time. The article does not give regional statistics, so it is a general explainer rather than clinical guidance.",
@@ -1369,7 +1305,7 @@ const DIA_NEWS={
    },
    "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
    "src": "Хибины.ру",
-   "photoQuery": "elderly couple doctor",
+   "photoQuery": "",
    "body": {
     "ru": "8 ноября 2026 года российские региональные СМИ передали комментарии Ольги Ткачевой, директора Российского геронтологического научно-клинического центра Пироговского университета и президента Российской ассоциации геронтологов и гериатров. «Хибины.ру» вынесли материал под заголовком о главных болезнях, связанных со старением, где упомянуты онкология, диабет и деменция.\n\nВ интервью Ткачева назвала болезни сердца и сосудов, злокачественные новообразования, сахарный диабет, патологии костно-мышечной системы, хроническую обструктивную болезнь легких и деменцию. По ее словам, именно эти недуги чаще всего снижают качество жизни и приводят к преждевременной смерти.\n\nГлавный совет специалиста — не дожидаться первых симптомов. Диспансеризация, по ее словам, помогает выявить болезнь на ранней стадии и обнаружить факторы риска, которые еще можно скорректировать. Менять образ жизни можно и раньше, на стадии предрисков, когда болезни еще нет, но уже видна неблагоприятная траектория.\n\nТкачева добавила, что в России открываются центры медицины здорового долголетия, где определяют не столько риски, сколько предриски. По ее мнению, профилактика на этом этапе может дать наибольший эффект.\n\nВажно понимать, что это экспертное мнение, а не результаты исследования. В сообщениях не приведено новых статистических данных и не указаны сроки дальнейших мер.",
     "en": "On 8 November 2026, Russian regional media reported comments by Olga Tkacheva, director of the Russian Gerontological Clinical Centre at Pirogov University and president of the Russian Association of Gerontologists and Geriatricians. Khibiny.ru ran the story under a headline that names oncology, diabetes and dementia as major diseases linked to ageing.\n\nIn the interview, Tkacheva listed heart and blood vessel disease, cancer, diabetes, musculoskeletal disorders, chronic obstructive pulmonary disease and dementia as the conditions most directly tied to ageing. She said these are the most common causes of reduced quality of life and early death.\n\nHer central message was not to wait for symptoms. Regular medical check-ups, known in Russia as dispensary examinations, can detect disease at an early stage and reveal risk factors that can still be corrected. She added that people can begin changing their lifestyle even earlier, at the \"pre-risk\" stage, when no illness is present yet but an unfavourable trajectory is visible.\n\nTkacheva also said healthy longevity centres are opening across Russia to identify pre-risks rather than only risks. In her view, prevention is most effective at this early stage.\n\nThe statements are expert opinion rather than study results. The coverage presents no new statistics and gives no timeline for further measures.",
@@ -1394,15 +1330,7 @@ const DIA_NEWS={
       "es": "8 de noviembre de 2026"
      }
     }
-   ],
-   "photo": {
-    "id": "u_BUNNEclz-yQ",
-    "url": "https://images.unsplash.com/photo-1758691462321-9b6c98c40f7e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8ZWxkZXJseSUyMGNvdXBsZSUyMGRvY3RvcnxlbnwxfDB8fHwxNzk0MTQ2NTI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-talks-with-an-elderly-patient-on-a-couch-BUNNEclz-yQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor talks with an elderly patient on a couch"
-   }
+   ]
   },
   {
    "id": "nSGM_b2M9NQ",
@@ -1620,15 +1548,7 @@ const DIA_NEWS={
    },
    "url": "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
    "src": "СБ. Беларусь сегодня",
-   "photoQuery": "pregnancy consultation doctor",
-   "photo": {
-    "id": "u_c8fnD1rKGCk",
-    "url": "https://images.unsplash.com/photo-1632053652571-a6a45052bbbd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cHJlZ25hbmN5JTIwY29uc3VsdGF0aW9uJTIwZG9jdG9yfGVufDF8MHx8fDE3OTQxOTMzMzR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "CDC",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-doctor-talking-to-a-pregnant-woman-in-a-waiting-room-c8fnD1rKGCk?utm_source=dia_news&utm_medium=referral",
-    "alt": "a doctor talking to a pregnant woman in a waiting room"
-   },
+   "photoQuery": "",
    "body": {
     "ru": "7 ноября 2026 года СБ. Беларусь сегодня опубликовал материал с участием Юлии Кисель, врача-гинеколога 19-й центральной районной поликлиники Минска. Она выступила в рамках проекта «Школа диабета» на YouTube-канале «Смотри и живи» и ответила на вопрос, насколько просто женщине с диабетом стать матерью.\n\nПо словам врача, повышенный уровень глюкозы может мешать зачатию, оплодотворению, а затем нормальному прикреплению и развитию эмбриона. Поэтому женщине с диабетом нужно обратиться к эндокринологу, чтобы привести показатели глюкозы в норму, оценить уровень гликированного гемоглобина и скорректировать принимаемую терапию. Киселъ отметила, что при диабете I и II типа у женщин нередко встречаются позднее менархе, нерегулярный цикл, бесплодие и ранняя менопауза. Высокая глюкоза вызывает окислительный стресс, который может нарушать работу яичников и развитие эмбриона.\n\nВрач подчеркнула, что о планируемой беременности нужно сообщить акушеру-гинекологу, чтобы подобрать надежную контрацепцию на время обследования и стабилизации показателей. Если лечение идет и глюкоза находится под контролем, успешно зачать и выносить беременность при диабете вполне возможно. По ее словам, доказано: оптимизация контроля гликемии и стабилизация поздних осложнений до зачатия заметно снижают частоту патологий беременности и замедляют прогрессирование сосудистых осложнений.\n\nПодход к беременности при диабете, по словам специалиста, сильно изменился. Школы для пациентов, современные высокоочищенные генно-инженерные инсулины и качественные средства самоконтроля помогают женщинам самостоятельно управлять болезнью, гибко корректировать инсулинотерапию и добиваться стабильной компенсации.\n\nМатериал основан на видеоинтервью и не содержит конкретных целевых значений глюкозы или статистических данных. В публикации не говорится о дальнейших шагах или продолжении темы.",
     "en": "On 7 November 2026, the Belarusian outlet SB. Belarus Segodnya published a report featuring Yulia Kisel, a gynecologist at the 19th Central District Polyclinic in Minsk. Speaking in the \"Diabetes School\" project on the \"Smotri i zhivi\" YouTube channel, she addressed whether it is easy for a woman with diabetes to become pregnant.\n\nAccording to the doctor, high blood glucose can interfere with conception and fertilization, and later with the embryo's proper attachment and development. For that reason, a woman with diabetes should see an endocrinologist to bring her glucose readings back to normal, assess her glycated hemoglobin and adjust her current treatment. Kisel noted that women with type I or type II diabetes often experience late menarche, irregular cycles, infertility and early menopause. Elevated glucose causes oxidative stress, which can disrupt ovarian function and embryo development.\n\nShe stressed that a planned pregnancy should be reported to an obstetrician-gynecologist, who can choose reliable contraception while tests are underway and levels are stabilized. If treatment continues and glucose stays under control, she said, conceiving and carrying a pregnancy to term with diabetes is quite possible. Studies, she added, show that tightening glycemic control and stabilizing late complications before conception significantly lowers the frequency of pregnancy pathologies and slows the progression of vascular complications.\n\nThe approach to pregnancy with diabetes has changed substantially, according to the specialist. Patient schools, modern highly purified genetically engineered insulins and quality self-monitoring tools now help women manage their condition independently, adjust insulin therapy flexibly and reach stable control.\n\nThe piece is based on a video interview and gives no specific glucose targets or statistics. The article does not describe any next steps or follow-up coverage.",
@@ -1659,15 +1579,7 @@ const DIA_NEWS={
    },
    "url": "https://prospect.com.ru/news/7153433/minzdrav-predlogil-vvesti-distantsionnoe-nablyudenie-za-diabetom-i-gipertoniej.html",
    "src": "prospect.com.ru",
-   "photoQuery": "doctor video consultation",
-   "photo": {
-    "id": "u_JJEOuvnY1Tw",
-    "url": "https://images.unsplash.com/photo-1758691463384-771db2f192b3?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdmlkZW8lMjBjb25zdWx0YXRpb258ZW58MXwwfHx8MTc5NDE0NjUxN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-wearing-a-stethoscope-sits-at-a-desk-JJEOuvnY1Tw?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor wearing a stethoscope sits at a desk"
-   },
+   "photoQuery": "",
    "body": {
     "ru": "Минздрав России подготовил проект изменений, который предусматривает дистанционное наблюдение за пациентами с артериальной гипертензией и сахарным диабетом. Об этом 7 ноября 2026 года сообщил портал Prospect со ссылкой на РИА Новости; речь идет о предложении, которое пока находится на рассмотрении.\n\nПоликлиники смогут применять медицинские приборы с функцией удаленной передачи данных. Количество таких устройств будет зависеть от числа людей, которым нужен подобный контроль, то есть заранее не задано. В тексте не уточняется, о каких именно устройствах идет речь.\n\nСхема описана поэтапно. Терапевт сможет направить пациента к профильному специалисту, а затем продолжить лечение и наблюдение, в том числе дистанционно, с учетом рекомендаций этого врача.\n\nПоскольку речь идет о проекте, правила пока не действуют. Текст статьи обрывается до заключительной части, поэтому сроки, критерии отбора и порядок работы на практике в нем не раскрыты. Полную информацию можно найти в оригинальном материале.",
     "en": "The Russian Ministry of Health has prepared a draft of amendments that would bring in remote monitoring for patients with arterial hypertension and diabetes. The report, published on 7 November 2026 by the Prospect news site and citing RIA Novosti, presents this as a proposal still under consideration.\n\nUnder the plan, polyclinics would be able to use medical devices with a function for transmitting data remotely. The number of these devices would therefore depend on the expected caseload, not on a fixed figure. The article does not specify which devices are meant.\n\nThe described procedure works in stages. A therapist could refer a patient to a specialist in the relevant field and then carry on treatment and observation, including remotely, in line with that specialist's recommendations.\n\nBecause this is a draft, the rules are not yet in force. The text of the article is cut off before its final part, so it offers no further details on timing, eligibility or how the arrangement would operate in day-to-day practice. For the complete picture, readers can consult the original report.",
@@ -1862,15 +1774,7 @@ const DIA_NEWS={
    },
    "url": "https://kuban.bfm.ru/news/64712",
    "src": "BFM Кубань",
-   "photoQuery": "medical checkup doctor stethoscope",
-   "photo": {
-    "id": "u_hIgeoQjS_iE",
-    "url": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGNoZWNrdXAlMjBkb2N0b3IlMjBzdGV0aG9zY29wZXxlbnwxfDB8fHwxNzk0MTQyNDc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Online Marketing",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-holding-red-stethoscope-hIgeoQjS_iE?utm_source=dia_news&utm_medium=referral",
-    "alt": "doctor holding red stethoscope"
-   },
+   "photoQuery": "",
    "body": {
     "ru": "Неделя, посвящённая борьбе с диабетом, пройдёт в Краснодарском крае с 9 по 15 ноября. По данным BFM Кубань, на протяжении семи дней врачи будут объяснять жителям, как предотвратить это заболевание.\n\nВ программу входят выезды мобильного центра скрининговой диагностики и занятия школы здоровья, где речь пойдёт о профилактике сахарного диабета и его осложнений. Площадки для обследований появятся в Краснодаре, Новороссийске, а также в Славянском, Тимашевском и Тбилисском районах.\n\nСпециалисты напоминают: контроль уровня сахара в крови, сбалансированное питание, регулярные физические нагрузки и своевременные проверки помогают держать риски под контролем. Андрей Сахаров, главный внештатный специалист по медицинской профилактике минздрава края, объясняет, что эти меры уменьшают вероятность болезни и её последствий.\n\nВ заголовке обследования названы бесплатными. В доступной версии текста не указаны часы работы и точные адреса каждой площадки, поэтому перед визитом стоит уточнить детали в местной поликлинике или у органов здравоохранения.",
     "en": "A week devoted to the fight against diabetes will take place in Krasnodar Krai from 9 to 15 November. According to BFM Kuban, over the course of seven days doctors will explain to residents how this disease can be prevented.\n\nThe programme includes trips by a mobile screening diagnostics centre and sessions at a health school, where the focus will be on preventing diabetes and its complications. Examination sites will be set up in Krasnodar, Novorossiysk, and in the Slavyansky, Timashevsky and Tbilissky districts.\n\nSpecialists remind people that monitoring blood sugar levels, eating a balanced diet, staying physically active and getting check-ups on time help keep risks under control. Andrey Sakharov, the region's chief freelance specialist in medical prevention, explains that these measures reduce the likelihood of the illness and its consequences.\n\nThe headline describes the examinations as free. The available version of the text does not give opening hours or exact addresses for each site, so it is worth checking details with a local clinic or the health authorities before visiting.",
@@ -2727,230 +2631,5 @@ const DIA_NEWS={
   "url": "https://diabetesatlas.org/"
  },
  "posts": [],
- "events": [],
- "photoPool": {
-  "date": "2026-11-08",
-  "research": [
-   {
-    "id": "u_8yS04veb1TQ",
-    "url": "https://images.unsplash.com/photo-1581093577421-f561a654a353?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "ThisisEngineering",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/scientist-using-laptop-in-laboratory-8yS04veb1TQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "A scientist in a white lab coat using a laptop in a laboratory"
-   },
-   {
-    "id": "u_YNZW7KW0uqs",
-    "url": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "DIANA HAUAN",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/woman-in-white-medical-scrub-YNZW7KW0uqs?utm_source=dia_news&utm_medium=referral",
-    "alt": "woman in white medical scrub"
-   },
-   {
-    "id": "u_oCLuFi9GYNA",
-    "url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/woman-standing-in-front-of-the-digital-machine-oCLuFi9GYNA?utm_source=dia_news&utm_medium=referral",
-    "alt": "woman standing in front of the digital machine"
-   },
-   {
-    "id": "u_JxoWb7wHqnA",
-    "url": "https://images.unsplash.com/photo-1630959305790-4c956ce6c0b6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/scientist-using-microscope-in-laboratory-JxoWb7wHqnA?utm_source=dia_news&utm_medium=referral",
-    "alt": "A person in a white lab coat looking through a microscope in a laboratory"
-   },
-   {
-    "id": "u_UNkNx6Hn9Fs",
-    "url": "https://images.unsplash.com/photo-1616996691748-3f5f78093ab0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "RephiLe water",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/man-in-blue-scrub-suit-standing-near-white-and-black-office-rolling-chair-UNkNx6Hn9Fs?utm_source=dia_news&utm_medium=referral",
-    "alt": "man in blue scrub suit standing near white and black office rolling chair"
-   },
-   {
-    "id": "u_oFK7xgf4_50",
-    "url": "https://images.unsplash.com/photo-1618053448748-b7251851d014?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "DIANA HAUAN",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/woman-in-white-laboratory-gown-holding-black-microphone-oFK7xgf4_50?utm_source=dia_news&utm_medium=referral",
-    "alt": "woman in white laboratory gown holding black microphone"
-   }
-  ],
-  "approval": [
-   {
-    "id": "u_8WYkI3cEZm8",
-    "url": "https://images.unsplash.com/photo-1758691461990-03b49d969495?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-writing-on-a-patients-chart-8WYkI3cEZm8?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor writing on a patient's chart"
-   },
-   {
-    "id": "u_DK--4VWK1tw",
-    "url": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-talking-to-hospital-patient-DK--4VWK1tw?utm_source=dia_news&utm_medium=referral",
-    "alt": "A doctor in a white coat talking to a patient in a hospital bed"
-   },
-   {
-    "id": "u_gO-iULv-qbU",
-    "url": "https://images.unsplash.com/photo-1584516150909-c43483ee7932?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-talking-to-hospital-patient-gO-iULv-qbU?utm_source=dia_news&utm_medium=referral",
-    "alt": "A doctor in a white coat talking to a patient in a hospital bed"
-   },
-   {
-    "id": "u_nR2C9AVzfHY",
-    "url": "https://images.unsplash.com/photo-1631217871099-88310a909a32?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/woman-in-white-button-up-long-sleeve-shirt-holding-white-card-nR2C9AVzfHY?utm_source=dia_news&utm_medium=referral",
-    "alt": "woman in white button up long sleeve shirt holding white card"
-   },
-   {
-    "id": "u_IDM3n0LfNCY",
-    "url": "https://images.unsplash.com/photo-1758691461935-202e2ef6b69f?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-talking-to-patient-in-an-office-IDM3n0LfNCY?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor talking to patient in an office"
-   },
-   {
-    "id": "u_XjpH81N6rDc",
-    "url": "https://images.unsplash.com/photo-1758691463198-dc663b8a64e4?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-writing-notes-while-patient-sits-opposite-XjpH81N6rDc?utm_source=dia_news&utm_medium=referral",
-    "alt": "Doctor writing notes while patient sits opposite"
-   }
-  ],
-  "devices": [
-   {
-    "id": "u_bPRZiasA8SM",
-    "url": "https://images.unsplash.com/photo-1684157127180-f7ffd7b67db9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-testing-blood-sugar-bPRZiasA8SM?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person testing blood sugar"
-   },
-   {
-    "id": "u_ohcYbJE0bMA",
-    "url": "https://images.unsplash.com/photo-1685061978048-4ffcf2d9acdc?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "isens usa",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-holding-a-remote-control-in-their-hand-ohcYbJE0bMA?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person holding a remote control in their hand"
-   },
-   {
-    "id": "u_9DZD95QYV4I",
-    "url": "https://images.unsplash.com/photo-1731477779613-0917d3095b31?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Lakshitha Siyasinghe",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-holder-9DZD95QYV4I?utm_source=dia_news&utm_medium=referral",
-    "alt": "A close up of a cell phone holder"
-   },
-   {
-    "id": "u_tnoTjGGo45s",
-    "url": "https://images.unsplash.com/photo-1666887360866-959a31b05985?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Nappy",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-hand-holding-a-smart-watch-tnoTjGGo45s?utm_source=dia_news&utm_medium=referral",
-    "alt": "a hand holding a smart watch"
-   },
-   {
-    "id": "u_0rXHOonM9Ug",
-    "url": "https://images.unsplash.com/photo-1683027611367-055941a0380d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHB1bXB8ZW58MXwwfHx8MTc5NDIwNzgyNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-holding-an-insulin-injection-0rXHOonM9Ug?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person holding an insulin injection"
-   },
-   {
-    "id": "u_J4HwEwZtIs8",
-    "url": "https://images.unsplash.com/photo-1612851300081-30cac0077b3b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHB1bXB8ZW58MXwwfHx8MTc5NDIwNzgyNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Dennis Klicker",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/yellow-and-clear-glass-bottle-J4HwEwZtIs8?utm_source=dia_news&utm_medium=referral",
-    "alt": "yellow and clear glass bottle"
-   }
-  ],
-  "drugs": [
-   {
-    "id": "u_8gG2PDqpktY",
-    "url": "https://images.unsplash.com/photo-1685485276223-0bb0226dcca8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbnxlbnwxfDB8fHwxNzk0MjA3ODI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "isens usa",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-cell-phone-8gG2PDqpktY?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person sitting at a table with a cell phone"
-   },
-   {
-    "id": "u_msQB97gUxY0",
-    "url": "https://images.unsplash.com/photo-1624625021542-41a4ff97c025?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbnxlbnwxfDB8fHwxNzk0MjA3ODI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Towfiqu barbhuiya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/silver-and-black-tube-type-vaporizer-msQB97gUxY0?utm_source=dia_news&utm_medium=referral",
-    "alt": "silver and black tube type vaporizer"
-   }
-  ],
-  "access": [],
-  "market": [],
-  "events": [],
-  "community": [],
-  "cure": [
-   {
-    "id": "u_aef71KyW0JI",
-    "url": "https://images.unsplash.com/photo-1619332624763-48cdc3d3d08a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "FlyD",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/red-and-white-heart-illustration-aef71KyW0JI?utm_source=dia_news&utm_medium=referral",
-    "alt": "red and white heart illustration"
-   },
-   {
-    "id": "u_NbZQYileaOI",
-    "url": "https://images.unsplash.com/photo-1631048005696-9d1148f0a932?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/green-plant-with-water-droplets-NbZQYileaOI?utm_source=dia_news&utm_medium=referral",
-    "alt": "green plant with water droplets"
-   },
-   {
-    "id": "u_W2OVh2w2Kpo",
-    "url": "https://images.unsplash.com/photo-1576086476234-1103be98f096?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/gree-fur-W2OVh2w2Kpo?utm_source=dia_news&utm_medium=referral",
-    "alt": "gree fur"
-   },
-   {
-    "id": "u_gs8Sy5sSATk",
-    "url": "https://images.unsplash.com/photo-1714845596452-21985ecc6dcc?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Bioscience Image Library by Fayette Reynolds",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/microscopic-view-of-plant-cells-with-nuclei-gs8Sy5sSATk?utm_source=dia_news&utm_medium=referral",
-    "alt": "Microscopic view of plant cells with nuclei"
-   },
-   {
-    "id": "u_S07-mK6zNeY",
-    "url": "https://images.unsplash.com/photo-1716833323054-c0ea772156ad?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Bioscience Image Library by Fayette Reynolds",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/proliferation-of-adipocytes-in-adult-parathyroid-gland-by-phase-contrast-S07-mK6zNeY?utm_source=dia_news&utm_medium=referral",
-    "alt": "Proliferation of Adipocytes in Adult Parathyroid Gland by Phase Contrast"
-   },
-   {
-    "id": "u_-uAqulSLly0",
-    "url": "https://images.unsplash.com/photo-1629721270535-c67f2ab1243c?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "FlyD",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/blue-and-red-abstract-painting--uAqulSLly0?utm_source=dia_news&utm_medium=referral",
-    "alt": "blue and red abstract painting"
-   }
-  ]
- }
+ "events": []
 };

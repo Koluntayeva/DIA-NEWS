@@ -45,16 +45,23 @@ const FEEDS = [
 
 /* Pexels search phrases per section: used for the fallback pool and when the AI gave no phrase */
 const CAT_QUERIES = {
-  cure: ["pancreatic islet cells microscope", "stem cell laboratory research", "scientist cell culture"],
-  devices: ["continuous glucose monitor arm", "insulin pump", "blood glucose meter"],
-  drugs: ["insulin pen", "medicine pills hand", "pharmacist medication"],
-  research: ["scientist laboratory", "microscope research", "lab pipette"],
-  approval: ["doctor patient consultation", "medical documents doctor", "hospital doctor tablet"],
-  access: ["pharmacy shelves", "clinic reception patient", "doctor elderly patient"],
-  market: ["medical technology", "pharmaceutical production", "healthcare business meeting"],
-  events: ["medical conference audience", "conference speaker stage", "doctors meeting"],
-  community: ["family healthy lifestyle", "people walking park", "blood sugar test finger"],
+  cure: ["pancreatic islet cells microscope", "laboratory test tubes", "cell culture petri dish"],
+  devices: ["continuous glucose monitor sensor", "insulin pump device", "blood glucose meter"],
+  drugs: ["insulin pen", "medicine pills", "pharmacy shelves medicine"],
+  research: ["laboratory microscope", "lab pipette test tubes", "scientific laboratory equipment"],
+  approval: ["medical documents stethoscope", "pharmaceutical packaging", "medicine vials"],
+  access: ["pharmacy shelves", "hospital corridor", "prescription medicine box"],
+  market: ["medical technology device", "pharmaceutical production line", "medicine packaging"],
+  events: ["conference hall seats", "auditorium stage", "medical conference badge"],
+  community: ["healthy breakfast vegetables", "running shoes park", "glucose meter test strips"],
 };
+// photos with people are skipped for local stories (a stranger of another look would contradict the place), and for the fallback pool
+const PEOPLE = /\b(person|people|man|men|woman|women|girl|boy|child|children|kid|hand|hands|finger|doctor|nurse|patient|guy|lady|someone|family|couple|crowd|face|portrait|arm)s?\b/i;
+const LOCAL_TLD = /\.(ru|kz|by|uz|kg|tj|az|am|ge|md|ua|su|xn--p1ai)$/i;
+function isLocal(it) {
+  if (it.local) return true;
+  try { return LOCAL_TLD.test(new URL(it.url).hostname); } catch (e) { return false; }
+}
 const POOL_SIZE = 6;       // fallback photos per section
 const POOL_DAYS = 30;      // refresh the fallback pool this often
 
@@ -158,7 +165,8 @@ For each pick return:
 - "stage": one of ${JSON.stringify(STAGES)} or "" if none fits
 - "title": headline in 5 languages {"ru","en","kk","de","es"} (kk = Kazakh in Cyrillic), faithful to the original, no clickbait
 - "text": 1–2 sentence summary in the same 5 languages
-- "photo": 2–4 English words to search a stock photo library for a realistic, high-quality illustrative photo of the story's subject (if the story is about a specific patient or person, describe an object or setting instead of a person, so readers do not mistake a stranger for them) (e.g. "insulin pen close-up", "scientist microscope", "child glucose sensor", "pharmacy shelves"). Concrete objects or scenes only: no brand names, no real people's names, no text, no abstract ideas
+- "photo": 2–4 English words to search a stock photo library for a realistic, high-quality illustrative photo of the story's subject (if the story is about a specific patient or person, or about a specific city, region or country, describe objects or a setting with NO people, so the photo never contradicts who or where the story is about)
+- "local": true if the story is about a specific city, region or country (local news), else false (e.g. "insulin pen close-up", "scientist microscope", "child glucose sensor", "pharmacy shelves"). Concrete objects or scenes only: no brand names, no real people's names, no text, no abstract ideas
 
 Already published on the site (do NOT pick another story about the same event or announcement, even from a different outlet or with different wording):
 ${old.slice(0, 40).map((x) => "- " + (x.title.ru || x.title.en)).join("\n") || "- (none)"}
@@ -336,6 +344,7 @@ async function aiPick(cands) {
         title: langObj(p.title, { lang: c.lang, value: c.title }),
         text: langObj(p.text, { lang: c.lang, value: c.text }),
         photoQuery: typeof p.photo === "string" ? p.photo.trim().slice(0, 60) : "",
+        local: p.local === true,
       };
     });
   } catch (e) {
@@ -441,7 +450,7 @@ async function usePhoto(ph) {
 const stamp = new Date().toISOString();
 const fresh = picks.map((p) => {
   const id = "n" + Buffer.from(p.url).toString("base64url").slice(-10);
-  const it = { id, cat: p.cat, stage: p.stage || undefined, date: p.date, added: stamp, title: p.title, text: p.text, url: p.url, src: p.src, photoQuery: p.photoQuery || "" };
+  const it = { id, cat: p.cat, stage: p.stage || undefined, date: p.date, added: stamp, title: p.title, text: p.text, url: p.url, src: p.src, photoQuery: p.photoQuery || "", local: p.local || undefined };
   if (!it.stage) delete it.stage;
   return it;
 });
@@ -460,7 +469,7 @@ if (PHOTO_ON) {
   const need = items.filter((x) => !x.photo && !x.photoTried && !x.photoQuery);
   if (need.length) {
     try {
-      const raw = await callAI(`For each news headline about diabetes, give 2–4 English words to search a stock photo library for a realistic, high-quality illustrative photo (concrete objects or scenes only: no brand names, no real people's names, no text). Reply with JSON only: {"q":["...", ...]} in the same order.\n\n${need.map((x, i) => `${i}. ${x.title.en || x.title.ru}`).join("\n")}`);
+      const raw = await callAI(`For each news headline about diabetes, give 2–4 English words to search a stock photo library for a realistic, high-quality illustrative photo (concrete objects or settings only, with NO people: no brand names, no text). Reply with JSON only: {"q":["...", ...]} in the same order.\n\n${need.map((x, i) => `${i}. ${x.title.en || x.title.ru}`).join("\n")}`);
       if (raw) { const q = JSON.parse(raw.slice(raw.indexOf("{"), raw.lastIndexOf("}") + 1)).q || []; need.forEach((x, i) => { if (typeof q[i] === "string") x.photoQuery = q[i].trim().slice(0, 60); }); }
     } catch (e) { log("AI photo phrases failed:", e.message); }
   }
@@ -473,7 +482,9 @@ if (PHOTO_ON) {
     for (const q of queries) {
       if (budget < 2) break;
       searched++;
-      const ph = bestMatch(await searchPhotos(q), q, used);
+      const local = isLocal(it);
+      const qq = local && PEOPLE.test(q) ? CAT_QUERIES[it.cat]?.[0] || q : q;
+      const ph = bestMatch((await searchPhotos(qq)).filter((x) => !local || !PEOPLE.test(x.alt)), qq, used);
       if (ph) { got = await usePhoto(ph); break; }
     }
     if (got) { used.add(got.id); it.photo = got; photosAdded++; }
@@ -489,7 +500,7 @@ if (PHOTO_ON) {
     pool[c] = stale ? [] : [...(pool[c] || [])];
     if (pool[c].length >= POOL_SIZE || budget < 3 || rateLimited) { if (stale && !pool[c].length) pool[c] = prev[c] || []; continue; }
     const q = CAT_QUERIES[c][pool[c].length % CAT_QUERIES[c].length];
-    for (const ph of await searchPhotos(q, 30)) {
+    for (const ph of (await searchPhotos(q, 30)).filter((x) => !PEOPLE.test(x.alt))) {
       if (pool[c].length >= POOL_SIZE || budget < 1) break;
       if (used.has(ph.id)) continue;
       used.add(ph.id); pool[c].push(await usePhoto(ph));
