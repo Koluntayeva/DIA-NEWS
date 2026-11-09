@@ -7,8 +7,275 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-09T07:30:16.221Z",
+ "updated": "2026-11-09T08:39:20.364Z",
  "items": [
+  {
+   "id": "nNZdz9vYz01",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-09",
+   "added": "2026-11-09T08:39:20.364Z",
+   "title": {
+    "ru": "Ученые связали белок Miro1 с инсулинорезистентностью",
+    "en": "Scientists link Miro1 protein to insulin resistance",
+    "kk": "Ғалымдар Miro1 ақуызын инсулинге төзімділікпен байланыстырды",
+    "de": "Forscher verknüpfen das Protein Miro1 mit Insulinresistenz",
+    "es": "Científicos relacionan la proteína Miro1 con la resistencia a la insulina"
+   },
+   "text": {
+    "ru": "Исследователи выявили связь белка Miro1 с инсулинорезистентностью.",
+    "en": "Researchers have identified a link between the Miro1 protein and insulin resistance.",
+    "kk": "Зерттеушілер Miro1 ақуызы мен инсулинге төзімділік арасындағы байланысты анықтады.",
+    "de": "Forschende haben einen Zusammenhang zwischen dem Protein Miro1 und Insulinresistenz nachgewiesen.",
+    "es": "Investigadores han identificado una relación entre la proteína Miro1 y la resistencia a la insulina."
+   },
+   "url": "https://ua.news/ru/dovkolo-svitu/naukovtsi-viiavili-zviazok-bilka-miro1-z-insulinorezistentnistiu-sciencedaily",
+   "src": "UA.NEWS",
+   "photoQuery": "laboratory research microscope",
+   "photo": {
+    "id": "u_JxoWb7wHqnA",
+    "url": "https://images.unsplash.com/photo-1630959305790-4c956ce6c0b6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8bGFib3JhdG9yeSUyMHJlc2VhcmNoJTIwbWljcm9zY29wZXxlbnwxfDB8fHwxNzk0MjEzNTYwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/scientist-using-microscope-in-laboratory-JxoWb7wHqnA?utm_source=dia_news&utm_medium=referral",
+    "alt": "A person in a white lab coat looking through a microscope in a laboratory"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года UA.NEWS опубликовал материал со ссылкой на ScienceDaily о работе, которая связывает белок Miro1 с инсулинорезистентностью, одним из ключевых признаков диабета 2 типа. Результаты вышли в журнале Nature Communications. Согласно публикации, в скелетных мышцах людей с этим заболеванием обнаружили повышенный уровень данного белка.\n\nMiro1 (Mitochondrial Rho GTPase1) располагается на внешней оболочке митохондрий, структур клетки, которые производят энергию. Исследователи изучали его на клеточных культурах, в доклинических моделях и на людях с диабетом 2 типа. Накопление Miro1 ухудшало реакцию мышц на инсулин. После устранения белка в доклинических моделях мышцы снова лучше реагировали на инсулин, и авторы считают, что Miro1 напрямую участвует в снижении чувствительности к инсулину.\n\nОтдельное рандомизированное контролируемое исследование включало людей с ожирением и диабетом 2 типа. Тех, кто занимался аэробными упражнениями, сравнивали с группой, которая получала стандартное медицинское лечение. В группе с физической нагрузкой содержание Miro1 в мышцах снизилось, и одновременно выросли чувствительность к инсулину и выработка энергии мышцами. Авторы допускают, что уменьшение белка может быть одним из способов, которыми физическая активность улучшает реакцию организма на инсулин.\n\nСтарший автор работы Джон П. Кирван заявил, что исследование делает Miro1 возможной терапевтической мишенью. Однако безопасность и эффективность воздействия непосредственно на этот белок у пациентов с диабетом 2 типа ещё предстоит выяснить. Восстановление ответа на инсулин пока показано только в доклинических моделях, тогда как у людей исследователи зафиксировали снижение Miro1 вместе с ростом чувствительности после упражнений. В статье не приводится число участников и конкретных показателей.",
+    "en": "On November 9, 2026, UA.NEWS published a report, based on ScienceDaily coverage, about research that links the Miro1 protein to insulin resistance, a key feature of type 2 diabetes. The findings appeared in the journal Nature Communications. According to the report, higher levels of this protein were found in the skeletal muscles of people with the condition.\n\nMiro1, short for Mitochondrial Rho GTPase1, sits on the outer membrane of mitochondria, the cell structures that produce energy. The team studied it in laboratory cells, in preclinical models and in people with type 2 diabetes. Accumulation of Miro1 impaired the muscles' response to insulin. When the protein was removed in preclinical models, muscle tissue responded to insulin better again, and the authors argue that Miro1 directly contributes to reduced insulin sensitivity.\n\nA separate randomized controlled trial involved people with obesity and type 2 diabetes. Participants who did aerobic exercise were compared with a group receiving standard medical care. In the exercise group, muscle Miro1 levels fell, while insulin sensitivity and muscle energy production improved. The authors suggest that a lower amount of this protein may be one mechanism through which physical activity improves the body's response to insulin.\n\nThe senior author, John P. Kirwan, said the work identifies Miro1 as a potential therapeutic target. However, the safety and effectiveness of acting on the protein directly in people with type 2 diabetes still need to be established. Restored insulin response has so far been shown only in preclinical models, while in humans the researchers recorded lower Miro1 alongside better insulin sensitivity after exercise. The article does not report participant numbers or specific figures.",
+    "kk": "2026 жылғы 9 қарашада UA.NEWS басылымы ScienceDaily дерегіне сілтеме жасап, Miro1 ақуызын инсулинге төзімсіздікпен байланыстыратын зерттеу туралы материал жариялады. Инсулинге төзімсіздік — 2-типті диабеттің негізгі белгісі. Нәтижелер Nature Communications журналында шықты. Хабарламаға сәйкес, осы ауруы бар адамдардың қаңқа бұлшықеттерінде бұл ақуыздың деңгейі жоғары екені анықталған.\n\nMiro1 (Mitochondrial Rho GTPase1) энергия өндіретін жасуша құрылымдары — митохондриялардың сыртқы қабығында орналасқан. Зерттеушілер оны зертханалық жасушаларда, доклиникалық модельдерде және 2-типті диабеті бар адамдарда зерттеді. Miro1-дің жиналуы бұлшықеттің инсулинге жауабын нашарлатты. Доклиникалық модельдерде ақуыз жойылғаннан кейін бұлшықеттер инсулинге қайтадан жақсырақ жауап берді, ал авторлар Miro1 инсулинге сезімталдықтың төмендеуіне тікелей қатысады деп санайды.\n\nБөлек рандомизацияланған бақыланатын зерттеуге семіздігі және 2-типті диабеті бар адамдар қатысты. Аэробтық жаттығу жасағандар стандартты медициналық көмек алған топпен салыстырылды. Физикалық белсенділік тобында бұлшықеттегі Miro1 деңгейі төмендеді, ал инсулинге сезімталдық пен бұлшықеттің энергия өндіруі жақсарды. Авторлардың пікірінше, ақуыз мөлшерінің азаюы дене белсенділігі инсулинге жауапты жақсартуының механизмдерінің бірі болуы мүмкін.\n\nЖұмыстың аға авторы Джон П. Кирван зерттеу Miro1-ді ем мақсатындағы нысана ретінде анықтайтынын айтты. Дегенмен 2-типті диабеті бар адамдарда осы ақуызға тікелей әсер етудің қауіпсіздігі мен тиімділігі әлі анықталуы тиіс. Инсулинге жауаптың қалпына келуі әзірге тек доклиникалық модельдерде көрсетілген, ал адамдарда зерттеушілер жаттығудан кейін Miro1 деңгейінің төмендегенін және инсулинге сезімталдықтың артқанын бірге тіркеген. Мақалада қатысушылар саны мен нақты көрсеткіштер берілмеген.",
+    "de": "Am 9. November 2026 veröffentlichte UA.NEWS einen Beitrag, der sich auf eine Meldung von ScienceDaily stützt und über eine Studie berichtet, die das Protein Miro1 mit Insulinresistenz verknüpft, einem zentralen Merkmal von Typ-2-Diabetes. Die Ergebnisse erschienen in der Fachzeitschrift Nature Communications. Demnach fanden sich in der Skelettmuskulatur von Menschen mit dieser Erkrankung erhöhte Mengen des Proteins.\n\nMiro1, kurz für Mitochondrial Rho GTPase1, sitzt auf der äußeren Membran der Mitochondrien, den energieerzeugenden Strukturen der Zellen. Das Team untersuchte es in Laborzellen, in präklinischen Modellen und bei Menschen mit Typ-2-Diabetes. Eine Anhäufung von Miro1 schwächte die Reaktion der Muskeln auf Insulin. Nach dem Entfernen des Proteins in präklinischen Modellen sprach das Muskelgewebe wieder besser auf Insulin an; die Autoren sehen darin einen direkten Beitrag von Miro1 zur verringerten Insulinempfindlichkeit.\n\nEine separate randomisierte kontrollierte Studie umfasste Menschen mit Adipositas und Typ-2-Diabetes. Teilnehmer mit Ausdauertraining wurden mit einer Gruppe verglichen, die die übliche medizinische Versorgung erhielt. In der Trainingsgruppe sanken die Miro1-Werte im Muskel, während Insulinsensitivität und Energieproduktion der Muskeln zunahmen. Die Autoren vermuten, dass der geringere Proteingehalt ein Mechanismus sein könnte, über den körperliche Aktivität die Insulinreaktion verbessert.\n\nDer leitende Autor John P. Kirwan erklärte, dass die Arbeit Miro1 als potenzielles therapeutisches Ziel kennzeichnet. Sicherheit und Wirksamkeit eines direkten Eingriffs am Protein bei Menschen mit Typ-2-Diabetes müssen jedoch noch geklärt werden. Eine wiederhergestellte Insulinantwort ist bisher nur in präklinischen Modellen gezeigt worden, während bei Menschen der Rückgang von Miro1 zusammen mit einer verbesserten Insulinsensitivität nach dem Training beobachtet wurde. Der Artikel nennt keine Teilnehmerzahlen oder konkreten Messwerte.",
+    "es": "El 9 de noviembre de 2026, UA.NEWS publicó una nota, basada en información de ScienceDaily, sobre un estudio que relaciona la proteína Miro1 con la resistencia a la insulina, un rasgo clave de la diabetes tipo 2. Los resultados aparecieron en la revista Nature Communications. Según la nota, en el músculo esquelético de personas con esta enfermedad se encontraron niveles más altos de dicha proteína.\n\nMiro1, abreviatura de Mitochondrial Rho GTPase1, se ubica en la membrana externa de las mitocondrias, las estructuras celulares que producen energía. El equipo la estudió en células de laboratorio, en modelos preclínicos y en personas con diabetes tipo 2. La acumulación de Miro1 empeoraba la respuesta muscular a la insulina. Al eliminar la proteína en los modelos preclínicos, el tejido muscular volvió a responder mejor a la insulina; los autores consideran que Miro1 contribuye directamente a la menor sensibilidad a la insulina.\n\nUn ensayo aleatorizado controlado separado incluyó a personas con obesidad y diabetes tipo 2. Quienes hicieron ejercicio aeróbico se compararon con un grupo que recibió atención médica estándar. En el grupo que hacía ejercicio, los niveles musculares de Miro1 bajaron, mientras que la sensibilidad a la insulina y la producción de energía de los músculos mejoraron. Los autores sugieren que una menor cantidad de esta proteína podría ser uno de los mecanismos mediante los cuales la actividad física mejora la respuesta a la insulina.\n\nEl autor principal, John P. Kirwan, señaló que el trabajo identifica a Miro1 como posible diana terapéutica. Sin embargo, aún falta establecer la seguridad y la eficacia de actuar directamente sobre esta proteína en personas con diabetes tipo 2. La recuperación de la respuesta a la insulina solo se ha demostrado en modelos preclínicos, mientras que en humanos los investigadores registraron una disminución de Miro1 junto con una mejor sensibilidad a la insulina tras el ejercicio. El artículo no informa del número de participantes ni de cifras concretas."
+   }
+  },
+  {
+   "id": "nkIzP29jPTU",
+   "cat": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-09T08:39:20.364Z",
+   "title": {
+    "ru": "Детский эндокринолог Югры рассказала о «красных флагах» диабета у детей",
+    "en": "Yugra's chief pediatric endocrinologist on warning signs of diabetes in children",
+    "kk": "Югра балалар эндокринологі балалардағы қант диабетінің «қызыл жалаулары» туралы айтты",
+    "de": "Die leitende Kinderendokrinologin aus Jugra über Warnzeichen von Diabetes bei Kindern",
+    "es": "La principal endocrinóloga infantil de Yugra habla sobre las señales de alarma de la diabetes en niños"
+   },
+   "text": {
+    "ru": "Главный детский эндокринолог Югры рассказала, на какие признаки диабета у детей стоит обратить внимание.",
+    "en": "Yugra's chief pediatric endocrinologist explained which signs of diabetes in children parents should watch for.",
+    "kk": "Юграның бас балалар эндокринологі балаларда қант диабетінің қандай белгілеріне назар аудару керектігін түсіндірді.",
+    "de": "Die leitende Kinderendokrinologin aus Jugra erklärte, auf welche Anzeichen von Diabetes bei Kindern man achten sollte.",
+    "es": "La principal endocrinóloga infantil de Yugra explicó a qué señales de diabetes en niños conviene prestar atención."
+   },
+   "url": "https://ugra-news.ru/article/glavnyy_detskiy_endokrinolog_yugry_rasskazala_o_krasnykh_flagakh_sakharnogo_diabeta_u_detey/",
+   "src": "UGRA-NEWS.RU",
+   "photoQuery": "glucose meter test strip",
+   "local": true,
+   "photo": {
+    "id": "u_09HGdZzkP-Q",
+    "url": "https://images.unsplash.com/photo-1513442542250-854d436a73f2?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIxMzU2MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Chris Ralston",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/vegetable-salad-served-on-plate-09HGdZzkP-Q?utm_source=dia_news&utm_medium=referral",
+    "alt": "vegetable salad served on plate"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "njE4P29jPTU",
+   "cat": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-09T08:39:20.364Z",
+   "title": {
+    "ru": "Диабет без симптомов: почему тысячи людей могут годами не знать о повышенном сахаре",
+    "en": "Diabetes without symptoms: why thousands may not know about high blood sugar for years",
+    "kk": "Белгісіз қант диабеті: неге мыңдаған адам жылдар бойы қанда қант көп екенін білмеуі мүмкін",
+    "de": "Diabetes ohne Symptome: Warum Tausende jahrelang nicht von erhöhtem Blutzucker wissen",
+    "es": "Diabetes sin síntomas: por qué miles de personas pueden tardar años en saber que tienen azúcar alta en sangre"
+   },
+   "text": {
+    "ru": "Повышенный уровень сахара в крови может long время не проявляться симптомами, поэтому многие люди о нём не знают.",
+    "en": "High blood sugar can go unnoticed for years without symptoms, so many people remain unaware of it.",
+    "kk": "Қандағы қант деңгейі жоғары болғанымен, ұзақ уақыт белгі бермеуі мүмкін, сондықтан көп адам оны білмейді.",
+    "de": "Erhöhter Blutzucker kann jahrelang ohne Symptome bleiben, sodass viele Menschen nichts davon wissen.",
+    "es": "El azúcar alta en sangre puede pasar desapercibida durante años sin síntomas, por lo que muchas personas no lo saben."
+   },
+   "url": "https://kaktus.media/doc/556502_diabet_bez_simptomov._pochemy_tysiachi_ludey_mogyt_godami_ne_znat_o_povyshennom_sahare.html",
+   "src": "Кактус.медиа",
+   "photoQuery": "blood glucose meter",
+   "photo": {
+    "id": "u_uaN7SjUfWv0",
+    "url": "https://images.unsplash.com/photo-1683123657967-d05ea4980c95?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTN8fGJsb29kJTIwZ2x1Y29zZSUyMG1ldGVyfGVufDF8MHx8fDE3OTQyMTM1NjJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-doing-a-finger-prick-test-for-blood-glucose-uaN7SjUfWv0?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person doing a finger prick test for blood glucose"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года кыргызстанское издание Kaktus.media опубликовало материал по итогам радиоинтервью с эндокринологом Полиной Лучкиной, которая объяснила, почему диабет второго типа может годами оставаться незамеченным. По статистике, приведенной в публикации, в Кыргызстане зарегистрировано около 92 200 человек с сахарным диабетом, а реальное число может быть выше, поскольку не все обращаются к врачам и проходят обследование.\n\nИз зарегистрированных случаев примерно 88 тысяч приходятся на второй тип, около 2 500 на первый, около тысячи на гестационный диабет и около 500 на другие типы. По словам врача, всё чаще болезнь выявляют случайно: при подготовке к операции, на профилактическом осмотре или при обращении к врачу по другому поводу. Раньше пациенты чаще замечали характерные признаки, такие как постоянная жажда, сухость во рту, частое мочеиспускание и изменение веса, а сейчас болезнь нередко развивается почти незаметно.\n\nДля выявления длительно повышенного сахара специалисты используют анализ на гликированный гемоглобин, который отражает средний уровень глюкозы примерно за последние три месяца. Пациенты нередко удивляются, полагая, что сахар поднялся недавно, тогда как анализ может показать, что нарушения обмена длились месяцами.\n\nВрач подчеркнула, что у диабета второго типа нет одной причины. Факторы риска включают избыточный вес и ожирение, малоподвижный образ жизни, сердечно-сосудистые заболевания, гипертонию и нарушения липидного обмена, в том числе высокий холестерин. В группе повышенного риска также женщины, у которых был диагностирован гестационный диабет, и те, кто родил ребенка с большой массой тела. Сладости сами по себе не являются единственной причиной, однако специалист призвала внимательно изучать состав продуктов, особенно детских.\n\nЛечение зависит от типа: при первом типе необходим инсулин, при втором применяются препараты с разными механизмами действия. Врач учитывает уровень сахара, массу тела, длительность болезни, состояние сердца и почек. Перевод на инсулин при втором типе делается по медицинским показаниям, например когда длительный прием таблеток, даже в максимальных дозах, не позволяет достичь нужного уровня. Доступный текст обрывается на середине фразы, поэтому остальная часть беседы в этом пересказе не отражена.",
+    "en": "On November 9, 2026, the Kyrgyz outlet Kaktus.media published an article based on a radio interview with endocrinologist Polina Luchkina, who explained why type 2 diabetes can go unnoticed for years. Official statistics cited in the piece count about 92,200 people with diabetes in Kyrgyzstan, and the real figure may be higher because not everyone visits a doctor or gets tested.\n\nOf the registered cases, roughly 88,000 are type 2, about 2,500 type 1, around 1,000 gestational diabetes, and about 500 other types. Luchkina said cases are increasingly found by chance, for example during preparation for surgery, a routine check-up, or a visit about an unrelated problem. Patients once more often noticed classic signs such as constant thirst, dry mouth, frequent urination and weight changes, but the disease now often develops almost imperceptibly.\n\nTo detect prolonged high blood sugar, specialists use the glycated hemoglobin test, which reflects average glucose over roughly the last three months. Patients are often surprised, believing their sugar rose recently, but the test can show that the imbalance may have lasted for months.\n\nThe doctor stressed that type 2 diabetes has no single cause. Risk factors include excess weight and obesity, a sedentary lifestyle, cardiovascular disease, hypertension, and lipid disorders such as high cholesterol. Women who had gestational diabetes or gave birth to a baby with high birth weight are also in the higher-risk group. She added that sweets alone are not the sole cause, though she urged attention to the ingredients in children's products.\n\nTreatment depends on type: type 1 requires insulin, while type 2 is treated with medicines that act in different ways. Doctors weigh blood sugar, body weight, disease duration and the condition of the heart and kidneys. A switch to insulin for type 2 is made on medical grounds, for example when long-term tablets, even at maximum doses, fail to reach the needed level. The available text ends mid-sentence, so the rest of the discussion is not covered here.",
+    "kk": "2026 жылдың 9 қарашасында қырғыз басылымы Kaktus.media эндокринолог Полина Лучкинаның радиодағы сұхбаты негізінде мақала жариялады. Ол 2 типті қант диабеті неліктен жылдар бойы байқалмай қалуы мүмкін екенін түсіндірді. Мақалада келтірілген статистика бойынша Қырғызстанда қант диабетімен тіркелген адам шамамен 92 200, ал нақты сан одан да жоғары болуы мүмкін, себебі бәрі дәрігерге қаралып, тексерілмейді.\n\nТіркелген жағдайлардың шамамен 88 мыңы 2 типке, шамамен 2 500-і 1 типке, мың-ға жуығы жүктілік диабетіне, шамамен 500-і басқа түрлерге жатады. Дәрігердің айтуынша, ауруды барған сайын кездейсоқ анықтайды: операцияға дайындық кезінде, профилактикалық тексеруде немесе басқа себеппен дәрігерге барғанда. Бұрын науқастар тән белгілерді жиі байқайтын: тұрақты шөлдеу, ауыз қуысының құрғауы, жиі зәр шығару, салмақтың өзгеруі. Ал қазір ауру көбіне байқалмай дамиды.\n\nҰзақ уақыт жоғары қант деңгейін анықтау үшін мамандар гликирленген гемоглобин анализін қолданады; ол соңғы шамамен үш айдағы глюкозаның орташа деңгейін көрсетеді. Науқастар қант жақында көтерілді деп ойлап, көбіне таңқалады, бірақ анализ бұзылыстың бірнеше ай бойы болғанын көрсетуі мүмкін.\n\nДәрігер 2 типті қант диабетінің бірыңғай себебі жоқ екенін атап өтті. Қауіп факторларына артық салмақ пен семіздік, қозғалыссыз өмір салты, жүрек-қан тамыры аурулары, гипертония және холестерин жоғарылығын қоса алғанда липид алмасуының бұзылысы жатады. Жүктілік кезінде гестациялық диабет анықталған әйелдер мен салмағы үлкен нәресте туған әйелдер де қауіп тобында. Тәттілер өздігінен жалғыз себеп емес екенін айтқан дәрігер, әсіресе балаларға арналған өнімдердің құрамына мұқият қарауға шақырды.\n\nЕмдеу түріне байланысты: 1 типте инсулин қажет, ал 2 типте әртүрлі әсер ету механизмі бар дәрілер қолданылады. Дәрігер қант деңгейін, дене салмағын, ауру ұзақтығын, жүрек пен бүйрек жағдайын ескереді. 2 типті науқасты инсулинге ауыстыру медициналық көрсеткіш бойынша жасалады, мысалы, ұзақ уақыт таблетка қабылдау, тіпті ең жоғары дозада да қажетті деңгейге жеткізбесе. Қолжетімді мәтін сөйлемнің ортасында үзіліп қалғандықтан, сұхбаттың қалған бөлігі бұл баяндауда қамтылмаған.",
+    "de": "Am 9. November 2026 veröffentlichte das kirgisische Portal Kaktus.media einen Beitrag auf Basis eines Radiointerviews mit der Endokrinologin Polina Luchkina, die erklärte, warum Typ-2-Diabetes jahrelang unbemerkt bleiben kann. Laut der im Artikel genannten Statistik sind in Kirgisistan rund 92.200 Menschen mit Diabetes registriert; die tatsächliche Zahl könnte höher liegen, weil nicht alle zum Arzt gehen oder untersucht werden.\n\nVon den registrierten Fällen entfallen etwa 88.000 auf Typ 2, rund 2.500 auf Typ 1, etwa 1.000 auf Schwangerschaftsdiabetes und ungefähr 500 auf andere Formen. Nach Angaben der Ärztin wird die Krankheit zunehmend zufällig entdeckt, etwa bei der Vorbereitung auf eine Operation, bei einer Vorsorgeuntersuchung oder bei einem Arztbesuch aus einem anderen Grund. Früher bemerkten Betroffene häufiger typische Anzeichen wie anhaltenden Durst, trockenen Mund, häufiges Wasserlassen und Gewichtsveränderungen; heute verläuft die Erkrankung oft nahezu unbemerkt.\n\nUm eine länger erhöhte Blutzuckerkonzentration nachzuweisen, nutzen Fachleute den Test auf glykiertes Hämoglobin, der den durchschnittlichen Glukosewert etwa der letzten drei Monate widerspiegelt. Patienten sind oft überrascht, weil sie glauben, der Zucker sei erst kürzlich gestiegen; der Test kann jedoch zeigen, dass die Störung über Monate bestand.\n\nDie Ärztin betonte, dass Typ-2-Diabetes keine einzelne Ursache hat. Zu den Risikofaktoren zählen Übergewicht und Adipositas, Bewegungsmangel, Herz-Kreislauf-Erkrankungen, Bluthochdruck sowie Fettstoffwechselstörungen wie hohes Cholesterin. Zur Risikogruppe gehören außerdem Frauen mit einem früher diagnostizierten Schwangerschaftsdiabetes und Frauen, die ein Kind mit hohem Geburtsgewicht zur Welt brachten. Süßigkeiten seien nicht die alleinige Ursache, doch sollte man besonders bei Produkten für Kinder auf die Zusammensetzung achten.\n\nDie Behandlung richtet sich nach dem Typ: Bei Typ 1 ist Insulin unverzichtbar, bei Typ 2 kommen Medikamente mit unterschiedlichen Wirkmechanismen zum Einsatz. Die Ärztin berücksichtigt Blutzucker, Körpergewicht, Krankheitsdauer sowie den Zustand von Herz und Nieren. Eine Umstellung auf Insulin bei Typ 2 erfolgt aus medizinischen Gründen, etwa wenn Tabletten auch in höchster Dosierung über längere Zeit nicht zum Ziel führen. Der verfügbare Text bricht mitten im Satz ab, daher ist der restliche Gesprächsinhalt hier nicht enthalten.",
+    "es": "El 9 de noviembre de 2026, el medio kirguís Kaktus.media publicó un artículo basado en una entrevista radiofónica con la endocrinóloga Polina Luchkina, quien explicó por qué la diabetes tipo 2 puede pasar desapercibida durante años. Según las estadísticas citadas en la nota, en Kirguistán hay unas 92.200 personas registradas con diabetes, aunque la cifra real podría ser mayor, ya que no todas acuden al médico ni se someten a pruebas.\n\nDe los casos registrados, unos 88.000 son de tipo 2, cerca de 2.500 de tipo 1, alrededor de 1.000 de diabetes gestacional y unos 500 de otros tipos. Según la especialista, cada vez más casos se detectan por casualidad, por ejemplo al preparar una operación, en un chequeo preventivo o en una consulta por otro motivo. Antes, los pacientes notaban con más frecuencia signos característicos como sed constante, sequedad de boca, micción frecuente y cambios de peso; hoy la enfermedad suele desarrollarse casi sin síntomas.\n\nPara detectar un aumento prolongado del azúcar en sangre, los especialistas usan la prueba de hemoglobina glicada, que refleja el nivel medio de glucosa de aproximadamente los últimos tres meses. Muchos pacientes se sorprenden, pues creen que su azúcar subió recientemente, pero la prueba puede mostrar que la alteración lleva meses.\n\nLa doctora subrayó que la diabetes tipo 2 no tiene una causa única. Entre los factores de riesgo figuran el exceso de peso y la obesidad, el sedentarismo, las enfermedades cardiovasculares, la hipertensión y las alteraciones de los lípidos, como el colesterol alto. También forman parte del grupo de mayor riesgo las mujeres que tuvieron diabetes gestacional y las que dieron a luz a un bebé de gran peso. Aunque los dulces por sí solos no son la única explicación, pidió prestar atención a la composición de los productos, sobre todo los destinados a niños.\n\nEl tratamiento depende del tipo: en la tipo 1 es imprescindible la insulina, mientras que en la tipo 2 se usan fármacos con distintos mecanismos de acción. La médica tiene en cuenta el nivel de azúcar, el peso corporal, la duración de la enfermedad y el estado del corazón y los riñones. El paso a insulina en la tipo 2 se hace por indicación médica, por ejemplo cuando los comprimidos de uso prolongado, incluso a dosis máximas, no permiten alcanzar el nivel necesario. El texto disponible se corta a mitad de frase, así que el resto de la conversación no aparece en este resumen."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Зарегистрировано людей с сахарным диабетом в Кыргызстане (по статистике)",
+      "en": "Registered people with diabetes in Kyrgyzstan (statistics)",
+      "kk": "Қырғызстанда қант диабетімен тіркелгендер (статистика бойынша)",
+      "de": "Registrierte Menschen mit Diabetes in Kirgisistan (Statistik)",
+      "es": "Personas registradas con diabetes en Kirguistán (estadística)"
+     },
+     "v": {
+      "ru": "около 92 200",
+      "en": "about 92,200",
+      "kk": "шамамен 92 200",
+      "de": "rund 92.200",
+      "es": "unas 92.200"
+     }
+    },
+    {
+     "k": {
+      "ru": "Из них с диабетом второго типа",
+      "en": "Of these, with type 2 diabetes",
+      "kk": "Соның ішінде 2 типті қант диабетімен",
+      "de": "Davon mit Typ-2-Diabetes",
+      "es": "De ellas, con diabetes tipo 2"
+     },
+     "v": {
+      "ru": "около 88 тысяч",
+      "en": "about 88,000",
+      "kk": "шамамен 88 мың",
+      "de": "etwa 88.000",
+      "es": "unos 88.000"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVUU_b2M9NQ",
+   "cat": "community",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T08:39:20.364Z",
+   "title": {
+    "ru": "Жителям Марий Эл напомнили о профилактике осложнений диабета",
+    "en": "Mari El residents reminded about preventing diabetes complications",
+    "kk": "Марий Эл тұрғындарына қант диабетінің асқынуын алдын алу туралы еске салынды",
+    "de": "Einwohner von Mari El an die Vorbeugung von Diabetes-Komplikationen erinnert",
+    "es": "Recuerdan a los habitantes de Mari El la importancia de prevenir las complicaciones de la diabetes"
+   },
+   "text": {
+    "ru": "В Марий Эл напомнили о важности профилактики осложнений сахарного диабета.",
+    "en": "Residents of Mari El have been reminded of the importance of preventing diabetes complications.",
+    "kk": "Марий Эл тұрғындарына қант диабетінің асқынуларын алдын алудың маңыздылығы еске салынды.",
+    "de": "Die Einwohner von Mari El wurden an die Wichtigkeit der Vorbeugung von Diabeteskomplikationen erinnert.",
+    "es": "Se recordó a los habitantes de Mari El la importancia de prevenir las complicaciones de la diabetes."
+   },
+   "url": "https://www.marpravda.ru/news/medicina-i-zdorove/zhitelyam-mariy-el-napomnili-o-vazhnosti-profilaktiki-oslozhneniy-sakharnogo-diabeta/",
+   "src": "Марийская правда",
+   "photoQuery": "clinic consultation room",
+   "local": true,
+   "photo": {
+    "id": "u_K7Qh7RFtUuo",
+    "url": "https://images.unsplash.com/photo-1766299892549-b56b257d1ddd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8Y2xpbmljJTIwY29uc3VsdGF0aW9uJTIwcm9vbXxlbnwxfDB8fHwxNzk0MjEzNTYyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Brian Wangenheim",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/medical-diagnostic-tools-mounted-on-a-wall-K7Qh7RFtUuo?utm_source=dia_news&utm_medium=referral",
+    "alt": "Medical diagnostic tools mounted on a wall"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года газета «Марийская правда» сообщила, что главный внештатный эндокринолог Минздрава Марий Эл Людмила Егошина напомнила жителям республики, как снизить риск осложнений диабета. Неделя борьбы с диабетом продлится с 9 по 15 ноября и приурочена ко Всемирному дню борьбы с диабетом, который отмечают 14 ноября.\n\nЭтот день учредили в 1991 году Международная диабетическая федерация и ВОЗ, чтобы ответить на быстрый рост заболеваемости. Дата связана с днём рождения Фредерика Бантинга, который вместе с Чарльзом Бестом и Джоном Маклеодом открыл инсулин в 1921–1922 годах.\n\nПо данным из материала, в Марий Эл под наблюдением и на лечении в медорганизациях находятся 31528 человек с сахарным диабетом, а с начала года выявлено 2411 новых случаев. По оценке Минздрава РФ и федерального регистра, в России таких пациентов около 5,8–6,1 миллиона. С 2025 года в стране и в республике действует программа «Борьба с сахарным диабетом», которая должна улучшить диагностику, лечение и профилактику осложнений. В регионе работают Региональный и Межрайонный эндокринологические центры, а также 10 школ для пациентов; обучение в них нужно проходить раз в три года.\n\nГлавная опасность болезни в том, что осложнения могут проявиться через 10–15 лет после её начала. Они развиваются постепенно, поначалу почти не влияют на самочувствие, а уже возникшие трудно поддаются лечению. По словам специалиста, длительно высокий уровень сахара в крови приводит к таким осложнениям. Текст, доступный при подготовке этой заметки, обрывается на этом месте, поэтому конкретные рекомендации из материала здесь не приводятся.",
+    "en": "On 9 November 2026, the Mari El newspaper Marijskaya Pravda reported that Lyudmila Egoshina, the republic's chief external endocrinologist at the Ministry of Health, had reminded residents how to lower the risk of diabetes complications. The diabetes awareness week runs from 9 to 15 November and is tied to World Diabetes Day, marked on 14 November.\n\nThe day was set up in 1991 by the International Diabetes Federation and the WHO in response to the rapid growth of the disease worldwide. The date matches the birthday of Frederick Banting, who, together with Charles Best and John Macleod, discovered insulin in 1921–1922.\n\nAccording to figures in the article, 31528 people with diabetes are currently registered and receiving treatment at medical facilities in Mari El, and 2411 new cases have been identified so far this year. Based on estimates from the Russian Ministry of Health and the federal diabetes register, Russia has roughly 5.8–6.1 million people with the condition. A \"Fight Against Diabetes\" programme has operated in the country and the republic since 2025, aiming to improve diagnosis, treatment and complication prevention. The region has the Regional and Interdistrict endocrinology centres, as well as 10 schools for patients, where patients should retrain once every three years.\n\nThe main danger of the disease, the article notes, is that complications can appear 10 to 15 years after onset. They develop gradually, initially barely affect how a person feels, and once established are very hard to treat. The specialist explains that prolonged high blood sugar leads to these complications. The text available when this summary was prepared breaks off at this point, so specific recommendations from the piece are not included here.",
+    "kk": "2026 жылдың 9 қарашасында «Марийская правда» газеті Марий Эл Денсаулық сақтау министрлігінің бас штаттан тыс эндокринологы Людмила Егошинаның республика тұрғындарына диабет асқынуларының алдын алуды еske салғанын хабарлады. Диабетпен күрес апталығы 9-нан 15 қарашаға дейін жалғасады және ол 14 қарашада аталатын Бүкіләлемдік диабетпен күрес күнімен байланысты.\n\nБұл күнді 1991 жылы Халықаралық диабет федерациясы мен ДДҰ аурудың дүниежүзінде тез өсуіне жауап ретінде белгіледі. Күн Фредерик Бантингтің туған күніне сәйкес келеді; ол Чарльз Бестпен және Джон Маклеодпен бірге 1921–1922 жылдары инсулинді ашқан.\n\nМатериалдағы деректер бойынша, Марий Эл медициналық мекемелерінде диабетпен ауыратын 31528 адам тіркеліп, емделуде, ал биыл 2411 жаңа жағдай анықталған. Ресей Денсаулық сақтау министрлігі мен федералдық тізілім бағалауы бойынша елде мұндай науқастар шамамен 5,8–6,1 миллион. 2025 жылдан бері елде және республикада «Қантты диабетпен күрес» бағдарламасы жұмыс істейді; ол диагностиканы, емдеуді және асқынулардың алдын алуды жақсартуға бағытталған. Өңірде Аймақтық және Аралық эндокринологиялық орталықтар, сондай-ақ науқастарға арналған 10 мектеп бар; онда оқуды үш жылда бір рет өту керек.\n\nАурудың басты қаупі — асқынулар ауру басталғаннан кейін 10–15 жылдан соң пайда болуы мүмкін. Олар біртіндеп дамиды, басында адамның жағдайына аз әсер етеді, ал пайда болған соң емдеуге қиын келеді. Маманның айтуынша, қанда қант деңгейінің ұзақ уақыт жоғары болуы осындай асқынуларға әкеледі. Осы жазбаны дайындаған кезде қолжетімді мәтін осы жерде үзіледі, сондықтан материалдағы нақты ұсынымдар бұл жерде берілмеген.",
+    "de": "Am 9. November 2026 berichtete die Zeitung „Marijskaja Prawda“ aus der Republik Mari El, dass Ludmila Jegoschina, die leitende externe Endokrinologin des Gesundheitsministeriums der Republik, die Einwohner daran erinnert hat, wie sie das Risiko von Diabeteskomplikationen senken können. Die Diabetes-Aufklärungswoche läuft vom 9. bis 15. November und ist an den Weltdiabetestag am 14. November geknüpft.\n\nDer Tag wurde 1991 von der Internationalen Diabetes-Föderation und der WHO als Reaktion auf die rasche weltweite Zunahme der Erkrankung eingeführt. Das Datum fällt auf den Geburtstag von Frederick Banting, der zusammen mit Charles Best und John Macleod in den Jahren 1921 bis 1922 das Insulin entdeckte.\n\nLaut Angaben des Artikels sind in Mari El derzeit 31528 Menschen mit Diabetes in medizinischer Betreuung und Behandlung registriert; seit Jahresbeginn wurden 2411 neue Fälle festgestellt. Nach Schätzungen des russischen Gesundheitsministeriums und des föderalen Diabetesregisters leben in Russland etwa 5,8 bis 6,1 Millionen Betroffene. Seit 2025 läuft im Land und in der Republik das Programm „Kampf gegen Diabetes“, das Diagnose, Behandlung und die Vorbeugung von Komplikationen verbessern soll. In der Region gibt es das Regionale und das Interbezirkliche Endokrinologische Zentrum sowie 10 Schulen für Patientinnen und Patienten, in denen die Schulung alle drei Jahre wiederholt werden sollte.\n\nDie größte Gefahr der Krankheit besteht laut dem Artikel darin, dass Komplikationen erst 10 bis 15 Jahre nach Beginn auftreten können. Sie entwickeln sich schleichend, beeinträchtigen das Wohlbefinden anfangs kaum und sind, once sie bestehen, nur schwer zu behandeln. Die Fachfrau erklärt, dass ein lange erhöhter Blutzuckerspiegel zu diesen Komplikationen führt. Der bei der Erstellung dieser Zusammenfassung verfügbare Text bricht an dieser Stelle ab, weshalb konkrete Empfehlungen aus dem Beitrag hier nicht enthalten sind.",
+    "es": "El 9 de noviembre de 2026, el periódico marií «Marijskaya Pravda» informó de que Liudmila Egoshina, endocrinóloga externa jefa del Ministerio de Salud de la república de Mari El, recordó a los habitantes cómo reducir el riesgo de complicaciones de la diabetes. La semana de lucha contra la diabetes se desarrolla del 9 al 15 de noviembre y está vinculada al Día Mundial de la Diabetes, que se celebra el 14 de noviembre.\n\nLa jornada fue creada en 1991 por la Federación Internacional de Diabetes y la OMS como respuesta al rápido aumento de la enfermedad en el mundo. La fecha coincide con el cumpleaños de Frederick Banting, quien, junto con Charles Best y John Macleod, descubrió la insulina en 1921 y 1922.\n\nSegún las cifras del artículo, en Mari El hay 31528 personas con diabetes que están registradas y reciben tratamiento en centros médicos, y este año se han detectado 2411 casos nuevos. Según estimaciones del Ministerio de Salud de Rusia y del registro federal de diabetes, en el país hay entre 5,8 y 6,1 millones de personas con la enfermedad. Desde 2025 funciona en el país y en la república el programa «Lucha contra la diabetes», cuyo objetivo es mejorar el diagnóstico, el tratamiento y la prevención de complicaciones. En la región existen los centros endocrinológicos regional e interdistrital, además de 10 escuelas para pacientes, a las que el paciente debe volver a asistir una vez cada tres años.\n\nSegún el artículo, el principal peligro de la enfermedad es que las complicaciones pueden aparecer entre 10 y 15 años después del inicio. Se desarrollan de forma gradual, al principio apenas afectan al bienestar general y, una vez instaladas, son muy difíciles de tratar. La especialista explica que el nivel alto de azúcar en la sangre durante mucho tiempo provoca estas complicaciones. El texto disponible al preparar este resumen se interrumpe en este punto, por lo que no se incluyen aquí las recomendaciones concretas del material."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Людей с сахарным диабетом под наблюдением в Марий Эл",
+      "en": "People with diabetes under observation in Mari El",
+      "kk": "Марий Элде бақыланатын диабетпен ауыратындар",
+      "de": "Menschen mit Diabetes in Mari El in Betreuung",
+      "es": "Personas con diabetes bajo seguimiento en Mari El"
+     },
+     "v": {
+      "ru": "31528",
+      "en": "31528",
+      "kk": "31528",
+      "de": "31528",
+      "es": "31528"
+     }
+    },
+    {
+     "k": {
+      "ru": "Новых случаев диабета выявлено в Марий Эл с начала года",
+      "en": "New diabetes cases detected in Mari El so far this year",
+      "kk": "Биыл Марий Элде анықталған жаңа диабет жағдайлары",
+      "de": "In Mari El in diesem Jahr neu festgestellte Diabetesfälle",
+      "es": "Casos nuevos de diabetes detectados en Mari El este año"
+     },
+     "v": {
+      "ru": "2411",
+      "en": "2411",
+      "kk": "2411",
+      "de": "2411",
+      "es": "2411"
+     }
+    },
+    {
+     "k": {
+      "ru": "Срок между началом диабета и возможными осложнениями",
+      "en": "Time from diabetes onset to possible complications",
+      "kk": "Диабет басталғаннан асқынулар пайда болуына дейінгі мерзім",
+      "de": "Zeitraum von Krankheitsbeginn bis zu möglichen Komplikationen",
+      "es": "Plazo entre el inicio de la diabetes y las posibles complicaciones"
+     },
+     "v": {
+      "ru": "10–15 лет",
+      "en": "10–15 years",
+      "kk": "10–15 жыл",
+      "de": "10–15 Jahre",
+      "es": "10–15 años"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nRZZz9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T08:39:20.364Z",
+   "title": {
+    "ru": "В Башкортостане стартовала Неделя борьбы с диабетом",
+    "en": "Diabetes awareness week begins in Bashkortostan",
+    "kk": "Башқұртстанда қант диабетіне қарсы күрес аптасы басталды",
+    "de": "Woche gegen Diabetes in Baschkortostan gestartet",
+    "es": "Comienza la Semana contra la Diabetes en Baskortostán"
+   },
+   "text": {
+    "ru": "В республике стартовала неделя, посвящённая профилактике и контролю диабета.",
+    "en": "A week focused on diabetes prevention and control has started in the republic.",
+    "kk": "Республикада қант диабетінің алдын алу мен бақылауға арналған апта басталды.",
+    "de": "In der Republik hat eine Woche zur Vorbeugung und Kontrolle von Diabetes begonnen.",
+    "es": "En la república ha comenzado una semana dedicada a la prevención y el control de la diabetes."
+   },
+   "url": "https://iuruzan.ru/articles/natsionalnye-proekty/2026-11-09/v-bashkortostane-startovala-nedelya-borby-s-diabetom-4869645",
+   "src": "Юрюзань",
+   "photoQuery": "blood sugar test kit",
+   "local": true,
+   "photo": {
+    "id": "u_5nGCyV51P60",
+    "url": "https://images.unsplash.com/photo-1763706320063-b210731b37a1?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjEzNTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Hayk Badalyan",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/rows-of-empty-blue-theater-seats-in-dim-lighting-5nGCyV51P60?utm_source=dia_news&utm_medium=referral",
+    "alt": "Rows of empty blue theater seats in dim lighting"
+   }
+  },
   {
    "id": "nTXc_b2M9NQ",
    "cat": "community",
@@ -33,7 +300,15 @@ const DIA_NEWS={
    "src": "Администрация Иркутска",
    "photoQuery": "medical clinic waiting room",
    "local": true,
-   "bodyTried": true
+   "bodyTried": true,
+   "photo": {
+    "id": "u__UJDZiZt5XY",
+    "url": "https://images.unsplash.com/photo-1784434675513-9bbbae1b5d0d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMGNsaW5pYyUyMHdhaXRpbmclMjByb29tfGVufDF8MHx8fDE3OTQyMTM1NjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "C. Stone",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/dimly-lit-room-with-a-table-lamp-chairs-and-magazines-_UJDZiZt5XY?utm_source=dia_news&utm_medium=referral",
+    "alt": "Dimly lit room with a table lamp, chairs, and magazines"
+   }
   },
   {
    "id": "nRXYz9vYz01",
@@ -149,7 +424,15 @@ const DIA_NEWS={
    "src": "Восход",
    "photoQuery": "blood glucose meter",
    "local": true,
-   "bodyTried": true
+   "bodyTried": true,
+   "photo": {
+    "id": "u_NwWVvPDlC2I",
+    "url": "https://images.unsplash.com/photo-1771911644758-cd625f3bc7da?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjEzNTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "ARTO SURAJ",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/empty-theater-seats-with-a-central-aisle-and-stage-NwWVvPDlC2I?utm_source=dia_news&utm_medium=referral",
+    "alt": "Empty theater seats with a central aisle and stage"
+   }
   },
   {
    "id": "nGxSP29jPTU",
@@ -287,7 +570,15 @@ const DIA_NEWS={
       "es": "9–15 de noviembre de 2026"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_fsOxD-2gJgc",
+    "url": "https://images.unsplash.com/photo-1786617829376-c992ae0adcd2?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjEzNTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Shawn Rain",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/red-stadium-seats-in-indoor-arena-fsOxD-2gJgc?utm_source=dia_news&utm_medium=referral",
+    "alt": "Rows of red plastic stadium seats in an indoor arena with yellow foreground seats"
+   }
   },
   {
    "id": "npEQT9vYz01",
@@ -345,7 +636,15 @@ const DIA_NEWS={
    "url": "https://tgl.ru/news/item/26080-profilakticheskaya-akciya-saharnyy-diabet-ne-prigovor-kontroliruy-i-zhivi-polnocenno/",
    "src": "Администрация городского округа Тольятти",
    "photoQuery": "glucose meter finger prick",
-   "bodyTried": true
+   "bodyTried": true,
+   "photo": {
+    "id": "u_nTZOILVZuOg",
+    "url": "https://images.unsplash.com/photo-1494390248081-4e521a5940db?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIxMzU2MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Brooke Lark",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/breakfast-bowl-with-fruit-and-coffee-nTZOILVZuOg?utm_source=dia_news&utm_medium=referral",
+    "alt": "A bowl of yogurt with fruit and a cup of coffee for breakfast"
+   }
   },
   {
    "id": "nWHc_b2M9NQ",
@@ -376,6 +675,14 @@ const DIA_NEWS={
     "kk": "Қазинформ диабеті бар адамдардың аяқ денсаулығын сақтау туралы Алматы қаласы қалалық клиникалық аурухана № 7-нің инфекциялық хирургия бөлімін меңгерушісі, дәрігер-хирург Толейгуль Искақованың сұхбатын жариялады. Оның айтуынша, аяқты күнде күту және дәрігерге уақытылы жүгіну диабеттің ауыр асқынуларының алдын алуға көмектеседі.\n\nМаманның айтуынша, ауырсынудың болмауы аяқ жақсы екенін білдірмейді. Ол әр күні аяқты, соның ішінде табанды және саусақ аралықтарын тексеруге кеңес береді, сонда мәселе ерте байқалады. Сезімталдық төмендегендіктен адам күйікті де байқамауы мүмкін, сондықтан аяқты буландырмау, ыстық суды қолданбау және сүйелдерді өз бетімен кеспеу керек.\n\nХирургтың айтуынша, жарада оның жағдайын, аяқтың қан айналымын және инфекцияның бар-жоғын уақытылы бағалау маңызды. Кейде бір таңу жеткіліксіз: емдеу кешенді болуы және зақымданған табанға жүктемені азайту қажет болуы мүмкін. Жара жазылғаннан кейін де қайта зақымдану қаупі сақталады.\n\nМақалада дәрігерлердің тізе буынын және аяқ-қолдың тірек қызметін сақтап, жараларды жазуға қол жеткізгені де айтылған. Искақова әр күнгі аяқ тексеру, дұрыс аяқ киім және маманға тұрақты бару әр диабет пациентінің әдетіне айналуы керек дейді. Кез келген жараны, жаралы немесе ашылған көпіршікті сол күні маманға көрсету керек; уақытылы көмек аяқты және еркін қозғалу мүмкіндігін сақтауға көмектесуі мүмкін.",
     "de": "Kazinform hat ein Interview mit Toleigul Iskakova veröffentlicht, einer Chirurgin, die die Abteilung für Infektionschirurgie am Städtischen Klinikum Nr. 7 in Almaty leitet. Thema sind Maßnahmen zum Erhalt der Gesundheit der Füße bei Diabetes. Ihre Kernbotschaft: Tägliche Fußpflege und ein rechtzeitiger Arztbesuch helfen, schwere Komplikationen der Krankheit zu verhindern.\n\nFehlende Schmerzen bedeuten nicht, dass alles in Ordnung ist, betont die Ärztin. Sie empfiehlt, die Füße täglich zu untersuchen, einschließlich der Sohlen und der Zwischenräume zwischen den Zehen, damit Probleme früh auffallen. Weil das Empfinden vermindert sein kann, fällt selbst eine Verbrennung unter Umständen nicht auf; deshalb rät sie davon ab, die Füße einzuweichen, heißes Wasser zu verwenden oder Hornhaut selbst abzuschneiden.\n\nBei einer Wunde sei es wichtig, deren Zustand, die Durchblutung des Beins und mögliche Infektionen rechtzeitig zu beurteilen. Manchmal reicht ein einzelner Verband nicht aus; die Heilung kann eine komplexe Behandlung und eine Entlastung des betroffenen Fußes erfordern. Auch nach dem Abheilen eines Geschwürs bleibt das Risiko einer erneuten Verletzung bestehen.\n\nDer Artikel erwähnt außerdem, dass Ärzte ein Kniegelenk sowie die Belastbarkeit einer Gliedmaße erhalten und Geschwüre zur Heilung bringen konnten. Tägliche Fußkontrollen, passendes Schuhwerk und regelmäßige Betreuung durch Fachleute sollten nach Iskakovas Worten zur Gewohnheit jedes Patienten mit Diabetes werden. Jede kleine Wunde, jedes Geschwür oder eine geöffnete Blase sollte am selben Tag einem Facharzt gezeigt werden, denn rechtzeitige Hilfe kann helfen, das Bein und die Beweglichkeit zu erhalten.",
     "es": "Kazinform publicó una entrevista con Toleigul Iskakova, cirujana que dirige el departamento de cirugía infecciosa del Hospital Clínico Municipal n.º 7 de Almaty, sobre cómo conservar la salud de los pies en personas con diabetes. Su mensaje central es que el cuidado diario de los pies y acudir al médico a tiempo ayudan a prevenir complicaciones graves de la enfermedad.\n\nSegún la especialista, la ausencia de dolor no significa que todo esté bien. Recomienda revisar los pies a diario, incluidas las plantas y los espacios entre los dedos, para detectar los problemas en una etapa temprana. Como la sensibilidad puede estar disminuida, una persona podría no notar ni siquiera una quemadura; por eso aconseja no remojar los pies, no usar agua caliente y no cortarse los callos por cuenta propia.\n\nCuando hay una herida, dice, es clave evaluar a tiempo su estado, el riego sanguíneo de la pierna y la presencia de infección. A veces un solo vendaje no basta: la curación puede requerir un tratamiento complejo y reducir la carga sobre el pie afectado. Incluso después de que una úlcera cicatriza, persiste el riesgo de una nueva lesión.\n\nEl artículo también menciona que los médicos lograron conservar una articulación de la rodilla y la función de apoyo de una extremidad, además de curar úlceras. Iskakova afirma que revisar los pies cada día, usar calzado adecuado y acudir con regularidad al especialista deben convertirse en un hábito para cada paciente con diabetes. Cualquier herida, úlcera o ampolla abierta debe mostrarse al especialista el mismo día, porque la atención oportuna puede ayudar a conservar la extremidad y la capacidad de moverse libremente."
+   },
+   "photo": {
+    "id": "u_OF3cA4s60ME",
+    "url": "https://images.unsplash.com/photo-1747397754643-eb7d6b60bd2e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTl8fGRpYWJldGljJTIwZm9vdCUyMGNhcmUlMjBleGFtaW5hdGlvbnxlbnwxfDB8fHwxNzk0MjEzNTY2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Mariia Horobets",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-bare-foot-is-posing-on-black-OF3cA4s60ME?utm_source=dia_news&utm_medium=referral",
+    "alt": "A bare foot is posing on black"
    }
   },
   {
@@ -401,7 +708,15 @@ const DIA_NEWS={
    "url": "https://zur-kazan.ru/news/article/nedelya-borby-s-diabetom-startovala-v-tatarstane-s-9-noyabrya-199916/",
    "src": "zur-kazan.ru",
    "photoQuery": "medical clinic waiting room",
-   "bodyTried": true
+   "bodyTried": true,
+   "photo": {
+    "id": "u_Pk-KuizxQv8",
+    "url": "https://images.unsplash.com/photo-1777269749032-d8d458ae594d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGNsaW5pYyUyMHdhaXRpbmclMjByb29tfGVufDF8MHx8fDE3OTQyMTM1NjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Tasha Kostyuk",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/empty-hospital-corridor-with-benches-and-doors-Pk-KuizxQv8?utm_source=dia_news&utm_medium=referral",
+    "alt": "Empty hospital corridor with benches and doors"
+   }
   },
   {
    "id": "nkpSP29jPTU",
@@ -466,7 +781,15 @@ const DIA_NEWS={
       "es": "13 de noviembre, 11:00–14:00"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_BfqRSrbFHDY",
+    "url": "https://images.unsplash.com/photo-1759477274012-263d469f0e16?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjEzNTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "SR Engineers and Consultants",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/empty-auditorium-with-rows-of-red-seats-and-stage-BfqRSrbFHDY?utm_source=dia_news&utm_medium=referral",
+    "alt": "Empty auditorium with rows of red seats and stage"
+   }
   },
   {
    "id": "cure-katie-beth-hand",
@@ -598,7 +921,15 @@ const DIA_NEWS={
       "es": "La semaglutida modificó biomarcadores, pero no frenó la enfermedad de Alzheimer temprana"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_ii6BOPjAtVY",
+    "url": "https://images.unsplash.com/photo-1711409645921-ef3db0501f96?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8YnJhaW4lMjBzY2FuJTIwbW9uaXRvcnxlbnwxfDB8fHwxNzk0MjEzNTY3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Shawn Day",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-close-up-of-a-human-brain-on-a-black-background-ii6BOPjAtVY?utm_source=dia_news&utm_medium=referral",
+    "alt": "a close up of a human brain on a black background"
+   }
   },
   {
    "id": "nRRUT9vYz01",
@@ -662,7 +993,15 @@ const DIA_NEWS={
       "es": "79 paquetes"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_TzKc7FGaL7Y",
+    "url": "https://images.unsplash.com/photo-1745939921744-ba8ef27940bf?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQyMTM1NjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=dia_news&utm_medium=referral",
+    "alt": "A semaglutide injection pen is shown"
+   }
   },
   {
    "id": "nVlE_b2M9NQ",
@@ -1069,7 +1408,15 @@ const DIA_NEWS={
       "es": "Sobre todo menores de 30 años"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_bdeLBIPYUrE",
+    "url": "https://images.unsplash.com/photo-1778151270886-f227700b0eba?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGNsaW5pYyUyMGNvbnN1bHRhdGlvbiUyMGRlc2t8ZW58MXwwfHx8MTc5NDIxMzU2NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Irshad Pathan",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/modern-office-with-desk-chairs-and-computer-bdeLBIPYUrE?utm_source=dia_news&utm_medium=referral",
+    "alt": "Modern office with desk, chairs, and computer"
+   }
   },
   {
    "id": "nEJvP29jPTU",
@@ -1223,7 +1570,15 @@ const DIA_NEWS={
       "es": "hasta los 35–40 años"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_TXVntZ190Ao",
+    "url": "https://images.unsplash.com/photo-1709651808265-977ed7ef78c6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNwaWxsZWR8ZW58MXwwfHx8MTc5NDIxMzU2Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Daniel Kraus",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-pile-of-sugar-cubes-sitting-on-top-of-each-other-TXVntZ190Ao?utm_source=dia_news&utm_medium=referral",
+    "alt": "a pile of sugar cubes sitting on top of each other"
+   }
   },
   {
    "id": "nW5NP29jPTU",
@@ -1695,408 +2050,37 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nBsbj9vYz01",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-07",
-   "added": "2026-11-09T07:03:34.379Z",
-   "title": {
-    "ru": "Российские вузы создают новые подходы к терапии сахарного диабета",
-    "en": "Russian Universities Develop New Approaches to Diabetes Therapy",
-    "kk": "Ресей жоғары оқу орындары қант диабетін емдеудің жаңа тәсілдерін әзірлеуде",
-    "de": "Russische Universitäten entwickeln neue Ansätze zur Diabetestherapie",
-    "es": "Universidades rusas desarrollan nuevos enfoques para la terapia de la diabetes"
-   },
-   "text": {
-    "ru": "Обзор о работах российских вузов над новыми подходами к терапии сахарного диабета.",
-    "en": "An overview of work by Russian universities on new approaches to diabetes treatment.",
-    "kk": "Ресейлік жоғары оқу орындарының қант диабетін емдеудің жаңа тәсілдеріне қатысты жұмыстарына шолу.",
-    "de": "Ein Überblick über Arbeiten russischer Universitäten zu neuen Ansätzen der Diabetesbehandlung.",
-    "es": "Un resumen del trabajo de universidades rusas sobre nuevos enfoques para el tratamiento de la diabetes."
-   },
-   "url": "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
-   "src": "Vademec.ru",
-   "photoQuery": "university laboratory researchers",
-   "bodyTried": true
-  },
-  {
-   "id": "ntodz9vYz01",
-   "cat": "community",
-   "date": "2026-11-07",
-   "added": "2026-11-09T03:02:09.070Z",
-   "title": {
-    "ru": "Врач-гинеколог объяснила, легко ли женщине с сахарным диабетом забеременеть",
-    "en": "Gynecologist explains whether it is easy for women with diabetes to get pregnant",
-    "kk": "Гинеколог қант диабеті бар әйелдің жүкті болуы оңай ма, соны түсіндірді",
-    "de": "Gynäkologin erklärt, ob es für Frauen mit Diabetes leicht ist, schwanger zu werden",
-    "es": "Una ginecóloga explica si es fácil para una mujer con diabetes quedarse embarazada"
-   },
-   "text": {
-    "ru": "Врач-гинеколог рассказала о том, как сахарный диабет может влиять на возможность беременности у женщин.",
-    "en": "A gynecologist explained how diabetes may affect the possibility of pregnancy in women.",
-    "kk": "Гинеколог қант диабетінің әйелдердің жүкті болу мүмкіндігіне қалай әсер етуі мүмкін екенін түсіндірді.",
-    "de": "Eine Gynäkologin erläuterte, wie Diabetes die Möglichkeit einer Schwangerschaft bei Frauen beeinflussen kann.",
-    "es": "Una ginecóloga explicó cómo la diabetes puede afectar la posibilidad de embarazo en las mujeres."
-   },
-   "url": "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
-   "src": "СБ. Беларусь сегодня",
-   "photoQuery": "pregnancy test kit",
-   "body": {
-    "ru": "7 ноября 2026 года СБ. Беларусь сегодня опубликовал материал с участием Юлии Кисель, врача-гинеколога 19-й центральной районной поликлиники Минска. Она выступила в рамках проекта «Школа диабета» на YouTube-канале «Смотри и живи» и ответила на вопрос, насколько просто женщине с диабетом стать матерью.\n\nПо словам врача, повышенный уровень глюкозы может мешать зачатию, оплодотворению, а затем нормальному прикреплению и развитию эмбриона. Поэтому женщине с диабетом нужно обратиться к эндокринологу, чтобы привести показатели глюкозы в норму, оценить уровень гликированного гемоглобина и скорректировать принимаемую терапию. Киселъ отметила, что при диабете I и II типа у женщин нередко встречаются позднее менархе, нерегулярный цикл, бесплодие и ранняя менопауза. Высокая глюкоза вызывает окислительный стресс, который может нарушать работу яичников и развитие эмбриона.\n\nВрач подчеркнула, что о планируемой беременности нужно сообщить акушеру-гинекологу, чтобы подобрать надежную контрацепцию на время обследования и стабилизации показателей. Если лечение идет и глюкоза находится под контролем, успешно зачать и выносить беременность при диабете вполне возможно. По ее словам, доказано: оптимизация контроля гликемии и стабилизация поздних осложнений до зачатия заметно снижают частоту патологий беременности и замедляют прогрессирование сосудистых осложнений.\n\nПодход к беременности при диабете, по словам специалиста, сильно изменился. Школы для пациентов, современные высокоочищенные генно-инженерные инсулины и качественные средства самоконтроля помогают женщинам самостоятельно управлять болезнью, гибко корректировать инсулинотерапию и добиваться стабильной компенсации.\n\nМатериал основан на видеоинтервью и не содержит конкретных целевых значений глюкозы или статистических данных. В публикации не говорится о дальнейших шагах или продолжении темы.",
-    "en": "On 7 November 2026, the Belarusian outlet SB. Belarus Segodnya published a report featuring Yulia Kisel, a gynecologist at the 19th Central District Polyclinic in Minsk. Speaking in the \"Diabetes School\" project on the \"Smotri i zhivi\" YouTube channel, she addressed whether it is easy for a woman with diabetes to become pregnant.\n\nAccording to the doctor, high blood glucose can interfere with conception and fertilization, and later with the embryo's proper attachment and development. For that reason, a woman with diabetes should see an endocrinologist to bring her glucose readings back to normal, assess her glycated hemoglobin and adjust her current treatment. Kisel noted that women with type I or type II diabetes often experience late menarche, irregular cycles, infertility and early menopause. Elevated glucose causes oxidative stress, which can disrupt ovarian function and embryo development.\n\nShe stressed that a planned pregnancy should be reported to an obstetrician-gynecologist, who can choose reliable contraception while tests are underway and levels are stabilized. If treatment continues and glucose stays under control, she said, conceiving and carrying a pregnancy to term with diabetes is quite possible. Studies, she added, show that tightening glycemic control and stabilizing late complications before conception significantly lowers the frequency of pregnancy pathologies and slows the progression of vascular complications.\n\nThe approach to pregnancy with diabetes has changed substantially, according to the specialist. Patient schools, modern highly purified genetically engineered insulins and quality self-monitoring tools now help women manage their condition independently, adjust insulin therapy flexibly and reach stable control.\n\nThe piece is based on a video interview and gives no specific glucose targets or statistics. The article does not describe any next steps or follow-up coverage.",
-    "kk": "2026 жылдың 7 қарашасында SB. Беларусь бүгін басылымы Минскідегі 19-шы орталық аудандық емхананың гинеколог-дәрігері Юлия Кисельмен сұхбат жариялады. Ол «Диабет мектебі» жобасы аясында, YouTube-тағы «Смотри и живи» арнасында, диабеті бар әйелге жүкті болу оңай ма деген сұраққа жауап берді.\n\nДәрігердің айтуынша, қандағы глюкозаның жоғары деңгейі ұрықтануға, döллену... нақтырақ айтқанда ұрықтану мен ұрықтың кейін дұрыс бекуіне және дамуына кедергі келтіруі мүмкін. Сондықтан диабеті бар әйел эндокринологқа қаралып, глюкоза көрсеткіштерін қалыпқа келтіруі, гликирленген гемоглобинді бағалап, қазіргі емін түзетуі тиіс. Кисельдің атап өтуінше, 1-ші және 2-ші типтегі диабеті бар әйелдерде кеш менархе, бұзылған цикл, бедеулік және ерте менопауза жиі кездеседі. Жоғары глюкоза тотығу стрессін туындатып, аналық без қызметін және ұрық дамуын бұзуы мүмкін.\n\nОл жоспарланған жүктілік туралы акушер-гинекологқа хабарлау керektігін атап өтті, себебі тексеру жүріп, көрсеткіштер тұрақтанып жатқан кезеңде сенімді контрацепцияны таңдауға болады. Ем жалғасып, глюкоза бақылауда болса, диабет кезінде табысты ұрықтану мен жүктілікті аяқтау мүмкін екенін айтты. Зерттеулерге сүйенсек, ұрықтанғанға дейін гликемия бақылауын оңтайландыру және кеш асқынуларды тұрақтандыру жүктілік патологияларының жиілігін едәуір азайтып, қантамыр асқынуларының дамуын баяулатады.\n\nМаманның айтуынша, диабетпен жүктілікке көзқарас едәуір өзгерді. Пациенттер мектептері, генетикалық инженерия арқылы алынған жоғары тазартылған инсулиндер және сапалы өзін-өзі бақылау құралдары әйелдерге ауруды дербес басқаруға, инсулин емін икемді түзетуге және тұрақты компенсацияға жетуге көмектеседі.\n\nМатериал бейне-сұхбатқа негізделген және глюкозаның нақты мақсатты мәндерін немесе статистиканы бермейді. Мақалада келесі қадамдар немесе жалғасы туралы айтылмаған.",
-    "de": "Am 7. November 2026 veröffentlichte das belarussische Portal SB. Belarus Segodnja einen Beitrag mit Julia Kisel, Gynäkologin an der 19. Zentralen Bezirkspoliklinik in Minsk. Im Rahmen des Projekts „Diabetesschule“ auf dem YouTube-Kanal „Smotri i zhivi“ ging sie der Frage nach, wie leicht eine Frau mit Diabetes schwanger werden kann.\n\nLaut der Ärztin kann ein erhöhter Blutzucker die Empfängnis und die Befruchtung erschweren, später auch die korrekte Einnistung und Entwicklung des Embryos. Frauen mit Diabetes sollten deshalb eine Endokrinologin oder einen Endokrinologen aufsuchen, um ihre Glukosewerte zu normalisieren, das glykierte Hämoglobin zu bewerten und die laufende Therapie anzupassen. Kisel wies darauf hin, dass bei Diabetes Typ I und II späte erste Menstruation, unregelmäßige Zyklen, Unfruchtbarkeit und frühe Wechseljahre häufig vorkommen. Hoher Blutzucker verursache oxidativen Stress, der die Eierstockfunktion und die Embryonalentwicklung stören kann.\n\nEine geplante Schwangerschaft müsse der Frauenärztin oder dem Frauenarzt mitgeteilt werden, damit während der Untersuchungen und der Stabilisierung der Werte eine zuverlässige Verhütung gewählt werden könne. Bei laufender Behandlung und kontrolliertem Blutzucker sei es, so Kisel, durchaus möglich, bei Diabetes erfolgreich zu empfangen und die Schwangerschaft auszutragen. Studien zeigten, dass eine Optimierung der Blutzuckerkontrolle und die Stabilisierung später Komplikationen vor der Empfängnis das Auftreten von Schwangerschaftskomplikationen deutlich verringern und das Fortschreiten von Gefäßschäden verlangsamen.\n\nDer Umgang mit Schwangerschaft bei Diabetes habe sich laut der Fachärztin stark verändert. Schulungen für Betroffene, moderne hochgereinigte gentechnisch hergestellte Insuline und gute Selbstkontrollgeräte helfen Frauen heute, ihre Erkrankung selbstständig zu managen, die Insulintherapie flexibel anzupassen und eine stabile Einstellung zu erreichen.\n\nDer Beitrag beruht auf einem Videointerview und nennt weder konkrete Glukosezielwerte noch Statistiken. Der Artikel beschreibt keine weiteren Schritte oder Folgeberichte.",
-    "es": "El 7 de noviembre de 2026, el medio bielorruso SB. Belarus Segodnia publicó un artículo con Yulia Kisel, ginecóloga del Policlínico Central de Distrito n.º 19 de Minsk. Durante el proyecto «Escuela de la diabetes», emitido en el canal de YouTube «Smotri i zhivi», abordó si es fácil que una mujer con diabetes quede embarazada.\n\nSegún la médica, la glucosa alta en sangre puede dificultar la concepción y la fecundación y, más tarde, la implantación adecuada y el desarrollo del embrión. Por eso, una mujer con diabetes debería acudir a un endocrinólogo para normalizar sus valores de glucosa, evaluar la hemoglobina glicosilada y ajustar el tratamiento que sigue. Kisel señaló que en la diabetes tipo I y II son frecuentes la menarquia tardía, los ciclos irregulares, la infertilidad y la menopausia precoz. La glucosa elevada provoca estrés oxidativo, que puede alterar la función de los ovarios y el desarrollo del embrión.\n\nLa especialista subrayó que el embarazo planificado debe comunicarse al obstetra-ginecólogo, para elegir un anticonceptivo fiable mientras se realizan los estudios y se estabilizan los indicadores. Si el tratamiento continúa y la glucosa está controlada, afirmó, es perfectamente posible concebir y llevar el embarazo a término con diabetes. Añadió que, según estudios, optimizar el control glucémico y estabilizar las complicaciones tardías antes de la concepción reduce de forma notable la frecuencia de patologías del embarazo y frena la progresión de las complicaciones vasculares.\n\nEl enfoque de la gestación con diabetes ha cambiado mucho, según la especialista. Las escuelas para pacientes, las insulinas humanas de alta pureza obtenidas por ingeniería genética y los buenos dispositivos de autocontrol ayudan hoy a las mujeres a manejar su enfermedad por sí mismas, a ajustar la insulinoterapia con flexibilidad y a lograr un control estable.\n\nEl texto se basa en una entrevista en vídeo y no ofrece valores concretos de glucosa ni estadísticas. El artículo no describe próximos pasos ni seguimiento."
-   }
-  },
-  {
-   "id": "nZNUT9vYz01",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-07",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Минздрав предложил ввести дистанционное наблюдение за диабетом и гипертонией",
-    "en": "Health ministry proposes remote monitoring for diabetes and hypertension",
-    "kk": "Денсаулық сақтау министрлігі диабет пен гипертенziyaны қашықтан бақылауды енгізуді ұсынды",
-    "de": "Gesundheitsministerium schlägt Fernüberwachung bei Diabetes und Bluthochdruck vor",
-    "es": "El Ministerio de Salud propone la monitorización a distancia de la diabetes y la hipertensión"
-   },
-   "text": {
-    "ru": "Министерство здравоохранения предложило ввести дистанционное наблюдение за пациентами с диабетом и гипертонией.",
-    "en": "The health ministry has proposed introducing remote monitoring for patients with diabetes and hypertension.",
-    "kk": "Денсаулық сақтау министрлігі диабеті мен гипертониясы бар науқастарды қашықтан бақылауды енгізуді ұсынды.",
-    "de": "Das Gesundheitsministerium hat vorgeschlagen, Patienten mit Diabetes und Bluthochdruck aus der Ferne zu betreuen.",
-    "es": "El Ministerio de Salud ha propuesto introducir la supervisión a distancia de pacientes con diabetes e hipertensión."
-   },
-   "url": "https://prospect.com.ru/news/7153433/minzdrav-predlogil-vvesti-distantsionnoe-nablyudenie-za-diabetom-i-gipertoniej.html",
-   "src": "prospect.com.ru",
-   "photoQuery": "blood pressure monitor",
-   "body": {
-    "ru": "Минздрав России подготовил проект изменений, который предусматривает дистанционное наблюдение за пациентами с артериальной гипертензией и сахарным диабетом. Об этом 7 ноября 2026 года сообщил портал Prospect со ссылкой на РИА Новости; речь идет о предложении, которое пока находится на рассмотрении.\n\nПоликлиники смогут применять медицинские приборы с функцией удаленной передачи данных. Количество таких устройств будет зависеть от числа людей, которым нужен подобный контроль, то есть заранее не задано. В тексте не уточняется, о каких именно устройствах идет речь.\n\nСхема описана поэтапно. Терапевт сможет направить пациента к профильному специалисту, а затем продолжить лечение и наблюдение, в том числе дистанционно, с учетом рекомендаций этого врача.\n\nПоскольку речь идет о проекте, правила пока не действуют. Текст статьи обрывается до заключительной части, поэтому сроки, критерии отбора и порядок работы на практике в нем не раскрыты. Полную информацию можно найти в оригинальном материале.",
-    "en": "The Russian Ministry of Health has prepared a draft of amendments that would bring in remote monitoring for patients with arterial hypertension and diabetes. The report, published on 7 November 2026 by the Prospect news site and citing RIA Novosti, presents this as a proposal still under consideration.\n\nUnder the plan, polyclinics would be able to use medical devices with a function for transmitting data remotely. The number of these devices would therefore depend on the expected caseload, not on a fixed figure. The article does not specify which devices are meant.\n\nThe described procedure works in stages. A therapist could refer a patient to a specialist in the relevant field and then carry on treatment and observation, including remotely, in line with that specialist's recommendations.\n\nBecause this is a draft, the rules are not yet in force. The text of the article is cut off before its final part, so it offers no further details on timing, eligibility or how the arrangement would operate in day-to-day practice. For the complete picture, readers can consult the original report.",
-    "kk": "Ресей Денсаулық сақтау министрлігі артериялық гипертензиясы және қант диабеті бар пациенттерді қашықтан бақылауды көздейтін түзетулер жобасын дайындады. Бұл туралы 2026 жылғы 7 қарашада Prospect порталы РИА Новостиге сілтеме жасап хабарлады; бұл әлі қаралып жатқан ұсыныс.\n\nЕмханалар деректерді қашықтан беру функциясы бар медициналық құрылғыларды пайдалана алады. Мұндай құрылғылар саны осындай бақылау қажет адамдар санына байланысты болады, яғни алдын ала бекітілмеген. Мәтінде қандай құрылғылар меңзелгені нақтыланбаған.\n\nСхема кезең-кезеңімен сипатталған. Терапевт пациентті тиісті маманға жібере алады, содан кейін емдеу мен бақылауды, соның ішінде қашықтан, сол дәрігердің ұсынымдарын ескере отырып жалғастыра алады.\n\nБұл жоба болғандықтан, ережелер әлі күшіне енбеген. Мақаланың мәтіні соңғы бөлігіне дейін үзілген, сондықтан мерзімдер, таңдау шарттары және тәжірибеде жұмыс істеу тәртібі ашылмаған. Толық ақпарат үшін түпнұсқа материалды қараңыз.",
-    "de": "Das russische Gesundheitsministerium hat einen Entwurf für Änderungen vorbereitet, der eine Fernüberwachung von Patienten mit arterieller Hypertonie und Diabetes vorsieht. Darüber berichtete das Nachrichtenportal Prospect am 7. November 2026 unter Berufung auf RIA Novosti; es handelt sich um einen Vorschlag, der noch geprüft wird.\n\nPolikliniken könnten medizinische Geräte mit Funktion zur Datenübertragung aus der Ferne einsetzen. Wie viele dieser Geräte es gibt, würde sich nach der Zahl der Patienten richten, die diese Kontrolle benötigen, und ist also nicht von vornherein festgelegt. Der Text nennt nicht, um welche Geräte es genau geht.\n\nDer beschriebene Ablauf verläuft in Stufen. Ein Therapeut könnte einen Patienten an einen zuständigen Facharzt überweisen und die Behandlung und Beobachtung danach fortsetzen, auch aus der Ferne, gemäß den Empfehlungen dieses Facharztes.\n\nDa es sich um einen Entwurf handelt, gelten die Regeln noch nicht. Der Artikel bricht vor dem Schlussteil ab, daher enthält er keine weiteren Angaben zu Zeitplan, Voraussetzungen oder praktischer Umsetzung. Für das vollständige Bild lohnt sich der Blick in den Originalbericht.",
-    "es": "El Ministerio de Salud de Rusia ha preparado un proyecto de modificaciones que prevé la monitorización a distancia de pacientes con hipertensión arterial y diabetes. Lo informó el portal Prospect el 7 de noviembre de 2026, citando a RIA Novosti; se trata de una propuesta que todavía está en revisión.\n\nLas policlínicas podrían usar dispositivos médicos con función de transmisión remota de datos. El número de estos equipos dependería de cuántos pacientes necesiten este control, por lo que no está fijado de antemano. El texto no precisa a qué dispositivos se refiere.\n\nEl esquema se describe por etapas. Un terapeuta podría derivar al paciente a un especialista del área y luego continuar el tratamiento y el seguimiento, también a distancia, según las recomendaciones de ese especialista.\n\nComo se trata de un proyecto, las normas aún no están en vigor. El texto del artículo se corta antes de su parte final, así que no aporta más detalles sobre plazos, requisitos o cómo funcionaría en la práctica. Para el panorama completo, conviene consultar el informe original."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Охватываемые состояния",
-      "en": "Conditions covered",
-      "kk": "Қамтылған жағдайлар",
-      "de": "Erfasste Erkrankungen",
-      "es": "Afecciones incluidas"
-     },
-     "v": {
-      "ru": "Артериальная гипертензия и сахарный диабет",
-      "en": "Arterial hypertension and diabetes",
-      "kk": "Артериялық гипертензия және қант диабеті",
-      "de": "Arterielle Hypertonie und Diabetes",
-      "es": "Hipertensión arterial y diabetes"
-     }
-    }
-   ]
-  },
-  {
-   "id": "n1dRP29jPTU",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-07",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Финское исследование: заболеваемость диабетом 1 типа у детей снизилась после локдауна",
-    "en": "Finnish study finds childhood type 1 diabetes fell after lockdown",
-    "kk": "Финляндиялық зерттеу балалардағы 1 типті диабеттің локдаундан кейін азайғанын анықтады",
-    "de": "Finnische Studie: Typ-1-Diabetes bei Kindern nach dem Lockdown seltener",
-    "es": "Estudio finlandés: la diabetes tipo 1 infantil disminuyó después del confinamiento"
-   },
-   "text": {
-    "ru": "Обсервационное финское исследование показало, что заболеваемость диабетом 1 типа у детей снизилась после локдауна.",
-    "en": "An observational Finnish study found that childhood type 1 diabetes incidence fell after the lockdown.",
-    "kk": "Финляндиялық бақылау зерттеуі балалардағы 1 типті диабеттің жиілігі локдаундан кейін төмендегенін көрсетті.",
-    "de": "Eine finnische Beobachtungsstudie ergab, dass Typ-1-Diabetes bei Kindern nach dem Lockdown seltener auftrat.",
-    "es": "Un estudio observacional finlandés halló que la incidencia de diabetes tipo 1 infantil bajó tras el confinamiento."
-   },
-   "url": "https://bioengineer.org/finnish-observational-study-finds-childhood-type-1-diabetes-fell-after-lockdown/",
-   "src": "Bioengineer.org",
-   "photoQuery": "child finger blood test",
-   "photo": {
-    "id": "u_QBgjFNKCLdg",
-    "url": "https://images.unsplash.com/photo-1683726815994-d76cb5ea6b8b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8Y2hpbGQlMjBmaW5nZXIlMjBibG9vZCUyMHRlc3R8ZW58MXwwfHx8MTc5NDE0NjUxOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/finger-prick-test-for-blood-glucose-QBgjFNKCLdg?utm_source=dia_news&utm_medium=referral",
-    "alt": "Finger prick test for blood glucose"
-   },
-   "body": {
-    "ru": "Исследователи, работавшие по поручению Финского реестра детского диабета, установили, что заболеваемость диабетом 1 типа у детей младше 15 лет в Финляндии заметно снизилась после отмены ограничений COVID-19 по сравнению с периодом локдауна. Показатель вернулся к уровню, сопоставимому с показателями до пандемии. Результаты опубликованы в журнале PLOS Medicine в 2026 году.\n\nБолее ранние работы связывали локдауны с ростом заболеваемости диабетом 1 типа у детей, но данных о периоде после снятия ограничений было меньше. Команда сравнила три периода: 2096 случаев за три 18-месячных отрезка в 2014–2019 годах; 785 случаев во время локдауна с марта 2020 по август 2021 года; и 586 случаев с сентября 2021 по декабрь 2022 года. Всего в исследование вошли 3467 случаев.\n\nЗаболеваемость после локдауна была ниже, чем во время него (коэффициент заболеваемости 0,85; 95% ДИ 0,77–0,95; p = 0,004), и не отличалась значимо от уровня до локдауна (коэффициент 1,00; 95% ДИ 0,91–1,09; p = 0,932). Одновременно доля детей с ранее перенесённым контактом с SARS-CoV-2, определённая по анализам крови на антитела и данным о вакцинации, выросла с 0,9% во время локдауна до более чем 40% после его окончания.\n\nАвторы заключили, что период локдауна стал отдельным пиком заболеваемости по сравнению как с докоронавирусным, так и с послелокдаунным временем. Поскольку частота диабета снижалась при росте доли антител, по их мнению, вирус, скорее всего, играл косвенную, а не прямую роль. Ограничения исследования: относительно короткий период наблюдения после локдауна и отсутствие явного моделирования долгосрочного тренда. Возврат к историческим уровням, как отмечают авторы, не доказывает окончательно возврат к ожидаемой траектории и не исключает временной компенсации.\n\nВ статье не описаны планируемые дальнейшие шаги.",
-    "en": "Researchers working on behalf of the Finnish Pediatric Diabetes Register found that the incidence of type 1 diabetes in children under 15 in Finland fell noticeably after COVID-19 restrictions were lifted, compared with the lockdown period. The rate returned to levels similar to those seen before the pandemic. The results were published in PLOS Medicine in 2026.\n\nEarlier studies had linked lockdowns to a higher rate of childhood type 1 diabetes, but there was less data on the period after restrictions ended. The team compared three periods: 2,096 cases across three 18-month spans between 2014 and 2019; 785 cases during the lockdown from March 2020 to August 2021; and 586 cases from September 2021 through December 2022. In total, the study covered 3,467 cases.\n\nIncidence after the lockdown was lower than during it (incidence rate ratio 0.85, 95% CI 0.77–0.95, p = 0.004), and it did not differ significantly from pre-lockdown levels (ratio 1.00, 95% CI 0.91–1.09, p = 0.932). At the same time, the share of children with earlier SARS-CoV-2 exposure, measured through blood antibody tests and vaccination records, rose from 0.9% during lockdown to more than 40% after it ended.\n\nThe authors concluded that the lockdown period was a distinct peak in incidence compared with both the pre-pandemic and post-lockdown periods. Because diabetes rates fell while antibody prevalence rose, they suggest the virus may play an indirect rather than direct role. The study's limitations include a relatively short follow-up after the lockdown and no explicit modelling of the long-term underlying trend. The authors note that a return to historical levels does not definitively show a return to the expected trajectory, nor does it rule out temporary compensation.\n\nThe article does not describe any planned next steps.",
-    "kk": "Фин реестрі балалар диабеті бойынша жұмыс істеген зерттеушілер Финляндияда 15 жасқа дейінгі балаларда 1 типті диабет жаңадан анықталу жиілігі COVID-19 шектеулері алынғаннан кейін, локдаун кезеңімен салыстырғанда, айтарлықтай төмендегенін анықтады. Көрсеткіш пандемияға дейінгі деңгейге жақын мәнге оралды. Нәтижелер 2026 жылы PLOS Medicine журналында жарияланды.\n\nБұрынғы зерттеулер локдаундарды балалардағы 1 типті диабеттің жиілеуімен байланыстырған, бірақ шектеулер аяқталғаннан кейінгі кезең туралы деректер аз болған. Топ үш кезеңді салыстырды: 2014–2019 жылдары үш 18 айлық кезеңде тіркелген 2096 жағдай; 2020 жылғы наурыздан 2021 жылғы тамызға дейінгі локдаун кезіндегі 785 жағдай; және 2021 жылғы қыркүйектен 2022 жылғы желтоқсанға дейінгі 586 жағдай. Барлығы зерттеуге 3467 жағдай енді.\n\nЛокдауннан кейінгі жиілік локдаун кезіндегіден төмен болды (жиілік коэффициенті 0,85; 95% СИ 0,77–0,95; p = 0,004), ал локдаунға дейінгі деңгейден айтарлықтай ерекшеленбеді (коэффициент 1,00; 95% СИ 0,91–1,09; p = 0,932). Сол уақытта қан анализдеріндегі антиденелер мен вакцинация деректері арқылы анықталған, бұрын SARS-CoV-2-мен байланыста болған балалардың үлесі локдаун кезінде 0,9%-дан, шектеулер біткеннен кейін 40%-дан асты.\n\nАвторлар локдаун кезеңі пандемияға дейінгі және локдаундан кейінгі кезеңдермен салыстырғанда жиіліктің айқын шыңы болғанын қорытындылады. Антиденелер үлесі өскен кезде диабет жиілігі төмендегендіктен, вирус жағдайдың өзгеруінде тікелей емес, жанама рөл атқаруы мүмкін деп есептейді. Шектеулер: локдаундан кейінгі бақылау кезеңі салыстырмалы түрде қысқа және ұзақ мерзімді негізгі трендті айқын модельдеу жасалмаған. Авторлардың пайымдауынша, тарихи деңгейге оралу күтілетін траекторияға қайта оралғанын дәл дәлелдемейді және уақытша өтемақы әсерін жоққа шығармайды.\n\nМақалада жоспарланған келесі қадамдар сипатталмаған.",
-    "de": "Forscher im Auftrag des Finnischen Registers für pädiatrischen Diabetes stellten fest, dass die Neuerkrankungsrate für Typ-1-Diabetes bei finnischen Kindern unter 15 Jahren nach der Aufhebung der COVID-19-Beschränkungen im Vergleich zur Lockdown-Phase deutlich zurückging. Sie kehrte auf Werte zurück, die denen vor der Pandemie ähneln. Die Ergebnisse erschienen 2026 in PLOS Medicine.\n\nFrühere Studien hatten Lockdowns mit einer erhöhten Rate an Typ-1-Diabetes bei Kindern in Verbindung gebracht, doch zur Zeit nach dem Ende der Beschränkungen gab es weniger Daten. Das Team verglich drei Zeiträume: 2.096 Fälle in drei 18-monatigen Abschnitten zwischen 2014 und 2019, 785 Fälle während des Lockdowns von März 2020 bis August 2021 und 586 Fälle von September 2021 bis Dezember 2022. Insgesamt umfasste die Studie 3.467 Fälle.\n\nDie Neuerkrankungsrate nach dem Lockdown lag signifikant unter der während des Lockdowns (Inzidenzratenverhältnis 0,85; 95%-KI 0,77–0,95; p = 0,004), unterschied sich aber nicht signifikant vom Niveau vor dem Lockdown (Verhältnis 1,00; 95%-KI 0,91–1,09; p = 0,932). Gleichzeitig stieg der Anteil der Kinder mit früherer SARS-CoV-2-Exposition, ermittelt über Blutantikörpertests und Impfdaten, von 0,9 % während des Lockdowns auf über 40 % nach dessen Ende.\n\nDie Autoren schlossen, dass die Lockdown-Phase im Vergleich sowohl zur Zeit vor als auch nach dem Lockdown einen deutlichen Höhepunkt der Neuerkrankungen darstellte. Da die Diabetesraten sanken, während die Antikörperverbreitung stark zunahm, deuten die Befunde eher auf eine indirekte als eine direkte Rolle des Virus hin. Als Einschränkungen nannten die Forscher den relativ kurzen Nachbeobachtungszeitraum nach dem Lockdown und das Fehlen einer expliziten Modellierung des langfristigen Grundtrends. Eine Rückkehr zu historischen Werten belege nicht eindeutig eine Rückkehr zum erwarteten Verlauf und schließe einen zeitlichen Ausgleichseffekt nicht aus.\n\nDer Artikel beschreibt keine geplanten weiteren Schritte.",
-    "es": "Investigadores que trabajaban en nombre del Registro Finlandés de Diabetes Pediátrica hallaron que la incidencia de diabetes tipo 1 en niños menores de 15 años en Finlandia descendió de forma notable tras el levantamiento de las medidas contra la COVID-19, en comparación con el periodo de confinamiento. La tasa volvió a niveles comparables a los de antes de la pandemia. Los resultados se publicaron en 2026 en PLOS Medicine.\n\nEstudios previos habían vinculado los confinamientos con una mayor incidencia de diabetes tipo 1 infantil, pero había menos evidencia sobre lo ocurrido después de que terminaran las restricciones. El equipo comparó tres periodos: 2.096 casos repartidos en tres tramos de 18 meses entre 2014 y 2019; 785 casos durante el confinamiento, de marzo de 2020 a agosto de 2021; y 586 casos entre septiembre de 2021 y diciembre de 2022. En total, el estudio abarcó 3.467 casos.\n\nLa incidencia posterior al confinamiento fue significativamente menor que durante este (razón de tasas de incidencia 0,85; IC del 95 % 0,77–0,95; p = 0,004), mientras que no difirió de forma significativa de los niveles previos al confinamiento (razón 1,00; IC del 95 % 0,91–1,09; p = 0,932). Al mismo tiempo, la proporción de niños con exposición previa al SARS-CoV-2, medida con análisis de anticuerpos en sangre y datos de vacunación, subió del 0,9 % durante el confinamiento a más del 40 % tras su final.\n\nLos autores concluyeron que el periodo de confinamiento marcó un pico claro de incidencia frente a los periodos anterior y posterior. Como las tasas de diabetes bajaron mientras la prevalencia de anticuerpos aumentaba, los datos apuntan a un papel indirecto, y no directo, del virus. Entre las limitaciones señalaron el seguimiento relativamente corto tras el confinamiento y la falta de un modelado explícito de la tendencia secular a largo plazo. Advirtieron además que el retorno a niveles históricos no confirma de forma definitiva una vuelta a la trayectoria esperada ni descarta una compensación temporal.\n\nEl artículo no describe próximos pasos previstos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Коэффициент заболеваемости после локдауна относительно периода локдауна",
-      "en": "Incidence rate ratio, after vs. during lockdown",
-      "kk": "Локдаун кезеңімен салыстырғандағы жиілік коэффициенті",
-      "de": "Inzidenzratenverhältnis, nach vs. während des Lockdowns",
-      "es": "Razón de tasas, tras vs. durante el confinamiento"
-     },
-     "v": {
-      "ru": "0,85 (95% ДИ 0,77–0,95)",
-      "en": "0.85 (95% CI 0.77–0.95)",
-      "kk": "0,85 (95% СИ 0,77–0,95)",
-      "de": "0,85 (95%-KI 0,77–0,95)",
-      "es": "0,85 (IC del 95 % 0,77–0,95)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Доля детей с прежним контактом с SARS-CoV-2",
-      "en": "Children with prior SARS-CoV-2 exposure",
-      "kk": "SARS-CoV-2-мен бұрын байланыста болған балалар үлесі",
-      "de": "Kinder mit früherer SARS-CoV-2-Exposition",
-      "es": "Niños con exposición previa al SARS-CoV-2"
-     },
-     "v": {
-      "ru": "0,9% во время локдауна → более 40% после",
-      "en": "0.9% during lockdown → over 40% after",
-      "kk": "Локдаун кезінде 0,9% → кейін 40%-дан астам",
-      "de": "0,9 % während des Lockdowns → über 40 % danach",
-      "es": "0,9 % durante el confinamiento → más del 40 % después"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nBTUT9vYz01",
-   "cat": "events",
-   "stage": "conference",
-   "date": "2026-11-07",
-   "added": "2026-11-08T13:19:35.703Z",
-   "title": {
-    "ru": "Нге Ан делится последними достижениями в диагностике и лечении эндокринных заболеваний и диабета",
-    "en": "Nghe An shares latest advances in diagnosing and treating endocrine diseases and diabetes",
-    "kk": "Нге Ан эндокриндік аурулар мен диабетті диагностикалау және емдеудегі соңғы жетістіктерімен бөліседі",
-    "de": "Nghe An stellt neueste Fortschritte bei Diagnose und Behandlung endokriner Erkrankungen und Diabetes vor",
-    "es": "Nghe An comparte los últimos avances en el diagnóstico y tratamiento de enfermedades endocrinas y la diabetes"
-   },
-   "text": {
-    "ru": "Провинция Нге Ан представила последние достижения в диагностике и лечении эндокринных заболеваний и диабета.",
-    "en": "Nghe An province presented recent advances in the diagnosis and treatment of endocrine diseases and diabetes.",
-    "kk": "Нге Ан провинциясы эндокриндік аурулар мен диабетті диагностикалау және емдеудегі соңғы жетістіктерді ұсынды.",
-    "de": "Die Provinz Nghe An stellte aktuelle Fortschritte bei Diagnose und Behandlung endokriner Erkrankungen und Diabetes vor.",
-    "es": "La provincia de Nghe An presentó los avances recientes en el diagnóstico y tratamiento de enfermedades endocrinas y la diabetes."
-   },
-   "url": "https://baonghean.vn/nghe-an-cap-nhat-tien-bo-moi-trong-chan-doan-dieu-tri-benh-noi-tiet-dai-thao-duong-10355308.html",
-   "src": "Báo Nghệ An",
-   "photoQuery": "medical conference doctors presentation",
-   "photo": {
-    "id": "u_EVgsAbL51Rk",
-    "url": "https://images.unsplash.com/photo-1558008258-3256797b43f3?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGNvbmZlcmVuY2UlMjBkb2N0b3JzJTIwcHJlc2VudGF0aW9ufGVufDF8MHx8fDE3OTQxNDM5Nzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Stem List",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/audience-in-a-conference-EVgsAbL51Rk?utm_source=dia_news&utm_medium=referral",
-    "alt": "audience in a conference"
-   },
-   "body": {
-    "ru": "7 ноября 2026 года Управление здравоохранения Нгеан совместно с Больницей эндокринологии Нгеан провело научный семинар по эндокринологии и диабету на 2026 год. Мероприятие приурочено к Всемирному дню борьбы с диабетом (14 ноября) и Дню всенародного употребления йодированной соли (2 ноября). В нём приняли участие медицинские работники, специалисты, врачи и фармацевты из провинции и других регионов.\n\nСеминар стал профессиональной площадкой, где участники узнали о новых подходах к диагностике и лечению эндокринных и метаболических нарушений, а также обменялись опытом и повысили квалификацию. Делегаты прослушали три научные сессии. Темы касались эпидемиологии диабета, новых консенсусов по его лечению, комплексного ведения сердечно-сосудистых, почечных и метаболических рисков, индивидуализации терапии и применения искусственного интеллекта в клинической практике.\n\nВыступающие также рассказали о многофакторном управлении ожирением, инсулинорезистентности, редких эндокринных заболеваниях и разборе реальных клинических случаев. Ключевая мысль семинара заключалась в том, что лечение должно выходить за рамки контроля отдельных показателей и переходить к управлению общими факторами риска, подбору схемы под каждого пациента и защите здоровья в долгосрочной перспективе. В статье отмечается, что ИИ может помогать врачам в диагностике, наблюдении и лечении при условии научной обоснованности и безопасности.\n\nОрганизаторы считают, что полученные знания помогут медицинским учреждениям применять их при обследовании и лечении, улучшать ведение диабета, заболеваний щитовидной железы и нарушений обмена веществ, снижать риск осложнений и повышать качество жизни пациентов. В статье не приводятся конкретные данные о пациентах, результатах или планах дальнейших действий после семинара.",
-    "en": "On 7 November 2026, the Nghe An Department of Health, together with the Nghe An Endocrinology Hospital, held a scientific workshop on endocrinology and diabetes for 2026. The event was timed to the run-up to World Diabetes Day (14 November) and National Iodized Salt Day (2 November). Health workers, specialists, doctors and pharmacists from inside and outside the province took part.\n\nThe workshop served as a professional forum for updating participants on recent advances in diagnosing and treating endocrine and metabolic disorders, and for exchanging experience and building skills. Delegates attended three scientific sessions. Topics included diabetes epidemiology, new consensus on diabetes treatment, comprehensive management of cardiovascular, kidney and metabolic risk, individualised therapy, and the use of artificial intelligence in clinical practice.\n\nSpeakers also covered multimodal obesity management, insulin resistance, rare endocrine conditions and case-based discussions of real patients. A central message was that care should look beyond single indicators toward managing overall risk factors, tailoring treatment plans to each patient and protecting long-term health. The article notes that AI could help doctors with diagnosis, monitoring and treatment, provided it rests on sound science and safety.\n\nOrganisers expect the knowledge shared to help health facilities apply it in examinations and treatment, improve the management of diabetes, thyroid disease and metabolic disorders, reduce complications and raise patients' quality of life. The article does not report specific patient figures, outcomes or follow-up plans from the workshop.",
-    "kk": "2026 жылғы 7 қарашада Нгеан провинциясының денсаулық сақтау басқармасы Нгеан эндокринология ауруханасымен бірлесіп, 2026 жылға арналған эндокринология және диабет бойынша ғылыми семинар өткізді. Іс-шара Бүкіләлемдік диабетпен күрес күніне (14 қараша) және йодталған тұз қолдану жалпыхалықтық күніне (2 қараша) орай ұйымдастырылды. Оған провинция ішінен және сыртынан медицина қызметкерлері, мамандар, дәрігерлер мен фармацевттер қатысты.\n\nСеминар қатысушыларға эндокриндік және метаболизмдік бұзылыстарды диагностикалау мен емдеудегі соңғы жетістіктерді таныстыратын, тәжірибе алмасуға және біліктілікті арттыруға мүмкіндік беретін кәсіби алаң болды. Делегаттар үш ғылыми сессияға қатысты. Талқыланған тақырыптарға диабеттің эпидемиологиясы, диабетті емдеу бойынша жаңа консенсустар, жүрек-қан тамыры, бүйрек және метаболизм қауіптерін кешенді басқару, емді жекелендіру және клиникалық тәжірибеде жасанды интеллектті қолдану жатты.\n\nСөйлеушілер көпфакторлы семіздікті басқару, инсулинге резистенттілік, сирек кездесетін эндокриндік аурулар және нақты емделушілердің жағдайларын талдау туралы да айтты. Семинардың негізгі ойы бөлек көрсеткіштерді бақылаудан асып, жалпы қауіп факторларын басқаруға, әр емделушіге жеке емдеу жоспарын таңдауға және ұзақ мерзімді денсаулықты қорғауға көшу қажеттігі болды. Мақалада ЖИ дәрігерлерге диагностикада, бақылауда және емдеуде көмектесе алатыны, бірақ бұл ғылыми негізге және қауіпсіздікке сүйенуі керектігі атап өтілген.\n\nҰйымдастырушылар ортақ білімнің денсаулық сақтау мекемелеріне тексеру мен емдеуде қолдануға, диабетті, қалқанша безі ауруларын және зат алмасу бұзылыстарын басқаруды жақсартуға, асқынулар қаupiуын азайтуға және емделушілердің өмір сапасын арттыруға көмектеседі деп күтеді. Мақалада семинардан кейінгі нақты пациенттер деректері, нәтижелер немесе кейінгі іс-шаралар жоспары туралы ақпарат жоқ.",
-    "de": "Am 7. November 2026 veranstaltete das Gesundheitsamt der Provinz Nghe An gemeinsam mit dem Endokrinologie-Krankenhaus Nghe An einen wissenschaftlichen Workshop zu Endokrinologie und Diabetes für 2026. Die Veranstaltung fiel in die Zeit vor dem Weltdiabetestag (14. November) und dem Nationalen Tag des jodierten Salzes (2. November). Teilnehmer waren Gesundheitsfachkräfte, Fachärzte, Ärzte und Apotheker aus der Provinz und von außerhalb.\n\nDer Workshop diente als fachliches Forum, um die Teilnehmer über neue Fortschritte bei Diagnostik und Behandlung endokriner und metabolischer Erkrankungen zu informieren sowie Erfahrungen auszutauschen und Kompetenzen zu stärken. Die Delegierten besuchten drei wissenschaftliche Sitzungen. Behandelt wurden unter anderem die Epidemiologie des Diabetes, neue Konsensusempfehlungen zu seiner Therapie, die umfassende Steuerung kardiovaskulärer, renaler und metabolischer Risiken, individualisierte Behandlung sowie der Einsatz künstlicher Intelligenz in der klinischen Praxis.\n\nReferenten sprachen außerdem über die multimodale Behandlung von Adipositas, Insulinresistenz, seltene endokrine Erkrankungen und die Besprechung realer Fallbeispiele. Eine zentrale Botschaft lautete, dass sich die Versorgung von der Kontrolle einzelner Werte hin zur Steuerung des Gesamtrisikos, zu auf jeden Patienten abgestimmten Behandlungsplänen und zum langfristigen Schutz der Gesundheit entwickeln sollte. Laut Artikel könnte KI Ärzten bei Diagnose, Überwachung und Behandlung helfen, sofern sie auf solider wissenschaftlicher Grundlage und mit Blick auf die Sicherheit eingesetzt wird.\n\nDie Veranstalter erwarten, dass das vermittelte Wissen Gesundheitseinrichtungen dabei unterstützt, es bei Untersuchungen und Behandlungen anzuwenden, die Versorgung von Diabetes, Schilddrüsenerkrankungen und Stoffwechselstörungen zu verbessern, Komplikationen zu verringern und die Lebensqualität der Patienten zu erhöhen. Der Artikel nennt keine konkreten Patientenzahlen, Ergebnisse oder Folgepläne des Workshops.",
-    "es": "El 7 de noviembre de 2026, el Departamento de Salud de la provincia de Nghe An, junto con el Hospital de Endocrinología de Nghe An, celebró un taller científico sobre endocrinología y diabetes correspondiente a 2026. El evento se programó en vísperas del Día Mundial de la Diabetes (14 de noviembre) y del Día Nacional de la Sal Yodada (2 de noviembre). Participaron personal sanitario, especialistas, médicos y farmacéuticos de dentro y fuera de la provincia.\n\nEl taller funcionó como foro profesional para actualizar a los asistentes sobre los avances recientes en el diagnóstico y tratamiento de trastornos endocrinos y metabólicos, y para intercambiar experiencias y mejorar competencias. Los delegados asistieron a tres sesiones científicas. Los temas incluyeron la epidemiología de la diabetes, los nuevos consensos sobre su tratamiento, el manejo integral del riesgo cardiovascular, renal y metabólico, la terapia individualizada y el uso de la inteligencia artificial en la práctica clínica.\n\nLos ponentes abordaron además el manejo multimodal de la obesidad, la resistencia a la insulina, las enfermedades endocrinas poco frecuentes y el análisis de casos reales. Un mensaje central fue que la atención debe ir más allá del control de indicadores aislados, hacia la gestión de los factores de riesgo globales, la adaptación de los planes terapéuticos a cada paciente y la protección de la salud a largo plazo. El artículo señala que la IA podría ayudar a los médicos en el diagnóstico, el seguimiento y el tratamiento, siempre que se base en una ciencia sólida y garantice la seguridad.\n\nLos organizadores esperan que los conocimientos compartidos ayuden a los centros sanitarios a aplicarlos en exámenes y tratamientos, a mejorar el manejo de la diabetes, las enfermedades tiroideas y los trastornos metabólicos, a reducir las complicaciones y a elevar la calidad de vida de los pacientes. El artículo no informa de cifras concretas de pacientes, resultados ni planes de seguimiento tras el taller."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Научные сессии семинара",
-      "en": "Scientific sessions at the workshop",
-      "kk": "Семинардағы ғылыми сессиялар",
-      "de": "Wissenschaftliche Sitzungen des Workshops",
-      "es": "Sesiones científicas del taller"
-     },
-     "v": {
-      "ru": "3",
-      "en": "3",
-      "kk": "3",
-      "de": "3",
-      "es": "3"
-     }
-    },
-    {
-     "k": {
-      "ru": "Дата проведения семинара",
-      "en": "Workshop date",
-      "kk": "Семинар өткен күн",
-      "de": "Datum des Workshops",
-      "es": "Fecha del taller"
-     },
-     "v": {
-      "ru": "7 ноября 2026 года",
-      "en": "7 November 2026",
-      "kk": "2026 жылғы 7 қараша",
-      "de": "7. November 2026",
-      "es": "7 de noviembre de 2026"
-     }
-    }
-   ]
-  },
-  {
    "id": "nVuYz9vYz01",
    "cat": "events",
    "stage": "campaign",
    "date": "2026-11-07",
-   "added": "2026-11-08T12:54:36.346Z",
+   "added": "2026-11-09T08:39:20.364Z",
    "title": {
     "ru": "Врачи Кубани проведут бесплатные обследования для снижения риска диабета",
-    "en": "Kuban doctors to offer free examinations to reduce diabetes risk",
-    "kk": "Кубань дәрігерлері диабет қаупін азайту үшін тегін тексерулер жүргізеді",
+    "en": "Kuban doctors to offer free screenings to reduce diabetes risk",
+    "kk": "Кубань дәрігерлері қант диабеті қаупін азайту үшін тегін тексерулер өткізеді",
     "de": "Ärzte in Kuban bieten kostenlose Untersuchungen zur Senkung des Diabetesrisikos an",
-    "es": "Médicos de Kubán ofrecerán exámenes gratuitos para reducir el riesgo de diabetes"
+    "es": "Médicos de Kubán realizarán exámenes gratuitos para reducir el riesgo de diabetes"
    },
    "text": {
-    "ru": "Врачи Кубани проведут бесплатные обследования, направленные на снижение риска диабета.",
-    "en": "Doctors in the Kuban region will hold free examinations aimed at reducing diabetes risk.",
-    "kk": "Кубань дәрігерлері диабет қаупін төмендетуге бағытталған тегін тексерулер өткізеді.",
-    "de": "Ärzte der Region Kuban führen kostenlose Untersuchungen zur Verringerung des Diabetesrisikos durch.",
-    "es": "Los médicos de la región de Kubán realizarán exámenes gratuitos para reducir el riesgo de diabetes."
+    "ru": "В Краснодарском крае врачи проведут бесплатные обследования, направленные на профилактику диабета.",
+    "en": "Doctors in Krasnodar Krai will hold free screenings aimed at preventing diabetes.",
+    "kk": "Краснодар өлкесінде дәрігерлер қант диабетінің алдын алуға бағытталған тегін тексерулер өткізеді.",
+    "de": "Ärzte in der Region Krasnodar bieten kostenlose Untersuchungen zur Diabetesvorbeugung an.",
+    "es": "Los médicos de la región de Krasnodar realizarán exámenes gratuitos para la prevención de la diabetes."
    },
    "url": "https://kuban.bfm.ru/news/64712",
    "src": "BFM Кубань",
-   "photoQuery": "clinic examination room",
-   "body": {
-    "ru": "Неделя, посвящённая борьбе с диабетом, пройдёт в Краснодарском крае с 9 по 15 ноября. По данным BFM Кубань, на протяжении семи дней врачи будут объяснять жителям, как предотвратить это заболевание.\n\nВ программу входят выезды мобильного центра скрининговой диагностики и занятия школы здоровья, где речь пойдёт о профилактике сахарного диабета и его осложнений. Площадки для обследований появятся в Краснодаре, Новороссийске, а также в Славянском, Тимашевском и Тбилисском районах.\n\nСпециалисты напоминают: контроль уровня сахара в крови, сбалансированное питание, регулярные физические нагрузки и своевременные проверки помогают держать риски под контролем. Андрей Сахаров, главный внештатный специалист по медицинской профилактике минздрава края, объясняет, что эти меры уменьшают вероятность болезни и её последствий.\n\nВ заголовке обследования названы бесплатными. В доступной версии текста не указаны часы работы и точные адреса каждой площадки, поэтому перед визитом стоит уточнить детали в местной поликлинике или у органов здравоохранения.",
-    "en": "A week devoted to the fight against diabetes will take place in Krasnodar Krai from 9 to 15 November. According to BFM Kuban, over the course of seven days doctors will explain to residents how this disease can be prevented.\n\nThe programme includes trips by a mobile screening diagnostics centre and sessions at a health school, where the focus will be on preventing diabetes and its complications. Examination sites will be set up in Krasnodar, Novorossiysk, and in the Slavyansky, Timashevsky and Tbilissky districts.\n\nSpecialists remind people that monitoring blood sugar levels, eating a balanced diet, staying physically active and getting check-ups on time help keep risks under control. Andrey Sakharov, the region's chief freelance specialist in medical prevention, explains that these measures reduce the likelihood of the illness and its consequences.\n\nThe headline describes the examinations as free. The available version of the text does not give opening hours or exact addresses for each site, so it is worth checking details with a local clinic or the health authorities before visiting.",
-    "kk": "Қант диабетімен күресу апталығы Краснодар өлкесінде 9-нан 15 қарашаға дейін өтеді. BFM Kuban хабарлағанындай, жеті күн бойы дәрігерлер тұрғындарға бұл ауруды қалай алдын алуға болатынын түсіндіреді.\n\nБағдарламаға скринингтік диагностиканың жылжымалы орталығының сапарлары және денсаулық мектебінің сабақтары кіреді; мектепте қант диабетінің және оның асқынуларының алдын алу туралы әңгіме болады. Тексеру алаңдары Краснодарда, Новороссийскіде, сондай-ақ Славян, Тимашев және Тбилис аудандарында ашылады.\n\nМамандар қан қантының деңгейін бақылаудың, теңгерімді тамақтанудың, тұрақты дене белсенділігінің және уақытылы тексеруден өтудің тәуекелдерді бақылауда ұстауға көмектесетінін еske салады. Өлкенің медициналық профилактика жөніндегі бас сырттай маманы Андрей Саharов бұл шаралар аурудың және оның салдарының ықтималдығын азайтатынын түсіндіреді.\n\nТақырыпта тексерулер тегін деп көрсетілген. Қолжетімді мәтінде әр алаңның жұмыс уақыты мен нақты мекенжайлары берілмеген, сондықтан баруға дейін жергілікті емханадан немесе денсаулық сақтау органдарынан нақтылаған жөн.",
-    "de": "Vom 9. bis 15. November findet in der Region Krasnodar eine Woche im Kampf gegen Diabetes statt, berichtet BFM Kuban. Sieben Tage lang wollen Ärztinnen und Ärzte den Einwohnern erklären, wie sich die Krankheit vorbeugen lässt.\n\nZum Programm gehören Einsätze eines mobilen Zentrums für Screening-Diagnostik sowie Veranstaltungen einer Gesundheitsschule, die sich der Vorbeugung von Diabetes und seinen Folgeerkrankungen widmen. Untersuchungsstandorte entstehen in Krasnodar, Noworossijsk sowie in den Bezirken Slawjansk, Timaschewsk und Tbilissk.\n\nFachleute erinnern daran, dass Blutzuckerkontrolle, ausgewogene Ernährung, regelmäßige Bewegung und rechtzeitige Untersuchungen dabei helfen, Risiken im Griff zu behalten. Andrej Sacharow, leitender freiberuflicher Spezialist für medizinische Prävention im regionalen Gesundheitsministerium, erklärt, dass diese Maßnahmen die Wahrscheinlichkeit der Erkrankung und ihrer Folgen verringern.\n\nDie Überschrift bezeichnet die Untersuchungen als kostenlos. Im verfügbaren Text fehlen Öffnungszeiten und genaue Adressen der einzelnen Standorte; vor einem Besuch sollten Interessierte diese Angaben daher bei ihrer örtlichen Klinik oder bei den Gesundheitsbehörden erfragen.",
-    "es": "Del 9 al 15 de noviembre se celebrará en el krai de Krasnodar una semana dedicada a la lucha contra la diabetes, según informa BFM Kubán. Durante siete días, los médicos explicarán a los vecinos cómo prevenir la enfermedad.\n\nEl programa incluye salidas de un centro móvil de diagnóstico por cribado y sesiones de una escuela de salud centrada en la prevención de la diabetes y sus complicaciones. Los puntos de revisión se instalarán en Krasnodar, Novorossiisk y en los distritos de Slavyansk, Timashevsk y Tbilisi.\n\nLos especialistas recuerdan que controlar la glucosa en sangre, comer de forma equilibrada, mantenerse físicamente activo y acudir a los chequeos a tiempo ayuda a mantener los riesgos bajo control. Andréi Sájarov, principal especialista independiente en prevención médica del ministerio de salud regional, explica que estas medidas reducen la probabilidad de la enfermedad y de sus consecuencias.\n\nEl titular califica los exámenes de gratuitos. El texto disponible no indica horarios ni direcciones exactas de cada punto, por lo que conviene consultarlos en la clínica local o en las autoridades sanitarias antes de acudir."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Период кампании",
-      "en": "Campaign period",
-      "kk": "Науқан кезеңі",
-      "de": "Aktionszeitraum",
-      "es": "Periodo de la campaña"
-     },
-     "v": {
-      "ru": "9–15 ноября 2026",
-      "en": "9–15 November 2026",
-      "kk": "2026 жылғы 9–15 қараша",
-      "de": "9.–15. November 2026",
-      "es": "9–15 de noviembre de 2026"
-     }
-    },
-    {
-     "k": {
-      "ru": "Места обследований",
-      "en": "Examination sites",
-      "kk": "Тексеру алаңдары",
-      "de": "Untersuchungsstandorte",
-      "es": "Puntos de revisión"
-     },
-     "v": {
-      "ru": "2 города и 4 района края",
-      "en": "2 cities and 4 districts of the region",
-      "kk": "2 қала және өлкенің 4 ауданы",
-      "de": "2 Städte und 4 Bezirke der Region",
-      "es": "2 ciudades y 4 distritos de la región"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nGR3P29jPTU",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-07",
-   "added": "2026-11-08T12:48:49.190Z",
-   "title": {
-    "ru": "Снижение давления после инсульта и при диабете: сложности в исследованиях и практике",
-    "en": "Lowering blood pressure after stroke or with diabetes poses challenges in research and practice",
-    "kk": "Инсульттен кейін және диабетте қан қысымын төмендету зерттеу мен тәжірибеде қиындықтар туғызады",
-    "de": "Blutdrucksenkung nach Schlaganfall oder bei Diabetes stellt Forschung und Praxis vor Herausforderungen",
-    "es": "Reducir la presión arterial tras un ictus o en la diabetes plantea retos en la investigación y en la práctica"
-   },
-   "text": {
-    "ru": "Снижение артериального давления после инсульта или при диабете остаётся сложной задачей как для исследований, так и для клинической практики.",
-    "en": "Lowering blood pressure after a stroke or in people with diabetes remains a challenge for both research and clinical practice.",
-    "kk": "Инсульттен кейін немесе диабеті бар адамдарда қан қысымын төмендету зерттеу мен клиникалық тәжірибе үшін әлі де күрделі мәселе.",
-    "de": "Die Senkung des Blutdrucks nach einem Schlaganfall oder bei Diabetes bleibt eine Herausforderung für Forschung und klinische Praxis.",
-    "es": "Reducir la presión arterial tras un ictus o en personas con diabetes sigue siendo un reto tanto para la investigación como para la práctica clínica."
-   },
-   "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/",
-   "src": "STAT",
-   "photoQuery": "blood pressure monitor cuff",
+   "photoQuery": "blood glucose test kit",
+   "local": true,
    "photo": {
-    "id": "u_i1iqQRLULlg",
-    "url": "https://images.unsplash.com/photo-1615486511484-92e172cc4fe0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBwcmVzc3VyZSUyMG1vbml0b3IlMjBjdWZmfGVufDF8MHx8fDE3OTQxNDIxMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Mockup Graphics",
+    "id": "u_IQAGcyw4zns",
+    "url": "https://images.unsplash.com/photo-1773730356782-e3044e73cf6f?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjEzNTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Liam Scotchmer",
     "license": "Unsplash",
-    "link": "https://unsplash.com/photos/blood-pressure-monitor-with-grey-cuff-i1iqQRLULlg?utm_source=dia_news&utm_medium=referral",
-    "alt": "A person using a digital blood pressure monitor with a grey cuff on their arm"
-   },
-   "body": {
-    "ru": "На конференции Американской кардиологической ассоциации в Чикаго в субботу представили три исследования о том, насколько сильно снижать давление у людей, перенёсших инсульт, и у тех, кто живёт с диабетом 2 типа. Высокое давление и так повышает риск серьёзных сердечно-сосудистых событий, а при диабете или после инсульта этот риск возрастает ещё сильнее.\n\nИсследование REDUCE под руководством Джорданы Коэн из Пенсильванского университета проверяло спиронолактон, дешёвый и распространённый диуретик, который обычно назначают на поздних этапах лечения. Когда его давали сразу после инсульта, через три месяца у пациентов чаще удавалось опустить давление ниже 130/80 мм рт. ст., чем при обычной помощи. Испытание измеряло именно давление, а не сердечно-сосудистые исходы, и пока представлено только в виде тезисов без публикации в журнале.\n\nБолее крупное бразильское исследование OPTIMAL-STROKE, опубликованное в NEJM, сравнивало целевой систолический уровень ниже 120 мм рт. ст. со стандартным ниже 140. За четыре года участники группы с более низкой целью значимо реже умирали или переживали сердечно-сосудистые события. Некоторые показатели функции почек изменились, однако риск терминальной почечной недостаточности, необходимость диализа и смертность не выросли; отмечены сдвиги уровня электролитов.\n\nИсследование OPTIMAL-DIABETES, также опубликованное в NEJM, проверяло ту же цель ниже 120 мм рт. ст. у пациентов с диабетом 2 типа. Оно не снизило число крупных сердечно-сосудистых событий и смертей. Эксперты указали на различия между мужчинами и женщинами, молодыми и пожилыми пациентами и поставили вопрос о более длительном наблюдении.\n\nПрименять эти результаты на практике непросто: помощь после инсульта разделена между неврологом, нефрологом и терапевтом. Специалисты подчеркнули, что главный вопрос теперь в организации лечения. Достижение более низких целей потребует медицинского наблюдения, включая контроль функции почек.",
-    "en": "At the American Heart Association's scientific sessions in Chicago on Saturday, three studies were presented on how far blood pressure should be lowered in people who have had a stroke and in people living with type 2 diabetes. High blood pressure already raises the risk of serious cardiovascular events, and that risk climbs even higher with diabetes or after a stroke.\n\nThe REDUCE trial, led by Jordana Cohen of the University of Pennsylvania, tested spironolactone, a cheap and common diuretic usually given late in treatment. When it was started right after a stroke, more patients reached blood pressure below 130/80 mm Hg three months later than those receiving usual care. The trial measured blood pressure rather than cardiovascular outcomes, and so far it has been presented only as an abstract, not yet published in a journal.\n\nA larger Brazilian trial, OPTIMAL-STROKE, published in the New England Journal of Medicine, compared a systolic target below 120 mm Hg with the standard target below 140. Over four years, participants in the lower-target group were significantly less likely to die or have cardiovascular events. Some kidney function markers shifted, but there was no rise in end-stage kidney disease, dialysis need or deaths, and electrolyte changes were noted.\n\nOPTIMAL-DIABETES, also published in the NEJM, tested the same below-120 goal in people with type 2 diabetes. It did not reduce major cardiovascular events or deaths. Experts pointed to differences between men and women and between younger and older patients, and asked about longer follow-up.\n\nApplying these results in practice is difficult, because post-stroke care is split among neurologists, nephrologists and primary care doctors. Specialists stressed that the central question is now how to organize treatment. Reaching lower targets will require medical supervision, including monitoring of kidney function.",
-    "kk": "Американдық кардиологиялық қауымдастықтың Чикagodағы ғылыми конференциясында сенбіде үш зерттеу ұсынылды: инсульттен кейінгі адамдарда және 2-типті диабетпен өмір сүретін адамдарда қан қысымын қанша төмендету керектігі туралы. Жоғары қан қысымы жүрек-қан тамырлары асқынуларының қаупін арттырады, ал диабет немесе инсульттен кейін бұл қауіп одан әрі өседі.\n\nДжорданна Коэн басқарған REDUCE зерттеуі спиронолактонды сынады. Бұл арзан әрі кең таралған диуретик, әдетте емдеудің соңғы кезеңінде тағайындалады. Инсульттен бірден кейін берілгенде, үш айдан соң қан қысымын 130/80 мм рт. ст. төмен түсіре алған науқастар әдеттегі күтім алғандарға қарағанда жиірек болды. Зерттеу жүрек-қан тамырлық нәтижелерді емес, қан қысымының төмендеуін өлшеді және әзірге тек тезис түрінде ұсынылды, журналда жарияланбаған.\n\nБразилияда жүргізілген ірі OPTIMAL-STROKE зерттеуі NEJM журналында жарияланды. Ол систолалық мақсатты 120 мм рт. ст. төмен және стандарт 140 мм рт. ст. төмен деңгейлерді салыстырды. Төрт жыл ішінде төмен мақсатты топтағы адамдар өлу немесе жүрек-қан тамырлық оқиғаларға ұшырау ықтималдығы айтарлықтай аз болды. Бүйрек функциясының кейбір көрсеткіштері өзгерді, бірақ соңғы сатыдағы бүйрек жеткіліксіздігі, диализ қажеттілігі немесе өлім көбейгені байқалмады; электролит деңгейлерінің өзгерістері тіркелді.\n\nNEJM-де жарияланған OPTIMAL-DIABETES зерттеуі 2-типті диабеті бар науқастарда дәл сол 120 мм рт. ст. төмен мақсатты сынады. Ол ірі жүрек-қан тамырлық оқиғалар мен өлім санын азайтпады. Сарапшылар ер мен әйел, жас пен қарт науқастар арасындағы айырмашылықтарға назар аударып, ұзақ бақылау қажеттігін атап өтті.\n\nНәтижелерді тәжірибеде қолдану қиын, себебі инсульттен кейінгі емдеу невролог, нефролог және бастапқы дәрігер арасында бөлінген. Мамандар басты мәселе енді емнің қалай ұйымдастырылатынында екенін айтты. Төмен мақсатқа жету бүйрек қызметін бақылауды қоса алғанда, медициналық қадағалауды талап етеді.",
-    "de": "Auf der Konferenz der American Heart Association in Chicago wurden am Samstag drei Studien vorgestellt, die untersuchten, wie stark der Blutdruck bei Menschen nach einem Schlaganfall und bei Menschen mit Typ-2-Diabetes gesenkt werden sollte. Bluthochdruck erhöht ohnehin das Risiko schwerer Herz-Kreislauf-Ereignisse, und dieses Risiko steigt bei Diabetes oder nach einem Schlaganfall noch weiter.\n\nDie REDUCE-Studie unter Leitung von Jordana Cohen von der University of Pennsylvania testete Spironolacton, ein günstiges und verbreitetes Diuretikum, das meist erst spät in der Behandlung eingesetzt wird. Wurde es direkt nach einem Schlaganfall gegeben, erreichten drei Monate später mehr Patienten einen Blutdruck unter 130/80 mm Hg als bei üblicher Versorgung. Die Studie maß die Blutdrucksenkung, nicht die Herz-Kreislauf-Ergebnisse, und liegt bisher nur als Abstract vor, noch nicht in einer Fachzeitschrift veröffentlicht.\n\nDie größere brasilianische Studie OPTIMAL-STROKE, veröffentlicht im New England Journal of Medicine, verglich ein systolisches Ziel unter 120 mm Hg mit dem Standard unter 140 mm Hg. Über vier Jahre hinweg starben Teilnehmer mit dem niedrigeren Ziel deutlich seltener oder erlitten seltener Herz-Kreislauf-Ereignisse. Einige Nierenfunktionswerte veränderten sich, doch ein Anstieg von terminalem Nierenversagen, Dialysebedarf oder Todesfällen wurde nicht festgestellt; Elektrolytwerte verschoben sich jedoch.\n\nOPTIMAL-DIABETES, ebenfalls im NEJM veröffentlicht, prüfte dasselbe Ziel unter 120 mm Hg bei Patienten mit Typ-2-Diabetes. Schwere Herz-Kreislauf-Ereignisse und Todesfälle nahm dadurch nicht ab. Experten verwiesen auf Unterschiede zwischen Männern und Frauen sowie zwischen jüngeren und älteren Patienten und fragten nach längerer Nachbeobachtung.\n\nDie Umsetzung in der Praxis bleibt schwierig, weil die Versorgung nach einem Schlaganfall auf Neurologen, Nephrologen und Hausärzte verteilt ist. Fachleute betonten, dass nun vor allem die Organisation der Behandlung entscheidend ist. Niedrigere Zielwerte erfordern ärztliche Überwachung, einschließlich der Kontrolle der Nierenfunktion.",
-    "es": "En la reunión científica de la American Heart Association celebrada en Chicago el sábado se presentaron tres estudios sobre cuánto conviene bajar la presión arterial en personas que han sufrido un ictus y en personas con diabetes tipo 2. La hipertensión ya eleva el riesgo de eventos cardiovasculares graves, y ese riesgo aumenta todavía más con diabetes o tras un ictus.\n\nEl estudio REDUCE, dirigido por Jordana Cohen de la Universidad de Pensilvania, probó la espironolactona, un diurético barato y común que suele usarse al final del tratamiento. Administrada justo después de un ictus, más pacientes alcanzaron una presión inferior a 130/80 mm Hg tres meses después que con la atención habitual. El ensayo midió la reducción de la presión y no los resultados cardiovasculares, y por ahora solo se ha presentado como resumen, sin publicación en una revista.\n\nEl ensayo brasileño OPTIMAL-STROKE, de mayor tamaño y publicado en el New England Journal of Medicine, comparó una meta sistólica inferior a 120 mm Hg con el estándar de menos de 140 mm Hg. En cuatro años, quienes tenían la meta más baja tuvieron significativamente menos probabilidades de morir o sufrir eventos cardiovasculares. Algunos marcadores de función renal cambiaron, pero no aumentó la insuficiencia renal terminal, la necesidad de diálisis ni las muertes; sí se registraron cambios en los electrolitos.\n\nOPTIMAL-DIABETES, también publicado en el NEJM, evaluó esa misma meta por debajo de 120 mm Hg en pacientes con diabetes tipo 2. No redujo los eventos cardiovasculares mayores ni las muertes. Los expertos señalaron diferencias entre hombres y mujeres y entre pacientes jóvenes y mayores, y plantearon la necesidad de un seguimiento más largo.\n\nAplicar estos resultados será complicado, porque la atención tras un ictus está repartida entre neurólogos, nefrólogos y médicos de atención primaria. Los especialistas subrayaron que la cuestión clave ahora es cómo organizar el tratamiento. Alcanzar metas más bajas exigirá supervisión médica, incluido el control de la función renal."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Целевой систолический уровень давления в исследовании OPTIMAL-STROKE",
-      "en": "Systolic blood pressure target in the OPTIMAL-STROKE trial",
-      "kk": "OPTIMAL-STROKE зерттеуіндегі систолалық қан қысымының мақсаты",
-      "de": "Systolischer Blutdruck-Zielwert in der OPTIMAL-STROKE-Studie",
-      "es": "Meta de presión sistólica en el ensayo OPTIMAL-STROKE"
-     },
-     "v": {
-      "ru": "ниже 120 мм рт. ст. против ниже 140 мм рт. ст.",
-      "en": "below 120 mm Hg vs. below 140 mm Hg",
-      "kk": "120 мм рт. ст. төмен және 140 мм рт. ст. төмен",
-      "de": "unter 120 mm Hg gegenüber unter 140 mm Hg",
-      "es": "inferior a 120 mm Hg frente a menos de 140 mm Hg"
-     }
-    },
-    {
-     "k": {
-      "ru": "Снижение давления на 7 мм, связанное с более низким риском повторного инсульта",
-      "en": "Blood pressure reduction of 7 mm associated with lower risk of recurrent stroke",
-      "kk": "Қан қысымының 7 мм төмендеуі қайталанған инсульт қаупінің төмендеуімен байланысты",
-      "de": "Blutdrucksenkung um 7 mm, verbunden mit einem geringeren Risiko für erneuten Schlaganfall",
-      "es": "Reducción de la presión de 7 mm asociada con menor riesgo de un nuevo ictus"
-     },
-     "v": {
-      "ru": "38% ниже риск",
-      "en": "38% lower risk",
-      "kk": "38% төмен қауіп",
-      "de": "38 % geringeres Risiko",
-      "es": "38 % menos riesgo"
-     }
-    },
-    {
-     "k": {
-      "ru": "Доля пациентов, перенёсших инсульт, прекративших приём гипотензивных препаратов через год",
-      "en": "Share of stroke survivors who stopped antihypertensive drugs one year after stroke",
-      "kk": "Инсультten кейін бір жылдан соң гипотензивті дәрілерді қабылдауды тоқтатқан науқастардың үлесі",
-      "de": "Anteil der Schlaganfallüberlebenden, die ein Jahr nach dem Schlaganfall blutdrucksenkende Medikamente abgesetzt haben",
-      "es": "Proporción de supervivientes de un ictus que dejaron los antihipertensivos un año después"
-     },
-     "v": {
-      "ru": "примерно каждый пятый",
-      "en": "about one in five",
-      "kk": "шамамен әрбір бесінші",
-      "de": "etwa einer von fünf",
-      "es": "aproximadamente uno de cada cinco"
-     }
-    }
-   ]
+    "link": "https://unsplash.com/photos/rows-of-empty-orange-theater-seats-IQAGcyw4zns?utm_source=dia_news&utm_medium=referral",
+    "alt": "Rows of empty orange theater seats"
+   }
   },
   {
    "id": "cure-sana-up421",
@@ -2256,7 +2240,15 @@ const DIA_NEWS={
    ],
    "url": "https://investors.vrtx.com/node/35101/pdf",
    "src": "Vertex Pharmaceuticals · NEJM",
-   "photoQuery": "stem cell research lab"
+   "photoQuery": "stem cell research lab",
+   "photo": {
+    "id": "u_RlOAwXt2fEA",
+    "url": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c3RlbSUyMGNlbGwlMjByZXNlYXJjaCUyMGxhYnxlbnwxfDB8fHwxNzk0MjEzNTY3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Julia Koblitz",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/scientist-using-pipette-with-test-tubes-in-lab-RlOAwXt2fEA?utm_source=dia_news&utm_medium=referral",
+    "alt": "scientist using pipette with test tubes in lab"
+   }
   },
   {
    "id": "cure-tegoprubart-12of12",
@@ -2489,6 +2481,21 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://ua.news/ru/dovkolo-svitu/naukovtsi-viiavili-zviazok-bilka-miro1-z-insulinorezistentnistiu-sciencedaily",
+  "ученые связали белок miro1 с инсулинорезистентностью",
+  "scientists link miro1 protein to insulin resistance",
+  "https://ugra-news.ru/article/glavnyy_detskiy_endokrinolog_yugry_rasskazala_o_krasnykh_flagakh_sakharnogo_diabeta_u_detey/",
+  "детский эндокринолог югры рассказала о красных флагах диабета у детей",
+  "yugra s chief pediatric endocrinologist on warning signs of diabetes in children",
+  "https://kaktus.media/doc/556502_diabet_bez_simptomov._pochemy_tysiachi_ludey_mogyt_godami_ne_znat_o_povyshennom_sahare.html",
+  "диабет без симптомов почему тысячи людей могут годами не знать о повышенном сахаре",
+  "diabetes without symptoms why thousands may not know about high blood sugar for years",
+  "https://www.marpravda.ru/news/medicina-i-zdorove/zhitelyam-mariy-el-napomnili-o-vazhnosti-profilaktiki-oslozhneniy-sakharnogo-diabeta/",
+  "жителям марий эл напомнили о профилактике осложнений диабета",
+  "mari el residents reminded about preventing diabetes complications",
+  "https://iuruzan.ru/articles/natsionalnye-proekty/2026-11-09/v-bashkortostane-startovala-nedelya-borby-s-diabetom-4869645",
+  "в башкортостане стартовала неделя борьбы с диабетом",
+  "diabetes awareness week begins in bashkortostan",
   "https://admirk.ru/news/v_irkutske_prokhodit_nedelya_borby_s_diabetom/",
   "в иркутске проходит неделя борьбы с диабетом",
   "diabetes awareness week under way in irkutsk",
@@ -2573,27 +2580,9 @@ const DIA_NEWS={
   "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
   "уход при диабетических осложнениях выходит за рамки глюкозы приоритет уязвимости органов",
   "diabetes complication care expands beyond glucose to prioritise organ vulnerability",
-  "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
-  "российские вузы создают новые подходы к терапии сахарного диабета",
-  "russian universities develop new approaches to diabetes therapy",
-  "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
-  "врач гинеколог объяснила легко ли женщине с сахарным диабетом забеременеть",
-  "gynecologist explains whether it is easy for women with diabetes to get pregnant",
-  "https://prospect.com.ru/news/7153433/minzdrav-predlogil-vvesti-distantsionnoe-nablyudenie-za-diabetom-i-gipertoniej.html",
-  "минздрав предложил ввести дистанционное наблюдение за диабетом и гипертонией",
-  "health ministry proposes remote monitoring for diabetes and hypertension",
-  "https://bioengineer.org/finnish-observational-study-finds-childhood-type-1-diabetes-fell-after-lockdown/",
-  "финское исследование заболеваемость диабетом 1 типа у детей снизилась после локдауна",
-  "finnish study finds childhood type 1 diabetes fell after lockdown",
-  "https://baonghean.vn/nghe-an-cap-nhat-tien-bo-moi-trong-chan-doan-dieu-tri-benh-noi-tiet-dai-thao-duong-10355308.html",
-  "нге ан делится последними достижениями в диагностике и лечении эндокринных заболеваний и диабета",
-  "nghe an shares latest advances in diagnosing and treating endocrine diseases and diabetes",
   "https://kuban.bfm.ru/news/64712",
   "врачи кубани проведут бесплатные обследования для снижения риска диабета",
-  "kuban doctors to offer free examinations to reduce diabetes risk",
-  "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/",
-  "снижение давления после инсульта и при диабете сложности в исследованиях и практике",
-  "lowering blood pressure after stroke or with diabetes poses challenges in research and practice",
+  "kuban doctors to offer free screenings to reduce diabetes risk",
   "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
   "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
   "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
@@ -2609,6 +2598,25 @@ const DIA_NEWS={
   "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
   "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
   "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
+  "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
+  "российские вузы создают новые подходы к терапии сахарного диабета",
+  "russian universities develop new approaches to diabetes therapy",
+  "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
+  "врач гинеколог объяснила легко ли женщине с сахарным диабетом забеременеть",
+  "gynecologist explains whether it is easy for women with diabetes to get pregnant",
+  "https://prospect.com.ru/news/7153433/minzdrav-predlogil-vvesti-distantsionnoe-nablyudenie-za-diabetom-i-gipertoniej.html",
+  "минздрав предложил ввести дистанционное наблюдение за диабетом и гипертонией",
+  "health ministry proposes remote monitoring for diabetes and hypertension",
+  "https://bioengineer.org/finnish-observational-study-finds-childhood-type-1-diabetes-fell-after-lockdown/",
+  "финское исследование заболеваемость диабетом 1 типа у детей снизилась после локдауна",
+  "finnish study finds childhood type 1 diabetes fell after lockdown",
+  "https://baonghean.vn/nghe-an-cap-nhat-tien-bo-moi-trong-chan-doan-dieu-tri-benh-noi-tiet-dai-thao-duong-10355308.html",
+  "нге ан делится последними достижениями в диагностике и лечении эндокринных заболеваний и диабета",
+  "nghe an shares latest advances in diagnosing and treating endocrine diseases and diabetes",
+  "kuban doctors to offer free examinations to reduce diabetes risk",
+  "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/",
+  "снижение давления после инсульта и при диабете сложности в исследованиях и практике",
+  "lowering blood pressure after stroke or with diabetes poses challenges in research and practice",
   "https://t-l.ru/411151.html",
   "помогает ли датчик глюкозы похудеть мнение врача из тюмени",
   "does a glucose sensor help with weight loss tyumen doctor explains",
