@@ -7,8 +7,190 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-09T08:39:20.364Z",
+ "updated": "2026-11-09T09:44:35.768Z",
  "items": [
+  {
+   "id": "nSGM_b2M9NQ",
+   "cat": "access",
+   "stage": "report",
+   "date": "2026-11-09",
+   "added": "2026-11-09T09:44:35.768Z",
+   "title": {
+    "ru": "Почти 800 калужан с диабетом получили системы непрерывного мониторинга глюкозы",
+    "en": "Nearly 800 Kaluga residents with diabetes received continuous glucose monitoring systems",
+    "kk": "Қалуга тұрғындарының қант диабеті бар шамамен 800 адамы үздіксіз глюкозаны бақылау жүйелерін алды",
+    "de": "Fast 800 Einwohner von Kaluga mit Diabetes erhalten Systeme zur kontinuierlichen Glukosemessung",
+    "es": "Casi 800 residentes de Kaluga con diabetes recibieron sistemas de monitorización continua de glucosa"
+   },
+   "text": {
+    "ru": "В 2026 году в Калужской области системами непрерывного мониторинга глюкозы обеспечено почти 800 человек с сахарным диабетом.",
+    "en": "In 2026, nearly 800 people with diabetes in the Kaluga region were provided with continuous glucose monitoring systems.",
+    "kk": "2026 жылы Қалуга облысында қант диабеті бар шамамен 800 адам үздіксіз глюкозаны бақылау жүйелерімен қамтамасыз етілді.",
+    "de": "Im Jahr 2026 wurden im Gebiet Kaluga fast 800 Menschen mit Diabetes mit Systemen zur kontinuierlichen Glukosemessung versorgt.",
+    "es": "En 2026, casi 800 personas con diabetes en la región de Kaluga recibieron sistemas de monitorización continua de glucosa."
+   },
+   "url": "https://www.kp40.ru/news/society/150063/",
+   "src": "Калужский перекрёсток",
+   "photoQuery": "continuous glucose sensor device",
+   "local": true,
+   "photo": {
+    "id": "u_747NDboAWNY",
+    "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQyMTc0NzZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Nathaniel Yeo",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/stationery-store-interior-with-greeting-cards-747NDboAWNY?utm_source=dia_news&utm_medium=referral",
+    "alt": "A bright stationery store interior with shelves of greeting cards and office supplies"
+   },
+   "body": {
+    "ru": "В Калужской области почти 800 человек с диабетом получили системы непрерывного мониторинга глюкозы (НМГ). Об этом 9 ноября 2026 года сообщил «Калужский перекрёсток» в разделе «Общество». Работа ведётся в рамках проекта «Борьба с сахарным диабетом», который входит в нацпроект «Продолжительная и активная жизнь».\n\nТакие системы выдают беременным женщинам с диабетом и детям с диабетом первого типа в возрасте от 2 до 17 лет. С начала года ими обеспечили 799 пациентов.\n\nПо данным публикации, датчики позволяют видеть показатели в режиме реального времени, и врачи вместе с пациентами могут вовремя скорректировать лечение. Это помогает стабилизировать состояние и снизить риск острых осложнений. Для беременных контроль глюкозы важен и для здоровья мамы, и для малыша. Детям система помогает избегать резких скачков сахара, снижать риск осложнений и вести привычный образ жизни.\n\nВ материале не сказано, сколько ещё пациентов получат системы в дальнейшем, какие этапы запланированы и на какой срок рассчитан проект.",
+    "en": "In the Kaluga region, almost 800 people with diabetes have received continuous glucose monitoring (CGM) systems. The local outlet Kaluzhsky Perekrestok reported this on 9 November 2026 in its society section. The work is carried out under the project \"Fighting Diabetes\", which is part of the national project \"Long and Active Life\".\n\nThe systems are issued to pregnant women with diabetes and to children with type 1 diabetes aged 2 to 17. Since the start of the year, 799 patients have been provided with them.\n\nAccording to the report, the sensors show readings in real time, so doctors and patients can see them and adjust treatment in good time. This helps stabilise a patient's condition and lowers the risk of acute complications. For pregnant women, glucose control matters for the health of both mother and baby. For children, the system helps avoid sharp spikes in blood sugar, reduces the risk of complications and supports a usual way of life.\n\nThe article does not say how many more patients will receive the systems, which stages are planned, or how long the project is expected to run.",
+    "kk": "Қалуга облысында диабеті бар шамамен 800 адам үздіксіз глюкоза мониторингі жүйесін алды. Бұл туралы жергілікті «Калужский перекрёсток» басылымы 2026 жылғы 9 қарашада «Қоғам» бөлімінде хабарлады. Жұмыс «Ұзақ және белсенді өмір» ұлттық жобасының құрамына кіретін «Қант диабетімен күрес» жобасы аясында жүргізіліп жатыр.\n\nМұндай жүйелер диабеті бар жүкті әйелдерге және 2-ден 17 жасқа дейінгі 1-типті диабеті бар балаларға беріледі. Жылдың басынан бері олармен 799 пациент қамтамасыз етілді.\n\nЖарияланымға сәйкес, датчиктер көрсеткіштерді нақты уақытта көрсетеді, сондықтан дәрігерлер мен пациенттер оны көріп, емдеуді уақытында өзгерте алады. Бұл күйді тұрақтандыруға және жедел асқыну қаупін азайтуға көмектеседі. Жүкті әйелдер үшін глюкозаны бақылау ана мен бала денсаулығына маңызды. Балалар үшін жүйе қанттың кенет секіруін болдырмауға, асқыну қаупін азайтуға және әдеттегі өмір салтын сақтауға көмектеседі.\n\nМатериалда бұдан кейін қанша пациент осы жүйелерді алатыны, қандай кезеңдер жоспарланғаны және жобаның қанша уақытқа арналғаны айтылмаған.",
+    "de": "In der Region Kaluga haben fast 800 Menschen mit Diabetes kontinuierliche Glukosemesssysteme (CGM) erhalten. Das regionale Portal Kaluzhsky Perekrestok berichtete darüber am 9. November 2026 im Ressort Gesellschaft. Die Maßnahme läuft im Rahmen des Projekts „Kampf gegen Zuckerkrankheit“, das Teil des Nationalprojekts „Langes und aktives Leben“ ist.\n\nDie Systeme werden schwangeren Frauen mit Diabetes sowie Kindern mit Typ-1-Diabetes im Alter von 2 bis 17 Jahren ausgegeben. Seit Jahresbeginn wurden 799 Patientinnen und Patienten damit versorgt.\n\nLaut dem Beitrag zeigen die Sensoren die Werte in Echtzeit an, sodass Ärzte und Patienten sie sehen und die Behandlung rechtzeitig anpassen können. Das helfe, den Zustand zu stabilisieren, und senke das Risiko akuter Komplikationen. Bei Schwangeren ist die Glukosekontrolle wichtig für die Gesundheit von Mutter und Kind. Bei Kindern hilft das System, starke Blutzuckerschwankungen zu vermeiden, das Risiko von Komplikationen zu verringern und einen gewohnten Alltag zu ermöglichen.\n\nDer Artikel nennt keine weiteren Angaben dazu, wie viele Menschen die Systeme künftig erhalten sollen, welche Etappen geplant sind oder wie lange das Projekt laufen soll.",
+    "es": "En la región de Kaluga, casi 800 personas con diabetes han recibido sistemas de monitorización continua de glucosa (MCG). El medio local Kaluzhsky Perekrestok informó de ello el 9 de noviembre de 2026 en su sección de sociedad. La iniciativa se desarrolla dentro del proyecto «Lucha contra la diabetes», que forma parte del proyecto nacional «Vida larga y activa».\n\nEstos sistemas se entregan a mujeres embarazadas con diabetes y a niños con diabetes tipo 1 de entre 2 y 17 años. Desde comienzos de año, 799 pacientes han recibido este equipo.\n\nSegún la publicación, los sensores muestran los valores en tiempo real, de modo que médicos y pacientes pueden verlos y ajustar el tratamiento a tiempo. Esto ayuda a estabilizar el estado de salud y reduce el riesgo de complicaciones agudas. En las embarazadas, el control de la glucosa es importante para la salud de la madre y del bebé. En los niños, el sistema ayuda a evitar subidas bruscas de azúcar, a reducir el riesgo de complicaciones y a mantener una vida cotidiana habitual.\n\nEl texto no indica cuántos pacientes más recibirán estos sistemas, qué etapas están previstas ni cuánto durará el proyecto."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Пациентов, получивших системы НМГ с начала года",
+      "en": "Patients who received CGM systems since the start of the year",
+      "kk": "Жылдың басынан бері НМГ жүйесін алған пациенттер",
+      "de": "Patienten, die seit Jahresbeginn ein CGM-System erhalten haben",
+      "es": "Pacientes que han recibido sistemas MCG desde comienzos de año"
+     },
+     "v": {
+      "ru": "799",
+      "en": "799",
+      "kk": "799",
+      "de": "799",
+      "es": "799"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст детей с диабетом первого типа, которым выдают системы НМГ",
+      "en": "Age range of children with type 1 diabetes who receive CGM systems",
+      "kk": "НМГ жүйесі берілетін 1-типті диабеті бар балалардың жасы",
+      "de": "Altersspanne der Kinder mit Typ-1-Diabetes, die ein CGM-System erhalten",
+      "es": "Edad de los niños con diabetes tipo 1 que reciben sistemas MCG"
+     },
+     "v": {
+      "ru": "от 2 до 17 лет",
+      "en": "2 to 17 years",
+      "kk": "2-ден 17 жасқа дейін",
+      "de": "2 bis 17 Jahre",
+      "es": "de 2 a 17 años"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ndRND9vYz01",
+   "cat": "access",
+   "stage": "report",
+   "date": "2026-11-09",
+   "added": "2026-11-09T09:44:35.768Z",
+   "title": {
+    "ru": "В Ильинском пациент с диабетом не получал бесплатные лекарства",
+    "en": "In Ilyinsky, a patient with diabetes did not receive free medicines",
+    "kk": "Ильинский қаласында қант диабеті бар пациент тегін дәрілерді алмаған",
+    "de": "In Iljinski erhielt ein Diabetiker keine kostenlosen Medikamente",
+    "es": "En Ilínski, un paciente con diabetes no recibió medicamentos gratuitos"
+   },
+   "text": {
+    "ru": "Сообщение о пациенте с диабетом в Ильинском, который не получал бесплатные лекарства, положенные по программе льготного обеспечения.",
+    "en": "A report about a patient with diabetes in Ilyinsky who did not receive free medicines.",
+    "kk": "Ильинскідегі қант диабеті бар пациенттің тегін дәрілерді алмағаны туралы хабарлама.",
+    "de": "Bericht über einen Diabetiker in Iljinski, der keine kostenlosen Medikamente erhielt.",
+    "es": "Informe sobre un paciente con diabetes en Ilínski que no recibió medicamentos gratuitos."
+   },
+   "url": "https://permnews.ru/novosti/incidents/2026/11/09/_linskom_pacient_s_diabetom_ne_poluchal_besplatnye_lekarstva/",
+   "src": "PermNews.ru",
+   "photoQuery": "pharmacy shelves medicine boxes",
+   "local": true,
+   "photo": {
+    "id": "u_tvP6pCnq9iI",
+    "url": "https://images.unsplash.com/photo-1642055514517-7b52288890ec?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQyMTc0NzZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Árpád Czapp",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-room-filled-with-lots-of-shelves-filled-with-boxes-and-boxes-tvP6pCnq9iI?utm_source=dia_news&utm_medium=referral",
+    "alt": "a room filled with lots of shelves filled with boxes and boxes"
+   },
+   "bodyTries": 1
+  },
+  {
+   "id": "ndXUT9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T09:44:35.768Z",
+   "title": {
+    "ru": "Контролируйте свой диабет: бесплатная акция в городской поликлинике",
+    "en": "Control your diabetes: free event at the city polyclinic",
+    "kk": "Қант диабетін бақылаңыз: қалалық емханадағы тегін іс-шара",
+    "de": "Diabetes im Griff behalten: kostenlose Aktion in der städtischen Poliklinik",
+    "es": "Controle su diabetes: acción gratuita en el policlínico municipal"
+   },
+   "text": {
+    "ru": "В городской поликлинике проходит бесплатная акция для тех, кто хочет контролировать сахарный диабет.",
+    "en": "A free campaign at the city polyclinic is offered to people who want to keep their diabetes under control.",
+    "kk": "Қалалық емханада қант диабетін бақылағысы келетіндерге арналған тегін іс-шара өтуде.",
+    "de": "In der städtischen Poliklinik findet eine kostenlose Aktion für alle statt, die ihren Diabetes kontrollieren möchten.",
+    "es": "En el policlínico municipal se realiza una acción gratuita para quienes quieren controlar su diabetes."
+   },
+   "url": "https://zhodinonews.by/kontroliruyte-svoy-diabet-besplatnaya-aktsiya-v-gorodskoy-poliklinike/",
+   "src": "zhodinonews.by",
+   "photoQuery": "polyclinic reception desk",
+   "local": true,
+   "photo": {
+    "id": "u_nMyM7fxpokE",
+    "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cG9seWNsaW5pYyUyMHJlY2VwdGlvbiUyMGRlc2t8ZW58MXwwfHx8MTc5NDIxNzQ3N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Martha Dominguez de Gouveia",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/hospital-lobby-reception-with-signage-nMyM7fxpokE?utm_source=dia_news&utm_medium=referral",
+    "alt": "hospital lobby reception with signage"
+   },
+   "body": {
+    "ru": "С 9 по 13 ноября пациенты с сахарным диабетом могут в городской поликлинике бесплатно сдать анализ на гликированный гемоглобин. Об этом сообщила местная газета zhodinonews.by.\n\nАнализ показывает средний уровень сахара в крови за предыдущие три месяца. По словам издания, он помогает оценить, насколько эффективно работает лечение, и снизить риск осложнений.\n\nПроцедура проходит в кабинете № 220 поликлиники с 08:00 до 18:00. Направление и предварительная запись не нужны; достаточно взять с собой паспорт или медицинскую карту.\n\nСпециальная подготовка не требуется: сдавать кровь натощак необязательно. Прийти можно в любое удобное время в течение дня.\n\nВ публикации не сказано, сколько исследований доступно, и нет данных о дальнейших услугах после окончания акции, которая завершится 13 ноября.",
+    "en": "From 9 to 13 November, patients with diabetes can have a glycated haemoglobin test at the city polyclinic free of charge, according to the local newspaper zhodinonews.by.\n\nThe test reflects average blood sugar over the previous three months. The outlet notes that it can help show how well treatment is working and reduce the risk of complications.\n\nThe test is held in room 220 of the polyclinic, from 08:00 to 18:00. No referral or advance booking is needed; visitors should simply bring a passport or medical record.\n\nNo special preparation is required, and fasting before the blood draw is optional. People can come at any convenient time during the day.\n\nThe report does not say how many tests are available, nor does it describe any follow-up services after the campaign. The offer runs until 13 November.",
+    "kk": "9-дан 13 қарашаға дейін қант диабеті бар науқастар қалалық емханада гликирленген гемоглобинге талдауды тегін тапсыра алады. Бұл туралы жергілікті zhodinonews.by газеті хабарлады.\n\nТалдау соңғы үш айдағы қанның орташа қант деңгейін көрсетеді. Басылым мұның емнің қаншалықты тиімді жүріп жатқанын бағалауға және асқыну қаупін азайтуға көмектесетінін атап өтеді.\n\nТалдау емхананың 220-кабинетінде сағат 08:00-ден 18:00-ге дейін өткізіледі. Жолдама немесе алдын ала жазылу қажет емес; тек паспортты немесе медициналық картаны алып келу жеткілікті.\n\nАрнайы дайындық қажет емес, қанды аш қарынға тапсыру міндетті емес. Күн ішінде ыңғайлы кез келген уақытта келуге болады.\n\nХабарламада қанша тексеру қолжетімді екені және науқан аяқталғаннан кейінгі қосымша қызметтер туралы мәлімет жоқ. Акция 13 қарашаға дейін жалғасады.",
+    "de": "Vom 9. bis 13. November können Patientinnen und Patienten mit Diabetes in der städtischen Poliklinik kostenlos einen Test auf glykiertes Hämoglobin machen lassen. Darüber berichtete die lokale Zeitung zhodinonews.by.\n\nDer Test zeigt den durchschnittlichen Blutzuckerwert der vorangegangenen drei Monate. Laut dem Blatt kann er dabei helfen, einzuschätzen, wie gut die Behandlung wirkt, und das Risiko von Komplikationen verringern.\n\nDie Untersuchung findet im Raum 220 der Poliklinik von 08:00 bis 18:00 Uhr statt. Eine Überweisung oder eine vorherige Terminbuchung ist nicht nötig; mitgebracht werden sollten Reisepass oder Krankenakte.\n\nEine besondere Vorbereitung ist nicht erforderlich, nüchtern zur Blutabnahme zu erscheinen ist nicht vorgeschrieben. Man kann jederzeit im Laufe des Tages vorbeikommen.\n\nDer Bericht nennt keine Zahl verfügbarer Tests und beschreibt keine Nachsorgeangebote nach Ende der Aktion. Das Angebot läuft bis zum 13. November.",
+    "es": "Del 9 al 13 de noviembre, los pacientes con diabetes pueden hacerse gratis en la policlínica municipal una prueba de hemoglobina glicosilada, según informó el periódico local zhodinonews.by.\n\nLa prueba refleja el nivel medio de azúcar en sangre de los tres meses anteriores. El medio señala que puede ayudar a comprobar lo bien que funciona el tratamiento y a reducir el riesgo de complicaciones.\n\nEl análisis se realiza en el consultorio n.º 220 de la policlínica, de 08:00 a 18:00. No hace falta derivación ni cita previa; basta con llevar el pasaporte o la historia clínica.\n\nNo se requiere preparación especial, y acudir en ayunas a la extracción de sangre no es obligatorio. Se puede ir en cualquier momento cómodo del día.\n\nEl texto no indica cuántas pruebas hay disponibles ni describe servicios de seguimiento tras la campaña. La oferta se extiende hasta el 13 de noviembre."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Период акции",
+      "en": "Campaign dates",
+      "kk": "Науқан мерзімі",
+      "de": "Aktionszeitraum",
+      "es": "Fechas de la campaña"
+     },
+     "v": {
+      "ru": "с 9 по 13 ноября",
+      "en": "9–13 November",
+      "kk": "9–13 қараша",
+      "de": "9.–13. November",
+      "es": "9–13 de noviembre"
+     }
+    },
+    {
+     "k": {
+      "ru": "Время проведения анализа",
+      "en": "Testing hours",
+      "kk": "Талдау уақыты",
+      "de": "Testzeiten",
+      "es": "Horario de la prueba"
+     },
+     "v": {
+      "ru": "08:00–18:00",
+      "en": "08:00–18:00",
+      "kk": "08:00–18:00",
+      "de": "08:00–18:00",
+      "es": "08:00–18:00"
+     }
+    }
+   ]
+  },
   {
    "id": "nNZdz9vYz01",
    "cat": "research",
@@ -274,7 +456,8 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/rows-of-empty-blue-theater-seats-in-dim-lighting-5nGCyV51P60?utm_source=dia_news&utm_medium=referral",
     "alt": "Rows of empty blue theater seats in dim lighting"
-   }
+   },
+   "bodyTried": true
   },
   {
    "id": "nTXc_b2M9NQ",
@@ -675,6 +858,14 @@ const DIA_NEWS={
     "kk": "Қазинформ диабеті бар адамдардың аяқ денсаулығын сақтау туралы Алматы қаласы қалалық клиникалық аурухана № 7-нің инфекциялық хирургия бөлімін меңгерушісі, дәрігер-хирург Толейгуль Искақованың сұхбатын жариялады. Оның айтуынша, аяқты күнде күту және дәрігерге уақытылы жүгіну диабеттің ауыр асқынуларының алдын алуға көмектеседі.\n\nМаманның айтуынша, ауырсынудың болмауы аяқ жақсы екенін білдірмейді. Ол әр күні аяқты, соның ішінде табанды және саусақ аралықтарын тексеруге кеңес береді, сонда мәселе ерте байқалады. Сезімталдық төмендегендіктен адам күйікті де байқамауы мүмкін, сондықтан аяқты буландырмау, ыстық суды қолданбау және сүйелдерді өз бетімен кеспеу керек.\n\nХирургтың айтуынша, жарада оның жағдайын, аяқтың қан айналымын және инфекцияның бар-жоғын уақытылы бағалау маңызды. Кейде бір таңу жеткіліксіз: емдеу кешенді болуы және зақымданған табанға жүктемені азайту қажет болуы мүмкін. Жара жазылғаннан кейін де қайта зақымдану қаупі сақталады.\n\nМақалада дәрігерлердің тізе буынын және аяқ-қолдың тірек қызметін сақтап, жараларды жазуға қол жеткізгені де айтылған. Искақова әр күнгі аяқ тексеру, дұрыс аяқ киім және маманға тұрақты бару әр диабет пациентінің әдетіне айналуы керек дейді. Кез келген жараны, жаралы немесе ашылған көпіршікті сол күні маманға көрсету керек; уақытылы көмек аяқты және еркін қозғалу мүмкіндігін сақтауға көмектесуі мүмкін.",
     "de": "Kazinform hat ein Interview mit Toleigul Iskakova veröffentlicht, einer Chirurgin, die die Abteilung für Infektionschirurgie am Städtischen Klinikum Nr. 7 in Almaty leitet. Thema sind Maßnahmen zum Erhalt der Gesundheit der Füße bei Diabetes. Ihre Kernbotschaft: Tägliche Fußpflege und ein rechtzeitiger Arztbesuch helfen, schwere Komplikationen der Krankheit zu verhindern.\n\nFehlende Schmerzen bedeuten nicht, dass alles in Ordnung ist, betont die Ärztin. Sie empfiehlt, die Füße täglich zu untersuchen, einschließlich der Sohlen und der Zwischenräume zwischen den Zehen, damit Probleme früh auffallen. Weil das Empfinden vermindert sein kann, fällt selbst eine Verbrennung unter Umständen nicht auf; deshalb rät sie davon ab, die Füße einzuweichen, heißes Wasser zu verwenden oder Hornhaut selbst abzuschneiden.\n\nBei einer Wunde sei es wichtig, deren Zustand, die Durchblutung des Beins und mögliche Infektionen rechtzeitig zu beurteilen. Manchmal reicht ein einzelner Verband nicht aus; die Heilung kann eine komplexe Behandlung und eine Entlastung des betroffenen Fußes erfordern. Auch nach dem Abheilen eines Geschwürs bleibt das Risiko einer erneuten Verletzung bestehen.\n\nDer Artikel erwähnt außerdem, dass Ärzte ein Kniegelenk sowie die Belastbarkeit einer Gliedmaße erhalten und Geschwüre zur Heilung bringen konnten. Tägliche Fußkontrollen, passendes Schuhwerk und regelmäßige Betreuung durch Fachleute sollten nach Iskakovas Worten zur Gewohnheit jedes Patienten mit Diabetes werden. Jede kleine Wunde, jedes Geschwür oder eine geöffnete Blase sollte am selben Tag einem Facharzt gezeigt werden, denn rechtzeitige Hilfe kann helfen, das Bein und die Beweglichkeit zu erhalten.",
     "es": "Kazinform publicó una entrevista con Toleigul Iskakova, cirujana que dirige el departamento de cirugía infecciosa del Hospital Clínico Municipal n.º 7 de Almaty, sobre cómo conservar la salud de los pies en personas con diabetes. Su mensaje central es que el cuidado diario de los pies y acudir al médico a tiempo ayudan a prevenir complicaciones graves de la enfermedad.\n\nSegún la especialista, la ausencia de dolor no significa que todo esté bien. Recomienda revisar los pies a diario, incluidas las plantas y los espacios entre los dedos, para detectar los problemas en una etapa temprana. Como la sensibilidad puede estar disminuida, una persona podría no notar ni siquiera una quemadura; por eso aconseja no remojar los pies, no usar agua caliente y no cortarse los callos por cuenta propia.\n\nCuando hay una herida, dice, es clave evaluar a tiempo su estado, el riego sanguíneo de la pierna y la presencia de infección. A veces un solo vendaje no basta: la curación puede requerir un tratamiento complejo y reducir la carga sobre el pie afectado. Incluso después de que una úlcera cicatriza, persiste el riesgo de una nueva lesión.\n\nEl artículo también menciona que los médicos lograron conservar una articulación de la rodilla y la función de apoyo de una extremidad, además de curar úlceras. Iskakova afirma que revisar los pies cada día, usar calzado adecuado y acudir con regularidad al especialista deben convertirse en un hábito para cada paciente con diabetes. Cualquier herida, úlcera o ampolla abierta debe mostrarse al especialista el mismo día, porque la atención oportuna puede ayudar a conservar la extremidad y la capacidad de moverse libremente."
+   },
+   "photo": {
+    "id": "u_xoWNIXzULMs",
+    "url": "https://images.unsplash.com/photo-1605522283494-4901a98d458e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGhlYWx0aHklMjBicmVha2Zhc3QlMjB2ZWdldGFibGVzfGVufDF8MHx8fDE3OTQyMTc0Nzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "THLT LCX",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/sliced-vegetables-on-brown-wooden-chopping-board-xoWNIXzULMs?utm_source=dia_news&utm_medium=referral",
+    "alt": "sliced vegetables on brown wooden chopping board"
    }
   },
   {
@@ -1334,7 +1525,15 @@ const DIA_NEWS={
       "es": "Blagoveshchensk, cerca del edificio del Tribunal de Arbitraje de la región de Amur"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_KDsgJ7IGZy8",
+    "url": "https://images.unsplash.com/photo-1758229561242-9b9f1c1a00f7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTJ8fHdpbnRlciUyMHNub3dmYWxsJTIwY2l0eSUyMHN0cmVldHxlbnwxfDB8fHwxNzk0MjE3NDc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Clay LeConey",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/christmas-tree-on-snowy-city-street-with-buildings-KDsgJ7IGZy8?utm_source=dia_news&utm_medium=referral",
+    "alt": "Christmas tree on snowy city street with buildings"
+   }
   },
   {
    "id": "njNjP29jPTU",
@@ -1820,7 +2019,15 @@ const DIA_NEWS={
       "es": "374"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_INQlYgeCtcA",
+    "url": "https://images.unsplash.com/photo-1638859471856-c6793be39109?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8Zm9vdCUyMGNhcmUlMjBjcmVhbSUyMHRvd2VsfGVufDF8MHx8fDE3OTQyMTc0Nzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "C WC",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-laying-on-a-towel-next-to-a-jar-of-cream-INQlYgeCtcA?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person laying on a towel next to a jar of cream"
+   }
   },
   {
    "id": "nJsUT9vYz01",
@@ -1869,7 +2076,15 @@ const DIA_NEWS={
       "es": "8 de noviembre de 2026"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_7n2suA0AmjY",
+    "url": "https://images.unsplash.com/photo-1777805865927-a6ee4c4eacb1?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMGNsaXBib2FyZCUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sasun Bughdaryan",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/clipboard-with-stethoscope-on-a-brown-background-7n2suA0AmjY?utm_source=dia_news&utm_medium=referral",
+    "alt": "Clipboard with stethoscope on a brown background"
+   }
   },
   {
    "id": "nSGM_b2M9NQ",
@@ -1959,112 +2174,6 @@ const DIA_NEWS={
      }
     }
    ]
-  },
-  {
-   "id": "nTBNP29jPTU",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-08",
-   "added": "2026-11-08T12:48:49.190Z",
-   "title": {
-    "ru": "Уход при диабетических осложнениях выходит за рамки глюкозы: приоритет уязвимости органов",
-    "en": "Diabetes complication care expands beyond glucose to prioritise organ vulnerability",
-    "kk": "Диабеттің асқынуларына күтім глюкозадан тыс кеңейіп, ағзалардың осалдығына басымдық беріледі",
-    "de": "Versorgung diabetischer Komplikationen geht über Glukose hinaus und priorisiert die Verwundbarkeit der Organe",
-    "es": "La atención a las complicaciones de la diabetes va más allá de la glucosa y prioriza la vulnerabilidad de los órganos"
-   },
-   "text": {
-    "ru": "Подход к осложнениям диабета смещается от контроля глюкозы к учёту уязвимости и устойчивости органов.",
-    "en": "The approach to diabetes complications is shifting from glucose control toward considering organ vulnerability and durability.",
-    "kk": "Диабеттің асқынуларына қарау тәсілі глюкозаны бақылаудан ағзалардың осалдығы мен беріктігін ескеруге ауысып жатыр.",
-    "de": "Der Umgang mit diabetischen Komplikationen verlagert sich von der Glukosekontrolle hin zur Berücksichtigung der Verwundbarkeit und Belastbarkeit der Organe.",
-    "es": "El enfoque de las complicaciones de la diabetes pasa del control de la glucosa a considerar la vulnerabilidad y la durabilidad de los órganos."
-   },
-   "url": "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
-   "src": "Bioengineer.org",
-   "photoQuery": "blood glucose meter testing",
-   "photo": {
-    "id": "u_ZJaK9jQXeDA",
-    "url": "https://images.unsplash.com/photo-1624454002429-40ed87a5ec04?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBnbHVjb3NlJTIwbWV0ZXIlMjB0ZXN0aW5nfGVufDF8MHx8fDE3OTQxNDY1MjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Towfiqu barbhuiya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=dia_news&utm_medium=referral",
-    "alt": "white digital device beside white pen"
-   },
-   "body": {
-    "ru": "8 ноября 2026 года Bioengineer.org сообщил о критическом нарративном обзоре, опубликованном в журнале Endocrinology, Diabetes & Metabolism. Авторы утверждают, что помощь при диабете 2 типа должна выходить за рамки глюкозы и учитывать уязвимость органов, долговечность лечения и немедленную безопасность. По их мнению, гликированный гемоглобин остаётся полезным, но не способен показать полный будущий риск осложнений.\n\nПрошлые исследования сформировали эту точку зрения. Исследование ACCORD было досрочно остановлено из-за роста смертности при стремлении к почти нормальному HbA1c, а ADVANCE в основном показал пользу для почек. Более новые исследования исходов выявили, что некоторые ингибиторы SGLT2 и препараты на основе ГПП-1 защищают органы и помимо снижения глюкозы. В исследовании FLOW семаглутид снизил относительный риск основной почечной конечной точки на 24% у людей с диабетом 2 типа и хронической болезнью почек.\n\nОбзор также отделяет доказанные исходы от более слабых данных. В SURPASS-CVOT тирзепатид соответствовал по непроигрышности дулаглутиду по большим нежелательным сердечно-сосудистым событиям, но превосходство не было доказано. Улучшения ткани печени в SYNERGY-NASH и ESSENCE пока не доказывают предотвращение печёночной недостаточности или рака печени; в ESSENCE разрешение стеатогепатита достигло 62,9% против 34,3%.\n\nДля принятия решений авторы предлагают пятиуровневую иерархию приоритетов. На первом месте стоит немедленная безопасность, включая тяжёлую гипогликемию, острое снижение функции почек и выраженную немощность. Далее идут установленное поражение органов, затем остаточные риски, такие как артериальное давление, липиды и курение. Последние уровни касаются долговечности лечения, возможностей пациента и поддержки системы здравоохранения; предпочтение отдаётся наименее обременительному эффективному режиму.\n\nРабота представляет собой нарративный обзор литературы, поиск по которой велся до июля 2026 года, с обновлённым отбором до сентября 2026 года. Иерархия является генерирующей гипотезы структурой, не прошедшей внешней валидации, и не заменяет инструменты вроде SCORE2-Diabetes. Доказательства остаются специфичными для конкретных препаратов, популяций и конечных точек. Дальнейшие исследования должны добиться консенсуса и проверить эти идеи в проспективных и кластерных рандомизированных испытаниях.",
-    "en": "On November 8, 2026, Bioengineer.org covered a critical narrative review in Endocrinology, Diabetes & Metabolism. It argues that type 2 diabetes care should look beyond blood glucose and weigh organ vulnerability, treatment durability and immediate safety. The authors say HbA1c remains useful but cannot show full future complication risk.\n\nPast trials shaped this view. ACCORD was stopped early because of higher mortality when pursuing near-normal HbA1c, and ADVANCE mainly showed kidney benefits. Newer outcome studies found that some SGLT2 inhibitors and GLP-1-based drugs protect organs beyond their glucose-lowering effect. In FLOW, semaglutide cut the relative risk of a major kidney endpoint by 24% in people with type 2 diabetes and chronic kidney disease.\n\nThe review also separates proven outcomes from weaker evidence. In SURPASS-CVOT, tirzepatide met noninferiority against dulaglutide for major cardiovascular events but did not prove superiority. Liver tissue improvements in SYNERGY-NASH and ESSENCE do not yet show prevention of liver failure or liver cancer; in ESSENCE, steatohepatitis resolution reached 62.9% compared with 34.3%.\n\nTo guide decisions, the authors propose a five-level priority hierarchy. Immediate safety comes first, including severe hypoglycaemia, acute kidney decline and extreme frailty. Established organ disease follows, then residual risks such as blood pressure, lipids and smoking. The final levels cover durability, patient capacity and health-system support, favouring the least burdensome effective regimen.\n\nThe work is a narrative synthesis of literature searched through July 2026, with an updated screen through September 2026. The hierarchy is a hypothesis-generating framework, not externally validated, and does not replace tools such as SCORE2-Diabetes. Evidence remains specific to particular drugs, populations and endpoints. Future studies should build consensus and test these ideas in prospective and cluster-randomised trials.",
-    "kk": "2026 жылдың 8 қарашасында Bioengineer.org Endocrinology, Diabetes & Metabolism журналында жарияланған сыни нарративтік шолу туралы хабарлады. Авторлар 2 типті диабетпен ауыратындарға көмек тек қандағы глюкозамен шектелмей, ағзалардың осалдығын, емнің ұзақ уақыт тиімділігін және бірден пайда болатын қауіпсіздікті де ескеруі керек деп санайды. Олардың пікірінше, HbA1c пайдалы күйінде қалады, бірақ болашақтағы асқыну қаупінің толық көрінісін бере алмайды.\n\nБұрынғы зерттеулер бұл көзқарасты қалыптастырған. ACCORD зерттеуі HbA1c мәнін қалыпты деңгейге жақын ұстауды көздегенде өлім-жітімнің артуына байланысты мерзімінен бұрын тоқтатылды, ал ADVANCE негізінен бүйрек пайдасын көрсетті. Жаңа нәтижелер зерттеулері кейбір SGLT2 ингибиторлары мен GLP-1 негізіндегі препараттардың глюкозаны төмендетудің сыртында да ағзаларды қорғайтынын анықтады. FLOW зерттеуінде семаглутид 2 типті қант диабеті және созылмалы бүйрек ауруы бар адамдарда бүйрекке қатысты негізгі композиттік нүктенің салыстырмалы қаупін 24%-ға төмендетті.\n\nШолу сонымен қатар дәлелденген нәтижелер мен әлсіз дәлелдерді ажыратады. SURPASS-CVOT зерттеуінде тирзепатид дулаглутидпен салыстырғанда ірі жағымсыз жүрек-қан тамыр оқиғаларында инфериорлы емес екені дәлелденді, бірақ басымдылығы көрсетілмеді. SYNERGY-NASH және ESSENCE зерттеулеріндегі бауыр тінінің гистологиялық жақсаруы әлі бауыр жеткіліксіздігі немесе бауыр обырының алдын алуды дәлелдемейді; ESSENCE-те стеатогепатиттің жазылуы 62,9% және 34,3% болды.\n\nШешім қабылдауға көмектесу үшін авторлар бес деңгейлі басымдық иерархиясын ұсынады. Алдымен бірден пайда болатын қауіпсіздік тұрады, оның ішінде ауыр гипогликемия, жедел бүйрек функциясының төмендеуі және аса әлсіздік. Одан кейін қалыптасқан ағза ауруы, содан кейін қан қысымы, липидтер және темекі шегу сияқты қалдық өзгертілетін қауіптер келеді. Соңғы деңгейлер емнің ұзақ тиімділігін, пациенттің мүмкіндіктерін және денсаулық сақтау жүйесінің қолдауын қамтиды; ең аз ауыртпалық салатын тиімді режім таңдалады.\n\nЖұмыс 2026 жылдың шілдесіне дейін іздестірілген әдебиеттердің нарративтік синтезі болып табылады, ал 2026 жылдың қыркүйегіне дейін жаңартылған сұрыптау жүргізілген. Иерархия гипотеза туғызатын құрылым болып табылады, сыртқы валидациядан өтпеген, және SCORE2-Diabetes сияқты құралдарды алмастырмайды. Дәлелдер нақты препараттарға, популяцияларға және соңғы нүктелерге қатысты күйінде қалады. Болашақ зерттеулер халықаралық консенсусқа қол жеткізіп, бұл идеяларды болашаққа бағытталған және кластерлік рандомизацияланған сынақтарда тексеруі керек.",
-    "de": "Am 8. November 2026 berichtete Bioengineer.org über eine kritische narrative Übersichtsarbeit in Endocrinology, Diabetes & Metabolism. Sie argumentiert, dass die Versorgung bei Typ-2-Diabetes über den Blutzucker hinausgehen und Organgefährdung, Dauerhaftigkeit der Behandlung und unmittelbare Sicherheit berücksichtigen sollte. Die Autoren betonen, dass HbA1c nützlich bleibt, das gesamte künftige Komplikationsrisiko aber nicht abbilden kann.\n\nFrühere Studien haben diese Sicht geprägt. Die ACCORD-Studie wurde wegen erhöhter Sterblichkeit vorzeitig beendet, als ein nahezu normaler HbA1c angestrebt wurde, und ADVANCE zeigte vor allem Nierenvorteile. Neuere Outcome-Studien ergaben, dass manche SGLT2-Hemmer und GLP-1-basierte Wirkstoffe Organe auch unabhängig von der Blutzuckersenkung schützen. In FLOW senkte Semaglutid das relative Risiko eines wichtigen renalen Kompositendpunkts bei Menschen mit Typ-2-Diabetes und chronischer Nierenerkrankung um 24 Prozent.\n\nDie Übersicht trennt zudem belegte Ergebnisse von schwächeren Evidenzen. Tirzepatid erfüllte in SURPASS-CVOT gegenüber Dulaglutid die Nicht-Unterlegenheit bei schweren kardiovaskulären Ereignissen, zeigte aber keine Überlegenheit. Verbesserungen der Lebergewebe-Histologie in SYNERGY-NASH und ESSENCE belegen noch nicht die Vorbeugung von Leberversagen oder Leberkrebs; in ESSENCE erreichte die Rückbildung der Steatohepatitis 62,9 Prozent gegenüber 34,3 Prozent.\n\nZur Entscheidungshilfe schlagen die Autoren eine fünfstufige Prioritätenhierarchie vor. Zuerst kommt die unmittelbare Sicherheit, etwa bei schwerer Hypoglykämie, akutem Nierenfunktionsverlust und ausgeprägter Gebrechlichkeit. Es folgen bestehende Organerkrankungen, dann verbleibende Risiken wie Blutdruck, Lipide und Rauchen. Die letzten Stufen betreffen Dauerhaftigkeit der Behandlung, Patientenkapazität und Unterstützung des Gesundheitssystems; bevorzugt wird die am wenigsten belastende wirksame Therapie.\n\nDie Arbeit ist eine narrative Synthese der Literatur, deren Suche bis Juli 2026 lief, mit einer aktualisierten Sichtung bis September 2026. Die Hierarchie ist ein hypothesengenerierendes Rahmenwerk, nicht extern validiert, und ersetzt keine Instrumente wie SCORE2-Diabetes. Die Evidenz bleibt auf bestimmte Wirkstoffe, Populationen und Endpunkte beschränkt. Künftige Studien sollten einen internationalen Konsens schaffen und diese Ideen in prospektiven und cluster-randomisierten Studien prüfen.",
-    "es": "El 8 de noviembre de 2026, Bioengineer.org informó sobre una revisión narrativa crítica publicada en Endocrinology, Diabetes & Metabolism. Sus autores sostienen que la atención de la diabetes tipo 2 debe ir más allá de la glucosa y tener en cuenta la vulnerabilidad de los órganos, la durabilidad del tratamiento y la seguridad inmediata. Señalan que la HbA1c sigue siendo útil, pero no puede mostrar todo el riesgo futuro de complicaciones.\n\nEnsayos anteriores dieron forma a esta visión. El estudio ACCORD se detuvo antes de tiempo por el aumento de la mortalidad al buscar una HbA1c casi normal, y ADVANCE mostró sobre todo beneficios renales. Estudios de resultados más recientes hallaron que algunos inhibidores de SGLT2 y fármacos basados en GLP-1 protegen órganos más allá de su efecto sobre la glucosa. En FLOW, la semaglutida redujo en un 24% el riesgo relativo de un criterio compuesto renal importante en personas con diabetes tipo 2 y enfermedad renal crónica.\n\nLa revisión también separa los resultados probados de las pruebas más débiles. En SURPASS-CVOT, tirzepatida cumplió la no inferioridad frente a dulaglutida en eventos cardiovasculares adversos mayores, pero no demostró superioridad. Las mejoras histológicas hepáticas en SYNERGY-NASH y ESSENCE aún no demuestran la prevención de insuficiencia hepática o cáncer de hígado; en ESSENCE, la resolución de la esteatohepatitis alcanzó el 62,9% frente al 34,3%.\n\nPara orientar las decisiones, los autores proponen una jerarquía de prioridades de cinco niveles. En primer lugar está la seguridad inmediata, como la hipoglucemia grave, el deterioro renal agudo y la fragilidad extrema. Después viene la enfermedad orgánica establecida y luego los riesgos residuales modificables, como la presión arterial, los lípidos y el tabaquismo. Los últimos niveles abarcan la durabilidad del tratamiento, la capacidad del paciente y el apoyo del sistema sanitario, y favorecen el régimen eficaz menos gravoso.\n\nEl trabajo es una síntesis narrativa de la literatura, con búsquedas hasta julio de 2026 y una revisión actualizada hasta septiembre de 2026. La jerarquía es un marco que genera hipótesis, no validado externamente, y no reemplaza herramientas como SCORE2-Diabetes. La evidencia sigue siendo específica de determinados fármacos, poblaciones y criterios de valoración. Los estudios futuros deberían lograr un consenso internacional y probar estas ideas en cohortes prospectivas y ensayos aleatorizados por conglomerados."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Снижение относительного риска композитной почечной конечной точки (FLOW, семаглутид)",
-      "en": "Relative risk reduction in composite major kidney endpoint (FLOW, semaglutide)",
-      "kk": "Бүйрекке қатысты композиттік негізгі нүктедегі салыстырмалы қаупінің төмендеуі (FLOW, семаглутид)",
-      "de": "Reduktion des relativen Risikos im renalen Kompositendpunkt (FLOW, Semaglutid)",
-      "es": "Reducción del riesgo relativo en el criterio compuesto renal principal (FLOW, semaglutida)"
-     },
-     "v": {
-      "ru": "на 24%",
-      "en": "24%",
-      "kk": "24%",
-      "de": "24 Prozent",
-      "es": "24%"
-     }
-    },
-    {
-     "k": {
-      "ru": "Разрешение стеатогепатита (ESSENCE, семаглутид 2,4 мг раз в неделю)",
-      "en": "Steatohepatitis resolution (ESSENCE, semaglutide 2.4 mg weekly)",
-      "kk": "Стеатогепатиттің жазылуы (ESSENCE, семаглутид 2,4 мг аптасына бір рет)",
-      "de": "Rückbildung der Steatohepatitis (ESSENCE, Semaglutid 2,4 mg wöchentlich)",
-      "es": "Resolución de la esteatohepatitis (ESSENCE, semaglutida 2,4 mg semanal)"
-     },
-     "v": {
-      "ru": "62,9% против 34,3%",
-      "en": "62.9% vs 34.3%",
-      "kk": "62,9% және 34,3%",
-      "de": "62,9 % gegenüber 34,3 %",
-      "es": "62,9% frente a 34,3%"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nVuYz9vYz01",
-   "cat": "events",
-   "stage": "campaign",
-   "date": "2026-11-07",
-   "added": "2026-11-09T08:39:20.364Z",
-   "title": {
-    "ru": "Врачи Кубани проведут бесплатные обследования для снижения риска диабета",
-    "en": "Kuban doctors to offer free screenings to reduce diabetes risk",
-    "kk": "Кубань дәрігерлері қант диабеті қаупін азайту үшін тегін тексерулер өткізеді",
-    "de": "Ärzte in Kuban bieten kostenlose Untersuchungen zur Senkung des Diabetesrisikos an",
-    "es": "Médicos de Kubán realizarán exámenes gratuitos para reducir el riesgo de diabetes"
-   },
-   "text": {
-    "ru": "В Краснодарском крае врачи проведут бесплатные обследования, направленные на профилактику диабета.",
-    "en": "Doctors in Krasnodar Krai will hold free screenings aimed at preventing diabetes.",
-    "kk": "Краснодар өлкесінде дәрігерлер қант диабетінің алдын алуға бағытталған тегін тексерулер өткізеді.",
-    "de": "Ärzte in der Region Krasnodar bieten kostenlose Untersuchungen zur Diabetesvorbeugung an.",
-    "es": "Los médicos de la región de Krasnodar realizarán exámenes gratuitos para la prevención de la diabetes."
-   },
-   "url": "https://kuban.bfm.ru/news/64712",
-   "src": "BFM Кубань",
-   "photoQuery": "blood glucose test kit",
-   "local": true,
-   "photo": {
-    "id": "u_IQAGcyw4zns",
-    "url": "https://images.unsplash.com/photo-1773730356782-e3044e73cf6f?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk0MjEzNTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Liam Scotchmer",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/rows-of-empty-orange-theater-seats-IQAGcyw4zns?utm_source=dia_news&utm_medium=referral",
-    "alt": "Rows of empty orange theater seats"
-   }
   },
   {
    "id": "cure-sana-up421",
@@ -2465,6 +2574,15 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://www.kp40.ru/news/society/150063/",
+  "почти 800 калужан с диабетом получили системы непрерывного мониторинга глюкозы",
+  "nearly 800 kaluga residents with diabetes received continuous glucose monitoring systems",
+  "https://permnews.ru/novosti/incidents/2026/11/09/_linskom_pacient_s_diabetom_ne_poluchal_besplatnye_lekarstva/",
+  "в ильинском пациент с диабетом не получал бесплатные лекарства",
+  "in ilyinsky a patient with diabetes did not receive free medicines",
+  "https://zhodinonews.by/kontroliruyte-svoy-diabet-besplatnaya-aktsiya-v-gorodskoy-poliklinike/",
+  "контролируйте свой диабет бесплатная акция в городской поликлинике",
+  "control your diabetes free event at the city polyclinic",
   "https://ua.news/ru/dovkolo-svitu/naukovtsi-viiavili-zviazok-bilka-miro1-z-insulinorezistentnistiu-sciencedaily",
   "ученые связали белок miro1 с инсулинорезистентностью",
   "scientists link miro1 protein to insulin resistance",
@@ -2561,12 +2679,6 @@ const DIA_NEWS={
   "https://bioengineer.org/study-tracks-us-deaths-listing-both-lung-cancer-and-diabetes-across-decades/",
   "исследование в сша за десятилетия фиксировались смерти с указанием и рака лёгких и диабета",
   "study tracks us deaths listing both lung cancer and diabetes across decades",
-  "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
-  "уход при диабетических осложнениях выходит за рамки глюкозы приоритет уязвимости органов",
-  "diabetes complication care expands beyond glucose to prioritise organ vulnerability",
-  "https://kuban.bfm.ru/news/64712",
-  "врачи кубани проведут бесплатные обследования для снижения риска диабета",
-  "kuban doctors to offer free screenings to reduce diabetes risk",
   "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
   "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
   "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
@@ -2582,6 +2694,12 @@ const DIA_NEWS={
   "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
   "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
   "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
+  "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
+  "уход при диабетических осложнениях выходит за рамки глюкозы приоритет уязвимости органов",
+  "diabetes complication care expands beyond glucose to prioritise organ vulnerability",
+  "https://kuban.bfm.ru/news/64712",
+  "врачи кубани проведут бесплатные обследования для снижения риска диабета",
+  "kuban doctors to offer free screenings to reduce diabetes risk",
   "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
   "российские вузы создают новые подходы к терапии сахарного диабета",
   "russian universities develop new approaches to diabetes therapy",
@@ -2678,10 +2796,206 @@ const DIA_NEWS={
  "events": [],
  "photoPool": {
   "date": "2026-11-09",
-  "cure": [],
-  "research": [],
-  "approval": [],
-  "devices": [],
+  "cure": [
+   {
+    "id": "u_aef71KyW0JI",
+    "url": "https://images.unsplash.com/photo-1619332624763-48cdc3d3d08a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "FlyD",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/red-and-white-heart-illustration-aef71KyW0JI?utm_source=dia_news&utm_medium=referral",
+    "alt": "red and white heart illustration"
+   },
+   {
+    "id": "u_NbZQYileaOI",
+    "url": "https://images.unsplash.com/photo-1631048005696-9d1148f0a932?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/green-plant-with-water-droplets-NbZQYileaOI?utm_source=dia_news&utm_medium=referral",
+    "alt": "green plant with water droplets"
+   },
+   {
+    "id": "u_W2OVh2w2Kpo",
+    "url": "https://images.unsplash.com/photo-1576086476234-1103be98f096?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/gree-fur-W2OVh2w2Kpo?utm_source=dia_news&utm_medium=referral",
+    "alt": "gree fur"
+   },
+   {
+    "id": "u_gs8Sy5sSATk",
+    "url": "https://images.unsplash.com/photo-1714845596452-21985ecc6dcc?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Bioscience Image Library by Fayette Reynolds",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/microscopic-view-of-plant-cells-with-nuclei-gs8Sy5sSATk?utm_source=dia_news&utm_medium=referral",
+    "alt": "Microscopic view of plant cells with nuclei"
+   },
+   {
+    "id": "u_-uAqulSLly0",
+    "url": "https://images.unsplash.com/photo-1629721270535-c67f2ab1243c?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "FlyD",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/blue-and-red-abstract-painting--uAqulSLly0?utm_source=dia_news&utm_medium=referral",
+    "alt": "blue and red abstract painting"
+   },
+   {
+    "id": "u_Hu2yPu0vFQ8",
+    "url": "https://images.unsplash.com/photo-1578308175084-0cfbca809d29?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "CDC",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/green-brown-and-white-textile-Hu2yPu0vFQ8?utm_source=dia_news&utm_medium=referral",
+    "alt": "green, brown, and white textile"
+   }
+  ],
+  "research": [
+   {
+    "id": "u__9xRHrMOjeg",
+    "url": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDIxNzQ3OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Trnava University",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/laboratory-workbench-with-microscope-and-equipment-_9xRHrMOjeg?utm_source=dia_news&utm_medium=referral",
+    "alt": "A laboratory workbench with a microscope and analytical equipment in a bright room"
+   },
+   {
+    "id": "u_Rl9bIWKCVF0",
+    "url": "https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDIxNzQ3OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Logan Gutierrez",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/meiji-techno-microscope-with-objective-lenses-Rl9bIWKCVF0?utm_source=dia_news&utm_medium=referral",
+    "alt": "A Meiji Techno microscope with multiple objective lenses above a black stage"
+   },
+   {
+    "id": "u__c70Nhh6p44",
+    "url": "https://images.unsplash.com/photo-1572884267966-02340ebc90ac?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDIxNzQ3OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Yassine Khalfalli",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-microscope-_c70Nhh6p44?utm_source=dia_news&utm_medium=referral",
+    "alt": "black microscope"
+   },
+   {
+    "id": "u_BQ95Oc7Nvvc",
+    "url": "https://images.unsplash.com/photo-1614308456595-a59d48697ea8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDIxNzQ3OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Logan Gutierrez",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-and-silver-espresso-machine-BQ95Oc7Nvvc?utm_source=dia_news&utm_medium=referral",
+    "alt": "black and silver espresso machine"
+   },
+   {
+    "id": "u_FUw4bGuv9X4",
+    "url": "https://images.unsplash.com/photo-1698808342955-500cb9b9a25e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDIxNzQ3OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Indra Projects",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-close-up-of-a-microscope-on-a-table-FUw4bGuv9X4?utm_source=dia_news&utm_medium=referral",
+    "alt": "a close up of a microscope on a table"
+   },
+   {
+    "id": "u_a_ldJ0EzbLI",
+    "url": "https://images.unsplash.com/photo-1698808342574-2dff997c9995?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGxhYm9yYXRvcnklMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Indra Projects",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-microscope-with-a-microscope-attached-to-it-a_ldJ0EzbLI?utm_source=dia_news&utm_medium=referral",
+    "alt": "a microscope with a microscope attached to it"
+   }
+  ],
+  "approval": [
+   {
+    "id": "u_yo01Z-9HQAw",
+    "url": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGRvY3VtZW50cyUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Hush Naidoo Jade Photography",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-and-gray-stethoscope-yo01Z-9HQAw?utm_source=dia_news&utm_medium=referral",
+    "alt": "black and gray stethoscope"
+   },
+   {
+    "id": "u_k7ll1hpdhFA",
+    "url": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGRvY3VtZW50cyUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Marcelo Leal",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA?utm_source=dia_news&utm_medium=referral",
+    "alt": "black stethoscope with brown leather case"
+   },
+   {
+    "id": "u_u2EjDa_hYJI",
+    "url": "https://images.unsplash.com/photo-1652787542567-f86c0b4c0269?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMGRvY3VtZW50cyUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Abdulai Sayni",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-notebook-with-a-stethoscope-on-top-of-it-next-to-a-laptop-u2EjDa_hYJI?utm_source=dia_news&utm_medium=referral",
+    "alt": "a notebook with a stethoscope on top of it next to a laptop"
+   },
+   {
+    "id": "u_en53Cos2qBA",
+    "url": "https://images.unsplash.com/photo-1652787545245-5e39748cdf97?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8bWVkaWNhbCUyMGRvY3VtZW50cyUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Abdulai Sayni",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/an-open-book-with-a-stethoscope-on-top-of-it-en53Cos2qBA?utm_source=dia_news&utm_medium=referral",
+    "alt": "an open book with a stethoscope on top of it"
+   },
+   {
+    "id": "u_EKPk2Z9G6CU",
+    "url": "https://images.unsplash.com/photo-1657028310103-f53dd49a856a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8bWVkaWNhbCUyMGRvY3VtZW50cyUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Markus Spiske",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-set-of-glasses-EKPk2Z9G6CU?utm_source=dia_news&utm_medium=referral",
+    "alt": "a set of glasses"
+   },
+   {
+    "id": "u_vT-Hkq0_FBU",
+    "url": "https://images.unsplash.com/photo-1676313496173-e3b325353087?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8bWVkaWNhbCUyMGRvY3VtZW50cyUyMHN0ZXRob3Njb3BlfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Bermix Studio",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-stethoscope-sitting-on-top-of-a-pile-of-books-vT-Hkq0_FBU?utm_source=dia_news&utm_medium=referral",
+    "alt": "a stethoscope sitting on top of a pile of books"
+   }
+  ],
+  "devices": [
+   {
+    "id": "u_s9TB1EbIhzs",
+    "url": "https://images.unsplash.com/photo-1685061269933-563cc709b973?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwc2Vuc29yfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "isens usa",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-thermometer-pills-and-a-bottle-on-a-table-s9TB1EbIhzs?utm_source=dia_news&utm_medium=referral",
+    "alt": "a thermometer, pills, and a bottle on a table"
+   },
+   {
+    "id": "u_QjdG8gM-8xc",
+    "url": "https://images.unsplash.com/photo-1685485276228-e7e75ceba593?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwc2Vuc29yfGVufDF8MHx8fDE3OTQyMTc0ODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "isens usa",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-digital-thermometer-on-a-tan-wall-QjdG8gM-8xc?utm_source=dia_news&utm_medium=referral",
+    "alt": "a digital thermometer on a tan wall"
+   },
+   {
+    "id": "u_TimPMb3Dtw8",
+    "url": "https://images.unsplash.com/photo-1625464734554-3c8722c477a5?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTN8fGNvbnRpbnVvdXMlMjBnbHVjb3NlJTIwbW9uaXRvciUyMHNlbnNvcnxlbnwxfDB8fHwxNzk0MjE3NDgwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Mastars",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-gray-pocket-wifi-TimPMb3Dtw8?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and gray pocket wifi"
+   },
+   {
+    "id": "u_bRwSHEONYdE",
+    "url": "https://images.unsplash.com/photo-1625464734815-25515279118d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MjB8fGNvbnRpbnVvdXMlMjBnbHVjb3NlJTIwbW9uaXRvciUyMHNlbnNvcnxlbnwxfDB8fHwxNzk0MjE3NDgwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Mastars",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-gray-wireless-router-bRwSHEONYdE?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and gray wireless router"
+   },
+   {
+    "id": "u_1qTTfXgM54c",
+    "url": "https://images.unsplash.com/photo-1744697311586-52d32d9c1974?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MjJ8fGNvbnRpbnVvdXMlMjBnbHVjb3NlJTIwbW9uaXRvciUyMHNlbnNvcnxlbnwxfDB8fHwxNzk0MjE3NDgwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Amanz",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/unboxing-of-a-product-with-its-accessories-1qTTfXgM54c?utm_source=dia_news&utm_medium=referral",
+    "alt": "Unboxing of a product with its accessories"
+   },
+   {
+    "id": "u_N2Vn7qS617g",
+    "url": "https://images.unsplash.com/photo-1599458253790-0a01413f6db9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MjN8fGNvbnRpbnVvdXMlMjBnbHVjb3NlJTIwbW9uaXRvciUyMHNlbnNvcnxlbnwxfDB8fHwxNzk0MjE3NDgwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Hitesh Dewasi",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/silver-and-black-digital-device-N2Vn7qS617g?utm_source=dia_news&utm_medium=referral",
+    "alt": "silver and black digital device"
+   }
+  ],
   "drugs": [],
   "access": [],
   "market": [],
