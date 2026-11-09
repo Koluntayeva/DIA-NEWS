@@ -7,8 +7,632 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-08T14:01:56.210Z",
+ "updated": "2026-11-09T03:02:09.070Z",
  "items": [
+  {
+   "id": "nFRBP29jPTU",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-09",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Препараты от ожирения и диабета могут защитить память и когнитивные функции мозга",
+    "en": "Obesity and diabetes drugs may protect memory and brain cognitive function",
+    "kk": "Семіздік пен диабетке арналған препараттар жадты және ми танымдық қызметін қорғауы мүмкін",
+    "de": "Medikamente gegen Adipositas und Diabetes könnten Gedächtnis und kognitive Funktionen des Gehirns schützen",
+    "es": "Los fármacos contra la obesidad y la diabetes podrían proteger la memoria y las funciones cognitivas del cerebro"
+   },
+   "text": {
+    "ru": "Согласно сообщению, препараты для лечения ожирения и диабета могут помогать защищать память и когнитивные функции мозга.",
+    "en": "According to the report, drugs used to treat obesity and diabetes may help protect memory and cognitive function in the brain.",
+    "kk": "Хабарламаға сәйкес, семіздік пен диабетті емдеуге арналған препараттар ми жадын және танымдық қызметін қорғауға көмектесуі мүмкін.",
+    "de": "Laut Bericht könnten Arzneimittel zur Behandlung von Adipositas und Diabetes helfen, Gedächtnis und kognitive Funktionen des Gehirns zu schützen.",
+    "es": "Según el informe, los fármacos para tratar la obesidad y la diabetes podrían ayudar a proteger la memoria y las funciones cognitivas del cerebro."
+   },
+   "url": "https://www.nur.kz/health/healthy-lifestyle/2453763-preparaty-ot-ozhireniya-i-diabeta-mogut-zashchitit-pamyat-i-kognitivnye-funkcii-mozga/",
+   "src": "NUR.KZ",
+   "photoQuery": "brain scan monitor",
+   "photo": {
+    "id": "u_Wl3hAbxMF80",
+    "url": "https://images.unsplash.com/photo-1758691462668-046fd85ceac9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGJyYWluJTIwc2NhbiUyMG1vbml0b3J8ZW58MXwwfHx8MTc5NDE5MzMyOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitaly Gariev",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-examining-brain-scan-on-tablet-at-desk-Wl3hAbxMF80?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor examining brain scan on tablet at desk"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года NUR.KZ сообщил о научном обзоре, согласно которому препараты, применяемые при диабете и ожирении, могут помочь сохранить память и внимание. Обзор подготовили исследователи Гетеборгского и Копенгагенского университетов, а итоги работы пересказал сайт News Medical. Популярные агонисты рецепторов GLP-1, в том числе семаглутид и тирзепатид, широко назначают при диабете второго типа и ожирении. При этом они действуют и на ключевые биологические процессы в центральной нервной системе.\n\nОпыты на животных показывают положительное влияние препаратов этого класса на память и способность к обучению. Данные о людях пока противоречивы. Анализ медицинских карт связал приём таких средств со снижением риска деменции у пациентов с диабетом второго типа, однако причинно-следственная связь не доказана. В испытаниях EVOKE и EVOKE+, которые проводила компания Novo Nordisk, семаглутид изменил биологические маркеры, но не замедлил прогрессирование ранней болезни Альцгеймера.\n\nАвторы считают, что препараты могут быть полезны и другим группам. Людям с метаболическими нарушениями и избыточным весом часто свойственны снижение концентрации, ухудшение планирования и замедление обработки информации. Ведущая автор работы Стина Берчерс отметила, что важно выяснить, сохраняет ли терапия когнитивные способности, если начать её до выраженных нарушений. Руководитель группы Кристоффер Клемменсен добавил, что разделение прямого и косвенного влияния лекарств на мозг поможет создать специализированные средства для защиты когнитивных функций.\n\nУчёные также призывают учитывать риск быстрой потери мышечной массы у пожилых людей. Редакция подчёркивает, что материал носит ознакомительный характер и не является руководством к действию. Семаглутид и другие препараты GLP-1 относятся к рецептурным лекарствам с широким списком противопоказаний и побочных эффектов, поэтому перед любым лечением нужна консультация врача.",
+    "en": "On November 9, 2026, NUR.KZ reported on a scientific review suggesting that drugs used for diabetes and obesity may help preserve memory and attention. The review was prepared by researchers from the University of Gothenburg and the University of Copenhagen, and News Medical relayed the findings. Popular GLP-1 receptor agonists, including semaglutide and tirzepatide, are widely prescribed for type 2 diabetes and obesity, yet they also act on key biological processes in the central nervous system.\n\nExperiments on animals show that this drug class has a positive effect on memory and learning ability. Evidence from people is less consistent. An analysis of patient records linked use of these medicines to a lower dementia risk among people with type 2 diabetes, but a direct cause-and-effect relationship has not been proven. In the EVOKE and EVOKE+ trials run by Novo Nordisk, semaglutide altered biological markers but did not slow the progression of early Alzheimer's disease.\n\nThe authors believe the drugs could still benefit other groups. People with metabolic disorders and excess weight often experience reduced concentration, poorer planning and slower information processing. Lead author Stina Berchers said it is important to find out whether treatment preserves cognitive abilities when started before marked impairment appears. Group leader Christoffer Clemmensen added that separating the drugs' direct and indirect effects on the brain could lead to specialized medicines for protecting cognitive function.\n\nScientists also urge attention to the risk of rapid muscle loss in older adults. The outlet stresses that the material is for information only and is not a guide to action. Semaglutide and other GLP-1 agonists are prescription medicines with a wide range of contraindications and side effects, so anyone considering treatment should consult a doctor first.",
+    "kk": "2026 жылдың 9 қарашасында NUR.KZ диабет пен семіздікке арналған дәрілердің есте сақтау мен зейінді сақтауға көмектесуі мүмкін екенін айтатын ғылыми шолу туралы хабарлады. Шолуды Гетеборг және Копенгаген университеттерінің зерттеушілері дайындады, ал нәтижелерді News Medical сайты жеткізді. GLP-1 рецепторлары агонистері, соның ішінде семаглутид пен тирзепатид, 2-типті қант диабеті мен семіздікті емдеуде кеңінен тағайындалады, сонымен бірге олар орталық жүйке жүйесіндегі негізгі биологиялық процестерге де әсер етеді.\n\nЖануарларға жасалған тәжірибелер осы дәрі тобының жадқа және оқу қабілетіне оң әсер ететінін көрсетеді. Адамдарға қатысты деректер бұлай біркелкі емес. Ауру тарихтарын талдау осы дәрілерді қабылдау 2-типті қант диабеті бар адамдарда деменция қаупінің төмендеуімен байланысты екенін көрсетті, бірақ тікелей себеп-салдарлық байланыс дәлелденбеген. Novo Nordisk компаниясы жүргізген EVOKE және EVOKE+ сынақтарында семаглутид биологиялық маркерлерді өзгертті, бірақ ерте Альцгеймер ауруының дамуын баяулатпады.\n\nАвторлардың пікірінше, дәрілер басқа топтар үшін де пайдалы болуы мүмкін. Метаболикалық бұзылыстары және артық салмағы бар адамдарда көбінесе зейіннің төмендеуі, жоспарлаудың нашарлауы және ақпаратты өңдеудің баяулауы байқалады. Жұмыстың жетекші авторы Стина Берчерс айтқандай, емдеу айқын бұзылыстар пайда болғанға дейін басталса, танымдық қабілеттерді сақтай ала ма, соны анықтау маңызды. Топ жетекшісі Кристоффер Клемменсен дәрілердің миға тікелей және жанама әсерлерін ажыратса, танымдық функцияларды қорғауға арналған арнайы дәрілер жасауға болатынын қосты.\n\nҒалымдар сонымен қатар үлкен жастағы адамдарда бұлшықет массасының тез жоғалу қаупіне назар аударуға шақырады. Басылым материалдың тек ақпараттық сипатта екенін және әрекетке арналған нұсқаулық емес екенін атап көрсетеді. Семаглутид пен басқа GLP-1 агонистері — қолдану көрсетімдері мен жанама әсерлері кең тізімі бар рецептілік дәрілер, сондықтан кез келген емнен бұрын дәрігерге хабарласу керек.",
+    "de": "Am 9. November 2026 berichtete NUR.KZ über einen wissenschaftlichen Übersichtsartikel, dem zufolge Medikamente gegen Diabetes und Adipositas dabei helfen könnten, Gedächtnis und Aufmerksamkeit zu schützen. Die Übersicht stammt von Forschern der Universität Göteborg und der Universität Kopenhagen, die Ergebnisse gab die Website News Medical weiter. Beliebte GLP-1-Rezeptoragonisten wie Semaglutid und Tirzepatid werden häufig bei Typ-2-Diabetes und Adipositas verschrieben, wirken aber auch auf zentrale biologische Prozesse im Nervensystem.\n\nTierversuche zeigen eine positive Wirkung dieser Wirkstoffklasse auf Gedächtnis und Lernfähigkeit. Die Datenlage beim Menschen ist dagegen uneinheitlich. Die Auswertung von Krankenakten brachte die Einnahme solcher Mittel mit einem geringeren Demenzrisiko bei Menschen mit Typ-2-Diabetes in Verbindung, ein direkter Ursache-Wirkungs-Zusammenhang ist jedoch nicht belegt. In den Studien EVOKE und EVOKE+ des Unternehmens Novo Nordisk veränderte Semaglutid biologische Marker, verlangsamte aber das Fortschreiten einer frühen Alzheimer-Erkrankung nicht.\n\nDie Autoren halten es für möglich, dass die Präparate auch anderen Gruppen nützen. Menschen mit Stoffwechselstörungen und Übergewicht leiden häufig unter nachlassender Konzentration, schlechterer Planung und langsamerer Informationsverarbeitung. Die leitende Autorin Stina Berchers erklärte, wichtig sei herauszufinden, ob eine Behandlung kognitive Fähigkeiten erhält, wenn sie vor deutlichen Beeinträchtigungen beginnt. Der Gruppenleiter Christoffer Clemmensen ergänzte, dass die Trennung direkter und indirekter Effekte auf das Gehirn zu gezielten Arzneimitteln zum Schutz der kognitiven Funktionen führen könnte.\n\nDie Forschenden verweisen außerdem auf das Risiko eines raschen Muskelabbaus bei älteren Menschen. Die Redaktion betont, dass der Beitrag nur informierenden Charakter hat und keine Handlungsanleitung ist. Semaglutid und andere GLP-1-Agonisten sind verschreibungspflichtige Medikamente mit einem breiten Spektrum an Gegenanzeigen und Nebenwirkungen, weshalb vor jeder Behandlung ärztlicher Rat eingeholt werden sollte.",
+    "es": "El 9 de noviembre de 2026, NUR.KZ informó sobre una revisión científica que sugiere que los fármacos usados para la diabetes y la obesidad podrían ayudar a preservar la memoria y la atención. La revisión fue elaborada por investigadores de las universidades de Gotemburgo y de Copenhague, y el sitio News Medical difundió los resultados. Los agonistas de los receptores GLP-1, como la semaglutida y la tirzepatida, se recetan ampliamente para la diabetes tipo 2 y la obesidad, pero también actúan sobre procesos biológicos clave del sistema nervioso central.\n\nLos experimentos con animales muestran un efecto positivo de esta clase de fármacos sobre la memoria y la capacidad de aprendizaje. La evidencia en personas es menos consistente. Un análisis de historiales clínicos relacionó el uso de estos medicamentos con un menor riesgo de demencia en personas con diabetes tipo 2, pero no se ha demostrado una relación directa de causa y efecto. En los ensayos EVOKE y EVOKE+, dirigidos por Novo Nordisk, la semaglutida modificó marcadores biológicos, pero no frenó la progresión de la enfermedad de Alzheimer temprana.\n\nLos autores consideran que los fármacos podrían beneficiar también a otros grupos. Las personas con trastornos metabólicos y exceso de peso suelen experimentar menor concentración, peor planificación y una velocidad más lenta para procesar información. La autora principal, Stina Berchers, señaló que es importante averiguar si el tratamiento conserva las capacidades cognitivas cuando se inicia antes de que aparezcan deterioros marcados. El líder del grupo, Christoffer Clemmensen, añadió que separar los efectos directos e indirectos de los fármacos sobre el cerebro permitiría crear medicamentos especializados para proteger la función cognitiva.\n\nLos científicos también piden prestar atención al riesgo de pérdida rápida de masa muscular en personas mayores. El medio subraya que el material es solo informativo y no es una guía de actuación. La semaglutida y otros agonistas GLP-1 son medicamentos de prescripción con numerosas contraindicaciones y efectos secundarios, por lo que cualquier persona que considere un tratamiento debe consultar antes a su médico."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Испытания EVOKE и EVOKE+ (Novo Nordisk)",
+      "en": "EVOKE and EVOKE+ trials (Novo Nordisk)",
+      "kk": "EVOKE және EVOKE+ сынақтары (Novo Nordisk)",
+      "de": "Studien EVOKE und EVOKE+ (Novo Nordisk)",
+      "es": "Ensayos EVOKE y EVOKE+ (Novo Nordisk)"
+     },
+     "v": {
+      "ru": "Семаглутид изменил биомаркеры, но не замедлил раннюю болезнь Альцгеймера",
+      "en": "Semaglutide changed biomarkers but did not slow early Alzheimer's disease",
+      "kk": "Семаглутид биомаркерлерді өзгертті, бірақ ерте Альцгеймер ауруын баяулатпады",
+      "de": "Semaglutid veränderte Biomarker, verlangsamte die frühe Alzheimer-Erkrankung jedoch nicht",
+      "es": "La semaglutida modificó biomarcadores, pero no frenó la enfermedad de Alzheimer temprana"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nRRUT9vYz01",
+   "cat": "access",
+   "date": "2026-11-09",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Диабетик из Казани купил лекарства дешевле за границей и был обвинён в контрабанде",
+    "en": "Diabetic from Kazan bought cheaper medicines abroad and was accused of smuggling",
+    "kk": "Қазаннан келген диабеттік адам дәрі-дәрмекті шетелде арзан сатып алды және контрабандада айыпталды",
+    "de": "Diabetiker aus Kasan kaufte Medikamente im Ausland günstiger und wurde des Schmuggels beschuldigt",
+    "es": "Un diabético de Kazán compró medicamentos más baratos en el extranjero y fue acusado de contrabando"
+   },
+   "text": {
+    "ru": "Житель Казани с диабетом привёз лекарства из-за границы, где они были дешевле, но его обвинили в контрабанде.",
+    "en": "A diabetic man from Kazan brought medicines from abroad, where they were cheaper, but was accused of smuggling.",
+    "kk": "Қазаннан келген диабеті бар адам дәрілерді шетелден әкелді, онда олар арзанырақ болған, бірақ оны контрабандада айыптады.",
+    "de": "Ein Diabetiker aus Kasan brachte Medikamente aus dem Ausland mit, wo sie günstiger waren, wurde aber des Schmuggels beschuldigt.",
+    "es": "Un hombre con diabetes de Kazán trajo medicamentos del extranjero, donde eran más baratos, pero fue acusado de contrabando."
+   },
+   "url": "https://116.ru/text/world/2026/11/09/76661508/",
+   "src": "116.ru",
+   "photoQuery": "insulin pen close-up",
+   "photo": {
+    "id": "u_S5y5jdRCCsk",
+    "url": "https://images.unsplash.com/photo-1745939931505-da371555a603?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQxOTMzMzB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/insulin-pen-and-its-packaging-are-shown-S5y5jdRCCsk?utm_source=dia_news&utm_medium=referral",
+    "alt": "Insulin pen and its packaging are shown"
+   },
+   "body": {
+    "ru": "Житель Казани Виталий Александров, которому 54 года, уже год пытается добиться справедливости после того, как на таможне на него завели дело о контрабанде. Он болеет диабетом второго типа с 2019 года, такой же диагноз у его мамы. Врачи назначили им препарат «Галвус Мет» по одной таблетке два раза в день. Мужчина рассказал изданию 116.RU, что 60 таблеток на месяц в России стоят почти 4 тысячи рублей, а в Турции — 850, поэтому он несколько раз привозил оттуда годовой запас для себя и мамы.\n\nВ октябре 2025 года он возвращался на машине с женой из Турции через Грузию и Верхний Ларс в Северной Осетии. При досмотре нашли 79 упаковок лекарств, включая несколько других препаратов для личного пользования, и на него составили два протокола о нарушениях. По его словам, в протоколе написано, что таблетки нашли в «тайнике», хотя видеозаписей такого изъятия нет. Кроме того, в материалах ошибочно указано, что лекарства купили в Грузии. По подсчётам таможни, речь шла о лекарствах на 600 евро и 8 килограммах. Пару, по его словам, продержали девять часов, с двух дня до одиннадцати вечера, препарат изъяли, а он подписал бумаги, на одной странице которых оказалось признание вины и указание на коммерческую цель.\n\nДело прошло через несколько инстанций. Советский суд Владикавказа признал его виновным. Верховный суд отменил решение и вернул дело на новое рассмотрение, однако нижестоящий суд вынес такой же приговор. После этого Александров подал жалобы в транспортную прокуратуру и Генеральную прокуратуру. Служебная проверка привела к дисциплинарному наказанию старшего инспектора за отсутствие записи видеорегистратора. Сам мужчина предполагает, что таможенники составили материалы, чтобы получить взятку.\n\nОн требует полной реабилитации и увольнения сотрудников таможни. В опубликованной части статьи окончательное решение по делу не упоминается.",
+    "en": "Vitaly Alexandrov, a 54-year-old resident of Kazan, has spent a year trying to clear his name after a smuggling case was opened against him at a customs checkpoint. He has had type 2 diabetes since 2019, and his mother has the same diagnosis. Their doctors prescribed Galvus Met, one tablet twice a day. He told 116.RU that 60 tablets, enough for a month, cost almost 4,000 rubles in Russia but 850 in Turkey, which is why he had brought back a year's supply for himself and his mother several times.\n\nIn October 2025, he was driving home with his wife from Turkey via Georgia and the Verkhny Lars crossing in North Ossetia. Officers found 79 packs of medicine, including several other drugs for personal use, and drew up two administrative protocols against him. By his account, the paperwork claims the tablets were found in a hidden compartment, although no video of such a seizure exists. The file also wrongly states the medicines were bought in Georgia. According to the customs figures, the goods were worth 600 euros and weighed 8 kilograms. He says the couple was held for nine hours, from 2 p.m. to 11 p.m., his medication was seized, and he signed documents that, on one page, recorded an admission of guilt and a commercial purpose.\n\nThe case went through several courts. The Sovetsky court in Vladikavkaz found him guilty. The Supreme Court overturned that ruling and sent the case back, but the lower court issued the same verdict again. Alexandrov then filed complaints with the transport prosecutor's office and the General Prosecutor's Office. An internal inquiry led to disciplinary action against a senior customs inspector for the missing dashcam footage. Alexandrov suspects the officers drew up the charges in order to extract a bribe.\n\nHe wants full rehabilitation and the dismissal of the customs officers involved. The published part of the article does not report a final court decision.",
+    "kk": "Қазанның 54 жastaғы тұрғыны Виталий Александров кедендік бекетте оған контрабанда ісі ашылғаннан бері бір жыл бойы атын ақтауға тырысып келеді. Ол 2019 жылдан бері 2-типті қант диабетімен ауырады, ал анасының диагнозы да осындай. Дәрігерлер оларға «Галвус Мет» препаратын тағайындаған: күніне екі рет, бір таблеткадан. Ол 116.RU тілшісіне айтуынша, айға жететін 60 таблетка Ресейде шамамен 4 мың рубльге, ал Түркияда 850-ге тұрады, сондықтан ол өзі мен анасы үшін бір жылға жететін қорды бірнеше рет әкелген.\n\n2025 жылдың қазан айында ол әйелімен бірге Түркиядан Грузия және Солтүстік Осетиядағы Верхний Ларс арқылы көлікпен үйге қайтып келе жатқан. Тексеру кезінде 79 қаптама дәрі табылып, ол дәрілерден басқа жеке пайдалануға арналған бірнеше препарат та болған, оған екі хаттама жасалған. Оның айтуынша, хаттамада таблеткалар «жасырын орыннан» табылған делінген, бірақ мұндай алынғанына бейнежазба жоқ. Сонымен қатар іс материалдарында дәрілер Грузиядан сатып алынған деп қате көрсетілген. Кеден есебі бойынша тауардың құны 600 еуро және салмағы 8 килограмм болған. Ол жұп тоғыз сағат ұсталғанын айтады: түсте екіден түнгі он біріге дейін. Дәрісі алынған, ал ол құжаттарға қол қойған, оның бір бетінде кінәсін мойындау және коммерциялық мақсат жазылған.\n\nІс бірнеше сатыдан өтті. Владикавказдағы Советский соты оны кінәлі деп тапты. Жоғарғы сот шешімді жойып, істі қайта қарауға қайтарды, бірақ төменгі сот дәл сондай үкім шығарды. Содан кейін Александров көлік прокуратурасына және Бас прокуратураға шағым берді. Қызметтік тексеру нәтижесінде аға кедендік инспектор видеотіркегіштің жазбасы жоқ болғаны үшін тәртіптік жауапқа тартылды. Ол кедендіктердің пара алу үшін осы материалдарды жасағанын болжайды.\n\nОл толық реабилитациялануды және осы кеденшілердің жұмыстан шығарылуын талап етеді. Жарияланған мәтінде істің соңғы шешімі туралы айтылмаған.",
+    "de": "Der 54-jährige Einwohner von Kasan, Vitali Alexandrow, versucht seit einem Jahr, seinen Namen reinzuwaschen, nachdem an einem Zollkontrollpunkt ein Schmuggelverfahren gegen ihn eröffnet wurde. Er hat seit 2019 Typ-2-Diabetes, bei seiner Mutter wurde dieselbe Diagnose gestellt. Ihre Ärzte verordneten Galvus Met, täglich zweimal eine Tablette. Laut seiner Aussage gegenüber 116.RU kosten 60 Tabletten für einen Monat in Russland fast 4.000 Rubel, in der Türkei dagegen 850. Deshalb habe er mehrfach einen Jahresvorrat für sich und seine Mutter mitgebracht.\n\nIm Oktober 2025 war er mit seiner Frau auf der Rückfahrt aus der Türkei mit dem Auto unterwegs, über Georgien und den Grenzübergang Werchni Lars in Nordossetien. Bei der Kontrolle fand man 79 Packungen Arzneimittel, darunter einige andere Präparate für den persönlichen Bedarf, und stellte zwei Verwaltungsprotokolle gegen ihn aus. Seiner Darstellung nach behaupten die Unterlagen, die Tabletten seien in einem versteckten Fach gefunden worden, obwohl es keine Videoaufnahme dieser Beschlagnahme gibt. In den Akten steht außerdem fälschlicherweise, die Medikamente seien in Georgien gekauft worden. Laut den Zollangaben ging es um Waren im Wert von 600 Euro und 8 Kilogramm. Das Paar sei neun Stunden festgehalten worden, von 14 bis 23 Uhr, sein Medikament sei beschlagnahmt worden, und er habe Dokumente unterschrieben, auf deren einer Seite ein Schuldeingeständnis und ein kommerzieller Zweck vermerkt gewesen seien.\n\nDer Fall durchlief mehrere Instanzen. Das Sowjetski-Gericht in Wladikawkas erklärte ihn für schuldig. Das Oberste Gericht hob diese Entscheidung auf und verwies den Fall zur erneuten Prüfung zurück, doch das untere Gericht fällte dasselbe Urteil. Danach reichte Alexandrow Beschwerden bei der Verkehrsstaatsanwaltschaft und der Generalstaatsanwaltschaft ein. Eine interne Prüfung führte zu einer Disziplinarmaßnahme gegen einen leitenden Zollinspektor, weil die Dashcam-Aufnahme fehlte. Alexandrow vermutet, dass die Beamten die Vorwürfe erhoben haben, um Bestechungsgeld zu erpressen.\n\nEr fordert eine vollständige Rehabilitierung und die Entlassung der beteiligten Zollbeamten. Der veröffentlichte Teil des Artikels nennt keine endgültige gerichtliche Entscheidung.",
+    "es": "Vitali Alexandrov, un residente de Kazán de 54 años, lleva un año intentando limpiar su nombre después de que se abriera contra él un caso de contrabando en un control aduanero. Tiene diabetes tipo 2 desde 2019, y su madre tiene el mismo diagnóstico. Sus médicos les recetaron Galvus Met, una tableta dos veces al día. Según le contó a 116.RU, 60 tabletas para un mes cuestan casi 4.000 rublos en Rusia, mientras que en Turquía cuestan 850, por lo que había traído varias veces un suministro para un año para él y su madre.\n\nEn octubre de 2025 regresaba en coche con su esposa desde Turquía, pasando por Georgia y el paso de Verjni Lars, en Osetia del Norte. En la inspección encontraron 79 paquetes de medicamentos, entre ellos varios otros fármacos para uso personal, y le levantaron dos actas administrativas. Según su versión, los documentos afirman que las tabletas se hallaron en un compartimento oculto, aunque no existe ninguna grabación de ese decomiso. El expediente también indica erróneamente que los medicamentos se compraron en Georgia. Según los cálculos de la aduana, el valor era de 600 euros y el peso de 8 kilogramos. Afirma que la pareja fue retenida nueve horas, de las 14:00 a las 23:00, que le confiscaron el medicamento y que firmó papeles en cuya página se recogía una admisión de culpa y un fin comercial.\n\nEl caso pasó por varias instancias. El tribunal Sovetski de Vladikavkaz lo declaró culpable. El Tribunal Supremo anuló esa decisión y devolvió el asunto para un nuevo examen, pero el tribunal inferior dictó el mismo veredicto. Después, Alexandrov presentó quejas ante la fiscalía de transporte y la Fiscalía General. Una investigación interna dio lugar a una sanción disciplinaria contra un inspector aduanero principal por la falta de grabación de la cámara de a bordo. Alexandrov sospecha que los agentes levantaron los cargos para obtener un soborno.\n\nExige una rehabilitación completa y el despido de los funcionarios aduaneros implicados. La parte publicada del artículo no recoge una resolución judicial definitiva."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Цена месячного курса (60 таблеток «Галвус Мет»)",
+      "en": "Price of a one-month course (60 Galvus Met tablets)",
+      "kk": "Бір айлық курс бағасы (60 «Галвус Мет» таблеткасы)",
+      "de": "Preis einer Monatspackung (60 Tabletten Galvus Met)",
+      "es": "Precio de un mes de tratamiento (60 tabletas de Galvus Met)"
+     },
+     "v": {
+      "ru": "Почти 4 тысячи рублей в России и 850 в Турции",
+      "en": "Almost 4,000 rubles in Russia and 850 in Turkey",
+      "kk": "Ресейде шамамен 4 мың рубль, Түркияда 850",
+      "de": "Fast 4.000 Rubel in Russland und 850 in der Türkei",
+      "es": "Casi 4.000 rublos en Rusia y 850 en Turquía"
+     }
+    },
+    {
+     "k": {
+      "ru": "Количество упаковок лекарств при досмотре",
+      "en": "Number of medicine packs found at inspection",
+      "kk": "Тексеруде табылған дәрі қаптамаларының саны",
+      "de": "Anzahl der bei der Kontrolle gefundenen Arzneipackungen",
+      "es": "Número de paquetes de medicamentos hallados en la inspección"
+     },
+     "v": {
+      "ru": "79 упаковок",
+      "en": "79 packs",
+      "kk": "79 қаптама",
+      "de": "79 Packungen",
+      "es": "79 paquetes"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVlE_b2M9NQ",
+   "cat": "research",
+   "stage": "early",
+   "date": "2026-11-09",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Малоизученный белок может быть важным фактором развития диабета 2 типа",
+    "en": "A little-known protein could be a major culprit in type 2 diabetes",
+    "kk": "Аз зерттелген ақуыз 2-тип диабетінің негізгі себебі болуы мүмкін",
+    "de": "Ein wenig bekanntes Protein könnte ein wesentlicher Auslöser von Typ-2-Diabetes sein",
+    "es": "Una proteína poco conocida podría ser un factor clave en la diabetes tipo 2"
+   },
+   "text": {
+    "ru": "Исследователи указывают, что малоизученный белок может играть значительную роль в развитии диабета 2 типа.",
+    "en": "Researchers indicate that a little-known protein may play a significant role in the development of type 2 diabetes.",
+    "kk": "Зерттеушілер аз зерттелген ақуыз 2-тип диабетінің дамуында маңызды рөл атқаруы мүмкін деп көрсетеді.",
+    "de": "Forscher weisen darauf hin, dass ein wenig erforschtes Protein eine bedeutende Rolle bei der Entstehung von Typ-2-Diabetes spielen könnte.",
+    "es": "Los investigadores señalan que una proteína poco estudiada podría desempeñar un papel importante en el desarrollo de la diabetes tipo 2."
+   },
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
+   "src": "Science Daily",
+   "photoQuery": "laboratory test tubes",
+   "photo": {
+    "id": "u_0jE8ynV4mis",
+    "url": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bGFib3JhdG9yeSUyMHRlc3QlMjB0dWJlc3xlbnwxfDB8fHwxNzk0MTkzMzMwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Testalize.me",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/blood-collection-tubes-in-laboratory-rack-0jE8ynV4mis?utm_source=dia_news&utm_medium=referral",
+    "alt": "Rows of medical blood collection tubes with colorful caps in a laboratory rack"
+   },
+   "body": {
+    "ru": "Учёные из Pennington Biomedical Research Center сообщили, что белок Miro1 может способствовать инсулинорезистентности при диабете 2 типа. Результаты, датированные 8 ноября 2026 года, опубликованы в журнале Nature Communications.\n\nMiro1 располагается на внешней мембране митохондрий — структур, которые вырабатывают энергию внутри клеток. Исследователи обнаружили, что в скелетных мышцах людей с диабетом 2 типа этого белка больше. По мнению авторов, его избыток может мешать мышцам реагировать на инсулин, из-за чего гликемию труднее контролировать. Работая с клетками в лаборатории, доклиническими моделями и пациентами, команда выяснила: в моделях удаление Miro1 вернуло чувствительность к инсулину.\n\nУчёные также проверили влияние физических нагрузок. В рандомизированном контролируемом исследовании с участием людей с ожирением и диабетом 2 типа аэробные упражнения сравнивали со стандартной медицинской помощью. У участников, занимавшихся физкультурой, уровень Miro1 в мышцах снизился, и это совпало с улучшением чувствительности к инсулину и повышением способности мышц производить энергию.\n\nРуководитель работы Джон П. Кирван, который теперь возглавляет Harold Hamm Diabetes Center Университета Оклахомы, назвал Miro1 новой терапевтической мишенью. Однако авторы подчёркивают ограничения: восстановление ответа на инсулин показано только в доклинических моделях, и пока неизвестно, будут ли препараты, действующие на Miro1, безопасны и эффективны для людей. Команда Кирвана намерена продолжить сочетать лабораторные опыты с исследованиями на людях. Работу поддержали несколько институтов Национальных институтов здравоохранения США.",
+    "en": "Scientists at the Pennington Biomedical Research Center have reported that a protein known as Miro1 may contribute to insulin resistance in type 2 diabetes. The findings, dated November 8, 2026, appeared in the journal Nature Communications.\n\nMiro1 sits on the outer membrane of mitochondria, the structures that generate energy inside cells. The team measured higher amounts of this protein in the skeletal muscles of people with type 2 diabetes. The authors suspect that an excess of Miro1 interferes with muscles' reaction to insulin, which makes blood sugar harder to control. Working with lab cells, preclinical models and patients, they found that removing Miro1 in the models brought back insulin responsiveness.\n\nThe researchers also examined exercise. In a randomized controlled trial involving people with obesity and type 2 diabetes, aerobic exercise was compared with standard medical care. Participants who exercised saw Miro1 levels decline in their muscles, and this happened together with better insulin sensitivity and improved muscle energy production.\n\nSenior author John P. Kirwan, who now directs the Harold Hamm Diabetes Center at the University of Oklahoma, called Miro1 a new therapeutic target. Yet the authors stress limits: the restored insulin response was shown only in preclinical models, and it is not yet known whether drugs aimed at Miro1 would be safe and effective for people. Kirwan's team plans to keep combining laboratory work with human studies. The study was supported by several components of the US National Institutes of Health.",
+    "kk": "Pennington Biomedical Research Center ғалымдары Miro1 деп аталатын ақуыздың 2-типті қант диабетіндегі инсулинге төзімділікке ықпал етуі мүмкін екенін хабарлады. Нәтижелер 2026 жылы 8 қарашада жарияланған, журнал — Nature Communications.\n\nMiro1 жасушаның энергия өндіретін құрылымы — митохондрияның сыртқы мембранасында орналасады. Зерттеушілер 2-типті қант диабеті бар адамдардың қаңқа бұлшықеттерінде бұл ақуыздың көбірек екенін анықтады. Авторлардың пайымдауынша, Miro1 артығы бұлшықеттің инсулинге жауабын бұзып, қант деңгейін реттеуді қиындатады. Зертханалық жасушаларда, доклиникалық модельдерде және науқастарда жүргізілген жұмыста модельдерде Miro1-ді алып тастау инсулинге сезімталдықты қалпына келтірді.\n\nҒалымдар дене жаттығуларының әсерін де зерттеді. Семіздігі және 2-типті қант диабеті бар адамдар қатысқан рандомизацияланған бақыланатын сынақта аэробтық жаттығулар стандартты медициналық күтіммен салыстырылды. Жаттығу тобындағы қатысушыларда бұлшықеттегі Miro1 деңгейі төмендеді, бұл инсулинге сезімталдықтың жақсаруымен және бұлшықеттің энергия өндіру қабілетінің артуымен қатар жүрді.\n\nАға автор Джон П. Кирван — қазір Оклахома университетінің Harold Hamm Diabetes Center орталығын басқарады — Miro1-ді жаңа терапиялық нысана деп атады. Алайда авторлар шектеулерді атап көрсетеді: инсулин жауабының қалпына келуі тек доклиникалық модельдерде көрсетілді, ал Miro1-ге әсер ететін препараттардың адамдарға қауіпсіз және тиімді болатыны әлі белгісіз. Кирван тобы зертханалық жұмысты адамдармен зерттеулермен біріктіруді жалғастыруды жоспарлап отыр. Зерттеуді АҚШ Ұлттық денсаулық сақтау институттарының бірнеше бөлімі қаржыландырды.",
+    "de": "Forschende des Pennington Biomedical Research Center berichten, dass das Protein Miro1 zur Insulinresistenz bei Typ-2-Diabetes beitragen könnte. Die Ergebnisse, datiert auf den 8. November 2026, erschienen in der Fachzeitschrift Nature Communications.\n\nMiro1 sitzt an der äußeren Membran der Mitochondrien, jener Strukturen, die in den Zellen Energie erzeugen. Das Team fand in der Skelettmuskulatur von Menschen mit Typ-2-Diabetes erhöhte Mengen dieses Proteins. Die Autoren vermuten, dass ein Überschuss von Miro1 die Reaktion der Muskeln auf Insulin stört und den Blutzucker dadurch schwerer regulierbar macht. In Laborzellen, präklinischen Modellen und bei Patientinnen und Patienten zeigte sich: Wurde Miro1 in den Modellen entfernt, kehrte die Insulinempfindlichkeit zurück.\n\nAußerdem untersuchte das Team körperliche Aktivität. In einer randomisierten kontrollierten Studie mit Teilnehmenden mit Adipositas und Typ-2-Diabetes wurde aerobes Training mit der üblichen medizinischen Versorgung verglichen. In der Trainingsgruppe sank der Miro1-Gehalt in den Muskeln, zusammen mit einer besseren Insulinsensitivität und einer höheren Fähigkeit der Muskeln, Energie zu produzieren.\n\nDer leitende Autor John P. Kirwan, der heute das Harold Hamm Diabetes Center der University of Oklahoma leitet, bezeichnet Miro1 als neues therapeutisches Ziel. Die Autoren betonen jedoch Grenzen: Die wiederhergestellte Insulinreaktion wurde nur in präklinischen Modellen gezeigt, und ob auf Miro1 gerichtete Behandlungen für Menschen sicher und wirksam wären, ist noch offen. Kirwans Team will Laborarbeit weiterhin mit Studien an Menschen verbinden. Finanziert wurde die Arbeit unter anderem von mehreren Instituten der US-amerikanischen National Institutes of Health.",
+    "es": "Científicos del Pennington Biomedical Research Center informaron de que la proteína Miro1 podría contribuir a la resistencia a la insulina en la diabetes tipo 2. Los hallazgos, fechados el 8 de noviembre de 2026, se publicaron en la revista Nature Communications.\n\nMiro1 se encuentra en la membrana externa de las mitocondrias, las estructuras que producen energía dentro de las células. El equipo halló niveles más altos de esta proteína en los músculos esqueléticos de personas con diabetes tipo 2. Los autores sospechan que un exceso de Miro1 interfiere con la respuesta muscular a la insulina, lo que dificulta el control del azúcar en sangre. En células de laboratorio, modelos preclínicos y pacientes, comprobaron que eliminar Miro1 en los modelos devolvía la sensibilidad a la insulina.\n\nEl grupo también estudió el ejercicio. En un ensayo controlado aleatorizado con participantes con obesidad y diabetes tipo 2, se comparó el ejercicio aeróbico con la atención médica estándar. En el grupo que hizo ejercicio disminuyeron los niveles de Miro1 en los músculos, junto con una mejor sensibilidad a la insulina y una mayor capacidad muscular para producir energía.\n\nEl autor principal, John P. Kirwan, que ahora dirige el Harold Hamm Diabetes Center de la Universidad de Oklahoma, considera a Miro1 una nueva diana terapéutica. Sin embargo, los autores señalan límites: la recuperación de la respuesta a la insulina solo se demostró en modelos preclínicos, y aún no se sabe si los tratamientos dirigidos a Miro1 serían seguros y eficaces en personas. El equipo de Kirwan planea seguir combinando el trabajo de laboratorio con estudios en humanos. La investigación recibió financiación de varios institutos de los National Institutes of Health de EE. UU."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Дата публикации результатов",
+      "en": "Publication date of the findings",
+      "kk": "Нәтижелердің жарияланған күні",
+      "de": "Veröffentlichungsdatum der Ergebnisse",
+      "es": "Fecha de publicación de los hallazgos"
+     },
+     "v": {
+      "ru": "8 ноября 2026 года, Nature Communications",
+      "en": "November 8, 2026, Nature Communications",
+      "kk": "2026 жылғы 8 қараша, Nature Communications",
+      "de": "8. November 2026, Nature Communications",
+      "es": "8 de noviembre de 2026, Nature Communications"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участники рандомизированного исследования",
+      "en": "Participants in the randomized trial",
+      "kk": "Рандомизацияланған сынақ қатысушылары",
+      "de": "Teilnehmende der randomisierten Studie",
+      "es": "Participantes del ensayo aleatorizado"
+     },
+     "v": {
+      "ru": "люди с ожирением и диабетом 2 типа; аэробные упражнения против стандартной медицинской помощи",
+      "en": "people with obesity and type 2 diabetes; aerobic exercise vs. standard medical care",
+      "kk": "семіздігі және 2-типті қант диабеті бар адамдар; аэробтық жаттығу мен стандартты медициналық күтім",
+      "de": "Menschen mit Adipositas und Typ-2-Diabetes; aerobes Training vs. übliche medizinische Versorgung",
+      "es": "personas con obesidad y diabetes tipo 2; ejercicio aeróbico vs. atención médica estándar"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nZWUT9vYz01",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-09",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Тирзепатид не увеличивает риск для глаз у пациентов с диабетом и ожирением",
+    "en": "Tirzepatide shows no added ocular risk in diabetes and obesity study",
+    "kk": "Тирзепатид диабеті және семіздігі бар адамдарда көз қаупін арттырмайтыны зерттеуде көрсетілді",
+    "de": "Tirzepatid erhöht in einer Studie bei Diabetes und Adipositas das Augenrisiko nicht zusätzlich",
+    "es": "Tirzepatida no muestra un riesgo ocular adicional en un estudio en diabetes y obesidad"
+   },
+   "text": {
+    "ru": "По результатам исследования, тирзепатид не добавляет риска для органов зрения у людей с диабетом и ожирением.",
+    "en": "According to the study, tirzepatide does not add ocular risk in people with diabetes and obesity.",
+    "kk": "Зерттеу нәтижесіне сәйкес, тирзепатид диабеті және семіздігі бар адамдарда көру мүшелеріне қосымша қауіп туғызбайды.",
+    "de": "Laut der Studie erhöht Tirzepatid das Augenrisiko bei Menschen mit Diabetes und Adipositas nicht zusätzlich.",
+    "es": "Según el estudio, la tirzepatida no añade riesgo ocular en personas con diabetes y obesidad."
+   },
+   "url": "https://bioengineer.org/tirzepatide-shows-no-added-ocular-risk-in-diabetes-and-obesity-study/",
+   "src": "Bioengineer.org",
+   "photoQuery": "eye examination equipment",
+   "photo": {
+    "id": "u_3USbpwY7vdc",
+    "url": "https://images.unsplash.com/photo-1770221797827-839d22db4a1b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8ZXllJTIwZXhhbWluYXRpb24lMjBlcXVpcG1lbnR8ZW58MXwwfHx8MTc5NDE5MzMzMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Navy Medicine",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-examines-a-womans-eye-with-equipment-3USbpwY7vdc?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor examines a woman's eye with equipment"
+   },
+   "body": {
+    "ru": "Новое ретроспективное когортное исследование, опубликованное 22 сентября 2026 года в открытом доступе в журнале Diabetology & Metabolic Syndrome, проверяло, повышает ли начало терапии тирзепатидом вероятность осложнений со стороны глаз. Работу выполнила группа во главе с Нгуен Нгок Кхой Труонгом, Грегори Ю. Х. Липом и Чьен-И Сю. Исследователи сравнивали за один год пациентов, начавших принимать тирзепатид, с теми, кто начал принимать агонисты рецепторов GLP-1 или другие нелинейные препараты.\n\nДанные взяли из глобальной федеративной сети медицинских исследований TriNetX за период с 1 января 2022 года по 31 октября 2024 года. В анализ вошли взрослые старше 18 лет с диабетом 2 типа или с избыточным весом либо ожирением. Пациентов сопоставляли по принципу один к одному с помощью оценки склонности (propensity score). Исключались люди с имевшимися ранее заболеваниями глаз и те, кто переключался между препаратами. Основным показателем была комбинированная частота нарушений зрения, диабетической ретинопатии и других заболеваний сетчатки; отдельно оценивались нарушения зрения и ретинопатия.\n\nУ пациентов с диабетом 2 типа комбинированная частота осложнений за год составила 3,5% и в группе тирзепатида, и в группе агонистов GLP-1 (отношение рисков 1,01; 95% доверительный интервал от 0,88 до 1,15). По сравнению с другими сахароснижающими препаратами, не относящимися к GLP-1, показатель составил 3,5% против 5,6%, а риски нарушений зрения и ретинопатии были ниже.\n\nУ людей с избыточным весом или ожирением без диабета результаты с агонистами GLP-1 были схожими: 1,9% против 2,1% (отношение рисков 0,92). По сравнению с препаратами для снижения веса, не относящимися к GLP-1, комбинированный показатель составил 1,9% против 2,3% (отношение рисков 0,82). Ретинопатия была редкой, статистически значимых различий между группами не выявлено.\n\nАвторы пришли к выводу, что тирзепатид не был связан с повышенным риском со стороны глаз в течение одного года, и отметили, что это подтверждает безопасность для глаз в краткосрочной перспективе. При этом они считают необходимым более длительное наблюдение. Регистрация клинического исследования не применялась, поскольку работа была ретроспективным анализом обезличенных данных.",
+    "en": "A new retrospective cohort study, published open-access on September 22, 2026, in Diabetology & Metabolic Syndrome, examined whether starting tirzepatide raises the likelihood of eye complications. A team led by Nguyen Ngoc Khoi Truong, Gregory Y. H. Lip and Chien-Yi Hsu compared patients who began tirzepatide with those who began GLP-1 receptor agonists or other non-GLP-1 treatments, tracking outcomes over one year.\n\nThe researchers drew on records from the TriNetX global federated health research network, covering January 1, 2022 to October 31, 2024. The analysis included adults aged 18 and older with type 2 diabetes, or with overweight or obesity. Patients were matched one-to-one using propensity scores. People with pre-existing eye disease or treatment switching were excluded. The main measure combined visual impairment, diabetic retinopathy and other retinal disorders, while visual impairment and retinopathy were also assessed separately.\n\nAmong patients with type 2 diabetes, the one-year combined rate was 3.5% in both the tirzepatide and GLP-1 receptor agonist groups (hazard ratio 1.01; 95% confidence interval 0.88 to 1.15). Compared with non-GLP-1 antidiabetic therapies, the rate was 3.5% versus 5.6%, and the risks of visual impairment and retinopathy were also lower.\n\nIn people with overweight or obesity but without diabetes, results against GLP-1 receptor agonists were similar: 1.9% versus 2.1% (hazard ratio 0.92). Against non-GLP-1 anti-obesity medications, the combined rate was 1.9% versus 2.3% (hazard ratio 0.82). Retinopathy was rare, and no statistically significant differences emerged between the groups.\n\nThe authors concluded that tirzepatide was not associated with increased ophthalmic risk over one year and that this supports short-term ocular safety, though they say longer follow-up is warranted. Clinical trial registration did not apply, because the work was a retrospective analysis of de-identified data.",
+    "kk": "Diabetology & Metabolic Syndrome журналында 2026 жылдың 22 қыркүйегінде ашық қолжетімділікпен жарияланған ретроспективті когорталық зерттеу тирзепатидті бастау көздің асқыну ықтималдығын арттыра ма, соны тексерді. Зерттеуді Нгуен Нгок Кхой Труонг, Грегори Ю. Х. Лип және Чьен-И Сю бастаған топ жүргізді. Зерттеушілер тирзепатидті бастаған пациенттерді GLP-1 рецепторлық агонистерін немесе GLP-1-ге жатпайтын басқа емдеуді бастаған адамдармен салыстырып, нәтижелерді бір жыл бойы бақылады.\n\nДеректер TriNetX жаһандық федеративтік медициналық зерттеу желісінен алынды, олар 2022 жылғы 1 қаңтардан 2024 жылғы 31 қазанға дейінгі кезеңді қамтиды. Талдауға 18 жастан асқан, 2 типті қант диабеті бар немесе артық салмағы не семіздігі бар ересектер кірді. Пациенттер бағалау ұпайлары (propensity score) арқылы бір-бірлеп сәйкестендірілді. Бұрыннан көз аурулары бар адамдар мен препарат ауыстырғандар талдаудан шығарылды. Негізгі көрсеткіш көру бұзылысын, диабеттік ретинопатияны және басқа торлы қабық аурууларын біріктірді; көру бұзылысы мен ретинопатия бөлек те бағаланды.\n\n2 типті қант диабеті бар пациенттерде бір жылдағы біріктірілген жиілік тирзепатид пен GLP-1 рецепторлық агонистер топтарында тең болды: 3,5% (қауіп арақатынасы 1,01; 95% сенімділік аралығы 0,88–1,15). GLP-1-ге жатпайтын қант диабетіне қарсы емдеумен салыстырғанда көрсеткіш 3,5% және 5,6% болды, ал көру бұзылысы мен ретинопатия қаупі де төмен болды.\n\nДиабеті жоқ, артық салмағы немесе семіздігі бар адамдарда GLP-1 рецепторлық агонистерімен нәтижелер ұқсас болды: 1,9% және 2,1% (қауіп арақатынасы 0,92). GLP-1-ге жатпайтын семіздікке қарсы препараттармен салыстырғанда біріктірілген көрсеткіш 1,9% және 2,3% болды (қауіп арақатынасы 0,82). Ретинопатия сирек кездесті, топтар арасында статистикалық маңызды айырмашылық анықталмады.\n\nАвторлар тирзепатидтің бір жылдағы көз қаупінің артуымен байланысы жоғын және бұл қысқа мерзімді көз қауіпсіздігін қолдайтынын атап өтті, дегенмен ұзағырақ бақылау қажет деп есептейді. Клиникалық зерттеуді тіркеу қолданылмады, себебі жұмыс жеке басы жасырылған деректерге жүргізілген ретроспективті талдау болды.",
+    "de": "Eine neue retrospektive Kohortenstudie, die am 22. September 2026 im Open-Access-Journal Diabetology & Metabolic Syndrome erschien, prüfte, ob der Beginn einer Tirzepatid-Therapie das Risiko für Augenkomplikationen erhöht. Ein Team um Nguyen Ngoc Khoi Truong, Gregory Y. H. Lip und Chien-Yi Hsu verglich Patienten, die Tirzepatid begannen, mit Personen, die GLP-1-Rezeptoragonisten oder andere Nicht-GLP-1-Behandlungen erhielten, und verfolgte die Ergebnisse über ein Jahr.\n\nDie Forschenden nutzten Daten des globalen föderierten Gesundheitsforschungsnetzwerks TriNetX für den Zeitraum vom 1. Januar 2022 bis zum 31. Oktober 2024. In die Analyse wurden Erwachsene ab 18 Jahren mit Typ-2-Diabetes oder mit Übergewicht bzw. Adipositas einbezogen. Die Patienten wurden per Propensity-Score im Verhältnis eins zu eins gepaart. Personen mit vorbestehenden Augenerkrankungen und solche, die die Behandlung wechselten, wurden ausgeschlossen. Das Hauptergebnis fasste Sehbeeinträchtigung, diabetische Retinopathie und andere Netzhauterkrankungen zusammen; Sehbeeinträchtigung und Retinopathie wurden zusätzlich einzeln bewertet.\n\nBei Patienten mit Typ-2-Diabetes lag die kombinierte Einjahresrate sowohl in der Tirzepatid- als auch in der GLP-1-Rezeptoragonisten-Gruppe bei 3,5 % (Hazard Ratio 1,01; 95-%-Konfidenzintervall 0,88 bis 1,15). Im Vergleich mit nicht-GLP-1-basierten Antidiabetika betrug die Rate 3,5 % gegenüber 5,6 %; auch die Risiken für Sehbeeinträchtigung und Retinopathie waren niedriger.\n\nBei Menschen mit Übergewicht oder Adipositas ohne Diabetes fielen die Ergebnisse gegenüber GLP-1-Rezeptoragonisten ähnlich aus: 1,9 % gegenüber 2,1 % (Hazard Ratio 0,92). Gegenüber nicht-GLP-1-Medikamenten zur Gewichtsreduktion lag die kombinierte Rate bei 1,9 % gegenüber 2,3 % (Hazard Ratio 0,82). Retinopathie war selten, und zwischen den Gruppen zeigten sich keine statistisch signifikanten Unterschiede.\n\nDie Autorinnen und Autoren folgerten, dass Tirzepatid über ein Jahr nicht mit einem erhöhten Augenrisiko verbunden war und die kurzfristige Augensicherheit stützt; sie halten jedoch längere Nachbeobachtung für nötig. Eine Registrierung als klinische Studie war nicht anwendbar, da es sich um eine retrospektive Analyse pseudonymisierter Daten handelte.",
+    "es": "Un nuevo estudio de cohortes retrospectivo, publicado en acceso abierto el 22 de septiembre de 2026 en la revista Diabetology & Metabolic Syndrome, examinó si iniciar tirzepatida aumenta la probabilidad de complicaciones oculares. Un equipo encabezado por Nguyen Ngoc Khoi Truong, Gregory Y. H. Lip y Chien-Yi Hsu comparó a pacientes que empezaron tirzepatida con quienes comenzaron agonistas del receptor GLP-1 u otros tratamientos no GLP-1, siguiendo los resultados durante un año.\n\nLos investigadores utilizaron registros de la red global de investigación sanitaria federada TriNetX, que abarcan del 1 de enero de 2022 al 31 de octubre de 2024. El análisis incluyó a adultos de 18 años o más con diabetes tipo 2, o con sobrepeso u obesidad. Los pacientes se emparejaron uno a uno mediante puntuación de propensión. Se excluyeron las personas con enfermedad ocular previa y quienes cambiaron de tratamiento. El resultado principal combinó la discapacidad visual, la retinopatía diabética y otros trastornos retinianos; la discapacidad visual y la retinopatía también se evaluaron por separado.\n\nEntre los pacientes con diabetes tipo 2, la tasa combinada al año fue del 3,5 % tanto en el grupo de tirzepatida como en el de agonistas GLP-1 (cociente de riesgos 1,01; intervalo de confianza del 95 %: 0,88 a 1,15). Frente a tratamientos antidiabéticos no GLP-1, la tasa fue del 3,5 % frente al 5,6 %, y los riesgos de discapacidad visual y retinopatía también fueron menores.\n\nEn personas con sobrepeso u obesidad sin diabetes, los resultados frente a agonistas GLP-1 fueron similares: 1,9 % frente al 2,1 % (cociente de riesgos 0,92). Frente a medicamentos antiobesidad no GLP-1, la tasa combinada fue del 1,9 % frente al 2,3 % (cociente de riesgos 0,82). La retinopatía fue poco frecuente y no hubo diferencias estadísticamente significativas entre los grupos.\n\nLos autores concluyeron que tirzepatida no se asoció con un mayor riesgo oftalmológico en un año, lo que respalda la seguridad ocular a corto plazo, aunque señalan que se necesita un seguimiento más prolongado. No aplicaba el registro de ensayo clínico, ya que el trabajo fue un análisis retrospectivo de datos anonimizados."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Комбинированная частота осложнений за год у пациентов с диабетом 2 типа (тирзепатид и агонисты GLP-1)",
+      "en": "One-year combined ocular complication rate in type 2 diabetes (tirzepatide and GLP-1 receptor agonists)",
+      "kk": "2 типті қант диабеті бар пациенттердегі бір жылдағы біріктірілген көз асқыну жиілігі (тирзепатид және GLP-1 агонистері)",
+      "de": "Kombinierte Einjahresrate okularer Komplikationen bei Typ-2-Diabetes (Tirzepatid und GLP-1-Rezeptoragonisten)",
+      "es": "Tasa combinada anual de complicaciones oculares en diabetes tipo 2 (tirzepatida y agonistas GLP-1)"
+     },
+     "v": {
+      "ru": "3,5% в обеих группах (отношение рисков 1,01)",
+      "en": "3.5% in both groups (hazard ratio 1.01)",
+      "kk": "екі топта да 3,5% (қауіп арақатынасы 1,01)",
+      "de": "3,5 % in beiden Gruppen (Hazard Ratio 1,01)",
+      "es": "3,5 % en ambos grupos (cociente de riesgos 1,01)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Комбинированная частота осложнений за год у пациентов с ожирением без диабета (тирзепатид и агонисты GLP-1)",
+      "en": "One-year combined ocular complication rate in obesity without diabetes (tirzepatide vs GLP-1 receptor agonists)",
+      "kk": "Диабеті жоқ семіздіктегі бір жылдағы біріктірілген көз асқыну жиілігі (тирзепатид және GLP-1 агонистері)",
+      "de": "Kombinierte Einjahresrate okularer Komplikationen bei Adipositas ohne Diabetes (Tirzepatid vs. GLP-1-Rezeptoragonisten)",
+      "es": "Tasa combinada anual de complicaciones oculares con obesidad sin diabetes (tirzepatida frente a agonistas GLP-1)"
+     },
+     "v": {
+      "ru": "1,9% против 2,1% (отношение рисков 0,92)",
+      "en": "1.9% versus 2.1% (hazard ratio 0.92)",
+      "kk": "1,9% және 2,1% (қауіп арақатынасы 0,92)",
+      "de": "1,9 % gegenüber 2,1 % (Hazard Ratio 0,92)",
+      "es": "1,9 % frente al 2,1 % (cociente de riesgos 0,92)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVFE_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-09",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Марафоны при диабете 1 типа могут быть безопасными, показало небольшое исследование",
+    "en": "Running marathons with type 1 diabetes can be safe, small study finds",
+    "kk": "1-тип диабетімен марафонда жүгіру қауіпсіз болуы мүмкін, шағын зерттеу көрсетті",
+    "de": "Marathonlauf mit Typ-1-Diabetes kann sicher sein, zeigt eine kleine Studie",
+    "es": "Correr maratones con diabetes tipo 1 puede ser seguro, según un pequeño estudio"
+   },
+   "text": {
+    "ru": "Небольшое исследование с использованием непрерывного мониторинга глюкозы показало, что участие в марафонах при диабете 1 типа может быть безопасным.",
+    "en": "A small study using continuous glucose monitoring suggests that running marathons with type 1 diabetes can be safe.",
+    "kk": "Глюкозаны үздіксіз бақылауды қолданған шағын зерттеу 1-тип диабетімен марафонға қатысу қауіпсіз болуы мүмкін екенін көрсетеді.",
+    "de": "Eine kleine Studie mit kontinuierlicher Glukosemessung zeigt, dass Marathonläufe bei Typ-1-Diabetes sicher sein können.",
+    "es": "Un pequeño estudio con monitorización continua de glucosa muestra que correr maratones con diabetes tipo 1 puede ser seguro."
+   },
+   "url": "https://medicaldialogues.in/diabetes-endocrinology/news/running-marathons-with-type-1-diabetes-can-be-safe-shows-small-study-using-continuous-glucose-monitoring-devices-182520",
+   "src": "Medical Dialogues",
+   "photoQuery": "runner glucose sensor arm",
+   "photo": {
+    "id": "u_tIEsUnmLaKY",
+    "url": "https://images.unsplash.com/photo-1776761916500-f639da084b7b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cnVubmVyJTIwZ2x1Y29zZSUyMHNlbnNvciUyMGFybXxlbnwxfDB8fHwxNzk0MTkzMzMxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Salahuddin Ahmed",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-yellow-medical-sensor-attached-to-a-persons-arm-tIEsUnmLaKY?utm_source=dia_news&utm_medium=referral",
+    "alt": "A yellow medical sensor attached to a person's arm"
+   },
+   "body": {
+    "ru": "Небольшое исследование показало, что люди с диабетом 1 типа могут безопасно пробежать марафон, используя устройства непрерывного мониторинга глюкозы (CGM), и показать время финиша, близкое к результатам бегунов без диабета. Работа должна была быть представлена на ежегодной встрече Европейской ассоциации по изучению диабета (EASD) в Милане (Италия) с 28 сентября по 2 октября. Материал Medical Dialogues опубликован 9 ноября 2026 года.\n\nНаблюдательное исследование включило 20 бегунов-любителей, участвовавших в Познанском марафоне 2025 года (дистанция 42 км). Десять из них имели диабет 1 типа не менее года, еще десять были без диабета. Целевой уровень глюкозы перед стартом у участников с диабетом составлял 140–200 мг/дл. Пятеро использовали множественные ежедневные инъекции, трое — непрерывную подкожную инфузию инсулина, двое — системы автоматической доставки инсулина.\n\nГлюкозу измеряли на старте, на 10, 19 и 30 км и на финише глюкометром и двумя системами CGM; углеводы или инсулин вводили по необходимости. Все десять бегунов с диабетом финишировали примерно за 228 минут, участники без диабета — за 248 минут. В целом уровень глюкозы снижался, у одного бегуна зафиксировали два низких показания.\n\nАвторы подчеркивают малый размер выборки и наблюдательный характер работы. Они советуют бегунам на длинных дистанциях проверять глюкозу глюкометром, если показания датчика не совпадают с самочувствием. По мнению исследователей, при должном обучении и аккуратном контроле сахара люди с диабетом 1 типа могут участвовать даже в очень тяжелых выносливостных нагрузках.",
+    "en": "A small study reports that people with type 1 diabetes can complete a marathon safely while using continuous glucose monitoring (CGM) devices, with finishing times close to those of runners without diabetes. The findings were scheduled for presentation at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, from 28 September to 2 October. The Medical Dialogues report was published on 9 November 2026.\n\nThe observational study included 20 amateur runners taking part in the 2025 Poznan Marathon, a 42 km race. Ten had type 1 diabetes for at least one year, and ten did not have diabetes. Participants with diabetes aimed for a pre-race glucose range of 140–200 mg/dL. Five used multiple daily injections, three used continuous subcutaneous insulin infusion, and two used automated insulin delivery systems.\n\nGlucose was checked at the start, at 10 km, 19 km, 30 km and the finish, using a glucometer and two CGM systems, and carbohydrates or insulin were given as needed. All ten runners with diabetes finished, in about 228 minutes, while the group without diabetes took 248 minutes. Glucose levels fell overall, and one runner recorded two low readings.\n\nThe authors stress the small sample size and the observational design. They advise long-distance runners to check their glucose with a glucometer when the sensor reading does not match how they feel. According to the researchers, with proper education and careful blood sugar management, people with type 1 diabetes can take part in even very demanding endurance exercise.",
+    "kk": "Шағын зерттеу 1-типті қант диабеті бар адамдар үздіксіз глюкоза мониторингі (CGM) құрылғыларын пайдаланғанда марафонды қауіпсіз жүгіре алатынын көрсетті; олардың финиш уақыты диабеті жоқ жүгірушілердікіне жақын болды. Нәтижелер Миланда (Италия) 28 қыркүйек пен 2 қазан аралығында өтетін Еуропалық диабетті зерттеу қауымдастығының (EASD) жылдық жиналысында баяндалуы жоспарланған. Medical Dialogues материалы 2026 жылдың 9 қарашасында жарияланған.\n\nБақылау зерттеуіне 2025 жылғы Познань марафонына қатысқан 20 әуесқой жүгіруші қатысты (қашықтығы 42 км). Олардың ішінде он адамда кемінде бір жыл бойы 1-типті диабет болған, ал он адам диабетсіз болған. Диабеті бар қатысушылар старт алдында глюкоза деңгейін 140–200 мг/дл аралығында ұстауды мақсат еткен. Бесеуі күніне бірнеше рет инъекция, үшеуі үздіксіз теріасты инсулин инфузиясы, екеуі автоматты инсулин беру жүйесін пайдаланған.\n\nГлюкоза старттан, 10, 19 және 30 км-де, сондай-ақ финишта глюкометрмен және екі CGM жүйесімен өлшенді; қажеттілікке қарай көмірсу немесе инсулин берілді. Диабеті бар он жүгірушінің барлығы шамамен 228 минутта финишке жетті, ал диабеті жоқ топ 248 минутта аяқтады. Жалпы глюкоза деңгейі төмендеді, бір жүгірушіде екі төмен көрсеткіш тіркелді.\n\nАвторлар зерттеудің шағын үлгісі мен бақылау сипатын атап өтеді. Ұзақ қашықтықта жүгіретіндерге датчик көрсеткіші өздерінің сезіміне сәйкес келмегенде глюкозаны глюкометрмен тексеруді ұсынады. Зерттеушілердің пікірінше, дұрыс оқыту мен мұқият қант бақылауымен 1-типті диабеті бар адамдар өте ауыр төзімділік жаттығуларына да қатыса алады.",
+    "de": "Eine kleine Studie zeigt, dass Menschen mit Typ-1-Diabetes einen Marathon sicher absolvieren können, wenn sie Geräte zur kontinuierlichen Glukosemessung (CGM) nutzen, und dass ihre Laufzeiten denen von Läufern ohne Diabetes nahekommen. Die Ergebnisse sollten auf der Jahrestagung der Europäischen Gesellschaft für Diabetesforschung (EASD) in Mailand, Italien, vom 28. September bis 2. Oktober vorgestellt werden. Der Bericht von Medical Dialogues wurde am 9. November 2026 veröffentlicht.\n\nDie Beobachtungsstudie umfasste 20 Hobbyläufer beim Poznań-Marathon 2025 (42 km). Zehn von ihnen hatten seit mindestens einem Jahr Typ-1-Diabetes, zehn waren Kontrollpersonen ohne Diabetes. Die Teilnehmer mit Diabetes sollten vor dem Start einen Glukosebereich von 140–200 mg/dl anstreben. Fünf nutzten multiple tägliche Injektionen, drei eine kontinuierliche subkutane Insulininfusion und zwei automatisierte Insulinabgabesysteme.\n\nDie Glukose wurde am Start, bei 10, 19 und 30 km sowie im Ziel mit einem Messgerät und zwei CGM-Systemen kontrolliert; Kohlenhydrate oder Insulin wurden bei Bedarf gegeben. Alle zehn Läufer mit Diabetes erreichten das Ziel in etwa 228 Minuten, die Gruppe ohne Diabetes brauchte 248 Minuten. Insgesamt sank der Glukosespiegel, bei einem Läufer wurden zwei niedrige Werte registriert.\n\nDie Autoren betonen die geringe Teilnehmerzahl und das Beobachtungsdesign. Läufern bei langen Ausdauerwettkämpfen wird empfohlen, die Glukose mit einem Messgerät zu prüfen, wenn der Sensorwert nicht zu ihrem Befinden passt. Die Forscher meinen, dass Menschen mit Typ-1-Diabetes mit guter Schulung und sorgfältigem Blutzuckermanagement selbst sehr anspruchsvolle Ausdauerbelastungen bewältigen können.",
+    "es": "Un pequeño estudio señala que las personas con diabetes tipo 1 pueden completar un maratón de forma segura usando dispositivos de monitorización continua de glucosa (MCG), con tiempos de llegada parecidos a los de corredores sin diabetes. Los resultados se presentarían en la reunión anual de la Asociación Europea para el Estudio de la Diabetes (EASD) en Milán, Italia, del 28 de septiembre al 2 de octubre. El artículo de Medical Dialogues se publicó el 9 de noviembre de 2026.\n\nEl estudio observacional incluyó a 20 corredores aficionados del Maratón de Poznan de 2025, una carrera de 42 km. Diez tenían diabetes tipo 1 desde hacía al menos un año y diez no tenían diabetes. Los participantes con diabetes apuntaban a un rango de glucosa previo a la carrera de 140–200 mg/dL. Cinco usaban inyecciones múltiples diarias, tres infusión subcutánea continua de insulina y dos sistemas automatizados de administración de insulina.\n\nLa glucosa se midió al inicio, a los 10, 19 y 30 km y en la meta, con un glucómetro y dos sistemas de MCG; se administraban carbohidratos o insulina según fuera necesario. Los diez corredores con diabetes terminaron en unos 228 minutos, frente a 248 minutos del grupo sin diabetes. En general la glucosa descendió, y en un corredor se registraron dos lecturas bajas.\n\nLos autores subrayan el tamaño reducido de la muestra y el diseño observacional. Recomiendan a los corredores de pruebas largas de resistencia que comprueben la glucosa con un glucómetro cuando la lectura del sensor no coincida con cómo se sienten. Según los investigadores, con educación adecuada y un control cuidadoso del azúcar en sangre, las personas con diabetes tipo 1 pueden participar en ejercicios de resistencia muy exigentes."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Время финиша бегунов с диабетом 1 типа",
+      "en": "Finish time of runners with type 1 diabetes",
+      "kk": "1-типті диабеті бар жүгірушілердің финиш уақыты",
+      "de": "Zielzeit der Läufer mit Typ-1-Diabetes",
+      "es": "Tiempo de llegada de los corredores con diabetes tipo 1"
+     },
+     "v": {
+      "ru": "около 228 минут (без диабета — 248 минут)",
+      "en": "about 228 minutes (without diabetes — 248 minutes)",
+      "kk": "шамамен 228 минут (диабеті жоқтар — 248 минут)",
+      "de": "etwa 228 Minuten (ohne Diabetes — 248 Minuten)",
+      "es": "unos 228 minutos (sin diabetes — 248 minutos)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участники исследования",
+      "en": "Study participants",
+      "kk": "Зерттеу қатысушылары",
+      "de": "Studienteilnehmer",
+      "es": "Participantes del estudio"
+     },
+     "v": {
+      "ru": "20 бегунов: 10 с диабетом 1 типа и 10 без диабета",
+      "en": "20 runners: 10 with type 1 diabetes and 10 without diabetes",
+      "kk": "20 жүгіруші: 10-ы 1-типті диабетпен, 10-ы диабетсіз",
+      "de": "20 Läufer: 10 mit Typ-1-Diabetes und 10 ohne Diabetes",
+      "es": "20 corredores: 10 con diabetes tipo 1 y 10 sin diabetes"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nE4zP29jPTU",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-09",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Более высокий уровень остеопротегерина снижает риск диабета 2 типа, показало генетическое исследование",
+    "en": "Higher osteoprotegerin levels lower type 2 diabetes risk, genetic study finds",
+    "kk": "Остеопротегерин деңгейінің жоғарылауы 2-тип диабет қаупін азайтады, гендік зерттеу көрсетті",
+    "de": "Höhere Osteoprotegerin-Spiegel senken das Risiko für Typ-2-Diabetes, zeigt eine genetische Studie",
+    "es": "Niveles más altos de osteoprotegerina reducen el riesgo de diabetes tipo 2, según un estudio genético"
+   },
+   "text": {
+    "ru": "Генетическое исследование показало, что более высокие уровни остеопротегерина связаны с меньшим риском развития диабета 2 типа.",
+    "en": "A genetic study found that higher levels of osteoprotegerin are associated with a lower risk of developing type 2 diabetes.",
+    "kk": "Гендік зерттеу остеопротегерин деңгейінің жоғарылауы 2-тип диабетке шалдығу қаупінің төмендеуімен байланысты екенін көрсетті.",
+    "de": "Eine genetische Studie ergab, dass höhere Osteoprotegerin-Spiegel mit einem geringeren Risiko für Typ-2-Diabetes verbunden sind.",
+    "es": "Un estudio genético encontró que niveles más altos de osteoprotegerina se asocian con un menor riesgo de diabetes tipo 2."
+   },
+   "url": "https://bioengineer.org/higher-osteoprotegerin-levels-lower-type-2-diabetes-risk-genetic-study-finds/",
+   "src": "Bioengineer.org",
+   "photoQuery": "blood sample test tube",
+   "photo": {
+    "id": "u_sZO8ILzGKcg",
+    "url": "https://images.unsplash.com/photo-1697192156499-d85cfe1452c0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8Ymxvb2QlMjBzYW1wbGUlMjB0ZXN0JTIwdHViZXxlbnwxfDB8fHwxNzk0MTkzMzMyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Adrian Sulyok",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-gloved-hand-holding-a-test-tube-filled-with-blood-sZO8ILzGKcg?utm_source=dia_news&utm_medium=referral",
+    "alt": "a gloved hand holding a test tube filled with blood"
+   },
+   "body": {
+    "ru": "Новое генетическое исследование показывает, что более высокий уровень остеопротегерина в крови связан с меньшим риском развития диабета 2 типа. Результаты опубликованы в журнале Diabetology & Metabolic Syndrome; авторы — Ha, Lee, An, Kim и Oh (2026). Об исследовании 9 ноября 2026 года сообщил Bioengineer.org.\n\nРабота возникла из более ранних наблюдений: у пациентов, которых лечили деносумабом — препаратом, действующим по пути, отчасти схожему с остеопротегерином, — диабет 2 типа, по данным прошлых клинических наблюдений, встречался реже. Исследователи захотели проверить, влияет ли сам путь остеопротегерина на обмен веществ.\n\nДля этого команда провела анализ по методу менделевской рандомизации на уровне мишени препарата: генетические варианты использовались как инструменты для оценки причинно-следственных связей. Поиск генетических маркеров, оценку воздействия и проверку связи с исходами диабета выполняли на разных наборах данных.\n\nГлавный анализ показал, что генетически обусловленный более высокий уровень остеопротегерина связан со статистически значимым снижением риска диабета 2 типа: отношение шансов 0,912, 95% доверительный интервал 0,857–0,972, P = 0,004. В дополнительных анализах более высокий уровень ассоциировался с более низким HbA1c — показателем средней концентрации глюкозы за длительный период (бета −0,027; 95% ДИ от −0,050 до −0,004; P = 0,023), однако авторы назвали это исследовательским наблюдением. Анализ медиации предположил, что частично защитный эффект может объясняться улучшенной функцией бета-клеток поджелудочной железы, которую оценивали по HOMA-B.\n\nАвторы заключили, что генетические данные подтверждают обратную связь, отчасти обусловленную функцией бета-клеток, и считают необходимыми дальнейшие экспериментальные и клинические исследования фармакологического воздействия на путь остеопротегерина для профилактики диабета. Это пока научные результаты, а не доказательство эффективности лечения.",
+    "en": "A new genetic study suggests that higher levels of osteoprotegerin, a protein, in the blood are linked to a lower risk of developing type 2 diabetes. The findings were published in the journal Diabetology & Metabolic Syndrome by Ha, Lee, An, Kim and Oh (2026). Bioengineer.org reported on them on November 9, 2026.\n\nThe work grew out of earlier observations: patients treated with denosumab, a drug acting through a pathway partly similar to osteoprotegerin's, had reportedly been diagnosed with type 2 diabetes less often. The researchers wanted to check whether the osteoprotegerin pathway itself affects metabolic health.\n\nTo do this, the team ran a drug-target Mendelian randomization analysis, which uses genetic variants as tools to estimate cause-and-effect links. Searching for genetic markers, estimating exposure effects and testing diabetes outcomes were carried out on separate data sets.\n\nThe main analysis found that genetically higher osteoprotegerin levels were associated with a statistically significant reduction in type 2 diabetes risk: odds ratio 0.912, 95% confidence interval 0.857 to 0.972, P = 0.004. In secondary analyses, higher levels were nominally linked to lower HbA1c, a marker of average blood glucose over time (beta −0.027; 95% CI −0.050 to −0.004; P = 0.023), but the authors described this as an exploratory observation. A mediation analysis suggested that better function of pancreatic beta cells, measured with HOMA-B, may partly explain the protective association.\n\nThe authors concluded that the genetic evidence supports an inverse relationship, partly driven by beta-cell function, and said it justifies further experimental and clinical studies of drugs that act on the osteoprotegerin pathway to prevent diabetes. For now these are research findings, not proof that any treatment works.",
+    "kk": "Жаңа генетикалық зерттеу қанда остеопротегерин деңгейі жоғары болған адамдарда 2 типті қант диабеті қаупінің азайғанын көрсетеді. Нәтижелер Diabetology & Metabolic Syndrome журналында жарияланған; авторлары — Ha, Lee, An, Kim және Oh (2026). Bioengineer.org 2026 жылғы 9 қарашада осы туралы хабарлады.\n\nЖұмыс бұрынғы байқаулардан туындады: деносумабпен емделген науқастарда, ол остеопротегерин жолына ішінара ұқсас жол арқылы әсер ететін препарат, 2 типті диабет жиі кездеспеген. Зерттеушілер осы жолдың өзі зат алмасуға әсер ете ме екенін тексергісі келді.\n\nБұл үшін топ препарат нысанасы бойынша Менделевтік рандомизация талдауын жүргізді; онда генетикалық варианттар себеп-салдар байланысын бағалау үшін құрал ретінде қолданылады. Генетикалық маркерлерді іздеу, әсерді бағалау және диабет нәтижелерімен байланысты тексеру әр түрлі деректер жиынтықтарында орындалды.\n\nНегізгі талдау генетикалық тұрғыда остеопротегерин деңгейі жоғары болуы 2 типті диабет қаупінің статистикалық маңызды төмендеуімен байланысты екенін көрсетті: шанс қатынасы 0,912, 95% сенім аралығы 0,857–0,972, P = 0,004. Қосымша талдауларда жоғары деңгей HbA1c-нің төмендеуімен байланысты болды — бұл ұзақ уақыттағы қан глюкозасының көрсеткіші (бета −0,027; 95% СА −0,050 бастап −0,004 дейін; P = 0,023); авторлар мұны зерттеушілік бақылау деп атаған. Медиация талдауы қорғаушы әсердің ішінара ұйқы безі бета-жасушаларының жақсы жұмысына байланысты болуы мүмкін екенін болжады; ол HOMA-B арқылы бағаланды.\n\nАвторлар генетикалық деректер кері байланысты растайды, оған ішінара бета-жасушалар функциясы себеп болады деп қорытындылады және диабетті алдын алу үшін остеопротегерин жолына фармакологиялық әсер етуді одан әрі эксперименттік және клиникалық зерттеу қажет деп санайды. Бұл әзірге ғылыми нәтижелер, ем тиімділігінің дәлелі емес.",
+    "de": "Eine neue genetische Studie deutet darauf hin, dass ein höherer Spiegel von Osteoprotegerin im Blut mit einem geringeren Risiko für Typ-2-Diabetes einhergeht. Die Ergebnisse wurden in der Zeitschrift Diabetology & Metabolic Syndrome veröffentlicht; die Autorinnen und Autoren sind Ha, Lee, An, Kim und Oh (2026). Bioengineer.org berichtete am 9. November 2026 darüber.\n\nDie Arbeit ging auf frühere Beobachtungen zurück: Patienten, die mit Denosumab behandelt wurden, einem Wirkstoff, der über einen teilweise ähnlichen Signalweg wirkt, bekamen laut diesen Beobachtungen seltener Typ-2-Diabetes. Die Forschenden wollten prüfen, ob der Osteoprotegerin-Signalweg selbst den Stoffwechsel beeinflusst.\n\nDazu nutzte das Team eine Mendelsche Randomisierungsanalyse auf Wirkstoffzielebene, bei der genetische Varianten als Hilfsvariablen dienen, um kausale Zusammenhänge zu schätzen. Die Suche nach genetischen Markern, die Schätzung der Expositionswirkung und die Prüfung der Diabetes-Ergebnisse erfolgten mit getrennten Datenquellen.\n\nDie Hauptanalyse ergab, dass genetisch bedingt höhere Osteoprotegerin-Werte mit einem statistisch signifikant geringeren Typ-2-Diabetes-Risiko verbunden waren: Odds Ratio 0,912, 95-%-Konfidenzintervall 0,857 bis 0,972, P = 0,004. In Nebenanalysen ging ein höherer Wert nominell mit einem niedrigeren HbA1c einher, einem Maß für den langfristigen Blutzucker (Beta −0,027; 95-%-KI −0,050 bis −0,004; P = 0,023); die Autoren bezeichneten dies als explorativen Befund. Eine Mediationsanalyse legte nahe, dass eine bessere Funktion der Beta-Zellen der Bauchspeicheldrüse, gemessen mit HOMA-B, den Schutzeffekt teilweise erklären könnte.\n\nDie Autoren folgern, dass die genetischen Daten einen umgekehrten Zusammenhang stützen, der zum Teil durch die Beta-Zell-Funktion bedingt ist, und halten weitere experimentelle und klinische Untersuchungen zur medikamentösen Beeinflussung des Osteoprotegerin-Signalwegs zur Diabetesprävention für nötig. Es handelt sich bisher um wissenschaftliche Ergebnisse, nicht um einen Nachweis der Wirksamkeit einer Behandlung.",
+    "es": "Un nuevo estudio genético sugiere que niveles más altos de osteoprotegerina en la sangre se asocian con un menor riesgo de diabetes tipo 2. Los resultados se publicaron en la revista Diabetology & Metabolic Syndrome; los autores son Ha, Lee, An, Kim y Oh (2026). Bioengineer.org informó sobre ello el 9 de noviembre de 2026.\n\nEl trabajo surgió de observaciones previas: en pacientes tratados con denosumab, un fármaco que actúa por una vía parcialmente análoga a la de la osteoprotegerina, se había registrado menos diabetes tipo 2. Los investigadores quisieron comprobar si la propia vía de la osteoprotegerina influye en la salud metabólica.\n\nPara ello, el equipo realizó un análisis de aleatorización mendeliana basado en dianas farmacológicas, que usa variantes genéticas como variables instrumentales para estimar efectos causales. La búsqueda de marcadores genéticos, la estimación del efecto de la exposición y la prueba de los resultados sobre diabetes se hicieron con fuentes de datos separadas.\n\nEl análisis principal halló que la osteoprotegerina circulante de origen genético se asociaba con una reducción estadísticamente significativa del riesgo de diabetes tipo 2: odds ratio 0,912, intervalo de confianza del 95 % de 0,857 a 0,972, P = 0,004. En análisis secundarios, niveles más altos se relacionaron de forma nominal con una menor HbA1c, marcador de la glucosa en sangre a largo plazo (beta −0,027; IC del 95 % de −0,050 a −0,004; P = 0,023); los autores lo calificaron de hallazgo exploratorio. Un análisis de mediación sugirió que una mejor función de las células beta del páncreas, medida con HOMA-B, podría explicar en parte la asociación protectora.\n\nLos autores concluyen que la evidencia genética respalda una relación inversa, impulsada en parte por la función de las células beta, y consideran que justifica más investigación experimental y clínica sobre la modulación farmacológica de la vía de la osteoprotegerina para prevenir la diabetes. Por ahora son resultados científicos, no una prueba de que un tratamiento funcione."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Отношение шансов (риск диабета 2 типа)",
+      "en": "Odds ratio (type 2 diabetes risk)",
+      "kk": "Шанс қатынасы (2 типті диабет қаупі)",
+      "de": "Odds Ratio (Typ-2-Diabetes-Risiko)",
+      "es": "Odds ratio (riesgo de diabetes tipo 2)"
+     },
+     "v": {
+      "ru": "0,912 (95% ДИ 0,857–0,972; P = 0,004)",
+      "en": "0.912 (95% CI 0.857–0.972; P = 0.004)",
+      "kk": "0,912 (95% СА 0,857–0,972; P = 0,004)",
+      "de": "0,912 (95-%-KI 0,857–0,972; P = 0,004)",
+      "es": "0,912 (IC 95 % 0,857–0,972; P = 0,004)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nRkU_b2M9NQ",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Судья и приставы помогли девушке с сахарным диабетом, которая упала в обморок во время снегопада",
+    "en": "Judge and bailiffs help young woman with diabetes who fainted during snowfall",
+    "kk": "Жаңбырда есінен танып қалған қант диабеті бар қызға судья мен приставтар көмектесті",
+    "de": "Richterin und Gerichtsvollzieher helfen jungen Frau mit Diabetes, die bei Schneefall ohnmächtig wurde",
+    "es": "Una jueza y agentes judiciales ayudan a una joven con diabetes que se desmayó durante una nevada"
+   },
+   "text": {
+    "ru": "Судья и судебные приставы оказали помощь девушке с сахарным диабетом, потерявшей сознание на улице во время снегопада.",
+    "en": "A judge and bailiffs assisted a young woman with diabetes who lost consciousness outdoors during snowfall.",
+    "kk": "Судья мен соттың приставтары қар жауған кезде көшеде есінен танып қалған қант диабеті бар қызға көмек көрсетті.",
+    "de": "Eine Richterin und Gerichtsvollzieher haben einer jungen Frau mit Diabetes geholfen, die während eines Schneefalls im Freien das Bewusstsein verlor.",
+    "es": "Una jueza y agentes judiciales ayudaron a una joven con diabetes que perdió el conocimiento al aire libre durante una nevada."
+   },
+   "url": "https://www.teleport2001.ru/news/2026-11-09/221056-sudya-i-pristavy-spasli-devushku-s-sakharnym-diabetom-kotoraya-upala-v-obmorok-vo-vremya-snegopada.html",
+   "src": "телепорт.рф",
+   "photoQuery": "winter snowfall city street",
+   "photo": {
+    "id": "u_KDsgJ7IGZy8",
+    "url": "https://images.unsplash.com/photo-1758229561242-9b9f1c1a00f7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTJ8fHdpbnRlciUyMHNub3dmYWxsJTIwY2l0eSUyMHN0cmVldHxlbnwxfDB8fHwxNzk0MTkzMzMyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Clay LeConey",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/christmas-tree-on-snowy-city-street-with-buildings-KDsgJ7IGZy8?utm_source=dia_news&utm_medium=referral",
+    "alt": "Christmas tree on snowy city street with buildings"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года девушка с сахарным диабетом 1 типа потеряла сознание возле здания Арбитражного суда Амурской области в Благовещенске, когда шёл сильный снегопад. По словам источника, без помощи она могла серьёзно пострадать от холода на улице.\n\nСудебные приставы Артём Кураков и Полина Демченко вместе с судьёй Андреем Стовбуном заметили её и быстро перевели в тёплое помещение суда, где уложили на диван. Затем к помощи подключились пристав Евгений Гроня и заместитель начальника отдела по обеспечению судопроизводства Ирина Кругляк, как сообщили в региональном управлении ФССП.\n\nВыяснилось, что у девушки сахарный диабет 1 типа, а инсулиновая помпа вовремя не сработала. Ей оказали первую помощь, измерили уровень сахара в крови, укутали тёплой одеждой и передали бригаде скорой помощи. По данным публикации, быстрые и грамотные действия помогли избежать тяжёлых осложнений для здоровья.\n\nВ материале не указаны имя и возраст девушки, значение уровня сахара и её состояние после передачи медикам. Сведения и фотографии предоставлены УФССП России по Амурской области, новость опубликовал сайт ТЕЛЕПОРТ.РФ.",
+    "en": "On 9 November 2026, a young woman with type 1 diabetes lost consciousness near the building of the Arbitration Court of the Amur Region in Blagoveshchensk while heavy snow was falling. According to the report, without help she could have been seriously harmed by the cold outside.\n\nCourt bailiffs Artem Kurakov and Polina Demchenko, together with judge Andrei Stovbun, noticed her and quickly moved her into a heated room inside the court, where she was laid on a sofa. Bailiff Yevgeny Gronya and deputy head of the court-proceedings support department Irina Kruglyak then joined in, according to the regional bailiff service.\n\nIt emerged that she has type 1 diabetes and that her insulin pump had not activated in time. She received first aid, her blood sugar was measured, she was wrapped in warm clothing and handed over to an ambulance crew. The report credits these prompt and competent steps with helping to avoid serious health complications.\n\nThe article does not name the woman, give her age or the blood sugar reading, or describe her condition after she was passed to medical staff. The information and photos come from the statement of the Amur regional office of the Federal Bailiff Service, and the story was published by the Teleport.rf news site.",
+    "kk": "2026 жылғы 9 қарашада Благовещенск қаласында, Амур облысы Арбитраж сотының ғимаратының жанында қатты қар жауып тұрғанда, 1-типті қант диабеті бар бір қыз есінен танып қалған. Хабарламаға сәйкес, көмексіз ол сырттағы суықтан едәуір зардап шегуі мүмкін еді.\n\nСот приставтары Артём Кураков пен Полина Демченко судья Андрей Стовбунмен бірге оны байқап, сот ішіндегі жылы бөлмеге тез көшірген, онда оны диванға жатқызған. Одан кейін пристав Евгений Гроня мен сот ісін жүргізуді қамтамасыз ету бөлімінің орынбасары Ирина Кругляк көмекке қосылған, бұл туралы ФССП России Амур облысы басқармасы хабарлаған.\n\nҚыздың 1-типті қант диабеті бар екені және инсулин помпасы уақтылы іске қосылмағаны анықталған. Оған алғашқы көмек көрсетіліп, қандағы қант деңгейі өлшенген, жылы киімге оралған және жедел жәрдем бригадасына тапсырылған. Жарияланымның деректеріне сәйкес, жылдам әрі сауатты әрекет денсаулыққа ауыр асқынулардың алдын алуға көмектескен.\n\nМатериалда қыздың аты-жөні, жасы, қандағы қант көрсеткіші және медиктерге тапсырылғаннан кейінгі жағдайы көрсетілмеген. Ақпарат пен суреттер ФССП России Амур облысы басқармасының мәлімдемесінен алынған, жаңалықты ТЕЛЕПОРТ.РФ сайты жариялаған.",
+    "de": "Am 9. November 2026 verlor eine junge Frau mit Typ-1-Diabetes in Blagoweschtschensk nahe dem Gebäude des Schiedsgerichts der Region Amur das Bewusstsein, während starker Schneefall herrschte. Laut Bericht hätte ihr ohne Hilfe die Kälte draußen ernsthaft schaden können.\n\nDie Gerichtsvollzieher Artem Kurakow und Polina Demtschenko bemerkten sie gemeinsam mit Richter Andrej Stowbun und brachten sie rasch in einen beheizten Raum des Gerichts, wo man sie auf ein Sofa legte. Danach kamen Gerichtsvollzieher Jewgeni Gronja und die stellvertretende Leiterin der Abteilung für Verfahrensunterstützung, Irina Krugljak, hinzu, wie der regionale Dienst mitteilte.\n\nEs stellte sich heraus, dass die Frau Typ-1-Diabetes hat und dass ihre Insulinpumpe nicht rechtzeitig auslöste. Sie erhielt Erste Hilfe, ihr Blutzucker wurde gemessen, sie wurde in warme Kleidung gehüllt und an ein Rettungsteam übergeben. Dem Bericht zufolge haben diese schnellen und fachkundigen Schritte geholfen, schwere gesundheitliche Komplikationen zu vermeiden.\n\nDer Artikel nennt weder den Namen oder das Alter der Frau noch den Blutzuckerwert oder ihren Zustand nach der Übergabe an das medizinische Personal. Die Angaben und Fotos stammen von der Mitteilung der regionalen Behörde des Gerichtsvollzieherdienstes im Gebiet Amur; veröffentlicht wurde die Meldung vom Nachrichtenportal Teleport.rf.",
+    "es": "El 9 de noviembre de 2026, una joven con diabetes tipo 1 perdió el conocimiento cerca del edificio del Tribunal de Arbitraje de la región de Amur, en Blagoveshchensk, mientras caía una fuerte nevada. Según el relato, sin ayuda podría haber sufrido daños graves por el frío en la calle.\n\nLos agentes judiciales Artem Kurakov y Polina Demchenko, junto con el juez Andrei Stovbun, la vieron y la llevaron con rapidez a una sala caldeada del tribunal, donde la tumbaron en un sofá. Después se sumaron el agente Yevgeny Gronya y la subjefa del departamento de apoyo a los procedimientos judiciales, Irina Kruglyak, según informó el servicio regional de agentes judiciales.\n\nSe supo que la joven tiene diabetes tipo 1 y que su bomba de insulina no se activó a tiempo. Recibió primeros auxilios, le midieron el azúcar en sangre, la abrigaron con ropa de abrigo y la entregaron a una brigada de ambulancia. El texto atribuye a estas medidas rápidas y competentes el haber evitado complicaciones graves para su salud.\n\nEl artículo no indica el nombre ni la edad de la joven, el valor de su glucemia ni su estado tras el traslado al personal médico. La información y las fotos proceden de la comunicación de la oficina regional del Servicio Federal de Agentes Judiciales en Amur, y la noticia fue publicada por el sitio Teleport.rf."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Тип диабета",
+      "en": "Type of diabetes",
+      "kk": "Қант диабетінің түрі",
+      "de": "Diabetes-Typ",
+      "es": "Tipo de diabetes"
+     },
+     "v": {
+      "ru": "Сахарный диабет 1 типа",
+      "en": "Type 1 diabetes",
+      "kk": "1-типті қант диабеті",
+      "de": "Typ-1-Diabetes",
+      "es": "Diabetes tipo 1"
+     }
+    },
+    {
+     "k": {
+      "ru": "Место происшествия",
+      "en": "Location",
+      "kk": "Оқиға орны",
+      "de": "Ort des Geschehens",
+      "es": "Lugar del suceso"
+     },
+     "v": {
+      "ru": "Благовещенск, возле здания Арбитражного суда Амурской области",
+      "en": "Blagoveshchensk, near the Arbitration Court of the Amur Region building",
+      "kk": "Благовещенск, Амур облысы Арбитраж сотының ғимаратының жанында",
+      "de": "Blagoweschtschensk, nahe dem Gebäude des Schiedsgerichts der Region Amur",
+      "es": "Blagoveshchensk, cerca del edificio del Tribunal de Arbitraje de la región de Amur"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nW5NP29jPTU",
+   "cat": "events",
+   "stage": "community",
+   "date": "2026-11-08",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Школы диабета на Ставрополье используют муляжи для отработки «здоровой тарелки»",
+    "en": "Diabetes schools in Stavropol use models to practise a 'healthy plate'",
+    "kk": "Ставрополь өлкесіндегі диабет мектептері «сау тәрелкені» меңгеру үшін мақеттерді қолданады",
+    "de": "Diabetesschulen in Stawropol üben mit Modellen den „gesunden Teller“",
+    "es": "Las escuelas de diabetes de Stávropol usan maquetas para practicar el «plato saludable»"
+   },
+   "text": {
+    "ru": "В школах диабета на Ставрополье для отработки принципов «здоровой тарелки» применяют муляжи продуктов.",
+    "en": "Diabetes schools in the Stavropol region use food models to practise the principles of a 'healthy plate'.",
+    "kk": "Ставрополь өлкесіндегі диабет мектептерінде «сау тәрелке» қағидаттарын меңгеру үшін тағам мақеттері қолданылады.",
+    "de": "Diabetesschulen in der Region Stawropol verwenden Lebensmittelmodelle, um die Prinzipien des „gesunden Tellers“ zu üben.",
+    "es": "Las escuelas de diabetes de la región de Stávropol usan modelos de alimentos para practicar los principios del «plato saludable»."
+   },
+   "url": "https://vechorka.ru/news/health/shkoly-diabeta-na-stavropole-ispolzuyut-mulyazhi-dlya-otrabotki-zdorovoj-tarelki",
+   "src": "Вечерний Ставрополь",
+   "photoQuery": "healthy plate vegetables",
+   "photo": {
+    "id": "u_1SJRLmhnmaA",
+    "url": "https://images.unsplash.com/photo-1590779032260-5623d6774f7a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8aGVhbHRoeSUyMHBsYXRlJTIwdmVnZXRhYmxlc3xlbnwxfDB8fHwxNzk0MTkzMzMzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Nathan Dumlao",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/assorted-vegetables-on-white-ceramic-plate-1SJRLmhnmaA?utm_source=dia_news&utm_medium=referral",
+    "alt": "assorted vegetables on white ceramic plate"
+   },
+   "body": {
+    "ru": "8 ноября в России стартовала тематическая неделя, приуроченная к Всемирному дню борьбы с диабетом, который отмечается 14 ноября. Диабет описан как хроническая болезнь, при которой уровень сахара в крови повышается из-за недостатка инсулина. Минздрав Ставропольского края напомнил о серьёзных последствиях: диабетической ретинопатии, которая входит в число частых причин слепоты, инфарктах и инсультах, нарушении кровообращения, повреждении нервов нижних конечностей (что может завершиться ампутацией) и хронической почечной недостаточности.\n\nВ регионе продолжается работа Школ диабета в рамках регионального проекта «Борьба с сахарным диабетом» национального проекта «Продолжительная и активная жизнь». Образовательные программы подготовлены для разных групп пациентов с учётом типа диабета и терапии. Медики проводят занятия в небольших группах, что позволяет подходить к каждому индивидуально. На занятиях применяют наглядные пособия, интерактивные доски и муляжи, с помощью которых отрабатывают навыки «здоровой тарелки».\n\nВ материале также перечислены общие рекомендации по снижению риска заболевания: отказ от алкоголя и табака, поддержание оптимального веса, физическая активность, избегание стрессов, регулярный замер глюкозы и давления, контроль холестерина. Упоминается норма не менее 0,5 кг овощей и фруктов в день, отказ от фастфуда и ограничение жиров и углеводов. Людям с диагнозом советуют регулярно принимать лекарства по назначению врача и проходить медосмотры.\n\nСтатья не содержит данных о том, сколько человек прошли обучение в школах в этом году, и не приводит новых показателей по программам. Сообщение носит общий характер, а дальнейшие планы школ в тексте не описаны, кроме продолжения их работы.",
+    "en": "On November 8, a thematic week tied to World Diabetes Day, marked on November 14, began across Russia. The article describes diabetes as a chronic condition in which blood sugar rises because of a shortage of insulin. The Stavropol Region's health ministry pointed to serious complications, including diabetic retinopathy, a frequent cause of blindness, as well as heart attacks, strokes, circulation problems, nerve damage in the lower limbs that can lead to amputation, and chronic kidney failure.\n\nDiabetes Schools continue to operate in the region under the regional project \"Fighting Diabetes,\" part of the national project \"Long and Active Life.\" Their educational programs were designed for different groups of patients, depending on diabetes type and therapy. Medical staff teach in small groups, which allows an individual approach. Classes use visual teaching aids, interactive whiteboards and food models that help participants practise building a \"healthy plate.\"\n\nThe piece also lists general recommendations for lowering the risk of the disease: giving up alcohol and tobacco, keeping a healthy weight, staying physically active, managing stress, and regularly checking glucose, blood pressure and cholesterol. It cites a guideline of at least 0.5 kg of vegetables and fruit per day, avoiding fast food, and limiting fats and carbohydrates. People with a diagnosis are advised to take prescribed medication regularly and attend medical check-ups.\n\nThe article does not say how many people have completed the schools' courses this year and gives no new figures on the programs. The report is general in nature, and beyond the schools continuing their work, it does not describe any further plans.",
+    "kk": "8 қарашада Ресейде Дүниежүзілік диабетпен күрес күніне (14 қараша) арналған тақырыптық апта басталды. Мақалада диабет қандағы қант деңгейі инсулин жетіспеушілігінен көтерілетін созылмалы ауру ретінде сипатталады. Ставрополь өлкесінің денсаулық сақтау министрлігі асқынулардың қаупі жоғары екенін ескертті: соқырлықтың жиі себебі саналатын диабеттік ретинопатия, жүрек инфаркті мен инсульт, қан айналымының бұзылуы, төменгі аяқ жүйкелерінің зақымдалуы (ампутацияға әкелуі мүмкін) және созылмалы бүйрек жеткіліксіздігі.\n\nӨлкеде «Борьба с сахарным диабетом» өңірлік жобасы аясында, «Продолжительная и активная жизнь» ұлттық жобасының бөлігі ретінде Диабет мектептерінің жұмысы жалғасуда. Оқу бағдарламалары диабет түріне және емдеуге байланысты пациенттердің әртүрлі топтары үшін дайындалған. Медицина қызметкерлері сабақтарды шағын топтарда өткізеді, бұл әрбір адамға жеке көзқарас ұстануға мүмкіндік береді. Сабақтарда көрнекі құралдар, интерактивті тақталар және «дұрыс тәрелке» дағдысын жаттықтыруға арналған муляждар қолданылады.\n\nМақалада қауіпті азайтуға арналған жалпы ұсыныстар да берілген: алкогольден және темекіден бас тарту, салмақты оңтайлы деңгейде ұстау, белсенді болу, стресстен аулақ болу, қан глюкозасы мен қан қысымын үнемі өлшеу және холестеринді бақылау. Күніне кемінде 0,5 кг көкөніс пен жеміс жеу нормасы, фастфуддан бас тарту және май мен көмірсуды шектеу айтылған. Диагнозы бар адамдарға дәрігер тағайындаған дәрілерді үнемі қабылдау және медициналық тексеруден өту кеңес беріледі.\n\nМақалада бұл жылы мектептердің курстарынан канша адам өткені туралы деректер жоқ, бағдарламалар бойынша жаңа көрсеткіштер де келтірілмеген. Хабарлама жалпы сипатта жазылған, ал мектептердің жұмысын жалғастырудан басқа кейінгі жоспарлар сипатталмаған.",
+    "de": "Am 8. November begann in ganz Russland eine thematische Woche, die dem Weltdiabetestag am 14. November gewidmet ist. Der Artikel beschreibt Diabetes als chronische Erkrankung, bei der der Blutzuckerspiegel wegen eines Insulinmangels steigt. Das Gesundheitsministerium der Region Stawropol wies auf ernste Folgen hin, darunter die diabetische Retinopathie, eine häufige Ursache für Erblindung, außerdem Herzinfarkte und Schlaganfälle, Durchblutungsstörungen, Nervenschäden an den unteren Gliedmaßen, die bis zur Amputation führen können, sowie chronisches Nierenversagen.\n\nIn der Region laufen die Diabetesschulen weiter, im Rahmen des regionalen Projekts „Kampf gegen Zuckerkrankheit“ des nationalen Projekts „Langes und aktives Leben“. Die Bildungsprogramme wurden für verschiedene Patientengruppen entwickelt, je nach Diabetestyp und Therapie. Das medizinische Personal unterrichtet in kleinen Gruppen, was einen individuellen Ansatz ermöglicht. Im Unterricht kommen anschauliche Lehrmittel, interaktive Tafeln und Modelle zum Einsatz, mit denen das Zusammenstellen eines „gesunden Tellers“ geübt wird.\n\nDer Beitrag nennt außerdem allgemeine Empfehlungen zur Risikosenkung: Verzicht auf Alkohol und Tabak, ein gesundes Körpergewicht, körperliche Aktivität, Stressvermeidung sowie regelmäßige Kontrolle von Blutzucker, Blutdruck und Cholesterin. Erwähnt wird auch die Richtgröße von mindestens 0,5 kg Gemüse und Obst pro Tag, der Verzicht auf Fast Food und die Begrenzung von Fetten und Kohlenhydraten. Betroffenen wird geraten, verordnete Medikamente regelmäßig einzunehmen und an Vorsorgeuntersuchungen teilzunehmen.\n\nDer Artikel nennt keine Zahl der Personen, die in diesem Jahr einen Kurs an den Schulen abgeschlossen haben, und enthält keine neuen Kennzahlen zu den Programmen. Die Meldung ist allgemein gehalten; über die Fortführung der Schularbeit hinaus werden keine weiteren Pläne beschrieben.",
+    "es": "El 8 de noviembre comenzó en toda Rusia una semana temática vinculada al Día Mundial de la Diabetes, que se conmemora el 14 de noviembre. El artículo describe la diabetes como una enfermedad crónica en la que el nivel de azúcar en sangre aumenta por falta de insulina. El ministerio de Salud de la región de Stávropol advirtió sobre complicaciones graves, entre ellas la retinopatía diabética, una causa frecuente de ceguera, además de infartos, ictus, problemas de circulación, daños en los nervios de las extremidades inferiores que pueden llevar a la amputación e insuficiencia renal crónica.\n\nLas Escuelas de Diabetes siguen funcionando en la región dentro del proyecto regional «Lucha contra la diabetes», parte del proyecto nacional «Vida larga y activa». Sus programas educativos se diseñaron para distintos grupos de pacientes, según el tipo de diabetes y el tratamiento. El personal médico imparte las clases en grupos pequeños, lo que permite un enfoque personalizado. Se utilizan materiales didácticos visuales, pizarras interactivas y maquetas para practicar la construcción de un «plato saludable».\n\nEl texto también recoge recomendaciones generales para reducir el riesgo: dejar el alcohol y el tabaco, mantener un peso óptimo, hacer actividad física, evitar el estrés y controlar con regularidad la glucosa, la presión arterial y el colesterol. Se menciona una referencia de al menos 0,5 kg de verduras y frutas al día, evitar la comida rápida y limitar grasas y carbohidratos. A las personas con diagnóstico se les aconseja tomar la medicación prescrita de forma regular y acudir a los controles médicos.\n\nEl artículo no indica cuántas personas han completado los cursos de las escuelas este año ni ofrece nuevas cifras sobre los programas. La información es de carácter general y, más allá de la continuidad de las escuelas, no describe planes posteriores."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Старт тематической недели ко Всемирному дню борьбы с диабетом",
+      "en": "Start of thematic week for World Diabetes Day",
+      "kk": "Дүниежүзілік диабетпен күрес күніне арналған тақырыптық аптаның басталуы",
+      "de": "Beginn der thematischen Woche zum Weltdiabetestag",
+      "es": "Inicio de la semana temática del Día Mundial de la Diabetes"
+     },
+     "v": {
+      "ru": "8 ноября",
+      "en": "November 8",
+      "kk": "8 қараша",
+      "de": "8. November",
+      "es": "8 de noviembre"
+     }
+    },
+    {
+     "k": {
+      "ru": "Рекомендуемая суточная норма овощей и фруктов (из статьи)",
+      "en": "Recommended daily amount of vegetables and fruit (from the article)",
+      "kk": "Көкөніс пен жемістің ұсынылған күндік мөлшері (мақаladан)",
+      "de": "Empfohlene tägliche Menge an Gemüse und Obst (aus dem Artikel)",
+      "es": "Cantidad diaria recomendada de verduras y frutas (del artículo)"
+     },
+     "v": {
+      "ru": "не менее 0,5 кг",
+      "en": "at least 0.5 kg",
+      "kk": "кемінде 0,5 кг",
+      "de": "mindestens 0,5 kg",
+      "es": "al menos 0,5 kg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nbXM_b2M9NQ",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-08",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Описан случай фульминантного диабета 1 типа на фоне гестационного диабета",
+    "en": "Case report describes fulminant type 1 diabetes superimposed on gestational diabetes",
+    "kk": "Гестациялық диабет фонында фулминантты 1-тип диабеті жағдайы сипатталған",
+    "de": "Fallbericht beschreibt fulminanten Typ-1-Diabetes auf dem Boden eines Schwangerschaftsdiabetes",
+    "es": "Un informe de caso describe diabetes tipo 1 fulminante superpuesta a diabetes gestacional"
+   },
+   "text": {
+    "ru": "В описании клинического случая рассказано о фульминантном диабете 1 типа, развившемся на фоне гестационного диабета.",
+    "en": "A clinical case report describes fulminant type 1 diabetes that developed on top of gestational diabetes.",
+    "kk": "Клиникалық жағдайдың сипаттамасында гестациялық диабет фонында дамыған фулминантты 1-тип диабеті баяндалған.",
+    "de": "Ein klinischer Fallbericht beschreibt einen fulminanten Typ-1-Diabetes, der sich auf einem Schwangerschaftsdiabetes entwickelte.",
+    "es": "Un informe de caso clínico describe una diabetes tipo 1 fulminante que se desarrolló sobre una diabetes gestacional."
+   },
+   "url": "https://bioengineer.org/case-report-details-fulminant-type-1-diabetes-superimposed-on-gestational-diabetes/",
+   "src": "Bioengineer.org",
+   "photoQuery": "pregnant woman blood glucose test",
+   "photo": {
+    "id": "u_SBtNby0IiG0",
+    "url": "https://images.unsplash.com/photo-1683727186226-910f31a9da45?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cHJlZ25hbnQlMjB3b21hbiUyMGJsb29kJTIwZ2x1Y29zZSUyMHRlc3R8ZW58MXwwfHx8MTc5NDE5MzMzM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-blood-glucose-testing-using-gluco-meter-SBtNby0IiG0?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person blood glucose testing using gluco-meter"
+   },
+   "body": {
+    "ru": "В журнале Frontiers in Endocrinology опубликован клинический случай 24-летней женщины, у которой во время беременности развился фульминантный диабет 1 типа; до этого ей назначали инсулин по поводу гестационного диабета. Авторы из больниц, связанных с Медицинским университетом Хайнаня в Хайкоу (Китай), отмечают, что состояние возникло внезапно в третьем триместре и завершилось внутриутробной гибелью плода.\n\nНа 33-й неделе беременности женщина пропустила одну запланированную дозу базального инсулина, после чего появились головокружение, тошнота и рвота. В первой больнице уровень глюкозы в плазме составил 19,14 ммоль/л (345 мг/дл), а в моче обнаружили кетоны 3+. Сердечную активность плода ещё регистрировали, но на следующий день сердечных тонов не было, что подтвердило внутриутробную гибель до перевода в специализированный стационар.\n\nПосле перевода анализы подтвердили тяжёлый диабетический кетоацидоз: глюкоза 20,77 ммоль/л (374 мг/дл), бета-гидроксибутират 6,63 ммоль/л (69,0 мг/дл), pH артериальной крови 7,235, бикарбонат 6,00 ммоль/л. Гликированный гемоглобин составлял 6,1% (43 ммоль/моль), что авторы сопоставляют с острой тяжестью состояния. Лечение включало внутривенные жидкости, инсулин, коррекцию электролитов и постоянный контроль. После стабилизации роды были индуцированы, родилась мёртвая девочка.\n\nДиагноз фульминантного диабета 1 типа был подтверждён после стабилизации: натощак и после стимуляции уровни С-пептида оказались очень низкими. При последующем амбулаторном наблюдении почти полный дефицит собственного инсулина сохранялся, что отличает это состояние от обычного гестационного диабета.\n\nАвторы предупреждают о риске «диагностического якоря»: внезапные желудочно-кишечные симптомы или ухудшение глюкозы у беременных с гестационным диабетом на инсулине требуют немедленной проверки на кетоз и ацидоз, а не объяснения только инсулинорезистентностью или пропуском дозы. Ограничение работы в том, что это наблюдательный отчёт об одном пациенте, поэтому он не показывает, насколько распространено состояние и применим ли подход шире.",
+    "en": "A case report published in Frontiers in Endocrinology describes a 24-year-old woman who developed fulminant type 1 diabetes during pregnancy after already receiving insulin for gestational diabetes. The authors, from hospitals linked to Hainan Medical University in Haikou, China, say the condition appeared suddenly in the third trimester and ended with the loss of the fetus in the womb.\n\nAt 33 weeks of pregnancy, the woman skipped one scheduled dose of basal insulin, after which she felt dizzy, nauseous and vomited. At the first hospital, her plasma glucose was 19.14 mmol/L (345 mg/dL) and her urine showed 3+ ketones. Fetal heart activity was still detectable, but the next day no heart tones could be found, confirming intrauterine death before she was moved to a specialized hospital.\n\nAfter the transfer, tests confirmed severe diabetic ketoacidosis: glucose 20.77 mmol/L (374 mg/dL), beta-hydroxybutyrate 6.63 mmol/L (69.0 mg/dL), arterial pH 7.235 and bicarbonate 6.00 mmol/L. Her glycated hemoglobin was 6.1% (43 mmol/mol), a figure the authors set against the acute severity of her condition. Treatment included intravenous fluids, insulin, electrolyte correction and continuous monitoring. Once stabilized, labor was induced and a stillborn girl was delivered.\n\nThe diagnosis of fulminant type 1 diabetes was confirmed after stabilization, when fasting and stimulated C-peptide levels were very low. Later outpatient follow-up showed that near-complete insulin deficiency persisted, which distinguishes the condition from typical gestational diabetes.\n\nThe authors warn of diagnostic anchoring: sudden gastrointestinal symptoms or worsening glucose in pregnant women with insulin-treated gestational diabetes should prompt immediate testing for ketosis and acidosis, rather than being attributed only to insulin resistance or a missed dose. A limitation is that this is an observational report on a single patient, so it cannot show how common the condition is or whether the approach works more broadly.",
+    "kk": "Frontiers in Endocrinology журналында 24 жастағы әйелдің жүктілік кезінде фульминантты 1 типті қант диабеті дамығаны туралы клиникалық жағдай сипатталған; ол бұған дейін гестациялық қант диабеті себебінен инсулин алып жүрген. Қытайдың Хайкоу қаласындағы Хайнань медицина университетімен байланысты ауруханалардың авторлары бұл жағдай үшінші триместрде кенет басталып, ішілік плод өлімімен аяқталғанын атап көрсетеді.\n\nЖүктіліктің 33-аптасында әйел базальды инсулиннің бір жоспарланған дозасын өткізіп алған, содан кейін бас айналу, жүрек айну және құсу пайда болған. Алғашқы ауруханада плазмадағы глюкоза деңгейі 19,14 ммоль/л (345 мг/дл), зәрде кетон 3+ анықталған. Плод жүрегінің қимылы әлі тіркелген, бірақ келесі күні жүрек дыбыстары естілмеген, бұл арнайы стационарға ауыстырылғанға дейін ішілік өлімді растаған.\n\nАуыстырылғаннан кейін талдаулар ауыр диабеттік кетоацидозды растаған: глюкоза 20,77 ммоль/л (374 мг/дл), бета-гидроксибутират 6,63 ммоль/л (69,0 мг/дл), артериялық қан pH 7,235, бикарбонат 6,00 ммоль/л. Гликирленген гемоглобин 6,1% (43 ммоль/моль) болған, авторлар мұны жедел ауырлығымен салыстырады. Емдеуге внутривенді сұйықтықтар, инсулин, электролиттерді түзету және үздіксіз бақылау кірді. Тұрақтанғаннан кейін босану жасанды түрде шақырылып, өлі қыз туылған.\n\nФульминантты 1 типті қант диабетінің диагнозы тұрақтанғаннан кейін расталған: ашқарынға және стимуляциядан кейінгі С-пептид деңгейі өте төмен болған. Кейінгі амбулаториялық бақылауда өз инсулинінің дерлік толық жетіспеушілігі сақталған, бұл жағдайды әдеттегі гестациялық қант диабетінен ажыратады.\n\nАвторлар «диагностикалық бекіту» қаупі туралы ескертеді: инсулин алатын гестациялық қант диабеті бар жүкті әйелдерде кенет асқазан-ішек симптомдары немесе глюкозаның нашарлауы кетоз бен ацидозға дереу тексеруді талап етеді, оны тек инсулинге төзімділікке немесе өткізіп алынған дозаға жатқызуға болмайды. Шектеу — бұл бір пациенттің бақылау баяны, сондықтан жағдайдың қаншалықты жиі кездесетінін және тәсілдің кеңірек тиімділігін көрсете алмайды.",
+    "de": "In einem im Journal Frontiers in Endocrinology veröffentlichten Fallbericht wird eine 24-jährige Frau beschrieben, die während der Schwangerschaft einen fulminanten Typ-1-Diabetes entwickelte, nachdem sie bereits wegen eines Schwangerschaftsdiabetes Insulin erhielt. Die Autoren aus Kliniken, die mit der Hainan Medical University in Haikou (China) verbunden sind, schildern, dass die Erkrankung im dritten Trimester plötzlich auftrat und mit dem Verlust des Fetus im Mutterleib endete.\n\nIn der 33. Schwangerschaftswoche ließ die Frau eine einzige geplante Dosis Basalinsulin aus und bekam danach Schwindel, Übelkeit und Erbrechen. In der ersten Klinik lag ihre Plasmaglukose bei 19,14 mmol/l (345 mg/dl), und im Urin wurden 3+ Ketone gemessen. Die fetale Herzaktivität war noch nachweisbar, doch am folgenden Tag ließen sich keine Herztöne mehr finden, was den intrauterinen Tod vor der Verlegung in eine spezialisierte Klinik bestätigte.\n\nNach der Verlegung bestätigten Untersuchungen eine schwere diabetische Ketoazidose: Glukose 20,77 mmol/l (374 mg/dl), Beta-Hydroxybutyrat 6,63 mmol/l (69,0 mg/dl), arterieller pH-Wert 7,235 und Bikarbonat 6,00 mmol/l. Ihr glykiertes Hämoglobin betrug 6,1 % (43 mmol/mol), einen Wert, den die Autoren dem akuten Schweregrad gegenüberstellen. Behandelt wurde mit intravenösen Flüssigkeiten, Insulin, Elektrolytausgleich und kontinuierlicher Überwachung. Nach der Stabilisierung wurde die Geburt eingeleitet, und ein totes Mädchen kam zur Welt.\n\nDie Diagnose eines fulminanten Typ-1-Diabetes wurde nach der Stabilisierung gestellt, als die C-Peptid-Werte nüchtern und nach Stimulation sehr niedrig waren. Die spätere ambulante Nachbeobachtung zeigte, dass der nahezu vollständige Mangel an körpereigenem Insulin fortbestand, was die Erkrankung vom üblichen Schwangerschaftsdiabetes unterscheidet.\n\nDie Autoren warnen vor diagnostischer Verankerung: Plötzliche Magen-Darm-Beschwerden oder eine Verschlechterung der Glukosewerte bei Schwangeren unter Insulintherapie sollten sofort auf Ketose und Azidose geprüft werden, statt allein einer Insulinresistenz oder einer ausgelassenen Dosis zugeschrieben zu werden. Einschränkend ist, dass es sich um die Beobachtung eines einzelnen Patienten handelt; daher lässt sich weder die Häufigkeit der Erkrankung ableiten noch belegen, dass das Vorgehen breiter wirkt.",
+    "es": "Un informe de caso publicado en la revista Frontiers in Endocrinology describe a una mujer de 24 años que desarrolló diabetes tipo 1 fulminante durante el embarazo, tras haber recibido previamente insulina por diabetes gestacional. Los autores, de hospitales vinculados a la Universidad Médica de Hainan en Haikou (China), indican que la enfermedad apareció de forma repentina en el tercer trimestre y terminó con la muerte fetal intrauterina.\n\nEn la semana 33 de gestación, la mujer omitió una dosis programada de insulina basal y después presentó mareo, náuseas y vómitos. En el primer hospital, su glucosa plasmática era de 19,14 mmol/L (345 mg/dL) y la orina mostraba cetonas 3+. La actividad cardíaca fetal aún se detectaba, pero al día siguiente no se encontraron latidos, lo que confirmó la muerte intrauterina antes del traslado a un centro especializado.\n\nTras el traslado, los análisis confirmaron una cetoacidosis diabética grave: glucosa de 20,77 mmol/L (374 mg/dL), beta-hidroxibutirato de 6,63 mmol/L (69,0 mg/dL), pH arterial de 7,235 y bicarbonato de 6,00 mmol/L. Su hemoglobina glicosilada fue del 6,1 % (43 mmol/mol), una cifra que los autores contrastan con la gravedad aguda. El tratamiento incluyó líquidos intravenosos, insulina, corrección de electrolitos y monitorización continua. Una vez estabilizada, se indujo el parto y nació una niña mortinata.\n\nEl diagnóstico de diabetes tipo 1 fulminante se confirmó tras la estabilización, cuando los niveles de péptido C en ayunas y tras estimulación eran muy bajos. En el seguimiento ambulatorio posterior persistió una deficiencia casi total de insulina propia, lo que la distingue de la diabetes gestacional habitual.\n\nLos autores advierten del riesgo de \"anclaje diagnóstico\": los síntomas digestivos repentinos o el empeoramiento de la glucosa en embarazadas con diabetes gestacional tratada con insulina deben estudiarse de inmediato en busca de cetosis y acidosis, en lugar de atribuirse solo a la resistencia a la insulina o a una dosis omitida. Como limitación, se trata de un informe observacional de una sola paciente, por lo que no permite estimar la frecuencia de la enfermedad ni demostrar que el enfoque funcione de forma general."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Уровень глюкозы в плазме при первом обращении",
+      "en": "Plasma glucose at first hospital",
+      "kk": "Алғашқы ауруханадағы плазмадағы глюкоза",
+      "de": "Plasmaglukose in der ersten Klinik",
+      "es": "Glucosa plasmática en el primer hospital"
+     },
+     "v": {
+      "ru": "19,14 ммоль/л (345 мг/дл)",
+      "en": "19.14 mmol/L (345 mg/dL)",
+      "kk": "19,14 ммоль/л (345 мг/дл)",
+      "de": "19,14 mmol/l (345 mg/dl)",
+      "es": "19,14 mmol/L (345 mg/dL)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Гликированный гемоглобин",
+      "en": "Glycated hemoglobin",
+      "kk": "Гликирленген гемоглобин",
+      "de": "Glykiertes Hämoglobin",
+      "es": "Hemoglobina glicosilada"
+     },
+     "v": {
+      "ru": "6,1% (43 ммоль/моль)",
+      "en": "6.1% (43 mmol/mol)",
+      "kk": "6,1% (43 ммоль/моль)",
+      "de": "6,1 % (43 mmol/mol)",
+      "es": "6,1 % (43 mmol/mol)"
+     }
+    }
+   ]
+  },
   {
    "id": "nbTg_b2M9NQ",
    "cat": "access",
@@ -412,6 +1036,44 @@ const DIA_NEWS={
      }
     }
    ]
+  },
+  {
+   "id": "ntodz9vYz01",
+   "cat": "community",
+   "date": "2026-11-07",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Врач-гинеколог объяснила, легко ли женщине с сахарным диабетом забеременеть",
+    "en": "Gynecologist explains whether it is easy for women with diabetes to get pregnant",
+    "kk": "Гинеколог қант диабеті бар әйелдің жүкті болуы оңай ма, соны түсіндірді",
+    "de": "Gynäkologin erklärt, ob es für Frauen mit Diabetes leicht ist, schwanger zu werden",
+    "es": "Una ginecóloga explica si es fácil para una mujer con diabetes quedarse embarazada"
+   },
+   "text": {
+    "ru": "Врач-гинеколог рассказала о том, как сахарный диабет может влиять на возможность беременности у женщин.",
+    "en": "A gynecologist explained how diabetes may affect the possibility of pregnancy in women.",
+    "kk": "Гинеколог қант диабетінің әйелдердің жүкті болу мүмкіндігіне қалай әсер етуі мүмкін екенін түсіндірді.",
+    "de": "Eine Gynäkologin erläuterte, wie Diabetes die Möglichkeit einer Schwangerschaft bei Frauen beeinflussen kann.",
+    "es": "Una ginecóloga explicó cómo la diabetes puede afectar la posibilidad de embarazo en las mujeres."
+   },
+   "url": "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
+   "src": "СБ. Беларусь сегодня",
+   "photoQuery": "pregnancy consultation doctor",
+   "photo": {
+    "id": "u_c8fnD1rKGCk",
+    "url": "https://images.unsplash.com/photo-1632053652571-a6a45052bbbd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cHJlZ25hbmN5JTIwY29uc3VsdGF0aW9uJTIwZG9jdG9yfGVufDF8MHx8fDE3OTQxOTMzMzR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "CDC",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-doctor-talking-to-a-pregnant-woman-in-a-waiting-room-c8fnD1rKGCk?utm_source=dia_news&utm_medium=referral",
+    "alt": "a doctor talking to a pregnant woman in a waiting room"
+   },
+   "body": {
+    "ru": "7 ноября 2026 года СБ. Беларусь сегодня опубликовал материал с участием Юлии Кисель, врача-гинеколога 19-й центральной районной поликлиники Минска. Она выступила в рамках проекта «Школа диабета» на YouTube-канале «Смотри и живи» и ответила на вопрос, насколько просто женщине с диабетом стать матерью.\n\nПо словам врача, повышенный уровень глюкозы может мешать зачатию, оплодотворению, а затем нормальному прикреплению и развитию эмбриона. Поэтому женщине с диабетом нужно обратиться к эндокринологу, чтобы привести показатели глюкозы в норму, оценить уровень гликированного гемоглобина и скорректировать принимаемую терапию. Киселъ отметила, что при диабете I и II типа у женщин нередко встречаются позднее менархе, нерегулярный цикл, бесплодие и ранняя менопауза. Высокая глюкоза вызывает окислительный стресс, который может нарушать работу яичников и развитие эмбриона.\n\nВрач подчеркнула, что о планируемой беременности нужно сообщить акушеру-гинекологу, чтобы подобрать надежную контрацепцию на время обследования и стабилизации показателей. Если лечение идет и глюкоза находится под контролем, успешно зачать и выносить беременность при диабете вполне возможно. По ее словам, доказано: оптимизация контроля гликемии и стабилизация поздних осложнений до зачатия заметно снижают частоту патологий беременности и замедляют прогрессирование сосудистых осложнений.\n\nПодход к беременности при диабете, по словам специалиста, сильно изменился. Школы для пациентов, современные высокоочищенные генно-инженерные инсулины и качественные средства самоконтроля помогают женщинам самостоятельно управлять болезнью, гибко корректировать инсулинотерапию и добиваться стабильной компенсации.\n\nМатериал основан на видеоинтервью и не содержит конкретных целевых значений глюкозы или статистических данных. В публикации не говорится о дальнейших шагах или продолжении темы.",
+    "en": "On 7 November 2026, the Belarusian outlet SB. Belarus Segodnya published a report featuring Yulia Kisel, a gynecologist at the 19th Central District Polyclinic in Minsk. Speaking in the \"Diabetes School\" project on the \"Smotri i zhivi\" YouTube channel, she addressed whether it is easy for a woman with diabetes to become pregnant.\n\nAccording to the doctor, high blood glucose can interfere with conception and fertilization, and later with the embryo's proper attachment and development. For that reason, a woman with diabetes should see an endocrinologist to bring her glucose readings back to normal, assess her glycated hemoglobin and adjust her current treatment. Kisel noted that women with type I or type II diabetes often experience late menarche, irregular cycles, infertility and early menopause. Elevated glucose causes oxidative stress, which can disrupt ovarian function and embryo development.\n\nShe stressed that a planned pregnancy should be reported to an obstetrician-gynecologist, who can choose reliable contraception while tests are underway and levels are stabilized. If treatment continues and glucose stays under control, she said, conceiving and carrying a pregnancy to term with diabetes is quite possible. Studies, she added, show that tightening glycemic control and stabilizing late complications before conception significantly lowers the frequency of pregnancy pathologies and slows the progression of vascular complications.\n\nThe approach to pregnancy with diabetes has changed substantially, according to the specialist. Patient schools, modern highly purified genetically engineered insulins and quality self-monitoring tools now help women manage their condition independently, adjust insulin therapy flexibly and reach stable control.\n\nThe piece is based on a video interview and gives no specific glucose targets or statistics. The article does not describe any next steps or follow-up coverage.",
+    "kk": "2026 жылдың 7 қарашасында SB. Беларусь бүгін басылымы Минскідегі 19-шы орталық аудандық емхананың гинеколог-дәрігері Юлия Кисельмен сұхбат жариялады. Ол «Диабет мектебі» жобасы аясында, YouTube-тағы «Смотри и живи» арнасында, диабеті бар әйелге жүкті болу оңай ма деген сұраққа жауап берді.\n\nДәрігердің айтуынша, қандағы глюкозаның жоғары деңгейі ұрықтануға, döллену... нақтырақ айтқанда ұрықтану мен ұрықтың кейін дұрыс бекуіне және дамуына кедергі келтіруі мүмкін. Сондықтан диабеті бар әйел эндокринологқа қаралып, глюкоза көрсеткіштерін қалыпқа келтіруі, гликирленген гемоглобинді бағалап, қазіргі емін түзетуі тиіс. Кисельдің атап өтуінше, 1-ші және 2-ші типтегі диабеті бар әйелдерде кеш менархе, бұзылған цикл, бедеулік және ерте менопауза жиі кездеседі. Жоғары глюкоза тотығу стрессін туындатып, аналық без қызметін және ұрық дамуын бұзуы мүмкін.\n\nОл жоспарланған жүктілік туралы акушер-гинекологқа хабарлау керektігін атап өтті, себебі тексеру жүріп, көрсеткіштер тұрақтанып жатқан кезеңде сенімді контрацепцияны таңдауға болады. Ем жалғасып, глюкоза бақылауда болса, диабет кезінде табысты ұрықтану мен жүктілікті аяқтау мүмкін екенін айтты. Зерттеулерге сүйенсек, ұрықтанғанға дейін гликемия бақылауын оңтайландыру және кеш асқынуларды тұрақтандыру жүктілік патологияларының жиілігін едәуір азайтып, қантамыр асқынуларының дамуын баяулатады.\n\nМаманның айтуынша, диабетпен жүктілікке көзқарас едәуір өзгерді. Пациенттер мектептері, генетикалық инженерия арқылы алынған жоғары тазартылған инсулиндер және сапалы өзін-өзі бақылау құралдары әйелдерге ауруды дербес басқаруға, инсулин емін икемді түзетуге және тұрақты компенсацияға жетуге көмектеседі.\n\nМатериал бейне-сұхбатқа негізделген және глюкозаның нақты мақсатты мәндерін немесе статистиканы бермейді. Мақалада келесі қадамдар немесе жалғасы туралы айтылмаған.",
+    "de": "Am 7. November 2026 veröffentlichte das belarussische Portal SB. Belarus Segodnja einen Beitrag mit Julia Kisel, Gynäkologin an der 19. Zentralen Bezirkspoliklinik in Minsk. Im Rahmen des Projekts „Diabetesschule“ auf dem YouTube-Kanal „Smotri i zhivi“ ging sie der Frage nach, wie leicht eine Frau mit Diabetes schwanger werden kann.\n\nLaut der Ärztin kann ein erhöhter Blutzucker die Empfängnis und die Befruchtung erschweren, später auch die korrekte Einnistung und Entwicklung des Embryos. Frauen mit Diabetes sollten deshalb eine Endokrinologin oder einen Endokrinologen aufsuchen, um ihre Glukosewerte zu normalisieren, das glykierte Hämoglobin zu bewerten und die laufende Therapie anzupassen. Kisel wies darauf hin, dass bei Diabetes Typ I und II späte erste Menstruation, unregelmäßige Zyklen, Unfruchtbarkeit und frühe Wechseljahre häufig vorkommen. Hoher Blutzucker verursache oxidativen Stress, der die Eierstockfunktion und die Embryonalentwicklung stören kann.\n\nEine geplante Schwangerschaft müsse der Frauenärztin oder dem Frauenarzt mitgeteilt werden, damit während der Untersuchungen und der Stabilisierung der Werte eine zuverlässige Verhütung gewählt werden könne. Bei laufender Behandlung und kontrolliertem Blutzucker sei es, so Kisel, durchaus möglich, bei Diabetes erfolgreich zu empfangen und die Schwangerschaft auszutragen. Studien zeigten, dass eine Optimierung der Blutzuckerkontrolle und die Stabilisierung später Komplikationen vor der Empfängnis das Auftreten von Schwangerschaftskomplikationen deutlich verringern und das Fortschreiten von Gefäßschäden verlangsamen.\n\nDer Umgang mit Schwangerschaft bei Diabetes habe sich laut der Fachärztin stark verändert. Schulungen für Betroffene, moderne hochgereinigte gentechnisch hergestellte Insuline und gute Selbstkontrollgeräte helfen Frauen heute, ihre Erkrankung selbstständig zu managen, die Insulintherapie flexibel anzupassen und eine stabile Einstellung zu erreichen.\n\nDer Beitrag beruht auf einem Videointerview und nennt weder konkrete Glukosezielwerte noch Statistiken. Der Artikel beschreibt keine weiteren Schritte oder Folgeberichte.",
+    "es": "El 7 de noviembre de 2026, el medio bielorruso SB. Belarus Segodnia publicó un artículo con Yulia Kisel, ginecóloga del Policlínico Central de Distrito n.º 19 de Minsk. Durante el proyecto «Escuela de la diabetes», emitido en el canal de YouTube «Smotri i zhivi», abordó si es fácil que una mujer con diabetes quede embarazada.\n\nSegún la médica, la glucosa alta en sangre puede dificultar la concepción y la fecundación y, más tarde, la implantación adecuada y el desarrollo del embrión. Por eso, una mujer con diabetes debería acudir a un endocrinólogo para normalizar sus valores de glucosa, evaluar la hemoglobina glicosilada y ajustar el tratamiento que sigue. Kisel señaló que en la diabetes tipo I y II son frecuentes la menarquia tardía, los ciclos irregulares, la infertilidad y la menopausia precoz. La glucosa elevada provoca estrés oxidativo, que puede alterar la función de los ovarios y el desarrollo del embrión.\n\nLa especialista subrayó que el embarazo planificado debe comunicarse al obstetra-ginecólogo, para elegir un anticonceptivo fiable mientras se realizan los estudios y se estabilizan los indicadores. Si el tratamiento continúa y la glucosa está controlada, afirmó, es perfectamente posible concebir y llevar el embarazo a término con diabetes. Añadió que, según estudios, optimizar el control glucémico y estabilizar las complicaciones tardías antes de la concepción reduce de forma notable la frecuencia de patologías del embarazo y frena la progresión de las complicaciones vasculares.\n\nEl enfoque de la gestación con diabetes ha cambiado mucho, según la especialista. Las escuelas para pacientes, las insulinas humanas de alta pureza obtenidas por ingeniería genética y los buenos dispositivos de autocontrol ayudan hoy a las mujeres a manejar su enfermedad por sí mismas, a ajustar la insulinoterapia con flexibilidad y a lograr un control estable.\n\nEl texto se basa en una entrevista en vídeo y no ofrece valores concretos de glucosa ni estadísticas. El artículo no describe próximos pasos ni seguimiento."
+   }
   },
   {
    "id": "nZNUT9vYz01",
@@ -1179,7 +1841,15 @@ const DIA_NEWS={
       "es": "unas 23 000"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u__zbqco3m7dA",
+    "url": "https://images.unsplash.com/photo-1758691462651-611d730c5272?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGxhYiUyMGVxdWlwbWVudCUyMGNsaW5pY3xlbnwxfDB8fHwxNzk0MTkzMzM1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitaly Gariev",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-female-doctor-wearing-a-stethoscope-sits-at-her-desk-_zbqco3m7dA?utm_source=dia_news&utm_medium=referral",
+    "alt": "A female doctor wearing a stethoscope sits at her desk"
+   }
   },
   {
    "id": "nk9BP29jPTU",
@@ -1404,7 +2074,53 @@ const DIA_NEWS={
       "es": "33,4 %"
      }
     }
-   ]
+   ],
+   "photo": {
+    "id": "u_8gG2PDqpktY",
+    "url": "https://images.unsplash.com/photo-1685485276223-0bb0226dcca8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBjaGVja2luZyUyMGJsb29kJTIwc3VnYXJ8ZW58MXwwfHx8MTc5NDE5MzMzNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "isens usa",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-cell-phone-8gG2PDqpktY?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person sitting at a table with a cell phone"
+   }
+  },
+  {
+   "id": "nVHcz9vYz01",
+   "cat": "access",
+   "date": "2026-11-06",
+   "added": "2026-11-09T03:02:09.070Z",
+   "title": {
+    "ru": "Врач отказал в наблюдении брянчанке с диабетом: замену искали через прокуратуру",
+    "en": "Doctor refused monitoring for Bryansk woman with diabetes; replacement sought via prosecutor",
+    "kk": "Брянскідегі диабеті бар әйелге дәрігер бақылаудан бас тартты: ауыстыру прокуратура арқылы іздестірілді",
+    "de": "Arzt verweigerte Betreuung einer Frau mit Diabetes aus Brjansk: Ersatz wurde über die Staatsanwaltschaft gesucht",
+    "es": "Un médico se negó a seguir a una mujer con diabetes de Brianks; la sustitución se buscó a través de la fiscalía"
+   },
+   "text": {
+    "ru": "Врач отказался наблюдать пациентку с диабетом из Брянска, и для поиска замены обратились в прокуратуру.",
+    "en": "A doctor refused to monitor a patient with diabetes from Bryansk, and the prosecutor's office was approached to find a replacement.",
+    "kk": "Дәрігер Брянскіден келген диабеті бар науқасты бақылаудан бас тартты, ауыстыруды табу үшін прокуратураға жүгінді.",
+    "de": "Ein Arzt lehnte die Betreuung einer Patientin mit Diabetes aus Brjansk ab; zur Suche nach einem Ersatz wurde die Staatsanwaltschaft eingeschaltet.",
+    "es": "Un médico se negó a atender a una paciente con diabetes de Brianks, y se recurrió a la fiscalía para encontrar un sustituto."
+   },
+   "url": "https://bryansktoday.ru/article/274944",
+   "src": "Bryansktoday",
+   "photoQuery": "doctor consultation patient",
+   "photo": {
+    "id": "u_tl447mekwuQ",
+    "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwY29uc3VsdGF0aW9uJTIwcGF0aWVudHxlbnwxfDB8fHwxNzk0MTkzMzM1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-talking-to-patient-in-clinic-tl447mekwuQ?utm_source=dia_news&utm_medium=referral",
+    "alt": "A smiling doctor in a white coat talking to a patient in a clinic"
+   },
+   "body": {
+    "ru": "6 ноября 2026 года брянское издание «БрянскToday» рассказало о жительнице Фокинского района Брянска, которая болеет сахарным диабетом и нуждается в постоянном медицинском наблюдении. Однако её лечащий врач отказался продолжать наблюдение, а замену ему так и не нашли.\n\nЖенщина обратилась в прокуратуру. Проверка показала, что руководитель медицинской организации не решил вопрос со сменой врача, и это нарушило требования законодательства об охране здоровья. Прокуратура направила главному врачу учреждения официальное представление с требованием устранить нарушения.\n\nПосле рассмотрения этого документа пациентке назначили нового лечащего врача-эндокринолога, и теперь она снова находится под медицинским наблюдением. Таким образом, замену удалось организовать только после вмешательства прокуратуры.\n\nВ материале не назван ни врач, ни медицинская организация, не сказано, как долго пациентка оставалась без наблюдения, и не упоминаются меры в отношении должностных лиц. Редакция также дала ссылку на отдельную публикацию, где говорится, что терапевтам хотят разрешить удалённо следить за давлением и уровнем сахара.",
+    "en": "On 6 November 2026, the Bryansk outlet Bryansktoday reported on a woman from the Fokinsky district of Bryansk who has diabetes and needs constant medical supervision. Her treating doctor, however, refused to keep observing her, and no replacement had been found.\n\nShe turned to the prosecutor's office. A check showed that the head of her medical organization had not resolved the question of changing physicians, which breached health-protection legislation. The prosecutors then sent the institution's chief physician a formal notice demanding that the violations be corrected.\n\nAfter that notice was considered, the patient was assigned a new treating endocrinologist, and she is again under medical supervision. So the replacement came only after the case went through the prosecutor's office.\n\nThe report does not name the doctor or the medical facility, does not say how long the patient went without follow-up care, and does not mention any measures against officials. The outlet also linked to a separate item noting that there are plans to allow therapists to monitor blood pressure and blood sugar remotely.",
+    "kk": "2026 жылдың 6 қарашасында «БрянскToday» басылымы Брянск қаласының Фокин ауданында тұратын, қант диабетімен ауыратын және үнемі медициналық бақылауды қажет ететін әйел туралы хабарлады. Алайда оны емдеп жүрген дәрігер бақылауын жалғастырудан бас тартты, ал оның орнына басқа дәрігер табылмаған.\n\nӘйел прокуратураға жүгінді. Тексеру барысында емдеу ұйымының басшысы дәрігерді ауыстыру мәселесін шешпегені анықталды, бұл денсаулық сақтау туралы заңнама талаптарын бұзды. Содан кейін прокуратура мекеме бас дәрігеріне бұзушылықтарды жою туралы прокурорлық ұсыну жіберді.\n\nБұл ұсыну қаралғаннан кейін науқасқа жаңа емдеуші эндокринолог тағайындалды, қазір ол қайтадан медициналық бақылауда. Сонымен дәрігер ауыстыру мәселесі тек прокуратура арқылы шешілді.\n\nМақалада дәрігердің де, медициналық ұйымның да аты аталмаған, науқастың қанша уақыт бақылаусыз қалғаны көрсетілмеген және лауазымды тұлғаларға қатысты шаралар туралы айтылмаған. Редакция терапевттерге қан қысымы мен қант деңгейін қашықтан бақылауға рұқсат беру жоспарланып отырғаны туралы басқа материалға сілтеме берген.",
+    "de": "Am 6. November 2026 berichtete das Bryansker Portal Bryansktoday über eine Frau aus dem Stadtbezirk Fokinski in Brjansk, die an Diabetes leidet und dauerhafte ärztliche Betreuung braucht. Ihr behandelnder Arzt lehnte es jedoch ab, sie weiter zu betreuen, und ein Ersatz war nicht gefunden worden.\n\nDie Frau wandte sich an die Staatsanwaltschaft. Eine Prüfung ergab, dass der Leiter der Medizineinrichtung die Frage eines Arztwechsels nicht geklärt hatte, was gegen die Gesetze zum Schutz der Gesundheit verstieß. Die Staatsanwaltschaft schickte dem Chefarzt der Einrichtung daraufhin eine formelle Aufforderung, die Verstöße zu beheben.\n\nNachdem diese Aufforderung geprüft worden war, wurde der Patientin eine neue behandelnde Endokrinologin bzw. ein neuer behandelnder Endokrinologe zugewiesen, und sie steht nun wieder unter ärztlicher Beobachtung. Der Arztwechsel kam also erst, nachdem der Fall die Staatsanwaltschaft erreicht hatte.\n\nDer Bericht nennt weder den Arzt noch die Medizineinrichtung, sagt nicht, wie lange die Patientin ohne Betreuung war, und erwähnt keine Maßnahmen gegen Verantwortliche. Das Portal verlinkte außerdem auf eine separate Meldung, wonach geplant ist, Therapeuten die Überwachung von Blutdruck und Blutzucker aus der Ferne zu erlauben.",
+    "es": "El 6 de noviembre de 2026, el medio regional Bryansktoday informó sobre una mujer del distrito Fokinski de Briansk que tiene diabetes y necesita supervisión médica constante. Sin embargo, su médico tratante se negó a seguir atendiéndola, y no se había encontrado a nadie que lo reemplazara.\n\nLa mujer acudió a la fiscalía. Una verificación determinó que el responsable de la organización médica no había resuelto la cuestión del cambio de médico, lo que incumplía la legislación de protección de la salud. Después, la fiscalía envió al médico jefe de la institución un requerimiento formal para que corrigiera las infracciones.\n\nTras revisarse ese requerimiento, a la paciente le asignaron un nuevo endocrinólogo tratante, y ahora vuelve a estar bajo supervisión médica. Así, el cambio de médico llegó solo después de que el caso pasara por la fiscalía.\n\nEl texto no nombra al médico ni al centro sanitario, no indica cuánto tiempo estuvo la paciente sin seguimiento y no menciona medidas contra los funcionarios. El medio también enlazó otra noticia que señala que se planea permitir a los terapeutas vigilar la presión arterial y el azúcar en sangre a distancia."
+   }
   },
   {
    "id": "nOXY_b2M9NQ",
@@ -2007,37 +2723,40 @@ const DIA_NEWS={
    }
   }
  ],
- "stats": {
-  "year": "2024–2025",
-  "adults": 589000000,
-  "t2d_share_min": 90,
-  "t1d": 9500000,
-  "t1d_kids": 1800000,
-  "src": "IDF Diabetes Atlas, 11-е изд. (2025) · T1D Index 3.0 (2025)",
-  "url": "https://diabetesatlas.org/"
- },
- "posts": [],
- "events": [],
- "photoPool": {
-  "date": "2026-11-08",
-  "research": [],
-  "approval": [],
-  "devices": [],
-  "drugs": [],
-  "access": [],
-  "market": [],
-  "events": [],
-  "community": []
- },
  "seen": [
+  "https://www.nur.kz/health/healthy-lifestyle/2453763-preparaty-ot-ozhireniya-i-diabeta-mogut-zashchitit-pamyat-i-kognitivnye-funkcii-mozga/",
+  "препараты от ожирения и диабета могут защитить память и когнитивные функции мозга",
+  "obesity and diabetes drugs may protect memory and brain cognitive function",
+  "https://116.ru/text/world/2026/11/09/76661508/",
+  "диабетик из казани купил лекарства дешевле за границей и был обвинён в контрабанде",
+  "diabetic from kazan bought cheaper medicines abroad and was accused of smuggling",
+  "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
+  "малоизученный белок может быть важным фактором развития диабета 2 типа",
+  "a little known protein could be a major culprit in type 2 diabetes",
+  "https://bioengineer.org/tirzepatide-shows-no-added-ocular-risk-in-diabetes-and-obesity-study/",
+  "тирзепатид не увеличивает риск для глаз у пациентов с диабетом и ожирением",
+  "tirzepatide shows no added ocular risk in diabetes and obesity study",
+  "https://medicaldialogues.in/diabetes-endocrinology/news/running-marathons-with-type-1-diabetes-can-be-safe-shows-small-study-using-continuous-glucose-monitoring-devices-182520",
+  "марафоны при диабете 1 типа могут быть безопасными показало небольшое исследование",
+  "running marathons with type 1 diabetes can be safe small study finds",
+  "https://bioengineer.org/higher-osteoprotegerin-levels-lower-type-2-diabetes-risk-genetic-study-finds/",
+  "более высокий уровень остеопротегерина снижает риск диабета 2 типа показало генетическое исследование",
+  "higher osteoprotegerin levels lower type 2 diabetes risk genetic study finds",
+  "https://www.teleport2001.ru/news/2026-11-09/221056-sudya-i-pristavy-spasli-devushku-s-sakharnym-diabetom-kotoraya-upala-v-obmorok-vo-vremya-snegopada.html",
+  "судья и приставы помогли девушке с сахарным диабетом которая упала в обморок во время снегопада",
+  "judge and bailiffs help young woman with diabetes who fainted during snowfall",
+  "https://vechorka.ru/news/health/shkoly-diabeta-na-stavropole-ispolzuyut-mulyazhi-dlya-otrabotki-zdorovoj-tarelki",
+  "школы диабета на ставрополье используют муляжи для отработки здоровой тарелки",
+  "diabetes schools in stavropol use models to practise a healthy plate",
+  "https://bioengineer.org/case-report-details-fulminant-type-1-diabetes-superimposed-on-gestational-diabetes/",
+  "описан случай фульминантного диабета 1 типа на фоне гестационного диабета",
+  "case report describes fulminant type 1 diabetes superimposed on gestational diabetes",
   "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
   "отцу ребёнка с диабетом из уфы вернули деньги за инсулин после иска прокуратуры",
   "father of a child with diabetes in ufa refunded for insulin after prosecutor s lawsuit",
   "https://bioengineer.org/hospital-study-reveals-gaps-in-diabetic-foot-self-care-knowledge-in-ethiopia/",
   "исследование в эфиопской больнице выявило пробелы в знаниях об уходе за стопой при диабете",
   "ethiopian hospital study reveals gaps in diabetic foot self care knowledge",
-  "https://news-bash.ru/news/ottsu-rebyonka-s-diabetom-iz-ufy-vernuli-dengi-za-insulin-posle-iska-prokuratury/",
-  "ufa father of child with diabetes refunded for insulin after prosecutor s lawsuit",
   "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
   "онкология диабет и деменция названы главными болезнями связанными со старением",
   "cancer diabetes and dementia named main age related diseases",
@@ -2050,6 +2769,9 @@ const DIA_NEWS={
   "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
   "уход при диабетических осложнениях выходит за рамки глюкозы приоритет уязвимости органов",
   "diabetes complication care expands beyond glucose to prioritise organ vulnerability",
+  "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
+  "врач гинеколог объяснила легко ли женщине с сахарным диабетом забеременеть",
+  "gynecologist explains whether it is easy for women with diabetes to get pregnant",
   "https://prospect.com.ru/news/7153433/minzdrav-predlogil-vvesti-distantsionnoe-nablyudenie-za-diabetom-i-gipertoniej.html",
   "минздрав предложил ввести дистанционное наблюдение за диабетом и гипертонией",
   "health ministry proposes remote monitoring for diabetes and hypertension",
@@ -2059,18 +2781,12 @@ const DIA_NEWS={
   "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
   "российские вузы создают новые подходы к терапии сахарного диабета",
   "russian universities develop new approaches to diabetes therapy",
-  "https://www.nmosktoday.ru/news/society/109515/",
-  "минздрав предложил разрешить дистанционное наблюдение пациентов с гипертонией и диабетом",
-  "health ministry proposes allowing remote monitoring of patients with hypertension and diabetes",
   "https://baonghean.vn/nghe-an-cap-nhat-tien-bo-moi-trong-chan-doan-dieu-tri-benh-noi-tiet-dai-thao-duong-10355308.html",
   "нге ан делится последними достижениями в диагностике и лечении эндокринных заболеваний и диабета",
   "nghe an shares latest advances in diagnosing and treating endocrine diseases and diabetes",
   "https://kuban.bfm.ru/news/64712",
   "врачи кубани проведут бесплатные обследования для снижения риска диабета",
   "kuban doctors to offer free examinations to reduce diabetes risk",
-  "https://www1.ru/news/2026/11/07/poliklinikam-mogut-razresit-distancionno-nabliudat-pacientov-s-diabetom.html",
-  "поликлиникам могут разрешить дистанционно наблюдать пациентов с диабетом",
-  "polyclinics may be allowed to monitor diabetes patients remotely",
   "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/",
   "снижение давления после инсульта и при диабете сложности в исследованиях и практике",
   "lowering blood pressure after stroke or with diabetes poses challenges in research and practice",
@@ -2098,6 +2814,9 @@ const DIA_NEWS={
   "https://www.vesty.co.il/main/article/sj9lqka6fx",
   "с 5 лет с диабетом кто болеет в израиле и как это лечат по новому",
   "diabetes from age 5 who is affected in israel and how it is now treated",
+  "https://bryansktoday.ru/article/274944",
+  "врач отказал в наблюдении брянчанке с диабетом замену искали через прокуратуру",
+  "doctor refused monitoring for bryansk woman with diabetes replacement sought via prosecutor",
   "https://www.sechenov.ru/news/news/uchenye-sechenovskogo-universiteta-pokazali-effektivnost-ii-monitoringa-pri-diabete-/",
   "ученые сеченовского университета показали эффективность ии мониторинга при диабете",
   "sechenov university scientists show effectiveness of ai monitoring in diabetes",
@@ -2119,11 +2838,172 @@ const DIA_NEWS={
   "https://riac34.ru/news/230645/",
   "эндокринолог минздрава рф подтвердила важность вакцинации от гриппа для пациентов с диабетом",
   "endocrinologist confirms importance of flu vaccination for patients with diabetes",
-  "https://health.mail.ru/news/3955951-minzdrav-predlozhil-razreshit-vracham-nablyudat-pacientov-s-diabetom-udalenno/",
-  "минздрав предложил разрешить врачам наблюдать пациентов с диабетом удалённо",
-  "health ministry proposes allowing doctors to monitor diabetes patients remotely",
   "https://zhukovsky.life/news/24120/",
   "голосовой ии помощник улучшил состояние пациентов с диабетом",
-  "voice ai assistant improved condition of diabetes patients"
- ]
+  "voice ai assistant improved condition of diabetes patients",
+  "https://news-bash.ru/news/ottsu-rebyonka-s-diabetom-iz-ufy-vernuli-dengi-za-insulin-posle-iska-prokuratury/",
+  "ufa father of child with diabetes refunded for insulin after prosecutor s lawsuit",
+  "https://www.nmosktoday.ru/news/society/109515/",
+  "минздрав предложил разрешить дистанционное наблюдение пациентов с гипертонией и диабетом",
+  "health ministry proposes allowing remote monitoring of patients with hypertension and diabetes",
+  "https://www1.ru/news/2026/11/07/poliklinikam-mogut-razresit-distancionno-nabliudat-pacientov-s-diabetom.html",
+  "поликлиникам могут разрешить дистанционно наблюдать пациентов с диабетом",
+  "polyclinics may be allowed to monitor diabetes patients remotely",
+  "https://health.mail.ru/news/3955951-minzdrav-predlozhil-razreshit-vracham-nablyudat-pacientov-s-diabetom-udalenno/",
+  "минздрав предложил разрешить врачам наблюдать пациентов с диабетом удалённо",
+  "health ministry proposes allowing doctors to monitor diabetes patients remotely"
+ ],
+ "stats": {
+  "year": "2024–2025",
+  "adults": 589000000,
+  "t2d_share_min": 90,
+  "t1d": 9500000,
+  "t1d_kids": 1800000,
+  "src": "IDF Diabetes Atlas, 11-е изд. (2025) · T1D Index 3.0 (2025)",
+  "url": "https://diabetesatlas.org/"
+ },
+ "posts": [],
+ "events": [],
+ "photoPool": {
+  "date": "2026-11-08",
+  "research": [
+   {
+    "id": "u_8yS04veb1TQ",
+    "url": "https://images.unsplash.com/photo-1581093577421-f561a654a353?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "ThisisEngineering",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/scientist-using-laptop-in-laboratory-8yS04veb1TQ?utm_source=dia_news&utm_medium=referral",
+    "alt": "A scientist in a white lab coat using a laptop in a laboratory"
+   },
+   {
+    "id": "u_YNZW7KW0uqs",
+    "url": "https://images.unsplash.com/photo-1618053448492-2b629c2c912c?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "DIANA HAUAN",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/woman-in-white-medical-scrub-YNZW7KW0uqs?utm_source=dia_news&utm_medium=referral",
+    "alt": "woman in white medical scrub"
+   },
+   {
+    "id": "u_oCLuFi9GYNA",
+    "url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/woman-standing-in-front-of-the-digital-machine-oCLuFi9GYNA?utm_source=dia_news&utm_medium=referral",
+    "alt": "woman standing in front of the digital machine"
+   },
+   {
+    "id": "u_JxoWb7wHqnA",
+    "url": "https://images.unsplash.com/photo-1630959305790-4c956ce6c0b6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/scientist-using-microscope-in-laboratory-JxoWb7wHqnA?utm_source=dia_news&utm_medium=referral",
+    "alt": "A person in a white lab coat looking through a microscope in a laboratory"
+   },
+   {
+    "id": "u_UNkNx6Hn9Fs",
+    "url": "https://images.unsplash.com/photo-1616996691748-3f5f78093ab0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "RephiLe water",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/man-in-blue-scrub-suit-standing-near-white-and-black-office-rolling-chair-UNkNx6Hn9Fs?utm_source=dia_news&utm_medium=referral",
+    "alt": "man in blue scrub suit standing near white and black office rolling chair"
+   },
+   {
+    "id": "u_oFK7xgf4_50",
+    "url": "https://images.unsplash.com/photo-1618053448748-b7251851d014?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8c2NpZW50aXN0JTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0MTkzMzM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "DIANA HAUAN",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/woman-in-white-laboratory-gown-holding-black-microphone-oFK7xgf4_50?utm_source=dia_news&utm_medium=referral",
+    "alt": "woman in white laboratory gown holding black microphone"
+   }
+  ],
+  "approval": [
+   {
+    "id": "u_8WYkI3cEZm8",
+    "url": "https://images.unsplash.com/photo-1758691461990-03b49d969495?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitaly Gariev",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-writing-on-a-patients-chart-8WYkI3cEZm8?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor writing on a patient's chart"
+   },
+   {
+    "id": "u_DK--4VWK1tw",
+    "url": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-talking-to-hospital-patient-DK--4VWK1tw?utm_source=dia_news&utm_medium=referral",
+    "alt": "A doctor in a white coat talking to a patient in a hospital bed"
+   },
+   {
+    "id": "u_gO-iULv-qbU",
+    "url": "https://images.unsplash.com/photo-1584516150909-c43483ee7932?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-talking-to-hospital-patient-gO-iULv-qbU?utm_source=dia_news&utm_medium=referral",
+    "alt": "A doctor in a white coat talking to a patient in a hospital bed"
+   },
+   {
+    "id": "u_nR2C9AVzfHY",
+    "url": "https://images.unsplash.com/photo-1631217871099-88310a909a32?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/woman-in-white-button-up-long-sleeve-shirt-holding-white-card-nR2C9AVzfHY?utm_source=dia_news&utm_medium=referral",
+    "alt": "woman in white button up long sleeve shirt holding white card"
+   },
+   {
+    "id": "u_IDM3n0LfNCY",
+    "url": "https://images.unsplash.com/photo-1758691461935-202e2ef6b69f?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitaly Gariev",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-talking-to-patient-in-an-office-IDM3n0LfNCY?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor talking to patient in an office"
+   },
+   {
+    "id": "u_XjpH81N6rDc",
+    "url": "https://images.unsplash.com/photo-1758691463198-dc663b8a64e4?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8ZG9jdG9yJTIwcGF0aWVudCUyMGNvbnN1bHRhdGlvbnxlbnwxfDB8fHwxNzk0MTkzMzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitaly Gariev",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-writing-notes-while-patient-sits-opposite-XjpH81N6rDc?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor writing notes while patient sits opposite"
+   }
+  ],
+  "devices": [
+   {
+    "id": "u_bPRZiasA8SM",
+    "url": "https://images.unsplash.com/photo-1684157127180-f7ffd7b67db9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-testing-blood-sugar-bPRZiasA8SM?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person testing blood sugar"
+   },
+   {
+    "id": "u_ohcYbJE0bMA",
+    "url": "https://images.unsplash.com/photo-1685061978048-4ffcf2d9acdc?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "isens usa",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-holding-a-remote-control-in-their-hand-ohcYbJE0bMA?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person holding a remote control in their hand"
+   },
+   {
+    "id": "u_9DZD95QYV4I",
+    "url": "https://images.unsplash.com/photo-1731477779613-0917d3095b31?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Lakshitha Siyasinghe",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-holder-9DZD95QYV4I?utm_source=dia_news&utm_medium=referral",
+    "alt": "A close up of a cell phone holder"
+   },
+   {
+    "id": "u_tnoTjGGo45s",
+    "url": "https://images.unsplash.com/photo-1666887360866-959a31b05985?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwYXJtfGVufDF8MHx8fDE3OTQxOTMzMzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Nappy",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-hand-holding-a-smart-watch-tnoTjGGo45s?utm_source=dia_news&utm_medium=referral",
+    "alt": "a hand holding a smart watch"
+   }
+  ],
+  "drugs": [],
+  "access": [],
+  "market": [],
+  "events": [],
+  "community": []
+ }
 };
