@@ -158,7 +158,7 @@ For each pick return:
 - "stage": one of ${JSON.stringify(STAGES)} or "" if none fits
 - "title": headline in 5 languages {"ru","en","kk","de","es"} (kk = Kazakh in Cyrillic), faithful to the original, no clickbait
 - "text": 1–2 sentence summary in the same 5 languages
-- "photo": 2–4 English words to search a stock photo library for a realistic, high-quality illustrative photo of the story's subject (e.g. "insulin pen close-up", "scientist microscope", "child glucose sensor", "pharmacy shelves"). Concrete objects or scenes only: no brand names, no real people's names, no text, no abstract ideas
+- "photo": 2–4 English words to search a stock photo library for a realistic, high-quality illustrative photo of the story's subject (if the story is about a specific patient or person, describe an object or setting instead of a person, so readers do not mistake a stranger for them) (e.g. "insulin pen close-up", "scientist microscope", "child glucose sensor", "pharmacy shelves"). Concrete objects or scenes only: no brand names, no real people's names, no text, no abstract ideas
 
 Already published on the site (do NOT pick another story about the same event or announcement, even from a different outlet or with different wording):
 ${old.slice(0, 40).map((x) => "- " + (x.title.ru || x.title.en)).join("\n") || "- (none)"}

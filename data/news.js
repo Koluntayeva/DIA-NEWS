@@ -2457,14 +2457,8 @@ const DIA_NEWS={
    "url": "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
    "src": "Stanford Health Care",
    "photoQuery": "bone marrow microscope",
-   "photo": {
-    "id": "u_Hu2yPu0vFQ8",
-    "url": "https://images.unsplash.com/photo-1578308175084-0cfbca809d29?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ym9uZSUyMG1hcnJvdyUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDIwNzgyM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "CDC",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/green-brown-and-white-textile-Hu2yPu0vFQ8?utm_source=dia_news&utm_medium=referral",
-    "alt": "green, brown, and white textile"
-   }
+   "photoTried": true,
+   "art": "doctor-patient"
   },
   {
    "id": "cure-cipsc-china",
@@ -2542,12 +2536,11 @@ const DIA_NEWS={
    "src": "Cell",
    "photoQuery": "woman smiling outdoors healthy",
    "photo": {
-    "id": "u_wm4DuvIpLj8",
-    "url": "https://images.unsplash.com/photo-1544507888-56d73eb6046e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8d29tYW4lMjBzbWlsaW5nJTIwb3V0ZG9vcnMlMjBoZWFsdGh5fGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Jamie Brown",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/woman-smiling-near-tree-outdoor-during-daytime-wm4DuvIpLj8?utm_source=dia_news&utm_medium=referral",
-    "alt": "woman smiling near tree outdoor during daytime"
+    "url": "assets/photos/dia-research-lab.jpg",
+    "credit": "DIA news",
+    "license": "",
+    "link": "",
+    "alt": "Исследователи в лаборатории изучают островковые клетки"
    }
   }
  ],
