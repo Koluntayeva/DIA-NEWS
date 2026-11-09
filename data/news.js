@@ -33,14 +33,6 @@ const DIA_NEWS={
    "src": "Администрация Иркутска",
    "photoQuery": "medical clinic waiting room",
    "local": true,
-   "photo": {
-    "id": "u__UJDZiZt5XY",
-    "url": "https://images.unsplash.com/photo-1784434675513-9bbbae1b5d0d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMGNsaW5pYyUyMHdhaXRpbmclMjByb29tfGVufDF8MHx8fDE3OTQyMDk0MjF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "C. Stone",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/dimly-lit-room-with-a-table-lamp-chairs-and-magazines-_UJDZiZt5XY?utm_source=dia_news&utm_medium=referral",
-    "alt": "Dimly lit room with a table lamp, chairs, and magazines"
-   },
    "bodyTried": true
   },
   {
@@ -971,14 +963,6 @@ const DIA_NEWS={
    "url": "https://www.teleport2001.ru/news/2026-11-09/221056-sudya-i-pristavy-spasli-devushku-s-sakharnym-diabetom-kotoraya-upala-v-obmorok-vo-vremya-snegopada.html",
    "src": "телепорт.рф",
    "photoQuery": "winter snowfall city street",
-   "photo": {
-    "id": "u_KDsgJ7IGZy8",
-    "url": "https://images.unsplash.com/photo-1758229561242-9b9f1c1a00f7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTJ8fHdpbnRlciUyMHNub3dmYWxsJTIwY2l0eSUyMHN0cmVldHxlbnwxfDB8fHwxNzk0MTkzMzMyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Clay LeConey",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/christmas-tree-on-snowy-city-street-with-buildings-KDsgJ7IGZy8?utm_source=dia_news&utm_medium=referral",
-    "alt": "Christmas tree on snowy city street with buildings"
-   },
    "body": {
     "ru": "9 ноября 2026 года девушка с сахарным диабетом 1 типа потеряла сознание возле здания Арбитражного суда Амурской области в Благовещенске, когда шёл сильный снегопад. По словам источника, без помощи она могла серьёзно пострадать от холода на улице.\n\nСудебные приставы Артём Кураков и Полина Демченко вместе с судьёй Андреем Стовбуном заметили её и быстро перевели в тёплое помещение суда, где уложили на диван. Затем к помощи подключились пристав Евгений Гроня и заместитель начальника отдела по обеспечению судопроизводства Ирина Кругляк, как сообщили в региональном управлении ФССП.\n\nВыяснилось, что у девушки сахарный диабет 1 типа, а инсулиновая помпа вовремя не сработала. Ей оказали первую помощь, измерили уровень сахара в крови, укутали тёплой одеждой и передали бригаде скорой помощи. По данным публикации, быстрые и грамотные действия помогли избежать тяжёлых осложнений для здоровья.\n\nВ материале не указаны имя и возраст девушки, значение уровня сахара и её состояние после передачи медикам. Сведения и фотографии предоставлены УФССП России по Амурской области, новость опубликовал сайт ТЕЛЕПОРТ.РФ.",
     "en": "On 9 November 2026, a young woman with type 1 diabetes lost consciousness near the building of the Arbitration Court of the Amur Region in Blagoveshchensk while heavy snow was falling. According to the report, without help she could have been seriously harmed by the cold outside.\n\nCourt bailiffs Artem Kurakov and Polina Demchenko, together with judge Andrei Stovbun, noticed her and quickly moved her into a heated room inside the court, where she was laid on a sofa. Bailiff Yevgeny Gronya and deputy head of the court-proceedings support department Irina Kruglyak then joined in, according to the regional bailiff service.\n\nIt emerged that she has type 1 diabetes and that her insulin pump had not activated in time. She received first aid, her blood sugar was measured, she was wrapped in warm clothing and handed over to an ambulance crew. The report credits these prompt and competent steps with helping to avoid serious health complications.\n\nThe article does not name the woman, give her age or the blood sugar reading, or describe her condition after she was passed to medical staff. The information and photos come from the statement of the Amur regional office of the Federal Bailiff Service, and the story was published by the Teleport.rf news site.",
@@ -1733,14 +1717,6 @@ const DIA_NEWS={
    "url": "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
    "src": "Vademec.ru",
    "photoQuery": "university laboratory researchers",
-   "photo": {
-    "id": "u_XLQuTdktpa8",
-    "url": "https://images.unsplash.com/photo-1766297247924-6638d54e7c89?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8dW5pdmVyc2l0eSUyMGxhYm9yYXRvcnklMjByZXNlYXJjaGVyc3xlbnwxfDB8fHwxNzk0MjA3ODIyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Chidera Faustina Okeke",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/two-scientists-working-on-computers-in-a-laboratory-XLQuTdktpa8?utm_source=dia_news&utm_medium=referral",
-    "alt": "Two scientists working on computers in a laboratory"
-   },
    "bodyTried": true
   },
   {
@@ -2280,15 +2256,7 @@ const DIA_NEWS={
    ],
    "url": "https://investors.vrtx.com/node/35101/pdf",
    "src": "Vertex Pharmaceuticals · NEJM",
-   "photoQuery": "stem cell research lab",
-   "photo": {
-    "id": "u_RlOAwXt2fEA",
-    "url": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c3RlbSUyMGNlbGwlMjByZXNlYXJjaCUyMGxhYnxlbnwxfDB8fHwxNzk0MjA3ODIzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Julia Koblitz",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/scientist-using-pipette-with-test-tubes-in-lab-RlOAwXt2fEA?utm_source=dia_news&utm_medium=referral",
-    "alt": "scientist using pipette with test tubes in lab"
-   }
+   "photoQuery": "stem cell research lab"
   },
   {
    "id": "cure-tegoprubart-12of12",
