@@ -56,7 +56,7 @@ const CAT_QUERIES = {
   community: ["healthy breakfast vegetables", "running shoes park", "glucose meter test strips"],
 };
 // photos with people are skipped for local stories (a stranger of another look would contradict the place), and for the fallback pool
-const PEOPLE = /\b(person|people|man|men|woman|women|girl|boy|child|children|kid|hand|hands|finger|doctor|nurse|patient|guy|lady|someone|family|couple|crowd|face|portrait|arm)s?\b/i;
+const PEOPLE = /\b(person|people|man|men|woman|women|girl|boy|child|children|kid|hand|hands|finger|doctor|nurse|patient|guy|lady|someone|family|couple|crowd|face|portrait|arm|scientist|researcher|worker|student|staff|team|surgeon|athlete|runner|baby|teen|senior|adult)s?\b/i;
 const LOCAL_TLD = /\.(ru|kz|by|uz|kg|tj|az|am|ge|md|ua|su|xn--p1ai)$/i;
 function isLocal(it) {
   if (it.local) return true;
