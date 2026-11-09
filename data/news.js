@@ -7,8 +7,158 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-09T07:03:34.379Z",
+ "updated": "2026-11-09T07:30:16.221Z",
  "items": [
+  {
+   "id": "nTXc_b2M9NQ",
+   "cat": "community",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:30:16.221Z",
+   "title": {
+    "ru": "В Иркутске проходит неделя борьбы с диабетом",
+    "en": "Diabetes awareness week under way in Irkutsk",
+    "kk": "Иркутскте қант диабетіне қарсы күрес аптасы өтуде",
+    "de": "Diabetes-Aufklärungswoche läuft in Irkutsk",
+    "es": "Semana de lucha contra la diabetes en Irkutsk"
+   },
+   "text": {
+    "ru": "В Иркутске проходит неделя, посвящённая борьбе с сахарным диабетом, организованная городской администрацией.",
+    "en": "A week dedicated to fighting diabetes is taking place in Irkutsk, organized by the city administration.",
+    "kk": "Иркутскте городтық әкімшілік ұйымдастырған қант диабетіне қарсы күрес аптасы өтуде.",
+    "de": "In Irkutsk findet eine Woche statt, die dem Kampf gegen Diabetes gewidmet ist und von der Stadtverwaltung organisiert wird.",
+    "es": "En Irkutsk se celebra una semana dedicada a la lucha contra la diabetes, organizada por la administración municipal."
+   },
+   "url": "https://admirk.ru/news/v_irkutske_prokhodit_nedelya_borby_s_diabetom/",
+   "src": "Администрация Иркутска",
+   "photoQuery": "medical clinic waiting room",
+   "local": true,
+   "photo": {
+    "id": "u__UJDZiZt5XY",
+    "url": "https://images.unsplash.com/photo-1784434675513-9bbbae1b5d0d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMGNsaW5pYyUyMHdhaXRpbmclMjByb29tfGVufDF8MHx8fDE3OTQyMDk0MjF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "C. Stone",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/dimly-lit-room-with-a-table-lamp-chairs-and-magazines-_UJDZiZt5XY?utm_source=dia_news&utm_medium=referral",
+    "alt": "Dimly lit room with a table lamp, chairs, and magazines"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nRXYz9vYz01",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:30:16.221Z",
+   "title": {
+    "ru": "Нижегородцам рассказали, как снизить риск развития сахарного диабета",
+    "en": "Nizhny Novgorod residents told how to lower their risk of diabetes",
+    "kk": "Нижний Новгород тұрғындарына қант диабеті қаупін қалай азайтуға болатыны айтылды",
+    "de": "Einwohner von Nischni Nowgorod erfuhren, wie sie ihr Diabetesrisiko senken können",
+    "es": "Se explicó a los habitantes de Nizhni Nóvgorod cómo reducir el riesgo de diabetes"
+   },
+   "text": {
+    "ru": "Специалисты рассказали нижегородцам о мерах, которые помогают снизить риск развития сахарного диабета.",
+    "en": "Specialists explained to Nizhny Novgorod residents measures that help reduce the risk of developing diabetes.",
+    "kk": "Мамандар нижегородтықтарға қант диабеті дамуының қаупін азайтатын шаралар туралы түсіндірді.",
+    "de": "Fachleute erklärten den Einwohnern von Nischni Nowgorod Maßnahmen, die das Risiko einer Diabetes-Erkrankung senken können.",
+    "es": "Especialistas explicaron a los habitantes de Nizhni Nóvgorod medidas que ayudan a reducir el riesgo de desarrollar diabetes."
+   },
+   "url": "https://www.niann.ru/?id=647629",
+   "src": "НИА «Нижний Новгород",
+   "photoQuery": "blood glucose test kit",
+   "local": true,
+   "photo": {
+    "id": "u_KUZnfk-2DSQ",
+    "url": "https://images.unsplash.com/photo-1518843875459-f738682238a6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIwOTQyMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sharon Pittaway",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/assorted-vegetables-KUZnfk-2DSQ?utm_source=dia_news&utm_medium=referral",
+    "alt": "assorted vegetables"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года НИА «Нижний Новгород» опубликовало материал о том, как снизить вероятность заболеть сахарным диабетом. Комментирует главный внештатный эндокринолог минздрава Нижегородской области Наталья Подпругина.\n\nПо её словам, диабет уже нельзя считать болезнью исключительно пожилых людей. Врачи всё чаще выявляют его у людей 30–40 лет и даже у подростков. Международная диабетическая федерация сообщает, что в 2025 году с диагнозом жили более 600 миллионов человек, около 40% из них не знали о болезни, а свыше миллиарда находятся в состоянии преддиабета. Рост диабета 2-го типа специалисты связывают с образом жизни: изменением питания, малоподвижностью, хроническим стрессом и избыточным весом.\n\nК факторам риска относят наследственность, ожирение (среди людей с ожирением диабет встречается в 20–30% случаев), заболевания поджелудочной железы и других эндокринных органов, а также некоторые вирусы, например ветряную оспу, краснуху, эпидемический паротит и грипп, которые могут повреждать клетки, вырабатывающие инсулин. Влиять на обмен веществ могут и длительный стресс, приём некоторых лекарств, злоупотребление алкоголем.\n\nЭндокринолог считает, что полностью отказываться от углеводов при диабете не нужно: основу рациона должны составлять сложные углеводы из круп, бобовых и цельнозернового хлеба, а сахар, сладости, варенье и мёд следует существенно ограничить. Умеренные нагрузки, такие как прогулки, зарядка, плавание и лечебная физкультура, полезны, однако слишком интенсивные тренировки могут вызвать гипогликемию, при которой глюкоза опускается ниже 3,3 ммоль/л. Женщины с диабетом могут родить здорового ребёнка, но беременность нужно заранее планировать вместе с эндокринологом.\n\nПоскольку на ранних стадиях болезнь часто не даёт заметных симптомов, важны регулярные осмотры: расчёт индекса массы тела, биоимпедансометрия, анализы крови на глюкозу и холестерин. Вылечить диабет полностью нельзя, но при соблюдении рекомендаций его можно компенсировать и сохранять активную жизнь. Любые изменения в питании, нагрузках и лечении следует согласовывать с врачом.",
+    "en": "On 9 November 2026, the Nizhny Novgorod news agency NIA \"Nizhny Novgorod\" published a piece on how to lower the chance of developing diabetes. The commentary comes from Natalia Podprugina, the region's chief freelance endocrinologist for the regional health ministry.\n\nAccording to her, diabetes can no longer be viewed as a disease of older people alone. Doctors increasingly detect it in people aged 30 to 40 and even in teenagers. The International Diabetes Federation reports that more than 600 million people lived with the diagnosis in 2025, around 40% of them unaware of it, and over a billion people have prediabetes. Specialists link the rise in type 2 diabetes to lifestyle: changes in diet, low physical activity, chronic stress and excess weight.\n\nListed risk factors include heredity, obesity (diabetes occurs in 20–30% of people with obesity), disorders of the pancreas and other endocrine organs, and certain viral infections such as chickenpox, rubella, mumps and influenza, which can damage the cells that produce insulin. Long-term stress, some medications and heavy alcohol use can also disturb metabolism.\n\nOn diet, the endocrinologist advises against cutting out carbohydrates altogether. Complex carbohydrates from grains, legumes and whole-grain bread should form the base, while sugar, sweets, jam and honey should be sharply limited. Moderate exercise such as walking, morning exercises, swimming and therapeutic gymnastics is beneficial, but overly intense training can cause hypoglycaemia, when blood glucose drops below 3.3 mmol/L. Women with diabetes can have a healthy child, but pregnancy should be planned in advance together with an endocrinologist.\n\nBecause the disease often produces no clear symptoms in its early stages, regular checkups matter: body mass index calculation, bioimpedance measurement, and blood tests for glucose and cholesterol. Diabetes cannot be fully cured, but with the specialists' recommendations it can be controlled and a full life maintained. Any changes to diet, exercise or treatment should be agreed with a doctor.",
+    "kk": "2026 жылдың 9 қарашасында «Нижний Новгород» ақпарат агенттігі (НИА) қант диабетіне шалдығу ықтималдығын қалай азайтуға болатыны туралы материал жариялады. Пікірді Нижегород облысы денсаулық сақтау министрлігінің бас штаттан тыс эндокринологы Наталья Подпругина берді.\n\nОның айтуынша, диабетті енді тек қарт адамдардың ауруы деп санауға болмайды. Дәрігерлер оны 30–40 жастағы адамдардан және тіпті жасөспірімдерден жиі анықтауда. Халықаралық диабет федерациясының мәліметінше, 2025 жылы диагнозбен 600 миллионнан астам адам өмір сүрген, олардың шамамен 40%-ы ауруын білмеген, ал бір миллиардтан астам адамда преддиабет бар. Мамандар 2-түрдегі диабеттің өсуін өмір салтымен байланыстырады: тамақтану өзгерісі, қозғалыстың аздығы, созылмалы стресс және артық салмақ.\n\nҚауіп факторларына тұқым қуалаушылық, семіздік (семіздігі бар адамдарда диабет 20–30% жағдайда кездеседі), ұйқы безі мен басқа эндокриндік мүшелердің ауытқулары, сондай-ақ суышеш, қызамық, эпидемиялық паротит және тұмау сияқты инсулин өндіретін жасушаларды зақымдауы мүмкін кейбір вирустық инфекциялар жатады. Ұзаққа созылған стресс, кейбір дәрі-дәрмектер және алкогольді көп ішу де зат алмасуға әсер етуі мүмкін.\n\nТамақтану жөнінде эндокринолог көмірсуды толық алып тастамауға кеңес береді: негізін астық, бұршақ тұқымдас дақылдар мен толық дәнді наннан алынатын күрделі көмірсулар құрауы тиіс, ал қант, тәтті тағамдар, джем мен балды айтарлықтай шектеу керек. Серуендеу, таңертеңгі жаттығу, жүзу және емдік дене шынықтыру сияқты орташа жүктемелер пайдалы, алайда тым қарқынды жаттығу гипогликемияға әкелуі мүмкін — қан глюкозасы 3,3 ммоль/л-ден төмендейді. Диабеті бар әйелдер сау бала көре алады, бірақ жүктілікті алдын ала эндокринологпен бірге жоспарлаған жөн.\n\nАуру ерте кезеңде айқын белгі бермейтіндіктен, мерзімді тексерулер маңызды: дене массасы индексін есептеу, биоимпедансометрия, қан глюкозасы мен холестеринге талдау. Диабетті толық емдеу мүмкін емес, бірақ мамандардың ұсынымдарын сақтаса, ауруды бақылауға алып, белсенді өмір сүруге болады. Тамақтану, жүктеме немесе емдеудегі кез келген өзгеріс дәрігермен келісілуі тиіс.",
+    "de": "Am 9. November 2026 veröffentlichte die Nachrichtenagentur NIA „Nischni Nowgorod“ einen Beitrag darüber, wie sich das Risiko für Diabetes senken lässt. Kommentiert wird das Thema von Natalja Podprugina, der leitenden externen Endokrinologin des regionalen Gesundheitsministeriums.\n\nIhren Angaben zufolge lässt sich Diabetes nicht mehr allein als Krankheit älterer Menschen betrachten. Ärzte stellen ihn zunehmend bei 30- bis 40-Jährigen und sogar bei Jugendlichen fest. Die Internationale Diabetes Föderation meldet, dass 2025 mehr als 600 Millionen Menschen mit der Diagnose lebten, rund 40 Prozent davon ohne Kenntnis ihrer Erkrankung, und dass über eine Milliarde Menschen eine Prädiabetes haben. Fachleute führen den Anstieg von Typ-2-Diabetes auf den Lebensstil zurück: veränderte Ernährung, wenig Bewegung, chronischen Stress und Übergewicht.\n\nZu den genannten Risikofaktoren zählen Veranlagung, Adipositas (Diabetes tritt bei 20 bis 30 Prozent der Menschen mit Adipositas auf), Erkrankungen der Bauchspeicheldrüse und anderer Hormondrüsen sowie bestimmte Virusinfektionen wie Windpocken, Röteln, Mumps und Grippe, die die insulinbildenden Zellen schädigen können. Auch langanhaltender Stress, manche Medikamente und starker Alkoholkonsum können den Stoffwechsel beeinflussen.\n\nBei der Ernährung rät die Ärztin davon ab, Kohlenhydrate vollständig zu streichen. Die Grundlage sollten komplexe Kohlenhydrate aus Getreide, Hülsenfrüchten und Vollkornbrot bilden, während Zucker, Süßigkeiten, Marmelade und Honig deutlich begrenzt werden sollten. Mäßige Bewegung wie Spazierengehen, Morgengymnastik, Schwimmen und Physiotherapie ist vorteilhaft, zu intensives Training kann jedoch eine Hypoglykämie auslösen, bei der der Blutzucker unter 3,3 mmol/l fällt. Frauen mit Diabetes können ein gesundes Kind bekommen, sollten eine Schwangerschaft aber frühzeitig gemeinsam mit einer Endokrinologin oder einem Endokrinologen planen.\n\nDa die Erkrankung in frühen Stadien häufig keine deutlichen Beschwerden verursacht, sind regelmäßige Untersuchungen wichtig: Berechnung des Body-Mass-Index, Bioimpedanzmessung sowie Blutuntersuchungen auf Glukose und Cholesterin. Diabetes lässt sich nicht vollständig heilen, mit den Empfehlungen der Fachleute kann er aber eingestellt und ein erfülltes Leben geführt werden. Änderungen bei Ernährung, Belastung oder Behandlung sollten stets mit einem Arzt abgestimmt werden.",
+    "es": "El 9 de noviembre de 2026, la agencia de noticias NIA \"Nizhni Nóvgorod\" publicó un artículo sobre cómo reducir la probabilidad de desarrollar diabetes. El comentario corre a cargo de Natalia Podprugina, endocrinóloga principal no adscrita del Ministerio de Salud regional.\n\nSegún la especialista, la diabetes ya no puede considerarse solo una enfermedad de personas mayores. Los médicos la detectan cada vez más en personas de entre 30 y 40 años e incluso en adolescentes. La Federación Internacional de Diabetes informa de que en 2025 más de 600 millones de personas vivían con el diagnóstico, alrededor del 40 % sin saberlo, y que más de mil millones tienen prediabetes. Los expertos vinculan el aumento de la diabetes tipo 2 con el estilo de vida: cambios en la alimentación, poca actividad física, estrés crónico y exceso de peso.\n\nEntre los factores de riesgo se mencionan la herencia, la obesidad (la diabetes aparece en el 20–30 % de las personas con obesidad), los trastornos del páncreas y de otras glándulas endocrinas, y ciertas infecciones virales como la varicela, la rubéola, las paperas y la gripe, que pueden dañar las células que producen insulina. El estrés prolongado, algunos medicamentos y el consumo abusivo de alcohol también pueden alterar el metabolismo.\n\nEn cuanto a la dieta, la endocrinóloga desaconseja eliminar por completo los carbohidratos. La base deben ser los carbohidratos complejos de cereales, legumbres y pan integral, mientras que el azúcar, los dulces, la mermelada y la miel deben limitarse de forma notable. El ejercicio moderado, como caminar, la gimnasia matutina, nadar o la fisioterapia, es beneficioso, pero el entrenamiento demasiado intenso puede provocar hipoglucemia, cuando la glucosa en sangre baja de 3,3 mmol/l. Las mujeres con diabetes pueden tener un hijo sano, aunque conviene planificar el embarazo con antelación y junto con un endocrinólogo.\n\nComo la enfermedad suele no dar síntomas claros en sus fases iniciales, son importantes los chequeos periódicos: cálculo del índice de masa corporal, bioimpedanciometría y análisis de sangre de glucosa y colesterol. La diabetes no puede curarse por completo, pero siguiendo las recomendaciones de los especialistas puede controlarse y mantenerse una vida plena. Cualquier cambio en la alimentación, el ejercicio o el tratamiento debe consultarse con el médico."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Людей с диабетом в мире в 2025 году",
+      "en": "People living with diabetes worldwide in 2025",
+      "kk": "2025 жылы әлемдегі диабеті бар адамдар",
+      "de": "Menschen mit Diabetes weltweit im Jahr 2025",
+      "es": "Personas con diabetes en el mundo en 2025"
+     },
+     "v": {
+      "ru": "более 600 миллионов",
+      "en": "more than 600 million",
+      "kk": "600 миллионнан астам",
+      "de": "mehr als 600 Millionen",
+      "es": "más de 600 millones"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доля людей с диабетом, не знавших о болезни",
+      "en": "Share of people with diabetes unaware of it",
+      "kk": "Ауруын білмеген диабеттік адамдардың үлесі",
+      "de": "Anteil der Betroffenen ohne Kenntnis der Erkrankung",
+      "es": "Proporción de personas con diabetes que no lo sabían"
+     },
+     "v": {
+      "ru": "около 40%",
+      "en": "around 40%",
+      "kk": "шамамен 40%",
+      "de": "rund 40 Prozent",
+      "es": "alrededor del 40 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доля случаев диабета среди людей с ожирением",
+      "en": "Share of diabetes cases among people with obesity",
+      "kk": "Семіздігі бар адамдардағы диабет жағдайларының үлесі",
+      "de": "Anteil der Diabetesfälle bei Adipositas",
+      "es": "Proporción de casos de diabetes en personas con obesidad"
+     },
+     "v": {
+      "ru": "20–30%",
+      "en": "20–30%",
+      "kk": "20–30%",
+      "de": "20–30 %",
+      "es": "20–30 %"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nBlZz9vYz01",
+   "cat": "events",
+   "stage": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:30:16.221Z",
+   "title": {
+    "ru": "В Ишимбае медики расскажут о мифах и реальности сахарного диабета",
+    "en": "Medics in Ishimbay to discuss myths and facts about diabetes",
+    "kk": "Ишимбайда медиктер қант диабеті туралы мифтер мен шындық туралы айтады",
+    "de": "Ärzte in Ischimbai sprechen über Mythen und Fakten zu Diabetes",
+    "es": "Médicos de Ishimbái hablarán sobre mitos y realidades de la diabetes"
+   },
+   "text": {
+    "ru": "Медики Ишимбая проведут разговор о распространённых мифах о сахарном диабете и о том, что соответствует действительности.",
+    "en": "Medical staff in Ishimbay will talk about common myths about diabetes and what is actually true.",
+    "kk": "Ишимбай медиктері қант диабеті туралы кең таралған мифтер мен шындық туралы әңгіме өткізеді.",
+    "de": "Medizinisches Personal in Ischimbai spricht über verbreitete Mythen zu Diabetes und was tatsächlich zutrifft.",
+    "es": "El personal médico de Ishimbái hablará de los mitos más comunes sobre la diabetes y de lo que es realmente cierto."
+   },
+   "url": "https://voshodnews.ru/news/novosti/2026-11-09/v-ishimbae-mediki-rasskazhut-pro-mify-i-realnost-saharnogo-diabeta-4869004",
+   "src": "Восход",
+   "photoQuery": "blood glucose meter",
+   "local": true,
+   "bodyTried": true
+  },
   {
    "id": "nGxSP29jPTU",
    "cat": "events",
@@ -202,7 +352,7 @@ const DIA_NEWS={
    },
    "url": "https://tgl.ru/news/item/26080-profilakticheskaya-akciya-saharnyy-diabet-ne-prigovor-kontroliruy-i-zhivi-polnocenno/",
    "src": "Администрация городского округа Тольятти",
-   "photoQuery": "",
+   "photoQuery": "glucose meter finger prick",
    "bodyTried": true
   },
   {
@@ -872,6 +1022,72 @@ const DIA_NEWS={
    ]
   },
   {
+   "id": "njNjP29jPTU",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-08",
+   "added": "2026-11-09T07:30:16.221Z",
+   "title": {
+    "ru": "Сахарный диабет: профилактика и контроль заболевания",
+    "en": "Diabetes: prevention and control of the disease",
+    "kk": "Қант диабеті: ауруды алдын алу және бақылау",
+    "de": "Diabetes: Vorbeugung und Kontrolle der Erkrankung",
+    "es": "Diabetes: prevención y control de la enfermedad"
+   },
+   "text": {
+    "ru": "Врач Дрибинской ЦРБ рассказывает о профилактике и контроле сахарного диабета.",
+    "en": "A doctor from the Dribin district hospital explains how to prevent and control diabetes.",
+    "kk": "Дрибин аудандық орталық ауруханасының дәрігері қант диабетінің алдын алу және бақылау туралы айтады.",
+    "de": "Eine Ärztin des Kreiskrankenhauses Dribin erklärt, wie Diabetes vorgebeugt und kontrolliert werden kann.",
+    "es": "Un médico del hospital central del distrito de Dribin explica cómo prevenir y controlar la diabetes."
+   },
+   "url": "https://www.dribin.by/zdorovie/o-profilaktike-i-kontrole-zabolevaniya-rasskazyvaet-vrach-uz-dribinskaya-czrb/",
+   "src": "dribin.by",
+   "photoQuery": "medical clinic consultation desk",
+   "local": true,
+   "body": {
+    "ru": "8 ноября 2026 года портал dribin.by, связанный с районной газетой «Савецкая вёска» в Беларуси, опубликовал интервью с врачом общей практики Дрибинской центральной районной больницы Викторией Федорович. Беседа посвящена распространённому мнению, будто диабет возникает от большого количества сладкого. По словам врача, болезнь гораздо сложнее, лишь частично связана с питанием и может затронуть любого человека.\n\nОна описывает диабет как группу нарушений обмена веществ, при которых углеводы усваиваются плохо, поэтому уровень сахара в крови заметно растёт. Избыток глюкозы способен повреждать сосуды, нервы и внутренние органы. В норме поджелудочная железа выделяет инсулин, который помогает клеткам получать глюкозу для энергии.\n\nПри первом типе иммунная система разрушает бета-клетки поджелудочной железы, и выработка инсулина прекращается; по словам врача, чаще всего это касается людей младше 30 лет. При втором типе инсулин есть, но клетки на него не реагируют, а железа постепенно истощается от перегрузки; эта форма чаще встречается у пожилых. Важны наследственность, образ жизни и факторы среды. Малоподвижность названа второй по значимости причиной после ожирения. После 40–45 лет риск второго типа удваивается каждые 10 лет, а наличие диабета у близких родственников повышает вероятность, поскольку передаётся предрасположенность, а не сама болезнь.\n\nВрач отмечает, что диабет второго типа во многих случаях можно предотвратить, изменив образ жизни, и что снижение массы тела входит в число самых эффективных мер. Рекомендуются овощи, бобовые, цельнозерновые продукты и клетчатка, регулярное дробное питание, умеренные ежедневные нагрузки — прогулки, плавание, велосипед, танцы, а также контроль стресса и сна. Избыток сахара, фастфуд, жареная пища, трансжиры и алкоголь названы факторами, способствующими болезни.\n\nЛюдям с высоким риском советуют регулярно проверять уровень сахара в крови; анализ можно сделать в районной поликлинике, результаты узнать у участкового врача. Интервью носит общий характер и не содержит местной статистики или сведений о лечении.",
+    "en": "On 8 November 2026, the dribin.by portal, linked to the district newspaper Savetskaya vioska in Belarus, published an interview with Viktoria Fedorovich, a general practitioner at the Dribin district central hospital. It addresses the widespread belief that eating a lot of sweets causes diabetes. According to the doctor, the disease is far more complex, only partly tied to diet, and can affect anyone.\n\nShe describes diabetes as a group of metabolic disorders in which carbohydrates are poorly absorbed, so blood sugar rises markedly. Excess glucose can damage blood vessels, nerves and internal organs. Normally the pancreas releases insulin, which lets cells take in glucose for energy.\n\nIn type 1, the immune system destroys the pancreas's beta cells and insulin production stops; according to the interview, this mostly affects people under 30. In type 2, insulin is present but cells do not respond to it, and the pancreas gradually wears out from overwork; this form is more common in older people. Genetics, lifestyle and environment all play a role, and inactivity is named as the second most important cause after obesity. After age 40–45, type 2 risk doubles every 10 years, and having close relatives with diabetes raises the risk, since a predisposition rather than the disease itself is inherited.\n\nThe doctor notes that type 2 can often be prevented by changing habits, and weight reduction is among the most effective steps. Recommended measures include vegetables, legumes, whole grains and fiber, regular smaller meals, daily moderate activity such as walking, swimming, cycling or dancing, and managing stress and sleep. Excess sugar, fast food, fried food, trans fats and alcohol are listed as promoting the disease.\n\nPeople at high risk are advised to test their blood sugar regularly; the test is available at the district polyclinic, and results can be obtained from the local family doctor. The interview is general in nature and contains no local statistics or treatment details.",
+    "kk": "2026 жылғы 8 қарашада Беларусьтегі аудандық «Савецкая вёска» газетімен байланысты dribin.by порталы Дрибин аудандық орталық ауруханасының жалпы практика дәрігері Виктория Федоровичпен сұхбат жариялады. Сұхбатта кең таралған пікір қозғалады: диабет көп тәтті жегеннен пайда болады деген ой. Дәрігердің айтуынша, ауру әлдеқайда күрделі, тек ішінара тамаққа байланысты және кез келген адамға келуі мүмкін.\n\nОл диабетті зат алмасу бұзылыстарының тобы ретінде сипаттайды: көмірсулар нашар сіңеді, сондықтан қандағы қант айтарлықтай көтеріледі. Глюкозаның артық мөлшері қан тамырларына, жүйке талшықтарына және ішкі ағзаларға зақым келтіруі мүмкін. Қалыпты жағдайда ұйқы безі инсулин бөледі, ол жасушаларға энергия үшін глюкозаны қабылдауға көмектеседі.\n\nБірінші түрде иммундық жүйе ұйқы безінің бета-жасушаларын жояды, сөйтіп инсулин өндірісі тоқтайды; сұхбат бойынша бұл көбіне 30 жасқа дейінгі адамдарға тән. Екінші түрде инсулин бар, бірақ жасушалар оған жауап бермейді, ал ұйқы безі артық жүктемеден біртіндеп тозады; бұл түр жасы үлкен адамдарда жиірек кездеседі. Тұқым қуалаушылық, өмір салты және қоршаған орта факторлары маңызды. Қозғалыссыз өмір салты семіздіктен кейінгі екінші маңызды себеп ретінде аталады. 40–45 жастан кейін екінші түр қаупі әр 10 жыл сайын екі есе артады, ал жақын туыстарда диабеттің болуы қауіпті арттырады, себебі тұқым қуалайтыны — ауру емес, бейімділік.\n\nДәрігер екінші түр диабетінің көп жағдайда өмір салтын өзгерту арқылы алдын алуға болатынын атап өтеді; салмақты азайту ең тиімді шаралардың бірі. Ұсынылатын шараларға көкөністер, бұршақ тұқымдас дақылдар, толық дәнді өнімдер мен талшық, жиі және аз мөлшерде тамақтану, күнделікті орташа жүктеме — серуендеу, жүзу, велосипед, би, сондай-ақ стресс пен ұйқыны бақылау жатады. Артық қант, фастфуд, қуырылған тағам, трансмайлар және алкоголь ауруды күшейтетін факторлар ретінде аталады.\n\nЖоғары қауіп тобындағыларға қандағы қант деңгейін тұрақты тексеруге кеңес беріледі; талдауды аудандық емханада тапсыруға болады, нәтижесін учаскелік дәрігерден білуге болады. Сұхбат жалпы сипатта, онда жергілікті статистика немесе емдеу туралы мәліметтер жоқ.",
+    "de": "Am 8. November 2026 veröffentlichte das Portal dribin.by, das mit der Bezirkszeitung „Savetskaya vioska“ in Belarus verbunden ist, ein Interview mit Viktoria Fedorovich, einer Allgemeinmedizinerin am Bezirkskrankenhaus Dribin. Es geht um die weit verbreitete Annahme, Diabetes entstehe durch viel Süßes. Laut der Ärztin ist die Krankheit weit komplexer, nur teilweise von der Ernährung abhängig und kann jeden treffen.\n\nSie beschreibt Diabetes als Gruppe von Stoffwechselstörungen, bei denen Kohlenhydrate schlecht aufgenommen werden, sodass der Blutzucker deutlich ansteigt. Überschüssige Glukose kann Blutgefäße, Nerven und innere Organe schädigen. Normalerweise gibt die Bauchspeicheldrüse Insulin ab, das den Zellen hilft, Glukose für Energie aufzunehmen.\n\nBei Typ 1 zerstört das Immunsystem die Beta-Zellen der Bauchspeicheldrüse, und die Insulinproduktion endet; laut dem Interview betrifft dies vor allem Menschen unter 30 Jahren. Bei Typ 2 ist Insulin vorhanden, doch die Zellen reagieren nicht darauf, und die Drüse erschöpft sich nach und nach durch Überlastung; diese Form tritt häufiger bei älteren Menschen auf. Genetik, Lebensstil und Umweltfaktoren spielen eine Rolle, wobei Bewegungsmangel als zweitwichtigste Ursache nach Übergewicht genannt wird. Nach dem 40. bis 45. Lebensjahr verdoppelt sich das Typ-2-Risiko alle 10 Jahre, und Diabetes bei nahen Verwandten erhöht die Gefahr, weil eine Veranlagung und nicht die Krankheit selbst vererbt wird.\n\nDie Ärztin betont, dass Typ 2 in vielen Fällen durch eine Umstellung der Lebensgewohnheiten verhindert werden kann; Gewichtsreduktion gehört zu den wirksamsten Schritten. Empfohlen werden Gemüse, Hülsenfrüchte, Vollkornprodukte und Ballaststoffe, regelmäßige kleinere Mahlzeiten, tägliche moderate Bewegung wie Spazierengehen, Schwimmen, Radfahren oder Tanzen sowie der Umgang mit Stress und Schlaf. Zuckerüberschuss, Fast Food, frittierte Speisen, Transfette und Alkohol gelten als begünstigende Faktoren.\n\nMenschen mit hohem Risiko wird geraten, ihren Blutzucker regelmäßig prüfen zu lassen; der Test ist in der Bezirkspoliklinik möglich, die Ergebnisse erfährt man bei der zuständigen Hausärztin oder dem Hausarzt. Das Interview ist allgemein gehalten und enthält keine lokalen Statistiken oder Angaben zur Behandlung.",
+    "es": "El 8 de noviembre de 2026, el portal dribin.by, vinculado al periódico distrital «Savetskaya vioska» de Bielorrusia, publicó una entrevista con Viktoria Fedorovich, médica de familia del hospital central del distrito de Dribin. Aborda la creencia extendida de que la diabetes surge por comer mucho dulce. Según la doctora, la enfermedad es mucho más compleja, depende solo en parte de la alimentación y puede afectar a cualquier persona.\n\nDescribe la diabetes como un grupo de trastornos del metabolismo en los que los carbohidratos se absorben mal, por lo que la glucosa en sangre sube de forma notable. El exceso de glucosa puede dañar los vasos sanguíneos, los nervios y los órganos internos. Normalmente, el páncreas libera insulina, que permite a las células captar glucosa para obtener energía.\n\nEn el tipo 1, el sistema inmunitario destruye las células beta del páncreas y la producción de insulina cesa; según la entrevista, esto afecta sobre todo a personas menores de 30 años. En el tipo 2, la insulina está presente, pero las células no responden a ella, y el páncreas se desgasta poco a poco por la sobrecarga; esta forma es más frecuente en personas mayores. La genética, el estilo de vida y el entorno influyen, y el sedentarismo figura como la segunda causa más importante después de la obesidad. Pasados los 40–45 años, el riesgo de tipo 2 se duplica cada 10 años, y tener familiares cercanos con diabetes lo aumenta, ya que se hereda una predisposición y no la enfermedad en sí.\n\nLa doctora señala que el tipo 2 puede prevenirse en muchos casos cambiando los hábitos, y que bajar de peso está entre las medidas más eficaces. Se recomiendan verduras, legumbres, cereales integrales y fibra, comidas regulares y más pequeñas, actividad física moderada a diario, como caminar, nadar, pedalear o bailar, y cuidar el estrés y el sueño. El exceso de azúcar, la comida rápida, los alimentos fritos, las grasas trans y el alcohol se citan como factores que favorecen la enfermedad.\n\nA las personas con alto riesgo se les aconseja controlar su glucemia con regularidad; el análisis puede hacerse en la policlínica del distrito y los resultados se obtienen con el médico de cabecera. La entrevista es de carácter general y no incluye estadísticas locales ni detalles sobre el tratamiento."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Риск после 40–45 лет",
+      "en": "Risk after age 40–45",
+      "kk": "40–45 жастан кейінгі қауіп",
+      "de": "Risiko ab 40–45 Jahren",
+      "es": "Riesgo después de los 40–45 años"
+     },
+     "v": {
+      "ru": "Риск диабета 2 типа удваивается каждые 10 лет",
+      "en": "Type 2 risk doubles every 10 years",
+      "kk": "Екінші түр қаупі әр 10 жыл сайын екі есе артады",
+      "de": "Typ-2-Risiko verdoppelt sich alle 10 Jahre",
+      "es": "El riesgo de tipo 2 se duplica cada 10 años"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст, чаще всего затрагиваемый при 1 типе",
+      "en": "Age most often affected by type 1",
+      "kk": "1-түр диабетте көбіне қай жас",
+      "de": "Altersgruppe bei Typ 1",
+      "es": "Edad más afectada en el tipo 1"
+     },
+     "v": {
+      "ru": "В основном люди младше 30 лет",
+      "en": "Mainly people under 30",
+      "kk": "Негізінен 30 жасқа дейінгі адамдар",
+      "de": "Vor allem Menschen unter 30 Jahren",
+      "es": "Sobre todo menores de 30 años"
+     }
+    }
+   ]
+  },
+  {
    "id": "nEJvP29jPTU",
    "cat": "cure",
    "stage": "early",
@@ -982,7 +1198,7 @@ const DIA_NEWS={
    },
    "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
    "src": "\"Орелтаймс\"",
-   "photoQuery": "",
+   "photoQuery": "sugar cubes spilled",
    "body": {
     "ru": "8 ноября 2026 года орловское издание «Орелтаймс» опубликовало материал, в котором врачи Колпнянской ЦРБ Орловской области объясняют, как заметить диабет у детей. По словам специалистов, случаи заболевания всё чаще выявляют у детей и молодёжи. Симптомы могут принимать за обычную усталость или период активного роста, а откладывание диагностики способно привести к тяжёлым последствиям.\n\nЧаще всего у детей встречается диабет 1-го типа, аутоиммунная болезнь, при которой организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у людей до 35–40 лет. Диабет 2-го типа, по словам медиков, тоже всё чаще встречается у молодых на фоне эпидемии ожирения, фастфуда и малоподвижного образа жизни. На ранних этапах у детей с ожирением отмечают повышенный уровень инсулина; лечение направлено на снижение инсулинорезистентности: диета без рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками врачи называют ситуации, когда ребёнок много пьёт и ест, чаще ходит в туалет, резко худеет или жалуется на слабость без видимой причины. Взрослые нередко объясняют это школьной нагрузкой или ростом. Медики напоминают, что без инсулина глюкоза не попадает в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. Это требует госпитализации в реанимацию и в тяжёлых случаях ведёт к инвалидизации или смерти ребёнка.\n\nВ заключение авторы призывают родителей внимательнее относиться к таким симптомам и своевременно обращаться к врачам. В материале не приведены статистические данные по региону, поэтому это общий разъяснительный текст, а не клинические рекомендации.",
     "en": "On 8 November 2026, the Oryol outlet OrelTimes published a report in which doctors from the Kolpna district hospital, a healthcare institution in the Oryol region, explain how to recognise diabetes in children. According to the specialists, cases are being found more and more often among children and young people. Symptoms can be mistaken for ordinary tiredness or a period of rapid growth, and delaying diagnosis can lead to serious consequences.\n\nType 1 diabetes is the form most often seen in children. It is an autoimmune disease in which the body destroys the beta cells of the pancreas that produce insulin. It usually shows itself between the ages of 4 and 14, but it can also appear later, including in people up to 35–40 years old. Type 2 diabetes is also appearing at younger ages, according to the doctors, linked to the obesity epidemic, fast food and low physical activity. In children with obesity, elevated insulin levels are seen in the early stages. Treatment aims to reduce insulin resistance through a diet without refined carbohydrates, less fat and more movement.\n\nThe doctors list warning signs: a child who drinks and eats much more than usual, urinates more often, loses weight rapidly, or complains of weakness without an obvious cause. Adults often attribute these changes to school workload or growth. Without insulin, glucose cannot pass into the tissues, so the body starts burning fat and protein, ketone bodies accumulate, and ketoacidosis develops. This requires hospital treatment in intensive care and, in severe cases, can lead to disability or the child's death.\n\nIn conclusion, the authors urge parents to pay closer attention to such symptoms and to see doctors in good time. The article does not give regional statistics, so it is a general explainer rather than clinical guidance.",
@@ -1305,7 +1521,7 @@ const DIA_NEWS={
    },
    "url": "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
    "src": "Хибины.ру",
-   "photoQuery": "",
+   "photoQuery": "medical clipboard stethoscope",
    "body": {
     "ru": "8 ноября 2026 года российские региональные СМИ передали комментарии Ольги Ткачевой, директора Российского геронтологического научно-клинического центра Пироговского университета и президента Российской ассоциации геронтологов и гериатров. «Хибины.ру» вынесли материал под заголовком о главных болезнях, связанных со старением, где упомянуты онкология, диабет и деменция.\n\nВ интервью Ткачева назвала болезни сердца и сосудов, злокачественные новообразования, сахарный диабет, патологии костно-мышечной системы, хроническую обструктивную болезнь легких и деменцию. По ее словам, именно эти недуги чаще всего снижают качество жизни и приводят к преждевременной смерти.\n\nГлавный совет специалиста — не дожидаться первых симптомов. Диспансеризация, по ее словам, помогает выявить болезнь на ранней стадии и обнаружить факторы риска, которые еще можно скорректировать. Менять образ жизни можно и раньше, на стадии предрисков, когда болезни еще нет, но уже видна неблагоприятная траектория.\n\nТкачева добавила, что в России открываются центры медицины здорового долголетия, где определяют не столько риски, сколько предриски. По ее мнению, профилактика на этом этапе может дать наибольший эффект.\n\nВажно понимать, что это экспертное мнение, а не результаты исследования. В сообщениях не приведено новых статистических данных и не указаны сроки дальнейших мер.",
     "en": "On 8 November 2026, Russian regional media reported comments by Olga Tkacheva, director of the Russian Gerontological Clinical Centre at Pirogov University and president of the Russian Association of Gerontologists and Geriatricians. Khibiny.ru ran the story under a headline that names oncology, diabetes and dementia as major diseases linked to ageing.\n\nIn the interview, Tkacheva listed heart and blood vessel disease, cancer, diabetes, musculoskeletal disorders, chronic obstructive pulmonary disease and dementia as the conditions most directly tied to ageing. She said these are the most common causes of reduced quality of life and early death.\n\nHer central message was not to wait for symptoms. Regular medical check-ups, known in Russia as dispensary examinations, can detect disease at an early stage and reveal risk factors that can still be corrected. She added that people can begin changing their lifestyle even earlier, at the \"pre-risk\" stage, when no illness is present yet but an unfavourable trajectory is visible.\n\nTkacheva also said healthy longevity centres are opening across Russia to identify pre-risks rather than only risks. In her view, prevention is most effective at this early stage.\n\nThe statements are expert opinion rather than study results. The coverage presents no new statistics and gives no timeline for further measures.",
@@ -1548,7 +1764,7 @@ const DIA_NEWS={
    },
    "url": "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
    "src": "СБ. Беларусь сегодня",
-   "photoQuery": "",
+   "photoQuery": "pregnancy test kit",
    "body": {
     "ru": "7 ноября 2026 года СБ. Беларусь сегодня опубликовал материал с участием Юлии Кисель, врача-гинеколога 19-й центральной районной поликлиники Минска. Она выступила в рамках проекта «Школа диабета» на YouTube-канале «Смотри и живи» и ответила на вопрос, насколько просто женщине с диабетом стать матерью.\n\nПо словам врача, повышенный уровень глюкозы может мешать зачатию, оплодотворению, а затем нормальному прикреплению и развитию эмбриона. Поэтому женщине с диабетом нужно обратиться к эндокринологу, чтобы привести показатели глюкозы в норму, оценить уровень гликированного гемоглобина и скорректировать принимаемую терапию. Киселъ отметила, что при диабете I и II типа у женщин нередко встречаются позднее менархе, нерегулярный цикл, бесплодие и ранняя менопауза. Высокая глюкоза вызывает окислительный стресс, который может нарушать работу яичников и развитие эмбриона.\n\nВрач подчеркнула, что о планируемой беременности нужно сообщить акушеру-гинекологу, чтобы подобрать надежную контрацепцию на время обследования и стабилизации показателей. Если лечение идет и глюкоза находится под контролем, успешно зачать и выносить беременность при диабете вполне возможно. По ее словам, доказано: оптимизация контроля гликемии и стабилизация поздних осложнений до зачатия заметно снижают частоту патологий беременности и замедляют прогрессирование сосудистых осложнений.\n\nПодход к беременности при диабете, по словам специалиста, сильно изменился. Школы для пациентов, современные высокоочищенные генно-инженерные инсулины и качественные средства самоконтроля помогают женщинам самостоятельно управлять болезнью, гибко корректировать инсулинотерапию и добиваться стабильной компенсации.\n\nМатериал основан на видеоинтервью и не содержит конкретных целевых значений глюкозы или статистических данных. В публикации не говорится о дальнейших шагах или продолжении темы.",
     "en": "On 7 November 2026, the Belarusian outlet SB. Belarus Segodnya published a report featuring Yulia Kisel, a gynecologist at the 19th Central District Polyclinic in Minsk. Speaking in the \"Diabetes School\" project on the \"Smotri i zhivi\" YouTube channel, she addressed whether it is easy for a woman with diabetes to become pregnant.\n\nAccording to the doctor, high blood glucose can interfere with conception and fertilization, and later with the embryo's proper attachment and development. For that reason, a woman with diabetes should see an endocrinologist to bring her glucose readings back to normal, assess her glycated hemoglobin and adjust her current treatment. Kisel noted that women with type I or type II diabetes often experience late menarche, irregular cycles, infertility and early menopause. Elevated glucose causes oxidative stress, which can disrupt ovarian function and embryo development.\n\nShe stressed that a planned pregnancy should be reported to an obstetrician-gynecologist, who can choose reliable contraception while tests are underway and levels are stabilized. If treatment continues and glucose stays under control, she said, conceiving and carrying a pregnancy to term with diabetes is quite possible. Studies, she added, show that tightening glycemic control and stabilizing late complications before conception significantly lowers the frequency of pregnancy pathologies and slows the progression of vascular complications.\n\nThe approach to pregnancy with diabetes has changed substantially, according to the specialist. Patient schools, modern highly purified genetically engineered insulins and quality self-monitoring tools now help women manage their condition independently, adjust insulin therapy flexibly and reach stable control.\n\nThe piece is based on a video interview and gives no specific glucose targets or statistics. The article does not describe any next steps or follow-up coverage.",
@@ -1579,7 +1795,7 @@ const DIA_NEWS={
    },
    "url": "https://prospect.com.ru/news/7153433/minzdrav-predlogil-vvesti-distantsionnoe-nablyudenie-za-diabetom-i-gipertoniej.html",
    "src": "prospect.com.ru",
-   "photoQuery": "",
+   "photoQuery": "blood pressure monitor",
    "body": {
     "ru": "Минздрав России подготовил проект изменений, который предусматривает дистанционное наблюдение за пациентами с артериальной гипертензией и сахарным диабетом. Об этом 7 ноября 2026 года сообщил портал Prospect со ссылкой на РИА Новости; речь идет о предложении, которое пока находится на рассмотрении.\n\nПоликлиники смогут применять медицинские приборы с функцией удаленной передачи данных. Количество таких устройств будет зависеть от числа людей, которым нужен подобный контроль, то есть заранее не задано. В тексте не уточняется, о каких именно устройствах идет речь.\n\nСхема описана поэтапно. Терапевт сможет направить пациента к профильному специалисту, а затем продолжить лечение и наблюдение, в том числе дистанционно, с учетом рекомендаций этого врача.\n\nПоскольку речь идет о проекте, правила пока не действуют. Текст статьи обрывается до заключительной части, поэтому сроки, критерии отбора и порядок работы на практике в нем не раскрыты. Полную информацию можно найти в оригинальном материале.",
     "en": "The Russian Ministry of Health has prepared a draft of amendments that would bring in remote monitoring for patients with arterial hypertension and diabetes. The report, published on 7 November 2026 by the Prospect news site and citing RIA Novosti, presents this as a proposal still under consideration.\n\nUnder the plan, polyclinics would be able to use medical devices with a function for transmitting data remotely. The number of these devices would therefore depend on the expected caseload, not on a fixed figure. The article does not specify which devices are meant.\n\nThe described procedure works in stages. A therapist could refer a patient to a specialist in the relevant field and then carry on treatment and observation, including remotely, in line with that specialist's recommendations.\n\nBecause this is a draft, the rules are not yet in force. The text of the article is cut off before its final part, so it offers no further details on timing, eligibility or how the arrangement would operate in day-to-day practice. For the complete picture, readers can consult the original report.",
@@ -1774,7 +1990,7 @@ const DIA_NEWS={
    },
    "url": "https://kuban.bfm.ru/news/64712",
    "src": "BFM Кубань",
-   "photoQuery": "",
+   "photoQuery": "clinic examination room",
    "body": {
     "ru": "Неделя, посвящённая борьбе с диабетом, пройдёт в Краснодарском крае с 9 по 15 ноября. По данным BFM Кубань, на протяжении семи дней врачи будут объяснять жителям, как предотвратить это заболевание.\n\nВ программу входят выезды мобильного центра скрининговой диагностики и занятия школы здоровья, где речь пойдёт о профилактике сахарного диабета и его осложнений. Площадки для обследований появятся в Краснодаре, Новороссийске, а также в Славянском, Тимашевском и Тбилисском районах.\n\nСпециалисты напоминают: контроль уровня сахара в крови, сбалансированное питание, регулярные физические нагрузки и своевременные проверки помогают держать риски под контролем. Андрей Сахаров, главный внештатный специалист по медицинской профилактике минздрава края, объясняет, что эти меры уменьшают вероятность болезни и её последствий.\n\nВ заголовке обследования названы бесплатными. В доступной версии текста не указаны часы работы и точные адреса каждой площадки, поэтому перед визитом стоит уточнить детали в местной поликлинике или у органов здравоохранения.",
     "en": "A week devoted to the fight against diabetes will take place in Krasnodar Krai from 9 to 15 November. According to BFM Kuban, over the course of seven days doctors will explain to residents how this disease can be prevented.\n\nThe programme includes trips by a mobile screening diagnostics centre and sessions at a health school, where the focus will be on preventing diabetes and its complications. Examination sites will be set up in Krasnodar, Novorossiysk, and in the Slavyansky, Timashevsky and Tbilissky districts.\n\nSpecialists remind people that monitoring blood sugar levels, eating a balanced diet, staying physically active and getting check-ups on time help keep risks under control. Andrey Sakharov, the region's chief freelance specialist in medical prevention, explains that these measures reduce the likelihood of the illness and its consequences.\n\nThe headline describes the examinations as free. The available version of the text does not give opening hours or exact addresses for each site, so it is worth checking details with a local clinic or the health authorities before visiting.",
@@ -1905,150 +2121,6 @@ const DIA_NEWS={
      }
     }
    ]
-  },
-  {
-   "id": "nhidz9vYz01",
-   "cat": "devices",
-   "date": "2026-11-07",
-   "added": "2026-11-08T12:48:49.190Z",
-   "title": {
-    "ru": "Помогает ли датчик глюкозы похудеть: мнение врача из Тюмени",
-    "en": "Does a glucose sensor help with weight loss? Tyumen doctor explains",
-    "kk": "Глюкоза датчигі арықтауға көмектесе ме? Тюмень дәрігерінің пікірі",
-    "de": "Hilft ein Glukosesensor beim Abnehmen? Ärztin aus Tjumen erklärt",
-    "es": "¿Ayuda un sensor de glucosa a adelgazar? Lo explica una médica de Tiumén"
-   },
-   "text": {
-    "ru": "Тюменский врач объяснила, может ли датчик глюкозы помочь в снижении веса.",
-    "en": "A doctor from Tyumen explained whether a glucose sensor can help with weight loss.",
-    "kk": "Тюмень дәрігері глюкоза датчигі салмақ түсіруге көмектесе ала ма, соны түсіндірді.",
-    "de": "Eine Ärztin aus Tjumen erklärte, ob ein Glukosesensor beim Abnehmen helfen kann.",
-    "es": "Una médica de Tiumén explicó si un sensor de glucosa puede ayudar a perder peso."
-   },
-   "url": "https://t-l.ru/411151.html",
-   "src": "Тюменская линия",
-   "photoQuery": "glucose sensor on arm",
-   "photo": {
-    "url": "assets/photos/dia-cgm-phone-man.jpg",
-    "credit": "DIA news",
-    "license": "",
-    "link": "",
-    "alt": "Мужчина с датчиком глюкозы смотрит данные в телефоне"
-   },
-   "body": {
-    "ru": "7 ноября 2026 года тюменский терапевт и нутрициолог Вероника Сычкова рассказала местным СМИ, помогает ли датчик непрерывного мониторинга глюкозы (CGM) сбросить вес. Изначально такие сенсоры создавали для людей с диабетом, но сейчас ими интересуются и те, кто хочет похудеть.\n\nДатчик обычно крепится на плечо и круглосуточно измеряет уровень глюкозы в межклеточной жидкости, передавая данные в приложение на смартфоне. По словам врача, сам по себе датчик жир не сжигает, но показывает, как организм конкретного человека реагирует на разные продукты: овсянка, гречка, фруктовые смузи или батончики из фиников могут давать у разных людей разные графики. Прибор также помогает связать питание с самочувствием. Например, прогулка 15 минут после ужина может сделать подъём глюкозы менее выраженным.\n\nГлавное ограничение: для здоровых людей без диабета убедительных доказательств того, что постоянное ношение датчика само по себе помогает худеть, пока недостаточно. Для снижения веса по-прежнему важен общий дефицит калорий: идеальные графики не спасут от набора веса при переедании. Специалист также напомнила, что подъём сахара после еды – нормальная реакция, а стремление к идеально ровной линии и отказ от углеводов могут привести к расстройствам пищевого поведения и нехватке питательных веществ.\n\nНосить датчик месяцами, чтобы изучить реакции организма, не обязательно: иногда хватает 2–4 недель, но самостоятельно трактовать каждое изменение графика не стоит. Врач подчеркнула, что датчик – прежде всего медицинский прибор для контроля диабета, а не потребительский гаджет. Использовать его здоровым людям без назначения врача бессмысленно и может вызвать тревожность и расстройство пищевого поведения. Обсудить мониторинг с врачом можно при нарушениях углеводного обмена, в том числе при преддиабете. Дальнейших шагов материал не описывает.",
-    "en": "On 7 November 2026, Tyumen therapist and nutritionist Veronika Sychkova told local media whether a continuous glucose monitoring (CGM) sensor can help people lose weight. Such sensors were originally designed for people with diabetes, but they now also attract people who want to shed pounds.\n\nThe sensor is usually worn on the upper arm and measures glucose levels in the fluid between cells around the clock, sending the data to a smartphone app. According to the doctor, the device does not burn fat on its own, but it shows how a particular person's body responds to different foods: oatmeal, buckwheat, fruit smoothies or date bars can produce different curves for different people. The device can also help link eating habits with how someone feels. For example, a 15-minute walk after dinner may make a glucose rise less pronounced.\n\nThe main limitation is that, for healthy people without diabetes, there is still insufficient solid evidence that wearing the sensor on its own helps with weight loss. An overall calorie deficit remains essential: perfect graphs will not prevent weight gain from overeating. The specialist also noted that a rise in blood sugar after eating is a normal reaction, and that striving for a perfectly flat line or cutting out carbohydrates can lead to eating disorders and a lack of nutrients.\n\nWearing the sensor for months is not necessary to learn how the body reacts; sometimes 2–4 weeks is enough, though people should not interpret every change in the graph on their own. The doctor stressed that the sensor is first and foremost a medical device for diabetes control, not a consumer gadget. Using it without a doctor's prescription is pointless for healthy people and can cause anxiety and disordered eating. Monitoring can be discussed with a doctor in cases of carbohydrate metabolism disorders, including prediabetes. The report does not describe any further steps.",
-    "kk": "2026 жылғы 7 қарашада Тюмень терапевті және нутрициолог Вероника Сычкова жергілікті БАҚ-қа үздіксіз глюкоза мониторингі датчигі (CGM) салмақ тастауға көмектесе ала ма, соны түсіндірді. Мұндай датчиктер алдымен қант диабеті бар адамдарға арналған еді, қазір оларға арықтағысы келетіндер де қызығушылық танытып жүр.\n\nДатчик әдетте иыққа бекітіледі және тәулік бойы жасушааралық сұйықтықтағы глюкоза деңгейін өлшеп, деректерді смартфон қолданбасына жібереді. Дәрігердің айтуынша, құрылғы өз бетінше майды жаққа алмайды, бірақ нақты адамның организмі әр түрлі тағамға қалай жауап беретінін көрсетеді: сұлы, гречка, жеміс смузилері немесе құрма батончиктері әр адамда әртүрлі қисық беруі мүмкін. Құрылғы тамақтану мен әл-ауқатты байланыстыруға да көмектеседі. Мысалы, кешкі аста соң 15 минут серуендеу глюкоза көтерілуін азайтуы мүмкін.\n\nНегізгі шектеу: диабеті жоқ сау адамдар үшін датчикті үнемі тағудың өз бетінше салмақ тастауға көмектесетінін дәлелдейтін сенімді мәліметтер әзірге жеткіліксіз. Жалпы калория тапшылығы маңызды күйінде қалады: идеал графиктер асып жеуден салмақ қосуды тоқтатпайды. Маман сонымен қатар тағамнан кейін қант деңгейінің көтерілуі қалыпты реакция екенін және график тегіс сызық болуын немесе көмірсулардан толық бас тартуды мақсат ету тамақтану бұзылыстарына және қоректік заттардың жетіспеушілігіне әкелуі мүмкін екенін атап өтті.\n\nОрганизмнің реакциясын білу үшін датчикті айлармен тағудың қажеті жоқ: кейде 2–4 апта жеткілікті, бірақ график өзгерісінің әрқайсысын өз бетінше түсіндіру дұрыс емес. Дәрігер датчиктің ең алдымен диабетті бақылауға арналған медициналық құрылғы екенін, тұтынушылық гаджет емес екенін айтты. Дәрігер тағайындауынсыз сау адамдардың оны пайдалануы мағынасыз және алаңдаушылық пен тамақтану бұзылысын туғызуы мүмкін. Көмірсу алмасуы бұзылған жағдайда, соның ішінде преддиабетте, мониторингті дәрігермен талқылауға болады. Материалда одан әрі қадамдар туралы айтылмаған.",
-    "de": "Am 7. November 2026 erklärte die Tjumener Therapeutin und Ernährungsberaterin Veronika Sytschkowa gegenüber lokalen Medien, ob ein Sensor zur kontinuierlichen Glukosemessung (CGM) beim Abnehmen helfen kann. Solche Sensoren wurden ursprünglich für Menschen mit Diabetes entwickelt, doch inzwischen interessieren sich auch Menschen dafür, die Gewicht verlieren möchten.\n\nDer Sensor wird meist am Oberarm getragen und misst rund um die Uhr den Glukosewert in der Flüssigkeit zwischen den Zellen; die Daten gehen an eine Smartphone-App. Laut der Ärztin verbrennt das Gerät allein kein Fett, zeigt aber, wie der Körper einer bestimmten Person auf verschiedene Lebensmittel reagiert: Haferflocken, Buchweizen, Obst-Smoothies oder Dattelriegel können bei unterschiedlichen Menschen unterschiedliche Kurven ergeben. Das Gerät kann zudem helfen, Ernährung und Wohlbefinden miteinander in Verbindung zu bringen. Ein 15-minütiger Spaziergang nach dem Abendessen kann den Glukoseanstieg beispielsweise abschwächen.\n\nDie wichtigste Einschränkung: Für gesunde Menschen ohne Diabetes fehlen bisher ausreichend belastbare Belege dafür, dass das Tragen des Sensors allein beim Abnehmen hilft. Ein allgemeines Kaloriendefizit bleibt entscheidend; perfekte Kurven verhindern keine Gewichtszunahme durch Überessen. Die Expertin wies außerdem darauf hin, dass ein Blutzuckeranstieg nach dem Essen eine normale Reaktion ist und dass das Streben nach einer völlig flachen Linie oder der Verzicht auf Kohlenhydrate zu Essstörungen und Nährstoffmangel führen kann.\n\nUm die eigenen Körperreaktionen kennenzulernen, muss man den Sensor nicht monatelang tragen; manchmal reichen 2–4 Wochen. Jede Veränderung der Kurve sollte man aber nicht selbst deuten. Die Ärztin betonte, dass der Sensor vor allem ein medizinisches Gerät zur Diabeteskontrolle und kein Konsumgadget ist. Die Nutzung durch Gesunde ohne ärztliche Verordnung sei sinnlos und könne Angst und Essstörungen auslösen. Bei Störungen des Kohlenhydratstoffwechsels, auch bei Prädiabetes, lässt sich die Überwachung mit einem Arzt besprechen. Der Bericht beschreibt keine weiteren Schritte.",
-    "es": "El 7 de noviembre de 2026, la terapeuta y nutricionista de Tyumen Veronika Sychkova explicó a medios locales si un sensor de monitorización continua de glucosa (CGM) puede ayudar a perder peso. Estos dispositivos se crearon originalmente para personas con diabetes, pero ahora también despiertan interés entre quienes quieren adelgazar.\n\nEl sensor suele colocarse en el hombro y mide el nivel de glucosa en el líquido entre las células las 24 horas, enviando los datos a una aplicación del teléfono. Según la médica, el aparato no quema grasa por sí solo, pero muestra cómo reacciona el organismo de cada persona ante distintos alimentos: la avena, el alforfón, los batidos de frutas o las barritas de dátiles pueden producir curvas diferentes según quién los consuma. También ayuda a relacionar la alimentación con el bienestar. Como ejemplo, un paseo de 15 minutos después de cenar puede suavizar la subida de glucosa.\n\nLa principal limitación es que, en personas sanas sin diabetes, todavía no hay pruebas sólidas de que llevar el sensor por sí solo ayude a perder peso. El déficit calórico general sigue siendo esencial: tener gráficas perfectas no evita ganar peso por comer en exceso. La especialista también señaló que la subida de azúcar tras comer es una reacción normal, y que buscar una línea totalmente plana o eliminar los carbohidratos puede provocar trastornos alimentarios y falta de nutrientes.\n\nNo hace falta llevar el sensor durante meses para conocer las reacciones del propio cuerpo; a veces bastan entre 2 y 4 semanas, aunque no conviene interpretar cada cambio de la gráfica por cuenta propia. La médica subrayó que el sensor es, ante todo, un dispositivo médico para controlar la diabetes y no un gadget de consumo. Usarlo sin prescripción médica carece de sentido para personas sanas y puede generar ansiedad y trastornos de la conducta alimentaria. La monitorización puede comentarse con un médico si hay alteraciones del metabolismo de los carbohidratos, incluido el prediabetes. El texto no describe próximos pasos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Срок ношения датчика, достаточный для знакомства с реакциями организма",
-      "en": "Wearing period sufficient to learn individual reactions",
-      "kk": "Организм реакциясымен танысу үшін датчикті тағудың жеткілікті мерзімі",
-      "de": "Tragedauer, die zum Kennenlernen der eigenen Reaktionen ausreicht",
-      "es": "Duración de uso suficiente para conocer las reacciones propias"
-     },
-     "v": {
-      "ru": "2–4 недели",
-      "en": "2–4 weeks",
-      "kk": "2–4 апта",
-      "de": "2–4 Wochen",
-      "es": "2–4 semanas"
-     }
-    },
-    {
-     "k": {
-      "ru": "Прогулка после ужина, которая может смягчить подъём глюкозы",
-      "en": "Walk after dinner that may soften a glucose rise",
-      "kk": "Кешкі астан кейінгі серуен, ол глюкоза көтерілуін азайтуы мүмкін",
-      "de": "Spaziergang nach dem Abendessen, der den Glukoseanstieg abschwächen kann",
-      "es": "Paseo después de cenar que puede suavizar la subida de glucosa"
-     },
-     "v": {
-      "ru": "15 минут",
-      "en": "15 minutes",
-      "kk": "15 минут",
-      "de": "15 Minuten",
-      "es": "15 minutos"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nU1E_b2M9NQ",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-07",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "Интенсивная терапия давления не снизила число сердечно-сосудистых событий у взрослых с диабетом",
-    "en": "Intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes",
-    "kk": "Диабеті бар ересектерде қан қысымын қарқынды емдеу жүрек-қан тамырлары оқиғаларын азайтқан жоқ",
-    "de": "Intensive Blutdrucktherapie senkte kardiovaskuläre Ereignisse bei Erwachsenen mit Diabetes nicht",
-    "es": "El tratamiento intensivo de la presión arterial no redujo los eventos cardiovasculares en adultos con diabetes"
-   },
-   "text": {
-    "ru": "Исследование показало, что интенсивная терапия артериального давления не уменьшила число сердечно-сосудистых событий у взрослых с диабетом.",
-    "en": "A study found that intensive blood pressure therapy did not reduce cardiovascular events in adults with diabetes.",
-    "kk": "Зерттеу қарқынды артериалды қысым емі диабеті бар ересектерде жүрек-қан тамырлары оқиғаларының санын азайтпағанын көрсетті.",
-    "de": "Eine Studie ergab, dass eine intensive Blutdrucktherapie die kardiovaskulären Ereignisse bei Erwachsenen mit Diabetes nicht verringerte.",
-    "es": "Un estudio encontró que el tratamiento intensivo de la presión arterial no redujo los eventos cardiovasculares en adultos con diabetes."
-   },
-   "url": "https://newsroom.heart.org/news/intensive-blood-pressure-therapy-did-not-cut-cardiovascular-events-in-adults-with-diabetes",
-   "src": "www.heart.org",
-   "photoQuery": "blood pressure monitor cuff",
-   "body": {
-    "ru": "Интенсивное снижение артериального давления не привело к значимому сокращению числа серьезных сердечно-сосудистых событий у взрослых с диабетом 2 типа. Результаты представили 7 ноября 2026 года на научной сессии Американской кардиологической ассоциации (AHA) в Чикаго. Сравнивали две цели по систолическому давлению: ниже 120 мм рт. ст. в интенсивной группе и ниже 140 мм рт. ст. при стандартном лечении.\n\nДанные взяли из испытания OPTIMAL-DIABETES. В нем участвовали 9 476 взрослых старше 50 лет на 33 площадках в Бразилии. У всех систолическое давление было в пределах от 130 до 180 мм рт. ст., а также был диабет 2 типа и еще один фактор риска: сердечно-сосудистое заболевание, его скрытые признаки, болезнь почек или другие факторы. Руководитель исследования Карла Санто работает в госпитале Einstein в Сан-Паулу.\n\nЗа медианное наблюдение длительностью четыре года у участников интенсивной группы риск серьезного сердечно-сосудистого события был примерно на 10% ниже. Это различие статистически незначимо. Событие произошло у 286 человек (6,0%) в интенсивной группе и у 315 (6,7%) в стандартной.\n\nПочечные осложнения, напротив, встречались чаще при интенсивном лечении: 270 участников (5,7%) против 175 (3,7%), то есть примерно на 55% больше. В основном речь шла о снижении функции почек; частота терминальной стадии почечной недостаточности между группами была похожей. Серьезные нежелательные явления также были сопоставимы.\n\nУ исследования есть ограничения: оно открытое, то есть участники и исследователи знали, какое лечение получает каждый. Результаты могут не относиться к людям за пределами Бразилии. Представленные данные предварительные, пока работа не опубликована полностью в рецензируемом журнале; одновременно она вышла в New England Journal of Medicine. Авторы подчеркивают, что эти данные не доказывают неэффективность интенсивного снижения давления, а подход к целям лечения должен быть индивидуальным, без универсального порога ниже 120 мм рт. ст.",
-    "en": "Intensive blood pressure treatment did not significantly reduce major cardiovascular events in adults with type 2 diabetes. The results were presented on November 7, 2026, at the American Heart Association's Scientific Sessions in Chicago. Two systolic targets were compared: below 120 mm Hg in the intensive group and below 140 mm Hg with standard care.\n\nThe data came from the OPTIMAL-DIABETES trial, which enrolled 9,476 adults aged 50 and older at 33 sites in Brazil. All had systolic blood pressure between 130 and 180 mm Hg and type 2 diabetes, plus another risk factor such as existing cardiovascular disease, signs of silent heart or vessel disease, kidney disease or other risks. The lead author, Karla Santo, works at Einstein Hospital Israelita in São Paulo.\n\nOver a median follow-up of four years, participants in the intensive group had about a 10% lower risk of a major cardiovascular event. That difference was not statistically significant. Such events occurred in 286 people (6.0%) in the intensive group and 315 (6.7%) in the standard group.\n\nKidney-related events, by contrast, were more frequent with intensive treatment: 270 participants (5.7%) versus 175 (3.7%), about 55% higher. These were mainly declines in kidney function, and end-stage renal disease occurred at similar rates in both groups. Serious adverse events were also similar.\n\nThe study has limitations. It was open-label, so participants and investigators knew which treatment was being given. Results may not apply to populations outside Brazil. The findings are preliminary until the full paper is peer-reviewed, although they were published the same day in the New England Journal of Medicine. The researchers stress that the results do not show intensive lowering is ineffective, and that blood pressure targets should be individualized rather than a target below 120 mm Hg applied to everyone.",
-    "kk": "Қарқынды қан қысымын төмендету емі 2-типті қант диабеті бар ересектерде негізгі жүрек-қан тамыр оқиғаларының санын елеулі азайтқан жоқ. Бұл нәтижелер 2026 жылғы 7 қарашада Чикагодағы Американдық жүрек қауымдастығының (AHA) ғылыми сессиясында ұсынылды. Систолалық мақсаттар салыстырылды: қарқынды топта 120 мм сын.бағ.-дан төмен, стандартты емде 140 мм сын.бағ.-дан төмен.\n\nДеректер OPTIMAL-DIABETES сынағынан алынды. Оған Бразилиядағы 33 орында 50 жас және одан үлкен 9 476 ересек қатысты. Барлығының систолалық қан қысымы 130-дан 180 мм сын.бағ. аралығында, 2-типті қант диабеті бар, сонымен қатар жүрек-қан тамыр ауруы, бүйрек ауруы немесе басқа қауіп факторлары болды. Негізгі авторы Карла Санто Сан-Паулудағы Einstein Hospital Israelita ауруханасында жұмыс істейді.\n\nМедиандық бақылау төрт жылды құраған кезде қарқынды топ қатысушыларының негізгі жүрек-қан тамыр оқиғасы қаупі шамамен 10% төмен болды. Бұл айырмашылық статистикалық маңызды емес. Мұндай оқиға қарқынды топта 286 адамда (6,0%), стандартты топта 315 адамда (6,7%) орын алды.\n\nКерісінше, бүйрекпен байланысты оқиғалар қарқынды емде жиірек болды: 270 қатысушы (5,7%) мен 175 (3,7%), шамамен 55% жоғары. Негізінен бүйрек қызметінің төмендеуі байқалды, ал соңғы сатылы бүйрек жеткіліксіздігі екі топта да ұқсас жиілікте болды. Елеулі жағымсыз оқиғалар да ұқсас болды.\n\nЗерттеудің шектеулері бар: ол ашық түрде жүргізілді, яғни қатысушылар мен зерттеушілер әр адамның қандай ем алатынын білді. Нәтижелер Бразилиядан тыс популяцияға қолданылмауы мүмкін. Толық жұмыс рецензияланатын журналда жарияланғанға дейін қорытындылар алдын ала болып саналады, дегенмен олар сол күні New England Journal of Medicine журналында жарияланды. Зерттеушілер нәтижелер қарқынды төмендетудің тиімсіз екенін дәлелдемейтінін және қан қысымының мақсаттары жеке бейімделуі керек екенін, барлығына бірдей 120 мм сын.бағ.-дан төмен мақсат қоюға болмайтынын атап өтті.",
-    "de": "Eine intensive Blutdrucksenkung hat bei Erwachsenen mit Typ-2-Diabetes die Zahl schwerer kardiovaskulärer Ereignisse nicht signifikant verringert. Die Ergebnisse wurden am 7. November 2026 bei den Scientific Sessions der American Heart Association in Chicago vorgestellt. Verglichen wurden ein systolischer Zielwert unter 120 mm Hg in der intensiven Gruppe und ein Wert unter 140 mm Hg bei der Standardbehandlung.\n\nDie Daten stammen aus der OPTIMAL-DIABETES-Studie mit 9.476 Erwachsenen ab 50 Jahren an 33 Standorten in Brasilien. Alle hatten einen systolischen Blutdruck zwischen 130 und 180 mm Hg und Typ-2-Diabetes sowie weitere Risikofaktoren wie bestehende Herz-Kreislauf-Erkrankungen, Hinweise auf eine stille Gefäßerkrankung, Nierenerkrankung oder andere Risiken. Die Hauptautorin Karla Santo arbeitet am Einstein Hospital Israelita in São Paulo.\n\nÜber eine mittlere Nachbeobachtungszeit von vier Jahren hatten Teilnehmende der intensiven Gruppe ein etwa 10 % geringeres Risiko für ein schweres kardiovaskuläres Ereignis. Dieser Unterschied war statistisch nicht signifikant. Solche Ereignisse traten in der intensiven Gruppe bei 286 Personen (6,0 %) auf, in der Standardgruppe bei 315 (6,7 %).\n\nNierenbezogene Ereignisse waren dagegen unter intensiver Behandlung häufiger: 270 Teilnehmende (5,7 %) gegenüber 175 (3,7 %), also etwa 55 % mehr. Es handelte sich vor allem um Rückgänge der Nierenfunktion; ein Nierenversagen im Endstadium trat in beiden Gruppen ähnlich häufig auf. Auch schwerwiegende unerwünschte Ereignisse waren vergleichbar.\n\nDie Studie hat Grenzen: Sie war offen angelegt, sodass Teilnehmende und Forschende wussten, welche Behandlung gegeben wurde. Die Ergebnisse sind möglicherweise nicht auf Bevölkerungen außerhalb Brasiliens übertragbar. Bis zur begutachteten Veröffentlichung des vollständigen Manuskripts sind die Befunde vorläufig; die Arbeit erschien jedoch am selben Tag im New England Journal of Medicine. Die Forschenden betonen, dass die Ergebnisse nicht belegen, dass eine intensive Senkung unwirksam sei, und dass Blutdruckziele individuell festgelegt werden sollten statt eines Zielwerts unter 120 mm Hg für alle.",
-    "es": "El tratamiento intensivo para bajar la presión arterial no redujo de forma significativa los eventos cardiovasculares mayores en adultos con diabetes tipo 2. Los resultados se presentaron el 7 de noviembre de 2026 en las Sesiones Científicas de la Asociación Estadounidense del Corazón (AHA), en Chicago. Se compararon dos metas para la presión sistólica: menos de 120 mm Hg en el grupo intensivo y menos de 140 mm Hg con el tratamiento estándar.\n\nLos datos proceden del ensayo OPTIMAL-DIABETES, que incluyó a 9.476 adultos de 50 años o más en 33 centros de Brasil. Todos tenían una presión sistólica entre 130 y 180 mm Hg y diabetes tipo 2, además de otros factores de riesgo, como enfermedad cardiovascular ya existente, signos de enfermedad silenciosa del corazón o de los vasos, enfermedad renal u otros riesgos. La autora principal, Karla Santo, trabaja en el Hospital Israelita Albert Einstein de São Paulo.\n\nDurante un seguimiento mediano de cuatro años, los participantes del grupo intensivo tuvieron un riesgo de evento cardiovascular mayor aproximadamente un 10 % menor. Esa diferencia no fue estadísticamente significativa. Estos eventos ocurrieron en 286 personas (6,0 %) del grupo intensivo y en 315 (6,7 %) del grupo estándar.\n\nLos eventos relacionados con los riñones, en cambio, fueron más frecuentes con el tratamiento intensivo: 270 participantes (5,7 %) frente a 175 (3,7 %), alrededor de un 55 % más. Se trató sobre todo de caídas de la función renal; la enfermedad renal terminal apareció con frecuencia similar en ambos grupos. Los efectos adversos graves también fueron parecidos.\n\nEl estudio tiene limitaciones: fue abierto, por lo que participantes e investigadores sabían qué tratamiento recibía cada persona. Los resultados podrían no aplicarse a poblaciones fuera de Brasil. Los hallazgos son preliminares hasta que el artículo completo sea publicado en una revista con revisión por pares, aunque se publicaron el mismo día en el New England Journal of Medicine. Los investigadores subrayan que los resultados no demuestran que bajar la presión de forma intensiva sea ineficaz, y que las metas de presión arterial deben individualizarse en lugar de aplicar a todos un objetivo por debajo de 120 mm Hg."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Серьезные сердечно-сосудистые события (интенсивная / стандартная группа)",
-      "en": "Major cardiovascular events (intensive / standard group)",
-      "kk": "Негізгі жүрек-қан тамыр оқиғалары (қарқынды / стандартты топ)",
-      "de": "Schwere kardiovaskuläre Ereignisse (intensive / Standardgruppe)",
-      "es": "Eventos cardiovasculares mayores (grupo intensivo / estándar)"
-     },
-     "v": {
-      "ru": "286 (6,0%) / 315 (6,7%)",
-      "en": "286 (6.0%) / 315 (6.7%)",
-      "kk": "286 (6,0%) / 315 (6,7%)",
-      "de": "286 (6,0 %) / 315 (6,7 %)",
-      "es": "286 (6,0 %) / 315 (6,7 %)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Почечные события (интенсивная / стандартная группа)",
-      "en": "Kidney-related events (intensive / standard group)",
-      "kk": "Бүйрекпен байланысты оқиғалар (қарқынды / стандартты топ)",
-      "de": "Nierenbezogene Ereignisse (intensive / Standardgruppe)",
-      "es": "Eventos renales (grupo intensivo / estándar)"
-     },
-     "v": {
-      "ru": "270 (5,7%) / 175 (3,7%)",
-      "en": "270 (5.7%) / 175 (3.7%)",
-      "kk": "270 (5,7%) / 175 (3,7%)",
-      "de": "270 (5,7 %) / 175 (3,7 %)",
-      "es": "270 (5,7 %) / 175 (3,7 %)"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u_ljr_ZbBkyQw",
-    "url": "https://images.unsplash.com/photo-1780461159687-281752b8a85a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8Ymxvb2QlMjBwcmVzc3VyZSUyMG1vbml0b3IlMjBjdWZmfGVufDF8MHx8fDE3OTQxNDY1MjZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Opeoluwa Fasanya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/digital-blood-pressure-monitor-checking-a-persons-arm-ljr_ZbBkyQw?utm_source=dia_news&utm_medium=referral",
-    "alt": "Digital blood pressure monitor checking a person's arm"
-   }
   },
   {
    "id": "cure-sana-up421",
@@ -2449,6 +2521,15 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://admirk.ru/news/v_irkutske_prokhodit_nedelya_borby_s_diabetom/",
+  "в иркутске проходит неделя борьбы с диабетом",
+  "diabetes awareness week under way in irkutsk",
+  "https://www.niann.ru/?id=647629",
+  "нижегородцам рассказали как снизить риск развития сахарного диабета",
+  "nizhny novgorod residents told how to lower their risk of diabetes",
+  "https://voshodnews.ru/news/novosti/2026-11-09/v-ishimbae-mediki-rasskazhut-pro-mify-i-realnost-saharnogo-diabeta-4869004",
+  "в ишимбае медики расскажут о мифах и реальности сахарного диабета",
+  "medics in ishimbay to discuss myths and facts about diabetes",
   "https://gurk.kz/news/den-borby-s-saharny-m-diabetom-karagandinczy-smogut-besplatno-poluchit-konsultaczii-vrachej-i-projti-obsledovaniya",
   "день борьбы с сахарным диабетом в караганде можно бесплатно пройти обследования",
   "world diabetes day karaganda residents can get free checks",
@@ -2494,6 +2575,9 @@ const DIA_NEWS={
   "https://www.teleport2001.ru/news/2026-11-09/221056-sudya-i-pristavy-spasli-devushku-s-sakharnym-diabetom-kotoraya-upala-v-obmorok-vo-vremya-snegopada.html",
   "судья и приставы помогли девушке с сахарным диабетом которая упала в обморок во время снегопада",
   "judge and bailiffs help young woman with diabetes who fainted during snowfall",
+  "https://www.dribin.by/zdorovie/o-profilaktike-i-kontrole-zabolevaniya-rasskazyvaet-vrach-uz-dribinskaya-czrb/",
+  "сахарный диабет профилактика и контроль заболевания",
+  "diabetes prevention and control of the disease",
   "https://bioengineer.org/crispr-beta-cell-regeneration-shows-early-promise-for-long-term-diabetes-management/",
   "crispr и регенерация бета клеток ранние многообещающие результаты",
   "crispr beta cell regeneration shows early promise",
@@ -2542,12 +2626,6 @@ const DIA_NEWS={
   "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/",
   "снижение давления после инсульта и при диабете сложности в исследованиях и практике",
   "lowering blood pressure after stroke or with diabetes poses challenges in research and practice",
-  "https://t-l.ru/411151.html",
-  "помогает ли датчик глюкозы похудеть мнение врача из тюмени",
-  "does a glucose sensor help with weight loss tyumen doctor explains",
-  "https://newsroom.heart.org/news/intensive-blood-pressure-therapy-did-not-cut-cardiovascular-events-in-adults-with-diabetes",
-  "интенсивная терапия давления не снизила число сердечно сосудистых событий у взрослых с диабетом",
-  "intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes",
   "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
   "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
   "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
@@ -2563,6 +2641,12 @@ const DIA_NEWS={
   "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
   "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
   "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
+  "https://t-l.ru/411151.html",
+  "помогает ли датчик глюкозы похудеть мнение врача из тюмени",
+  "does a glucose sensor help with weight loss tyumen doctor explains",
+  "https://newsroom.heart.org/news/intensive-blood-pressure-therapy-did-not-cut-cardiovascular-events-in-adults-with-diabetes",
+  "интенсивная терапия давления не снизила число сердечно сосудистых событий у взрослых с диабетом",
+  "intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes",
   "oryol doctors explain how to recognize diabetes in children",
   "https://news.day.az/medicine/1869526.html",
   "учёные изобрели способ выявлять сахарный диабет по голосу",
@@ -2631,5 +2715,17 @@ const DIA_NEWS={
   "url": "https://diabetesatlas.org/"
  },
  "posts": [],
- "events": []
+ "events": [],
+ "photoPool": {
+  "date": "2026-11-09",
+  "cure": [],
+  "research": [],
+  "approval": [],
+  "devices": [],
+  "drugs": [],
+  "access": [],
+  "market": [],
+  "events": [],
+  "community": []
+ }
 };
