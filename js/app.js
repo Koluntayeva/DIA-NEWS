@@ -223,8 +223,26 @@ function render(){
   const restStart=pair.length===2?3:1;
   const rows=el("div","rows");list.slice(restStart).forEach(it=>rows.append(story(it,"row")));
   if(rows.childElementCount)main.append(rows);
+  if(archiveLeft()){const ob=el("button","older",archiveBusy?u.olderLoading:u.older);ob.type="button";ob.disabled=archiveBusy;ob.onclick=loadOlder;main.append(ob)}
   layout.append(main,rail(list));feed.append(layout);
   if(DIA_NEWS.demo)feed.prepend(el("div","demo","Демо-режим: примеры материалов, настоящая лента ещё не подключена. / Demo mode: sample stories, the live feed is not connected yet."));
+}
+
+/* Archive: stories that left the main feed are kept in data/archive/YYYY-MM.json; "Show earlier news" loads them month by month. */
+let archiveMonths=null,archiveNext=0,archiveBusy=false;
+const archiveLeft=()=>archiveMonths===null||archiveNext<archiveMonths.length;
+async function loadOlder(){
+  if(archiveBusy)return;archiveBusy=true;render();
+  try{
+    if(archiveMonths===null){const r=await fetch("data/archive/index.json?v="+todayISO());archiveMonths=r.ok?((await r.json()).months||[]).map(m=>m.month):[]}
+    const have=new Set(items.map(i=>i._id));
+    while(archiveNext<archiveMonths.length){
+      const m=archiveMonths[archiveNext++];const r=await fetch("data/archive/"+m+".json?v="+todayISO());if(!r.ok)continue;
+      const add=(await r.json()).filter(x=>x&&x.title&&!have.has(x.id)).map(x=>Object.assign({},x,{_id:x.id}));
+      if(add.length){items=items.concat(add).sort((a,b)=>rankKey(b).localeCompare(rankKey(a)));break}
+    }
+  }catch(e){archiveMonths=archiveMonths||[]}
+  archiveBusy=false;const y=window.scrollY;render();window.scrollTo(0,y);
 }
 
 /* Content comes from data/news.js; swap that file (or generate it) to publish a new feed. */

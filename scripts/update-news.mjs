@@ -503,6 +503,7 @@ if (PHOTO_ON) {
 
 await resolveAll(items);
 const bodiesAdded = await addBodies(items);
+const dupIds = new Set();
 // the same article reached via two feeds: keep the newer copy (with a photo/full text if only one has it)
 {
   const byUrl = new Map();
@@ -513,13 +514,42 @@ const bodiesAdded = await addBodies(items);
     byUrl.set(it.url, keep);
   }
   const before = items.length;
+  for (const it of items) if (byUrl.get(it.url) !== it) dupIds.add(it.id);
   items = items.filter((it) => byUrl.get(it.url) === it);
   if (items.length < before) log(`duplicates removed: ${before - items.length}`);
 }
 
+/* ---------- archive: stories leaving the main feed are kept forever, one JSON file per month ---------- */
+const ARCHIVE_DIR = path.join(ROOT, "data", "archive");
+function archiveStories(list) {
+  if (!list.length) return 0;
+  fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
+  const byMonth = {};
+  for (const x of list) (byMonth[String(x.date || today()).slice(0, 7)] ||= []).push(x);
+  for (const [m, add] of Object.entries(byMonth)) {
+    const f = path.join(ARCHIVE_DIR, m + ".json");
+    let have = [];
+    try { have = JSON.parse(fs.readFileSync(f, "utf8")); } catch (e) {}
+    const map = new Map(have.map((x) => [x.id, x]));
+    for (const x of add) map.set(x.id, x);
+    fs.writeFileSync(f, JSON.stringify([...map.values()].sort((a, b) => String(b.date).localeCompare(String(a.date)))));
+  }
+  const months = fs.readdirSync(ARCHIVE_DIR).filter((f) => /^\d{4}-\d{2}\.json$/.test(f)).sort().reverse()
+    .map((f) => ({ month: f.slice(0, 7), count: JSON.parse(fs.readFileSync(path.join(ARCHIVE_DIR, f), "utf8")).length }));
+  fs.writeFileSync(path.join(ARCHIVE_DIR, "index.json"), JSON.stringify({ updated: new Date().toISOString(), months }, null, 1));
+  return list.length;
+}
+let archivedCount = 0;
+{
+  const keep = new Set(items.map((x) => x.id));
+  const leaving = [...(cur.items || []), ...fresh].filter((x) => x && x.id && !/^d\d+$/.test(x.id) && !keep.has(x.id) && !dupIds.has(x.id));
+  archivedCount = archiveStories(leaving);
+  if (archivedCount) log(`archived: ${archivedCount}`);
+}
+
 const poolChanged = JSON.stringify(photoPool) !== JSON.stringify(cur.photoPool || null);
 if (!items.length) { log("nothing to publish; data/news.js left unchanged"); process.exit(0); }
-if (!fresh.length && !photosAdded && !poolChanged && !bodiesAdded) { log("no new stories or photos today; data/news.js left unchanged"); process.exit(0); }
+if (!fresh.length && !photosAdded && !poolChanged && !bodiesAdded && !archivedCount) { log("no new stories or photos today; data/news.js left unchanged"); process.exit(0); }
 
 const seen = [...new Set([...items.flatMap((x) => [x.url, norm(x.title.ru || ""), norm(x.title.en || "")]), ...(cur.seen || [])])].filter(Boolean).slice(0, 1500);
 const out = { demo: false, updated: stamp, items, seen, stats: cur.stats || null, posts: cur.posts || [], events: cur.events || [], photoPool };
