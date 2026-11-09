@@ -7,82 +7,364 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-09T03:02:09.070Z",
+ "updated": "2026-11-09T07:03:34.379Z",
  "items": [
   {
-   "id": "cure-tegoprubart-12of12",
-   "cat": "cure",
-   "stage": "results",
-   "date": "2026-06-08",
-   "added": "2026-11-09T07:00:00.000Z",
-   "pin": true,
+   "id": "nGxSP29jPTU",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:03:34.379Z",
    "title": {
-    "ru": "Пересадка островковых клеток с тегопрубартом: все 12 участников живут без инсулина",
-    "en": "Islet transplants with tegoprubart: all 12 participants are living without insulin",
-    "kk": "Тегопрубартпен аралшық жасушаларын ауыстыру: 12 қатысушының бәрі инсулинсіз өмір сүруде",
-    "de": "Inselzelltransplantation mit Tegoprubart: Alle 12 Teilnehmenden leben ohne Insulin",
-    "es": "Trasplante de islotes con tegoprubart: los 12 participantes viven sin insulina"
+    "ru": "День борьбы с сахарным диабетом: в Караганде можно бесплатно пройти обследования",
+    "en": "World Diabetes Day: Karaganda Residents Can Get Free Checks",
+    "kk": "Қант диабетімен күресу күні: Қарағандылар тегін тексеруден өте алады",
+    "de": "Weltdiabetestag: Einwohner von Karaganda können sich kostenlos untersuchen lassen",
+    "es": "Día Mundial de la Diabetes: los residentes de Karagandá pueden hacerse revisiones gratuitas"
    },
    "text": {
-    "ru": "В пилотном исследовании Чикагского университета все 12 взрослых с многолетним диабетом 1 типа отказались от инсулина после пересадки донорских островков. Вместо такролимуса им давали новое антитело тегопрубарт от компании Eledon.",
-    "en": "In a University of Chicago pilot study, all 12 adults with long-standing type 1 diabetes stopped insulin after receiving donor islets. Instead of tacrolimus they were given tegoprubart, a new antibody from Eledon.",
-    "kk": "Чикаго университетінің пилоттық зерттеуінде ұзақ жылдар 1 типті диабетпен ауыратын 12 ересектің бәрі донорлық аралшықтарды алғаннан кейін инсулиннен бас тартты. Такролимустың орнына оларға Eledon компаниясының жаңа тегопрубарт антиденесі берілді.",
-    "de": "In einer Pilotstudie der University of Chicago konnten alle 12 Erwachsenen mit langjährigem Typ-1-Diabetes nach einer Spender-Inselzelltransplantation auf Insulin verzichten. Statt Tacrolimus erhielten sie Tegoprubart, einen neuen Antikörper von Eledon.",
-    "es": "En un estudio piloto de la Universidad de Chicago, los 12 adultos con diabetes tipo 1 de larga evolución dejaron la insulina tras recibir islotes de donante. En lugar de tacrolimus recibieron tegoprubart, un nuevo anticuerpo de Eledon."
+    "ru": "Ко Дню борьбы с сахарным диабетом жители Караганды смогут бесплатно получить консультации врачей и пройти обследования.",
+    "en": "For World Diabetes Day, residents of Karaganda can receive free doctor consultations and health checks.",
+    "kk": "Қант диабетімен күресу күніне орай Қарағанды тұрғындары дәрігерлердің тегін кеңесін алып, тексерістен өте алады.",
+    "de": "Zum Weltdiabetestag können Einwohner von Karaganda kostenlose ärztliche Beratungen und Untersuchungen in Anspruch nehmen.",
+    "es": "Con motivo del Día Mundial de la Diabetes, los residentes de Karagandá pueden recibir consultas médicas y revisiones gratuitas."
+   },
+   "url": "https://gurk.kz/news/den-borby-s-saharny-m-diabetom-karagandinczy-smogut-besplatno-poluchit-konsultaczii-vrachej-i-projti-obsledovaniya",
+   "src": "GURK.KZ",
+   "photoQuery": "doctor blood glucose check",
+   "photo": {
+    "id": "u_BlgBBf_b_94",
+    "url": "https://images.unsplash.com/photo-1714642596931-2293df25c4a3?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8ZG9jdG9yJTIwYmxvb2QlMjBnbHVjb3NlJTIwY2hlY2t8ZW58MXwwfHx8MTc5NDIwNzgxOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jane Korsak",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/blood-glucose-meter-with-test-strips-BlgBBf_b_94?utm_source=dia_news&utm_medium=referral",
+    "alt": "A blood glucose meter with a lancing device and test strips on white"
    },
    "body": {
-    "ru": "В июне 2026 года на 86-м научном конгрессе Американской диабетической ассоциации хирург Пётр Витковски (UChicago Medicine) представил обновлённые данные пилотного исследования. В нём 12 взрослым с давним диабетом 1 типа и тяжёлыми гипогликемиями пересадили островковые клетки поджелудочной железы от умерших доноров. Клетки вводят через воротную вену в печень, где они приживаются и начинают вырабатывать инсулин.\n\nГлавное отличие от прежних протоколов — защита от отторжения. Обычно для этого используют такролимус, который токсичен для почек и, по мнению исследователей, повреждает и сами бета-клетки. Здесь его заменили тегопрубартом — экспериментальным антителом против CD40L, которое разрабатывает компания Eledon Pharmaceuticals.\n\nРезультат: все 12 участников перестали нуждаться во внешнем инсулине. У всех гликированный гемоглобин ниже 6,5%, в среднем 5,4%. После пересадки не было ни одного эпизода тяжёлой гипогликемии, отторжения или новых донор-специфических антител. По оценке исследователей, приживается и работает в 3–5 раз больше островков, чем при схеме с такролимусом. Срок наблюдения на момент отчёта — от 8 до 22 месяцев; части участников понадобилась вторая инфузия клеток.\n\nОграничения: исследование маленькое и без контрольной группы, донорских островков мало, а участники по-прежнему получают иммуносупрессию — тегопрубарт вводят капельно каждые три недели. Нужны данные за несколько лет. Компания получает от FDA рекомендации о пути к регистрации, а программу расширяют на другие центры, включая Университет Майами.",
-    "en": "In June 2026, at the American Diabetes Association's 86th Scientific Sessions, surgeon Piotr Witkowski of UChicago Medicine presented updated data from a pilot study. Twelve adults with long-standing type 1 diabetes and severe hypoglycemia received pancreatic islet cells from deceased donors. The cells are infused through the portal vein into the liver, where they settle and start making insulin.\n\nThe key change is how the graft is protected. The usual drug, tacrolimus, is toxic to the kidneys and, researchers believe, to beta cells themselves. Here it was replaced with tegoprubart, an experimental anti-CD40L antibody developed by Eledon Pharmaceuticals.\n\nThe result: all 12 participants no longer need external insulin. Every one has an HbA1c below 6.5%, with an average of 5.4%. Since transplant there have been no severe hypoglycemic events, no rejection episodes and no new donor-specific antibodies. Researchers estimate that 3 to 5 times more islets engraft and function than with tacrolimus-based regimens. Follow-up at the time of the report ranged from 8 to 22 months, and some participants needed a second islet infusion.\n\nLimitations: the study is small and has no control group, donor islets are scarce, and participants still take immunosuppression, with tegoprubart infused every three weeks. Multi-year data are needed. Eledon is seeking FDA guidance on a path to approval, and the program is expanding to other centers, including the University of Miami.",
-    "kk": "2026 жылғы маусымда Америка диабет қауымдастығының 86-шы ғылыми сессиясында UChicago Medicine хирургы Пётр Витковски пилоттық зерттеудің жаңартылған деректерін ұсынды. Ұзақ жылдар 1 типті диабетпен ауыратын және ауыр гипогликемиясы бар 12 ересекке қайтыс болған донорлардың ұйқы безі аралшық жасушалары ауыстырылды. Жасушалар қақпа венасы арқылы бауырға енгізіледі, сонда орнығып, инсулин шығара бастайды.\n\nНегізгі айырмашылық — трансплантатты қорғау тәсілі. Әдетте қолданылатын такролимус бүйрекке, ал зерттеушілердің пікірінше, бета-жасушалардың өзіне де улы. Мұнда ол Eledon Pharmaceuticals әзірлеп жатқан CD40L-ге қарсы тәжірибелік антидене — тегопрубартпен ауыстырылды.\n\nНәтиже: 12 қатысушының бәріне сырттан инсулин қажет емес. Барлығында гликирленген гемоглобин 6,5%-дан төмен, орташа 5,4%. Ауыстырудан кейін ауыр гипогликемия, тосырқау немесе жаңа донорға тән антиденелер тіркелмеді. Зерттеушілердің бағалауынша, такролимус схемасымен салыстырғанда 3–5 есе көп аралшық орнығып, жұмыс істейді. Есеп кезіндегі бақылау мерзімі 8–22 ай; кейбір қатысушыларға жасушаларды екінші рет енгізу қажет болды.\n\nШектеулер: зерттеу шағын әрі бақылау тобы жоқ, донорлық аралшықтар аз, ал қатысушылар әлі де иммуносупрессия алады — тегопрубарт үш апта сайын тамшылатып енгізіледі. Бірнеше жылдық деректер керек. Компания тіркеуге жол бойынша FDA-дан ұсыным алуда, ал бағдарлама басқа орталықтарға, соның ішінде Майами университетіне кеңейіп жатыр.",
-    "de": "Im Juni 2026 stellte der Chirurg Piotr Witkowski (UChicago Medicine) auf dem 86. Kongress der American Diabetes Association aktualisierte Daten einer Pilotstudie vor. Zwölf Erwachsene mit langjährigem Typ-1-Diabetes und schweren Unterzuckerungen erhielten Inselzellen aus der Bauchspeicheldrüse verstorbener Spender. Die Zellen werden über die Pfortader in die Leber geleitet, wo sie anwachsen und Insulin bilden.\n\nNeu ist der Schutz vor Abstoßung. Das übliche Medikament Tacrolimus schädigt die Nieren und nach Ansicht der Forschenden auch die Betazellen selbst. Hier wurde es durch Tegoprubart ersetzt, einen experimentellen Anti-CD40L-Antikörper von Eledon Pharmaceuticals.\n\nDas Ergebnis: Alle 12 Teilnehmenden brauchen kein externes Insulin mehr. Bei allen liegt der HbA1c unter 6,5 %, im Mittel bei 5,4 %. Seit der Transplantation gab es keine schweren Unterzuckerungen, keine Abstoßung und keine neuen spenderspezifischen Antikörper. Nach Schätzung der Forschenden wachsen 3- bis 5-mal mehr Inselzellen an als unter Tacrolimus. Die Nachbeobachtung lag zum Zeitpunkt des Berichts bei 8 bis 22 Monaten; einige Teilnehmende benötigten eine zweite Infusion.\n\nEinschränkungen: Die Studie ist klein und hat keine Kontrollgruppe, Spenderinseln sind knapp, und die Teilnehmenden erhalten weiterhin Immunsuppression – Tegoprubart wird alle drei Wochen als Infusion gegeben. Langzeitdaten über mehrere Jahre fehlen noch. Eledon holt bei der FDA Empfehlungen für den Zulassungsweg ein, und das Programm wird auf weitere Zentren ausgeweitet, darunter die University of Miami.",
-    "es": "En junio de 2026, en las 86.ª Sesiones Científicas de la Asociación Americana de Diabetes, el cirujano Piotr Witkowski (UChicago Medicine) presentó datos actualizados de un estudio piloto. Doce adultos con diabetes tipo 1 de larga evolución e hipoglucemias graves recibieron islotes pancreáticos de donantes fallecidos. Las células se infunden por la vena porta hasta el hígado, donde se asientan y empiezan a producir insulina.\n\nLa novedad es cómo se protege el injerto. El fármaco habitual, el tacrolimus, es tóxico para los riñones y, según los investigadores, también para las propias células beta. Aquí se sustituyó por tegoprubart, un anticuerpo experimental anti-CD40L de Eledon Pharmaceuticals.\n\nResultado: los 12 participantes ya no necesitan insulina externa. Todos tienen una HbA1c inferior al 6,5 %, con una media del 5,4 %. Desde el trasplante no ha habido hipoglucemias graves, rechazos ni nuevos anticuerpos específicos del donante. Los investigadores estiman que prenden y funcionan de 3 a 5 veces más islotes que con pautas basadas en tacrolimus. El seguimiento en el momento del informe iba de 8 a 22 meses, y algunos participantes necesitaron una segunda infusión.\n\nLimitaciones: el estudio es pequeño y sin grupo control, los islotes de donante escasean y los participantes siguen recibiendo inmunosupresión: el tegoprubart se administra por infusión cada tres semanas. Hacen falta datos de varios años. Eledon busca orientación de la FDA sobre la vía de aprobación y el programa se amplía a otros centros, como la Universidad de Miami."
+    "ru": "9 ноября 2026 года аппарат акима Карагандинской области сообщил, что Областная клиническая больница проводит бесплатный день открытых дверей накануне Всемирного дня борьбы с сахарным диабетом. Жители смогут посоветоваться с узкими специалистами и пройти медицинские обследования без направления врача. Условие одно: нужен статус «Застрахован» в системе ОСМС. С собой необходимо взять удостоверение личности.\n\nСреди принимающих врачей — эндокринологи К. К. Бимагамбетов (с 08:30 до 10:30) и Н. Ж. Башпаев (с 13:00 до 14:00). Руководитель Центра диабетической стопы Е. С. Морозов ведёт приём с 09:00 до 10:30. Также запланированы нефрологи, ревматологи, кардиолог, уролог и проктолог, а кроме того, осмотр подолога.\n\nВ программе пять диагностических процедур: УЗИ сосудов нижних конечностей, оптическая когерентная томография, общий анализ крови и мочи, анализ на гликированный гемоглобин и определение глюкозы в крови. Желающие смогут измерить давление и получить советы по предотвращению осложнений диабета и уходу за стопами.\n\nПредварительная запись обязательна: по телефонам (8-7212) 94-04-77 и 8-778-003-71-47. Место проведения: Караганда, проспект Сакена Сейфуллина, 17.\n\nВ материале есть несоответствие: событие связано с днём 13 ноября, но в конце указано, что Всемирный день отмечают 14 ноября. Отдельная дата дня открытых дверей не названа.",
+    "en": "On 9 November 2026, the administration of the Karaganda regional government announced that the Regional Clinical Hospital is holding a free open day ahead of World Diabetes Day. Residents can consult narrow specialists and get medical check-ups without a doctor's referral. The one requirement is an \"Insured\" status in the OSMS compulsory health insurance system, and visitors should bring an identity document.\n\nAmong the doctors seeing patients are endocrinologists K. K. Bimagambetov (08:30 to 10:30) and N. Zh. Bashpayev (13:00 to 14:00). E. S. Morozov, head of the Diabetic Foot Center, sees patients from 09:00 to 10:30. Nephrologists, rheumatologists, a cardiologist, a urologist and a proctologist are also scheduled, and a podologist will examine visitors as well.\n\nFive diagnostic procedures are on offer: ultrasound of lower-limb vessels, optical coherence tomography (OCT), general blood and urine tests, a glycated hemoglobin blood test, and blood glucose measurement. Visitors can also have their blood pressure measured and get advice on preventing diabetes complications and on foot care.\n\nAdvance registration is mandatory, by phone at (8-7212) 94-04-77 or 8-778-003-71-47. The venue is at Sakena Seifullin Avenue 17 in Karaganda.\n\nThe article is inconsistent on dates: it links the event to the run-up to World Diabetes Day on 13 November, yet its closing line says the day is marked on 14 November. It gives no separate date for the open day itself.",
+    "kk": "2026 жылғы 9 қарашада Қарағанды облысы әкімі аппаратының мәлімдемесінде Облыстық клиникалық аурухана Бүкіләлемдік қант диабеті күніне дейін тегін ашық есік күнін өткізетіні айтылды. Тұрғындар тар мамандармен кеңесіп, дәрігер жолдамасынсыз медициналық тексеруден өте алады. Жалғыз шарт — ОСМС жүйесінде «Сақтандырылған» мәртебесінің болуы. Өзімен бірге жеке куәлігін алып келу керек.\n\nҚабылдайтын дәрігерлердің ішінде эндокринологтар К. К. Бимагамбетов (08:30-дан 10:30-ға дейін) және Н. Ж. Башпаев (13:00-ден 14:00-ге дейін) бар. Диабеттік табан орталығының басшысы Е. С. Морозов 09:00-ден 10:30-ға дейін қабылдайды. Сондай-ақ нефрологтар, ревматологтар, кардиолог, уролог және проктолог қабылдайды, сонымен қатар подологтық тексеру көзделген.\n\nБес диагностикалық процедура ұсынылады: төменгі аяқ тамырларының УДЗ-сы, оптикалық когеренттік томография, жалпы қан мен зәр талдауы, гликирленген гемоглобинге қан талдауы және қандағы глюкозаны өлшеу. Келушілер қан қысымын өлшетіп, диабет асқынуларының алдын алу және табанға күту туралы кеңес ала алады.\n\nАлдын ала жазылу міндетті: (8-7212) 94-04-77 және 8-778-003-71-47 телефондары арқылы. Орын: Қарағанды қаласы, Сәкен Сейфуллин даңғылы, 17.\n\nМатериалда бір сәйкессіздік бар: іс-шара 13 қарашаға дайындық ретінде аталады, алайда соңында Бүкіләлемдік күн 14 қарашада атап өтіледі делінген. Ашық есік күнінің жеке нақты күні көрсетілмеген.",
+    "de": "Am 9. November 2026 teilte die Verwaltung des Gebiets Karaganda mit, dass das Gebietskrankenhaus vor dem Weltdiabetestag einen kostenlosen Tag der offenen Tür veranstaltet. Einwohner können sich ohne ärztliche Überweisung von spezialisierten Fachärzten beraten und medizinisch untersuchen lassen. Die einzige Voraussetzung ist der Status „versichert“ im OSMS-Pflichtversicherungssystem Kasachstans. Mitzubringen ist ein Ausweisdokument.\n\nUnter den Ärzten sind die Endokrinologen K. K. Bimagambetov (8:30 bis 10:30 Uhr) und N. Zh. Bashpayev (13:00 bis 14:00 Uhr). E. S. Morozov, Leiter des Diabetischen-Fuß-Zentrums, empfängt von 9:00 bis 10:30 Uhr. Außerdem sind Nephrologen, Rheumatologen, ein Kardiologe, ein Urologe und ein Proktologe vorgesehen, dazu eine podologische Untersuchung.\n\nFünf diagnostische Verfahren stehen zur Verfügung: Ultraschall der Gefäße der unteren Extremitäten, optische Kohärenztomografie (OCT), allgemeine Blut- und Urinuntersuchung, Bluttest auf glykiertes Hämoglobin sowie Messung des Blutzuckers. Außerdem kann der Blutdruck gemessen werden, und es gibt Hinweise zur Vorbeugung von Diabetes-Komplikationen und zur Fußpflege.\n\nEine Voranmeldung ist Pflicht, telefonisch unter (8-7212) 94-04-77 oder 8-778-003-71-47. Der Standort ist der Prospekt Sakena Seifullin 17 in Karaganda.\n\nDer Text enthält eine Unstimmigkeit: Er verbindet die Veranstaltung mit dem Weltdiabetestag am 13. November, nennt am Ende aber den 14. November als Termin des Gedenktags. Ein eigenes Datum für den Tag der offenen Tür wird nicht angegeben.",
+    "es": "El 9 de noviembre de 2026, la administración de la región de Karaganda informó de que el Hospital Clínico Regional organiza una jornada de puertas abiertas gratuita con motivo del Día Mundial de la Diabetes. Los vecinos pueden consultar a especialistas y hacerse exámenes médicos sin derivación. El único requisito es tener el estatus \"Asegurado\" en el sistema OSMS de seguro médico obligatorio. Hay que llevar un documento de identidad.\n\nEntre los médicos figuran los endocrinólogos K. K. Bimagambétov (de 08:30 a 10:30) y N. Zh. Bashpáyev (de 13:00 a 14:00). E. S. Morózov, jefe del Centro de Pie Diabético, atiende de 09:00 a 10:30. También hay citas de nefrología, reumatología, cardiología, urología y proctología, además de una consulta de podología.\n\nSe ofrecen cinco pruebas diagnósticas: ecografía de los vasos de las extremidades inferiores, tomografía de coherencia óptica (OCT), análisis generales de sangre y orina, análisis de hemoglobina glicosilada y medición de glucosa en sangre. También se puede medir la presión arterial y recibir orientación para prevenir complicaciones de la diabetes y cuidar los pies.\n\nLa inscripción previa es obligatoria, por teléfono al (8-7212) 94-04-77 o al 8-778-003-71-47. El lugar es la avenida Sakena Seifullin 17, en Karaganda.\n\nEl texto presenta una incoherencia: vincula el evento con el 13 de noviembre, pero al final indica que el Día Mundial se celebra el 14 de noviembre. No se da una fecha propia para la jornada de puertas abiertas."
    },
    "facts": [
     {
      "k": {
-      "ru": "Без инсулина",
-      "en": "Insulin-free",
-      "kk": "Инсулинсіз",
-      "de": "Ohne Insulin",
-      "es": "Sin insulina"
+      "ru": "Время приёма эндокринолога К. К. Бимагамбетова",
+      "en": "Endocrinologist K. K. Bimagambetov's consultation hours",
+      "kk": "Эндокринолог К. К. Бимагамбетовтің қабылдау уақыты",
+      "de": "Sprechzeiten des Endokrinologen K. K. Bimagambetov",
+      "es": "Horario de consulta del endocrinólogo K. K. Bimagambétov"
      },
      "v": {
-      "ru": "12 из 12",
-      "en": "12 of 12",
-      "kk": "12-ден 12",
-      "de": "12 von 12",
-      "es": "12 de 12"
+      "ru": "с 08:30 до 10:30",
+      "en": "08:30 to 10:30",
+      "kk": "08:30-дан 10:30-ға дейін",
+      "de": "8:30 bis 10:30 Uhr",
+      "es": "de 08:30 a 10:30"
      }
     },
     {
      "k": {
-      "ru": "Средний HbA1c",
-      "en": "Mean HbA1c",
-      "kk": "Орташа HbA1c",
-      "de": "Mittlerer HbA1c",
-      "es": "HbA1c media"
-     },
-     "v": "5,4%"
-    },
-    {
-     "k": {
-      "ru": "Наблюдение",
-      "en": "Follow-up",
-      "kk": "Бақылау",
-      "de": "Nachbeobachtung",
-      "es": "Seguimiento"
+      "ru": "Количество диагностических процедур в программе",
+      "en": "Number of diagnostic procedures on offer",
+      "kk": "Бағдарламадағы диагностикалық процедуралар саны",
+      "de": "Anzahl der angebotenen diagnostischen Verfahren",
+      "es": "Número de pruebas diagnósticas ofrecidas"
      },
      "v": {
-      "ru": "8–22 мес.",
-      "en": "8–22 months",
-      "kk": "8–22 ай",
-      "de": "8–22 Monate",
-      "es": "8–22 meses"
+      "ru": "5",
+      "en": "5",
+      "kk": "5",
+      "de": "5",
+      "es": "5"
      }
     }
-   ],
-   "url": "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
-   "src": "Eledon / Breakthrough T1D"
+   ]
+  },
+  {
+   "id": "nVUU_b2M9NQ",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "В Туве стартовала Неделя борьбы с диабетом",
+    "en": "Diabetes Awareness Week Starts in Tuva",
+    "kk": "Тувада қант диабетімен күрес апталығы басталды",
+    "de": "Woche gegen Diabetes in Tuwa gestartet",
+    "es": "Arranca la Semana contra la Diabetes en Tuvá"
+   },
+   "text": {
+    "ru": "В Республике Тыва стартовала Неделя борьбы с диабетом.",
+    "en": "Diabetes Awareness Week has started in the Republic of Tyva.",
+    "kk": "Тыва Республикасында қант диабетімен күрес апталығы басталды.",
+    "de": "In der Republik Tuwa hat die Woche gegen Diabetes begonnen.",
+    "es": "En la República de Tuvá ha comenzado la Semana contra la Diabetes."
+   },
+   "url": "https://tmgnews.ru/novosti/v-tuve-startovala-nedelya-borby-s-diabetom/amp/",
+   "src": "Тува Медиа Групп",
+   "photoQuery": "glucose meter fingertip test",
+   "photo": {
+    "id": "u_uaN7SjUfWv0",
+    "url": "https://images.unsplash.com/photo-1683123657967-d05ea4980c95?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTF8fGdsdWNvc2UlMjBtZXRlciUyMGZpbmdlcnRpcCUyMHRlc3R8ZW58MXwwfHx8MTc5NDIwNzgxOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-doing-a-finger-prick-test-for-blood-glucose-uaN7SjUfWv0?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person doing a finger prick test for blood glucose"
+   },
+   "body": {
+    "ru": "С 9 по 15 ноября жители Тувы, как и всей страны, участвуют в недельной кампании, приуроченной ко Всемирному дню борьбы с диабетом. Медики призывают уделять внимание профилактике и раннему выявлению болезни.\n\nДиабет описывается как опасная хроническая болезнь, при которой уровень глюкозы в крови остаётся постоянно высоким. Причина в том, что организм вырабатывает мало инсулина или клетки хуже на него реагируют. Главная угроза — осложнения: растёт риск инфаркта и инсульта, возможно поражение почек, нервной системы и сетчатки глаза, а также развитие катаракты.\n\nВыделяют два типа заболевания. Первый тип нельзя предотвратить полностью, но можно замедлить его развитие и избежать осложнений, поддерживая глюкозу на нормальном уровне. Второй тип встречается у 90% больных; у него есть конкретные факторы риска: лишний вес, малоподвижность, нездоровое питание, возраст старше 45 лет, гестационный диабет при беременности и наследственность.\n\nДля профилактики второго типа в статье рекомендуют питание с большим количеством клетчатки, физические нагрузки не менее 30 минут в день пять дней в неделю, поддержание нормального веса и ежегодную проверку уровня глюкозы в крови в рамках медосмотров.\n\nВ материале не сообщается о местных мероприятиях, данных по Туве или дальнейших шагах помимо этих рекомендаций.",
+    "en": "From November 9 to 15, residents of Tuva, like the rest of Russia, are taking part in a week-long campaign timed to World Diabetes Day. Medical staff are urging people to focus on prevention and early detection of the disease.\n\nThe article describes diabetes as a dangerous chronic illness in which blood glucose stays persistently high. The cause is either too little insulin being produced or cells responding poorly to it. The main threat is complications: the risk of heart attack and stroke rises, the kidneys, nervous system and retina can be damaged, and cataracts can develop.\n\nTwo types are distinguished. Type 1 cannot be prevented completely, but its progression can be slowed and complications avoided by keeping glucose at a normal level. Type 2 accounts for 90% of patients and has specific risk factors: excess weight, inactivity, poor diet, age over 45, gestational diabetes during pregnancy, and genetic predisposition.\n\nTo prevent type 2, the article recommends a fiber-rich diet, physical activity of at least 30 minutes a day on five days a week, maintaining a healthy weight, and an annual blood glucose test as part of regular medical checkups.\n\nThe piece does not mention local events, figures specific to Tuva, or any further steps beyond these recommendations.",
+    "kk": "9-нан 15-ке дейін Тува тұрғындары бүкіл ел секілді Бүкіләлемдік диабет күніне орай өтетін бір апталық науқанға қатысып жатыр. Медицина қызметкерлері алдын алуға және ауруды ерте анықтауға назар аударуды сұрайды.\n\nМақалада диабет қанда глюкоза деңгейі тұрақты түрде жоғары болатын қауіпті созылмалы ауру ретінде сипатталады. Себебі – ағзада инсулин аз бөлінеді немесе жасушалар оған нашар жауап береді. Басты қауіп – асқынулар: инфаркт пен инсульт қаупі артады, бүйрек, жүйке жүйесі мен көз торлығы зақымдалуы мүмкін, катаракта да дамуы ықтимал.\n\nАуруың екі түрі бөлінеді. Бірінші түрді толық алдын алу мүмкін емес, бірақ глюкозаны қалыпты деңгейде ұстау арқылы оның дамуын баяулатуға және асқынуларды болдырмауға болады. Екінші түр науқастардың 90%-ында кездеседі; оның нақты қауіп факторлары бар: артық салмақ, қозғалыссыз өмір, дұрыс емес тамақтану, 45 жастан асу, жүктілік кезіндегі гестациялық диабет және тұқым қуалаушылық.\n\nЕкінші түрдің алдын алу үшін мақалада клетчаткаға бай тамақтану, күніне кемінде 30 минут, аптасына бес күн дене белсенділігі, қалыпты салмақты сақтау және медициналық тексеру барысында қан глюкозасын жыл сайын тексеру ұсынылады.\n\nМатериалда бұл ұсыныстардан басқа жергілікті іс-шаралар, Тува бойынша деректер немесе одан әрі қадамдар туралы айтылмаған.",
+    "de": "Vom 9. bis 15. November findet in Tuwa, wie im ganzen Land, eine Woche zum Kampf gegen Diabetes statt, die auf den Weltdiabetestag abgestimmt ist. Medizinische Fachkräfte betonen, wie wichtig Vorbeugung und frühes Erkennen der Krankheit sind.\n\nDer Beitrag beschreibt Diabetes als gefährliche chronische Erkrankung, bei der der Blutzucker dauerhaft erhöht bleibt. Ursache ist entweder eine zu geringe Insulinbildung oder eine verminderte Reaktion der Zellen darauf. Die größte Gefahr sind Folgeschäden: Das Risiko für Herzinfarkt und Schlaganfall steigt, Nieren, Nervensystem und Netzhaut können geschädigt werden, auch ein Grauer Star ist möglich.\n\nEs gibt zwei Typen. Typ 1 lässt sich nicht vollständig verhindern, doch sein Verlauf kann verlangsamt und Komplikationen können vermieden werden, wenn der Blutzucker im Normalbereich gehalten wird. Typ 2 tritt bei 90 Prozent der Betroffenen auf und hat klare Risikofaktoren: Übergewicht, Bewegungsmangel, ungesunde Ernährung, Alter über 45 Jahre, Schwangerschaftsdiabetes und genetische Veranlagung.\n\nZur Vorbeugung von Typ 2 empfiehlt der Artikel ballaststoffreiche Kost, körperliche Belastung von mindestens 30 Minuten täglich an fünf Tagen pro Woche, ein gesundes Körpergewicht sowie die jährliche Messung des Blutzuckers im Rahmen regelmäßiger Untersuchungen.\n\nDer Beitrag nennt keine lokalen Veranstaltungen, keine Zahlen speziell für Tuwa und keine weiteren Schritte über diese Empfehlungen hinaus.",
+    "es": "Del 9 al 15 de noviembre, en Tuvá, como en todo el país, se desarrolla una semana de lucha contra la diabetes, vinculada al Día Mundial de la Diabetes. El personal médico insiste en la prevención y en la detección temprana de la enfermedad.\n\nEl texto describe la diabetes como una enfermedad crónica peligrosa, en la que la glucosa en sangre se mantiene persistentemente alta. Su origen está en una producción insuficiente de insulina o en una menor respuesta de las células a ella. El principal peligro son las complicaciones: aumenta el riesgo de infarto y de ictus, pueden dañarse los riñones, el sistema nervioso y la retina, y también puede aparecer la catarata.\n\nSe distinguen dos tipos. El primero no puede prevenirse al cien por cien, pero su avance puede frenarse y sus complicaciones evitarse manteniendo la glucosa en niveles normales. El segundo afecta al 90 % de los pacientes y tiene factores de riesgo concretos: exceso de peso, vida sedentaria, alimentación poco saludable, edad superior a 45 años, diabetes gestacional durante el embarazo y predisposición genética.\n\nPara prevenir el tipo 2, el artículo recomienda una dieta rica en fibra, actividad física de al menos 30 minutos diarios cinco días por semana, mantener un peso saludable y hacerse un control anual de la glucosa en sangre dentro de los chequeos médicos habituales.\n\nEl texto no menciona actividades locales, cifras específicas para Tuvá ni pasos posteriores más allá de estas recomendaciones."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Доля больных вторым типом диабета",
+      "en": "Share of patients with type 2 diabetes",
+      "kk": "2-түрлі диабетпен ауыратындардың үлесі",
+      "de": "Anteil der Typ-2-Patienten",
+      "es": "Proporción de pacientes con diabetes tipo 2"
+     },
+     "v": {
+      "ru": "90%",
+      "en": "90%",
+      "kk": "90%",
+      "de": "90 Prozent",
+      "es": "90 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Период Недели борьбы с диабетом",
+      "en": "Period of the Diabetes Awareness Week",
+      "kk": "Диабетпен күрес аптасының мерзімі",
+      "de": "Zeitraum der Woche gegen Diabetes",
+      "es": "Período de la semana contra la diabetes"
+     },
+     "v": {
+      "ru": "9–15 ноября 2026",
+      "en": "9–15 November 2026",
+      "kk": "2026 жылғы 9–15 қараша",
+      "de": "9.–15. November 2026",
+      "es": "9–15 de noviembre de 2026"
+     }
+    }
+   ]
+  },
+  {
+   "id": "npEQT9vYz01",
+   "cat": "community",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "Неделя борьбы с диабетом на Дону: как распознать, предотвратить и контролировать",
+    "en": "Diabetes Awareness Week in the Don Region: How to Recognize, Prevent and Control It",
+    "kk": "Дон өңірінде қант диабетімен күрес апталығы: оны қалай анықтау, алдын алу және бақылау",
+    "de": "Woche gegen Diabetes in der Region Don: Erkennen, vorbeugen, kontrollieren",
+    "es": "Semana contra la diabetes en la región del Don: cómo reconocerla, prevenirla y controlarla"
+   },
+   "text": {
+    "ru": "В Ростовской области прошла Неделя борьбы с диабетом с рассказом о признаках болезни, профилактике и контроле.",
+    "en": "A Diabetes Awareness Week in the Rostov region focused on recognizing the disease, prevention and control.",
+    "kk": "Ростов облысында қант диабетімен күрес апталығы ауру белгілерін анықтау, алдын алу және бақылау туралы әңгімеледі.",
+    "de": "Eine Woche gegen Diabetes in der Region Rostow befasste sich mit Erkennung, Vorbeugung und Kontrolle.",
+    "es": "Una semana contra la diabetes en la región de Rostov se centró en reconocer la enfermedad, prevenirla y controlarla."
+   },
+   "url": "https://nash-krai.ru/nedelya-borby-s-diabetom-na-donu-kak-raspoznat-predotvratit-i-derzhat-pod-kontrolem/",
+   "src": "Новости Миллерово и Ростовской области",
+   "photoQuery": "healthy food plate vegetables",
+   "photo": {
+    "id": "u_jUPOXXRNdcA",
+    "url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aGVhbHRoeSUyMGZvb2QlMjBwbGF0ZSUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDIwNzgxOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Brooke Lark",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/poached-egg-with-vegetables-and-tomatoes-on-blue-plate-jUPOXXRNdcA?utm_source=dia_news&utm_medium=referral",
+    "alt": "poached egg with vegetables and tomatoes on blue plate"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nmpBP29jPTU",
+   "cat": "community",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "«Сахарный диабет — не приговор»: в Тольятти стартовала профилактическая акция",
+    "en": "\"Diabetes Is Not a Sentence\": Preventive Campaign Launched in Togliatti",
+    "kk": "«Қант диабеті — үкім емес»: Тольятти қаласында алдын алу науқаны басталды",
+    "de": "\"Diabetes ist kein Urteil\": Präventionskampagne in Toljatti gestartet",
+    "es": "\"La diabetes no es una sentencia\": campaña preventiva lanzada en Toliatti"
+   },
+   "text": {
+    "ru": "В Тольятти запущена профилактическая акция о том, как контролировать сахарный диабет и вести полноценную жизнь.",
+    "en": "A preventive campaign in Togliatti promotes controlling diabetes and living a full life.",
+    "kk": "Тольятти қаласында қант диабетін бақылау және толыққанды өмір сүру туралы алдын алу науқаны басталды.",
+    "de": "In Toljatti wird eine Präventionskampagne durchgeführt, die zeigt, wie man Diabetes kontrolliert und ein erfülltes Leben führt.",
+    "es": "En Toliatti se lanzó una campaña preventiva sobre cómo controlar la diabetes y llevar una vida plena."
+   },
+   "url": "https://tgl.ru/news/item/26080-profilakticheskaya-akciya-saharnyy-diabet-ne-prigovor-kontroliruy-i-zhivi-polnocenno/",
+   "src": "Администрация городского округа Тольятти",
+   "photoQuery": "community health event people",
+   "photo": {
+    "id": "u_nhxN9_O7xZY",
+    "url": "https://images.unsplash.com/photo-1761250027507-c0be614c0254?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29tbXVuaXR5JTIwaGVhbHRoJTIwZXZlbnQlMjBwZW9wbGV8ZW58MXwwfHx8MTc5NDIwNzgxOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Avesta",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-large-group-of-people-gathered-indoors-at-an-event-nhxN9_O7xZY?utm_source=dia_news&utm_medium=referral",
+    "alt": "A large group of people gathered indoors at an event"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nWHc_b2M9NQ",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "Как сохранить здоровье ног при диабете: рекомендации хирурга",
+    "en": "How to Protect Your Feet with Diabetes: Surgeon's Advice",
+    "kk": "Қант диабетінде аяқ денсаулығын қалай сақтауға болады: хирургтің кеңесі",
+    "de": "Wie man die Füße bei Diabetes schützt: Empfehlungen eines Chirurgen",
+    "es": "Cómo cuidar la salud de los pies con diabetes: recomendaciones de un cirujano"
+   },
+   "text": {
+    "ru": "Хирург рассказал, как заботиться о ногах при сахарном диабете.",
+    "en": "A surgeon shared advice on caring for the feet with diabetes.",
+    "kk": "Хирург қант диабеті кезінде аяқ күтімі туралы кеңес берді.",
+    "de": "Ein Chirurg gab Hinweise zur Fußpflege bei Diabetes.",
+    "es": "Un cirujano compartió consejos para cuidar los pies con diabetes."
+   },
+   "url": "https://www.inform.kz/ru/kak-sohranit-zdorove-nog-pri-diabete-rekomendatsii-hirurga-2f0603a8",
+   "src": "Казинформ",
+   "photoQuery": "diabetic foot care examination",
+   "photo": {
+    "id": "u_nhEIkQVj0iI",
+    "url": "https://images.unsplash.com/photo-1675159364615-38e1f6b62282?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8ZGlhYmV0aWMlMjBmb290JTIwY2FyZSUyMGV4YW1pbmF0aW9ufGVufDF8MHx8fDE3OTQyMDc4MTl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Oswald Elsaboath",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/foot-massage-with-oil-nhEIkQVj0iI?utm_source=dia_news&utm_medium=referral",
+    "alt": "Hands massaging a foot with oil on a white towel"
+   },
+   "body": {
+    "ru": "Казинформ опубликовал беседу с Толейгуль Искаковой, врачом-хирургом, которая заведует отделением инфекционной хирургии городской клинической больницы № 7 Алматы, о сохранении здоровья ног при диабете. По её словам, ежедневный уход за стопами и обращение к врачу без промедления помогают избежать тяжёлых осложнений сахарного диабета.\n\nОтсутствие боли, по словам специалиста, не значит, что с ногой всё в порядке. Она рекомендует каждый день осматривать ноги, включая подошвы и межпальцевые промежутки, чтобы замечать проблему на ранней стадии. Из-за сниженной чувствительности можно не заметить даже ожог, поэтому не стоит распаривать ноги, использовать горячую воду или срезать мозоли самостоятельно.\n\nХирург отмечает, что при ране важно вовремя оценить её состояние, кровоснабжение ноги и наличие инфекции. Иногда одной перевязки недостаточно: заживление может потребовать комплексного лечения и снижения нагрузки на поражённую стопу. Даже после заживления язвы риск повторного повреждения сохраняется.\n\nВ статье также сказано, что врачам удалось сохранить коленный сустав и опорную функцию конечности, а также добиться заживления язв. Ежедневный осмотр ног, правильная обувь и регулярное наблюдение у специалиста, по её словам, должны стать привычкой для каждого пациента с диабетом. Любую ранку, язву или вскрывшийся волдырь нужно показать специалисту в тот же день: своевременное обращение может помочь сохранить конечность и подвижность.",
+    "en": "Kazinform has published an interview with Toleigul Iskakova, a surgeon who heads the infectious surgery department at City Clinical Hospital No. 7 in Almaty, on keeping the feet healthy in people with diabetes. Her main message is that daily foot care and early contact with a doctor help prevent serious complications of the disease.\n\nAccording to the surgeon, a lack of pain does not mean a foot is fine. She recommends checking the feet every day, including the soles and the spaces between the toes, so that problems are caught early. Because sensation can be reduced, a person may not notice even a burn, which is why she advises against soaking the feet, using hot water, or trimming calluses at home.\n\nWhen a wound appears, she says it is essential to assess its condition, the blood supply to the leg and whether infection is present without delay. Sometimes one dressing is not enough; healing may require complex treatment and reduced load on the affected foot. Even after an ulcer heals, the risk of new injury remains.\n\nThe article also mentions that doctors managed to save a knee joint and the weight-bearing function of a limb, and to heal ulcers. Iskakova says that daily foot checks, proper shoes and regular specialist follow-up should become routine for every patient with diabetes. Any wound, ulcer or opened blister should be shown to a specialist the same day, since prompt care may help preserve the limb and the ability to move freely.",
+    "kk": "Қазинформ диабеті бар адамдардың аяқ денсаулығын сақтау туралы Алматы қаласы қалалық клиникалық аурухана № 7-нің инфекциялық хирургия бөлімін меңгерушісі, дәрігер-хирург Толейгуль Искақованың сұхбатын жариялады. Оның айтуынша, аяқты күнде күту және дәрігерге уақытылы жүгіну диабеттің ауыр асқынуларының алдын алуға көмектеседі.\n\nМаманның айтуынша, ауырсынудың болмауы аяқ жақсы екенін білдірмейді. Ол әр күні аяқты, соның ішінде табанды және саусақ аралықтарын тексеруге кеңес береді, сонда мәселе ерте байқалады. Сезімталдық төмендегендіктен адам күйікті де байқамауы мүмкін, сондықтан аяқты буландырмау, ыстық суды қолданбау және сүйелдерді өз бетімен кеспеу керек.\n\nХирургтың айтуынша, жарада оның жағдайын, аяқтың қан айналымын және инфекцияның бар-жоғын уақытылы бағалау маңызды. Кейде бір таңу жеткіліксіз: емдеу кешенді болуы және зақымданған табанға жүктемені азайту қажет болуы мүмкін. Жара жазылғаннан кейін де қайта зақымдану қаупі сақталады.\n\nМақалада дәрігерлердің тізе буынын және аяқ-қолдың тірек қызметін сақтап, жараларды жазуға қол жеткізгені де айтылған. Искақова әр күнгі аяқ тексеру, дұрыс аяқ киім және маманға тұрақты бару әр диабет пациентінің әдетіне айналуы керек дейді. Кез келген жараны, жаралы немесе ашылған көпіршікті сол күні маманға көрсету керек; уақытылы көмек аяқты және еркін қозғалу мүмкіндігін сақтауға көмектесуі мүмкін.",
+    "de": "Kazinform hat ein Interview mit Toleigul Iskakova veröffentlicht, einer Chirurgin, die die Abteilung für Infektionschirurgie am Städtischen Klinikum Nr. 7 in Almaty leitet. Thema sind Maßnahmen zum Erhalt der Gesundheit der Füße bei Diabetes. Ihre Kernbotschaft: Tägliche Fußpflege und ein rechtzeitiger Arztbesuch helfen, schwere Komplikationen der Krankheit zu verhindern.\n\nFehlende Schmerzen bedeuten nicht, dass alles in Ordnung ist, betont die Ärztin. Sie empfiehlt, die Füße täglich zu untersuchen, einschließlich der Sohlen und der Zwischenräume zwischen den Zehen, damit Probleme früh auffallen. Weil das Empfinden vermindert sein kann, fällt selbst eine Verbrennung unter Umständen nicht auf; deshalb rät sie davon ab, die Füße einzuweichen, heißes Wasser zu verwenden oder Hornhaut selbst abzuschneiden.\n\nBei einer Wunde sei es wichtig, deren Zustand, die Durchblutung des Beins und mögliche Infektionen rechtzeitig zu beurteilen. Manchmal reicht ein einzelner Verband nicht aus; die Heilung kann eine komplexe Behandlung und eine Entlastung des betroffenen Fußes erfordern. Auch nach dem Abheilen eines Geschwürs bleibt das Risiko einer erneuten Verletzung bestehen.\n\nDer Artikel erwähnt außerdem, dass Ärzte ein Kniegelenk sowie die Belastbarkeit einer Gliedmaße erhalten und Geschwüre zur Heilung bringen konnten. Tägliche Fußkontrollen, passendes Schuhwerk und regelmäßige Betreuung durch Fachleute sollten nach Iskakovas Worten zur Gewohnheit jedes Patienten mit Diabetes werden. Jede kleine Wunde, jedes Geschwür oder eine geöffnete Blase sollte am selben Tag einem Facharzt gezeigt werden, denn rechtzeitige Hilfe kann helfen, das Bein und die Beweglichkeit zu erhalten.",
+    "es": "Kazinform publicó una entrevista con Toleigul Iskakova, cirujana que dirige el departamento de cirugía infecciosa del Hospital Clínico Municipal n.º 7 de Almaty, sobre cómo conservar la salud de los pies en personas con diabetes. Su mensaje central es que el cuidado diario de los pies y acudir al médico a tiempo ayudan a prevenir complicaciones graves de la enfermedad.\n\nSegún la especialista, la ausencia de dolor no significa que todo esté bien. Recomienda revisar los pies a diario, incluidas las plantas y los espacios entre los dedos, para detectar los problemas en una etapa temprana. Como la sensibilidad puede estar disminuida, una persona podría no notar ni siquiera una quemadura; por eso aconseja no remojar los pies, no usar agua caliente y no cortarse los callos por cuenta propia.\n\nCuando hay una herida, dice, es clave evaluar a tiempo su estado, el riego sanguíneo de la pierna y la presencia de infección. A veces un solo vendaje no basta: la curación puede requerir un tratamiento complejo y reducir la carga sobre el pie afectado. Incluso después de que una úlcera cicatriza, persiste el riesgo de una nueva lesión.\n\nEl artículo también menciona que los médicos lograron conservar una articulación de la rodilla y la función de apoyo de una extremidad, además de curar úlceras. Iskakova afirma que revisar los pies cada día, usar calzado adecuado y acudir con regularidad al especialista deben convertirse en un hábito para cada paciente con diabetes. Cualquier herida, úlcera o ampolla abierta debe mostrarse al especialista el mismo día, porque la atención oportuna puede ayudar a conservar la extremidad y la capacidad de moverse libremente."
+   }
+  },
+  {
+   "id": "nhwQj9vYz01",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "Неделя борьбы с диабетом стартовала в Татарстане",
+    "en": "Diabetes Awareness Week Starts in Tatarstan",
+    "kk": "Татарстанда қант диабетімен күрес апталығы басталды",
+    "de": "Woche gegen Diabetes in Tatarstan gestartet",
+    "es": "Arranca la Semana contra la Diabetes en Tatarstán"
+   },
+   "text": {
+    "ru": "В Татарстане с 9 ноября стартовала Неделя борьбы с диабетом.",
+    "en": "Diabetes Awareness Week has started in Tatarstan from November 9.",
+    "kk": "Татарстанда 9 қарашадан бастап қант диабетімен күрес апталығы басталды.",
+    "de": "In Tatarstan hat am 9. November die Woche gegen Diabetes begonnen.",
+    "es": "En Tatarstán comenzó el 9 de noviembre la Semana contra la Diabetes."
+   },
+   "url": "https://zur-kazan.ru/news/article/nedelya-borby-s-diabetom-startovala-v-tatarstane-s-9-noyabrya-199916/",
+   "src": "zur-kazan.ru",
+   "photoQuery": "medical clinic waiting room",
+   "photo": {
+    "id": "u_rqdWlkRzerg",
+    "url": "https://images.unsplash.com/photo-1758654860024-9e352f70d1f9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGNsaW5pYyUyMHdhaXRpbmclMjByb29tfGVufDF8MHx8fDE3OTQyMDc4MjB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Navy Medicine",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/people-waiting-in-a-hallway-with-chairs-and-chairs-rqdWlkRzerg?utm_source=dia_news&utm_medium=referral",
+    "alt": "People waiting in a hallway with chairs and chairs"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nkpSP29jPTU",
+   "cat": "events",
+   "stage": "campaign",
+   "date": "2026-11-09",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "В Якутии эта неделя посвящена борьбе с диабетом",
+    "en": "This Week in Yakutia Is Dedicated to Fighting Diabetes",
+    "kk": "Якутияда осы апта қант диабетімен күресуге арналған",
+    "de": "In Jakutien steht diese Woche im Zeichen des Kampfes gegen Diabetes",
+    "es": "En Yakutia esta semana está dedicada a la lucha contra la diabetes"
+   },
+   "text": {
+    "ru": "В Якутии проходит неделя, посвящённая борьбе с сахарным диабетом.",
+    "en": "A week dedicated to fighting diabetes is taking place in Yakutia.",
+    "kk": "Якутияда қант диабетімен күресуге арналған апта өтуде.",
+    "de": "In Jakutien findet eine Woche statt, die dem Kampf gegen Diabetes gewidmet ist.",
+    "es": "En Yakutia se celebra una semana dedicada a la lucha contra la diabetes."
+   },
+   "url": "https://ysia.ru/v-yakutii-eta-nedelya-posvyashhena-borbe-s-diabetom/",
+   "src": "ЯСИА",
+   "photoQuery": "blood sugar test kit",
+   "photo": {
+    "id": "u_V8Z-RdGs5M8",
+    "url": "https://images.unsplash.com/photo-1778876092192-e76c88c48f12?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGNvbmZlcmVuY2UlMjBhdWRpZW5jZXxlbnwxfDB8fHwxNzk0MjA3ODIwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Ufoma Ojo",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-large-group-of-people-gathered-in-an-auditorium-V8Z-RdGs5M8?utm_source=dia_news&utm_medium=referral",
+    "alt": "A large group of people gathered in an auditorium"
+   },
+   "body": {
+    "ru": "В медицинских учреждениях Якутии с 9 по 15 ноября проходит неделя, посвященная борьбе с сахарным диабетом. Для пациентов запланированы профилактические осмотры, лекции и занятия. Мероприятия приурочены к Всемирному дню борьбы с диабетом, который ежегодно отмечают 14 ноября.\n\nЦентры здоровья выедут на предприятия и в организации, а для трудовых коллективов предусмотрена диспансеризация. Медики уделят особое внимание раннему выявлению диабета у детей и подростков, а родителям расскажут о факторах риска и профилактике диабета второго типа.\n\nДля специалистов 11 и 12 ноября пройдет научно-практическая конференция «Школа практикующего эндокринолога», а 14 ноября состоится междисциплинарная конференция о предупреждении нарушений зрения при диабете.\n\n13 ноября с 11:00 до 14:00 в Республиканском эндокринологическом центре Якутской республиканской клинической больницы пройдет акция «Узнай свой риск развития сахарного диабета 2-го типа». В этот же день с 14:00 до 15:00 для пациентов проведут занятие школы диабета и тематическую викторину. В течение недели клинические ординаторы Медицинского института СВФУ предложат жителям Якутска заполнить анкету FINDRISK для оценки риска.\n\nПо словам редакции, осмотры и диспансеризация помогают вовремя находить факторы риска и нарушения углеводного обмена. Раннее выявление хронических болезней входит в задачи национального проекта «Продолжительная и активная жизнь», инициированного президентом Владимиром Путиным.",
+    "en": "Medical facilities across Yakutia are marking a week devoted to diabetes from 9 to 15 November. During this period, preventive check-ups, lectures and classes for people living with diabetes are scheduled. The events are timed to World Diabetes Day, which is observed every year on 14 November.\n\nHealth centres plan to travel to workplaces and organisations, and dispensary examinations are planned for work teams. Doctors will pay particular attention to spotting diabetes early in children and adolescents, and parents will be briefed on risk factors and ways to prevent type 2 diabetes.\n\nProfessional events are also on the calendar. A scientific and practical conference, \"School of the Practising Endocrinologist\", will take place on 11 and 12 November. On 14 November an interdisciplinary conference will focus on preventing vision problems in people with diabetes.\n\nOn 13 November, from 11:00 to 14:00, the Republican Endocrinology Centre of the Yakutsk Republican Clinical Hospital will host the campaign \"Find out your risk of developing type 2 diabetes\". The same day, from 14:00 to 15:00, patients can attend a session of the diabetes school and a themed quiz. Throughout the week, clinical residents from the SVFU Medical Institute will invite Yakutsk residents to complete the FINDRISK questionnaire, which estimates the risk of type 2 diabetes.\n\nAccording to the article, check-ups and dispensary exams help identify risk factors and disorders of carbohydrate metabolism in good time. Early detection of chronic diseases is among the goals of the national project \"Longer and Active Life\", launched on the initiative of President Vladimir Putin.",
+    "kk": "Якутияның медициналық мекемелерінде 9–15 қараша аралығында диабетке арналған апта өтеді. Бұл кезеңде диабеті бар науқастарға арналған профилактикалық тексерулер, дәрістер және сабақтар жоспарланған. Іс-шаралар жыл сайын 14 қарашада атап өтілетін Бүкіләлемдік диабет күнімен бір уақытқа сәйкестендірілген.\n\nДенсаулық орталықтары кәсіпорындар мен ұйымдарға шығуды жоспарлап отыр, ал еңбек ұжымдары үшін диспансерлік тексеру көзделген. Дәрігерлер балалар мен жасөспірімдерде диабетті ерте анықтауға ерекше назар аударады, ата-аналарға 2-типті диабеттің қауіп факторлары мен алдын алу шаралары түсіндіріледі.\n\nКәсіби іс-шаралар да бар. 11 және 12 қарашада «Практикующий эндокринолог мектебі» ғылыми-практикалық конференциясы өтеді. 14 қарашада диабеті бар адамдарда көру мәселелерінің алдын алуға арналған пәнаралық конференция өткізіледі.\n\n13 қарашада сағат 11:00-ден 14:00-ге дейін Якутск республикалық клиникалық ауруханасының Республикалық эндокринология орталығында «2-типті қант диабетінің даму қаупін біліңіз» акциясы болады. Сол күні сағат 14:00-ден 15:00-ке дейін науқастарға диабет мектебінің сабағы және тақырыптық викторина ұйымдастырылады. Апта бойы СВФУ Медициналық институтының клиникалық ординаторлары Якутск тұрғындарын қауіпті бағалауға арналған FINDRISK сауалнамасын толтыруға шақырады.\n\nМақалада айтылғандай, тексерулер мен диспансерлеу қауіп факторларын және көмірсу алмасуының бұзылыстарын уақытында анықтауға көмектеседі. Созылмалы аурулардың ерте анықталуы Президент Владимир Путин бастамашылық еткен «Ұзақ әрі белсенді өмір» ұлттық жобасының міндеттеріне кіреді.",
+    "de": "In Jakutien ist vom 9. bis 15. November eine Woche dem Kampf gegen Diabetes gewidmet. In den medizinischen Einrichtungen der Republik sind in diesem Zeitraum vorbeugende Untersuchungen, Vorträge und Kurse für Menschen mit Diabetes vorgesehen. Die Veranstaltungen fallen auf den Weltdiabetestag, der jedes Jahr am 14. November begangen wird.\n\nGesundheitszentren wollen Betriebe und Organisationen aufsuchen, und für Belegschaften ist eine Vorsorgeuntersuchung im Rahmen der Dispensarisierung geplant. Ärztinnen und Ärzte wollen besonders auf die frühe Erkennung von Diabetes bei Kindern und Jugendlichen achten. Eltern erhalten Informationen zu Risikofaktoren und zur Vorbeugung von Typ-2-Diabetes.\n\nAuch für Fachleute gibt es Termine. Am 11. und 12. November findet die wissenschaftlich-praktische Konferenz „Schule des praktizierenden Endokrinologen“ statt. Am 14. November steht eine interdisziplinäre Konferenz zur Vorbeugung von Sehstörungen bei Diabetes auf dem Programm.\n\nAm 13. November findet von 11:00 bis 14:00 Uhr im Republikanischen Endokrinologiezentrum der Republikanischen Klinik in Jakutsk die Aktion „Finden Sie Ihr Risiko für Typ-2-Diabetes heraus“ statt. Am selben Tag bietet man von 14:00 bis 15:00 Uhr eine Unterrichtsstunde der Diabetesschule und ein Quiz zum Thema an. Im Laufe der Woche sollen klinische Assistenzärzte des Medizinischen Instituts der SWFU die Einwohner Jakutsks einladen, den FINDRISK-Fragebogen auszufüllen, der das Risiko für Typ-2-Diabetes einschätzt.\n\nLaut dem Artikel helfen Untersuchungen und Dispensarisierung, Risikofaktoren und Störungen des Kohlenhydratstoffwechsels rechtzeitig zu erkennen. Die frühe Erkennung chronischer Krankheiten gehört zu den Aufgaben des nationalen Projekts „Lebensdauer und aktives Leben“, das auf Initiative von Präsident Wladimir Putin ins Leben gerufen wurde.",
+    "es": "En Yakutia, la semana del 9 al 15 de noviembre está dedicada a la lucha contra la diabetes. Durante esos días, los centros médicos de la república organizarán revisiones preventivas, conferencias y clases para personas con diabetes. Las actividades coinciden con el Día Mundial de la Diabetes, que se celebra cada año el 14 de noviembre.\n\nLos centros de salud acudirán a empresas y organizaciones, y se ha previsto un examen médico periódico para los colectivos laborales. Los médicos prestarán especial atención a la detección temprana de la diabetes en niños y adolescentes, y los padres recibirán información sobre factores de riesgo y medidas para prevenir la diabetes tipo 2.\n\nTambién hay actos para profesionales. Los días 11 y 12 de noviembre se celebrará la conferencia científico-práctica «Escuela del endocrinólogo en ejercicio». El 14 de noviembre habrá una conferencia interdisciplinar sobre la prevención de problemas de visión en la diabetes.\n\nEl 13 de noviembre, de 11:00 a 14:00, el Centro Republicano de Endocrinología del Hospital Clínico Republicano de Yakutsk realizará la campaña «Averigüe su riesgo de desarrollar diabetes tipo 2». Ese mismo día, de 14:00 a 15:00, los pacientes podrán asistir a una clase de la escuela de diabetes y a un concurso temático. Durante la semana, residentes clínicos del Instituto Médico de la SVFU invitarán a los habitantes de Yakutsk a completar el cuestionario FINDRISK, que evalúa el riesgo de diabetes tipo 2.\n\nSegún el artículo, las revisiones y los exámenes periódicos ayudan a detectar a tiempo los factores de riesgo y las alteraciones del metabolismo de los carbohidratos. La detección temprana de enfermedades crónicas forma parte de los objetivos del proyecto nacional «Vida larga y activa», impulsado por el presidente Vladímir Putin."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Период мероприятий",
+      "en": "Event period",
+      "kk": "Іс-шаралар кезеңі",
+      "de": "Veranstaltungszeitraum",
+      "es": "Período de actividades"
+     },
+     "v": {
+      "ru": "с 9 по 15 ноября",
+      "en": "9–15 November",
+      "kk": "9–15 қараша",
+      "de": "9.–15. November",
+      "es": "9 al 15 de noviembre"
+     }
+    },
+    {
+     "k": {
+      "ru": "Акция «Узнай свой риск развития сахарного диабета 2-го типа»",
+      "en": "Campaign \"Find out your risk of type 2 diabetes\"",
+      "kk": "«2-типті қант диабетінің даму қаупін біліңіз» акциясы",
+      "de": "Aktion „Finden Sie Ihr Risiko für Typ-2-Diabetes heraus“",
+      "es": "Campaña «Averigüe su riesgo de diabetes tipo 2»"
+     },
+     "v": {
+      "ru": "13 ноября, 11:00–14:00",
+      "en": "13 November, 11:00–14:00",
+      "kk": "13 қараша, 11:00–14:00",
+      "de": "13. November, 11:00–14:00 Uhr",
+      "es": "13 de noviembre, 11:00–14:00"
+     }
+    }
+   ]
   },
   {
    "id": "cure-katie-beth-hand",
@@ -166,290 +448,6 @@ const DIA_NEWS={
    "src": "T1D Exchange · NBC News",
    "photoTried": true,
    "art": "cells"
-  },
-  {
-   "id": "cure-vertex-zimislecel",
-   "cat": "cure",
-   "stage": "phase3",
-   "date": "2026-11-02",
-   "added": "2026-11-09T07:00:00.000Z",
-   "pin": true,
-   "title": {
-    "ru": "Островки из стволовых клеток Vertex: 10 из 12 пациентов без инсулина, следующая версия подойдёт для любой группы крови",
-    "en": "Vertex's stem-cell islets: 10 of 12 patients off insulin, and the next version is designed for any blood type",
-    "kk": "Vertex-тің бағаналы жасушалардан алынған аралшықтары: 12 пациенттің 10-ы инсулинсіз, келесі нұсқа кез келген қан тобына арналған",
-    "de": "Vertex' Stammzell-Inseln: 10 von 12 Patienten ohne Insulin, die nächste Version soll für jede Blutgruppe passen",
-    "es": "Islotes de células madre de Vertex: 10 de 12 pacientes sin insulina y la próxima versión, para cualquier grupo sanguíneo"
-   },
-   "text": {
-    "ru": "Зимислесел — выращенные в лаборатории островковые клетки. Через год после одной инфузии 10 из 12 участников не нуждались в инсулине. Сейчас Vertex делает ставку на VX-017 для людей с любой группой крови.",
-    "en": "Zimislecel consists of lab-grown islet cells. A year after a single infusion, 10 of 12 participants no longer needed insulin. Vertex is now prioritizing VX-017, designed for people of any blood type.",
-    "kk": "Зимислесел — зертханада өсірілген аралшық жасушалары. Бір рет енгізгеннен кейін бір жылдан соң 12 қатысушының 10-ына инсулин қажет болмады. Қазір Vertex кез келген қан тобындағы адамдарға арналған VX-017-ге басымдық береді.",
-    "de": "Zimislecel besteht aus im Labor gezüchteten Inselzellen. Ein Jahr nach einer einzigen Infusion brauchten 10 von 12 Teilnehmenden kein Insulin mehr. Vertex setzt nun vorrangig auf VX-017 für Menschen jeder Blutgruppe.",
-    "es": "El zimislecel son células de islote cultivadas en laboratorio. Un año después de una sola infusión, 10 de 12 participantes ya no necesitaban insulina. Vertex prioriza ahora VX-017, pensado para personas de cualquier grupo sanguíneo."
-   },
-   "body": {
-    "ru": "Зимислесел (ранее VX-880) компании Vertex Pharmaceuticals — первая полностью дифференцированная островковая терапия из стволовых клеток. Клетки выращивают в лаборатории, а не берут у доноров, поэтому их теоретически можно производить в нужном количестве. Их вводят однократно через воротную вену в печень на фоне стандартной иммуносупрессии.\n\nВ фазе 1/2 исследования FORWARD 12 человек с тяжёлыми гипогликемиями получили полную дозу — 0,8 миллиарда клеток. У всех клетки прижились: появился С-пептид, которого до лечения не было. Через год 10 из 12 участников обходились без инсулина, у всех HbA1c был ниже 7%, не было тяжёлых гипогликемий, а время в целевом диапазоне превышало 70%. Результаты опубликованы в New England Journal of Medicine в 2025 году.\n\nВ 2026 году план изменился. Зимислесел подходит только людям с группой крови A или AB, поэтому Vertex сделал приоритетом новую версию VX-017 — клетки от донора с группой крови O, «универсального донора». FDA разрешило её клинические испытания и присвоило статус Fast Track; компания рассчитывает перейти к основной (пивотальной) фазе в 2027 году. По оценке Vertex, это удвоит число людей, которым подходит терапия, — примерно с 60 до 120 тысяч. Исследование зимислесела при этом продолжается.\n\nВажно: пока это экспериментальное лечение для людей с тяжёлым течением диабета, и оно требует пожизненной иммуносупрессии. Первоначальный план подать документы на регистрацию в 2026 году компания пересматривает.",
-    "en": "Zimislecel (formerly VX-880) from Vertex Pharmaceuticals is the first fully differentiated stem-cell-derived islet therapy. The cells are grown in the lab rather than taken from donors, so in theory they can be produced at scale. They are given once, through the portal vein into the liver, alongside standard immunosuppression.\n\nIn the Phase 1/2 part of the FORWARD study, 12 people with severe hypoglycemia received the full dose of 0.8 billion cells. In all of them the cells engrafted, and C-peptide appeared where there had been none before treatment. After a year, 10 of 12 participants were insulin-free; all had an HbA1c below 7%, no severe hypoglycemia and more than 70% time in range. The results were published in the New England Journal of Medicine in 2025.\n\nIn 2026 the plan changed. Zimislecel suits only people with blood type A or AB, so Vertex prioritized a new version, VX-017, made from cells of a type O \"universal donor\". The FDA cleared its clinical trial and granted Fast Track designation; the company expects pivotal development in 2027. Vertex estimates this would double the number of eligible people from about 60,000 to about 120,000. The zimislecel study continues.\n\nNote: this is still an experimental treatment for people with severe diabetes, and it requires lifelong immunosuppression. The company is revising its original plan to file for approval in 2026.",
-    "kk": "Vertex Pharmaceuticals компаниясының зимислеселі (бұрынғы VX-880) — бағаналы жасушалардан алынған алғашқы толық дифференцияланған аралшық терапиясы. Жасушалар донорлардан алынбайды, зертханада өсіріледі, сондықтан теория жүзінде оларды қажетті мөлшерде өндіруге болады. Олар стандартты иммуносупрессия аясында қақпа венасы арқылы бауырға бір рет енгізіледі.\n\nFORWARD зерттеуінің 1/2 фазасында ауыр гипогликемиясы бар 12 адам толық дозаны — 0,8 миллиард жасушаны алды. Барлығында жасушалар орнықты: емге дейін болмаған С-пептид пайда болды. Бір жылдан кейін 12 қатысушының 10-ы инсулинсіз жүрді, барлығында HbA1c 7%-дан төмен, ауыр гипогликемия болмады, ал мақсатты диапазондағы уақыт 70%-дан асты. Нәтижелер 2025 жылы New England Journal of Medicine журналында жарияланды.\n\n2026 жылы жоспар өзгерді. Зимислесел тек A немесе AB қан тобындағы адамдарға сәйкес келеді, сондықтан Vertex жаңа нұсқаға — O қан тобындағы «әмбебап донордың» жасушаларынан жасалған VX-017-ге басымдық берді. FDA оның клиникалық сынақтарына рұқсат беріп, Fast Track мәртебесін берді; компания 2027 жылы негізгі (пивоттық) фазаға өтуді жоспарлап отыр. Vertex бағалауынша, бұл терапия сәйкес келетін адамдар санын шамамен 60 мыңнан 120 мыңға дейін екі есе арттырады. Зимислесел зерттеуі жалғасуда.\n\nМаңызды: бұл әзірге диабеттің ауыр түрі бар адамдарға арналған тәжірибелік ем және өмір бойы иммуносупрессияны қажет етеді. Компания тіркеуге құжаттарды 2026 жылы тапсыру туралы бастапқы жоспарын қайта қарап жатыр.",
-    "de": "Zimislecel (früher VX-880) von Vertex Pharmaceuticals ist die erste vollständig ausdifferenzierte Inselzelltherapie aus Stammzellen. Die Zellen werden im Labor gezüchtet statt von Spendern gewonnen und lassen sich daher theoretisch in großer Menge herstellen. Sie werden einmalig über die Pfortader in die Leber gegeben, begleitet von einer Standard-Immunsuppression.\n\nIm Phase-1/2-Teil der FORWARD-Studie erhielten 12 Menschen mit schweren Unterzuckerungen die volle Dosis von 0,8 Milliarden Zellen. Bei allen wuchsen die Zellen an, und es trat C-Peptid auf, das vor der Behandlung fehlte. Nach einem Jahr kamen 10 von 12 ohne Insulin aus; alle hatten einen HbA1c unter 7 %, keine schweren Unterzuckerungen und über 70 % Zeit im Zielbereich. Die Ergebnisse erschienen 2025 im New England Journal of Medicine.\n\n2026 änderte sich der Plan. Zimislecel eignet sich nur für Menschen mit Blutgruppe A oder AB, deshalb priorisiert Vertex die neue Version VX-017 aus Zellen eines Spenders der Blutgruppe 0, eines „Universalspenders“. Die FDA genehmigte die klinische Studie und vergab den Fast-Track-Status; die entscheidende Studienphase soll 2027 beginnen. Laut Vertex würde sich die Zahl geeigneter Patienten damit von etwa 60.000 auf etwa 120.000 verdoppeln. Die Zimislecel-Studie läuft weiter.\n\nWichtig: Es handelt sich weiterhin um eine experimentelle Behandlung für Menschen mit schwerem Diabetes, die lebenslange Immunsuppression erfordert. Den ursprünglichen Plan, 2026 die Zulassung zu beantragen, überarbeitet das Unternehmen.",
-    "es": "El zimislecel (antes VX-880) de Vertex Pharmaceuticals es la primera terapia de islotes totalmente diferenciados a partir de células madre. Las células se cultivan en laboratorio en vez de obtenerse de donantes, por lo que en teoría pueden producirse a gran escala. Se administran una sola vez por la vena porta hasta el hígado, junto con inmunosupresión estándar.\n\nEn la fase 1/2 del estudio FORWARD, 12 personas con hipoglucemias graves recibieron la dosis completa de 0,8 mil millones de células. En todas las células prendieron y apareció péptido C, ausente antes del tratamiento. Al cabo de un año, 10 de 12 participantes no necesitaban insulina; todos tenían HbA1c inferior al 7 %, ninguna hipoglucemia grave y más del 70 % del tiempo en rango. Los resultados se publicaron en el New England Journal of Medicine en 2025.\n\nEn 2026 el plan cambió. El zimislecel solo sirve para personas con grupo sanguíneo A o AB, así que Vertex priorizó una nueva versión, VX-017, hecha con células de un donante del grupo O, \"donante universal\". La FDA autorizó su ensayo clínico y le concedió la designación Fast Track; la compañía prevé pasar a la fase pivotal en 2027. Según Vertex, eso duplicaría el número de personas candidatas, de unas 60.000 a unas 120.000. El estudio de zimislecel continúa.\n\nImportante: sigue siendo un tratamiento experimental para personas con diabetes grave y requiere inmunosupresión de por vida. La compañía está revisando su plan inicial de solicitar la aprobación en 2026."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Без инсулина через год",
-      "en": "Insulin-free at 1 year",
-      "kk": "Бір жылдан кейін инсулинсіз",
-      "de": "Ohne Insulin nach 1 Jahr",
-      "es": "Sin insulina al año"
-     },
-     "v": {
-      "ru": "10 из 12",
-      "en": "10 of 12",
-      "kk": "12-ден 10",
-      "de": "10 von 12",
-      "es": "10 de 12"
-     }
-    },
-    {
-     "k": {
-      "ru": "Доза",
-      "en": "Dose",
-      "kk": "Доза",
-      "de": "Dosis",
-      "es": "Dosis"
-     },
-     "v": {
-      "ru": "0,8 млрд клеток",
-      "en": "0.8 billion cells",
-      "kk": "0,8 млрд жасуша",
-      "de": "0,8 Mrd. Zellen",
-      "es": "0,8 mil millones de células"
-     }
-    },
-    {
-     "k": {
-      "ru": "VX-017, пивотальная фаза",
-      "en": "VX-017 pivotal phase",
-      "kk": "VX-017 пивоттық фазасы",
-      "de": "VX-017 Zulassungsstudie",
-      "es": "VX-017 fase pivotal"
-     },
-     "v": "2027"
-    }
-   ],
-   "url": "https://investors.vrtx.com/node/35101/pdf",
-   "src": "Vertex Pharmaceuticals · NEJM"
-  },
-  {
-   "id": "cure-sana-up421",
-   "cat": "cure",
-   "stage": "early",
-   "date": "2026-11-05",
-   "added": "2026-11-09T07:00:00.000Z",
-   "pin": true,
-   "title": {
-    "ru": "Островки работают 14 месяцев без иммуносупрессии: генно-модифицированные клетки Sana обходят иммунитет",
-    "en": "Islets working for 14 months without immunosuppression: Sana's gene-edited cells evade the immune system",
-    "kk": "Аралшықтар иммуносупрессиясыз 14 ай жұмыс істеп тұр: Sana-ның гендік түрлендірілген жасушалары иммунитеттен жалтарады",
-    "de": "Inselzellen arbeiten seit 14 Monaten ohne Immunsuppression: Sanas genveränderte Zellen entgehen dem Immunsystem",
-    "es": "Islotes que funcionan 14 meses sin inmunosupresión: las células editadas de Sana esquivan al sistema inmune"
-   },
-   "text": {
-    "ru": "В Швеции пациенту с диабетом 1 типа пересадили «гипоиммунные» донорские островки без каких-либо препаратов против отторжения. Через 14 месяцев клетки живы и вырабатывают инсулин.",
-    "en": "In Sweden, a person with type 1 diabetes received \"hypoimmune\" donor islets without any anti-rejection drugs. Fourteen months later the cells are alive and producing insulin.",
-    "kk": "Швецияда 1 типті диабеті бар пациентке тосырқауға қарсы ешқандай препаратсыз «гипоиммунды» донорлық аралшықтар ауыстырылды. 14 айдан кейін жасушалар тірі және инсулин шығарып жатыр.",
-    "de": "In Schweden erhielt ein Mensch mit Typ-1-Diabetes „hypoimmune“ Spender-Inselzellen ganz ohne Medikamente gegen Abstoßung. 14 Monate später leben die Zellen und bilden Insulin.",
-    "es": "En Suecia, una persona con diabetes tipo 1 recibió islotes de donante \"hipoinmunes\" sin ningún fármaco antirrechazo. Catorce meses después, las células siguen vivas y producen insulina."
-   },
-   "body": {
-    "ru": "Главное препятствие для пересадки островков — необходимость пожизненно подавлять иммунитет: иначе организм отторгнет чужие клетки, а аутоиммунная атака, вызвавшая диабет, повторится. Компания Sana Biotechnology пытается решить обе проблемы генным редактированием.\n\nВ исследовании, которое ведёт профессор Пер-Ула Карлссон в Университетской больнице Уппсалы, донорские островки отредактировали по технологии HIP («гипоиммунные клетки») и ввели небольшую дозу в мышцу предплечья одному пациенту с диабетом 1 типа. Никаких иммуносупрессантов, включая стероиды, он не получал.\n\nЧерез 14 месяцев в крови по-прежнему определяется С-пептид, и его уровень растёт после еды — значит, пересаженные бета-клетки работают и реагируют на пищу. ПЭТ-МРТ на 12-й и 52-й неделе показала клетки в месте пересадки. Проблем с безопасностью не выявлено, иммунная система клетки не атакует. Результаты опубликованы в New England Journal of Medicine.\n\nОграничения: это один пациент и очень малая доза, поэтому исследование не рассчитано на отказ от инсулина — его цель доказать, что клетки выживают без иммуносупрессии. Следующий шаг Sana — SC451: гипоиммунные островки из стволовых клеток донора с группой крови O(-). Компания планирует подать заявку на клинические испытания и начать фазу 1/2.",
-    "en": "The main obstacle to islet transplantation is the need for lifelong immune suppression: otherwise the body rejects the foreign cells, and the autoimmune attack that caused diabetes returns. Sana Biotechnology is trying to solve both problems with gene editing.\n\nIn a study led by Professor Per-Ola Carlsson at Uppsala University Hospital, donor islets were edited with HIP (\"hypoimmune\") technology and a small dose was placed into the forearm muscle of one patient with type 1 diabetes. He received no immunosuppressants at all, not even steroids.\n\nAfter 14 months, C-peptide is still present in the blood and rises after a meal, meaning the transplanted beta cells work and respond to food. PET-MRI at weeks 12 and 52 showed the cells at the transplant site. No safety issues were found, and the immune system is not attacking the cells. The results were published in the New England Journal of Medicine.\n\nLimitations: this is one patient and a very small dose, so the study was not designed to get him off insulin; its goal is to show that the cells survive without immunosuppression. Sana's next step is SC451, hypoimmune islets made from stem cells of an O-negative donor. The company plans to file for clinical trials and start a Phase 1/2 study.",
-    "kk": "Аралшықтарды ауыстырудың басты кедергісі — иммунитетті өмір бойы басу қажеттігі: әйтпесе ағза бөгде жасушаларды тосырқайды, ал диабетті тудырған аутоиммундық шабуыл қайталанады. Sana Biotechnology компаниясы екі мәселені де гендік редакциялау арқылы шешуге тырысуда.\n\nУппсала университеттік ауруханасында профессор Пер-Ула Карлссон жүргізіп отырған зерттеуде донорлық аралшықтар HIP («гипоиммунды жасушалар») технологиясымен редакцияланып, 1 типті диабеті бар бір пациенттің білек бұлшықетіне шағын доза енгізілді. Ол ешқандай иммуносупрессант, тіпті стероид та алмады.\n\n14 айдан кейін қанда С-пептид әлі анықталады және тамақтан кейін көтеріледі — демек, ауыстырылған бета-жасушалар жұмыс істеп, тамаққа жауап береді. 12-ші және 52-ші аптадағы ПЭТ-МРТ жасушаларды ауыстырылған жерде көрсетті. Қауіпсіздік мәселелері анықталмады, иммундық жүйе жасушаларға шабуыл жасамайды. Нәтижелер New England Journal of Medicine журналында жарияланды.\n\nШектеулер: бұл бір пациент және өте аз доза, сондықтан зерттеу инсулиннен бас тартуға есептелмеген — оның мақсаты жасушалардың иммуносупрессиясыз тірі қалатынын дәлелдеу. Sana-ның келесі қадамы — SC451: O(-) қан тобындағы донордың бағаналы жасушаларынан алынған гипоиммунды аралшықтар. Компания клиникалық сынақтарға өтінім беріп, 1/2 фазаны бастауды жоспарлап отыр.",
-    "de": "Das größte Hindernis bei Inselzelltransplantationen ist die lebenslange Unterdrückung des Immunsystems: Sonst stößt der Körper die fremden Zellen ab, und der Autoimmunangriff, der den Diabetes ausgelöst hat, kehrt zurück. Sana Biotechnology will beide Probleme mit Genom-Editierung lösen.\n\nIn einer Studie unter Leitung von Professor Per-Ola Carlsson am Universitätskrankenhaus Uppsala wurden Spender-Inselzellen mit der HIP-Technologie („hypoimmun“) verändert und in kleiner Dosis in den Unterarmmuskel eines Patienten mit Typ-1-Diabetes gesetzt. Er erhielt keinerlei Immunsuppressiva, auch keine Steroide.\n\nNach 14 Monaten ist weiterhin C-Peptid im Blut nachweisbar, und es steigt nach dem Essen – die transplantierten Betazellen arbeiten also und reagieren auf Nahrung. PET-MRT-Aufnahmen in Woche 12 und 52 zeigten die Zellen an der Transplantationsstelle. Sicherheitsprobleme traten nicht auf, das Immunsystem greift die Zellen nicht an. Die Ergebnisse erschienen im New England Journal of Medicine.\n\nEinschränkungen: Es handelt sich um einen einzigen Patienten und eine sehr kleine Dosis; die Studie sollte daher nicht zur Insulinfreiheit führen, sondern zeigen, dass die Zellen ohne Immunsuppression überleben. Sanas nächster Schritt ist SC451, hypoimmune Inselzellen aus Stammzellen eines Spenders mit Blutgruppe 0 negativ. Das Unternehmen will die klinische Prüfung beantragen und eine Phase-1/2-Studie beginnen.",
-    "es": "El principal obstáculo del trasplante de islotes es la necesidad de suprimir el sistema inmune de por vida: de lo contrario, el cuerpo rechaza las células ajenas y vuelve el ataque autoinmune que causó la diabetes. Sana Biotechnology intenta resolver ambos problemas con edición genética.\n\nEn un estudio dirigido por el profesor Per-Ola Carlsson en el Hospital Universitario de Uppsala, se editaron islotes de donante con la tecnología HIP (\"hipoinmune\") y se implantó una dosis pequeña en el músculo del antebrazo de un paciente con diabetes tipo 1. No recibió ningún inmunosupresor, ni siquiera esteroides.\n\nA los 14 meses, el péptido C sigue presente en sangre y sube después de comer: las células beta trasplantadas funcionan y responden a la comida. Las PET-RM de las semanas 12 y 52 mostraron las células en el lugar del implante. No se detectaron problemas de seguridad y el sistema inmune no las ataca. Los resultados se publicaron en el New England Journal of Medicine.\n\nLimitaciones: es un solo paciente y una dosis muy pequeña, por lo que el estudio no se diseñó para retirar la insulina; su objetivo es demostrar que las células sobreviven sin inmunosupresión. El siguiente paso de Sana es SC451, islotes hipoinmunes obtenidos de células madre de un donante O negativo. La compañía prevé solicitar los ensayos clínicos e iniciar una fase 1/2."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Наблюдение",
-      "en": "Follow-up",
-      "kk": "Бақылау",
-      "de": "Nachbeobachtung",
-      "es": "Seguimiento"
-     },
-     "v": {
-      "ru": "14 месяцев",
-      "en": "14 months",
-      "kk": "14 ай",
-      "de": "14 Monate",
-      "es": "14 meses"
-     }
-    },
-    {
-     "k": {
-      "ru": "Иммуносупрессия",
-      "en": "Immunosuppression",
-      "kk": "Иммуносупрессия",
-      "de": "Immunsuppression",
-      "es": "Inmunosupresión"
-     },
-     "v": {
-      "ru": "нет",
-      "en": "none",
-      "kk": "жоқ",
-      "de": "keine",
-      "es": "ninguna"
-     }
-    },
-    {
-     "k": {
-      "ru": "Следующий шаг",
-      "en": "Next step",
-      "kk": "Келесі қадам",
-      "de": "Nächster Schritt",
-      "es": "Siguiente paso"
-     },
-     "v": "SC451"
-    }
-   ],
-   "url": "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
-   "src": "Sana Biotechnology · NEJM"
-  },
-  {
-   "id": "cure-cipsc-china",
-   "cat": "cure",
-   "stage": "phase1",
-   "date": "2024-09-25",
-   "added": "2026-11-09T07:00:00.000Z",
-   "pin": true,
-   "title": {
-    "ru": "Островки из собственных клеток пациентки: в Китае женщина больше года живёт без инсулина",
-    "en": "Islets grown from the patient's own cells: a woman in China has lived without insulin for over a year",
-    "kk": "Пациенттің өз жасушаларынан өсірілген аралшықтар: Қытайда әйел бір жылдан астам инсулинсіз өмір сүруде",
-    "de": "Inselzellen aus eigenen Zellen: Eine Frau in China lebt seit über einem Jahr ohne Insulin",
-    "es": "Islotes cultivados con las propias células de la paciente: una mujer en China lleva más de un año sin insulina"
-   },
-   "text": {
-    "ru": "Учёные перепрограммировали клетки самой пациентки в стволовые и вырастили из них островки. С 75-го дня после пересадки она не нуждается в инсулине — так было на протяжении всего года наблюдения.",
-    "en": "Scientists reprogrammed the patient's own cells into stem cells and grew islets from them. From day 75 after the transplant she no longer needed insulin, and this held for the whole year of follow-up.",
-    "kk": "Ғалымдар пациенттің өз жасушаларын бағаналы жасушаларға қайта бағдарламалап, олардан аралшықтар өсірді. Ауыстырудан кейінгі 75-ші күннен бастап оған инсулин қажет болмады — бұл бақылаудың бүкіл жылы бойы сақталды.",
-    "de": "Forscher programmierten Zellen der Patientin in Stammzellen um und züchteten daraus Inselzellen. Ab Tag 75 nach der Transplantation brauchte sie kein Insulin mehr – über das gesamte Beobachtungsjahr.",
-    "es": "Los científicos reprogramaron células de la propia paciente en células madre y cultivaron islotes con ellas. Desde el día 75 tras el trasplante no necesitó insulina, y así siguió durante todo el año de seguimiento."
-   },
-   "body": {
-    "ru": "В сентябре 2024 года журнал Cell опубликовал результаты первой в мире аутологичной пересадки островков, выращенных из химически индуцированных плюрипотентных стволовых клеток. Работу возглавили Дэн Хункуй из Пекинского университета и Шэнь Чжунъян из Тяньцзиня.\n\nУ 25-летней пациентки с трудно контролируемым диабетом 1 типа взяли клетки жировой ткани и с помощью набора небольших молекул, без введения генов, превратили их в плюрипотентные стволовые клетки, а затем — в островки. Поскольку клетки свои, риск отторжения как чужеродного трансплантата отпадает. Островки ввели не в печень, а под переднюю оболочку прямой мышцы живота — это место легко наблюдать с помощью МРТ и при необходимости удалить клетки.\n\nДоза инсулина после операции постепенно снижалась, и на 75-й день пациентка полностью отказалась от инсулина. В течение года наблюдения сахар натощак оставался ниже порога диагноза диабета, а время в целевом диапазоне выросло с 43% до 96% к четвёртому месяцу и затем держалось выше 98%. Гликированный гемоглобин опустился до уровня людей без диабета.\n\nОграничения: это один человек и одна фаза 1 исследования (ChiCTR2300072200). Пациентка уже принимала иммуносупрессанты после двух пересадок печени, поэтому вопрос о том, защитят ли собственные клетки от аутоиммунной атаки без лекарств, остаётся открытым. Нужны новые пациенты и долгое наблюдение.",
-    "en": "In September 2024 the journal Cell published the results of the world's first autologous transplant of islets grown from chemically induced pluripotent stem cells. The work was led by Deng Hongkui of Peking University and Shen Zhongyang of Tianjin.\n\nFat-tissue cells were taken from a 25-year-old woman with hard-to-control type 1 diabetes and turned into pluripotent stem cells using a set of small molecules, without inserting genes, and then into islets. Because the cells are her own, the risk of rejection as a foreign graft goes away. The islets were placed not in the liver but under the front sheath of the abdominal rectus muscle, a site that is easy to monitor by MRI and from which the cells could be removed if needed.\n\nHer insulin dose fell gradually after the operation, and on day 75 she stopped insulin completely. Throughout the year of follow-up her fasting glucose stayed below the diabetes threshold, and time in range rose from 43% to 96% by month four, then stayed above 98%. Her HbA1c fell to non-diabetic levels.\n\nLimitations: this is one person and a Phase 1 study (ChiCTR2300072200). The patient was already taking immunosuppressants after two liver transplants, so whether her own cells would be safe from the autoimmune attack without drugs remains an open question. More patients and long follow-up are needed.",
-    "kk": "2024 жылғы қыркүйекте Cell журналы химиялық жолмен индукцияланған плюрипотентті бағаналы жасушалардан өсірілген аралшықтарды әлемде алғаш рет аутологиялық ауыстыру нәтижелерін жариялады. Жұмысты Пекин университетінен Дэн Хункуй және Тяньцзиньнен Шэнь Чжунъян басқарды.\n\nҚиын бақыланатын 1 типті диабеті бар 25 жастағы пациенттен май тінінің жасушалары алынып, гендер енгізбей, шағын молекулалар жиынтығы арқылы плюрипотентті бағаналы жасушаларға, содан кейін аралшықтарға айналдырылды. Жасушалар өзінікі болғандықтан, бөгде трансплантат ретінде тосырқау қаупі жойылады. Аралшықтар бауырға емес, іштің тік бұлшықетінің алдыңғы қабығының астына енгізілді — бұл жерді МРТ арқылы бақылау оңай, қажет болса жасушаларды алып тастауға болады.\n\nОперациядан кейін инсулин дозасы біртіндеп азайып, 75-ші күні пациент инсулиннен толық бас тартты. Бақылаудың бір жылы бойы аш қарынға қант диабет диагнозының шегінен төмен болды, ал мақсатты диапазондағы уақыт төртінші айға қарай 43%-дан 96%-ға дейін өсіп, кейін 98%-дан жоғары болды. Гликирленген гемоглобин диабеті жоқ адамдардың деңгейіне дейін төмендеді.\n\nШектеулер: бұл бір адам және 1 фазалық зерттеу (ChiCTR2300072200). Пациент бауырды екі рет ауыстырғаннан кейін иммуносупрессанттар қабылдап жүрген, сондықтан өз жасушалары дәрісіз аутоиммундық шабуылдан қорғала ма деген сұрақ ашық қалады. Жаңа пациенттер және ұзақ бақылау қажет.",
-    "de": "Im September 2024 veröffentlichte die Fachzeitschrift Cell die Ergebnisse der weltweit ersten autologen Transplantation von Inselzellen aus chemisch induzierten pluripotenten Stammzellen. Geleitet wurde die Arbeit von Deng Hongkui (Peking-Universität) und Shen Zhongyang (Tianjin).\n\nEiner 25-jährigen Patientin mit schwer einstellbarem Typ-1-Diabetes wurden Fettgewebszellen entnommen und mit einem Satz kleiner Moleküle – ohne Einschleusen von Genen – in pluripotente Stammzellen und dann in Inselzellen umgewandelt. Da es ihre eigenen Zellen sind, entfällt die Abstoßung als fremdes Transplantat. Die Inseln wurden nicht in die Leber, sondern unter die vordere Scheide des geraden Bauchmuskels gesetzt – eine Stelle, die sich per MRT gut überwachen lässt und an der die Zellen notfalls entfernt werden können.\n\nIhre Insulindosis sank nach der Operation schrittweise, an Tag 75 verzichtete sie vollständig auf Insulin. Im gesamten Beobachtungsjahr lag der Nüchternzucker unter der Diabetes-Schwelle, die Zeit im Zielbereich stieg bis Monat vier von 43 % auf 96 % und lag danach über 98 %. Der HbA1c sank auf das Niveau von Menschen ohne Diabetes.\n\nEinschränkungen: Es handelt sich um eine Person in einer Phase-1-Studie (ChiCTR2300072200). Die Patientin nahm nach zwei Lebertransplantationen bereits Immunsuppressiva; ob eigene Zellen ohne Medikamente vor dem Autoimmunangriff sicher wären, bleibt offen. Weitere Patienten und lange Beobachtung sind nötig.",
-    "es": "En septiembre de 2024 la revista Cell publicó los resultados del primer trasplante autólogo del mundo de islotes obtenidos de células madre pluripotentes inducidas químicamente. El trabajo lo dirigieron Deng Hongkui, de la Universidad de Pekín, y Shen Zhongyang, de Tianjin.\n\nA una paciente de 25 años con diabetes tipo 1 difícil de controlar se le extrajeron células de tejido graso, que se convirtieron en células madre pluripotentes con un conjunto de moléculas pequeñas, sin introducir genes, y después en islotes. Al ser células propias, desaparece el riesgo de rechazo como injerto ajeno. Los islotes no se colocaron en el hígado sino bajo la vaina anterior del músculo recto del abdomen, un lugar fácil de vigilar por resonancia y del que podrían retirarse si hiciera falta.\n\nSu dosis de insulina bajó poco a poco tras la operación y el día 75 la dejó por completo. Durante todo el año de seguimiento la glucosa en ayunas se mantuvo por debajo del umbral de diabetes y el tiempo en rango pasó del 43 % al 96 % al cuarto mes y después se mantuvo por encima del 98 %. Su HbA1c bajó a niveles de personas sin diabetes.\n\nLimitaciones: es una sola persona y un estudio de fase 1 (ChiCTR2300072200). La paciente ya tomaba inmunosupresores tras dos trasplantes de hígado, así que sigue abierta la pregunta de si sus propias células estarían a salvo del ataque autoinmune sin fármacos. Hacen falta más pacientes y un seguimiento largo."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Без инсулина с",
-      "en": "Insulin-free from",
-      "kk": "Инсулинсіз",
-      "de": "Insulinfrei ab",
-      "es": "Sin insulina desde"
-     },
-     "v": {
-      "ru": "75-го дня",
-      "en": "day 75",
-      "kk": "75-ші күннен",
-      "de": "Tag 75",
-      "es": "el día 75"
-     }
-    },
-    {
-     "k": {
-      "ru": "Время в диапазоне",
-      "en": "Time in range",
-      "kk": "Диапазондағы уақыт",
-      "de": "Zeit im Zielbereich",
-      "es": "Tiempo en rango"
-     },
-     "v": "43% → >98%"
-    },
-    {
-     "k": {
-      "ru": "Наблюдение",
-      "en": "Follow-up",
-      "kk": "Бақылау",
-      "de": "Nachbeobachtung",
-      "es": "Seguimiento"
-     },
-     "v": {
-      "ru": "1 год",
-      "en": "1 year",
-      "kk": "1 жыл",
-      "de": "1 Jahr",
-      "es": "1 año"
-     }
-    }
-   ],
-   "url": "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
-   "src": "Cell"
-  },
-  {
-   "id": "cure-stanford-tolerance",
-   "cat": "cure",
-   "stage": "early",
-   "date": "2026-04-28",
-   "added": "2026-11-09T07:00:00.000Z",
-   "pin": true,
-   "title": {
-    "ru": "Стэнфорд: островки и костный мозг от одного донора — шаг к пересадке без пожизненных лекарств",
-    "en": "Stanford: islets and bone marrow from one donor, a step toward transplants without lifelong drugs",
-    "kk": "Стэнфорд: бір донордың аралшықтары мен сүйек кемігі — өмір бойы дәрісіз ауыстыруға қадам",
-    "de": "Stanford: Inselzellen und Knochenmark vom selben Spender – ein Schritt zu Transplantationen ohne lebenslange Medikamente",
-    "es": "Stanford: islotes y médula ósea del mismo donante, un paso hacia trasplantes sin fármacos de por vida"
-   },
-   "text": {
-    "ru": "Врачи Стэнфорда впервые пересадили донорские островки вместе с костным мозгом того же донора, чтобы иммунитет принял клетки как свои. Время в целевом диапазоне сахара у пациента выросло с менее чем 40% почти до 100%.",
-    "en": "Stanford doctors for the first time transplanted donor islets together with bone marrow from the same donor so the immune system would accept the cells as its own. The patient's time in glucose target range rose from under 40% to nearly 100%.",
-    "kk": "Стэнфорд дәрігерлері алғаш рет донорлық аралшықтарды сол донордың сүйек кемігімен бірге ауыстырды, иммунитет жасушаларды өзінікі ретінде қабылдауы үшін. Пациенттің мақсатты диапазондағы уақыты 40%-дан төменнен шамамен 100%-ға дейін өсті.",
-    "de": "Ärzte in Stanford transplantierten erstmals Spender-Inselzellen zusammen mit Knochenmark desselben Spenders, damit das Immunsystem die Zellen als eigene akzeptiert. Die Zeit im Zielbereich stieg beim Patienten von unter 40 % auf fast 100 %.",
-    "es": "Médicos de Stanford trasplantaron por primera vez islotes de donante junto con médula ósea del mismo donante para que el sistema inmune acepte las células como propias. El tiempo en rango del paciente pasó de menos del 40 % a casi el 100 %."
-   },
-   "body": {
-    "ru": "В апреле 2026 года Стэнфордский медицинский центр рассказал о первой пересадке донорских островков с индукцией иммунной толерантности. Процедуру провели в мае 2025 года в рамках программы SPIRIT. Идею называют «смешанным химеризмом»: вместе с островками пациент получает костный мозг того же донора, и иммунная система учится считать донорские клетки своими.\n\nОстровки умершего донора выделили специалисты UCSF и ввели в печень, а на следующий день пациенту перелили донорский костный мозг. Вся госпитализация заняла четыре дня — гораздо меньше, чем восстановление после пересадки поджелудочной железы.\n\nПосле процедуры у пациента вырос С-пептид — признак того, что островки прижились и вырабатывают инсулин. Время в целевом диапазоне сахара увеличилось с менее чем 40% почти до 100%.\n\nВажная оговорка: у этого пациента раньше была пересадка почки, поэтому он и так принимает препараты против отторжения, и проверить, можно ли обойтись без них, в его случае нельзя. Команда — хирург Стефан Буск, нефролог Джейн Тан, гематолог Эверетт Мейер и другие — планирует лечить новых пациентов, начиная с людей с нераспознаваемыми гипогликемиями, и уже у них оценивать отказ от иммуносупрессии. Продолжение работы зависит от дополнительного финансирования.",
-    "en": "In April 2026, Stanford Health Care described the first donor islet transplant with immune tolerance induction. The procedure was performed in May 2025 under the SPIRIT program. The idea is called mixed chimerism: along with the islets the patient receives bone marrow from the same donor, and the immune system learns to treat the donor cells as its own.\n\nIslets from a deceased donor were isolated by UCSF specialists and infused into the liver, and the next day the patient received the donor's bone marrow. The entire hospital stay took four days, far shorter than recovery from a pancreas transplant.\n\nAfter the procedure the patient's C-peptide rose, a sign that the islets had engrafted and were making insulin. Time in the glucose target range increased from under 40% to nearly 100%.\n\nAn important caveat: this patient had a previous kidney transplant and already takes anti-rejection drugs, so whether they could be stopped could not be tested in his case. The team, including surgeon Stephan Busque, nephrologist Jane Tan and hematologist Everett Meyer, plans to treat more patients, starting with people with hypoglycemia unawareness, and to assess stopping immunosuppression in them. Continuing the work depends on additional funding.",
-    "kk": "2026 жылғы сәуірде Стэнфорд медициналық орталығы иммундық толеранттылықты индукциялай отырып донорлық аралшықтарды алғаш ауыстыру туралы хабарлады. Процедура 2025 жылғы мамырда SPIRIT бағдарламасы аясында жасалды. Бұл идея «аралас химеризм» деп аталады: аралшықтармен бірге пациент сол донордың сүйек кемігін алады, ал иммундық жүйе донор жасушаларын өзінікі деп санауға үйренеді.\n\nҚайтыс болған донордың аралшықтарын UCSF мамандары бөліп алып, бауырға енгізді, ал келесі күні пациентке донордың сүйек кемігі құйылды. Бүкіл ауруханада болу төрт күнге созылды — ұйқы безін ауыстырудан кейінгі қалпына келуден әлдеқайда қысқа.\n\nПроцедурадан кейін пациенттің С-пептиді өсті — бұл аралшықтардың орнығып, инсулин шығарып жатқанының белгісі. Мақсатты диапазондағы уақыт 40%-дан төменнен шамамен 100%-ға дейін артты.\n\nМаңызды ескерту: бұл пациентке бұрын бүйрек ауыстырылған, сондықтан ол тосырқауға қарсы препараттарды онсыз да қабылдайды, оның жағдайында олардан бас тартуға болатынын тексеру мүмкін емес. Хирург Стефан Буск, нефролог Джейн Тан, гематолог Эверетт Мейер және басқалардан тұратын топ жаңа пациенттерді, ең алдымен гипогликемияны сезбейтін адамдарды емдеуді және соларда иммуносупрессиядан бас тартуды бағалауды жоспарлап отыр. Жұмыстың жалғасуы қосымша қаржыландыруға байланысты.",
-    "de": "Im April 2026 berichtete Stanford Health Care über die erste Transplantation von Spender-Inselzellen mit Induktion von Immuntoleranz. Der Eingriff fand im Mai 2025 im Rahmen des Programms SPIRIT statt. Das Prinzip heißt gemischter Chimärismus: Zusammen mit den Inselzellen erhält der Patient Knochenmark desselben Spenders, und das Immunsystem lernt, die Spenderzellen als eigene zu behandeln.\n\nInselzellen eines verstorbenen Spenders wurden von UCSF-Spezialisten isoliert und in die Leber gegeben, am Folgetag erhielt der Patient das Knochenmark des Spenders. Der gesamte Klinikaufenthalt dauerte vier Tage – viel kürzer als die Erholung nach einer Pankreastransplantation.\n\nNach dem Eingriff stieg das C-Peptid – ein Zeichen, dass die Inselzellen angewachsen sind und Insulin bilden. Die Zeit im Zielbereich stieg von unter 40 % auf fast 100 %.\n\nWichtige Einschränkung: Der Patient hatte zuvor eine Nierentransplantation und nimmt ohnehin Medikamente gegen Abstoßung, daher ließ sich bei ihm nicht prüfen, ob man darauf verzichten kann. Das Team um den Chirurgen Stephan Busque, die Nephrologin Jane Tan und den Hämatologen Everett Meyer will weitere Patienten behandeln, zunächst Menschen mit unbemerkten Unterzuckerungen, und bei ihnen das Absetzen der Immunsuppression prüfen. Die Fortsetzung hängt von zusätzlicher Finanzierung ab.",
-    "es": "En abril de 2026, Stanford Health Care informó del primer trasplante de islotes de donante con inducción de tolerancia inmunitaria. El procedimiento se realizó en mayo de 2025 dentro del programa SPIRIT. La idea se llama quimerismo mixto: junto con los islotes, el paciente recibe médula ósea del mismo donante y el sistema inmune aprende a tratar las células del donante como propias.\n\nEspecialistas de la UCSF aislaron islotes de un donante fallecido y se infundieron en el hígado; al día siguiente el paciente recibió la médula ósea del donante. Toda la hospitalización duró cuatro días, mucho menos que la recuperación de un trasplante de páncreas.\n\nTras el procedimiento subió el péptido C del paciente, señal de que los islotes prendieron y producen insulina. El tiempo en rango de glucosa pasó de menos del 40 % a casi el 100 %.\n\nSalvedad importante: este paciente tenía un trasplante de riñón previo y ya toma fármacos antirrechazo, por lo que en su caso no se pudo comprobar si podría prescindir de ellos. El equipo —el cirujano Stephan Busque, la nefróloga Jane Tan, el hematólogo Everett Meyer y otros— prevé tratar a más pacientes, empezando por personas con hipoglucemias inadvertidas, y evaluar en ellos la retirada de la inmunosupresión. La continuidad depende de financiación adicional."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Время в диапазоне",
-      "en": "Time in range",
-      "kk": "Диапазондағы уақыт",
-      "de": "Zeit im Zielbereich",
-      "es": "Tiempo en rango"
-     },
-     "v": "<40% → ~100%"
-    },
-    {
-     "k": {
-      "ru": "В больнице",
-      "en": "Hospital stay",
-      "kk": "Ауруханада",
-      "de": "Klinikaufenthalt",
-      "es": "Hospitalización"
-     },
-     "v": {
-      "ru": "4 дня",
-      "en": "4 days",
-      "kk": "4 күн",
-      "de": "4 Tage",
-      "es": "4 días"
-     }
-    }
-   ],
-   "url": "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
-   "src": "Stanford Health Care"
   },
   {
    "id": "nFRBP29jPTU",
@@ -930,6 +928,168 @@ const DIA_NEWS={
    ]
   },
   {
+   "id": "nEJvP29jPTU",
+   "cat": "cure",
+   "stage": "early",
+   "date": "2026-11-08",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "CRISPR и регенерация бета-клеток: ранние многообещающие результаты",
+    "en": "CRISPR Beta-Cell Regeneration Shows Early Promise",
+    "kk": "CRISPR және бета-жасушалардың қалпына келуі: алғашқы перспективалы нәтижелер",
+    "de": "CRISPR-Regeneration von Beta-Zellen zeigt frühe Hoffnung",
+    "es": "La regeneración de células beta con CRISPR muestra resultados tempranos prometedores"
+   },
+   "text": {
+    "ru": "Ранние данные показывают, что регенерация бета-клеток с помощью CRISPR может помочь в долгосрочном контроле диабета. Исследование находится на ранней стадии.",
+    "en": "Early data suggest that CRISPR-based beta-cell regeneration could support long-term diabetes management. The research is at an early stage.",
+    "kk": "Алғашқы деректер CRISPR негізіндегі бета-жасушалардың қалпына келуі диабетті ұзақ мерзімді бақылауға көмектесуі мүмкін екенін көрсетеді. Зерттеу алғашқы кезеңде.",
+    "de": "Erste Daten deuten darauf hin, dass die CRISPR-basierte Regeneration von Beta-Zellen die langfristige Diabeteskontrolle unterstützen könnte. Die Forschung befindet sich in einem frühen Stadium.",
+    "es": "Los datos preliminares sugieren que la regeneración de células beta basada en CRISPR podría ayudar al control a largo plazo de la diabetes. La investigación está en una fase temprana."
+   },
+   "url": "https://bioengineer.org/crispr-beta-cell-regeneration-shows-early-promise-for-long-term-diabetes-management/",
+   "src": "Bioengineer.org",
+   "photoQuery": "scientist laboratory cells microscope",
+   "photo": {
+    "id": "u_gKUC4TMhOiY",
+    "url": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c2NpZW50aXN0JTIwbGFib3JhdG9yeSUyMGNlbGxzJTIwbWljcm9zY29wZXxlbnwxfDB8fHwxNzk0MjA3ODIxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Ousa Chea",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_source=dia_news&utm_medium=referral",
+    "alt": "white microscope on top of black table"
+   },
+   "body": {
+    "ru": "Обзор, опубликованный в Egyptian Journal of Medical Human Genetics (авторы Syeda Fadak Zahra Hujjat и Syeda Hasnat Zahra), рассматривает, как редактирование генов CRISPR-Cas9 может восстанавливать инсулин-продуцирующие бета-клетки и защищать их от иммунной атаки. Авторы опираются на данные животных исследований и одно продолжающееся клиническое испытание ранней фазы.\n\nДиабетом в мире страдают, по оценкам, 537 миллионов человек. Обычные методы лечения, такие как инсулин, пероральные препараты и изменение образа жизни, снижают высокий уровень глюкозы в крови, но не восполняют утраченные бета-клетки. Существующие методы замещения клеток, например трансплантация островков, ограничены нехваткой доноров, риском образования опухолей и необходимостью пожизненного приема иммунодепрессантов.\n\nВ лабораторных исследованиях учёные отключали ген CDKN2A, чтобы ускорить деление бета-клеток, а у мышей изменение гена Arx превращало альфа-клетки в функциональные бета-подобные клетки, восстанавливая толерантность к глюкозе без гипогликемии. У приматов, не относящихся к человеку, делеция CDKN2A за три месяца удвоила функциональную массу бета-клеток, однако долгосрочная безопасность в отношении неконтролируемого роста клеток всё ещё изучается.\n\nГлавное клиническое испытание, NCT04143744, редактирует вне организма прогениторы поджелудочной железы, полученные из стволовых клеток, перед введением пациентам с диабетом 1 типа. Промежуточные результаты за шесть месяцев показали повышение выработки C-пептида и снижение потребности во внешнем инсулине; сообщений о дозолимитирующей токсичности не было. Исследователи предупреждают, что группа мала, наблюдение короткое и долговечность неизвестна; по данным статьи, набор участников ещё продолжался, а завершение ожидалось в конце 2025 года.\n\nСреди других препятствий — непреднамеренные разрывы ДНК, которые могут вызвать рак, иммунные реакции, смешанные популяции отредактированных и неотредактированных клеток, а также оценочная стоимость от 250 000 до 1 000 000 долларов на пациента. Авторы считают, что регенерация на основе CRISPR сейчас противопоказана людям с тяжёлым иммунодефицитом или повышенным исходным риском рака. Предлагаемые шаги включают проектирование направляющих РНК с помощью ИИ, иммуномодуляцию и перепрограммирование in vivo, которое могло бы обойтись без трансплантации, а также долгосрочное наблюдение до окончательных выводов.",
+    "en": "A review published in the Egyptian Journal of Medical Human Genetics (authors Syeda Fadak Zahra Hujjat and Syeda Hasnat Zahra) examines how CRISPR-Cas9 gene editing might regenerate insulin-producing beta cells and shield them from immune attack. The authors combine evidence from animal studies with one early-phase human trial that is still running.\n\nDiabetes is estimated to affect 537 million people worldwide. Usual treatments, including insulin, oral drugs and lifestyle changes, lower high blood glucose but do not replace lost beta cells. Existing cell-replacement options, such as islet transplantation, are limited by donor shortages, tumor risks and the need for lifelong immunosuppressive drugs.\n\nIn laboratory work, researchers switched off CDKN2A to speed up beta-cell division, and in mice an alteration of the Arx gene turned alpha cells into functional beta-like cells, restoring glucose tolerance without hypoglycemia. In non-human primates, deleting CDKN2A doubled functional beta-cell mass within three months, but long-term safety regarding uncontrolled cell growth is still being investigated.\n\nThe main clinical test, trial NCT04143744, edits stem-cell-derived pancreatic progenitors outside the body before they are given to people with type 1 diabetes. Interim six-month results showed higher C-peptide production and a lower need for injected insulin, with no dose-limiting toxicities reported. Researchers caution that the group is small, follow-up is short and durability is unknown; according to the article, enrollment was still open, with completion expected in late 2025.\n\nOther hurdles include unintended DNA breaks that could cause cancer, immune reactions, mixed populations of edited and unedited cells, and estimated costs of $250,000 to $1,000,000 per patient. The authors say CRISPR-based regeneration is currently contraindicated for people with severe immunodeficiency or a higher baseline cancer risk. Proposed next steps include AI-guided guide RNA design, immune modulation, and in vivo reprogramming that could avoid transplantation, alongside long-term monitoring before firm conclusions are drawn.",
+    "kk": "Egyptian Journal of Medical Human Genetics журналында жарияланған шолу (авторлары Syeda Fadak Zahra Hujjat және Syeda Hasnat Zahra) CRISPR-Cas9 гендік редакциясының инсулин өндіретін бета-жасушаларды қалпына келтіру және оларды иммундық шабуылдан қорғау мүмкіндігін қарастырады. Авторлар жануарлар зерттеулерінің деректерін әлі жалғасып жatқан, ерте фазадағы бір клиникалық сынақпен біріктіреді.\n\nӘлемде шамамен 537 миллион адам диабетпен ауырады деп бағаланады. Әдеттегі емдеу, соның ішінде инсулин, ауыз арқылы қабылданатын дәрілер және өмір салтын өзгерту, жоғары қан глюкозасын төмендетеді, бірақ жоғалған бета-жасушаларды толтырмайды. Бар жасушаларды ауыстыру тәсілдері, мысалы аралшықтарды трансплантациялау, донорлардың жетіспеуімен, ісік қаупімен және өмір бойы иммунитетті басатын дәрілерді қабылдау қажеттілігімен шектеледі.\n\nЗертханалық жұмыстарда ғалымдар бета-жасушалардың бөлінуін жылдамдату үшін CDKN2A генін өшірді, ал тышқандарда Arx генін өзгерту альфа-жасушаларды функционалды бета-тәрізді жасушаларға айналдырып, гипогликемиясыз глюкозаға төзімділікті қалпына келтірді. Адамнан басқа приматтарда CDKN2A жойылуы үш айда функционалды бета-жасуша массасын екі есеге арттырды, бірақ бақыланбайтын жасуша өсуіне қатысты ұзақ мерзімді қауіпсіздік әлі зерттелуде.\n\nНегізгі клиникалық сынақ, NCT04143744, бағаналы жасушалардан алынған ұйқы безінің прогениторларын 1-типті диабеті бар адамдарға енгізер алдында организм сыртында редакциялайды. Алты айлық аралық нәтижелер C-пептид өндірісінің артқанын және сыртқы инсулинге қажеттіліктің азайғанын көрсетті; дозаға байланысты уыттылық туралы хабарламалар болмаған. Зерттеушілер топтың шағын екенін, бақылау мерзімінің қысқа екенін және ұзақтығының белгісіз екенін ескертеді; мақалада қатысушыларды тарту әлі жалғасып жатқаны, аяқталуы 2025 жылдың соңына жоспарланғаны айтылады.\n\nБасқа кедергілерге қалаусыз ДНҚ үзілістері, ісік туғызуы мүмкін, иммундық реакциялар, өңделген және өңделмеген жасушалардың аралас популяциялары, сондай-ақ бір науқасқа шамамен 250 000-нан 1 000 000 долларға дейінгі бағасы жатады. Авторлардың айтуынша, CRISPR негізіндегі регенерация қазір ауыр иммунитет тапшылығы бар немесе бастапқы қатерлі ісік қаупі жоғары адамдарға қарсы көрсетілген. Ұсынылатын келесі қадамдарға ЖИ (жасанды интеллект) көмегімен нұсқаушы РНҚ жобалау, иммундық модуляция және трансплантациядан аулақ болуы мүмкін in vivo қайта бағдарламалау, сондай-ақ нақты қорытындыға дейінгі ұзақ мерзімді бақылау кіреді.",
+    "de": "Ein Übersichtsartikel in der Egyptian Journal of Medical Human Genetics (Autoren Syeda Fadak Zahra Hujjat und Syeda Hasnat Zahra) untersucht, wie die Genbearbeitung mit CRISPR-Cas9 insulinproduzierende Beta-Zellen regenerieren und vor Angriffen des Immunsystems schützen könnte. Die Autoren verbinden Befunde aus Tierstudien mit einer noch laufenden klinischen Studie der frühen Phase.\n\nWeltweit sind schätzungsweise 537 Millionen Menschen von Diabetes betroffen. Übliche Behandlungen wie Insulin, orale Medikamente und Lebensstiländerungen senken hohen Blutzucker, ersetzen aber nicht die verlorenen Beta-Zellen. Bestehende Zellersatzverfahren wie die Inseltransplantation sind durch Spendermangel, Tumorrisiken und die Notwendigkeit lebenslanger immunsuppressiver Medikamente eingeschränkt.\n\nIn Laborarbeiten schalteten Forschende CDKN2A ab, um die Teilung der Beta-Zellen zu beschleunigen, und bei Mäusen verwandelte eine Veränderung des Arx-Gens Alphazellen in funktionelle betazellähnliche Zellen, wodurch die Glukosetoleranz ohne Hypoglykämie wiederhergestellt wurde. Bei nicht-menschlichen Primaten verdoppelte die CDKN2A-Deletion die funktionelle Beta-Zell-Masse innerhalb von drei Monaten; die langfristige Sicherheit hinsichtlich unkontrollierten Zellwachstums wird jedoch noch untersucht.\n\nDie wichtigste klinische Untersuchung, NCT04143744, bearbeitet aus Stammzellen gewonnene Vorläuferzellen der Bauchspeicheldrüse außerhalb des Körpers, bevor sie Menschen mit Typ-1-Diabetes verabreicht werden. Zwischenergebnisse nach sechs Monaten zeigten eine höhere C-Peptid-Produktion und einen geringeren Bedarf an zugeführtem Insulin; dosislimitierende Toxizität wurde nicht berichtet. Die Forschenden warnen, dass die Gruppe klein ist, die Beobachtungszeit kurz und die Dauerhaftigkeit unbekannt; laut Artikel lief die Teilnehmerrekrutierung noch, mit einem erwarteten Abschluss Ende 2025.\n\nWeitere Hürden sind ungewollte DNA-Brüche, die Krebs auslösen könnten, Immunreaktionen, gemischte Zellpopulationen aus bearbeiteten und unbearbeiteten Zellen sowie geschätzte Kosten von 250.000 bis 1.000.000 US-Dollar pro Patient. Die Autoren sagen, dass die CRISPR-basierte Regeneration derzeit bei Menschen mit schwerer Immunschwäche oder erhöhtem Ausgangsrisiko für Krebs kontraindiziert ist. Vorgeschlagene nächste Schritte sind KI-gestütztes Design der Leit-RNA, Immunmodulation und In-vivo-Umprogrammierung, die eine Transplantation vermeiden könnte, begleitet von Langzeitbeobachtung vor endgültigen Schlussfolgerungen.",
+    "es": "Una revisión publicada en el Egyptian Journal of Medical Human Genetics, de Syeda Fadak Zahra Hujjat y Syeda Hasnat Zahra, analiza cómo la edición genética CRISPR-Cas9 podría regenerar las células beta productoras de insulina y protegerlas del ataque inmunitario. Los autores combinan evidencia de estudios con animales con un ensayo clínico de fase temprana que aún está en curso.\n\nSe calcula que 537 millones de personas viven con diabetes en el mundo. Los tratamientos habituales, como la insulina, los fármacos orales y los cambios de estilo de vida, reducen la glucosa alta en sangre, pero no reponen las células beta perdidas. Las opciones actuales de reemplazo celular, como el trasplante de islotes, están limitadas por la escasez de donantes, los riesgos tumorales y la necesidad de inmunosupresores de por vida.\n\nEn trabajos de laboratorio, los investigadores desactivaron CDKN2A para acelerar la división de las células beta, y en ratones una modificación del gen Arx convirtió células alfa en células similares a las beta funcionales, restaurando la tolerancia a la glucosa sin hipoglucemia. En primates no humanos, la deleción de CDKN2A duplicó la masa funcional de células beta en tres meses, aunque la seguridad a largo plazo frente al crecimiento celular descontrolado sigue bajo investigación.\n\nEl ensayo clínico principal, NCT04143744, edita en laboratorio progenitores pancreáticos derivados de células madre antes de administrarlos a personas con diabetes tipo 1. Los datos intermedios a seis meses mostraron mayor producción de péptido C y menor necesidad de insulina exógena, sin toxicidades limitantes de dosis reportadas. Los investigadores advierten que el grupo es pequeño, el seguimiento breve y la durabilidad desconocida; según el artículo, el reclutamiento seguía abierto y la finalización se preveía para finales de 2025.\n\nOtros obstáculos incluyen cortes de ADN no deseados que podrían provocar cáncer, reacciones inmunitarias, poblaciones mixtas de células editadas y no editadas, y costes estimados de 250.000 a 1.000.000 de dólares por paciente. Los autores afirman que la regeneración basada en CRISPR está actualmente contraindicada en personas con inmunodeficiencia grave o con mayor riesgo basal de cáncer. Los siguientes pasos propuestos incluyen el diseño de ARN guía asistido por IA, la modulación inmunitaria y la reprogramación in vivo que podría evitar el trasplante, junto con seguimiento a largo plazo antes de sacar conclusiones firmes."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Людей с диабетом в мире (оценка)",
+      "en": "People with diabetes worldwide (estimate)",
+      "kk": "Дүние жүзінде диабетпен ауратын адамдар (бағалау)",
+      "de": "Menschen mit Diabetes weltweit (Schätzung)",
+      "es": "Personas con diabetes en el mundo (estimación)"
+     },
+     "v": {
+      "ru": "537 миллионов",
+      "en": "537 million",
+      "kk": "537 миллион",
+      "de": "537 Millionen",
+      "es": "537 millones"
+     }
+    },
+    {
+     "k": {
+      "ru": "Оценочная стоимость терапии на пациента",
+      "en": "Estimated cost per patient",
+      "kk": "Бір науқасқа шаққандағы шамамен құны",
+      "de": "Geschätzte Kosten pro Patient",
+      "es": "Coste estimado por paciente"
+     },
+     "v": {
+      "ru": "От 250 000 до 1 000 000 долларов",
+      "en": "$250,000 to $1,000,000",
+      "kk": "250 000-нан 1 000 000 долларға дейін",
+      "de": "250.000 bis 1.000.000 US-Dollar",
+      "es": "De 250.000 a 1.000.000 de dólares"
+     }
+    },
+    {
+     "k": {
+      "ru": "Функциональная масса бета-клеток у приматов через 3 месяца после делеции CDKN2A",
+      "en": "Functional beta-cell mass in primates 3 months after CDKN2A deletion",
+      "kk": "CDKN2A жойылғаннан кейін 3 айдан соң приматтардағы функционалды бета-жасуша массасы",
+      "de": "Funktionelle Beta-Zell-Masse bei Primaten drei Monate nach CDKN2A-Deletion",
+      "es": "Masa funcional de células beta en primates tres meses después de la deleción de CDKN2A"
+     },
+     "v": {
+      "ru": "Удвоена",
+      "en": "Doubled",
+      "kk": "Екі есеге артты",
+      "de": "Verdoppelt",
+      "es": "Duplicada"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nU1E_b2M9NQ",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-08",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "Орловские врачи рассказали, как распознать диабет у детей",
+    "en": "Orel Doctors Explain How to Recognize Diabetes in Children",
+    "kk": "Орел дәрігерлері балалардағы қант диабетін қалай анықтауға болатынын түсіндірді",
+    "de": "Ärzte aus Orel erklären, wie man Diabetes bei Kindern erkennt",
+    "es": "Médicos de Oriol explican cómo reconocer la diabetes en los niños"
+   },
+   "text": {
+    "ru": "Врачи Орла объяснили родителям, на какие признаки диабета у детей стоит обратить внимание.",
+    "en": "Doctors in Orel explained to parents which signs of diabetes in children to watch for.",
+    "kk": "Орел дәрігерлері ата-analарға балалардағы қант диабетінің қандай белгілеріне назар аудару керектігін түсіндірді.",
+    "de": "Ärzte aus Orel erklärten Eltern, auf welche Anzeichen von Diabetes bei Kindern sie achten sollten.",
+    "es": "Los médicos de Oriol explicaron a los padres qué señales de diabetes en los niños deben vigilar."
+   },
+   "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
+   "src": "\"Орелтаймс\"",
+   "photoQuery": "child doctor consultation",
+   "photo": {
+    "id": "u_fx9RJgZYRUE",
+    "url": "https://images.unsplash.com/photo-1632053002928-1919605ee6f7?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBkb2N0b3IlMjBjb25zdWx0YXRpb258ZW58MXwwfHx8MTc5NDIwNzgyMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "CDC",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-young-child-is-being-examined-by-a-doctor-fx9RJgZYRUE?utm_source=dia_news&utm_medium=referral",
+    "alt": "a young child is being examined by a doctor"
+   },
+   "body": {
+    "ru": "8 ноября 2026 года орловское издание «Орелтаймс» опубликовало материал, в котором врачи Колпнянской ЦРБ Орловской области объясняют, как заметить диабет у детей. По словам специалистов, случаи заболевания всё чаще выявляют у детей и молодёжи. Симптомы могут принимать за обычную усталость или период активного роста, а откладывание диагностики способно привести к тяжёлым последствиям.\n\nЧаще всего у детей встречается диабет 1-го типа, аутоиммунная болезнь, при которой организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у людей до 35–40 лет. Диабет 2-го типа, по словам медиков, тоже всё чаще встречается у молодых на фоне эпидемии ожирения, фастфуда и малоподвижного образа жизни. На ранних этапах у детей с ожирением отмечают повышенный уровень инсулина; лечение направлено на снижение инсулинорезистентности: диета без рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками врачи называют ситуации, когда ребёнок много пьёт и ест, чаще ходит в туалет, резко худеет или жалуется на слабость без видимой причины. Взрослые нередко объясняют это школьной нагрузкой или ростом. Медики напоминают, что без инсулина глюкоза не попадает в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. Это требует госпитализации в реанимацию и в тяжёлых случаях ведёт к инвалидизации или смерти ребёнка.\n\nВ заключение авторы призывают родителей внимательнее относиться к таким симптомам и своевременно обращаться к врачам. В материале не приведены статистические данные по региону, поэтому это общий разъяснительный текст, а не клинические рекомендации.",
+    "en": "On 8 November 2026, the Oryol outlet OrelTimes published a report in which doctors from the Kolpna district hospital, a healthcare institution in the Oryol region, explain how to recognise diabetes in children. According to the specialists, cases are being found more and more often among children and young people. Symptoms can be mistaken for ordinary tiredness or a period of rapid growth, and delaying diagnosis can lead to serious consequences.\n\nType 1 diabetes is the form most often seen in children. It is an autoimmune disease in which the body destroys the beta cells of the pancreas that produce insulin. It usually shows itself between the ages of 4 and 14, but it can also appear later, including in people up to 35–40 years old. Type 2 diabetes is also appearing at younger ages, according to the doctors, linked to the obesity epidemic, fast food and low physical activity. In children with obesity, elevated insulin levels are seen in the early stages. Treatment aims to reduce insulin resistance through a diet without refined carbohydrates, less fat and more movement.\n\nThe doctors list warning signs: a child who drinks and eats much more than usual, urinates more often, loses weight rapidly, or complains of weakness without an obvious cause. Adults often attribute these changes to school workload or growth. Without insulin, glucose cannot pass into the tissues, so the body starts burning fat and protein, ketone bodies accumulate, and ketoacidosis develops. This requires hospital treatment in intensive care and, in severe cases, can lead to disability or the child's death.\n\nIn conclusion, the authors urge parents to pay closer attention to such symptoms and to see doctors in good time. The article does not give regional statistics, so it is a general explainer rather than clinical guidance.",
+    "kk": "2026 жылғы 8 қарашада орловтық «Орелтаймс» басылымы Орел облысындағы «Колпнян орталық аудандық ауруханасы» дәрігерлерінің балалардағы диабетті қалай анықтауға болатыны туралы материалын жариялады. Мамандардың айтуынша, балалар мен жастар арасында бұл ауру жиі тіркеліп жүр. Белгілері қарапайым шаршаудай немесе жылдам өсу кезеңі сияқты көрінуі мүмкін, ал диагнозды кешіктіру ауыр салдарға әкелуі ықтимал.\n\nБалаларда жиі кездесетін түрі — 1-типті диабет. Бұл — иммундық жүйе ұйқы безінің инсулин өндіретін бета-жасушаларын бұзатын аутоиммундық ауру. Әдетте ол 4-тен 14 жасқа дейін білінеді, бірақ кейінірек, соның ішінде 35–40 жасқа дейінгі адамдарда да басталуы мүмкін. Дәрігерлердің айтуынша, 2-типті диабет те жастарда жиілеп келеді; оның себебі — семіздік эпидемиясы, фастфуд және қозғалыссыз өмір салты. Семіздігі бар балаларда ауру басталған алғашқы кезеңде инсулин деңгейі жоғары болады. Емдеу инсулинге төзімділікті азайтуға бағытталған: рафинадталған көмірсуларсыз диета, майды азайту және қозғалысты көбейту.\n\nДәрігерлер ескерту белгілерін атайды: бала әдеттегіден көп ішіп-жеп, жиі дәретханаға барса, тез арықтаса немесе себепсіз әлсіздікке шағымданса. Ересектер мұны көбіне мектептегі жүктемемен немесе өсумен байланыстырады. Инсулинсіз глюкоза тіндерге өте алмайды, сондықтан ағза май мен ақуызды жағуға кірісіп, кетон денелері жиналып, кетоацидоз дамиды. Бұл реанимацияда емдеуді қажет етеді, ауыр жағдайда баланы мүгедектікке немесе өлімге апаруы мүмкін.\n\nҚорытындысында авторлар ата-аналарды мұндай белгілерге мұқият қарап, уақытында дәрігерге қаралуға шақырады. Материалда аймақ бойынша статистикалық деректер жоқ, сондықтан бұл клиникалық ұсынымдар емес, жалпы түсіндірме мәтін.",
+    "de": "Am 8. November 2026 veröffentlichte das Regionalmedium OrelTimes aus Orjol einen Beitrag, in dem Ärzte des Kreiskrankenhauses Kolpna, einer Gesundheitseinrichtung in der Oblast Orjol, erklären, wie sich Diabetes bei Kindern erkennen lässt. Laut den Fachleuten wird die Krankheit zunehmend bei Kindern und jungen Menschen festgestellt. Die Symptome können für gewöhnliche Müdigkeit oder eine Wachstumsphase gehalten werden; eine verzögerte Diagnose kann schwerwiegende Folgen haben.\n\nAm häufigsten tritt bei Kindern Typ-1-Diabetes auf, eine Autoimmunerkrankung, bei der der Körper die insulinbildenden Beta-Zellen der Bauchspeicheldrüse zerstört. Sie zeigt sich meist zwischen 4 und 14 Jahren, kann aber auch später auftreten, bis hin zu Menschen von 35 bis 40 Jahren. Auch Typ-2-Diabetes betrifft laut den Medizinern immer jüngere Menschen, was sie mit Adipositas, Fast Food und Bewegungsmangel in Verbindung bringen. Bei Kindern mit Übergewicht ist im Frühstadium ein erhöhter Insulinspiegel feststellbar. Die Behandlung zielt darauf ab, die Insulinresistenz zu verringern, durch eine Ernährung ohne raffinierte Kohlenhydrate, weniger Fett und mehr Bewegung.\n\nWarnzeichen sind laut den Ärzten, wenn ein Kind deutlich mehr trinkt und isst als sonst, häufiger zur Toilette muss, rasch abnimmt oder ohne erkennbaren Grund über Schwäche klagt. Erwachsene führen dies oft auf Schulstress oder das Wachstum zurück. Ohne Insulin kann Glukose nicht in die Gewebe gelangen; der Körper beginnt, Fett und Eiweiß zu verbrennen, Ketonkörper sammeln sich an, und es kann eine Ketoazidose entstehen. Dies erfordert eine Behandlung auf der Intensivstation und kann in schweren Fällen zu Behinderung oder zum Tod des Kindes führen.\n\nZum Schluss rufen die Autoren Eltern dazu auf, auf solche Symptome genauer zu achten und rechtzeitig Ärzte aufzusuchen. Der Beitrag nennt keine regionalen Fallzahlen; er ist eine allgemeine Information und keine klinische Leitlinie.",
+    "es": "El 8 de noviembre de 2026, el medio regional OrelTimes, de Oriol, publicó un artículo en el que médicos del hospital de distrito de Kolpna, una institución sanitaria de la región de Oriol, explican cómo reconocer la diabetes en los niños. Según los especialistas, cada vez se detectan más casos en menores y jóvenes. Los síntomas pueden confundirse con cansancio normal o con una etapa de crecimiento rápido, y retrasar el diagnóstico puede tener consecuencias graves.\n\nLa forma más frecuente en la infancia es la diabetes tipo 1, una enfermedad autoinmune en la que el organismo destruye las células beta del páncreas que producen insulina. Suele manifestarse entre los 4 y los 14 años, aunque puede aparecer más tarde, incluso en personas de 35 a 40 años. Según los médicos, la diabetes tipo 2 también se presenta a edades cada vez más tempranas, vinculada a la epidemia de obesidad, la comida rápida y el sedentarismo. En niños con obesidad se detecta en las primeras fases un nivel elevado de insulina. El tratamiento busca reducir la resistencia a la insulina con una dieta sin carbohidratos refinados, menos grasas y más actividad física.\n\nEntre las señales de alarma, los médicos mencionan que el niño beba y coma mucho más de lo habitual, orine con más frecuencia, pierda peso rápidamente o se queje de debilidad sin una causa evidente. Los adultos suelen atribuirlo a la carga escolar o al crecimiento. Sin insulina, la glucosa no puede pasar a los tejidos, así que el cuerpo empieza a quemar grasas y proteínas, se acumulan cuerpos cetónicos y puede desarrollarse una cetoacidosis. Esto exige hospitalización en cuidados intensivos y, en casos graves, puede provocar discapacidad o la muerte del menor.\n\nPara concluir, los autores piden a los padres prestar más atención a estos síntomas y acudir a los médicos a tiempo. El texto no ofrece cifras regionales de casos; es una explicación general, no una guía clínica."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Возраст, в котором обычно проявляется диабет 1-го типа",
+      "en": "Age when type 1 diabetes usually appears",
+      "kk": "1-типті диабеттің әдетте білінетін жасы",
+      "de": "Alter, in dem Typ-1-Diabetes meist auftritt",
+      "es": "Edad en que suele aparecer la diabetes tipo 1"
+     },
+     "v": {
+      "ru": "от 4 до 14 лет",
+      "en": "4 to 14 years",
+      "kk": "4-тен 14 жасқа дейін",
+      "de": "4 bis 14 Jahre",
+      "es": "de 4 a 14 años"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст, до которого заболевание может проявиться позже",
+      "en": "Age up to which the disease may appear later",
+      "kk": "Ауру кейінірек білінуі мүмкін жас шегі",
+      "de": "Alter, bis zu dem die Krankheit später auftreten kann",
+      "es": "Edad hasta la que la enfermedad puede aparecer más tarde"
+     },
+     "v": {
+      "ru": "до 35–40 лет",
+      "en": "up to 35–40 years",
+      "kk": "35–40 жасқа дейін",
+      "de": "bis 35–40 Jahre",
+      "es": "hasta los 35–40 años"
+     }
+    }
+   ]
+  },
+  {
    "id": "nW5NP29jPTU",
    "cat": "events",
    "stage": "community",
@@ -1245,79 +1405,6 @@ const DIA_NEWS={
    }
   },
   {
-   "id": "nOUo_b2M9NQ",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-08",
-   "added": "2026-11-08T13:19:35.703Z",
-   "title": {
-    "ru": "Орловские врачи рассказали, как распознать диабет у детей",
-    "en": "Oryol doctors explain how to recognize diabetes in children",
-    "kk": "Орел дәрігерлері балалардағы диабетті қалай тануға болатынын түсіндірді",
-    "de": "Ärzte aus Orel erklären, wie Diabetes bei Kindern zu erkennen ist",
-    "es": "Médicos de Oriol explican cómo reconocer la diabetes en los niños"
-   },
-   "text": {
-    "ru": "Врачи Орла объяснили, по каким признакам можно распознать диабет у детей.",
-    "en": "Doctors in Oryol explained the signs by which diabetes in children can be recognized.",
-    "kk": "Орел дәрігерлері балалардағы диабетті қандай белгілер бойынша тануға болатынын түсіндірді.",
-    "de": "Ärzte in Orel erklärten, an welchen Anzeichen sich Diabetes bei Kindern erkennen lässt.",
-    "es": "Los médicos de Oriol explicaron los signos por los que puede reconocerse la diabetes en los niños."
-   },
-   "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
-   "src": "\"Орелтаймс\"",
-   "photoQuery": "pediatrician checking child health",
-   "photo": {
-    "id": "u_kinSYGfBSzc",
-    "url": "https://images.unsplash.com/photo-1676313030076-4ac0b37050fd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGVkaWF0cmljaWFuJTIwY2hlY2tpbmclMjBjaGlsZCUyMGhlYWx0aHxlbnwxfDB8fHwxNzk0MTQzOTc2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Bermix Studio",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-doctor-examining-a-childs-stomach-with-a-stethoscope-kinSYGfBSzc?utm_source=dia_news&utm_medium=referral",
-    "alt": "a doctor examining a child's stomach with a stethoscope"
-   },
-   "body": {
-    "ru": "8 ноября 2026 года «Орелтаймс» опубликовал материал со ссылкой на специалистов БУЗ Орловской области «Колпнянская ЦРБ». По их словам, диабет всё чаще выявляют у детей и молодых людей, а сам недуг может маскироваться под обычную усталость или период активного роста. Врачи подчёркивают, что задержка с диагностикой грозит серьёзными последствиями.\n\nЧаще всего у детей встречается диабет 1-го типа — аутоиммунное заболевание, при котором организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у молодых людей до 35–40 лет. Диабет 2-го типа, по данным медиков, тоже «молодеет» на фоне ожирения, фастфуда и малоподвижного образа жизни. Лечение при нём направлено на снижение инсулинорезистентности: диета с исключением рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками названы то, что ребёнок больше пьёт и ест, чаще ходит в туалет, резко худеет и жалуется на слабость без видимой причины. Родители нередко списывают это на нагрузку в школе или на подростковый рост. Механизм такой: без инсулина глюкоза не поступает из крови в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. По словам врачей, это требует госпитализации в реанимацию и в тяжёлых случаях ведёт к инвалидизации или гибели ребёнка.\n\nВ материале не приводится статистика по числу случаев в регионе, а рекомендации основаны на комментариях врачей одной больницы. В завершение авторы призывают родителей внимательно относиться к симптомам и своевременно обращаться к врачу.",
-    "en": "On 8 November 2026, Orel Times published a report citing specialists from the Kolpna central district hospital in the Oryol region. According to them, diabetes is being diagnosed more often in children and young people, and the illness can be mistaken for ordinary tiredness or a period of active growth. The doctors stress that a delayed diagnosis can have serious consequences.\n\nType 1 diabetes is the most common form in children. It is an autoimmune condition in which the body destroys the beta cells of the pancreas that produce insulin. It usually shows up between the ages of 4 and 14, but it can also appear later, including in young people up to 35–40 years old. According to the medics quoted, type 2 diabetes is also appearing at younger ages, linked to the obesity epidemic, fast food and sedentary lifestyles. Treatment aims to reduce insulin resistance through a diet that excludes refined carbohydrates, less fat and more physical activity.\n\nWarning signs include a child drinking and eating more, urinating more often, losing weight sharply and complaining of weakness without an apparent cause. Parents often attribute these to school workload or a growth spurt. Without insulin, glucose cannot pass from the blood into the tissues, so the body burns fat and protein, ketone bodies build up and ketoacidosis can develop. The doctors say this requires intensive care hospitalisation and, in severe cases, leads to disability or death.\n\nThe article gives no regional case statistics, and its advice comes from doctors at a single hospital. It closes by urging parents to watch for these symptoms and seek medical care promptly.",
-    "kk": "8 қараша 2026 жылы Орелтаймс басылымы Орел облысындағы «Колпнянская ЦРБ» мекемесінің мамандарына сүйеніп материал жариялады. Олардың айтуынша, балалар мен жас адамдар арасында қант диабеті бұрынғыдан жиі анықталып жатыр, ал ауру «қалыпты шаршау» немесе «белсенді өсу» кезеңі ретінде шатастырылуы мүмкін. Дәрігерлер диагнозды кешіктіру ауыр салдарға әкелетінін атап өтеді.\n\nБалаларда көбінесе 1-типті диабет кездеседі. Бұл аутоиммундық ауру: ағза ұйқы безінің инсулин өндіретін бета-жасушаларын жояды. Әдетте ол 4-тен 14 жасқа дейін білінеді, бірақ кейінірек, соның ішінде 35–40 жасқа дейінгі жастарда да пайда болуы мүмкін. Материалдағы мәліметтерге қарағанда, 2-типті диабет те семіздік, фастфуд және қозғалыссыз өмір салтымен байланысты түрде жас ұлғайып жатыр. Емдеу инсулинге төзімділікті азайтуға бағытталған: рафинадталған көмірсуларды алып тастайтын тағам, майды азайту және дене белсенділігін арттыру.\n\nАлаңдатарлық белгілер: бала көбірек ішеді және көбірек жейді, жиі зәр шығарады, күрт арықтайды және себепсіз әлсіздікке шағымданады. Ата-аналар мұны мектептегі жүктемемен немесе өсумен түсіндіруі жиі. Инсулинсіз глюкоза қаннан тіндерге өте алмайды, сондықтан ағза май мен ақуызды жағады, кетон денелері жинақталып, кетоацидоз дамуы мүмкін. Дәрігерлердің айтуынша, бұл реанимацияға жатқызуды қажет етеді, ал ауыр жағдайда мүгедектікке немесе баланың өліміне әкеледі.\n\nМатериалда аймақтағы жағдай туралы статистика жоқ, ал ұсынымдар бір аурухананың дәрігерлерінің пікіріне негізделген. Соңында ата-аналарға осы белгілерге назар аудару және уақытында дәрігерге қаралу шақырылады.",
-    "de": "Am 8. November 2026 veröffentlichte Orel Times einen Beitrag, der sich auf Fachleute der Zentralen Kreisklinik Kolpna im Gebiet Orel stützt. Demnach werden Diabeteserkrankungen bei Kindern und jungen Menschen immer häufiger festgestellt; die Krankheit kann sich hinter gewöhnlicher Müdigkeit oder einem Wachstumsschub verbergen. Die Ärzte betonen, dass eine verspätete Diagnose schwerwiegende Folgen haben kann.\n\nTyp-1-Diabetes ist bei Kindern am häufigsten. Es handelt sich um eine Autoimmunerkrankung, bei der der Körper die insulinproduzierenden Beta-Zellen der Bauchspeicheldrüse zerstört. Meist zeigt sie sich zwischen 4 und 14 Jahren, kann aber auch später auftreten, bei jungen Erwachsenen bis 35–40 Jahre. Laut dem Bericht wird auch Typ-2-Diabetes in jüngerem Alter sichtbar, was mit Adipositas, Fast Food und Bewegungsmangel zusammenhängt. Die Behandlung zielt darauf ab, die Insulinresistenz zu verringern: Ernährung ohne raffinierte Kohlenhydrate, weniger Fett und mehr Bewegung.\n\nWarnzeichen sind, wenn ein Kind mehr trinkt und isst, häufiger urinieren muss, stark abnimmt und ohne erkennbaren Grund über Schwäche klagt. Eltern führen dies oft auf die Schulbelastung oder das Wachstum zurück. Ohne Insulin kann Glukose nicht aus dem Blut ins Gewebe gelangen; der Körper verbrennt Fett und Eiweiß, Ketonkörper sammeln sich an, und eine Ketoazidose kann entstehen. Laut den Ärzten ist dafür eine Intensivbehandlung nötig; in schweren Fällen führt es zu Behinderung oder zum Tod des Kindes.\n\nDer Artikel enthält keine regionalen Fallzahlen, und die Empfehlungen stammen von Ärzten eines einzigen Krankenhauses. Abschließend appelliert er an Eltern, auf diese Symptome zu achten und rasch medizinische Hilfe zu suchen.",
-    "es": "El 8 de noviembre de 2026, Orel Times publicó un reportaje basado en especialistas del hospital central del distrito de Kolpna, en la región de Oriol. Según ellos, cada vez se detectan más casos de diabetes en niños y jóvenes, y la enfermedad puede confundirse con el cansancio habitual o con una etapa de crecimiento. Los médicos advierten de que retrasar el diagnóstico puede tener consecuencias graves.\n\nLa diabetes tipo 1 es la más frecuente en la infancia. Es una enfermedad autoinmune en la que el organismo destruye las células beta del páncreas que producen insulina. Suele aparecer entre los 4 y los 14 años, pero también puede manifestarse más tarde, incluso en personas de 35 a 40 años. Según el texto, la diabetes tipo 2 también aparece a edades más tempranas, vinculada a la epidemia de obesidad, la comida rápida y el sedentarismo. El tratamiento busca reducir la resistencia a la insulina mediante una dieta sin carbohidratos refinados, menos grasa y más actividad física.\n\nLas señales de alarma son que el niño beba y coma más, orine con mayor frecuencia, pierda peso bruscamente y se queje de debilidad sin causa aparente. Los padres suelen atribuirlo a la carga escolar o al estirón. Sin insulina, la glucosa no pasa de la sangre a los tejidos, así que el cuerpo quema grasas y proteínas, se acumulan cuerpos cetónicos y puede desarrollarse una cetoacidosis. Según los médicos, esto exige hospitalización en cuidados intensivos y, en casos graves, lleva a discapacidad o a la muerte.\n\nEl artículo no ofrece cifras de casos en la región, y sus recomendaciones proceden de médicos de un solo hospital. Su mensaje final pide a los padres estar atentos a estos síntomas y acudir al médico sin demora."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Типичный возраст начала диабета 1-го типа у детей",
-      "en": "Typical age of type 1 onset in children",
-      "kk": "Балаларда 1-типті диабеттің әдеттегі басталу жасы",
-      "de": "Typisches Erkrankungsalter bei Typ-1-Diabetes bei Kindern",
-      "es": "Edad típica de inicio de la diabetes tipo 1 en niños"
-     },
-     "v": {
-      "ru": "от 4 до 14 лет",
-      "en": "4 to 14 years",
-      "kk": "4-тен 14 жасқа дейін",
-      "de": "4 bis 14 Jahre",
-      "es": "de 4 a 14 años"
-     }
-    },
-    {
-     "k": {
-      "ru": "Возраст, в котором заболевание может проявиться позже",
-      "en": "Age up to which the disease may appear later",
-      "kk": "Ауру кейінірек білінуі мүмкін жас шегі",
-      "de": "Alter, bis zu dem die Krankheit später auftreten kann",
-      "es": "Edad hasta la que la enfermedad puede manifestarse más tarde"
-     },
-     "v": {
-      "ru": "до 35–40 лет",
-      "en": "up to 35–40 years",
-      "kk": "35–40 жасқа дейін",
-      "de": "bis 35–40 Jahre",
-      "es": "hasta los 35–40 años"
-     }
-    }
-   ]
-  },
-  {
    "id": "nSGM_b2M9NQ",
    "cat": "research",
    "stage": "report",
@@ -1478,6 +1565,39 @@ const DIA_NEWS={
      }
     }
    ]
+  },
+  {
+   "id": "nBsbj9vYz01",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-07",
+   "added": "2026-11-09T07:03:34.379Z",
+   "title": {
+    "ru": "Российские вузы создают новые подходы к терапии сахарного диабета",
+    "en": "Russian Universities Develop New Approaches to Diabetes Therapy",
+    "kk": "Ресей жоғары оқу орындары қант диабетін емдеудің жаңа тәсілдерін әзірлеуде",
+    "de": "Russische Universitäten entwickeln neue Ansätze zur Diabetestherapie",
+    "es": "Universidades rusas desarrollan nuevos enfoques para la terapia de la diabetes"
+   },
+   "text": {
+    "ru": "Обзор о работах российских вузов над новыми подходами к терапии сахарного диабета.",
+    "en": "An overview of work by Russian universities on new approaches to diabetes treatment.",
+    "kk": "Ресейлік жоғары оқу орындарының қант диабетін емдеудің жаңа тәсілдеріне қатысты жұмыстарына шолу.",
+    "de": "Ein Überblick über Arbeiten russischer Universitäten zu neuen Ansätzen der Diabetesbehandlung.",
+    "es": "Un resumen del trabajo de universidades rusas sobre nuevos enfoques para el tratamiento de la diabetes."
+   },
+   "url": "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
+   "src": "Vademec.ru",
+   "photoQuery": "university laboratory researchers",
+   "photo": {
+    "id": "u_XLQuTdktpa8",
+    "url": "https://images.unsplash.com/photo-1766297247924-6638d54e7c89?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8dW5pdmVyc2l0eSUyMGxhYm9yYXRvcnklMjByZXNlYXJjaGVyc3xlbnwxfDB8fHwxNzk0MjA3ODIyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Chidera Faustina Okeke",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/two-scientists-working-on-computers-in-a-laboratory-XLQuTdktpa8?utm_source=dia_news&utm_medium=referral",
+    "alt": "Two scientists working on computers in a laboratory"
+   },
+   "bodyTried": true
   },
   {
    "id": "ntodz9vYz01",
@@ -1646,38 +1766,6 @@ const DIA_NEWS={
      }
     }
    ]
-  },
-  {
-   "id": "nBsbj9vYz01",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-07",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Российские вузы создают новые подходы к терапии сахарного диабета",
-    "en": "Russian universities develop new approaches to diabetes therapy",
-    "kk": "Ресейлік жоғары оқу орындары қант диабетін емдеудің жаңа тәсілдерін жасап жатыр",
-    "de": "Russische Hochschulen entwickeln neue Ansätze in der Diabetestherapie",
-    "es": "Universidades rusas desarrollan nuevos enfoques en el tratamiento de la diabetes"
-   },
-   "text": {
-    "ru": "Обзор о том, как российские вузы разрабатывают новые подходы к терапии сахарного диабета.",
-    "en": "A review of how Russian universities are developing new approaches to treating diabetes.",
-    "kk": "Ресейлік жоғары оқу орындары қант диабетін емдеудің жаңа тәсілдерін қалай әзірлеп жатқаны туралы шолу.",
-    "de": "Ein Überblick darüber, wie russische Hochschulen neue Ansätze zur Behandlung von Diabetes entwickeln.",
-    "es": "Una revisión sobre cómo las universidades rusas desarrollan nuevos enfoques para tratar la diabetes."
-   },
-   "url": "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
-   "src": "Vademec.ru",
-   "photoQuery": "scientist laboratory microscope",
-   "photo": {
-    "url": "assets/photos/dia-research-lab.jpg",
-    "credit": "DIA news",
-    "license": "",
-    "link": "",
-    "alt": "Исследователи в лаборатории изучают данные мониторинга глюкозы"
-   },
-   "bodyTried": true
   },
   {
    "id": "nBTUT9vYz01",
@@ -2059,1113 +2147,435 @@ const DIA_NEWS={
    }
   },
   {
-   "id": "nnRCP29jPTU",
-   "cat": "research",
+   "id": "cure-sana-up421",
+   "cat": "cure",
    "stage": "early",
-   "date": "2026-11-07",
-   "added": "2026-11-08T03:03:37.668Z",
+   "date": "2026-11-05",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
    "title": {
-    "ru": "Учёные изобрели способ выявлять сахарный диабет по голосу",
-    "en": "Scientists devised a way to detect diabetes by voice",
-    "kk": "Ғалымдар дауыс арқылы қант диабетін анықтау тәсілін ойлап тапты",
-    "de": "Forscher entwickeln eine Methode zur Diabeteserkennung über die Stimme",
-    "es": "Científicos desarrollan un método para detectar la diabetes por la voz"
+    "ru": "Островки работают 14 месяцев без иммуносупрессии: генно-модифицированные клетки Sana обходят иммунитет",
+    "en": "Islets working for 14 months without immunosuppression: Sana's gene-edited cells evade the immune system",
+    "kk": "Аралшықтар иммуносупрессиясыз 14 ай жұмыс істеп тұр: Sana-ның гендік түрлендірілген жасушалары иммунитеттен жалтарады",
+    "de": "Inselzellen arbeiten seit 14 Monaten ohne Immunsuppression: Sanas genveränderte Zellen entgehen dem Immunsystem",
+    "es": "Islotes que funcionan 14 meses sin inmunosupresión: las células editadas de Sana esquivan al sistema inmune"
    },
    "text": {
-    "ru": "Исследователи предложили подход к выявлению сахарного диабета по голосу. Подробности в исходной публикации.",
-    "en": "Researchers proposed an approach to identify diabetes from a person's voice. Further details are in the original report.",
-    "kk": "Зерттеушілер адамның дауысы бойынша қант диабетін анықтау тәсілін ұсынды.",
-    "de": "Forscher schlugen einen Ansatz vor, Diabetes anhand der Stimme zu erkennen.",
-    "es": "Investigadores propusieron un enfoque para identificar la diabetes a partir de la voz."
+    "ru": "В Швеции пациенту с диабетом 1 типа пересадили «гипоиммунные» донорские островки без каких-либо препаратов против отторжения. Через 14 месяцев клетки живы и вырабатывают инсулин.",
+    "en": "In Sweden, a person with type 1 diabetes received \"hypoimmune\" donor islets without any anti-rejection drugs. Fourteen months later the cells are alive and producing insulin.",
+    "kk": "Швецияда 1 типті диабеті бар пациентке тосырқауға қарсы ешқандай препаратсыз «гипоиммунды» донорлық аралшықтар ауыстырылды. 14 айдан кейін жасушалар тірі және инсулин шығарып жатыр.",
+    "de": "In Schweden erhielt ein Mensch mit Typ-1-Diabetes „hypoimmune“ Spender-Inselzellen ganz ohne Medikamente gegen Abstoßung. 14 Monate später leben die Zellen und bilden Insulin.",
+    "es": "En Suecia, una persona con diabetes tipo 1 recibió islotes de donante \"hipoinmunes\" sin ningún fármaco antirrechazo. Catorce meses después, las células siguen vivas y producen insulina."
    },
-   "url": "https://news.day.az/medicine/1869526.html",
-   "src": "Day.Az",
-   "photoQuery": "woman speaking smartphone microphone",
    "body": {
-    "ru": "Исследователи создали инструмент на основе искусственного интеллекта, который по записи речи длиной около 20 секунд может указать на признаки диабета второго типа. Доклад о разработке прозвучал на ежегодной встрече Европейской ассоциации по изучению диабета (EASD). Материал опубликовал Day.Az со ссылкой на Lenta.ru, датирован он 7 ноября 2026 года.\n\nДля обучения модели взяли 63 283 записи голоса более чем 21 тысячи человек из США и Великобритании. Для проверки использовали новые записи: добровольцы вслух читали одну из басен Эзопа на протяжении 20 секунд. Ранее у людей с диабетом отмечали более хриплый и грубоватый голос и хуже контролируемое дыхание при речи. Алгоритм учитывает совокупность таких акустических черт, многие из которых слушатель сам не замечает.\n\nНа выборке из 7319 взрослых система в 80% случаев приписывала человеку с диабетом более высокий риск, чем человеку без него. При сверке с анализами крови 801 участника ИИ верно указал на 82% людей с диабетом. Программа также делит людей на группы низкого, среднего и высокого риска. Ни у кого из отнесённых к низкому риску анализ крови не выявил ни диабета, ни преддиабета.\n\nАвторы полагают, что со временем голосовой анализ может пригодиться для быстрого первичного скрининга по телефону или через мобильное приложение. В статье не говорится, когда такой метод может войти в повседневную практику, и не описано его клиническое одобрение.",
-    "en": "Researchers have built an artificial intelligence tool that can flag signs of type 2 diabetes from a voice recording of about 20 seconds. The work was presented at the annual meeting of the European Association for the Study of Diabetes (EASD). The report was published by Day.Az, citing Lenta.ru, and is dated 7 November 2026.\n\nTo train the model, 63,283 voice recordings from more than 21,000 people in the United States and the United Kingdom were used. For testing, new recordings were made in which volunteers read one of Aesop's fables aloud for 20 seconds. Earlier, people with diabetes were reported to have a hoarser, rougher voice and weaker breath control while speaking. The algorithm weighs a combination of such acoustic traits, many of which a listener would not notice.\n\nIn a sample of 7,319 adults, the system gave a higher risk score to a person with diabetes than to a person without it in 80% of cases. When compared with blood tests from 801 participants, the AI correctly identified 82% of people with diabetes. The program also sorts people into low, medium and high risk groups. None of those placed in the low-risk group had diabetes or prediabetes according to their blood test.\n\nThe authors suggest that voice analysis could eventually be used for quick first-stage screening by phone or through a mobile app. The article does not say when such a method might enter routine use, and it does not describe any clinical approval.",
-    "kk": "Ғалымдар адамның шамамен 20 секундтық дауыс жазбасы бойынша 2-түрдегі қант диабетінің белгілерін анықтай алатын жасанды интеллект құралын жасады. Жұмыс туралы баяндама Еуропалық диабетті зерттеу қауымдастығының (EASD) жыл сайынғы кездесуінде ұсынылды. Материалды Day.Az Lenta.ru сілтемесімен жариялаған; ол 2026 жылғы 7 қарашаға жатады.\n\nМодельді оқыту үшін АҚШ пен Ұлыбританиядағы 21 мыңнан астам адамның 63 283 дауыс жазбасы пайдаланылды. Тексеру үшін жаңа жазбалар жасалды: ерікті қатысушылар Эзоптың мысалдарының бірін 20 секунд бойы дауыстап оқыды. Бұрын диабеті бар адамдарда дауыстың қыңырлығы мен дөрекілігі, сөйлеу кезіндегі тыныс бақылауының нашарлауы байқалған. Алгоритм осындай акустикалық ерекшеліктердің жиынтығын ескереді, олардың көбін тыңдаушы байқамайды.\n\n7319 ересектен тұратын іріктемеде жүйе 80% жағдайда диабеті бар адамға диабеті жоқ адамнан жоғарырақ қауіп деңгейін берді. 801 қатысушының қан анализімен салыстырғанда ЖИ диабеті бар адамдардың 82%-ын дұрыс анықтады. Бағдарлама адамдарды төмен, орташа және жоғары қауіп топтарына бөледі. Төмен қауіп тобына жатқызылғандардың ешқайсысында қан анализі диабетті немесе преддиабетті көрсеткен жоқ.\n\nАвторлардың пікірінше, болашақта дауыс талдауы телефон арқылы немесе мобильді қосымша арқылы тез бастапқы скрининг үшін қолданылуы мүмкін. Мақалада мұндай әдістің қашан күнделікті тәжірибеге енетіні айтылмайды және оның клиникалық мақұлдауы сипатталмаған.",
-    "de": "Forschende haben ein auf künstlicher Intelligenz basierendes Verfahren entwickelt, das anhand einer rund 20 Sekunden langen Sprachaufnahme Anzeichen für Typ-2-Diabetes erkennen kann. Die Ergebnisse wurden auf der Jahrestagung der Europäischen Gesellschaft für Diabetesforschung (EASD) vorgestellt. Die Meldung stammt von Day.Az und beruft sich auf Lenta.ru; datiert ist sie auf den 7. November 2026.\n\nZum Training der Software dienten 63.283 Stimmaufnahmen von mehr als 21.000 Menschen aus den USA und Großbritannien. Zur Prüfung wurden neue Aufnahmen herangezogen, in denen Teilnehmende 20 Sekunden lang eine der Fabeln Äsops vorlasen. Bei Menschen mit Diabetes war zuvor eine heisere, rauere Stimme und eine schlechtere Atemkontrolle beim Sprechen aufgefallen. Das System wertet ein Zusammenspiel solcher akustischen Merkmale aus, von denen viele ein Zuhörer nicht bemerkt.\n\nBei 7.319 Erwachsenen vergab das System in 80 Prozent der Fälle an Menschen mit Diabetes ein höheres Risiko als an Menschen ohne die Erkrankung. Im Abgleich mit Blutuntersuchungen von 801 Teilnehmenden erkannte es 82 Prozent der Menschen mit Diabetes korrekt. Die Software ordnet Personen außerdem in Gruppen mit niedrigem, mittlerem und hohem Risiko ein. In der Gruppe mit niedrigem Risiko zeigte bei niemandem die Blutuntersuchung Diabetes oder Prädiabetes.\n\nDie Autorinnen und Autoren halten es für denkbar, dass Stimmanalysen künftig für ein schnelles erstes Screening per Telefon oder über eine App genutzt werden. Der Artikel nennt keinen Zeitpunkt, ab dem das Verfahren im Alltag eingesetzt werden könnte, und beschreibt keine klinische Zulassung.",
-    "es": "Investigadores han creado un sistema de inteligencia artificial capaz de detectar señales de diabetes tipo 2 a partir de unos 20 segundos de voz. Los resultados se presentaron en la reunión anual de la Asociación Europea para el Estudio de la Diabetes (EASD). La información la difundió Day.Az, citando a Lenta.ru, y está fechada el 7 de noviembre de 2026.\n\nPara entrenar el modelo se emplearon 63.283 grabaciones de voz de más de 21.000 personas de Estados Unidos y Reino Unido. Para la prueba se usaron grabaciones nuevas en las que los participantes leyeron en voz alta una de las fábulas de Esopo durante 20 segundos. Anteriormente se había observado en personas con diabetes una voz más ronca y áspera, así como un peor control de la respiración al hablar. El algoritmo analiza un conjunto de rasgos acústicos de este tipo, muchos de los cuales una persona no llega a notar.\n\nEn una muestra de 7.319 adultos, el sistema asignó un riesgo más alto a la persona con diabetes que a la persona sin ella en el 80 % de los casos. Al compararlo con análisis de sangre de 801 participantes, identificó correctamente al 82 % de las personas con diabetes. El sistema también clasifica a las personas en grupos de riesgo bajo, medio y alto. Ninguno de los incluidos en el grupo de riesgo bajo presentó diabetes ni prediabetes en el análisis de sangre.\n\nLos autores consideran que, en el futuro, el análisis de la voz podría usarse para un cribado inicial rápido por teléfono o mediante una aplicación móvil. El artículo no indica cuándo podría incorporarse a la práctica habitual ni describe una aprobación clínica."
+    "ru": "Главное препятствие для пересадки островков — необходимость пожизненно подавлять иммунитет: иначе организм отторгнет чужие клетки, а аутоиммунная атака, вызвавшая диабет, повторится. Компания Sana Biotechnology пытается решить обе проблемы генным редактированием.\n\nВ исследовании, которое ведёт профессор Пер-Ула Карлссон в Университетской больнице Уппсалы, донорские островки отредактировали по технологии HIP («гипоиммунные клетки») и ввели небольшую дозу в мышцу предплечья одному пациенту с диабетом 1 типа. Никаких иммуносупрессантов, включая стероиды, он не получал.\n\nЧерез 14 месяцев в крови по-прежнему определяется С-пептид, и его уровень растёт после еды — значит, пересаженные бета-клетки работают и реагируют на пищу. ПЭТ-МРТ на 12-й и 52-й неделе показала клетки в месте пересадки. Проблем с безопасностью не выявлено, иммунная система клетки не атакует. Результаты опубликованы в New England Journal of Medicine.\n\nОграничения: это один пациент и очень малая доза, поэтому исследование не рассчитано на отказ от инсулина — его цель доказать, что клетки выживают без иммуносупрессии. Следующий шаг Sana — SC451: гипоиммунные островки из стволовых клеток донора с группой крови O(-). Компания планирует подать заявку на клинические испытания и начать фазу 1/2.",
+    "en": "The main obstacle to islet transplantation is the need for lifelong immune suppression: otherwise the body rejects the foreign cells, and the autoimmune attack that caused diabetes returns. Sana Biotechnology is trying to solve both problems with gene editing.\n\nIn a study led by Professor Per-Ola Carlsson at Uppsala University Hospital, donor islets were edited with HIP (\"hypoimmune\") technology and a small dose was placed into the forearm muscle of one patient with type 1 diabetes. He received no immunosuppressants at all, not even steroids.\n\nAfter 14 months, C-peptide is still present in the blood and rises after a meal, meaning the transplanted beta cells work and respond to food. PET-MRI at weeks 12 and 52 showed the cells at the transplant site. No safety issues were found, and the immune system is not attacking the cells. The results were published in the New England Journal of Medicine.\n\nLimitations: this is one patient and a very small dose, so the study was not designed to get him off insulin; its goal is to show that the cells survive without immunosuppression. Sana's next step is SC451, hypoimmune islets made from stem cells of an O-negative donor. The company plans to file for clinical trials and start a Phase 1/2 study.",
+    "kk": "Аралшықтарды ауыстырудың басты кедергісі — иммунитетті өмір бойы басу қажеттігі: әйтпесе ағза бөгде жасушаларды тосырқайды, ал диабетті тудырған аутоиммундық шабуыл қайталанады. Sana Biotechnology компаниясы екі мәселені де гендік редакциялау арқылы шешуге тырысуда.\n\nУппсала университеттік ауруханасында профессор Пер-Ула Карлссон жүргізіп отырған зерттеуде донорлық аралшықтар HIP («гипоиммунды жасушалар») технологиясымен редакцияланып, 1 типті диабеті бар бір пациенттің білек бұлшықетіне шағын доза енгізілді. Ол ешқандай иммуносупрессант, тіпті стероид та алмады.\n\n14 айдан кейін қанда С-пептид әлі анықталады және тамақтан кейін көтеріледі — демек, ауыстырылған бета-жасушалар жұмыс істеп, тамаққа жауап береді. 12-ші және 52-ші аптадағы ПЭТ-МРТ жасушаларды ауыстырылған жерде көрсетті. Қауіпсіздік мәселелері анықталмады, иммундық жүйе жасушаларға шабуыл жасамайды. Нәтижелер New England Journal of Medicine журналында жарияланды.\n\nШектеулер: бұл бір пациент және өте аз доза, сондықтан зерттеу инсулиннен бас тартуға есептелмеген — оның мақсаты жасушалардың иммуносупрессиясыз тірі қалатынын дәлелдеу. Sana-ның келесі қадамы — SC451: O(-) қан тобындағы донордың бағаналы жасушаларынан алынған гипоиммунды аралшықтар. Компания клиникалық сынақтарға өтінім беріп, 1/2 фазаны бастауды жоспарлап отыр.",
+    "de": "Das größte Hindernis bei Inselzelltransplantationen ist die lebenslange Unterdrückung des Immunsystems: Sonst stößt der Körper die fremden Zellen ab, und der Autoimmunangriff, der den Diabetes ausgelöst hat, kehrt zurück. Sana Biotechnology will beide Probleme mit Genom-Editierung lösen.\n\nIn einer Studie unter Leitung von Professor Per-Ola Carlsson am Universitätskrankenhaus Uppsala wurden Spender-Inselzellen mit der HIP-Technologie („hypoimmun“) verändert und in kleiner Dosis in den Unterarmmuskel eines Patienten mit Typ-1-Diabetes gesetzt. Er erhielt keinerlei Immunsuppressiva, auch keine Steroide.\n\nNach 14 Monaten ist weiterhin C-Peptid im Blut nachweisbar, und es steigt nach dem Essen – die transplantierten Betazellen arbeiten also und reagieren auf Nahrung. PET-MRT-Aufnahmen in Woche 12 und 52 zeigten die Zellen an der Transplantationsstelle. Sicherheitsprobleme traten nicht auf, das Immunsystem greift die Zellen nicht an. Die Ergebnisse erschienen im New England Journal of Medicine.\n\nEinschränkungen: Es handelt sich um einen einzigen Patienten und eine sehr kleine Dosis; die Studie sollte daher nicht zur Insulinfreiheit führen, sondern zeigen, dass die Zellen ohne Immunsuppression überleben. Sanas nächster Schritt ist SC451, hypoimmune Inselzellen aus Stammzellen eines Spenders mit Blutgruppe 0 negativ. Das Unternehmen will die klinische Prüfung beantragen und eine Phase-1/2-Studie beginnen.",
+    "es": "El principal obstáculo del trasplante de islotes es la necesidad de suprimir el sistema inmune de por vida: de lo contrario, el cuerpo rechaza las células ajenas y vuelve el ataque autoinmune que causó la diabetes. Sana Biotechnology intenta resolver ambos problemas con edición genética.\n\nEn un estudio dirigido por el profesor Per-Ola Carlsson en el Hospital Universitario de Uppsala, se editaron islotes de donante con la tecnología HIP (\"hipoinmune\") y se implantó una dosis pequeña en el músculo del antebrazo de un paciente con diabetes tipo 1. No recibió ningún inmunosupresor, ni siquiera esteroides.\n\nA los 14 meses, el péptido C sigue presente en sangre y sube después de comer: las células beta trasplantadas funcionan y responden a la comida. Las PET-RM de las semanas 12 y 52 mostraron las células en el lugar del implante. No se detectaron problemas de seguridad y el sistema inmune no las ataca. Los resultados se publicaron en el New England Journal of Medicine.\n\nLimitaciones: es un solo paciente y una dosis muy pequeña, por lo que el estudio no se diseñó para retirar la insulina; su objetivo es demostrar que las células sobreviven sin inmunosupresión. El siguiente paso de Sana es SC451, islotes hipoinmunes obtenidos de células madre de un donante O negativo. La compañía prevé solicitar los ensayos clínicos e iniciar una fase 1/2."
    },
    "facts": [
     {
      "k": {
-      "ru": "Записей голоса для обучения системы",
-      "en": "Voice recordings used to train the system",
-      "kk": "Жүйені оқытуға пайдаланылған дауыс жазбалары",
-      "de": "Stimmaufnahmen für das Training des Systems",
-      "es": "Grabaciones de voz para entrenar el sistema"
+      "ru": "Наблюдение",
+      "en": "Follow-up",
+      "kk": "Бақылау",
+      "de": "Nachbeobachtung",
+      "es": "Seguimiento"
      },
      "v": {
-      "ru": "63 283",
-      "en": "63,283",
-      "kk": "63 283",
-      "de": "63.283",
-      "es": "63.283"
+      "ru": "14 месяцев",
+      "en": "14 months",
+      "kk": "14 ай",
+      "de": "14 Monate",
+      "es": "14 meses"
      }
     },
     {
      "k": {
-      "ru": "Людей с диабетом, верно выявленных ИИ",
-      "en": "People with diabetes correctly identified by the AI",
-      "kk": "ЖИ дұрыс анықтаған диабеті бар адамдар",
-      "de": "Menschen mit Diabetes, die die KI korrekt erkannte",
-      "es": "Personas con diabetes identificadas correctamente por la IA"
+      "ru": "Иммуносупрессия",
+      "en": "Immunosuppression",
+      "kk": "Иммуносупрессия",
+      "de": "Immunsuppression",
+      "es": "Inmunosupresión"
      },
      "v": {
-      "ru": "82%",
-      "en": "82%",
-      "kk": "82%",
-      "de": "82 %",
-      "es": "82 %"
+      "ru": "нет",
+      "en": "none",
+      "kk": "жоқ",
+      "de": "keine",
+      "es": "ninguna"
      }
+    },
+    {
+     "k": {
+      "ru": "Следующий шаг",
+      "en": "Next step",
+      "kk": "Келесі қадам",
+      "de": "Nächster Schritt",
+      "es": "Siguiente paso"
+     },
+     "v": "SC451"
     }
    ],
+   "url": "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
+   "src": "Sana Biotechnology · NEJM",
+   "photoQuery": "laboratory cell culture dish",
    "photo": {
-    "id": "u_kMw7VdjCzC8",
-    "url": "https://images.unsplash.com/photo-1668605335599-734cc831ece5?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8d29tYW4lMjBzcGVha2luZyUyMHNtYXJ0cGhvbmUlMjBtaWNyb3Bob25lfGVufDF8MHx8fDE3OTQxNDY1MjZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Flipsnack",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-woman-sitting-at-a-desk-with-a-laptop-and-microphone-kMw7VdjCzC8?utm_source=dia_news&utm_medium=referral",
-    "alt": "a woman sitting at a desk with a laptop and microphone"
-   }
-  },
-  {
-   "id": "nUnc_b2M9NQ",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-07",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "В красном мясе нашли молекулу сахара, связанную с риском диабета",
-    "en": "Sugar molecule linked to diabetes risk found in red meat",
-    "kk": "Қызыл етте диабет қаупімен байланысты қант молекуласы табылды",
-    "de": "Zuckermolekül mit Diabetesrisiko in rotem Fleisch gefunden",
-    "es": "Hallan en la carne roja una molécula de azúcar asociada al riesgo de diabetes"
-   },
-   "text": {
-    "ru": "Обнаружена молекула сахара в красном мясе, которую связывают с риском развития диабета.",
-    "en": "A sugar molecule found in red meat has been associated with diabetes risk.",
-    "kk": "Қызыл етте табылған қант молекуласы диабет даму қаупімен байланыстырылады.",
-    "de": "Ein in rotem Fleisch gefundenes Zuckermolekül wird mit dem Diabetesrisiko in Verbindung gebracht.",
-    "es": "Una molécula de azúcar hallada en la carne roja se ha asociado con el riesgo de diabetes."
-   },
-   "url": "https://news.day.az/gurmaniya/1869525.html",
-   "src": "Day.Az",
-   "photoQuery": "raw red meat steak",
-   "photo": {
-    "id": "u_U5lLwx17rWs",
-    "url": "https://images.unsplash.com/photo-1723893905879-0e309c2a8e06?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cmF3JTIwcmVkJTIwbWVhdCUyMHN0ZWFrfGVufDF8MHx8fDE3OTQxNDIxNDJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "David Foodphototasty",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/two-steaks-on-a-plate-with-parsley-U5lLwx17rWs?utm_source=dia_news&utm_medium=referral",
-    "alt": "Two steaks on a plate with parsley"
-   },
-   "body": {
-    "ru": "7 ноября 2026 года Day.Az со ссылкой на Gazeta.ru сообщил, что молекула сахара Neu5Gc, которая содержится главным образом в красном мясе, может повышать риск диабета 2 типа. Предварительные результаты представили на ежегодном собрании Европейской ассоциации по изучению диабета (EASD) в Милане. У людей с самым высоким потреблением этой молекулы вероятность заболеть была на 63% выше, чем у тех, кто редко ел красное мясо.\n\nИсследователи проанализировали данные 89 953 взрослых участников долгосрочного французского проекта NutriNet-Santé. Средний возраст добровольцев составлял 42 года, женщины составляли 79%. На старте диабета ни у кого не было; за 7,2 года наблюдения зафиксировали 966 новых случаев. Участники вели дневники питания, а по ним учёные оценивали, сколько Neu5Gc поступало с пищей.\n\nЧем больше было потребление, тем выше оказывался риск. Связь сохранялась после учёта возраста, пола, физической активности, качества рациона, курения и других факторов. Учёт индекса массы тела ослаблял её, но она оставалась статистически значимой. Neu5Gc из молочных продуктов с диабетом связан не был.\n\nВажные оговорки: результаты не доказывают, что Neu5Gc напрямую вызывает диабет. После учёта общего количества красного мяса связь ослабла, что указывает на возможное влияние других компонентов мясных продуктов. По мнению учёных, человеческий организм утратил способность вырабатывать эту молекулу из-за древней генетической мутации, поэтому иммунная система может воспринимать её как чужеродную и вызывать хроническое воспаление.\n\nАвторы планируют в дальнейших работах оценить роль антител к Neu5Gc и хронического воспаления.",
-    "en": "On November 7, 2026, Day.Az, citing Gazeta.ru, reported that the sugar molecule Neu5Gc, found mainly in red meat, may raise the risk of type 2 diabetes. The preliminary findings were presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan. People with the highest intake of this molecule had a 63% higher likelihood of developing the disease than those who rarely ate red meat.\n\nThe researchers analysed data from 89,953 adults taking part in NutriNet-Santé, a long-term French study. The volunteers had an average age of 42, and 79% were women. None had diabetes at the start; over 7.2 years of follow-up, 966 new cases were recorded. Participants kept food diaries, and scientists used them to estimate how much Neu5Gc came in with their diet.\n\nThe higher the intake, the higher the risk. The link held after accounting for age, sex, physical activity, diet quality, smoking and other factors. Adjusting for body mass index weakened it, but it remained statistically significant. Neu5Gc from dairy products showed no link to type 2 diabetes.\n\nImportant caveats: the results do not prove that Neu5Gc directly causes diabetes. After accounting for total red meat intake, the association weakened, which points to possible effects from other components of meat products. According to the scientists, the human body lost the ability to make this molecule through an ancient genetic mutation, so the immune system may treat it as foreign and trigger chronic inflammation.\n\nThe authors plan to examine, in future work, the role of antibodies against Neu5Gc and of chronic inflammation.",
-    "kk": "2026 жылдың 7 қарашасында Day.Az, Gazeta.ru сілтемесіне сүйеніп, негізінен қызыл етте кездесетін Neu5Gc қант молекуласы 2-типті қант диабеті қаупін арттыруы мүмкін екенін хабарлады. Алдын ала нәтижелер Миланда өткен Еуропалық диабетті зерттеу қауымдастығының (EASD) жылдық жиналысында ұсынылды. Осы молекуланы ең көп тұтынғандардың ауруға шалдығу ықтималдығы қызыл етті сирек жегендермен салыстырғанда 63% жоғары болған.\n\nЗерттеушілер ұзақ мерзімді француз NutriNet-Santé жобасына қатысқан 89 953 ересек адамның деректерін талдады. Ерікті қатысушылардың орташа жасы 42 болды, олардың 79%-ы әйелдер еді. Басында ешкімде қант диабеті болмаған; 7,2 жылдық бақылау барысында 966 жаңа жағдай тіркелді. Қатысушылар тамақтану күнделігін жүргізді, ал ғалымдар осы күнделіктерге сүйеніп, тамақпен қанша Neu5Gc түскенін бағалады.\n\nТұтыну неғұрлым көп болса, қауіп соғұрлым жоғары болды. Байланыс жасты, жынысты, дене белсенділігін, рацион сапасын, темекі шегуді және басқа факторларды ескергеннен кейін де сақталды. Дене салмағы индексін ескергенде байланыс әлсіреді, бірақ статистикалық тұрғыдан маңызды күйінде қалды. Сүт өнімдеріндегі Neu5Gc мен 2-типті диабет арасында байланыс табылмады.\n\nМаңызды ескерту: нәтижелер Neu5Gc диабетті тікелей туғызатынын дәлелдемейді. Қызыл еттің жалпы мөлшерін ескергеннен кейін байланыс әлсіреді, бұл ет өнімдерінің басқа құрамдастарының да ықпалы болуы мүмкін екенін көрсетеді. Ғалымдардың айтуынша, адам ағзасы ерте заманғы генетикалық мутация салдарынан осы молекуланы өндіру қабілетін жоғалтқан, сондықтан иммундық жүйе оны жат зат ретінде қабылдап, созылмалы қабынуды туғызуы мүмкін.\n\nАвторлар келесі жұмыстарда Neu5Gc-ке қарсы антиденелердің және созылмалы қабынудың рөлін бағалауды жоспарлап отыр.",
-    "de": "Am 7. November 2026 berichtete Day.Az unter Berufung auf Gazeta.ru, dass das Zuckermolekül Neu5Gc, das vor allem in rotem Fleisch vorkommt, das Risiko für Typ-2-Diabetes erhöhen kann. Vorläufige Ergebnisse wurden auf der Jahrestagung der Europäischen Gesellschaft für Diabetesforschung (EASD) in Mailand vorgestellt. Menschen mit der höchsten Aufnahme dieses Moleküls hatten eine um 63 % höhere Wahrscheinlichkeit, zu erkranken, als jene, die selten rotes Fleisch aßen.\n\nDie Forschenden werteten Daten von 89.953 Erwachsenen aus der langfristigen französischen Studie NutriNet-Santé aus. Das Durchschnittsalter der Freiwilligen lag bei 42 Jahren, 79 % waren Frauen. Zu Studienbeginn hatte niemand Diabetes; im Beobachtungszeitraum von 7,2 Jahren wurden 966 Neuerkrankungen erfasst. Die Teilnehmenden führten Ernährungstagebücher, anhand derer die Wissenschaftler abschätzten, wie viel Neu5Gc über die Nahrung aufgenommen wurde.\n\nJe höher die Aufnahme, desto größer das Risiko. Der Zusammenhang blieb bestehen, nachdem Alter, Geschlecht, körperliche Aktivität, Ernährungsqualität, Rauchen und weitere Faktoren berücksichtigt wurden. Die Berücksichtigung des Body-Mass-Index schwächte ihn ab, er blieb aber statistisch signifikant. Für Neu5Gc aus Milchprodukten zeigte sich kein Zusammenhang mit Typ-2-Diabetes.\n\nWichtige Einschränkung: Die Ergebnisse beweisen nicht, dass Neu5Gc Diabetes direkt auslöst. Nach Berücksichtigung der gesamten Menge an rotem Fleisch wurde der Zusammenhang schwächer, was auf mögliche Einflüsse anderer Bestandteile von Fleischprodukten hindeutet. Laut den Wissenschaftlern hat der menschliche Körper die Fähigkeit, dieses Molekül herzustellen, durch eine alte genetische Mutation verloren; daher könnte das Immunsystem es als fremd einstufen und eine chronische Entzündung auslösen.\n\nDie Autorinnen und Autoren wollen in künftigen Arbeiten die Rolle von Antikörpern gegen Neu5Gc und chronischer Entzündung untersuchen.",
-    "es": "El 7 de noviembre de 2026, Day.Az, citando a Gazeta.ru, informó de que la molécula de azúcar Neu5Gc, presente sobre todo en la carne roja, podría aumentar el riesgo de diabetes tipo 2. Los resultados preliminares se presentaron en la reunión anual de la Asociación Europea para el Estudio de la Diabetes (EASD) en Milán. Quienes tenían el mayor consumo de esta molécula presentaban una probabilidad un 63 % mayor de desarrollar la enfermedad que quienes rara vez comían carne roja.\n\nLos investigadores analizaron datos de 89.953 adultos del proyecto francés de largo plazo NutriNet-Santé. La edad media de los voluntarios era de 42 años y el 79 % eran mujeres. Al inicio, ninguno tenía diabetes; durante 7,2 años de seguimiento se registraron 966 casos nuevos. Los participantes llevaban diarios de alimentación, y con ellos los científicos estimaron cuánto Neu5Gc ingerían con la dieta.\n\nA mayor consumo, mayor riesgo. La asociación se mantuvo tras tener en cuenta la edad, el sexo, la actividad física, la calidad de la dieta, el tabaquismo y otros factores. Al ajustar por el índice de masa corporal, la asociación se debilitó, pero siguió siendo estadísticamente significativa. No se halló relación entre el Neu5Gc de los productos lácteos y la diabetes tipo 2.\n\nAdvertencia importante: los resultados no demuestran que el Neu5Gc cause directamente la diabetes. Tras considerar el consumo total de carne roja, la asociación se debilitó, lo que apunta a posibles efectos de otros componentes de los productos cárnicos. Según los científicos, el organismo humano perdió la capacidad de producir esta molécula por una antigua mutación genética, por lo que el sistema inmunitario podría tratarla como extraña y provocar inflamación crónica.\n\nLos autores planean evaluar en trabajos futuros el papel de los anticuerpos contra el Neu5Gc y de la inflamación crónica."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Риск диабета 2 типа у людей с самым высоким потреблением Neu5Gc",
-      "en": "Type 2 diabetes risk in people with the highest Neu5Gc intake",
-      "kk": "Neu5Gc-ті ең көп тұтынғандардағы 2-типті диабет қаупі",
-      "de": "Typ-2-Diabetes-Risiko bei der höchsten Neu5Gc-Aufnahme",
-      "es": "Riesgo de diabetes tipo 2 con el mayor consumo de Neu5Gc"
-     },
-     "v": {
-      "ru": "на 63% выше",
-      "en": "63% higher",
-      "kk": "63% жоғары",
-      "de": "63 % höher",
-      "es": "63 % mayor"
-     }
-    },
-    {
-     "k": {
-      "ru": "Участники исследования NutriNet-Santé",
-      "en": "NutriNet-Santé participants",
-      "kk": "NutriNet-Santé қатысушылары",
-      "de": "Teilnehmende der NutriNet-Santé-Studie",
-      "es": "Participantes de NutriNet-Santé"
-     },
-     "v": {
-      "ru": "89 953 взрослых; 7,2 года наблюдения; 966 новых случаев",
-      "en": "89,953 adults; 7.2 years of follow-up; 966 new cases",
-      "kk": "89 953 ересек; 7,2 жыл бақылау; 966 жаңа жағдай",
-      "de": "89.953 Erwachsene; 7,2 Jahre Beobachtung; 966 Neuerkrankungen",
-      "es": "89.953 adultos; 7,2 años de seguimiento; 966 casos nuevos"
-     }
-    }
-   ]
-  },
-  {
-   "id": "naE4_b2M9NQ",
-   "cat": "devices",
-   "stage": "launch",
-   "date": "2026-11-07",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "96 секунд на анализ: в сыктывкарской поликлинике обновили оборудование для контроля сахарного диабета",
-    "en": "96 seconds per test: Syktyvkar clinic updates diabetes monitoring equipment",
-    "kk": "Талдауға 96 секунд: Сыктывкар емханасында қант диабетін бақылау жабдығы жаңартылды",
-    "de": "96 Sekunden pro Analyse: Klinik in Syktywkar aktualisiert Geräte zur Diabeteskontrolle",
-    "es": "96 segundos por análisis: una clínica de Syktyvkar actualiza su equipo para el control de la diabetes"
-   },
-   "text": {
-    "ru": "В сыктывкарской поликлинике обновили оборудование для контроля сахарного диабета; анализ занимает 96 секунд.",
-    "en": "A Syktyvkar polyclinic has updated its diabetes control equipment; an analysis takes 96 seconds.",
-    "kk": "Сыктывкар емханасы қант диабетін бақылау жабдығын жаңартты; талдау 96 секундқа созылады.",
-    "de": "Eine Poliklinik in Syktywkar hat ihre Geräte zur Diabeteskontrolle erneuert; eine Analyse dauert 96 Sekunden.",
-    "es": "Una policlínica de Syktyvkar actualizó su equipo para controlar la diabetes; un análisis tarda 96 segundos."
-   },
-   "url": "https://www.bnkomi.ru/data/news/205446/",
-   "src": "Bnkomi.ru",
-   "photoQuery": "medical lab equipment clinic",
-   "body": {
-    "ru": "В клинико-диагностической лаборатории поликлиники №3 Сыктывкара установили два новых анализатора для определения гликированного гемоглобина, сообщил БНК 7 ноября 2026 года. Этот показатель отражает средний уровень сахара в крови за два–три месяца. Его оценивают у пациентов с диабетом первого и второго типов, а также в ходе диспансеризации.\n\nПо словам заведующей лабораторией Елены Крисановой, приборы работают методом высокоэффективной жидкостной хроматографии. Раньше для этого исследования использовали биохимическое оборудование. Новая система автоматизирована: кровь исследуют прямо из первичной пробирки, которую не нужно вскрывать, что снижает риск ошибок. Один анализ занимает 96 секунд, а аппарат одновременно может работать со 110 пробами.\n\nСпрос на исследование стабильно высокий: в 2024 году в поликлинике выполнили более 19 тысяч таких тестов, в 2025-м около 23 тысяч, и за неполные 11 месяцев 2026 года также около 23 тысяч. Материал из заборных пунктов доставляют примерно каждые полтора часа. Сначала результаты проверяет врач клинико-лабораторной диагностики, затем они поступают терапевту или профильному специалисту. В материале подчёркивается, что одного анализа на гликированный гемоглобин недостаточно для диагноза: используют комплекс исследований, включая глюкозу натощак и тест на толерантность к глюкозе.\n\nВ лаборатории обновили и другие направления: появилась гематологическая станция из двух анализаторов, иммунохемилюминесцентные и биохимические анализаторы, оборудование для иммуноферментного анализа. Поликлиника трижды в год участвует в межлабораторном контроле качества, на данный момент замечаний нет. Параллельно идёт ремонт: второй этаж завершён, на первом работы продолжаются, финиш запланирован на декабрь 2026 года. В дальнейшем учреждение намерено открыть ПЦР-лабораторию.",
-    "en": "Two new analyzers for measuring glycated haemoglobin have been installed in the clinical diagnostic laboratory of Syktyvkar polyclinic No. 3, BNK reported on 7 November 2026. The test shows average blood sugar over the previous two to three months. It is used for people with type 1 and type 2 diabetes and during routine health check-ups.\n\nAccording to the laboratory head, Elena Krisanova, the devices use high-performance liquid chromatography. Previously the polyclinic ran this test on biochemical equipment. The new system automates the process: blood is tested straight from the primary tube, which does not need to be opened, reducing the chance of errors. One analysis takes 96 seconds, and the device can process 110 samples at once.\n\nDemand is steady: more than 19,000 tests were done in 2024, about 23,000 in 2025, and again about 23,000 in the first eleven months of 2026. Samples arrive from the clinic's collection points roughly every hour and a half. A laboratory diagnostics doctor checks results first, and then they go to the therapist or specialist. The article stresses that one such test is not enough to diagnose diabetes; a set of studies, including fasting glucose and a glucose tolerance test, is used.\n\nOther lab areas have also been upgraded: a haematology station made of two analyzers, immunochemiluminescence and biochemical analyzers, and equipment for ELISA. The polyclinic takes part in interlaboratory quality control three times a year, and currently there are no remarks. Renovation is under way in stages: the second floor is finished, work on the first floor continues, and completion is planned for December 2026. The clinic also intends to open a PCR laboratory later.",
-    "kk": "Сыктывкардағы №3 емхананың клиникалық-диагностикалық зертханасына гликирленген гемоглобинді анықтауға арналған екі жаңа анализатор орнатылды, деп хабарлады BNK 2026 жылғы 7 қарашада. Бұл көрсеткіш соңғы екі-үш айдағы қанның орташа қант деңгейін көрсетеді. Оны 1-типті және 2-типті қант диабеті бар пациенттерде, сондай-ақ диспансеризация кезінде бағалайды.\n\nЗертхана меңгерушісі Елена Крисанованың айтуынша, приборлар жоғары тиімді сұйық хроматография әдісімен жұмыс істейді. Бұрын бұл зерттеу үшін биохимиялық жабдық қолданылған. Жаңа жүйе автоматтандырылған: қан ашудың қажеті жоқ бастапқы түтіктен тікелей зерттеледі, бұл қате ықтималдығын азайтады. Бір талдау 96 секунд алады, ал аппарат бір мезгілде 110 үлгіні өңдей алады.\n\nСұраныс тұрақты жоғары: 2024 жылы емханада мұндай 19 мыңнан астам тест жасалды, 2025 жылы шамамен 23 мың, ал 2026 жылдың 11 айына жуық уақытта да шамамен 23 мың. Материал алу пункттерінен шамамен әр жарты сағат сайын жеткізіледі. Алдымен нәтижелерді клиникалық-зертханалық диагностика дәрігері тексереді, содан кейін олар терапевтке немесе маманға жетеді. Материалда бір ғана гликирленген гемоглобин талдауы диагноз қоюға жеткіліксіз екені атап өтіледі: ашқарынға глюкоза және глюкозаға толеранттылық сынағы сияқты кешенді зерттеулер қолданылады.\n\nЗертханада басқа бағыттар да жаңартылды: екі анализатордан тұратын гематологиялық станция, иммунохемилюминесценттік және биохимиялық анализаторлар, иммуноферменттік талдауға арналған жабдық пайда болды. Емхана жылына үш рет зертханалар аралық сапа бақылауына қатысады, қазіргі уақытта ескертпелер жоқ. Қатар жөндеу жүріп жатыр: екінші қабат аяқталды, бірінші қабатта жұмыс жалғасуда, аяқтау 2026 жылдың желтоқсанына жоспарланған. Кейіннен мекеме ПТР-зертхана ашуды көздейді.",
-    "de": "Im klinisch-diagnostischen Labor der Poliklinik Nr. 3 in Syktywkar wurden zwei neue Analysegeräte zur Bestimmung des glykierten Hämoglobins installiert, berichtete BNK am 7. November 2026. Der Wert zeigt den durchschnittlichen Blutzucker der letzten zwei bis drei Monate. Er wird bei Menschen mit Diabetes Typ 1 und Typ 2 sowie im Rahmen der Gesundheitsuntersuchung bestimmt.\n\nLaut der Laborleiterin Jelena Krisanowa arbeiten die Geräte nach der Methode der Hochleistungsflüssigkeitschromatografie. Zuvor wurde dieser Test mit biochemischer Technik durchgeführt. Das neue System ist automatisiert: Das Blut wird direkt aus dem Primärröhrchen untersucht, das nicht einmal geöffnet werden muss, was das Fehlerrisiko verringert. Eine Analyse dauert 96 Sekunden, und das Gerät kann gleichzeitig 110 Proben verarbeiten.\n\nDie Nachfrage ist konstant hoch: 2024 wurden in der Poliklinik mehr als 19.000 solcher Tests durchgeführt, 2025 rund 23.000 und in den knapp elf Monaten von 2026 ebenfalls etwa 23.000. Das Material wird etwa alle anderthalb Stunden aus den Entnahmestellen abgeholt. Zuerst prüft ein Facharzt für klinische Labordiagnostik die Ergebnisse, danach gehen sie an den Therapeuten oder Facharzt. Der Bericht betont, dass ein einzelner HbA1c-Wert für die Diagnose nicht ausreicht; verwendet wird ein Untersuchungspaket, etwa mit Nüchternglukose und dem Glukosetoleranztest.\n\nAuch andere Laborbereiche wurden modernisiert: Hinzugekommen sind eine hämatologische Station aus zwei Analysatoren, immunchemilumineszente und biochemische Analysatoren sowie Geräte für den ELISA. Die Poliklinik nimmt dreimal jährlich an der überregionalen Qualitätskontrolle zwischen Laboren teil; derzeit gibt es keine Beanstandungen. Parallel laufen Umbauarbeiten: Der zweite Stock ist fertig, im ersten Stock wird noch gearbeitet, der Abschluss ist für Dezember 2026 geplant. Später will die Einrichtung ein PCR-Labor eröffnen.",
-    "es": "En el laboratorio clínico-diagnóstico de la policlínica n.º 3 de Syktyvkar se instalaron dos nuevos analizadores para medir la hemoglobina glicada, informó BNK el 7 de noviembre de 2026. Este indicador muestra el nivel medio de azúcar en sangre de los últimos dos o tres meses. Se utiliza en personas con diabetes tipo 1 y tipo 2, y también en los chequeos médicos periódicos.\n\nSegún la jefa del laboratorio, Elena Krisánova, los equipos trabajan con cromatografía líquida de alta eficacia. Antes, esta prueba se realizaba con equipamiento bioquímico. El nuevo sistema está automatizado: la sangre se analiza directamente desde el tubo primario, que ni siquiera hace falta abrir, lo que reduce el riesgo de errores. Cada análisis tarda 96 segundos y el aparato puede procesar 110 muestras a la vez.\n\nLa demanda se mantiene alta: en 2024 la policlínica realizó más de 19 000 de estas pruebas, en 2025 unas 23 000 y en casi once meses de 2026 también unas 23 000. El material llega desde los puntos de extracción aproximadamente cada hora y media. Primero lo revisa un médico especialista en diagnóstico clínico de laboratorio y luego los resultados pasan al terapeuta o al especialista. El texto subraya que una sola prueba de hemoglobina glicada no basta para diagnosticar la diabetes, por lo que se emplea un conjunto de estudios, como la glucosa en ayunas y la prueba de tolerancia a la glucosa.\n\nTambién se renovaron otras áreas del laboratorio: se incorporó una estación hematológica formada por dos analizadores, analizadores de inmunoquimioluminiscencia y bioquímicos, y equipos para ELISA. La policlínica participa tres veces al año en el control externo de calidad entre laboratorios; por ahora no hay observaciones. Las obras avanzan por etapas: el segundo piso ya está terminado, el primero sigue en marcha y la finalización está prevista para diciembre de 2026. Más adelante, el centro pretende abrir un laboratorio de PCR."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Время одного анализа",
-      "en": "Time per analysis",
-      "kk": "Бір талдау уақыты",
-      "de": "Dauer einer Analyse",
-      "es": "Duración de un análisis"
-     },
-     "v": {
-      "ru": "96 секунд",
-      "en": "96 seconds",
-      "kk": "96 секунд",
-      "de": "96 Sekunden",
-      "es": "96 segundos"
-     }
-    },
-    {
-     "k": {
-      "ru": "Проб одновременно",
-      "en": "Samples at once",
-      "kk": "Бір мезгілде үлгі саны",
-      "de": "Proben gleichzeitig",
-      "es": "Muestras simultáneas"
-     },
-     "v": {
-      "ru": "110",
-      "en": "110",
-      "kk": "110",
-      "de": "110",
-      "es": "110"
-     }
-    },
-    {
-     "k": {
-      "ru": "Анализов на гликированный гемоглобин в 2025 году",
-      "en": "HbA1c tests in 2025",
-      "kk": "2025 жылы гликирленген гемоглобин талдаулары",
-      "de": "HbA1c-Tests 2025",
-      "es": "Pruebas de HbA1c en 2025"
-     },
-     "v": {
-      "ru": "около 23 тысяч",
-      "en": "about 23,000",
-      "kk": "шамамен 23 мың",
-      "de": "rund 23.000",
-      "es": "unas 23 000"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u__zbqco3m7dA",
-    "url": "https://images.unsplash.com/photo-1758691462651-611d730c5272?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhbCUyMGxhYiUyMGVxdWlwbWVudCUyMGNsaW5pY3xlbnwxfDB8fHwxNzk0MTkzMzM1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-female-doctor-wearing-a-stethoscope-sits-at-her-desk-_zbqco3m7dA?utm_source=dia_news&utm_medium=referral",
-    "alt": "A female doctor wearing a stethoscope sits at her desk"
-   }
-  },
-  {
-   "id": "nk9BP29jPTU",
-   "cat": "devices",
-   "stage": "report",
-   "date": "2026-11-07",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "Как работает непрерывный мониторинг глюкозы и почему он не заменит диету",
-    "en": "How continuous glucose monitoring works and why it won't replace diet",
-    "kk": "Үздіксіз глюкоза мониторингі қалай жұмыс істейді және ол неге диетаны алмастырмайды",
-    "de": "Wie die kontinuierliche Glukosemessung funktioniert und warum sie die Ernährung nicht ersetzt",
-    "es": "Cómo funciona la monitorización continua de glucosa y por qué no sustituye a la dieta"
-   },
-   "text": {
-    "ru": "Материал объясняет принцип работы непрерывного мониторинга глюкозы и подчёркивает, что он не заменяет диету.",
-    "en": "An explainer on how continuous glucose monitoring works and why it does not replace diet.",
-    "kk": "Материалда үздіксіз глюкоза мониторингінің жұмыс принципі түсіндіріліп, ол диетаны алмастырмайтыны атап өтіледі.",
-    "de": "Der Beitrag erklärt, wie die kontinuierliche Glukosemessung funktioniert, und betont, dass sie die Ernährung nicht ersetzt.",
-    "es": "El artículo explica cómo funciona la monitorización continua de glucosa y subraya que no reemplaza la dieta."
-   },
-   "url": "https://megatyumen.ru/zdorovye/gadzhet-dlya-poxudeniya-tyumenskij-vrach-rasskazala-kak-rabotaet-nepreryvnyj-monitoring-glyukozy-i-pochemu-on-ne-zamenit-dietu/",
-   "src": "МегаТюмень",
-   "photoQuery": "glucose sensor arm",
-   "photo": {
-    "url": "assets/photos/dia-cgm-phone-woman.jpg",
-    "credit": "DIA news",
-    "license": "",
-    "link": "",
-    "alt": "Датчик глюкозы на плече и график в телефоне"
-   },
-   "body": {
-    "ru": "7 ноября 2026 года тюменское издание «МегаТюмень» опубликовало материал о датчиках непрерывного мониторинга глюкозы (CGM), которые всё чаще встречаются у людей без диабета, желающих похудеть. Первоначально эта технология создавалась для пациентов с сахарным диабетом.\n\nАвтор материала Ирина Труханович взяла комментарий у терапевта и нутрициолога Вероники Сычковой, члена Российского научного медицинского общества терапевтов. По её словам, небольшой сенсор крепится на плечо, круглосуточно измеряет глюкозу в межклеточной жидкости, а результаты выводятся в смартфон в виде графиков.\n\nГлавную пользу врач видит в возможности понять, как организм конкретного человека реагирует на отдельные продукты. Овсянка, гречка, фруктовый смузи или финиковые батончики могут поднимать сахар у разных людей по-разному. Прогулка 15 минут после ужина способна смягчить пик глюкозы, а горсть орехов к яблоку делает реакцию более плавной. При этом высокий пик сам по себе не делает продукт вредным: на показатели влияют размер порции, состав блюда и физическая нагрузка.\n\nДатчик не сжигает жир и не ускоряет обмен веществ, а при переедании вес может расти даже при ровных графиках. Для людей без диабета доказательств того, что прибор сам по себе помогает худеть, пока недостаточно. При преддиабете исследование обязательным не считается, а вопрос о его использовании стоит обсудить с врачом. Сычкова предупреждает: стремление к идеально ровной кривой и отказ от углеводов может привести к расстройствам пищевого поведения и нехватке питательных веществ.\n\nЕсли врач сочтёт наблюдение целесообразным, для знакомства с реакциями организма может хватить 2–4 недель. Сычкова напоминает, что датчик прежде всего медицинский прибор для контроля диабета, а здоровым людям без назначения он может принести тревожность. В материале не сообщается о дальнейших шагах; основной совет — согласовывать использование с врачом.",
-    "en": "On 7 November 2026, the Tyumen outlet MegaTyumen published a piece on continuous glucose monitoring (CGM) sensors, which are increasingly seen on people without diabetes who want to lose weight. The technology was originally developed for patients with diabetes.\n\nAuthor Irina Trukhanovich spoke with therapist and nutritionist Veronika Sychkova, a member of the Russian Scientific Medical Society of Therapists. According to her, the small sensor is worn on the shoulder, measures glucose in the fluid between cells around the clock, and sends readings to a smartphone as graphs.\n\nThe expert sees the main benefit in understanding how a particular person's body reacts to specific foods. Oatmeal, buckwheat, fruit smoothies or date bars can raise blood sugar differently for different people. A 15-minute walk after dinner may soften the glucose peak, and a handful of nuts eaten with an apple can make the response smoother. A high peak alone does not make a food harmful, since portion size, the meal's makeup and physical activity also affect readings.\n\nThe sensor does not burn fat or speed up metabolism, and weight can still rise through overeating even when graphs look flat. For people without diabetes, there is not yet enough convincing evidence that the device by itself helps with weight loss. In prediabetes it is not a required test, and whether to use it should be discussed with a doctor. Sychkova warns that chasing a perfectly flat curve or cutting out carbohydrates may lead to eating disorders and nutrient shortfalls.\n\nIf a doctor considers it worthwhile, 2–4 weeks may be enough to learn how the body responds. Sychkova stresses that the device is first and foremost a medical tool for diabetes control, and that healthy people using it without a prescription may experience anxiety. The article reports no further developments; its main advice is to coordinate any use with a physician.",
-    "kk": "2026 жылғы 7 қарашада тюмендік «МегаТюмень» басылымы үздіксіз глюкоза мониторингі (CGM) датчиктері туралы материал жариялады. Мұндай датчиктер диабеті жоқ, салмағын азайтқысы келетін адамдар арасында барған сайын көбірек кездесуде. Бастапқыда бұл технология қант диабеті бар пациенттерге арналған.\n\nАвтор Ирина Труханович терапевт және нутрициолог, Ресейдің ғылыми медициналық терапевттер қоғамының мүшесі Вероника Сычковадан пікір алған. Оның айтуынша, шағын датчик иыққа бекітіледі, жасушааралық сұйықтықтағы глюкозаны тәулік бойы өлшейді және нәтижелерді смартфонға график түрінде жібереді.\n\nДәрігер негізгі пайданы әр адамның ағзасы нақты тағамға қалай жауап беретінін түсінуден көреді. Сұлы ботқасы, қарақұмық, жеміс смузиі немесе құрма батончиктері әр адамда қант деңгейін түрліше көтеруі мүмкін. Кешкі астан кейін 15 минут серуендеу глюкоза шыңын жұмсартуы, ал almaға қосылған бір уыс жаңғақ реакцияны тегістеуі мүмкін. Дегенмен биік шың өзінен-өзі өнімді зиянды етпейді: порция мөлшері, тағамның құрамы және физикалық белсенділік те көрсеткіштерге әсер етеді.\n\nДатчик майды жаққанда да, зат алмасуды жылдамдатпайды да; артық тамақтанса, график тегіс болғанның өзінде салмақ өсуі мүмкін. Диабеті жоқ адамдар үшін құрылғының өзі салмақ түсіруге көмектесетінін дәлелдейтін сенімді деректер әзірге жеткіліксіз. Преддиабетте бұл міндетті зерттеу саналмайды, ал оны қолдану туралы дәрігермен кеңесу керек. Сычкова мүлдем тегіс қисыққа ұмтылу немесе көмірсуларды толық алып тастау тамақтану бұзылысына және қоректік заттардың жетіспеушілігіне әкелуі мүмкін деп ескертеді.\n\nДәрігер қажет деп тапса, ағза реакциясын үйрену үшін 2–4 апта жеткілікті болуы мүмкін. Сычкова датчиктің ең алдымен диабетті бақылауға арналған медициналық құрал екенін, ал дәрігер тағайындамай пайдаланған сау адамдарда алаңдаушылық туындауы мүмкін екенін атап өтеді. Материалда одан әрі оқиғалар туралы айтылмайды; негізгі кеңес — кез келген қолдануды дәрігермен келісу.",
-    "de": "Am 7. November 2026 veröffentlichte das Tyumener Portal „MegaTyumen“ einen Beitrag über Sensoren zur kontinuierlichen Glukosemessung (CGM), die immer häufiger bei Menschen ohne Diabetes zu sehen sind, die abnehmen möchten. Die Technik wurde ursprünglich für Patientinnen und Patienten mit Diabetes entwickelt.\n\nDie Autorin Irina Trukhanovich sprach mit der Therapeutin und Ernährungsberaterin Veronika Sychkova, Mitglied der Russischen Wissenschaftlichen Medizinischen Gesellschaft der Therapeuten. Laut ihr sitzt der kleine Sensor an der Schulter, misst rund um die Uhr die Glukose in der Gewebeflüssigkeit und überträgt die Werte als Kurven auf ein Smartphone.\n\nDen Hauptnutzen sieht die Expertin darin, zu verstehen, wie der Körper einer bestimmten Person auf einzelne Lebensmittel reagiert. Haferflocken, Buchweizen, Obstsmoothies oder Dattelriegel können den Zucker bei verschiedenen Menschen unterschiedlich stark ansteigen lassen. Ein 15-minütiger Spaziergang nach dem Abendessen kann den Glukosegipfel abschwächen, und eine Handvoll Nüsse zum Apfel kann die Reaktion gleichmäßiger machen. Ein hoher Gipfel allein macht ein Lebensmittel jedoch nicht schädlich, denn auch Portionsgröße, Zusammensetzung der Mahlzeit und Bewegung beeinflussen die Werte.\n\nDer Sensor verbrennt weder Fett noch beschleunigt er den Stoffwechsel; wer viel isst, kann trotz flacher Kurven weiter zunehmen. Für Menschen ohne Diabetes gibt es bislang nicht genug überzeugende Belege dafür, dass das Gerät allein beim Abnehmen hilft. Bei Prädiabetes gilt er nicht als Pflichtuntersuchung; ob er sinnvoll ist, sollte mit einer Ärztin oder einem Arzt besprochen werden. Sychkova warnt, dass das Streben nach einer perfekt glatten Kurve oder der Verzicht auf Kohlenhydrate zu Essstörungen und Nährstoffmangel führen kann.\n\nHält ein Arzt die Beobachtung für sinnvoll, können laut Beitrag 2–4 Wochen genügen, um die Reaktionen des Körpers kennenzulernen. Sychkova betont, das Gerät sei in erster Linie ein medizinisches Instrument zur Diabeteskontrolle, und Gesunde ohne Verordnung könnten dadurch Ängste entwickeln. Weitere Entwicklungen nennt der Artikel nicht; sein wichtigster Rat lautet, jede Nutzung mit einem Arzt abzustimmen.",
-    "es": "El 7 de noviembre de 2026, el medio tyumenés MegaTyumen publicó un texto sobre los sensores de monitorización continua de glucosa (CGM), cada vez más visibles en personas sin diabetes que quieren adelgazar. Esta tecnología se desarrolló originalmente para pacientes con diabetes.\n\nLa autora, Irina Trujanóvich, habló con la terapeuta y nutricionista Verónika Sychkova, miembro de la Sociedad Científica Médica Rusa de Terapeutas. Según la especialista, el pequeño sensor se coloca en el hombro, mide la glucosa del líquido intercelular las 24 horas y envía los datos a un teléfono inteligente en forma de gráficos.\n\nLa experta ve el principal beneficio en entender cómo reacciona el organismo de cada persona ante determinados alimentos. La avena, el trigo sarraceno, los batidos de fruta o las barritas de dátil pueden elevar el azúcar de forma distinta según el individuo. Un paseo de 15 minutos después de cenar puede suavizar el pico de glucosa, y un puñado de frutos secos junto a una manzana puede hacer la respuesta más gradual. Sin embargo, un pico alto no vuelve dañino por sí solo a un alimento, ya que también influyen el tamaño de la porción, la composición del plato y la actividad física.\n\nEl sensor no quema grasa ni acelera el metabolismo; quien come en exceso puede seguir ganando peso aunque las gráficas sean planas. Para las personas sin diabetes, todavía no hay pruebas convincentes de que el aparato ayude a adelgazar por sí solo. En el prediabetes no es una prueba obligatoria, y conviene consultar con el médico si usarlo tiene sentido. Sychkova advierte de que buscar una curva perfectamente plana o eliminar los carbohidratos puede derivar en trastornos de la conducta alimentaria y carencias de nutrientes.\n\nSi el médico lo considera útil, según el texto 2–4 semanas pueden bastar para conocer las reacciones del cuerpo. Sychkova subraya que el dispositivo es, ante todo, una herramienta médica para controlar la diabetes, y que las personas sanas que lo usen sin receta podrían sentir ansiedad. El artículo no informa de novedades posteriores; su consejo principal es coordinar cualquier uso con un médico."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Срок использования датчика, если врач сочтёт нужным",
-      "en": "Suggested wear period if a doctor considers it useful",
-      "kk": "Дәрігер қажет деп тапқан жағдайда датчиктің мерзімі",
-      "de": "Genannter Tragezeitraum, falls ein Arzt es für sinnvoll hält",
-      "es": "Periodo de uso sugerido si el médico lo considera útil"
-     },
-     "v": {
-      "ru": "2–4 недели",
-      "en": "2–4 weeks",
-      "kk": "2–4 апта",
-      "de": "2–4 Wochen",
-      "es": "2–4 semanas"
-     }
-    },
-    {
-     "k": {
-      "ru": "Прогулка после ужина, которая может смягчить пик глюкозы",
-      "en": "Walk after dinner that may soften the glucose peak",
-      "kk": "Кешкі астан кейінгі серуен, ол глюкоза шыңын жұмсартуы мүмкін",
-      "de": "Spaziergang nach dem Abendessen, der den Glukosegipfel abschwächen kann",
-      "es": "Paseo después de cenar que puede suavizar el pico de glucosa"
-     },
-     "v": {
-      "ru": "15 минут",
-      "en": "15 minutes",
-      "kk": "15 минут",
-      "de": "15 Minuten",
-      "es": "15 minutos"
-     }
-    }
-   ]
-  },
-  {
-   "id": "n5Wbz9vYz01",
-   "cat": "events",
-   "stage": "campaign",
-   "date": "2026-11-07",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "На Кубани с 9 по 15 ноября пройдет неделя профилактики сахарного диабета",
-    "en": "Diabetes prevention week to be held in Kuban from 9 to 15 November",
-    "kk": "Кубаньда 9-нан 15 қарашаға дейін қант диабетінің алдын алу аптасы өтеді",
-    "de": "In der Region Kuban findet vom 9. bis 15. November eine Woche der Diabetesprävention statt",
-    "es": "En Kubán se celebrará del 9 al 15 de noviembre una semana de prevención de la diabetes"
-   },
-   "text": {
-    "ru": "В Краснодарском крае пройдет неделя профилактики сахарного диабета.",
-    "en": "A diabetes prevention week will take place in the Krasnodar Krai region.",
-    "kk": "Краснодар өлкесінде қант диабетінің алдын алу аптасы өтеді.",
-    "de": "In der Region Krasnodar findet eine Woche zur Diabetesprävention statt.",
-    "es": "En el krai de Krasnodar se celebrará una semana de prevención de la diabetes."
-   },
-   "url": "https://brief24.ru/krasnodar/2026/11/7/310643",
-   "src": "Бриф24",
-   "photoQuery": "blood glucose test",
-   "body": {
-    "ru": "Минздрав Краснодарского края сообщил, что с 9 по 15 ноября в регионе пройдет неделя борьбы с сахарным диабетом. В течение семи дней медики планируют рассказывать жителям, как предупредить развитие заболевания и избежать его осложнений. Информацию распространила пресс-служба регионального ведомства; материал «Бриф24» вышел 7 ноября.\n\nВ программе недели — выезды мобильного центра скрининговой диагностики и занятия в школе здоровья. Тема занятий: «Профилактика сахарного диабета и его осложнений». Врачи особенно советуют следить за уровнем сахара в крови, питанием и физической активностью.\n\nГлавный внештатный специалист по медицинской профилактике Минздрава Кубани Андрей Сахаров напомнил, что регулярные обследования помогают вовремя заметить нарушения и снизить риск развития болезни. Мероприятия пройдут в Краснодаре, Новороссийске, а также в Славянском, Тимашевском и Тбилисском районах.\n\nВ сообщении не уточняются адреса площадок, часы их работы, перечень обследований и ожидаемое число участников. Подробности по конкретным точкам, судя по тексту, пока не опубликованы, поэтому их стоит искать в последующих официальных сообщениях регионального Минздрава. Текст также не содержит оценок результатов программы, поскольку он описывает запланированные мероприятия.",
-    "en": "The regional Ministry of Health of Krasnodar Krai announced that a week devoted to fighting diabetes will run in the region from November 9 to 15. Over those seven days, medical staff plan to explain to residents how to prevent the disease and avoid its complications. The information came from the ministry's press service and was published by the Brief24 outlet on November 7.\n\nThe programme includes trips by a mobile screening diagnostic centre and sessions at a health school. The lessons are titled \"Prevention of diabetes and its complications.\" Doctors particularly urge attention to monitoring blood sugar levels, nutrition and physical activity.\n\nAndrei Sakharov, the chief freelance specialist for medical prevention at the Kuban health ministry, noted that regular check-ups help detect disorders in time and reduce the risk of developing the disease. Events will take place in Krasnodar and Novorossiysk, as well as in the Slavyansky, Timashevsky and Tbilissky districts.\n\nThe report does not give exact addresses, opening hours of the sites, the list of tests offered, or how many people are expected to take part. Further details on individual sites are therefore not available in the article, and readers would need to check later official announcements from the regional health ministry. The report also contains no assessment of the programme's results, since it describes planned events only.",
-    "kk": "Краснодар өлкесінің денсаулық сақтау министрлігі 9-нан 15-не қарашаға дейін өлкеде қант диабетімен күресуге арналған апталық өтетінін хабарлады. Осы жеті күн ішінде медицина қызметкерлері тұрғындарға ауруды қалай алдын алуға және оның асқынуларынан қалай сақтанулары керектігін түсіндіруді жоспарлап отыр. Ақпаратты министрліктің баспасөз қызметі таратты, ал Brief24 басылымы материалды 7 қарашада жариялады.\n\nАптаның бағдарламасына скрининг диагностикасының жылжымалы орталығының шығулары және денсаулық мектебіндегі сабақтар кіреді. Сабақтардың тақырыбы — «Қант диабетінің және оның асқынуларының алдын алу». Дәрігерлер қан қантының деңгейін бақылауға, тамақтануға және дене белсенділігіне ерекше назар аударуға кеңес береді.\n\nКраснодар өлкесі денсаулық сақтау министрлігінің медициналық профилактика жөніндегі бас сырттай маманы Андрей Сахаров тұрақты тексерулер бұзылыстарды уақтылы байқауға және ауру туу қаупін азайтуға көмектесетінін атап өтті. Іс-шаралар Краснодарда, Новороссийскте, сондай-ақ Славянск, Тимашевск және Тбилисск аудандарында өтеді.\n\nХабарламада нақты мекенжайлар, алаңдардың жұмыс уақыты, ұсынылатын тексерулердің тізімі және қанша адам қатысуы күтіліп отырғаны көрсетілмеген. Сондықтан әрбір алаң туралы толық мәліметті мақаладан таба алмайсыз, оны аймақтық денсаулық сақтау министрлігінің кейінгі ресми хабарламаларынан іздеу керек. Мәтінде бағдарламаның нәтижелеріне баға берілмеген, себебі ол жоспарланған іс-шараларды ғана сипаттайды.",
-    "de": "Das regionale Gesundheitsministerium der Region Krasnodar hat angekündigt, dass vom 9. bis 15. November eine Woche im Kampf gegen Diabetes stattfindet. In diesen sieben Tagen wollen medizinische Fachkräfte den Einwohnern erklären, wie sie der Erkrankung vorbeugen und Folgeschäden vermeiden können. Die Information stammt von der Pressestelle des Ministeriums; das Portal Brief24 veröffentlichte die Meldung am 7. November.\n\nZum Programm gehören Einsätze eines mobilen Zentrums für Screening-Diagnostik sowie Unterrichtseinheiten an einer Gesundheitsschule. Das Thema lautet „Vorbeugung von Diabetes und seinen Komplikationen“. Ärzte raten besonders dazu, den Blutzuckerspiegel im Blick zu behalten und auf Ernährung sowie körperliche Aktivität zu achten.\n\nAndrej Sacharow, leitender nicht fest angestellter Fachmann für medizinische Prävention im Gesundheitsministerium der Region Kuban, betonte, dass regelmäßige Untersuchungen helfen, Störungen rechtzeitig zu erkennen und das Erkrankungsrisiko zu senken. Die Veranstaltungen finden in Krasnodar und Noworossijsk sowie in den Bezirken Slawjansk, Timaschewsk und Tbilissk statt.\n\nDer Bericht nennt weder genaue Adressen noch Öffnungszeiten der Standorte oder die Liste der angebotenen Untersuchungen. Auch wie viele Menschen teilnehmen sollen, geht aus dem Artikel nicht hervor. Weitere Einzelheiten zu den Standorten sind daher nur in späteren offiziellen Mitteilungen des regionalen Gesundheitsministeriums zu erwarten. Eine Bewertung der Ergebnisse enthält der Text nicht, da er lediglich geplante Veranstaltungen beschreibt.",
-    "es": "El Ministerio de Salud regional de la región de Krasnodar anunció que del 9 al 15 de noviembre se celebrará una semana dedicada a combatir la diabetes. Durante esos siete días, el personal sanitario prevé explicar a los vecinos cómo prevenir la enfermedad y evitar sus complicaciones. La información procede del servicio de prensa del ministerio, y el medio Brief24 la publicó el 7 de noviembre.\n\nEl programa incluye desplazamientos de un centro móvil de diagnóstico de cribado y sesiones en una escuela de salud. Las clases llevan por título «Prevención de la diabetes y sus complicaciones». Los médicos insisten especialmente en vigilar el nivel de azúcar en sangre, la alimentación y la actividad física.\n\nAndrei Sajárov, especialista principal no adscrito en prevención médica del ministerio de salud de Kubán, recordó que los exámenes periódicos ayudan a detectar alteraciones a tiempo y a reducir el riesgo de contraer la enfermedad. Las actividades se realizarán en Krasnodar y Novorossiysk, así como en los distritos de Slaviansk, Timashevsk y Tbilisi.\n\nLa noticia no indica las direcciones exactas, los horarios de los puntos, la lista de pruebas que se ofrecerán ni cuántas personas se espera que participen. Los detalles sobre cada sede tendrán que buscarse en futuros comunicados oficiales del ministerio regional de salud. El texto tampoco evalúa resultados, porque solo describe actividades previstas."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Период",
-      "en": "Dates",
-      "kk": "Мерзім",
-      "de": "Zeitraum",
-      "es": "Fechas"
-     },
-     "v": {
-      "ru": "9–15 ноября",
-      "en": "November 9–15",
-      "kk": "9–15 қараша",
-      "de": "9.–15. November",
-      "es": "9–15 de noviembre"
-     }
-    },
-    {
-     "k": {
-      "ru": "Длительность",
-      "en": "Duration",
-      "kk": "Ұзақтығы",
-      "de": "Dauer",
-      "es": "Duración"
-     },
-     "v": {
-      "ru": "7 дней",
-      "en": "7 days",
-      "kk": "7 күн",
-      "de": "7 Tage",
-      "es": "7 días"
-     }
-    },
-    {
-     "k": {
-      "ru": "Места проведения",
-      "en": "Locations",
-      "kk": "Өткізу орындары",
-      "de": "Orte",
-      "es": "Lugares"
-     },
-     "v": {
-      "ru": "Краснодар, Новороссийск и 3 района края",
-      "en": "Krasnodar, Novorossiysk and 3 districts of the region",
-      "kk": "Краснодар, Новороссийск және өлкенің 3 ауданы",
-      "de": "Krasnodar, Noworossijsk und 3 Bezirke der Region",
-      "es": "Krasnodar, Novorossiysk y 3 distritos de la región"
-     }
-    }
-   ],
-   "photo": {
-    "url": "assets/photos/dia-community-group.jpg",
-    "credit": "DIA news",
-    "license": "",
-    "link": "",
-    "alt": "Люди с датчиками глюкозы общаются за столом"
-   }
-  },
-  {
-   "id": "nMVU_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-07",
-   "added": "2026-11-08T03:03:37.668Z",
-   "title": {
-    "ru": "С 5 лет с диабетом: кто болеет в Израиле и как это лечат по-новому",
-    "en": "Diabetes from age 5: who is affected in Israel and how it is now treated",
-    "kk": "5 жастан бастап диабет: Израильде кімдер ауырады және оны қалай жаңаша емдейді",
-    "de": "Diabetes ab 5 Jahren: Wer in Israel betroffen ist und wie heute behandelt wird",
-    "es": "Diabetes desde los 5 años: quién la padece en Israel y cómo se trata ahora"
-   },
-   "text": {
-    "ru": "Материал рассказывает о том, кто страдает диабетом в Израиле, начиная с 5 лет, и о новых подходах к лечению.",
-    "en": "An article looks at who in Israel has diabetes, starting from age 5, and at newer approaches to treatment.",
-    "kk": "Материалда Израильде 5 жастан бастап диабетпен кім ауыратыны және емдеудің жаңа тәсілдері туралы айтылады.",
-    "de": "Der Artikel beschreibt, wer in Israel ab 5 Jahren an Diabetes erkrankt, und neue Behandlungsansätze.",
-    "es": "El artículo describe quién en Israel padece diabetes desde los 5 años y los nuevos enfoques de tratamiento."
-   },
-   "url": "https://www.vesty.co.il/main/article/sj9lqka6fx",
-   "src": "Vesty.co.il",
-   "photoQuery": "child checking blood sugar",
-   "body": {
-    "ru": "Израильский портал Vesty, перепечатывая материал Ynet от 7 ноября 2026 года, рассказывает о диабете на примере Ран Гранота, которому сейчас 30 лет. Диагноз «диабет 1-го типа» ему поставили в пять лет, после нескольких недель симптомов, смысл которых родители тогда не распознали. Состояние резко ухудшилось, и ребенка срочно доставили в больницу «Вольфсон» в Холоне с диабетическим кетоацидозом, опасным для жизни осложнением.\n\nПо данным минздрава, в 2024 году в Израиле с диабетом жили 708 553 человека в возрасте от 2 лет, то есть 7,5% населения. С возрастом доля больных растет: 1,3% среди 18–44 лет, 12,4% среди 45–64 лет, 33,4% среди 65–84 лет и 35,3% среди тех, кому больше 85. Среди израильтян 20–79 лет показатель составляет 10,1%. Это выше средней цифры по Европе (8%), но ниже, чем в Китае, США и Египте.\n\nРазрыв заметен и по социальному положению, и по сектору населения. Среди людей 55–64 лет с низким социально-экономическим статусом диабет выявлен у 25,7%, а среди более обеспеченных сверстников — у 11,3%. В арабском секторе им болеют 12,7% людей 45–54 лет, тогда как среди евреев того же возраста — 6%. Специалисты связывают разницу с доступностью здорового питания и информации, поэтому для групп риска создаются специальные программы.\n\nПрофессор Эльдор Рой Эльдор из института эндокринологии больницы «Ихилов» объясняет, что диабет пока нельзя вылечить, но его можно эффективно контролировать. Препараты группы SGLT2, такие как Jardiance и Forxiga, по его словам, могут замедлять развитие диабетической болезни почек независимо от уровня сахара. При диабете 1-го типа одним из перспективных направлений остается клеточная терапия, цель которой — вернуть организму способность самостоятельно вырабатывать инсулин. Главным барьером остается высокая цена новых лекарств, однако профессор ожидает, что со временем она снизится.",
-    "en": "Israeli outlet Vesty, republishing a Ynet report from 7 November 2026, looks at diabetes through the story of Ran Granot, who is now 30. He was diagnosed with type 1 diabetes at age five, after several weeks of symptoms his parents did not recognise at the time. His condition deteriorated sharply, and he was rushed to Wolfson Hospital in Holon with diabetic ketoacidosis, a life-threatening complication.\n\nAccording to the Health Ministry, 708,553 people aged 2 and over had diabetes in Israel in 2024, equal to 7.5% of the population. Prevalence rises with age: 1.3% of people aged 18–44, 12.4% of those aged 45–64, 33.4% of those aged 65–84, and 35.3% of those over 85. Among Israelis aged 20–79 the rate is 10.1%, above the European average of 8%, but below China, the United States and Egypt.\n\nThe gaps also follow social and ethnic lines. Among people aged 55–64 with low socioeconomic status, 25.7% have diabetes, compared with 11.3% of their better-off peers. In the Arab sector, 12.7% of people aged 45–54 have the disease, versus 6% of Jews of the same age. Experts link the difference to unequal access to healthy food and information, so special programmes are being built for at-risk groups.\n\nProfessor Eldor Roy Eldor of the endocrinology institute at Ichilov Hospital says diabetes cannot yet be cured but can be effectively controlled. SGLT2 drugs such as Jardiance and Forxiga, he says, may slow diabetic kidney disease regardless of blood sugar level. For type 1 diabetes, cell therapy remains one of the most promising directions, aiming to restore the body's ability to produce its own insulin. The high price of new medicines remains a major obstacle, though the professor expects prices to fall over time.",
-    "kk": "Израильдік Vesty порталы (2026 жылғы 7 қарашадағы Ynet материалын қайта жариялап) диабетті 30 жастағы Ран Гранот басынан өткен оқиға арқылы баяндайды. Оған 5 жасында 1-типті диабет диагнозы қойылған; бұған дейін бірнеше апта бойы ата-анасы мәнін түсіне алмаған белгілер болған. Жағдайы күрт нашарлаған соң, оны Холондағы «Вольфсон» ауруханасына диабеттік кетоацидоз белгісімен шұғыл жеткізген; бұл өмірге қауіп төндіретін асқыныс.\n\nДенсаулық сақтау министрлігінің мәліметінше, 2024 жылы Израильде 2 жастан асқан 708 553 адамда диабет болған, бұл халықтың 7,5%-ы. Ауру жасқа қарай артады: 18–44 жастағыларда — 1,3%, 45–64 жастағыларда — 12,4%, 65–84 жастағыларда — 33,4%, 85-тен асқандарда — 35,3%. 20–79 жас аралығындағы израильдіктерде көрсеткіш 10,1%; бұл Еуропа орташасынан (8%) жоғары, бірақ Қытай, АҚШ және Мысырдан төмен.\n\nАйырмашылық әлеуметтік жағдай мен халық секторына қарай да байқалады. Әлеуметтік-экономикалық мәртебесі төмен 55–64 жастағыларда диабет 25,7%-да анықталған, ал жақсы жағдайдағы құрдастарында — 11,3%. Араб секторында 45–54 жастағылардың 12,7%-ы ауырады, ал сол жастағы еврейлерде — 6%. Мамандар айырмашылықты сау тамақ пен ақпаратқа қолжетімділіктің теңсіздігімен байланыстырады, сондықтан қауіп тобы үшін арнайы бағдарламалар дайындалуда.\n\n«Ихилов» ауруханасы эндокринология институтының профессоры Элдор Рой Элдор диабетті әзірге толық емдеу мүмкін еместігін, бірақ тиімді бақылауға болатынын айтады. Оның сөзінше, Jardiance және Forxiga сияқты SGLT2 тобындағы дәрілер қан қантының деңгейіне тәуелсіз диабеттік бүйрек ауруының дамуын баяулата алады. 1-типті диабет үшін жасушалық терапия ең перспективалы бағыттардың бірі болып қалады; оның мақсаты — ағзаның өз инсулинін өндіру қабілетін қалпына келтіру. Жаңа дәрілердің қымбаттығы басты кедергі болып отыр, дегенмен профессор уақыт өте бағасы төмендейтінін күтеді.",
-    "de": "Das israelische Portal Vesty, das einen Bericht von Ynet vom 7. November 2026 übernimmt, zeigt Diabetes anhand der Geschichte von Ran Granot, der heute 30 Jahre alt ist. Bei ihm wurde im Alter von fünf Jahren Typ-1-Diabetes diagnostiziert, nachdem über mehrere Wochen Beschwerden aufgetreten waren, die seine Eltern damals nicht einordnen konnten. Als sich sein Zustand stark verschlechterte, wurde er mit einer diabetischen Ketoazidose, einer lebensbedrohlichen Komplikation, in das Wolfson-Krankenhaus in Holon gebracht.\n\nLaut dem Gesundheitsministerium lebten 2024 in Israel 708.553 Menschen ab zwei Jahren mit Diabetes, das entspricht 7,5 Prozent der Bevölkerung. Die Häufigkeit steigt mit dem Alter: Betroffen sind 1,3 Prozent der 18- bis 44-Jährigen, 12,4 Prozent der 45- bis 64-Jährigen, 33,4 Prozent der 65- bis 84-Jährigen und 35,3 Prozent der über 85-Jährigen. Bei Israelis zwischen 20 und 79 Jahren liegt der Wert bei 10,1 Prozent – über dem europäischen Durchschnitt von 8 Prozent, aber unter den Werten in China, den USA und Ägypten.\n\nDie Unterschiede zeigen sich auch zwischen sozialen Schichten und Bevölkerungsgruppen. Bei 55- bis 64-Jährigen mit niedrigem sozioökonomischem Status wurde Diabetes bei 25,7 Prozent festgestellt, bei gleichaltrigen Wohlhabenderen bei 11,3 Prozent. Im arabischen Sektor haben 12,7 Prozent der 45- bis 54-Jährigen die Krankheit, bei Juden derselben Altersgruppe sind es 6 Prozent. Als Ursache nennen Fachleute den ungleichen Zugang zu gesunder Ernährung und Information; für Risikogruppen werden deshalb spezielle Programme entwickelt.\n\nProfessor Eldor Roy Eldor vom Ichilov-Krankenhaus erklärt, Diabetes sei derzeit nicht heilbar, wohl aber wirksam kontrollierbar. SGLT2-Hemmer wie Jardiance und Forxiga könnten die Entwicklung einer diabetischen Nierenerkrankung verlangsamen, unabhängig vom Blutzuckerspiegel. Bei Typ-1-Diabetes gilt die Zelltherapie als eine der vielversprechendsten Forschungsrichtungen, mit dem Ziel, dass der Körper wieder selbst Insulin bildet. Die hohen Preise neuer Medikamente bleiben jedoch ein großes Hindernis; der Professor erwartet, dass sie mit der Zeit sinken.",
-    "es": "El portal israelí Vesty, que recoge un reportaje de Ynet publicado el 7 de noviembre de 2026, aborda la diabetes a través de la historia de Ran Granot, que hoy tiene 30 años. A los cinco años le diagnosticaron diabetes tipo 1, tras varias semanas de síntomas que sus padres no supieron interpretar en ese momento. Cuando su estado empeoró de forma brusca, fue trasladado de urgencia al hospital Wolfson de Holón con cetoacidosis diabética, una complicación que pone en peligro la vida.\n\nSegún el Ministerio de Salud, en 2024 había en Israel 708.553 personas de 2 años o más con diabetes, lo que equivale al 7,5 % de la población. La prevalencia aumenta con la edad: afecta al 1,3 % de las personas de 18 a 44 años, al 12,4 % de las de 45 a 64, al 33,4 % de las de 65 a 84 y al 35,3 % de las mayores de 85. Entre los israelíes de 20 a 79 años la cifra es del 10,1 %, por encima de la media europea (8 %), pero por debajo de China, Estados Unidos y Egipto.\n\nLas diferencias también siguen líneas sociales y étnicas. Entre las personas de 55 a 64 años con bajo nivel socioeconómico, el 25,7 % tiene diabetes, frente al 11,3 % de sus coetáneos con mejor situación económica. En el sector árabe, el 12,7 % de las personas de 45 a 54 años padece la enfermedad, mientras que entre los judíos de esa misma edad la cifra es del 6 %. Entre las causas se citan el acceso desigual a alimentos saludables y a la información, por lo que se diseñan programas específicos para los grupos de riesgo.\n\nEl profesor Eldor Roy Eldor, del instituto de endocrinología del hospital Ichilov, explica que la diabetes todavía no tiene cura, pero sí puede controlarse con eficacia. Según él, fármacos del grupo SGLT2, como Jardiance y Forxiga, pueden frenar la enfermedad renal diabética independientemente del nivel de azúcar en sangre. En la diabetes tipo 1, la terapia celular es una de las líneas de investigación más prometedoras, con el objetivo de que el organismo vuelva a producir su propia insulina. El alto precio de los nuevos medicamentos sigue siendo un obstáculo importante, aunque el profesor prevé que baje con el tiempo."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Люди с диабетом в Израиле (2024, от 2 лет)",
-      "en": "People with diabetes in Israel (2024, aged 2+)",
-      "kk": "Израильде диабеті бар адамдар (2024, 2 жастан асқандар)",
-      "de": "Menschen mit Diabetes in Israel (2024, ab 2 Jahren)",
-      "es": "Personas con diabetes en Israel (2024, de 2 años o más)"
-     },
-     "v": {
-      "ru": "708 553 человека (7,5% населения)",
-      "en": "708,553 people (7.5% of the population)",
-      "kk": "708 553 адам (халықтың 7,5%-ы)",
-      "de": "708.553 Menschen (7,5 % der Bevölkerung)",
-      "es": "708.553 personas (7,5 % de la población)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Доля людей с диабетом в возрасте 65–84 лет",
-      "en": "Share of people with diabetes aged 65–84",
-      "kk": "65–84 жастағы диабеті бар адамдардың үлесі",
-      "de": "Anteil der Menschen mit Diabetes im Alter von 65–84 Jahren",
-      "es": "Proporción de personas con diabetes de 65 a 84 años"
-     },
-     "v": {
-      "ru": "33,4%",
-      "en": "33.4%",
-      "kk": "33,4%",
-      "de": "33,4 %",
-      "es": "33,4 %"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u_8gG2PDqpktY",
-    "url": "https://images.unsplash.com/photo-1685485276223-0bb0226dcca8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBjaGVja2luZyUyMGJsb29kJTIwc3VnYXJ8ZW58MXwwfHx8MTc5NDE5MzMzNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "isens usa",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-cell-phone-8gG2PDqpktY?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person sitting at a table with a cell phone"
-   }
-  },
-  {
-   "id": "nVHcz9vYz01",
-   "cat": "access",
-   "date": "2026-11-06",
-   "added": "2026-11-09T03:02:09.070Z",
-   "title": {
-    "ru": "Врач отказал в наблюдении брянчанке с диабетом: замену искали через прокуратуру",
-    "en": "Doctor refused monitoring for Bryansk woman with diabetes; replacement sought via prosecutor",
-    "kk": "Брянскідегі диабеті бар әйелге дәрігер бақылаудан бас тартты: ауыстыру прокуратура арқылы іздестірілді",
-    "de": "Arzt verweigerte Betreuung einer Frau mit Diabetes aus Brjansk: Ersatz wurde über die Staatsanwaltschaft gesucht",
-    "es": "Un médico se negó a seguir a una mujer con diabetes de Brianks; la sustitución se buscó a través de la fiscalía"
-   },
-   "text": {
-    "ru": "Врач отказался наблюдать пациентку с диабетом из Брянска, и для поиска замены обратились в прокуратуру.",
-    "en": "A doctor refused to monitor a patient with diabetes from Bryansk, and the prosecutor's office was approached to find a replacement.",
-    "kk": "Дәрігер Брянскіден келген диабеті бар науқасты бақылаудан бас тартты, ауыстыруды табу үшін прокуратураға жүгінді.",
-    "de": "Ein Arzt lehnte die Betreuung einer Patientin mit Diabetes aus Brjansk ab; zur Suche nach einem Ersatz wurde die Staatsanwaltschaft eingeschaltet.",
-    "es": "Un médico se negó a atender a una paciente con diabetes de Brianks, y se recurrió a la fiscalía para encontrar un sustituto."
-   },
-   "url": "https://bryansktoday.ru/article/274944",
-   "src": "Bryansktoday",
-   "photoQuery": "doctor consultation patient",
-   "photo": {
-    "id": "u_tl447mekwuQ",
-    "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwY29uc3VsdGF0aW9uJTIwcGF0aWVudHxlbnwxfDB8fHwxNzk0MTkzMzM1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "id": "u_mbL91Lg56zc",
+    "url": "https://images.unsplash.com/photo-1631048005681-79a19681e4fd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
     "credit": "National Cancer Institute",
     "license": "Unsplash",
-    "link": "https://unsplash.com/photos/doctor-talking-to-patient-in-clinic-tl447mekwuQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "A smiling doctor in a white coat talking to a patient in a clinic"
-   },
-   "body": {
-    "ru": "6 ноября 2026 года брянское издание «БрянскToday» рассказало о жительнице Фокинского района Брянска, которая болеет сахарным диабетом и нуждается в постоянном медицинском наблюдении. Однако её лечащий врач отказался продолжать наблюдение, а замену ему так и не нашли.\n\nЖенщина обратилась в прокуратуру. Проверка показала, что руководитель медицинской организации не решил вопрос со сменой врача, и это нарушило требования законодательства об охране здоровья. Прокуратура направила главному врачу учреждения официальное представление с требованием устранить нарушения.\n\nПосле рассмотрения этого документа пациентке назначили нового лечащего врача-эндокринолога, и теперь она снова находится под медицинским наблюдением. Таким образом, замену удалось организовать только после вмешательства прокуратуры.\n\nВ материале не назван ни врач, ни медицинская организация, не сказано, как долго пациентка оставалась без наблюдения, и не упоминаются меры в отношении должностных лиц. Редакция также дала ссылку на отдельную публикацию, где говорится, что терапевтам хотят разрешить удалённо следить за давлением и уровнем сахара.",
-    "en": "On 6 November 2026, the Bryansk outlet Bryansktoday reported on a woman from the Fokinsky district of Bryansk who has diabetes and needs constant medical supervision. Her treating doctor, however, refused to keep observing her, and no replacement had been found.\n\nShe turned to the prosecutor's office. A check showed that the head of her medical organization had not resolved the question of changing physicians, which breached health-protection legislation. The prosecutors then sent the institution's chief physician a formal notice demanding that the violations be corrected.\n\nAfter that notice was considered, the patient was assigned a new treating endocrinologist, and she is again under medical supervision. So the replacement came only after the case went through the prosecutor's office.\n\nThe report does not name the doctor or the medical facility, does not say how long the patient went without follow-up care, and does not mention any measures against officials. The outlet also linked to a separate item noting that there are plans to allow therapists to monitor blood pressure and blood sugar remotely.",
-    "kk": "2026 жылдың 6 қарашасында «БрянскToday» басылымы Брянск қаласының Фокин ауданында тұратын, қант диабетімен ауыратын және үнемі медициналық бақылауды қажет ететін әйел туралы хабарлады. Алайда оны емдеп жүрген дәрігер бақылауын жалғастырудан бас тартты, ал оның орнына басқа дәрігер табылмаған.\n\nӘйел прокуратураға жүгінді. Тексеру барысында емдеу ұйымының басшысы дәрігерді ауыстыру мәселесін шешпегені анықталды, бұл денсаулық сақтау туралы заңнама талаптарын бұзды. Содан кейін прокуратура мекеме бас дәрігеріне бұзушылықтарды жою туралы прокурорлық ұсыну жіберді.\n\nБұл ұсыну қаралғаннан кейін науқасқа жаңа емдеуші эндокринолог тағайындалды, қазір ол қайтадан медициналық бақылауда. Сонымен дәрігер ауыстыру мәселесі тек прокуратура арқылы шешілді.\n\nМақалада дәрігердің де, медициналық ұйымның да аты аталмаған, науқастың қанша уақыт бақылаусыз қалғаны көрсетілмеген және лауазымды тұлғаларға қатысты шаралар туралы айтылмаған. Редакция терапевттерге қан қысымы мен қант деңгейін қашықтан бақылауға рұқсат беру жоспарланып отырғаны туралы басқа материалға сілтеме берген.",
-    "de": "Am 6. November 2026 berichtete das Bryansker Portal Bryansktoday über eine Frau aus dem Stadtbezirk Fokinski in Brjansk, die an Diabetes leidet und dauerhafte ärztliche Betreuung braucht. Ihr behandelnder Arzt lehnte es jedoch ab, sie weiter zu betreuen, und ein Ersatz war nicht gefunden worden.\n\nDie Frau wandte sich an die Staatsanwaltschaft. Eine Prüfung ergab, dass der Leiter der Medizineinrichtung die Frage eines Arztwechsels nicht geklärt hatte, was gegen die Gesetze zum Schutz der Gesundheit verstieß. Die Staatsanwaltschaft schickte dem Chefarzt der Einrichtung daraufhin eine formelle Aufforderung, die Verstöße zu beheben.\n\nNachdem diese Aufforderung geprüft worden war, wurde der Patientin eine neue behandelnde Endokrinologin bzw. ein neuer behandelnder Endokrinologe zugewiesen, und sie steht nun wieder unter ärztlicher Beobachtung. Der Arztwechsel kam also erst, nachdem der Fall die Staatsanwaltschaft erreicht hatte.\n\nDer Bericht nennt weder den Arzt noch die Medizineinrichtung, sagt nicht, wie lange die Patientin ohne Betreuung war, und erwähnt keine Maßnahmen gegen Verantwortliche. Das Portal verlinkte außerdem auf eine separate Meldung, wonach geplant ist, Therapeuten die Überwachung von Blutdruck und Blutzucker aus der Ferne zu erlauben.",
-    "es": "El 6 de noviembre de 2026, el medio regional Bryansktoday informó sobre una mujer del distrito Fokinski de Briansk que tiene diabetes y necesita supervisión médica constante. Sin embargo, su médico tratante se negó a seguir atendiéndola, y no se había encontrado a nadie que lo reemplazara.\n\nLa mujer acudió a la fiscalía. Una verificación determinó que el responsable de la organización médica no había resuelto la cuestión del cambio de médico, lo que incumplía la legislación de protección de la salud. Después, la fiscalía envió al médico jefe de la institución un requerimiento formal para que corrigiera las infracciones.\n\nTras revisarse ese requerimiento, a la paciente le asignaron un nuevo endocrinólogo tratante, y ahora vuelve a estar bajo supervisión médica. Así, el cambio de médico llegó solo después de que el caso pasara por la fiscalía.\n\nEl texto no nombra al médico ni al centro sanitario, no indica cuánto tiempo estuvo la paciente sin seguimiento y no menciona medidas contra los funcionarios. El medio también enlazó otra noticia que señala que se planea permitir a los terapeutas vigilar la presión arterial y el azúcar en sangre a distancia."
+    "link": "https://unsplash.com/photos/stained-cells-with-red-inclusions-mbL91Lg56zc?utm_source=dia_news&utm_medium=referral",
+    "alt": "Microscopic view of stained cells with prominent red inclusions in a blue field"
    }
   },
   {
-   "id": "nOXY_b2M9NQ",
-   "cat": "research",
+   "id": "cure-vertex-zimislecel",
+   "cat": "cure",
+   "stage": "phase3",
+   "date": "2026-11-02",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Островки из стволовых клеток Vertex: 10 из 12 пациентов без инсулина, следующая версия подойдёт для любой группы крови",
+    "en": "Vertex's stem-cell islets: 10 of 12 patients off insulin, and the next version is designed for any blood type",
+    "kk": "Vertex-тің бағаналы жасушалардан алынған аралшықтары: 12 пациенттің 10-ы инсулинсіз, келесі нұсқа кез келген қан тобына арналған",
+    "de": "Vertex' Stammzell-Inseln: 10 von 12 Patienten ohne Insulin, die nächste Version soll für jede Blutgruppe passen",
+    "es": "Islotes de células madre de Vertex: 10 de 12 pacientes sin insulina y la próxima versión, para cualquier grupo sanguíneo"
+   },
+   "text": {
+    "ru": "Зимислесел — выращенные в лаборатории островковые клетки. Через год после одной инфузии 10 из 12 участников не нуждались в инсулине. Сейчас Vertex делает ставку на VX-017 для людей с любой группой крови.",
+    "en": "Zimislecel consists of lab-grown islet cells. A year after a single infusion, 10 of 12 participants no longer needed insulin. Vertex is now prioritizing VX-017, designed for people of any blood type.",
+    "kk": "Зимислесел — зертханада өсірілген аралшық жасушалары. Бір рет енгізгеннен кейін бір жылдан соң 12 қатысушының 10-ына инсулин қажет болмады. Қазір Vertex кез келген қан тобындағы адамдарға арналған VX-017-ге басымдық береді.",
+    "de": "Zimislecel besteht aus im Labor gezüchteten Inselzellen. Ein Jahr nach einer einzigen Infusion brauchten 10 von 12 Teilnehmenden kein Insulin mehr. Vertex setzt nun vorrangig auf VX-017 für Menschen jeder Blutgruppe.",
+    "es": "El zimislecel son células de islote cultivadas en laboratorio. Un año después de una sola infusión, 10 de 12 participantes ya no necesitaban insulina. Vertex prioriza ahora VX-017, pensado para personas de cualquier grupo sanguíneo."
+   },
+   "body": {
+    "ru": "Зимислесел (ранее VX-880) компании Vertex Pharmaceuticals — первая полностью дифференцированная островковая терапия из стволовых клеток. Клетки выращивают в лаборатории, а не берут у доноров, поэтому их теоретически можно производить в нужном количестве. Их вводят однократно через воротную вену в печень на фоне стандартной иммуносупрессии.\n\nВ фазе 1/2 исследования FORWARD 12 человек с тяжёлыми гипогликемиями получили полную дозу — 0,8 миллиарда клеток. У всех клетки прижились: появился С-пептид, которого до лечения не было. Через год 10 из 12 участников обходились без инсулина, у всех HbA1c был ниже 7%, не было тяжёлых гипогликемий, а время в целевом диапазоне превышало 70%. Результаты опубликованы в New England Journal of Medicine в 2025 году.\n\nВ 2026 году план изменился. Зимислесел подходит только людям с группой крови A или AB, поэтому Vertex сделал приоритетом новую версию VX-017 — клетки от донора с группой крови O, «универсального донора». FDA разрешило её клинические испытания и присвоило статус Fast Track; компания рассчитывает перейти к основной (пивотальной) фазе в 2027 году. По оценке Vertex, это удвоит число людей, которым подходит терапия, — примерно с 60 до 120 тысяч. Исследование зимислесела при этом продолжается.\n\nВажно: пока это экспериментальное лечение для людей с тяжёлым течением диабета, и оно требует пожизненной иммуносупрессии. Первоначальный план подать документы на регистрацию в 2026 году компания пересматривает.",
+    "en": "Zimislecel (formerly VX-880) from Vertex Pharmaceuticals is the first fully differentiated stem-cell-derived islet therapy. The cells are grown in the lab rather than taken from donors, so in theory they can be produced at scale. They are given once, through the portal vein into the liver, alongside standard immunosuppression.\n\nIn the Phase 1/2 part of the FORWARD study, 12 people with severe hypoglycemia received the full dose of 0.8 billion cells. In all of them the cells engrafted, and C-peptide appeared where there had been none before treatment. After a year, 10 of 12 participants were insulin-free; all had an HbA1c below 7%, no severe hypoglycemia and more than 70% time in range. The results were published in the New England Journal of Medicine in 2025.\n\nIn 2026 the plan changed. Zimislecel suits only people with blood type A or AB, so Vertex prioritized a new version, VX-017, made from cells of a type O \"universal donor\". The FDA cleared its clinical trial and granted Fast Track designation; the company expects pivotal development in 2027. Vertex estimates this would double the number of eligible people from about 60,000 to about 120,000. The zimislecel study continues.\n\nNote: this is still an experimental treatment for people with severe diabetes, and it requires lifelong immunosuppression. The company is revising its original plan to file for approval in 2026.",
+    "kk": "Vertex Pharmaceuticals компаниясының зимислеселі (бұрынғы VX-880) — бағаналы жасушалардан алынған алғашқы толық дифференцияланған аралшық терапиясы. Жасушалар донорлардан алынбайды, зертханада өсіріледі, сондықтан теория жүзінде оларды қажетті мөлшерде өндіруге болады. Олар стандартты иммуносупрессия аясында қақпа венасы арқылы бауырға бір рет енгізіледі.\n\nFORWARD зерттеуінің 1/2 фазасында ауыр гипогликемиясы бар 12 адам толық дозаны — 0,8 миллиард жасушаны алды. Барлығында жасушалар орнықты: емге дейін болмаған С-пептид пайда болды. Бір жылдан кейін 12 қатысушының 10-ы инсулинсіз жүрді, барлығында HbA1c 7%-дан төмен, ауыр гипогликемия болмады, ал мақсатты диапазондағы уақыт 70%-дан асты. Нәтижелер 2025 жылы New England Journal of Medicine журналында жарияланды.\n\n2026 жылы жоспар өзгерді. Зимислесел тек A немесе AB қан тобындағы адамдарға сәйкес келеді, сондықтан Vertex жаңа нұсқаға — O қан тобындағы «әмбебап донордың» жасушаларынан жасалған VX-017-ге басымдық берді. FDA оның клиникалық сынақтарына рұқсат беріп, Fast Track мәртебесін берді; компания 2027 жылы негізгі (пивоттық) фазаға өтуді жоспарлап отыр. Vertex бағалауынша, бұл терапия сәйкес келетін адамдар санын шамамен 60 мыңнан 120 мыңға дейін екі есе арттырады. Зимислесел зерттеуі жалғасуда.\n\nМаңызды: бұл әзірге диабеттің ауыр түрі бар адамдарға арналған тәжірибелік ем және өмір бойы иммуносупрессияны қажет етеді. Компания тіркеуге құжаттарды 2026 жылы тапсыру туралы бастапқы жоспарын қайта қарап жатыр.",
+    "de": "Zimislecel (früher VX-880) von Vertex Pharmaceuticals ist die erste vollständig ausdifferenzierte Inselzelltherapie aus Stammzellen. Die Zellen werden im Labor gezüchtet statt von Spendern gewonnen und lassen sich daher theoretisch in großer Menge herstellen. Sie werden einmalig über die Pfortader in die Leber gegeben, begleitet von einer Standard-Immunsuppression.\n\nIm Phase-1/2-Teil der FORWARD-Studie erhielten 12 Menschen mit schweren Unterzuckerungen die volle Dosis von 0,8 Milliarden Zellen. Bei allen wuchsen die Zellen an, und es trat C-Peptid auf, das vor der Behandlung fehlte. Nach einem Jahr kamen 10 von 12 ohne Insulin aus; alle hatten einen HbA1c unter 7 %, keine schweren Unterzuckerungen und über 70 % Zeit im Zielbereich. Die Ergebnisse erschienen 2025 im New England Journal of Medicine.\n\n2026 änderte sich der Plan. Zimislecel eignet sich nur für Menschen mit Blutgruppe A oder AB, deshalb priorisiert Vertex die neue Version VX-017 aus Zellen eines Spenders der Blutgruppe 0, eines „Universalspenders“. Die FDA genehmigte die klinische Studie und vergab den Fast-Track-Status; die entscheidende Studienphase soll 2027 beginnen. Laut Vertex würde sich die Zahl geeigneter Patienten damit von etwa 60.000 auf etwa 120.000 verdoppeln. Die Zimislecel-Studie läuft weiter.\n\nWichtig: Es handelt sich weiterhin um eine experimentelle Behandlung für Menschen mit schwerem Diabetes, die lebenslange Immunsuppression erfordert. Den ursprünglichen Plan, 2026 die Zulassung zu beantragen, überarbeitet das Unternehmen.",
+    "es": "El zimislecel (antes VX-880) de Vertex Pharmaceuticals es la primera terapia de islotes totalmente diferenciados a partir de células madre. Las células se cultivan en laboratorio en vez de obtenerse de donantes, por lo que en teoría pueden producirse a gran escala. Se administran una sola vez por la vena porta hasta el hígado, junto con inmunosupresión estándar.\n\nEn la fase 1/2 del estudio FORWARD, 12 personas con hipoglucemias graves recibieron la dosis completa de 0,8 mil millones de células. En todas las células prendieron y apareció péptido C, ausente antes del tratamiento. Al cabo de un año, 10 de 12 participantes no necesitaban insulina; todos tenían HbA1c inferior al 7 %, ninguna hipoglucemia grave y más del 70 % del tiempo en rango. Los resultados se publicaron en el New England Journal of Medicine en 2025.\n\nEn 2026 el plan cambió. El zimislecel solo sirve para personas con grupo sanguíneo A o AB, así que Vertex priorizó una nueva versión, VX-017, hecha con células de un donante del grupo O, \"donante universal\". La FDA autorizó su ensayo clínico y le concedió la designación Fast Track; la compañía prevé pasar a la fase pivotal en 2027. Según Vertex, eso duplicaría el número de personas candidatas, de unas 60.000 a unas 120.000. El estudio de zimislecel continúa.\n\nImportante: sigue siendo un tratamiento experimental para personas con diabetes grave y requiere inmunosupresión de por vida. La compañía está revisando su plan inicial de solicitar la aprobación en 2026."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Без инсулина через год",
+      "en": "Insulin-free at 1 year",
+      "kk": "Бір жылдан кейін инсулинсіз",
+      "de": "Ohne Insulin nach 1 Jahr",
+      "es": "Sin insulina al año"
+     },
+     "v": {
+      "ru": "10 из 12",
+      "en": "10 of 12",
+      "kk": "12-ден 10",
+      "de": "10 von 12",
+      "es": "10 de 12"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доза",
+      "en": "Dose",
+      "kk": "Доза",
+      "de": "Dosis",
+      "es": "Dosis"
+     },
+     "v": {
+      "ru": "0,8 млрд клеток",
+      "en": "0.8 billion cells",
+      "kk": "0,8 млрд жасуша",
+      "de": "0,8 Mrd. Zellen",
+      "es": "0,8 mil millones de células"
+     }
+    },
+    {
+     "k": {
+      "ru": "VX-017, пивотальная фаза",
+      "en": "VX-017 pivotal phase",
+      "kk": "VX-017 пивоттық фазасы",
+      "de": "VX-017 Zulassungsstudie",
+      "es": "VX-017 fase pivotal"
+     },
+     "v": "2027"
+    }
+   ],
+   "url": "https://investors.vrtx.com/node/35101/pdf",
+   "src": "Vertex Pharmaceuticals · NEJM",
+   "photoQuery": "stem cell research lab",
+   "photo": {
+    "id": "u_RlOAwXt2fEA",
+    "url": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c3RlbSUyMGNlbGwlMjByZXNlYXJjaCUyMGxhYnxlbnwxfDB8fHwxNzk0MjA3ODIzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Julia Koblitz",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/scientist-using-pipette-with-test-tubes-in-lab-RlOAwXt2fEA?utm_source=dia_news&utm_medium=referral",
+    "alt": "scientist using pipette with test tubes in lab"
+   }
+  },
+  {
+   "id": "cure-tegoprubart-12of12",
+   "cat": "cure",
    "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-08T14:01:56.210Z",
+   "date": "2026-06-08",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
    "title": {
-    "ru": "Ученые Сеченовского Университета показали эффективность ИИ-мониторинга при диабете",
-    "en": "Sechenov University scientists show effectiveness of AI monitoring in diabetes",
-    "kk": "Сеченов университетінің ғалымдары диабетте ЖИ мониторингінің тиімділігін көрсетті",
-    "de": "Forscher der Sechenow-Universität zeigen Wirksamkeit der KI-Überwachung bei Diabetes",
-    "es": "Científicos de la Universidad Sechenov demuestran la eficacia del monitoreo con IA en la diabetes"
+    "ru": "Пересадка островковых клеток с тегопрубартом: все 12 участников живут без инсулина",
+    "en": "Islet transplants with tegoprubart: all 12 participants are living without insulin",
+    "kk": "Тегопрубартпен аралшық жасушаларын ауыстыру: 12 қатысушының бәрі инсулинсіз өмір сүруде",
+    "de": "Inselzelltransplantation mit Tegoprubart: Alle 12 Teilnehmenden leben ohne Insulin",
+    "es": "Trasplante de islotes con tegoprubart: los 12 participantes viven sin insulina"
    },
    "text": {
-    "ru": "Исследователи Сеченовского Университета показали эффективность мониторинга с использованием искусственного интеллекта у пациентов с диабетом.",
-    "en": "Researchers at Sechenov University have shown the effectiveness of artificial intelligence monitoring for patients with diabetes.",
-    "kk": "Сеченов университетінің зерттеушілері диабеті бар науқастарға арналған жасанды интеллект мониторингінің тиімділігін көрсетті.",
-    "de": "Forscher der Sechenow-Universität haben die Wirksamkeit einer Überwachung mit künstlicher Intelligenz bei Diabetespatienten gezeigt.",
-    "es": "Investigadores de la Universidad Sechenov han demostrado la eficacia del monitoreo con inteligencia artificial en pacientes con diabetes."
-   },
-   "url": "https://www.sechenov.ru/news/news/uchenye-sechenovskogo-universiteta-pokazali-effektivnost-ii-monitoringa-pri-diabete-/",
-   "src": "Сеченовский Университет",
-   "photoQuery": "blood glucose monitor",
-   "photo": {
-    "id": "u_BlgBBf_b_94",
-    "url": "https://images.unsplash.com/photo-1714642596931-2293df25c4a3?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8Ymxvb2QlMjBnbHVjb3NlJTIwbW9uaXRvcnxlbnwxfDB8fHwxNzk0MTQ2NTE5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Jane Korsak",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/blood-glucose-meter-with-test-strips-BlgBBf_b_94?utm_source=dia_news&utm_medium=referral",
-    "alt": "A blood glucose meter with a lancing device and test strips on white"
+    "ru": "В пилотном исследовании Чикагского университета все 12 взрослых с многолетним диабетом 1 типа отказались от инсулина после пересадки донорских островков. Вместо такролимуса им давали новое антитело тегопрубарт от компании Eledon.",
+    "en": "In a University of Chicago pilot study, all 12 adults with long-standing type 1 diabetes stopped insulin after receiving donor islets. Instead of tacrolimus they were given tegoprubart, a new antibody from Eledon.",
+    "kk": "Чикаго университетінің пилоттық зерттеуінде ұзақ жылдар 1 типті диабетпен ауыратын 12 ересектің бәрі донорлық аралшықтарды алғаннан кейін инсулиннен бас тартты. Такролимустың орнына оларға Eledon компаниясының жаңа тегопрубарт антиденесі берілді.",
+    "de": "In einer Pilotstudie der University of Chicago konnten alle 12 Erwachsenen mit langjährigem Typ-1-Diabetes nach einer Spender-Inselzelltransplantation auf Insulin verzichten. Statt Tacrolimus erhielten sie Tegoprubart, einen neuen Antikörper von Eledon.",
+    "es": "En un estudio piloto de la Universidad de Chicago, los 12 adultos con diabetes tipo 1 de larga evolución dejaron la insulina tras recibir islotes de donante. En lugar de tacrolimus recibieron tegoprubart, un nuevo anticuerpo de Eledon."
    },
    "body": {
-    "ru": "Ученые Сеченовского Университета изучили, как ежедневный дистанционный мониторинг с помощью голосового ИИ-помощника влияет на пациентов с диабетом 2-го типа и ожирением. Через месяц у участников программы стали лучше показатели углеводного обмена и маркеры, связанные с висцеральным ожирением, а также выросли приверженность лечению и качество жизни. Работа опубликована в журнале «Кардиология» и выполнена при поддержке программы «Приоритет-2030».\n\nВ исследовании участвовали 121 добровольец. 71 пациент получал стандартную терапию и дополнительно каждый день общался с голосовым ИИ-помощником, 50 человек получали только стандартную медицинскую помощь. Наблюдение длилось один месяц. Группы были сопоставимы по большинству исходных показателей, однако уровень глюкозы натощак в основной группе изначально был выше.\n\nСистема звонила пациентам в заранее согласованное время. Во время разговора пациенты называли уровень глюкозы и обхват талии, отвечали на вопросы о симптомах гипо- и гипергликемии и получали напоминания о приёме лекарств. Если показатели выходили за установленные пределы или появлялись тревожные симптомы, врач получал уведомление, связывался с пациентом и при необходимости корректировал терапию. Приложение и интернет не требовались, достаточно было мобильной связи.\n\nЗа месяц в группе дистанционного мониторинга индекс накопления липидов LAP снизился на 25,9%, индекс висцерального ожирения на 31,2%, а глюкоза натощак на 15,1%. В контрольной группе значимых изменений этих показателей не выявили. Полностью соблюдали рекомендации 42% участников с помощником против 18% в группе обычного наблюдения. Качество жизни в среднем выросло на семь баллов, в контрольной группе на один балл.\n\nАвторы подчеркивают, что исследование длилось всего месяц и проводилось в одном центре, поэтому судить о долгосрочном эффекте пока нельзя. Для подтверждения нужны более длительные многоцентровые исследования, в том числе с оценкой гликированного гемоглобина и частоты сердечно-сосудистых осложнений.",
-    "en": "Scientists at Sechenov University have studied how daily remote monitoring through a voice AI assistant affects patients with type 2 diabetes and obesity. After one month, participants in the program showed better carbohydrate metabolism indicators and markers linked to visceral obesity, along with higher treatment adherence and better quality of life. The work was published in the journal Kardiologiya and was supported by the Priority-2030 programme.\n\nThe study involved 121 volunteers. 71 patients received standard treatment and also talked daily with the voice assistant, while 50 received only standard medical care. Observation lasted one month. The groups were comparable on most baseline indicators, although fasting glucose was initially higher in the main group.\n\nThe system called patients at a time agreed in advance. During each call, patients reported their glucose level and waist circumference, answered questions about symptoms of low and high blood sugar, and received medication reminders. If values went beyond set limits or worrying symptoms appeared, the system alerted a doctor, who contacted the patient and adjusted therapy if needed. No app or internet access was required, only a mobile phone.\n\nIn the remote monitoring group, the LAP index fell by 25.9% and the visceral obesity index by 31.2% over the month, while fasting glucose dropped by 15.1%. The control group showed no significant changes in these measures. Full adherence to recommendations was reported by 42% of participants with the AI assistant, versus 18% under standard observation. Quality of life scores rose by seven points on average, compared with one point in the control group.\n\nThe authors stress that the study lasted only one month and took place at a single centre, so its long-term effect cannot yet be judged. Larger multicentre studies are needed to confirm the results, including assessment of glycated haemoglobin and the frequency of cardiovascular complications.",
-    "kk": "Сеченов университетінің ғалымдары күнделікті қашықтан бақылаудың дауыстық ЖИ-көмекшісі 2-типті қант диабеті және семіздігі бар пациенттерге қалай әсер ететінін зерттеді. Бір ай ішінде бағдарламаға қатысқандарда көмірсу алмасуының көрсеткіштері жақсарды, висцералдық семіздікпен байланысты маркерлер де жақсарды, ал ем ұсынымдарын орындау деңгейі мен өмір сапасы артты. Нәтижелер «Кардиология» журналында жарияланды, ал жұмыс «Приоритет-2030» бағдарламасының қолдауымен жүргізілді.\n\nЗерттеуге 121 ерікті қатысты. Олардың 71-і стандартты емді алып, күн сайын дауыстық ЖИ-көмекшімен сөйлесті, ал 50-і тек стандартты медициналық көмек алды. Бақылау бір ай созылды. Топтар көпшілік бастапқы көрсеткіштер бойынша салыстырмалы болды, бірақ негізгі топта ашқарын глюкоза деңгейі бастапқыда жоғарырақ болды.\n\nЖүйе пациенттерді алдын ала келісілген уақытта қоңыраулады. Сөйлесу кезінде пациенттер глюкоза деңгейін және бел шеңберін айтып, гипо- және гипергликемия белгілері туралы сұрақтарға жауап берді, дәрі қабылдау туралы еске салғыш алды. Көрсеткіштер белгіленген шектен шықса немесе алаңдатарлық белгілер пайда болса, жүйе дәрігерге хабар берді; дәрігер пациентпен байланысып, қажет болса емді түзетті. Қолданба немесе интернет қажет болмады, тек ұялы байланыс жеткілікті болды.\n\nҚашықтан бақылау тобында бір ай ішінде LAP индексі 25,9%-ға, висцералдық семіздік индексі 31,2%-ға төмендеді, ашқарын глюкоза 15,1%-ға азайды. Бақылау тобында бұл көрсеткіштерде маңызды өзгеріс байқалмады. Ұсынымдарды толық орындаған қатысушылар ЖИ-көмекшімен топта 42%, стандартты бақылаудағы топта 18% болды. Өмір сапасының бағасы орта есеппен жеті ұпайға өсті, бақылау тобында бір ұпай ғана өсті.\n\nАвторлар зерттеу тек бір ай созылғанын және бір орталықта жүргізілгенін атап көрсетеді, сондықтан ұзақмерзімді әсерін әлі бағалау мүмкін емес. Нәтижелерді растау үшін гликирленген гемоглобинді және жүрек-қан тамырлары асқынуларының жиілігін бағалайтын ұзақ көпорталықты зерттеулер қажет.",
-    "de": "Forschende der Sechenow-Universität haben untersucht, wie sich tägliche Fernüberwachung mit einem sprachgestützten KI-Assistenten auf Patienten mit Typ-2-Diabetes und Adipositas auswirkt. Bereits nach einem Monat verbesserten sich bei den Teilnehmenden des Programms die Werte des Kohlenhydratstoffwechsels und Marker, die mit viszeraler Adipositas zusammenhängen; außerdem stiegen die Therapietreue und die Lebensqualität. Die Ergebnisse erschienen in der Zeitschrift „Kardiologija“, die Arbeit wurde im Rahmen des Programms „Priorität-2030“ unterstützt.\n\nAn der Studie nahmen 121 Freiwillige teil. 71 Patienten erhielten die Standardbehandlung und sprachen zusätzlich täglich mit dem Sprachassistenten, 50 erhielten nur die übliche medizinische Versorgung. Die Beobachtung dauerte einen Monat. Die Gruppen waren bei den meisten Ausgangswerten vergleichbar, allerdings lag der Nüchternglukosewert in der Hauptgruppe anfangs höher.\n\nDas System rief die Patienten zu vorab vereinbarten Zeiten an. Im Gespräch nannten die Patienten ihren Glukosewert und den Taillenumfang, beantworteten Fragen zu Symptomen von Unter- und Überzuckerung und erhielten Erinnerungen an die Medikamenteneinnahme. Bei auffälligen Werten oder beunruhigenden Symptomen wurde der Arzt benachrichtigt, der sich mit dem Patienten in Verbindung setzte und die Therapie bei Bedarf anpasste. Eine App oder ein Internetzugang war nicht nötig, lediglich Mobilfunk.\n\nIn der Fernüberwachungsgruppe sank der LAP-Index im Monatsverlauf um 25,9 %, der Index für viszerale Adipositas um 31,2 % und der Nüchternglukosewert um 15,1 %. In der Kontrollgruppe ergaben sich bei diesen Werten keine signifikanten Veränderungen. Die Empfehlungen vollständig befolgt haben 42 % der Teilnehmenden mit KI-Assistent, gegenüber 18 % bei der Standardbeobachtung. Der Lebensqualitätswert stieg im Durchschnitt um sieben Punkte, in der Kontrollgruppe um einen Punkt.\n\nDie Autoren betonen, dass die Studie nur einen Monat dauerte und an einem einzigen Zentrum stattfand, weshalb über langfristige Effekte noch nichts gesagt werden kann. Zur Bestätigung sind größere multizentrische Studien nötig, unter anderem mit Bewertung des glykierten Hämoglobins und der Häufigkeit kardiovaskulärer Komplikationen.",
-    "es": "Investigadores de la Universidad Sechenov analizaron cómo el seguimiento diario a distancia mediante un asistente de voz con inteligencia artificial afecta a pacientes con diabetes tipo 2 y obesidad. Tras solo un mes, los participantes del programa mostraron mejoras en los indicadores del metabolismo de los carbohidratos y en marcadores vinculados a la obesidad visceral, además de mayor adherencia al tratamiento y mejor calidad de vida. Los resultados se publicaron en la revista «Kardiologiya» y el trabajo contó con el apoyo del programa «Prioridad-2030».\n\nEn el estudio participaron 121 voluntarios. 71 pacientes recibieron el tratamiento estándar y además interactuaron a diario con el asistente de voz, mientras que 50 solo recibieron la atención médica habitual. La observación duró un mes. Los grupos eran comparables en la mayoría de los indicadores iniciales, aunque la glucosa en ayunas del grupo principal era inicialmente más alta.\n\nEl sistema llamaba a los pacientes en un horario acordado previamente. Durante la llamada, los pacientes comunicaban su nivel de glucosa y el perímetro de cintura, respondían preguntas sobre síntomas de hipo- e hiperglucemia y recibían recordatorios para tomar sus medicamentos. Si los valores salían de los límites establecidos o aparecían síntomas preocupantes, el sistema avisaba al médico, quien contactaba al paciente y, si era necesario, ajustaba el tratamiento. No se requería aplicación ni acceso a internet, solo telefonía móvil.\n\nEn el grupo de seguimiento a distancia, el índice LAP bajó un 25,9 % en el mes, el índice de obesidad visceral un 31,2 % y la glucosa en ayunas un 15,1 %. En el grupo control no se observaron cambios significativos en estos valores. Cumplieron por completo las recomendaciones el 42 % de los participantes con el asistente de IA, frente al 18 % del grupo de observación estándar. La puntuación de calidad de vida subió en promedio siete puntos, frente a uno en el grupo control.\n\nLos autores subrayan que el estudio duró solo un mes y se realizó en un único centro, por lo que aún no se puede juzgar el efecto a largo plazo. Para confirmar los resultados se necesitan estudios multicéntricos más prolongados, que incluyan la evaluación de la hemoglobina glicosilada y la frecuencia de complicaciones cardiovasculares."
+    "ru": "В июне 2026 года на 86-м научном конгрессе Американской диабетической ассоциации хирург Пётр Витковски (UChicago Medicine) представил обновлённые данные пилотного исследования. В нём 12 взрослым с давним диабетом 1 типа и тяжёлыми гипогликемиями пересадили островковые клетки поджелудочной железы от умерших доноров. Клетки вводят через воротную вену в печень, где они приживаются и начинают вырабатывать инсулин.\n\nГлавное отличие от прежних протоколов — защита от отторжения. Обычно для этого используют такролимус, который токсичен для почек и, по мнению исследователей, повреждает и сами бета-клетки. Здесь его заменили тегопрубартом — экспериментальным антителом против CD40L, которое разрабатывает компания Eledon Pharmaceuticals.\n\nРезультат: все 12 участников перестали нуждаться во внешнем инсулине. У всех гликированный гемоглобин ниже 6,5%, в среднем 5,4%. После пересадки не было ни одного эпизода тяжёлой гипогликемии, отторжения или новых донор-специфических антител. По оценке исследователей, приживается и работает в 3–5 раз больше островков, чем при схеме с такролимусом. Срок наблюдения на момент отчёта — от 8 до 22 месяцев; части участников понадобилась вторая инфузия клеток.\n\nОграничения: исследование маленькое и без контрольной группы, донорских островков мало, а участники по-прежнему получают иммуносупрессию — тегопрубарт вводят капельно каждые три недели. Нужны данные за несколько лет. Компания получает от FDA рекомендации о пути к регистрации, а программу расширяют на другие центры, включая Университет Майами.",
+    "en": "In June 2026, at the American Diabetes Association's 86th Scientific Sessions, surgeon Piotr Witkowski of UChicago Medicine presented updated data from a pilot study. Twelve adults with long-standing type 1 diabetes and severe hypoglycemia received pancreatic islet cells from deceased donors. The cells are infused through the portal vein into the liver, where they settle and start making insulin.\n\nThe key change is how the graft is protected. The usual drug, tacrolimus, is toxic to the kidneys and, researchers believe, to beta cells themselves. Here it was replaced with tegoprubart, an experimental anti-CD40L antibody developed by Eledon Pharmaceuticals.\n\nThe result: all 12 participants no longer need external insulin. Every one has an HbA1c below 6.5%, with an average of 5.4%. Since transplant there have been no severe hypoglycemic events, no rejection episodes and no new donor-specific antibodies. Researchers estimate that 3 to 5 times more islets engraft and function than with tacrolimus-based regimens. Follow-up at the time of the report ranged from 8 to 22 months, and some participants needed a second islet infusion.\n\nLimitations: the study is small and has no control group, donor islets are scarce, and participants still take immunosuppression, with tegoprubart infused every three weeks. Multi-year data are needed. Eledon is seeking FDA guidance on a path to approval, and the program is expanding to other centers, including the University of Miami.",
+    "kk": "2026 жылғы маусымда Америка диабет қауымдастығының 86-шы ғылыми сессиясында UChicago Medicine хирургы Пётр Витковски пилоттық зерттеудің жаңартылған деректерін ұсынды. Ұзақ жылдар 1 типті диабетпен ауыратын және ауыр гипогликемиясы бар 12 ересекке қайтыс болған донорлардың ұйқы безі аралшық жасушалары ауыстырылды. Жасушалар қақпа венасы арқылы бауырға енгізіледі, сонда орнығып, инсулин шығара бастайды.\n\nНегізгі айырмашылық — трансплантатты қорғау тәсілі. Әдетте қолданылатын такролимус бүйрекке, ал зерттеушілердің пікірінше, бета-жасушалардың өзіне де улы. Мұнда ол Eledon Pharmaceuticals әзірлеп жатқан CD40L-ге қарсы тәжірибелік антидене — тегопрубартпен ауыстырылды.\n\nНәтиже: 12 қатысушының бәріне сырттан инсулин қажет емес. Барлығында гликирленген гемоглобин 6,5%-дан төмен, орташа 5,4%. Ауыстырудан кейін ауыр гипогликемия, тосырқау немесе жаңа донорға тән антиденелер тіркелмеді. Зерттеушілердің бағалауынша, такролимус схемасымен салыстырғанда 3–5 есе көп аралшық орнығып, жұмыс істейді. Есеп кезіндегі бақылау мерзімі 8–22 ай; кейбір қатысушыларға жасушаларды екінші рет енгізу қажет болды.\n\nШектеулер: зерттеу шағын әрі бақылау тобы жоқ, донорлық аралшықтар аз, ал қатысушылар әлі де иммуносупрессия алады — тегопрубарт үш апта сайын тамшылатып енгізіледі. Бірнеше жылдық деректер керек. Компания тіркеуге жол бойынша FDA-дан ұсыным алуда, ал бағдарлама басқа орталықтарға, соның ішінде Майами университетіне кеңейіп жатыр.",
+    "de": "Im Juni 2026 stellte der Chirurg Piotr Witkowski (UChicago Medicine) auf dem 86. Kongress der American Diabetes Association aktualisierte Daten einer Pilotstudie vor. Zwölf Erwachsene mit langjährigem Typ-1-Diabetes und schweren Unterzuckerungen erhielten Inselzellen aus der Bauchspeicheldrüse verstorbener Spender. Die Zellen werden über die Pfortader in die Leber geleitet, wo sie anwachsen und Insulin bilden.\n\nNeu ist der Schutz vor Abstoßung. Das übliche Medikament Tacrolimus schädigt die Nieren und nach Ansicht der Forschenden auch die Betazellen selbst. Hier wurde es durch Tegoprubart ersetzt, einen experimentellen Anti-CD40L-Antikörper von Eledon Pharmaceuticals.\n\nDas Ergebnis: Alle 12 Teilnehmenden brauchen kein externes Insulin mehr. Bei allen liegt der HbA1c unter 6,5 %, im Mittel bei 5,4 %. Seit der Transplantation gab es keine schweren Unterzuckerungen, keine Abstoßung und keine neuen spenderspezifischen Antikörper. Nach Schätzung der Forschenden wachsen 3- bis 5-mal mehr Inselzellen an als unter Tacrolimus. Die Nachbeobachtung lag zum Zeitpunkt des Berichts bei 8 bis 22 Monaten; einige Teilnehmende benötigten eine zweite Infusion.\n\nEinschränkungen: Die Studie ist klein und hat keine Kontrollgruppe, Spenderinseln sind knapp, und die Teilnehmenden erhalten weiterhin Immunsuppression – Tegoprubart wird alle drei Wochen als Infusion gegeben. Langzeitdaten über mehrere Jahre fehlen noch. Eledon holt bei der FDA Empfehlungen für den Zulassungsweg ein, und das Programm wird auf weitere Zentren ausgeweitet, darunter die University of Miami.",
+    "es": "En junio de 2026, en las 86.ª Sesiones Científicas de la Asociación Americana de Diabetes, el cirujano Piotr Witkowski (UChicago Medicine) presentó datos actualizados de un estudio piloto. Doce adultos con diabetes tipo 1 de larga evolución e hipoglucemias graves recibieron islotes pancreáticos de donantes fallecidos. Las células se infunden por la vena porta hasta el hígado, donde se asientan y empiezan a producir insulina.\n\nLa novedad es cómo se protege el injerto. El fármaco habitual, el tacrolimus, es tóxico para los riñones y, según los investigadores, también para las propias células beta. Aquí se sustituyó por tegoprubart, un anticuerpo experimental anti-CD40L de Eledon Pharmaceuticals.\n\nResultado: los 12 participantes ya no necesitan insulina externa. Todos tienen una HbA1c inferior al 6,5 %, con una media del 5,4 %. Desde el trasplante no ha habido hipoglucemias graves, rechazos ni nuevos anticuerpos específicos del donante. Los investigadores estiman que prenden y funcionan de 3 a 5 veces más islotes que con pautas basadas en tacrolimus. El seguimiento en el momento del informe iba de 8 a 22 meses, y algunos participantes necesitaron una segunda infusión.\n\nLimitaciones: el estudio es pequeño y sin grupo control, los islotes de donante escasean y los participantes siguen recibiendo inmunosupresión: el tegoprubart se administra por infusión cada tres semanas. Hacen falta datos de varios años. Eledon busca orientación de la FDA sobre la vía de aprobación y el programa se amplía a otros centros, como la Universidad de Miami."
    },
    "facts": [
     {
      "k": {
-      "ru": "Участники исследования (основная группа / контрольная группа)",
-      "en": "Study participants (main group / control group)",
-      "kk": "Зерттеу қатысушылары (негізгі топ / бақылау тобы)",
-      "de": "Studienteilnehmer (Hauptgruppe / Kontrollgruppe)",
-      "es": "Participantes del estudio (grupo principal / grupo control)"
+      "ru": "Без инсулина",
+      "en": "Insulin-free",
+      "kk": "Инсулинсіз",
+      "de": "Ohne Insulin",
+      "es": "Sin insulina"
      },
      "v": {
-      "ru": "121 (71 и 50)",
-      "en": "121 (71 and 50)",
-      "kk": "121 (71 және 50)",
-      "de": "121 (71 und 50)",
-      "es": "121 (71 y 50)"
+      "ru": "12 из 12",
+      "en": "12 of 12",
+      "kk": "12-ден 12",
+      "de": "12 von 12",
+      "es": "12 de 12"
      }
     },
     {
      "k": {
-      "ru": "Снижение индекса LAP за месяц в группе дистанционного мониторинга",
-      "en": "Drop in LAP index over one month in the remote monitoring group",
-      "kk": "Қашықтан бақылау тобында бір ай ішінде LAP индексінің төмендеуі",
-      "de": "Rückgang des LAP-Index im Monat in der Fernüberwachungsgruppe",
-      "es": "Descenso del índice LAP en un mes en el grupo de seguimiento a distancia"
+      "ru": "Средний HbA1c",
+      "en": "Mean HbA1c",
+      "kk": "Орташа HbA1c",
+      "de": "Mittlerer HbA1c",
+      "es": "HbA1c media"
      },
-     "v": {
-      "ru": "на 25,9%",
-      "en": "25.9%",
-      "kk": "25,9%",
-      "de": "um 25,9 %",
-      "es": "25,9 %"
-     }
+     "v": "5,4%"
     },
     {
      "k": {
-      "ru": "Полностью соблюдали рекомендации: с ИИ-помощником / стандартное наблюдение",
-      "en": "Fully followed recommendations: with AI assistant / standard observation",
-      "kk": "Ұсынымдарды толық орындағандар: ЖИ-көмекшімен / стандартты бақылау",
-      "de": "Vollständige Befolgung der Empfehlungen: mit KI-Assistent / Standardbeobachtung",
-      "es": "Cumplimiento total de recomendaciones: con asistente de IA / observación estándar"
+      "ru": "Наблюдение",
+      "en": "Follow-up",
+      "kk": "Бақылау",
+      "de": "Nachbeobachtung",
+      "es": "Seguimiento"
      },
      "v": {
-      "ru": "42% против 18%",
-      "en": "42% vs 18%",
-      "kk": "42% және 18%",
-      "de": "42 % gegenüber 18 %",
-      "es": "42 % frente a 18 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nRE0_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-06",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Антипсихотики и риск диабета: первые 90 дней критичны для мониторинга",
-    "en": "Antipsychotics and diabetes risk: first 90 days critical for monitoring",
-    "kk": "Антипсихотиктер және диабет қаупі: алғашқы 90 күн бақылау үшін маңызды",
-    "de": "Antipsychotika und Diabetesrisiko: Die ersten 90 Tage sind für die Überwachung entscheidend",
-    "es": "Antipsicóticos y riesgo de diabetes: los primeros 90 días son clave para el seguimiento"
-   },
-   "text": {
-    "ru": "Первые 90 дней приёма антипсихотиков критичны для мониторинга риска развития диабета.",
-    "en": "The first 90 days of antipsychotic treatment are critical for monitoring the risk of developing diabetes.",
-    "kk": "Антипсихотиктерді қабылдаудың алғашқы 90 күні диабет даму қаупін бақылау үшін маңызды.",
-    "de": "Die ersten 90 Tage einer Behandlung mit Antipsychotika sind für die Überwachung des Diabetesrisikos entscheidend.",
-    "es": "Los primeros 90 días de tratamiento con antipsicóticos son críticos para vigilar el riesgo de diabetes."
-   },
-   "url": "https://medvestnik.ru/content/articles/antipsihotiki-i-risk-diabeta-pervye-90-dnei-kritichny-dlya-monitoringa.html",
-   "src": "Medvestnik",
-   "photoQuery": "pharmacy shelves",
-   "photo": {
-    "id": "u_747NDboAWNY",
-    "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQxNDY1MTl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Nathaniel Yeo",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/stationery-store-interior-with-greeting-cards-747NDboAWNY?utm_source=dia_news&utm_medium=referral",
-    "alt": "A bright stationery store interior with shelves of greeting cards and office supplies"
-   },
-   "body": {
-    "ru": "6 ноября 2026 года «Медвестник» сообщил о новом исследовании учёных Университетского колледжа Лондона (UCL), опубликованном в The Lancet Psychiatry. По выводам авторов, именно первые 90 дней после старта терапии антипсихотиками требуют внимательного отслеживания метаболических изменений.\n\nИсследователи проанализировали обезличенные медкарты пациентов общей практики NHS в Англии: почти 97 000 взрослых в возрасте 18–59 лет с тяжёлыми психическими расстройствами, которые начали принимать оланзапин, кветиапин, рисперидон или арипипразол в период с 2000 по 2023 год. Учитывались данные за два года до начала лечения и два года после, с акцентом на массу тела и результаты анализов крови.\n\nСамые заметные сдвиги происходили в первые 90 дней: HbA1c рос примерно в 14 раз быстрее, а масса тела — примерно в девять раз быстрее, чем до терапии. Уровень сахара и вес менялись не всегда одновременно, поэтому контроль только массы тела может пропустить важные изменения. Среди четырёх препаратов сильнее всего показатели росли у принимавших оланзапин: HbA1c — примерно в 50 раз быстрее, масса тела — примерно в 10 раз быстрее. У женщин рост был выше, чем у мужчин (HbA1c — в 24 раза против 10; масса тела — в 12 раз против 10). У людей с предиабетом в начале лечения сахарный диабет 2 типа за два года развился у 19 %, против 3 % тех, у кого сахар изначально был нормальным.\n\nВедущий автор, доктор Хуан Карлос Базо-Альварес из Института эпидемиологии и здравоохранения UCL, считает, что врачам стоит проверять и массу тела, и уровень сахара до начала лечения, а затем повторять эти проверки в первые месяцы. Раннее выявление, по его словам, поможет быстрее предложить поддержку, консультацию или лечение.\n\nОграничения работы: исследователи могли опираться только на информацию, уже занесённую в медкарты, и не смогли учесть такие факторы, как диета, физическая активность или приём других препаратов.",
-    "en": "On 6 November 2026, the Russian outlet Medvestnik reported on a new study by researchers at University College London (UCL), published in The Lancet Psychiatry. The authors conclude that the first 90 days after antipsychotic treatment begins are the window that calls for the closest monitoring of metabolic changes.\n\nThe team reviewed anonymised general-practice records from the NHS in England covering almost 97,000 adults aged 18–59 with severe mental illness who started olanzapine, quetiapine, risperidone or aripiprazole between 2000 and 2023. Data from two years before and two years after treatment start were examined, with a focus on body weight and blood test results.\n\nThe most pronounced shifts occurred in the first 90 days: HbA1c rose roughly 14 times faster and body weight about nine times faster than before treatment. Blood sugar and weight did not always change at the same time, so tracking weight alone could miss important changes. Among the four drugs, olanzapine users showed the sharpest early rise, with HbA1c about 50 times and weight about 10 times faster. Women's increases were higher than men's (HbA1c 24 times versus 10; weight 12 times versus 10). Among people with prediabetes at the start, 19% developed type 2 diabetes within two years, compared with 3% of those whose baseline blood sugar was normal.\n\nThe lead author, Dr Juan Carlos Bazo-Alvarez of UCL's Institute of Epidemiology and Health, advises clinicians to check both weight and blood sugar before treatment begins and repeat these checks during the first few months. Early detection, he says, could help doctors offer support, counselling or treatment sooner.\n\nLimitations: the researchers could only use information already recorded in medical notes and could not account for factors such as diet, physical activity or other medicines.",
-    "kk": "2026 жылғы 6 қарашада \"Медвестник\" орыс порталы The Lancet Psychiatry журналында жарияланған Лондон университеттік колледжі (UCL) ғалымдарының жаңа зерттеуі туралы хабарлады. Авторлардың қорытындысы бойынша, антипсихотиктермен емдеу басталғаннан кейінгі алғашқы 90 күн — метаболизмдік өзгерістерді ең мұқият бақылау қажет кезең.\n\nЗерттеушілер Англиядағы NHS жалпы практика дәрігерлерінің анонимді медициналық карталарын талдады. Оған 2000 мен 2023 жылдар аралығында оланзапин, кветиапин, рисперидон немесе арипипразол қабылдай бастаған, ауыр психикалық аурулары бар 18–59 жас аралығындағы шамамен 97 000 ересек кірді. Емдеу басталғанға дейінгі екі жылдың және одан кейінгі екі жылдың деректері қарастырылды, дене салмағына және қан анализдерінің нәтижелеріне баса назар аударылды.\n\nЕң айқын өзгерістер алғашқы 90 күнде байқалды: HbA1c емдеуге дейінгіге қарағанда шамамен 14 есе, дене салмағы шамамен тоғыз есе жылдам өсті. Қант деңгейі мен салмақ әрдайым бір уақытта өзгермейтіндіктен, тек салмақты бақылау маңызды өзгерістерді байқамай қалдыруы мүмкін. Төрт препараттың ішінде оланзапин қабылдаушыларда ерте өсу ең қатты болды: HbA1c шамамен 50 есе, дене салмағы шамамен 10 есе жылдам. Әйелдерде өсу ерлерге қарағанда жоғары болды (HbA1c — 24 есе, ерлерде 10; дене салмағы — 12 есе, ерлерде 10). Бастапқыда преддиабеті бар адамдардың 19%-ында екі жыл ішінде 2 типті қант диабеті дамыды, ал бастапқы қант деңгейі қалыпты адамдарда бұл көрсеткіш 3% болды.\n\nЖетекші автор, UCL Эпидемиология және денсаулық сақтау институтының докторы Хуан Карлос Базо-Альварес дәрігерлерге емдеу басталар алдында дене салмағын да, қант деңгейін де тексеріп, алғашқы бірнеше айда бұл тексерулерді қайталауды ұсынады. Оның айтуынша, ерте анықтау дәрігерлерге қолдау, кеңес беру немесе емдеуді тезірек ұсынуға көмектеседі.\n\nШектеулер: зерттеушілер тек медициналық карталарға бұрын тіркелген ақпаратты пайдалана алды және диета, дене белсенділігі немесе басқа дәрілер сияқты факторларды ескере алмады.",
-    "de": "Am 6. November 2026 berichtete das russische Portal Medvestnik über eine neue Studie von Forschenden des University College London (UCL), die in The Lancet Psychiatry erschienen ist. Die Autorinnen und Autoren kommen zu dem Schluss, dass die ersten 90 Tage nach Beginn einer Antipsychotika-Behandlung das Zeitfenster sind, in dem metabolische Veränderungen am genauesten überwacht werden sollten.\n\nDas Team wertete anonymisierte Hausarztakten des britischen NHS in England aus. Erfasst wurden knapp 97.000 Erwachsene im Alter von 18 bis 59 Jahren mit schweren psychischen Erkrankungen, die zwischen 2000 und 2023 mit Olanzapin, Quetiapin, Risperidon oder Aripiprazol begannen. Berücksichtigt wurden Daten aus jeweils zwei Jahren vor und nach Therapiebeginn, mit Schwerpunkt auf Körpergewicht und Blutwerten.\n\nDie deutlichsten Veränderungen zeigten sich in den ersten 90 Tagen: Der HbA1c-Wert stieg etwa 14-mal schneller, das Körpergewicht etwa neunmal schneller als vor der Behandlung. Blutzucker und Gewicht veränderten sich nicht immer gleichzeitig, weshalb die alleinige Gewichtskontrolle wichtige Veränderungen übersehen könnte. Unter den vier Wirkstoffen zeigte Olanzapin den stärksten frühen Anstieg: HbA1c etwa 50-mal, Gewicht etwa 10-mal schneller. Bei Frauen fielen die Zuwächse höher aus als bei Männern (HbA1c 24-mal gegenüber 10-mal; Gewicht 12-mal gegenüber 10-mal). Bei Menschen mit Prädiabetes zu Beginn entwickelten innerhalb von zwei Jahren 19 % einen Typ-2-Diabetes, verglichen mit 3 % derjenigen mit normalem Ausgangsblutzucker.\n\nDer Hauptautor, Dr. Juan Carlos Bazo-Alvarez vom UCL-Institut für Epidemiologie und Gesundheit, rät Ärztinnen und Ärzten, vor Behandlungsbeginn sowohl Gewicht als auch Blutzucker zu prüfen und diese Kontrollen in den ersten Monaten zu wiederholen. Eine frühe Erkennung könne helfen, Unterstützung, Beratung oder Behandlung schneller anzubieten.\n\nEinschränkungen: Die Forschenden konnten nur Informationen nutzen, die bereits in den Krankenakten vermerkt waren, und Faktoren wie Ernährung, körperliche Aktivität oder andere Medikamente nicht berücksichtigen.",
-    "es": "El 6 de noviembre de 2026, el medio ruso Medvestnik informó sobre un nuevo estudio de investigadores del University College London (UCL), publicado en The Lancet Psychiatry. Sus autores concluyen que los primeros 90 días tras iniciar un tratamiento con antipsicóticos son el periodo en que más conviene vigilar los cambios metabólicos.\n\nEl equipo revisó historiales anonimizados de atención primaria del NHS en Inglaterra que abarcaban casi 97 000 adultos de 18 a 59 años con enfermedades mentales graves que comenzaron a tomar olanzapina, quetiapina, risperidona o aripiprazol entre 2000 y 2023. Se analizaron datos de dos años antes y dos años después del inicio del tratamiento, con especial atención al peso corporal y a los análisis de sangre.\n\nLos cambios más marcados aparecieron en los primeros 90 días: la HbA1c subió unas 14 veces más rápido y el peso corporal unas nueve veces más rápido que antes del tratamiento. El azúcar en sangre y el peso no siempre cambiaban al mismo tiempo, por lo que vigilar solo el peso podría pasar por alto alteraciones importantes. Entre los cuatro fármacos, la olanzapina mostró el aumento temprano más intenso: HbA1c unas 50 veces y peso unas 10 veces más rápido. Las mujeres presentaron incrementos mayores que los hombres (HbA1c 24 veces frente a 10; peso 12 veces frente a 10). En personas con prediabetes al inicio, el 19 % desarrolló diabetes tipo 2 en dos años, frente al 3 % de quienes tenían glucemia normal.\n\nEl autor principal, el Dr. Juan Carlos Bazo-Alvarez, del Instituto de Epidemiología y Salud de la UCL, aconseja revisar el peso y la glucosa antes de empezar el tratamiento y repetir esas comprobaciones en los primeros meses. Según explica, una detección temprana podría ayudar a los médicos a ofrecer antes apoyo, asesoramiento o tratamiento.\n\nLimitaciones: los investigadores solo pudieron usar la información ya registrada en las historias clínicas y no pudieron tener en cuenta factores como la dieta, la actividad física u otros medicamentos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Участников исследования (взрослые 18–59 лет, Англия)",
-      "en": "Participants in the study (adults aged 18–59, England)",
-      "kk": "Зерттеу қатысушылары (18–59 жас, Англия)",
-      "de": "Studienteilnehmende (Erwachsene 18–59 Jahre, England)",
-      "es": "Participantes del estudio (adultos de 18 a 59 años, Inglaterra)"
-     },
-     "v": {
-      "ru": "почти 97 000",
-      "en": "almost 97,000",
-      "kk": "шамамен 97 000",
-      "de": "knapp 97.000",
-      "es": "casi 97 000"
-     }
-    },
-    {
-     "k": {
-      "ru": "Переход к диабету 2 типа за два года при предиабете",
-      "en": "Progression to type 2 diabetes within two years with prediabetes",
-      "kk": "Преддиабетте екі жылда 2 типті қант диабетіне өту",
-      "de": "Übergang zu Typ-2-Diabetes binnen zwei Jahren bei Prädiabetes",
-      "es": "Progresión a diabetes tipo 2 en dos años con prediabetes"
-     },
-     "v": {
-      "ru": "19 % против 3 % при нормальном исходном уровне сахара",
-      "en": "19% versus 3% with normal baseline blood sugar",
-      "kk": "19% қарсы 3% (бастапқы қант деңгейі қалыпты болғанда)",
-      "de": "19 % gegenüber 3 % bei normalem Ausgangsblutzucker",
-      "es": "19 % frente al 3 % con glucemia normal al inicio"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nBRUT9vYz01",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Молодые люди достигли ремиссии диабета 2 типа благодаря диете и физкультуре",
-    "en": "Young people achieve remission of type 2 diabetes through diet and exercise",
-    "kk": "Жастар диета мен дене шынықтыру арқасында 2 типті диабеттен ремиссияға жетті",
-    "de": "Junge Menschen erreichen durch Ernährung und Sport eine Remission von Typ-2-Diabetes",
-    "es": "Jóvenes logran la remisión de la diabetes tipo 2 con dieta y ejercicio"
-   },
-   "text": {
-    "ru": "Молодые люди с диабетом 2 типа достигли ремиссии благодаря изменению питания и физической активности.",
-    "en": "Young people with type 2 diabetes achieved remission through diet and physical activity.",
-    "kk": "2 типті диабеті бар жастар тамақтану мен дене белсенділігін өзгерту арқылы ремиссияға жетті.",
-    "de": "Junge Menschen mit Typ-2-Diabetes erreichten durch Ernährungsumstellung und körperliche Aktivität eine Remission.",
-    "es": "Jóvenes con diabetes tipo 2 lograron la remisión mediante cambios en la alimentación y la actividad física."
-   },
-   "url": "https://pharmmedprom.ru/news/molodye-lyudi-dostigli-remissii-diabeta-2-tipa-blagodarya-diete-i-fizkulture/",
-   "src": "ФармМедПром",
-   "photoQuery": "healthy breakfast vegetables",
-   "photo": {
-    "id": "u_jUPOXXRNdcA",
-    "url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDE0NjUyMHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Brooke Lark",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/poached-egg-with-vegetables-and-tomatoes-on-blue-plate-jUPOXXRNdcA?utm_source=dia_news&utm_medium=referral",
-    "alt": "poached egg with vegetables and tomatoes on blue plate"
-   },
-   "body": {
-    "ru": "Международная группа учёных экспериментально показала, что молодые люди с диабетом 2-го типа могут войти в ремиссию без лекарств. В исследовании сочетали низкокалорийную диету и контролируемые физические нагрузки, и ремиссии достигли 54% участников. Результаты опубликованы в журнале The Lancet Regional Health – Americas.\n\nВ эксперименте участвовали 96 добровольцев от 18 до 45 лет с диабетом 2-го типа и ожирением, не использовавших инсулин. Одна группа проходила интенсивную 24-недельную программу изменения образа жизни, другую лечили препаратами. Первые 12 недель участники программы придерживались строгой диеты в 800–900 килокалорий в сутки со специальным питанием и занимались дважды в неделю под руководством инструкторов и один раз самостоятельно. Следующие 12 недель они постепенно переходили на обычную пищу и продолжали тренироваться самостоятельно.\n\nЧерез 24 недели ремиссию фиксировали при гликированном гемоглобине ниже 6,5% без сахароснижающих препаратов. В группе диеты и физкультуры этому критерию соответствовали 27 из 50 человек (54%), а при обычном лечении — 4% участников. Кроме того, участники программы в среднем сбросили на 7,5 кг больше, чем контрольная группа.\n\nУчёные отметили, что силовые упражнения помогали терять именно жировую ткань, а не мышцы. Улучшились кардиореспираторная выносливость и мышечная сила, снизились артериальное давление и частота сердечных сокращений в покое, а участники отметили повышение качества жизни.\n\nОграничения: диабет у людей до 45 лет часто развивается быстрее и вызывает ранние осложнения, поэтому нужны дальнейшие наблюдения, чтобы понять, насколько устойчивой будет ремиссия в долгосрочной перспективе. Учёные полагают, что их данные помогут внедрить подобные комплексные программы в медицину.",
-    "en": "An international team of scientists has experimentally shown that young adults with type 2 diabetes can enter remission without medication. The study combined a low-calorie diet with supervised physical activity, and 54% of participants reached remission. The findings were published in The Lancet Regional Health – Americas.\n\nThe experiment involved 96 volunteers aged 18 to 45 who had type 2 diabetes and obesity and did not use insulin. One group took part in an intensive 24-week lifestyle program, while the other was treated with medication. During the first 12 weeks, the lifestyle group followed a strict diet of 800–900 kilocalories per day using special meals and trained twice a week under instructors and once on their own. In the next 12 weeks, they gradually returned to ordinary food and kept exercising independently.\n\nAt the 24-week mark, remission was defined as glycated hemoglobin falling below 6.5% without blood-sugar-lowering drugs. In the diet-and-exercise group, 27 of 50 people (54%) met this standard, compared with 4% of participants under standard treatment. Lifestyle participants also lost, on average, 7.5 kg more than the control group.\n\nThe researchers noted that strength exercises helped participants lose fat tissue rather than muscle. Cardiorespiratory endurance and muscle strength improved, resting blood pressure and heart rate decreased, and participants reported a better quality of life.\n\nThe article highlights limitations: diabetes in people under 45 often progresses quickly and causes early complications, so further follow-up is needed to determine how durable remission will be over the long term. The scientists believe their data will help bring comprehensive programs like this into medicine.",
-    "kk": "Халықаралық ғалымдар тобы жас адамдарда 2-типті қант диабеті дәрісіз ремиссияға жете алатынын эксперименталды түрде көрсетті. Зерттеуде төмен калорийлі диета мен бақыланатын дене жаттығулары біріктірілді, қатысушылардың 54%-ы ремиссияға жетті. Нәтижелер The Lancet Regional Health – Americas журналында жарияланды.\n\nЭксперimentке инсулин қолданбайтын, 18-ден 45 жасқа дейінгі, 2-типті қант диабеті және семіздігі бар 96 ерікті қатысты. Бір топ 24 аптаға арналған қарқынды өмір салтын өзгерту бағдарламасынан өтті, екіншісі дәрімен емделді. Алғашқы 12 аптада бірінші топ арнайы тағаммен күніне 800–900 килокалория шектеулі диетаны ұстанып, аптасына екі рет нұсқаушылар басшылығымен, бір рет дербес жаттықты. Келесі 12 аптада олар біртіндеп қалыпты тамаққа көшіп, жаттығуын дербес жалғастырды.\n\n24 аптадан кейін ремиссия гликирленген гемоглобин деңгейі қант төмендететін препараттарсыз 6,5%-дан төмен түскенде деп есептелді. Диета мен дене жаттығуы тобында 50 адамның 27-сі (54%) бұл талапқа сай келді, ал стандартты емде қатысушылардың 4%-ы ғана жетті. Сонымен қатар өмір салтын өзгерткен қатысушылар бақылау тобына қарағанда орта есеппен 7,5 кг көбірек салмақ тастады.\n\nҒалымдар күш жаттығуларының бұлшықетті емес, май тінін азайтуға көмектескенін атап өтті. Кардиореспираторлық төзімділік пен бұлшықет күші жақсарды, тыныштықтағы қан қысымы мен жүрек соғу жиілігі төмендеді, қатысушылар өмір сапасының артқанын айтты.\n\nШектеулер: 45 жасқа дейінгі адамдарда диабет жиі тез дамып, ерте асқынулар туғызады, сондықтан ремиссияның ұзақ мерзімде қаншалықты тұрақты болатынын анықтау үшін одан әрі бақылау қажет. Ғалымдар алынған деректер мұндай кешенді бағдарламаларды медицинаға енгізуге көмектеседі деп санайды.",
-    "de": "Eine internationale Forschergruppe hat experimentell belegt, dass junge Erwachsene mit Typ-2-Diabetes ohne Medikamente in Remission gehen können. In der Studie wurde eine kalorienarme Ernährung mit kontrollierter körperlicher Belastung kombiniert; 54 % der Teilnehmer erreichten Remission. Die Ergebnisse erschienen in The Lancet Regional Health – Americas.\n\nAn dem Versuch nahmen 96 Freiwillige im Alter von 18 bis 45 Jahren teil, die Typ-2-Diabetes und Übergewicht hatten und kein Insulin verwendeten. Eine Gruppe absolvierte ein intensives 24-wöchiges Programm zur Veränderung des Lebensstils, die andere wurde medikamentös behandelt. In den ersten 12 Wochen hielt sich die Lebensstil-Gruppe an eine strenge Diät von 800–900 Kilokalorien täglich mit speziellen Mahlzeiten und trainierte zweimal pro Woche unter Anleitung von Trainern sowie einmal allein. In den folgenden 12 Wochen stellte sie schrittweise auf normale Kost um und setzte das Training selbstständig fort.\n\nNach 24 Wochen galt Remission als erreicht, wenn das glykierte Hämoglobin ohne blutzuckersenkende Medikamente unter 6,5 % lag. In der Gruppe mit Diät und Training erfüllten 27 von 50 Personen (54 %) dieses Kriterium, bei der Standardbehandlung waren es 4 % der Teilnehmer. Außerdem verloren die Teilnehmer des Lebensstilprogramms im Schnitt 7,5 kg mehr als die Kontrollgruppe.\n\nDie Forscher betonten, dass das Krafttraining half, eher Fettgewebe als Muskelmasse abzubauen. Ausdauer und Muskelkraft verbesserten sich, Blutdruck und Ruhepuls sanken, und die Teilnehmer berichteten von einer besseren Lebensqualität.\n\nEinschränkungen bleiben: Diabetes bei Menschen unter 45 verläuft oft rasch und führt früh zu Komplikationen, und weitere Beobachtungen sind nötig, um zu klären, wie dauerhaft die Remission langfristig ist. Die Wissenschaftler glauben, dass ihre Daten helfen, solche umfassenden Programme in die Medizin einzuführen.",
-    "es": "Un equipo internacional de científicos confirmó experimentalmente que los adultos jóvenes con diabetes tipo 2 pueden alcanzar la remisión sin medicamentos. El estudio combinó una dieta baja en calorías con ejercicio físico controlado, y el 54 % de los participantes entró en remisión. Los resultados se publicaron en The Lancet Regional Health – Americas.\n\nEn el experimento participaron 96 voluntarios de entre 18 y 45 años con diabetes tipo 2 y obesidad, que no usaban insulina. Un grupo siguió un programa intensivo de cambio de estilo de vida de 24 semanas, mientras que el otro recibió tratamiento con medicamentos. Durante las primeras 12 semanas, el grupo de estilo de vida siguió una dieta estricta de 800–900 kilocalorías diarias con alimentos especiales y entrenó dos veces por semana con instructores y una vez por su cuenta. En las 12 semanas siguientes pasó gradualmente a comida normal y continuó el ejercicio de forma independiente.\n\nTras 24 semanas, se consideró remisión cuando la hemoglobina glicada bajaba del 6,5 % sin fármacos hipoglucemiantes. En el grupo de dieta y ejercicio, 27 de 50 personas (54 %) cumplieron ese criterio, frente al 4 % con el tratamiento habitual. Además, los participantes del cambio de estilo de vida perdieron en promedio 7,5 kg más que el grupo de control.\n\nLos investigadores señalaron que el entrenamiento de fuerza ayudó a perder tejido graso y no músculo. Mejoraron la resistencia cardiorrespiratoria y la fuerza muscular, bajaron la presión arterial y la frecuencia cardíaca en reposo, y los participantes reportaron una mejor calidad de vida.\n\nLas limitaciones son importantes: la diabetes en menores de 45 años suele avanzar rápido y provocar complicaciones tempranas, y se necesitan más seguimientos para saber cuán duradera será la remisión a largo plazo. Los científicos creen que sus datos ayudarán a incorporar programas integrales como este en la medicina."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Участники программы образа жизни, достигшие ремиссии",
-      "en": "Lifestyle-program participants who reached remission",
-      "kk": "Өмір салтын өзгерту бағдарламасында ремиссияға жеткен қатысушылар",
-      "de": "Teilnehmer des Lebensstilprogramms mit Remission",
-      "es": "Participantes del programa de estilo de vida que alcanzaron la remisión"
-     },
-     "v": {
-      "ru": "54% (27 из 50)",
-      "en": "54% (27 of 50)",
-      "kk": "54% (50 адамның 27-сі)",
-      "de": "54 % (27 von 50)",
-      "es": "54 % (27 de 50)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Участники обычного лечения, достигшие ремиссии",
-      "en": "Standard-treatment participants who reached remission",
-      "kk": "Стандартты емдеуде ремиссияға жеткен қатысушылар",
-      "de": "Teilnehmer der Standardbehandlung mit Remission",
-      "es": "Participantes con tratamiento habitual que alcanzaron la remisión"
-     },
-     "v": {
-      "ru": "4%",
-      "en": "4%",
-      "kk": "4%",
-      "de": "4 %",
-      "es": "4 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "ndHY_b2M9NQ",
-   "cat": "events",
-   "stage": "campaign",
-   "date": "2026-11-06",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "С 9 по 15 ноября в Дагестане пройдёт Неделя борьбы с сахарным диабетом",
-    "en": "Diabetes awareness week runs November 9–15 in Dagestan",
-    "kk": "Дағыстанда 9-15 қараша аралығында қант диабетіне қарсы күрес аптасы өтеді",
-    "de": "Woche des Kampfes gegen Diabetes vom 9. bis 15. November in Dagestan",
-    "es": "Semana de lucha contra la diabetes del 9 al 15 de noviembre en Daguestán"
-   },
-   "text": {
-    "ru": "В Дагестане с 9 по 15 ноября проходит Неделя борьбы с сахарным диабетом.",
-    "en": "Dagestan is holding a week to fight diabetes from November 9 to 15.",
-    "kk": "Дағыстанда 9-15 қараша аралығында қант диабетіне қарсы апта өтеді.",
-    "de": "In Dagestan findet vom 9. bis 15. November eine Woche zur Bekämpfung von Diabetes statt.",
-    "es": "Daguestán celebra del 9 al 15 de noviembre una semana de lucha contra la diabetes."
-   },
-   "url": "https://zamana.info/news/s-9-po-15-noyabrya-budet-prohodit-nedelya-borby-s-saharnym-diabetom",
-   "src": "Этномедиахолдинг \"Дагестан\"",
-   "photoQuery": "healthy breakfast vegetables",
-   "photo": {
-    "id": "u_KUZnfk-2DSQ",
-    "url": "https://images.unsplash.com/photo-1518843875459-f738682238a6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDE0NjUyMHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sharon Pittaway",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/assorted-vegetables-KUZnfk-2DSQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "assorted vegetables"
-   },
-   "body": {
-    "ru": "Региональное агентство «Замана» 6 ноября сообщило о Неделе борьбы с сахарным диабетом, которая пройдёт с 9 по 15 ноября. Задача акции — привлечь внимание к болезни, рассказать о связанных с ней опасностях и напомнить о пользе раннего выявления и простых способов профилактики.\n\nМатериал поясняет, что диабет — хроническое нарушение обмена глюкозы. При первом типе поджелудочная железа выделяет слишком мало инсулина, а при втором организм плохо его использует. На начальных этапах болезнь может почти не давать симптомов, однако без контроля избыток глюкозы постепенно повреждает сосуды и нервы, повышая риск сердечно-сосудистых заболеваний, поражения почек, нервной системы и глаз.\n\nВ числе тревожных признаков названы постоянная жажда и сухость во рту, частое мочеиспускание, повышенная утомляемость, необъяснимое изменение веса, ухудшение зрения и долгое заживление ран. Автор призывает не откладывать визит к врачу при их появлении, поскольку своевременная диагностика помогает держать заболевание под контролем.\n\nЧтобы снизить риск диабета, особенно второго типа, специалисты советуют следить за весом и заниматься физкультурой около 150 минут в неделю при умеренной нагрузке. Рекомендуется делать упор на овощи, цельные злаки и бобовые, ограничивать добавленный сахар и насыщенные жиры, бросить курить, умеренно относиться к алкоголю, уделять внимание сну и стрессу, регулярно проходить диспансеризацию и контролировать уровень глюкозы в крови. Текст подготовлен врачом-эндокринологом СЦРБ.\n\nОграничения: в публикации не указаны конкретные мероприятия, площадки и организаторы недели, а также местная статистика, а советы носят общий характер. Тем, кому нужны подробности о возможности обследования в эти дни, стоит уточнять это в местных медицинских учреждениях.",
-    "en": "The Dagestan regional news agency Zamana reported on 6 November 2026 that a Week of Fighting Diabetes will run from 9 to 15 November. The campaign aims to draw attention to the disease, explain its dangers, and remind people that early detection and simple prevention steps matter.\n\nThe piece explains that diabetes is a chronic condition in which glucose metabolism is disrupted. In type 1, the pancreas produces too little insulin; in type 2, the body cannot use it effectively. In early stages the illness may cause almost no symptoms, but without control, excess glucose gradually damages blood vessels and nerves, raising the risk of heart and vascular disease and of harm to the kidneys, nervous system and eyes.\n\nWarning signs include constant thirst and dry mouth, frequent urination, marked tiredness, unexplained weight changes, worsening eyesight and slow-healing wounds. The text urges readers not to postpone a doctor's visit if these appear, since timely diagnosis helps keep the condition under control.\n\nTo lower the risk of diabetes, especially type 2, specialists advise monitoring body weight and doing about 150 minutes of moderate physical activity per week. Diet should emphasise vegetables, whole grains and legumes, while limiting added sugar and saturated fats. Other recommendations include quitting smoking, drinking alcohol only in moderation, paying attention to sleep and stress, and having regular medical check-ups and blood glucose tests. The article was prepared by an endocrinologist from the central district hospital (СЦРБ).\n\nLimitations: the article does not describe specific events, venues or organisers for the week, and it offers no local statistics; its advice is general. Readers seeking details on screening during those days should check with local medical facilities.",
-    "kk": "«Замана» өңірлік ақпарат агенттігі 2026 жылғы 6 қарашада 9-нан 15 қарашаға дейін қант диабетіне қарсы күрес аптасы өтетінін хабарлады. Оның мақсаты — ауruға назар аудару, оның қауіптері туралы айту және ерте анықтаудың, қарапайым алдын алу шараларының маңыздылығын еске салу.\n\nМатериалда диабет — глюкоза алмасуы бұзылатын созылмалы ауру екені түсіндіріледі. 1-типте ұйқы безі инсулинді жеткіліксіз шығарады, ал 2-типте ағза оны тиімді пайдалана алмайды. Алғашқы кезеңдерде ауру іс жүзінде белгісіз өтуі мүмкін, бірақ бақыланбаса, глюкозаның артық мөлшері тамырлар мен жүйке талшықтарын біртіндеп зақымдап, жүрек-қан тамырлары аурулары, бүйрек, жүйке жүйесі және көз зақымдану қаупін арттырады.\n\nАлаңдатарлық белгілер ретінде үнемі шөлдеу және ауыз құрғауы, жиі несептену, айқын шаршау, себепсіз салмақ өзгерісі, көру нашарлауы және жараның ұзақ жазылуы аталған. Мәтінде мұндай белгілер пайда болғанда дәрігерге баруды кейінге қалдырмау керектігі айтылады, өйткені уақытылы диагностика ауруды бақылауға көмектеседі.\n\nҚант диабетінің, әсіресе 2-типтің қаупін азайту үшін мамандар дене салмағын бақылауды және аптасына шамамен 150 минут орташа жүктемемен дене белсенділігін ұсынады. Тағамда көкөністерге, толық дәнді өнімдерге және бұршақ тұқымдастарына басымдық беріп, қосылған қантты және қаныққан майларды шектеу керек. Сонымен қатар темекіден бас тарту, алкогольге мұқият қарау, ұйқы мен стреске назар аудару, мерзімді медициналық тексеруден өту және қандағы глюкозаны бақылау ұсынылады. Мәтінді СЦРБ дәрігер-эндокринологы дайындаған.\n\nШектеулер: мақалада аптаның нақты іс-шаралары, орындары мен ұйымдастырушылары, сондай-ақ жергілікті статистика көрсетілмеген, ал кеңестер жалпы сипатта. Аптада тексерулер туралы толық ақпарат керек болса, жергілікті медициналық мекемелерге хабарласқан дұрыс.",
-    "de": "Die Dagestaner Nachrichtenagentur Zamana meldete am 6. November 2026, dass vom 9. bis 15. November eine Woche zum Kampf gegen Diabetes stattfinden wird. Die Kampagne soll auf die Krankheit aufmerksam machen, ihre Gefahren erklären und daran erinnern, dass frühe Erkennung und einfache Vorbeugung wichtig sind.\n\nDer Beitrag erläutert, dass Diabetes eine chronische Störung des Glukosestoffwechsels ist. Bei Typ 1 produziert die Bauchspeicheldrüse zu wenig Insulin; bei Typ 2 kann der Körper es nicht wirksam nutzen. In frühen Stadien kann die Erkrankung nahezu ohne Beschwerden verlaufen, doch ohne Kontrolle schädigt überschüssige Glukose nach und nach Blutgefäße und Nerven und erhöht das Risiko für Herz-Kreislauf-Erkrankungen sowie für Schäden an Nieren, Nervensystem und Augen.\n\nZu den Warnzeichen zählen anhaltender Durst und Mundtrockenheit, häufiges Wasserlassen, deutliche Müdigkeit, unerklärliche Gewichtsveränderungen, nachlassendes Sehvermögen und langsam heilende Wunden. Der Text rät, bei solchen Anzeichen nicht zu zögern und ärztlichen Rat einzuholen, da eine rechtzeitige Diagnose hilft, die Erkrankung unter Kontrolle zu halten.\n\nUm das Risiko vor allem für Typ 2 zu senken, raten Fachleute, das Körpergewicht im Blick zu behalten und rund 150 Minuten moderate körperliche Aktivität pro Woche einzuplanen. Die Ernährung sollte Gemüse, Vollkornprodukte und Hülsenfrüchte betonen und zugesetzten Zucker sowie gesättigte Fette begrenzen. Weitere Empfehlungen sind Rauchverzicht, maßvoller Alkoholkonsum, Aufmerksamkeit für Schlaf und Stress sowie regelmäßige Vorsorgeuntersuchungen und Blutzuckerkontrollen. Der Artikel wurde von einer Endokrinologin des Zentralen Kreiskrankenhauses (СЦРБ) verfasst.\n\nEinschränkungen: Der Artikel nennt keine konkreten Veranstaltungen, Orte oder Veranstalter der Aktionswoche und enthält keine regionalen Zahlen; die Hinweise sind allgemein gehalten. Wer Details zu Untersuchungen in diesen Tagen sucht, sollte sich bei lokalen Gesundheitseinrichtungen erkundigen.",
-    "es": "La agencia regional Zamana informó el 6 de noviembre de 2026 de que del 9 al 15 de noviembre se celebrará una semana de lucha contra la diabetes. La campaña busca llamar la atención sobre la enfermedad, explicar sus peligros y recordar que la detección temprana y las medidas sencillas de prevención son importantes.\n\nEl texto explica que la diabetes es una enfermedad crónica que altera el metabolismo de la glucosa. En el tipo 1, el páncreas produce muy poca insulina; en el tipo 2, el organismo no la aprovecha de forma eficaz. En las etapas iniciales puede no causar casi síntomas, pero sin control el exceso de glucosa daña poco a poco los vasos sanguíneos y los nervios, lo que aumenta el riesgo de problemas cardiovasculares y de daño en los riñones, el sistema nervioso y los ojos.\n\nEntre las señales de alerta figuran la sed constante y la boca seca, la micción frecuente, el cansancio notable, los cambios de peso inexplicables, el empeoramiento de la vista y las heridas que cicatrizan lentamente. El texto pide no posponer la consulta médica si aparecen estos signos, ya que el diagnóstico oportuno ayuda a mantener la enfermedad bajo control.\n\nPara reducir el riesgo, sobre todo de tipo 2, los especialistas aconsejan vigilar el peso y practicar unos 150 minutos semanales de actividad física moderada. La dieta debe centrarse en verduras, cereales integrales y legumbres, limitando el azúcar añadido y las grasas saturadas. También se recomiendan dejar de fumar, moderar el alcohol, cuidar el sueño y el estrés, y someterse a revisiones periódicas y controles de glucosa en sangre. El artículo fue elaborado por una endocrinóloga del Hospital Central de Distrito (СЦРБ).\n\nLimitaciones: el artículo no describe actividades, sedes ni organizadores concretos de la semana, y no ofrece cifras locales; sus consejos son generales. Quienes busquen detalles sobre pruebas en esos días deberían consultar a los centros sanitarios de su zona."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Период Недели борьбы с сахарным диабетом",
-      "en": "Period of the Week of Fighting Diabetes",
-      "kk": "Қант диабетіне қарсы күрес аптасының кезеңі",
-      "de": "Zeitraum der Woche zum Kampf gegen Diabetes",
-      "es": "Período de la Semana de lucha contra la diabetes"
-     },
-     "v": {
-      "ru": "с 9 по 15 ноября",
-      "en": "9–15 November",
-      "kk": "9–15 қараша",
-      "de": "9.–15. November",
-      "es": "del 9 al 15 de noviembre"
-     }
-    },
-    {
-     "k": {
-      "ru": "Рекомендуемая физическая активность в неделю",
-      "en": "Recommended weekly physical activity",
-      "kk": "Аптасына ұсынылатын дене белсенділігі",
-      "de": "Empfohlene körperliche Aktivität pro Woche",
-      "es": "Actividad física semanal recomendada"
-     },
-     "v": {
-      "ru": "около 150 минут умеренной нагрузки",
-      "en": "about 150 minutes of moderate activity",
-      "kk": "шамамен 150 минут орташа жүктеме",
-      "de": "rund 150 Minuten moderate Aktivität",
-      "es": "unos 150 minutos de actividad moderada"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nQk0_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-06",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "В алтайском Минздраве заявили об отсутствии дефицита важного препарата для диабетиков",
-    "en": "Altai health ministry says there is no shortage of an important drug for diabetics",
-    "kk": "Алтай денсаулық сақтау министрлігі диабеттілерге арналған маңызды препараттың тапшылығы жоқ екенін мәлімдеді",
-    "de": "Gesundheitsministerium im Altai: kein Mangel an einem wichtigen Medikament für Diabetiker",
-    "es": "El Ministerio de Salud de Altái afirma que no hay escasez de un medicamento importante para diabéticos"
-   },
-   "text": {
-    "ru": "Минздрав Алтайского края сообщил, что дефицита важного препарата для больных диабетом нет.",
-    "en": "The Altai regional health ministry said there is no shortage of an important drug for people with diabetes.",
-    "kk": "Алтай өлкесінің денсаулық сақтау министрлігі диабеті бар адамдарға маңызды препараттың тапшылығы жоқ екенін хабарлады.",
-    "de": "Das Gesundheitsministerium der Region Altai teilte mit, dass es keinen Mangel an einem wichtigen Medikament für Menschen mit Diabetes gibt.",
-    "es": "El Ministerio de Salud de la región de Altái informó de que no hay escasez de un medicamento importante para personas con diabetes."
-   },
-   "url": "https://www.bankfax.ru/povestka/168284/",
-   "src": "Банкфакс",
-   "photoQuery": "pharmacy shelves",
-   "photo": {
-    "id": "u_tvP6pCnq9iI",
-    "url": "https://images.unsplash.com/photo-1642055514517-7b52288890ec?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQxNDY1MTl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Árpád Czapp",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-room-filled-with-lots-of-shelves-filled-with-boxes-and-boxes-tvP6pCnq9iI?utm_source=dia_news&utm_medium=referral",
-    "alt": "a room filled with lots of shelves filled with boxes and boxes"
-   },
-   "body": {
-    "ru": "«Известия», опираясь на данные некоммерческих организаций, насчитали не менее 33 регионов России, где пациенты с диабетом с трудом получают глюкагон, препарат для экстренной помощи при критическом падении сахара в крови. Купить его самостоятельно тоже непросто: по данным редакции, он есть лишь в нескольких аптеках четырёх регионов и в единичном количестве. Минздрав Алтайского края, отвечая на запрос «Банкфакса», заявил, что дефицита в регионе нет.\n\nЭксперты связывают нехватку с перерегистрацией препарата и накопившимся спросом, но перебои длятся больше года. Всероссийская организация родителей детей-инвалидов сообщает, что в Калининградской области и Бурятии получить рецепт сложно, а в Алтайском крае и Ненецком округе лекарства нет, несмотря на выписанные назначения. Пациенты из Башкирии, Вологодской области и других регионов рассказывают о задержках и отказах.\n\nВедомство сообщило, что закупки для льготных категорий идут по федеральному закону на основании заявок медорганизаций, при необходимости проводятся дополнительные закупки. Последняя процедура состоялась 4 августа 2026 года, поставка уже выполнена. Сейчас глюкагоном обеспечиваются восемь пациентов, применяют его эпизодически. В розничных аптеках «Аптеки Алтая» препарата нет. Если лекарства не будет, лечащий врач может скорректировать терапию.\n\nРосздравнадзор сообщил, что с начала года в оборот введено более 30,8 тысячи упаковок, а по данным системы мониторинга остаток составляет около 20 тысяч. У части продавцов цена выросла с примерно 700 рублей до 14 тысяч. Пациенты по отложенным рецептам ждут препарат от двух недель до нескольких месяцев, некоторые обращаются в Росздравнадзор и прокуратуру. Дальнейших официальных шагов в статье не описано.",
-    "en": "Izvestia, citing data from non-profit organizations, counted at least 33 Russian regions where diabetes patients struggle to obtain glucagon, a drug used for emergency treatment when blood sugar drops critically. Buying it independently is also hard: according to the newspaper, it is available only in a few pharmacies in four regions, and in very small quantities. Responding to a Bankfax request, the health ministry of Altai Krai said there is no shortage in the region.\n\nExperts link the gap to the drug's re-registration and built-up demand, though disruptions have lasted more than a year. The All-Russian organization of parents of disabled children reports that obtaining a prescription is difficult in Kaliningrad region and Buryatia, while in Altai Krai and the Nenets Autonomous Okrug the drug is missing despite issued prescriptions. Patients from Bashkortostan, Vologda region and other areas describe delays and refusals.\n\nThe ministry said purchases for privileged groups follow federal law and are based on requests from medical organizations, with extra tenders held when needed. The last procurement took place on 4 August 2026, and the delivery has already been completed. Eight patients currently receive glucagon, which is used occasionally. The state pharmacy operator Aptéki Altaya says glucagon is absent from its retail pharmacies. If the drug is unavailable, the treating doctor can adjust the therapy.\n\nRoszdravnadzor told the newspaper that more than 30.8 thousand packs entered circulation since the start of the year, while a monitoring system shows about 20 thousand remaining. At some sellers the price has risen from roughly 700 rubles to as much as 14 thousand. Patients on deferred prescriptions wait from two weeks to several months, and some turn to the regulator and prosecutors. The article does not describe any further official steps.",
-    "kk": "Ізвестия басылымы коммерциялық емес ұйымдардың деректеріне сүйеніп, Ресейдің кемінде 33 өңірін санаған. Онда қант диабеті бар науқастар глюкагонды алуда қиындық көреді. Бұл препарат қан қантының күрт төмендеген кезде шұғыл көмекке арналған. Оны өз бетінше сатып алу да оңай емес: редакция мәліметінше, ол төрт өңірдегі бірнеше дәріханада ғана және өте аз мөлшерде бар. «Банкфакс» сұрауына жауап берген Алтай өлкесінің денсаулық сақтау министрлігі өңірде тапшылық жоқ екенін мәлімдеді.\n\nСарапшылар тапшылықты препаратты қайта тіркеумен және жинақталған сұранысқа байланыстырады, бірақ үзілістер бір жылдан астам уақыт жалғасып келеді. Мүгедек балалардың ата-аналарының Бүкілресейлік ұйымы Калининград облысында және Бурятияда рецепт алу қиын екенін, ал Алтай өлкесі мен Ненец автономиялық округінде жазылған тағайындауларға қарамастан дәрі жоқ екенін хабарлайды. Башқұртстан, Вологда облысы және басқа аймақтардың науқастары кідірістер мен бас тартулар туралы айтады.\n\nМинистрлік жеңілдік санаттары үшін сатып алуды федералдық заңға сәйкес, медициналық ұйымдардың өтініштері бойынша жүргізетінін, қажет болған жағдайда қосымша конкурстар өткізілетінін айтты. Соңғы сатып алу 2026 жылдың 4 тамызында өтті, жеткізілім аяқталған. Қазір глюкагонмен сегіз науқас қамтамасыз етілген, оны кейде қолданады. «Аптеки Алтая» мемлекеттік операторының бөлшек дәріханаларында глюкагон жоқ. Препарат қолжетімсіз болса, емдеуші дәрігер емдеуді түзете алады.\n\nРосздравнадзор жыл басынан бері айналымға 30,8 мыңнан астам қаптама енгізілгенін, ал мониторинг жүйесі бойынша шамамен 20 мың қаптама қалғанын хабарлаған. Кейбір сатушыларда баға шамамен 700 рубльден 14 мың рубльге дейін көтерілген. Кейінге қалдырылған рецепт бойынша науқастар екі аптадан бірнеше айға дейін күтеді, кейбірі реттеушіге және прокуратураға жүгінеді. Мақалада биліктің одан әрі ресми қадамдары сипатталмаған.",
-    "de": "Die Zeitung „Iswestija“ hat sich auf Daten gemeinnütziger Organisationen gestützt und mindestens 33 russische Regionen gezählt, in denen Menschen mit Diabetes nur mit Mühe das Medikament Glukagon bekommen. Es dient der Notfallbehandlung, wenn der Blutzucker kritisch absinkt. Auch der Kauf auf eigene Faust ist schwierig: Laut Redaktion gibt es das Präparat nur in wenigen Apotheken von vier Regionen und dort in sehr geringen Mengen. Das Gesundheitsministerium der Region Altai erklärte auf eine Anfrage von Bankfax, dass in der Region kein Mangel herrscht.\n\nExperten führen die Lücke auf die Neuzulassung des Mittels und aufgestauten Bedarf zurück, auch wenn die Störungen seit über einem Jahr andauern. Die gesamtrussische Organisation der Eltern behinderter Kinder berichtet, dass man in der Region Kaliningrad und in Burjatien kaum an ein Rezept kommt, während in Altai und im Autonomen Kreis der Nenzen trotz ausgestellter Verordnungen kein Präparat vorhanden ist. Patienten aus Baschkortostan, der Oblast Wologda und anderen Gebieten schildern Verzögerungen und Ablehnungen.\n\nDas Ministerium teilte mit, Beschaffungen für begünstigte Gruppen erfolgten nach Bundesgesetz auf Grundlage von Anträgen medizinischer Einrichtungen, bei Bedarf fänden zusätzliche Ausschreibungen statt. Die letzte Beschaffung fand am 4. August 2026 statt, die Lieferung ist bereits erfolgt. Derzeit werden acht Patienten mit Glukagon versorgt, das nur gelegentlich zum Einsatz kommt. Der staatliche Apothekenbetreiber „Apteki Altaja“ meldet, dass das Mittel in seinen Einzelhandelsapotheken fehlt. Ist das Präparat nicht verfügbar, kann der behandelnde Arzt die Therapie anpassen.\n\nRoszdravnadzor teilte der Zeitung mit, seit Jahresbeginn seien mehr als 30,8 Tausend Packungen in den Umlauf gelangt, laut Monitoringsystem seien etwa 20 Tausend übrig. Bei einigen Verkäufern sei der Preis von rund 700 Rubel auf bis zu 14 Tausend gestiegen. Patienten mit aufgeschobenen Rezepten warten zwischen zwei Wochen und mehreren Monaten, manche wenden sich an die Aufsichtsbehörde und die Staatsanwaltschaft. Weitere behördliche Schritte beschreibt der Artikel nicht.",
-    "es": "El diario Izvestia, basándose en datos de organizaciones sin ánimo de lucro, contabilizó al menos 33 regiones de Rusia donde los pacientes con diabetes tienen dificultades para conseguir glucagón, un fármaco de urgencia para cuando el azúcar en sangre cae de forma crítica. Comprarlo por cuenta propia tampoco es fácil: según la redacción, solo se encuentra en unas pocas farmacias de cuatro regiones y en cantidades mínimas. El Ministerio de Salud de Altái, en respuesta a una consulta de Bankfax, aseguró que en la región no hay escasez.\n\nLos expertos atribuyen la falta al nuevo registro del medicamento y a la demanda acumulada, aunque las interrupciones duran más de un año. La organización panrusa de padres de niños con discapacidad indica que en la región de Kaliningrado y en Buriatia resulta difícil incluso obtener una receta, mientras que en Altái y en el distrito autónomo de Nenetsia no hay fármaco pese a las prescripciones emitidas. Pacientes de Baskortostán, de la región de Vologda y de otras zonas describen retrasos y negativas.\n\nEl ministerio explicó que las compras para grupos con derecho a ayudas se realizan según la ley federal, a partir de solicitudes de los centros médicos, y que se hacen licitaciones adicionales cuando es necesario. La última compra se llevó a cabo el 4 de agosto de 2026 y el suministro ya se completó. Actualmente ocho pacientes reciben glucagón, que se usa de forma ocasional. La empresa estatal Aptéki Altaya informa de que el producto no está en sus farmacias minoristas. Si el medicamento no está disponible, el médico que lleva el caso puede ajustar el tratamiento.\n\nRoszdravnadzor informó de que desde principios de año se pusieron en circulación más de 30,8 mil envases y que, según el sistema de seguimiento, quedan unos 20 mil. En algunos vendedores el precio ha subido de unos 700 rublos hasta 14 mil. Los pacientes con recetas diferidas esperan entre dos semanas y varios meses, y algunos acuden al regulador y a la fiscalía. El artículo no describe más pasos oficiales."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Регионы России, где пациенты столкнулись с трудностями при получении глюкагона",
-      "en": "Russian regions where patients faced difficulties obtaining glucagon",
-      "kk": "Глюкагонды алуда қиындық көрген Ресей өңірлері",
-      "de": "Russische Regionen mit Schwierigkeiten beim Erhalt von Glukagon",
-      "es": "Regiones de Rusia con dificultades para conseguir glucagón"
-     },
-     "v": {
-      "ru": "не менее 33",
-      "en": "at least 33",
-      "kk": "кемінде 33",
-      "de": "mindestens 33",
-      "es": "al menos 33"
-     }
-    },
-    {
-     "k": {
-      "ru": "Упаковки глюкагона, введённые в гражданский оборот с начала года",
-      "en": "Glucagon packs entered circulation since the start of the year",
-      "kk": "Жыл басынан бері айналымға енгізілген глюкагон қаптамалары",
-      "de": "Seit Jahresbeginn in Umlauf gebrachte Glukagon-Packungen",
-      "es": "Envases de glucagón puestos en circulación desde principios de año"
-     },
-     "v": {
-      "ru": "более 30,8 тысячи",
-      "en": "more than 30.8 thousand",
-      "kk": "30,8 мыңнан астам",
-      "de": "mehr als 30,8 Tausend",
-      "es": "más de 30,8 mil"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nQk4_b2M9NQ",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-06",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "В Твери отцу девочки с сахарным диабетом 1 типа передали необходимые расходные материалы",
-    "en": "In Tver, the father of a girl with type 1 diabetes was given needed supplies",
-    "kk": "Тверде 1 типті қант диабеті бар қыздың әкесіне қажетті шығын материалдары берілді",
-    "de": "In Twer erhielt der Vater eines Mädchens mit Typ-1-Diabetes die benötigten Verbrauchsmaterialien",
-    "es": "En Tver, al padre de una niña con diabetes tipo 1 le entregaron los suministros necesarios"
-   },
-   "text": {
-    "ru": "В Твери отцу девочки с диабетом 1 типа передали необходимые расходные материалы.",
-    "en": "In Tver, the father of a girl with type 1 diabetes was given the consumables she needs.",
-    "kk": "Тверде 1 типті диабеті бар қыздың әкесіне қажетті шығын материалдары берілді.",
-    "de": "In Twer wurden dem Vater eines Mädchens mit Typ-1-Diabetes die benötigten Verbrauchsmaterialien übergeben.",
-    "es": "En Tver, al padre de una niña con diabetes tipo 1 le entregaron los consumibles que necesita."
-   },
-   "url": "https://tvernews.ru/news/340081/",
-   "src": "TverNews",
-   "photoQuery": "blood glucose monitor",
-   "photo": {
-    "id": "u_uaN7SjUfWv0",
-    "url": "https://images.unsplash.com/photo-1683123657967-d05ea4980c95?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTN8fGJsb29kJTIwZ2x1Y29zZSUyMG1vbml0b3J8ZW58MXwwfHx8MTc5NDE0NjUxOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-doing-a-finger-prick-test-for-blood-glucose-uaN7SjUfWv0?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person doing a finger prick test for blood glucose"
-   },
-   "body": {
-    "ru": "6 ноября 2026 года губернатор Тверской области Виталий Королев сообщил, что жителю Твери Никите Иванову передали расходные материалы для помпы, которая автоматически подаёт инсулин его дочери с диабетом 1 типа. Вопрос отец поднял во время Прямой линии с главой региона.\n\nКоролев заявил, что задержки с выдачей такого оборудования недопустимы, поскольку от них напрямую зависит качество жизни пациентов. Министерству здравоохранения поручено контролировать сроки закупок жизненно важных материалов. По словам губернатора, семьи не должны ждать Прямой линии, чтобы решить подобные вопросы.\n\nКроме того, курирующему здравоохранение заместителю председателя правительства и отраслевому министру поручено лично контролировать программу бесплатного обеспечения детей-инвалидов с диабетом 1 типа инсулиновыми помпами и расходными материалами. По словам губернатора, каждый ребёнок, которому нужна такая терапия, должен получать её вовремя.\n\nВ публикации не указаны количество переданных материалов, возраст девочки, модель помпы и продолжительность задержки. Также не сказано, когда состоится следующая закупка. Комментариев семьи и Минздрава в тексте нет.",
-    "en": "On November 6, 2026, Tver region governor Vitaly Korolev announced that Nikita Ivanov, a resident of Tver, had received consumables for the insulin pump that delivers insulin automatically to his daughter, who has type 1 diabetes. The father raised the issue with the governor during a live call-in session known as the \"Direct Line.\"\n\nKorolev said that delays in issuing this equipment are unacceptable, because they directly affect patients' quality of life. He instructed the regional health ministry to monitor the timing of purchases of these vital supplies. In his words, families should not have to wait for a Direct Line session to get such problems solved.\n\nHe also assigned the deputy chair of the regional government who oversees healthcare, together with the industry minister, to personally supervise a programme that provides insulin pumps and consumables free of charge to children with disabilities who have type 1 diabetes. According to the governor, every child who needs this therapy should receive it on time.\n\nThe report does not say how many supplies were handed over, the girl's age, the pump model, or how long the delay lasted. It also does not state when the next purchase will take place. The article includes no comments from the family or the ministry.",
-    "kk": "2026 жылғы 6 қарашада Тверь облысының губернаторы Виталий Королев Тверь тұрғыны Никита Ивановқа 1-типті қант диабеті бар қызының инсулинді автоматты түрде беретін помпасына арналған шығыс материалдары берілгенін хабарлады. Әкесі бұл мәселені губернаторға «Прямая линия» (Тікелей байланыс) эфирінде көтерген.\n\nКоролевтің айтуынша, мұндай жабдықты беруде кідіріске жол беруге болмайды, себебі бұл пациенттердің өмір сапасына тікелей әсер етеді. Ол денсаулық сақтау министрлігіне маңызды материалдарды сатып алу мерзімдерін бақылауды тапсырды. Оның сөзінше, отбасылар мұндай мәселелерді шешу үшін Тікелей байланыс эфирін күтпеуі керек.\n\nСонымен қатар ол денсаулық сақтауды қадағалайтын өңірлік үкімет төрағасының орынбасарына және салалық министрге 1-типті қант диабеті бар мүгедек балаларды инсулин помпаларымен және шығыс материалдарымен тегін қамтамасыз ету бағдарламасын жеке бақылауды тапсырды. Губернатордың айтуынша, осы терапияға мұқтаж әрбір баланы оны уақытылы алуы тиіс.\n\nХабарламада берілген материалдардың саны, қыздың жасы, помпа моделі және кідірістің ұзақтығы көрсетілмеген. Келесі сатып алу қашан өтетіні де айтылмаған. Мақалада отбасының немесе министрліктің пікірі берілмеген.",
-    "de": "Am 6. November 2026 teilte der Gouverneur der Region Twer, Witali Korolew, mit, dass dem Einwohner Nikita Iwanow Verbrauchsmaterial für die Insulinpumpe seiner Tochter übergeben wurde. Die Pumpe gibt Insulin automatisch ab. Der Vater hatte das Problem während der „Prjamaja linija“ (Direktleitung), einer live übertragenen Bürgersprechstunde mit dem Gouverneur, angesprochen.\n\nKorolew erklärte, Verzögerungen bei der Ausgabe solcher Geräte seien nicht hinnehmbar, weil davon die Lebensqualität der Patienten unmittelbar abhänge. Das Gesundheitsministerium der Region soll die Beschaffungstermine für diese lebenswichtigen Materialien überwachen. Familien sollten, so der Gouverneur, nicht erst auf eine Direktleitung warten müssen, um solche Fragen zu klären.\n\nAußerdem beauftragte er den stellvertretenden Regierungschef, der für das Gesundheitswesen zuständig ist, gemeinsam mit dem Branchenminister, die kostenlose Versorgung von Kindern mit Behinderung und Typ-1-Diabetes mit Insulinpumpen und Verbrauchsmaterial persönlich zu kontrollieren. Jedes Kind, das diese Therapie brauche, müsse sie rechtzeitig erhalten, so der Gouverneur.\n\nDer Bericht nennt weder die Menge der übergebenen Materialien noch das Alter des Mädchens, das Pumpenmodell oder die Dauer der Verzögerung. Auch wann die nächste Beschaffung stattfindet, wird nicht angegeben. Stellungnahmen der Familie oder des Ministeriums enthält der Artikel nicht.",
-    "es": "El 6 de noviembre de 2026, el gobernador de la región de Tver, Vitali Koroliov, informó de que Nikita Ivanov, vecino de la ciudad, recibió materiales de consumo para la bomba de insulina que administra insulina de forma automática a su hija, que tiene diabetes tipo 1. El padre planteó el problema al gobernador durante la «Línea directa», una sesión de preguntas en directo con la máxima autoridad regional.\n\nKoroliov afirmó que los retrasos en la entrega de este equipo son inaceptables, porque afectan directamente la calidad de vida de los pacientes. Ordenó al ministerio de Salud regional vigilar los plazos de compra de estos suministros esenciales. Según dijo, las familias no deberían tener que esperar a una línea directa para resolver este tipo de asuntos.\n\nAdemás, encargó al vicepresidente del gobierno regional responsable de la sanidad y al ministro del sector que supervisen personalmente el programa de suministro gratuito de bombas de insulina y materiales de consumo a niños con discapacidad y diabetes tipo 1. Según el gobernador, cada niño que necesite esta terapia debe recibirla a tiempo.\n\nEl texto no indica la cantidad de materiales entregados, la edad de la niña, el modelo de la bomba ni cuánto duró el retraso. Tampoco señala cuándo se realizará la próxima compra. El artículo no incluye comentarios de la familia ni del ministerio."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Дата передачи расходных материалов",
-      "en": "Date supplies were handed over",
-      "kk": "Материалдар берілген күн",
-      "de": "Datum der Übergabe der Materialien",
-      "es": "Fecha de entrega de los materiales"
-     },
-     "v": {
-      "ru": "6 ноября 2026 года",
-      "en": "November 6, 2026",
-      "kk": "2026 жылғы 6 қараша",
-      "de": "6. November 2026",
-      "es": "6 de noviembre de 2026"
-     }
-    },
-    {
-     "k": {
-      "ru": "Категория получателей бесплатной программы",
-      "en": "Recipients of the free programme",
-      "kk": "Тегін бағдарлама алушылары",
-      "de": "Empfänger des kostenlosen Programms",
-      "es": "Destinatarios del programa gratuito"
-     },
-     "v": {
-      "ru": "дети-инвалиды с сахарным диабетом 1 типа",
-      "en": "children with disabilities who have type 1 diabetes",
-      "kk": "1-типті қант диабеті бар мүгедек балалар",
-      "de": "Kinder mit Behinderung und Typ-1-Diabetes",
-      "es": "niños con discapacidad y diabetes tipo 1"
-     }
-    }
-   ]
-  },
-  {
-   "id": "npOaD9vYz01",
-   "cat": "community",
-   "stage": "campaign",
-   "date": "2026-11-06",
-   "added": "2026-11-08T14:01:56.210Z",
-   "title": {
-    "ru": "Эндокринолог Минздрава РФ подтвердила важность вакцинации от гриппа для пациентов с диабетом",
-    "en": "Endocrinologist confirms importance of flu vaccination for patients with diabetes",
-    "kk": "Ресей Денсаулық сақтау министрлігінің эндокринологы диабеті бар науқастар үшін тұмауға қарсы вакцинацияның маңыздылығын растады",
-    "de": "Endokrinologin bestätigt Bedeutung der Grippeimpfung für Menschen mit Diabetes",
-    "es": "Endocrinóloga confirma la importancia de la vacunación contra la gripe en pacientes con diabetes"
-   },
-   "text": {
-    "ru": "Эндокринолог Минздрава РФ подтвердила, что вакцинация от гриппа важна для пациентов с диабетом.",
-    "en": "An endocrinologist from the Russian Health Ministry confirmed that flu vaccination is important for patients with diabetes.",
-    "kk": "Ресей Денсаулық сақтау министрлігінің эндокринологы диабеті бар науқастар үшін тұмауға қарсы вакцинацияның маңызды екенін растады.",
-    "de": "Eine Endokrinologin des russischen Gesundheitsministeriums bestätigte, dass die Grippeimpfung für Menschen mit Diabetes wichtig ist.",
-    "es": "Una endocrinóloga del Ministerio de Salud de Rusia confirmó que la vacunación contra la gripe es importante para los pacientes con diabetes."
-   },
-   "url": "https://riac34.ru/news/230645/",
-   "src": "РИАЦ",
-   "photoQuery": "flu vaccine syringe",
-   "photo": {
-    "id": "u_cM1aU42FnRg",
-    "url": "https://images.unsplash.com/photo-1611694449252-02453c27856a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Zmx1JTIwdmFjY2luZSUyMHN5cmluZ2V8ZW58MXwwfHx8MTc5NDE0NjUyMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Mufid Majnun",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/person-drawing-liquid-into-syringe-cM1aU42FnRg?utm_source=dia_news&utm_medium=referral",
-    "alt": "A person in white latex gloves drawing liquid from a vial into a syringe"
-   },
-   "body": {
-    "ru": "6 ноября 2026 года волгоградское информационное издание РИАЦ опубликовало материал, в котором Наталья Мокрышева, директор НМИЦ эндокринологии имени академика И.И. Дедова Минздрава России, объяснила, зачем людям с диабетом нужна прививка от гриппа.\n\nПо её словам, диабет заметно повышает вероятность тяжёлого течения гриппа и других респираторных инфекций. Среди причин она назвала хроническое воспаление и ослабление иммунной защиты. Вирусы также могут поднимать уровень глюкозы или делать его нестабильным, что затрудняет контроль над болезнью и повышает риск декомпенсации, диабетического кетоацидоза и гиперосмолярного состояния.\n\nПрививку назвали основным и наиболее эффективным средством: она помогает не заболеть, а при заражении снижает риск осложнений, госпитализации и неблагоприятного исхода.\n\nРекомендация касается всех пациентов с любым типом диабета. Отдельно выделены люди старше 65 лет, у которых риск тяжёлой пневмонии заметно выше, а также пациенты с сосудистыми осложнениями, сердечно-сосудистыми заболеваниями, хронической болезнью почек, находящиеся на диализе или после пересадки почки. Отсутствие целевых показателей гликемии не мешает вакцинации, однако при выраженной декомпенсации нужна осторожность. Если возникли острые метаболические осложнения, прививку делают после стабилизации состояния. Перед вакцинацией следует проконсультироваться с врачом, который при необходимости скорректирует сахароснижающую терапию.",
-    "en": "On November 6, 2026, the Volgograd regional outlet RIAC published a piece in which Natalia Mokrysheva, director of the Dedov National Medical Research Center of Endocrinology under Russia's Health Ministry, explained why people with diabetes need a flu shot.\n\nAccording to her, diabetes markedly raises the likelihood that influenza or other respiratory infections will take a severe course. She named chronic inflammation and a weakened immune defense among the reasons. Viral illness can also push blood glucose up or make it unstable, which complicates control and raises the risk of decompensation, diabetic ketoacidosis and hyperosmolar states.\n\nThe vaccine is described as the main and most effective tool: it helps prevent the illness and, if infection occurs, lowers the risk of complications, hospital admission and a poor outcome.\n\nThe recommendation applies to all patients with any type of diabetes. The piece singles out people over 65, whose risk of severe pneumonia is considerably higher, as well as patients with vascular complications, cardiovascular disease, chronic kidney disease, those on dialysis, and those who have had a kidney transplant. Not reaching glycemic targets does not rule out vaccination, but caution is needed when diabetes is markedly decompensated. If an acute metabolic complication has occurred, vaccination takes place once the condition has stabilized. Patients should talk to a doctor beforehand, who may adjust glucose-lowering treatment if needed.",
-    "kk": "2026 жылдың 6 қарашасында Волгоград облысының РИАЦ ақпарат басылымы материал жариялады. Онда Ресей Денсаулық сақтау министрлігінің академик И.И. Дедов атындағы эндокринология ҰМЗО директоры Наталья Мокрышева диабеті бар адамдарға неге тұмауға қарсы егу қажет екенін түсіндірді.\n\nОның айтуынша, диабет тұмау және басқа тыныс алу жолдарының инфекциялары ауыр өтуінің ықтималдығын едәуір арттырады. Себептер ретінде ол созылмалы қабыну мен иммунитеттің әлсіреуін атады. Вирустық ауру қан глюкозасын көтеруі немесе оны тұрақсыз етуі мүмкін, бұл бақылауды қиындатып, декомпенсация, диабеттік кетоацидоз және гиперосмолярлық күй қаупін арттырады.\n\nЕгу негізгі әрі ең тиімді құрал ретінде сипатталады: ол ауырудың алдын алуға көмектеседі, ал жұқтырған жағдайда асқыну, госпитализация және жағымсыз нәтиже қаупін төмендетеді.\n\nҰсыныс диабеттің кез келген түрі бар барлық пациенттерге қатысты. Материалда 65 жастан асқан адамдар бөлек атап өтілген, олардың ауыр пневмония қаупі едәуір жоғары. Сондай-ақ қан тамырлары асқынулары, жүрек-қан тамырлары аурулары, созылмалы бүйрек ауруы бар, диализде отырған немесе бүйрегі ауыстырылған пациенттер де осы топқа кіреді. Глюкоза мақсатты көрсеткіштеріне жетпеу егуге кедергі емес, бірақ диабет айтарлықтай декомпенсацияланғанда абай болу керек. Өткір метаболикалық асқыну болса, егу жағдай тұрақтанғаннан кейін жасалады. Егуге дейін дәрігермен кеңесу қажет, ол қажет болса глюкозаны төмендететін емді түзетуі мүмкін.",
-    "de": "Am 6. November 2026 veröffentlichte das Volgograder Regionalmedium RIAC einen Beitrag, in dem Natalja Mokryscheva, Direktorin des Dedow-Zentrums für Endokrinologie beim russischen Gesundheitsministerium, erklärte, weshalb Menschen mit Diabetes eine Grippeimpfung brauchen.\n\nIhren Angaben zufolge steigert Diabetes deutlich die Wahrscheinlichkeit, dass eine Influenza oder andere Atemwegsinfektionen schwer verlaufen. Als Ursachen nannte sie chronische Entzündungen und eine geschwächte Immunabwehr. Virale Erkrankungen können außerdem den Blutzucker in die Höhe treiben oder instabil machen, was die Kontrolle erschwert und das Risiko einer Dekompensation, diabetischen Ketoazidose sowie hyperosmolarer Zustände erhöht.\n\nDie Impfung wird als wichtigste und wirksamste Maßnahme dargestellt: Sie hilft, die Erkrankung zu verhindern, und senkt bei einer Infektion das Risiko von Komplikationen, Krankenhausaufenthalt und ungünstigem Verlauf.\n\nDie Empfehlung gilt für alle Patienten mit jeder Diabetesform. Hervorgehoben werden Menschen über 65 Jahre, deren Risiko für eine schwere Lungenentzündung deutlich höher liegt, sowie Patienten mit Gefäßkomplikationen, Herz-Kreislauf-Erkrankungen, chronischer Nierenerkrankung, Dialysepatienten und Menschen nach einer Nierentransplantation. Das Verfehlen glykämischer Zielwerte schließt eine Impfung nicht aus, doch bei deutlicher Entgleisung ist Vorsicht geboten. Nach akuten Stoffwechselkomplikationen wird geimpft, sobald sich der Zustand stabilisiert hat. Vor der Impfung sollte ein Arzt aufgesucht werden, der bei Bedarf die blutzuckersenkende Therapie anpasst.",
-    "es": "El 6 de noviembre de 2026, el medio regional RIAC, de Volgogrado, publicó un texto en el que Natalia Mokrysheva, directora del Centro Nacional de Investigación en Endocrinología Dedov del Ministerio de Salud de Rusia, explicó por qué las personas con diabetes necesitan vacunarse contra la gripe.\n\nSegún sus palabras, la diabetes aumenta de forma notable la probabilidad de que la gripe u otras infecciones respiratorias tengan un curso grave. Entre las causas mencionó la inflamación crónica y el debilitamiento de las defensas inmunitarias. Además, las infecciones virales pueden elevar la glucosa en sangre o volverla inestable, lo que complica el control y eleva el riesgo de descompensación, cetoacidosis diabética y estados hiperosmolares.\n\nLa vacuna se presenta como la herramienta principal y más eficaz: ayuda a prevenir la enfermedad y, si hay contagio, reduce el riesgo de complicaciones, hospitalización y mal desenlace.\n\nLa recomendación se aplica a todos los pacientes con cualquier tipo de diabetes. El texto destaca a las personas mayores de 65 años, cuyo riesgo de neumonía grave es considerablemente mayor, y también a quienes tienen complicaciones vasculares, enfermedades cardiovasculares, enfermedad renal crónica, quienes están en diálisis o han recibido un trasplante de riñón. No alcanzar las metas glucémicas no impide vacunarse, aunque hay que actuar con cautela si la diabetes está muy descompensada. Tras una complicación metabólica aguda, la vacunación se realiza una vez estabilizado el estado del paciente. Antes de vacunarse conviene consultar al médico, que puede ajustar el tratamiento para bajar el azúcar si es necesario."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Возрастной порог, с которого риск тяжёлой пневмонии при гриппе особенно высок",
-      "en": "Age from which the risk of severe pneumonia is considerably higher",
-      "kk": "Ауыр пневмония қаупі едәуір жоғары болатын жас шегі",
-      "de": "Alter, ab dem das Risiko einer schweren Lungenentzündung deutlich höher liegt",
-      "es": "Edad a partir de la cual el riesgo de neumonía grave es considerablemente mayor"
-     },
-     "v": {
-      "ru": "старше 65 лет",
-      "en": "over 65",
-      "kk": "65 жастан асқан",
-      "de": "über 65 Jahre",
-      "es": "mayores de 65 años"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nGRSP29jPTU",
-   "cat": "devices",
-   "stage": "results",
-   "date": "2026-11-06",
-   "added": "2026-11-08T13:57:57.040Z",
-   "title": {
-    "ru": "Голосовой ИИ-помощник улучшил состояние пациентов с диабетом",
-    "en": "Voice AI assistant improved condition of diabetes patients",
-    "kk": "Дауыстық ЖИ көмекшісі диабеті бар пациенттердің жағдайын жақсартты",
-    "de": "Sprachbasierter KI-Assistent verbesserte den Zustand von Diabetespatienten",
-    "es": "Un asistente de voz con IA mejoró el estado de pacientes con diabetes"
-   },
-   "text": {
-    "ru": "Сообщается, что голосовой помощник на основе искусственного интеллекта улучшил состояние пациентов с диабетом.",
-    "en": "A voice-based artificial intelligence assistant has been reported to improve the condition of patients with diabetes.",
-    "kk": "Жасанды интеллектке негізделген дауыстық көмекшінің диабеті бар пациенттердің жағдайын жақсартқаны хабарланды.",
-    "de": "Ein sprachbasierter Assistent mit künstlicher Intelligenz soll den Zustand von Diabetespatienten verbessert haben.",
-    "es": "Se informa de que un asistente de voz basado en inteligencia artificial mejoró el estado de pacientes con diabetes."
-   },
-   "url": "https://zhukovsky.life/news/24120/",
-   "src": "Интернет-газета «ЖУК»",
-   "photoQuery": "smart speaker kitchen",
-   "body": {
-    "ru": "Учёные Сеченовского университета изучили, как ежедневный дистанционный контроль с помощью голосового ИИ-помощника влияет на людей с диабетом 2-го типа и ожирением. По данным пресс-службы вуза, уже через месяц у участников улучшились показатели углеводного обмена и маркеры висцерального ожирения.\n\nВ эксперименте приняли участие 121 доброволец. 71 человек получал стандартное лечение и каждый день общался с голосовым ИИ, а 50 участников получали только стандартную терапию. Наблюдение длилось месяц.\n\nПомощник звонил пациентам в заранее установленное время. Во время звонка люди называли уровень глюкозы и окружность талии, отвечали на вопросы о симптомах гипо- и гипергликемии и получали напоминания о приёме лекарств. При отклонениях или тревожных симптомах система сразу сообщала врачу, который связывался с пациентом и при необходимости корректировал лечение. Устанавливать приложения и выходить в интернет не требовалось, достаточно было мобильной связи.\n\nЧерез месяц в группе с ИИ индекс накопления липидов LAP снизился на 25,9%, индекс висцерального ожирения — на 31,2%, а глюкоза натощак — на 15,1%. В контрольной группе значимых изменений не было. Полностью соблюдали рекомендации 42% участников с ИИ против 18% в контрольной группе, а качество жизни в среднем выросло на семь баллов против одного.\n\nАвторы отмечают ограничения: исследование длилось всего месяц и проводилось в одном центре, поэтому выводы о долгосрочных результатах делать нельзя. Для подтверждения эффекта нужны более крупные и длительные работы с оценкой гликированного гемоглобина и сердечно-сосудистых событий. Статья опубликована в журнале «Кардиология», работа поддержана программой «Приоритет-2030».",
-    "en": "Scientists from Sechenov University have studied how daily remote monitoring through a voice-based AI assistant affects people with type 2 diabetes and obesity. According to the university's press service, participants showed better carbohydrate metabolism and improved markers of visceral obesity after just one month.\n\nThe experiment involved 121 volunteers. Seventy-one of them received standard treatment and talked with the voice AI every day, while the other 50 received standard therapy only. Observation lasted one month.\n\nThe assistant called patients automatically at pre-set times. During each call, people reported their blood glucose level and waist circumference, answered questions about symptoms of low and high blood sugar, and received reminders to take their medication. If readings were abnormal or worrying symptoms appeared, the system immediately alerted a doctor, who contacted the patient and adjusted treatment when necessary. No apps or internet access were required, only a mobile phone signal.\n\nAfter a month, the LAP lipid accumulation index in the AI group had dropped by 25.9%, the visceral obesity index by 31.2%, and fasting glucose by 15.1%. The control group showed no significant changes. Full adherence to recommendations was reported by 42% of AI participants compared with 18% in the control group, and quality of life rose by an average of seven points versus one point.\n\nThe researchers point to clear limits: the study lasted only one month and took place at a single centre, so no conclusions can be drawn about long-term results. Larger and longer studies, including measurement of glycated haemoglobin and cardiovascular events, are needed to confirm the effect. The findings were published in the journal «Кардиология» (Kardiologiya), and the work was supported by the Priority-2030 programme.",
-    "kk": "Сеченов университетінің ғалымдары күнделікті қашықтан бақылау үшін дауыспен басқарылатын ЖИ көмекшісінің 2-типті қант диабеті және семіздігі бар адамдарға әсерін зерттеді. Университеттің баспасөз қызметінің мәліметінше, бір айдан кейін қатысушыларда көмірсу алмасуы көрсеткіштері мен висцералды семіздікпен байланысты маркерлер жақсарған.\n\nЗерттеуге 121 ерікті қатысты. Олардың 71-і стандартты емделуді алып, күн сайын дауыспен басқарылатын ЖИ-мен сөйлесті, ал қалған 50-і тек стандартты емдеу алды. Бақылау бір ай бойы жүргізілді.\n\nКөмекші пациенттерге белгіленген уақытта автоматты түрде қоңырау шалды. Әр қоңырау кезінде адамдар қандағы глюкоза деңгейі мен бел шеңберін айтып, гипо- және гипергликемия белгілері туралы сұрақтарға жауап берді және дәрі қабылдау туралы еске салуды алды. Көрсеткіштер қалыптан ауытқыса немесе алаңдатарлық белгілер пайда болса, жүйе бірден дәрігерге хабар беріп, ол пациентпен байланысып, қажет болған жағдайда емдеуді түзетті. Қосымшаларды орнатудың және интернетке кіrudің қажеті болмады, тек ұялы байланыс жеткілікті болды.\n\nБір айдан кейін ЖИ тобында LAP липид жинақтау индексі 25,9%-ға, висцералды семіздік индексі 31,2%-ға, ал аш қарындағы глюкоза 15,1%-ға төмендеді. Бақылау тобында айтарлықтай өзгеріс байқалмады. Ұсынымдарды толық сақтаған ЖИ қатысушылары 42%, бақылау тобында бұл көрсеткіш 18% болды; өмір сапасы орташа есеппен жеті балға көтерілді, бақылау тобында — бір балға ғана.\n\nАвторлар шектеулерді атап өтеді: зерттеу бір ай ғана жүргізіліп, бір орталықта өткізілгендіктен, ұзақ мерзімді нәтижелер туралы қорытынды жасауға болмайды. Әсерді растау үшін гликирленген гемоглобин мен жүрек-қан тамырлық оқиғаларды бағалайтын ірі әрі ұзақ мерзімді зерттеулер қажет. Мақала «Кардиология» журналында жарияланды, жұмыс «Приоритет-2030» бағдарламасының қолдауымен орындалды.",
-    "de": "Forschende der Sechenow-Universität haben untersucht, wie sich eine tägliche Fernüberwachung mit einem sprachgesteuerten KI-Assistenten auf Menschen mit Typ-2-Diabetes und Adipositas auswirkt. Laut der Pressestelle der Hochschule verbesserten sich bei den Teilnehmenden schon nach einem Monat die Werte des Kohlenhydratstoffwechsels sowie Marker für viszerales Fett.\n\nAn der Studie nahmen 121 Freiwillige teil. 71 von ihnen erhielten die übliche Behandlung und sprachen täglich mit der KI, während 50 nur die Standardtherapie bekamen. Die Beobachtung dauerte einen Monat.\n\nDer Assistent rief die Patientinnen und Patienten zu festgelegten Zeiten automatisch an. Dabei nannten sie ihren Blutzuckerwert und ihren Taillenumfang, beantworteten Fragen zu Symptomen von Unter- und Überzuckerung und bekamen Erinnerungen an die Medikamenteneinnahme. Wichen die Werte ab oder traten beunruhigende Beschwerden auf, informierte das System sofort eine Ärztin oder einen Arzt, der sich meldete und die Behandlung bei Bedarf anpasste. Eine App musste nicht installiert werden, und ein Internetzugang war nicht nötig; ein Mobilfunksignal genügte.\n\nNach einem Monat war in der KI-Gruppe der LAP-Index zur Fettansammlung um 25,9 % gesunken, der Index für viszerale Adipositas um 31,2 % und der Nüchternglukosewert um 15,1 %. In der Kontrollgruppe gab es keine nennenswerten Veränderungen. Vollständig an die Empfehlungen hielten sich 42 % der KI-Teilnehmenden gegenüber 18 % in der Kontrollgruppe, und die Lebensqualität stieg im Mittel um sieben Punkte, verglichen mit einem Punkt in der Kontrollgruppe.\n\nDie Forschenden nennen klare Grenzen: Die Studie dauerte nur einen Monat und fand an einem einzigen Zentrum statt, daher lassen sich keine Aussagen zu Langzeitergebnissen treffen. Größere und längere Untersuchungen, unter anderem mit Messung des HbA1c und kardiovaskulärer Ereignisse, sind nötig, um den Effekt zu bestätigen. Der Artikel erschien in der Zeitschrift „Кардиология“ (Kardiologija); die Arbeit wurde durch das Programm „Priorität-2030“ gefördert.",
-    "es": "Científicos de la Universidad Sechenov estudiaron cómo el seguimiento remoto diario con un asistente de voz basado en inteligencia artificial afecta a personas con diabetes tipo 2 y obesidad. Según el servicio de prensa de la universidad, tras solo un mes los participantes mostraron mejoras en los indicadores del metabolismo de los carbohidratos y en marcadores vinculados a la obesidad visceral.\n\nEn el estudio participaron 121 voluntarios. 71 recibieron el tratamiento habitual y conversaban a diario con la IA de voz, mientras que los 50 restantes solo siguieron la terapia estándar. La observación duró un mes.\n\nEl asistente llamaba automáticamente a los pacientes a horas programadas. Durante cada llamada, las personas indicaban su nivel de glucosa y el perímetro de cintura, respondían preguntas sobre síntomas de hipo- e hiperglucemia y recibían recordatorios para tomar sus medicamentos. Si los valores salían de lo normal o aparecían síntomas preocupantes, el sistema avisaba de inmediato a un médico, que contactaba al paciente y, si era necesario, ajustaba el tratamiento. No hacía falta instalar aplicaciones ni tener acceso a internet; bastaba con la señal del teléfono móvil.\n\nAl cabo de un mes, en el grupo con IA el índice de acumulación de lípidos LAP había bajado un 25,9 %, el índice de obesidad visceral un 31,2 % y la glucosa en ayunas un 15,1 %. En el grupo de control no hubo cambios significativos. Cumplían plenamente las recomendaciones el 42 % de quienes usaban la IA, frente al 18 % del grupo de control, y la calidad de vida subió en promedio siete puntos, frente a uno en el grupo de control.\n\nLos investigadores señalan límites claros: el estudio duró solo un mes y se realizó en un único centro, así que no permite conclusiones sobre resultados a largo plazo. Hacen falta estudios más amplios y prolongados, con medición de la hemoglobina glicosilada y de eventos cardiovasculares, para confirmar el efecto. El artículo se publicó en la revista «Кардиология» (Kardiologiya), y el trabajo contó con el apoyo del programa Prioridad-2030."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Снижение индекса LAP в группе с ИИ за месяц",
-      "en": "Drop in LAP index in the AI group over one month",
-      "kk": "ЖИ тобында бір айда LAP индексінің төмендеуі",
-      "de": "Rückgang des LAP-Index in der KI-Gruppe innerhalb eines Monats",
-      "es": "Descenso del índice LAP en el grupo con IA en un mes"
-     },
-     "v": {
-      "ru": "25,9%",
-      "en": "25.9%",
-      "kk": "25,9%",
-      "de": "25,9 %",
-      "es": "25,9 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Полностью соблюдали рекомендации: группа с ИИ / контроль",
-      "en": "Full adherence to recommendations: AI group / control group",
-      "kk": "Ұсынымдарды толық сақтағандар: ЖИ тобы / бақылау тобы",
-      "de": "Vollständige Einhaltung der Empfehlungen: KI-Gruppe / Kontrollgruppe",
-      "es": "Cumplimiento total de las recomendaciones: grupo con IA / grupo de control"
-     },
-     "v": {
-      "ru": "42% / 18%",
-      "en": "42% / 18%",
-      "kk": "42% / 18%",
-      "de": "42 % / 18 %",
-      "es": "42 % / 18 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Участники исследования (с ИИ / контроль)",
-      "en": "Study participants (AI / control)",
-      "kk": "Зерттеу қатысушылары (ЖИ / бақылау)",
-      "de": "Studienteilnehmende (KI / Kontrolle)",
-      "es": "Participantes del estudio (IA / control)"
-     },
-     "v": {
-      "ru": "121 (71 / 50)",
-      "en": "121 (71 / 50)",
-      "kk": "121 (71 / 50)",
-      "de": "121 (71 / 50)",
-      "es": "121 (71 / 50)"
+      "ru": "8–22 мес.",
+      "en": "8–22 months",
+      "kk": "8–22 ай",
+      "de": "8–22 Monate",
+      "es": "8–22 meses"
      }
     }
    ],
+   "url": "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
+   "src": "Eledon / Breakthrough T1D",
+   "photoQuery": "surgeon operating room",
    "photo": {
-    "id": "u_d78l0WcpZTE",
-    "url": "https://images.unsplash.com/photo-1722232183086-32395a4ebc52?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c21hcnQlMjBzcGVha2VyJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MTQ2NTIzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Jakub Żerdzicki",
+    "id": "u_KrsoedfRAf4",
+    "url": "https://images.unsplash.com/photo-1579684453423-f84349ef60b0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c3VyZ2VvbiUyMG9wZXJhdGluZyUyMHJvb218ZW58MXwwfHx8MTc5NDIwNzgyM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
     "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-kitchen-counter-d78l0WcpZTE?utm_source=dia_news&utm_medium=referral",
-    "alt": "A laptop computer sitting on top of a kitchen counter"
+    "link": "https://unsplash.com/photos/surgeons-performing-surgery-in-operating-room-KrsoedfRAf4?utm_source=dia_news&utm_medium=referral",
+    "alt": "Four surgeons in blue scrubs and masks performing surgery in a bright operating room"
+   }
+  },
+  {
+   "id": "cure-stanford-tolerance",
+   "cat": "cure",
+   "stage": "early",
+   "date": "2026-04-28",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Стэнфорд: островки и костный мозг от одного донора — шаг к пересадке без пожизненных лекарств",
+    "en": "Stanford: islets and bone marrow from one donor, a step toward transplants without lifelong drugs",
+    "kk": "Стэнфорд: бір донордың аралшықтары мен сүйек кемігі — өмір бойы дәрісіз ауыстыруға қадам",
+    "de": "Stanford: Inselzellen und Knochenmark vom selben Spender – ein Schritt zu Transplantationen ohne lebenslange Medikamente",
+    "es": "Stanford: islotes y médula ósea del mismo donante, un paso hacia trasplantes sin fármacos de por vida"
+   },
+   "text": {
+    "ru": "Врачи Стэнфорда впервые пересадили донорские островки вместе с костным мозгом того же донора, чтобы иммунитет принял клетки как свои. Время в целевом диапазоне сахара у пациента выросло с менее чем 40% почти до 100%.",
+    "en": "Stanford doctors for the first time transplanted donor islets together with bone marrow from the same donor so the immune system would accept the cells as its own. The patient's time in glucose target range rose from under 40% to nearly 100%.",
+    "kk": "Стэнфорд дәрігерлері алғаш рет донорлық аралшықтарды сол донордың сүйек кемігімен бірге ауыстырды, иммунитет жасушаларды өзінікі ретінде қабылдауы үшін. Пациенттің мақсатты диапазондағы уақыты 40%-дан төменнен шамамен 100%-ға дейін өсті.",
+    "de": "Ärzte in Stanford transplantierten erstmals Spender-Inselzellen zusammen mit Knochenmark desselben Spenders, damit das Immunsystem die Zellen als eigene akzeptiert. Die Zeit im Zielbereich stieg beim Patienten von unter 40 % auf fast 100 %.",
+    "es": "Médicos de Stanford trasplantaron por primera vez islotes de donante junto con médula ósea del mismo donante para que el sistema inmune acepte las células como propias. El tiempo en rango del paciente pasó de menos del 40 % a casi el 100 %."
+   },
+   "body": {
+    "ru": "В апреле 2026 года Стэнфордский медицинский центр рассказал о первой пересадке донорских островков с индукцией иммунной толерантности. Процедуру провели в мае 2025 года в рамках программы SPIRIT. Идею называют «смешанным химеризмом»: вместе с островками пациент получает костный мозг того же донора, и иммунная система учится считать донорские клетки своими.\n\nОстровки умершего донора выделили специалисты UCSF и ввели в печень, а на следующий день пациенту перелили донорский костный мозг. Вся госпитализация заняла четыре дня — гораздо меньше, чем восстановление после пересадки поджелудочной железы.\n\nПосле процедуры у пациента вырос С-пептид — признак того, что островки прижились и вырабатывают инсулин. Время в целевом диапазоне сахара увеличилось с менее чем 40% почти до 100%.\n\nВажная оговорка: у этого пациента раньше была пересадка почки, поэтому он и так принимает препараты против отторжения, и проверить, можно ли обойтись без них, в его случае нельзя. Команда — хирург Стефан Буск, нефролог Джейн Тан, гематолог Эверетт Мейер и другие — планирует лечить новых пациентов, начиная с людей с нераспознаваемыми гипогликемиями, и уже у них оценивать отказ от иммуносупрессии. Продолжение работы зависит от дополнительного финансирования.",
+    "en": "In April 2026, Stanford Health Care described the first donor islet transplant with immune tolerance induction. The procedure was performed in May 2025 under the SPIRIT program. The idea is called mixed chimerism: along with the islets the patient receives bone marrow from the same donor, and the immune system learns to treat the donor cells as its own.\n\nIslets from a deceased donor were isolated by UCSF specialists and infused into the liver, and the next day the patient received the donor's bone marrow. The entire hospital stay took four days, far shorter than recovery from a pancreas transplant.\n\nAfter the procedure the patient's C-peptide rose, a sign that the islets had engrafted and were making insulin. Time in the glucose target range increased from under 40% to nearly 100%.\n\nAn important caveat: this patient had a previous kidney transplant and already takes anti-rejection drugs, so whether they could be stopped could not be tested in his case. The team, including surgeon Stephan Busque, nephrologist Jane Tan and hematologist Everett Meyer, plans to treat more patients, starting with people with hypoglycemia unawareness, and to assess stopping immunosuppression in them. Continuing the work depends on additional funding.",
+    "kk": "2026 жылғы сәуірде Стэнфорд медициналық орталығы иммундық толеранттылықты индукциялай отырып донорлық аралшықтарды алғаш ауыстыру туралы хабарлады. Процедура 2025 жылғы мамырда SPIRIT бағдарламасы аясында жасалды. Бұл идея «аралас химеризм» деп аталады: аралшықтармен бірге пациент сол донордың сүйек кемігін алады, ал иммундық жүйе донор жасушаларын өзінікі деп санауға үйренеді.\n\nҚайтыс болған донордың аралшықтарын UCSF мамандары бөліп алып, бауырға енгізді, ал келесі күні пациентке донордың сүйек кемігі құйылды. Бүкіл ауруханада болу төрт күнге созылды — ұйқы безін ауыстырудан кейінгі қалпына келуден әлдеқайда қысқа.\n\nПроцедурадан кейін пациенттің С-пептиді өсті — бұл аралшықтардың орнығып, инсулин шығарып жатқанының белгісі. Мақсатты диапазондағы уақыт 40%-дан төменнен шамамен 100%-ға дейін артты.\n\nМаңызды ескерту: бұл пациентке бұрын бүйрек ауыстырылған, сондықтан ол тосырқауға қарсы препараттарды онсыз да қабылдайды, оның жағдайында олардан бас тартуға болатынын тексеру мүмкін емес. Хирург Стефан Буск, нефролог Джейн Тан, гематолог Эверетт Мейер және басқалардан тұратын топ жаңа пациенттерді, ең алдымен гипогликемияны сезбейтін адамдарды емдеуді және соларда иммуносупрессиядан бас тартуды бағалауды жоспарлап отыр. Жұмыстың жалғасуы қосымша қаржыландыруға байланысты.",
+    "de": "Im April 2026 berichtete Stanford Health Care über die erste Transplantation von Spender-Inselzellen mit Induktion von Immuntoleranz. Der Eingriff fand im Mai 2025 im Rahmen des Programms SPIRIT statt. Das Prinzip heißt gemischter Chimärismus: Zusammen mit den Inselzellen erhält der Patient Knochenmark desselben Spenders, und das Immunsystem lernt, die Spenderzellen als eigene zu behandeln.\n\nInselzellen eines verstorbenen Spenders wurden von UCSF-Spezialisten isoliert und in die Leber gegeben, am Folgetag erhielt der Patient das Knochenmark des Spenders. Der gesamte Klinikaufenthalt dauerte vier Tage – viel kürzer als die Erholung nach einer Pankreastransplantation.\n\nNach dem Eingriff stieg das C-Peptid – ein Zeichen, dass die Inselzellen angewachsen sind und Insulin bilden. Die Zeit im Zielbereich stieg von unter 40 % auf fast 100 %.\n\nWichtige Einschränkung: Der Patient hatte zuvor eine Nierentransplantation und nimmt ohnehin Medikamente gegen Abstoßung, daher ließ sich bei ihm nicht prüfen, ob man darauf verzichten kann. Das Team um den Chirurgen Stephan Busque, die Nephrologin Jane Tan und den Hämatologen Everett Meyer will weitere Patienten behandeln, zunächst Menschen mit unbemerkten Unterzuckerungen, und bei ihnen das Absetzen der Immunsuppression prüfen. Die Fortsetzung hängt von zusätzlicher Finanzierung ab.",
+    "es": "En abril de 2026, Stanford Health Care informó del primer trasplante de islotes de donante con inducción de tolerancia inmunitaria. El procedimiento se realizó en mayo de 2025 dentro del programa SPIRIT. La idea se llama quimerismo mixto: junto con los islotes, el paciente recibe médula ósea del mismo donante y el sistema inmune aprende a tratar las células del donante como propias.\n\nEspecialistas de la UCSF aislaron islotes de un donante fallecido y se infundieron en el hígado; al día siguiente el paciente recibió la médula ósea del donante. Toda la hospitalización duró cuatro días, mucho menos que la recuperación de un trasplante de páncreas.\n\nTras el procedimiento subió el péptido C del paciente, señal de que los islotes prendieron y producen insulina. El tiempo en rango de glucosa pasó de menos del 40 % a casi el 100 %.\n\nSalvedad importante: este paciente tenía un trasplante de riñón previo y ya toma fármacos antirrechazo, por lo que en su caso no se pudo comprobar si podría prescindir de ellos. El equipo —el cirujano Stephan Busque, la nefróloga Jane Tan, el hematólogo Everett Meyer y otros— prevé tratar a más pacientes, empezando por personas con hipoglucemias inadvertidas, y evaluar en ellos la retirada de la inmunosupresión. La continuidad depende de financiación adicional."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Время в диапазоне",
+      "en": "Time in range",
+      "kk": "Диапазондағы уақыт",
+      "de": "Zeit im Zielbereich",
+      "es": "Tiempo en rango"
+     },
+     "v": "<40% → ~100%"
+    },
+    {
+     "k": {
+      "ru": "В больнице",
+      "en": "Hospital stay",
+      "kk": "Ауруханада",
+      "de": "Klinikaufenthalt",
+      "es": "Hospitalización"
+     },
+     "v": {
+      "ru": "4 дня",
+      "en": "4 days",
+      "kk": "4 күн",
+      "de": "4 Tage",
+      "es": "4 días"
+     }
+    }
+   ],
+   "url": "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
+   "src": "Stanford Health Care",
+   "photoQuery": "bone marrow microscope",
+   "photo": {
+    "id": "u_Hu2yPu0vFQ8",
+    "url": "https://images.unsplash.com/photo-1578308175084-0cfbca809d29?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ym9uZSUyMG1hcnJvdyUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDIwNzgyM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "CDC",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/green-brown-and-white-textile-Hu2yPu0vFQ8?utm_source=dia_news&utm_medium=referral",
+    "alt": "green, brown, and white textile"
+   }
+  },
+  {
+   "id": "cure-cipsc-china",
+   "cat": "cure",
+   "stage": "phase1",
+   "date": "2024-09-25",
+   "added": "2026-11-09T07:00:00.000Z",
+   "pin": true,
+   "title": {
+    "ru": "Островки из собственных клеток пациентки: в Китае женщина больше года живёт без инсулина",
+    "en": "Islets grown from the patient's own cells: a woman in China has lived without insulin for over a year",
+    "kk": "Пациенттің өз жасушаларынан өсірілген аралшықтар: Қытайда әйел бір жылдан астам инсулинсіз өмір сүруде",
+    "de": "Inselzellen aus eigenen Zellen: Eine Frau in China lebt seit über einem Jahr ohne Insulin",
+    "es": "Islotes cultivados con las propias células de la paciente: una mujer en China lleva más de un año sin insulina"
+   },
+   "text": {
+    "ru": "Учёные перепрограммировали клетки самой пациентки в стволовые и вырастили из них островки. С 75-го дня после пересадки она не нуждается в инсулине — так было на протяжении всего года наблюдения.",
+    "en": "Scientists reprogrammed the patient's own cells into stem cells and grew islets from them. From day 75 after the transplant she no longer needed insulin, and this held for the whole year of follow-up.",
+    "kk": "Ғалымдар пациенттің өз жасушаларын бағаналы жасушаларға қайта бағдарламалап, олардан аралшықтар өсірді. Ауыстырудан кейінгі 75-ші күннен бастап оған инсулин қажет болмады — бұл бақылаудың бүкіл жылы бойы сақталды.",
+    "de": "Forscher programmierten Zellen der Patientin in Stammzellen um und züchteten daraus Inselzellen. Ab Tag 75 nach der Transplantation brauchte sie kein Insulin mehr – über das gesamte Beobachtungsjahr.",
+    "es": "Los científicos reprogramaron células de la propia paciente en células madre y cultivaron islotes con ellas. Desde el día 75 tras el trasplante no necesitó insulina, y así siguió durante todo el año de seguimiento."
+   },
+   "body": {
+    "ru": "В сентябре 2024 года журнал Cell опубликовал результаты первой в мире аутологичной пересадки островков, выращенных из химически индуцированных плюрипотентных стволовых клеток. Работу возглавили Дэн Хункуй из Пекинского университета и Шэнь Чжунъян из Тяньцзиня.\n\nУ 25-летней пациентки с трудно контролируемым диабетом 1 типа взяли клетки жировой ткани и с помощью набора небольших молекул, без введения генов, превратили их в плюрипотентные стволовые клетки, а затем — в островки. Поскольку клетки свои, риск отторжения как чужеродного трансплантата отпадает. Островки ввели не в печень, а под переднюю оболочку прямой мышцы живота — это место легко наблюдать с помощью МРТ и при необходимости удалить клетки.\n\nДоза инсулина после операции постепенно снижалась, и на 75-й день пациентка полностью отказалась от инсулина. В течение года наблюдения сахар натощак оставался ниже порога диагноза диабета, а время в целевом диапазоне выросло с 43% до 96% к четвёртому месяцу и затем держалось выше 98%. Гликированный гемоглобин опустился до уровня людей без диабета.\n\nОграничения: это один человек и одна фаза 1 исследования (ChiCTR2300072200). Пациентка уже принимала иммуносупрессанты после двух пересадок печени, поэтому вопрос о том, защитят ли собственные клетки от аутоиммунной атаки без лекарств, остаётся открытым. Нужны новые пациенты и долгое наблюдение.",
+    "en": "In September 2024 the journal Cell published the results of the world's first autologous transplant of islets grown from chemically induced pluripotent stem cells. The work was led by Deng Hongkui of Peking University and Shen Zhongyang of Tianjin.\n\nFat-tissue cells were taken from a 25-year-old woman with hard-to-control type 1 diabetes and turned into pluripotent stem cells using a set of small molecules, without inserting genes, and then into islets. Because the cells are her own, the risk of rejection as a foreign graft goes away. The islets were placed not in the liver but under the front sheath of the abdominal rectus muscle, a site that is easy to monitor by MRI and from which the cells could be removed if needed.\n\nHer insulin dose fell gradually after the operation, and on day 75 she stopped insulin completely. Throughout the year of follow-up her fasting glucose stayed below the diabetes threshold, and time in range rose from 43% to 96% by month four, then stayed above 98%. Her HbA1c fell to non-diabetic levels.\n\nLimitations: this is one person and a Phase 1 study (ChiCTR2300072200). The patient was already taking immunosuppressants after two liver transplants, so whether her own cells would be safe from the autoimmune attack without drugs remains an open question. More patients and long follow-up are needed.",
+    "kk": "2024 жылғы қыркүйекте Cell журналы химиялық жолмен индукцияланған плюрипотентті бағаналы жасушалардан өсірілген аралшықтарды әлемде алғаш рет аутологиялық ауыстыру нәтижелерін жариялады. Жұмысты Пекин университетінен Дэн Хункуй және Тяньцзиньнен Шэнь Чжунъян басқарды.\n\nҚиын бақыланатын 1 типті диабеті бар 25 жастағы пациенттен май тінінің жасушалары алынып, гендер енгізбей, шағын молекулалар жиынтығы арқылы плюрипотентті бағаналы жасушаларға, содан кейін аралшықтарға айналдырылды. Жасушалар өзінікі болғандықтан, бөгде трансплантат ретінде тосырқау қаупі жойылады. Аралшықтар бауырға емес, іштің тік бұлшықетінің алдыңғы қабығының астына енгізілді — бұл жерді МРТ арқылы бақылау оңай, қажет болса жасушаларды алып тастауға болады.\n\nОперациядан кейін инсулин дозасы біртіндеп азайып, 75-ші күні пациент инсулиннен толық бас тартты. Бақылаудың бір жылы бойы аш қарынға қант диабет диагнозының шегінен төмен болды, ал мақсатты диапазондағы уақыт төртінші айға қарай 43%-дан 96%-ға дейін өсіп, кейін 98%-дан жоғары болды. Гликирленген гемоглобин диабеті жоқ адамдардың деңгейіне дейін төмендеді.\n\nШектеулер: бұл бір адам және 1 фазалық зерттеу (ChiCTR2300072200). Пациент бауырды екі рет ауыстырғаннан кейін иммуносупрессанттар қабылдап жүрген, сондықтан өз жасушалары дәрісіз аутоиммундық шабуылдан қорғала ма деген сұрақ ашық қалады. Жаңа пациенттер және ұзақ бақылау қажет.",
+    "de": "Im September 2024 veröffentlichte die Fachzeitschrift Cell die Ergebnisse der weltweit ersten autologen Transplantation von Inselzellen aus chemisch induzierten pluripotenten Stammzellen. Geleitet wurde die Arbeit von Deng Hongkui (Peking-Universität) und Shen Zhongyang (Tianjin).\n\nEiner 25-jährigen Patientin mit schwer einstellbarem Typ-1-Diabetes wurden Fettgewebszellen entnommen und mit einem Satz kleiner Moleküle – ohne Einschleusen von Genen – in pluripotente Stammzellen und dann in Inselzellen umgewandelt. Da es ihre eigenen Zellen sind, entfällt die Abstoßung als fremdes Transplantat. Die Inseln wurden nicht in die Leber, sondern unter die vordere Scheide des geraden Bauchmuskels gesetzt – eine Stelle, die sich per MRT gut überwachen lässt und an der die Zellen notfalls entfernt werden können.\n\nIhre Insulindosis sank nach der Operation schrittweise, an Tag 75 verzichtete sie vollständig auf Insulin. Im gesamten Beobachtungsjahr lag der Nüchternzucker unter der Diabetes-Schwelle, die Zeit im Zielbereich stieg bis Monat vier von 43 % auf 96 % und lag danach über 98 %. Der HbA1c sank auf das Niveau von Menschen ohne Diabetes.\n\nEinschränkungen: Es handelt sich um eine Person in einer Phase-1-Studie (ChiCTR2300072200). Die Patientin nahm nach zwei Lebertransplantationen bereits Immunsuppressiva; ob eigene Zellen ohne Medikamente vor dem Autoimmunangriff sicher wären, bleibt offen. Weitere Patienten und lange Beobachtung sind nötig.",
+    "es": "En septiembre de 2024 la revista Cell publicó los resultados del primer trasplante autólogo del mundo de islotes obtenidos de células madre pluripotentes inducidas químicamente. El trabajo lo dirigieron Deng Hongkui, de la Universidad de Pekín, y Shen Zhongyang, de Tianjin.\n\nA una paciente de 25 años con diabetes tipo 1 difícil de controlar se le extrajeron células de tejido graso, que se convirtieron en células madre pluripotentes con un conjunto de moléculas pequeñas, sin introducir genes, y después en islotes. Al ser células propias, desaparece el riesgo de rechazo como injerto ajeno. Los islotes no se colocaron en el hígado sino bajo la vaina anterior del músculo recto del abdomen, un lugar fácil de vigilar por resonancia y del que podrían retirarse si hiciera falta.\n\nSu dosis de insulina bajó poco a poco tras la operación y el día 75 la dejó por completo. Durante todo el año de seguimiento la glucosa en ayunas se mantuvo por debajo del umbral de diabetes y el tiempo en rango pasó del 43 % al 96 % al cuarto mes y después se mantuvo por encima del 98 %. Su HbA1c bajó a niveles de personas sin diabetes.\n\nLimitaciones: es una sola persona y un estudio de fase 1 (ChiCTR2300072200). La paciente ya tomaba inmunosupresores tras dos trasplantes de hígado, así que sigue abierta la pregunta de si sus propias células estarían a salvo del ataque autoinmune sin fármacos. Hacen falta más pacientes y un seguimiento largo."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Без инсулина с",
+      "en": "Insulin-free from",
+      "kk": "Инсулинсіз",
+      "de": "Insulinfrei ab",
+      "es": "Sin insulina desde"
+     },
+     "v": {
+      "ru": "75-го дня",
+      "en": "day 75",
+      "kk": "75-ші күннен",
+      "de": "Tag 75",
+      "es": "el día 75"
+     }
+    },
+    {
+     "k": {
+      "ru": "Время в диапазоне",
+      "en": "Time in range",
+      "kk": "Диапазондағы уақыт",
+      "de": "Zeit im Zielbereich",
+      "es": "Tiempo en rango"
+     },
+     "v": "43% → >98%"
+    },
+    {
+     "k": {
+      "ru": "Наблюдение",
+      "en": "Follow-up",
+      "kk": "Бақылау",
+      "de": "Nachbeobachtung",
+      "es": "Seguimiento"
+     },
+     "v": {
+      "ru": "1 год",
+      "en": "1 year",
+      "kk": "1 жыл",
+      "de": "1 Jahr",
+      "es": "1 año"
+     }
+    }
+   ],
+   "url": "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
+   "src": "Cell",
+   "photoQuery": "woman smiling outdoors healthy",
+   "photo": {
+    "id": "u_wm4DuvIpLj8",
+    "url": "https://images.unsplash.com/photo-1544507888-56d73eb6046e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8d29tYW4lMjBzbWlsaW5nJTIwb3V0ZG9vcnMlMjBoZWFsdGh5fGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jamie Brown",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/woman-smiling-near-tree-outdoor-during-daytime-wm4DuvIpLj8?utm_source=dia_news&utm_medium=referral",
+    "alt": "woman smiling near tree outdoor during daytime"
    }
   }
  ],
  "seen": [
+  "https://gurk.kz/news/den-borby-s-saharny-m-diabetom-karagandinczy-smogut-besplatno-poluchit-konsultaczii-vrachej-i-projti-obsledovaniya",
+  "день борьбы с сахарным диабетом в караганде можно бесплатно пройти обследования",
+  "world diabetes day karaganda residents can get free checks",
+  "https://tmgnews.ru/novosti/v-tuve-startovala-nedelya-borby-s-diabetom/amp/",
+  "в туве стартовала неделя борьбы с диабетом",
+  "diabetes awareness week starts in tuva",
+  "https://nash-krai.ru/nedelya-borby-s-diabetom-na-donu-kak-raspoznat-predotvratit-i-derzhat-pod-kontrolem/",
+  "неделя борьбы с диабетом на дону как распознать предотвратить и контролировать",
+  "diabetes awareness week in the don region how to recognize prevent and control it",
+  "https://tgl.ru/news/item/26080-profilakticheskaya-akciya-saharnyy-diabet-ne-prigovor-kontroliruy-i-zhivi-polnocenno/",
+  "сахарный диабет не приговор в тольятти стартовала профилактическая акция",
+  "diabetes is not a sentence preventive campaign launched in togliatti",
+  "https://www.inform.kz/ru/kak-sohranit-zdorove-nog-pri-diabete-rekomendatsii-hirurga-2f0603a8",
+  "как сохранить здоровье ног при диабете рекомендации хирурга",
+  "how to protect your feet with diabetes surgeon s advice",
+  "https://zur-kazan.ru/news/article/nedelya-borby-s-diabetom-startovala-v-tatarstane-s-9-noyabrya-199916/",
+  "неделя борьбы с диабетом стартовала в татарстане",
+  "diabetes awareness week starts in tatarstan",
+  "https://ysia.ru/v-yakutii-eta-nedelya-posvyashhena-borbe-s-diabetom/",
+  "в якутии эта неделя посвящена борьбе с диабетом",
+  "this week in yakutia is dedicated to fighting diabetes",
+  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
+  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
+  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
   "https://www.nur.kz/health/healthy-lifestyle/2453763-preparaty-ot-ozhireniya-i-diabeta-mogut-zashchitit-pamyat-i-kognitivnye-funkcii-mozga/",
   "препараты от ожирения и диабета могут защитить память и когнитивные функции мозга",
   "obesity and diabetes drugs may protect memory and brain cognitive function",
@@ -3187,6 +2597,12 @@ const DIA_NEWS={
   "https://www.teleport2001.ru/news/2026-11-09/221056-sudya-i-pristavy-spasli-devushku-s-sakharnym-diabetom-kotoraya-upala-v-obmorok-vo-vremya-snegopada.html",
   "судья и приставы помогли девушке с сахарным диабетом которая упала в обморок во время снегопада",
   "judge and bailiffs help young woman with diabetes who fainted during snowfall",
+  "https://bioengineer.org/crispr-beta-cell-regeneration-shows-early-promise-for-long-term-diabetes-management/",
+  "crispr и регенерация бета клеток ранние многообещающие результаты",
+  "crispr beta cell regeneration shows early promise",
+  "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
+  "орловские врачи рассказали как распознать диабет у детей",
+  "orel doctors explain how to recognize diabetes in children",
   "https://vechorka.ru/news/health/shkoly-diabeta-na-stavropole-ispolzuyut-mulyazhi-dlya-otrabotki-zdorovoj-tarelki",
   "школы диабета на ставрополье используют муляжи для отработки здоровой тарелки",
   "diabetes schools in stavropol use models to practise a healthy plate",
@@ -3202,15 +2618,15 @@ const DIA_NEWS={
   "https://www.hibiny.ru/murmanskaya-oblast/news/item-onkologiya-diabet-inetolko-nazvany-glavnye-bolezni-svyazannye-sostareniem-476207/",
   "онкология диабет и деменция названы главными болезнями связанными со старением",
   "cancer diabetes and dementia named main age related diseases",
-  "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
-  "орловские врачи рассказали как распознать диабет у детей",
-  "oryol doctors explain how to recognize diabetes in children",
   "https://bioengineer.org/study-tracks-us-deaths-listing-both-lung-cancer-and-diabetes-across-decades/",
   "исследование в сша за десятилетия фиксировались смерти с указанием и рака лёгких и диабета",
   "study tracks us deaths listing both lung cancer and diabetes across decades",
   "https://bioengineer.org/diabetes-complication-care-expands-beyond-glucose-to-prioritise-organ-vulnerability-and-durability/",
   "уход при диабетических осложнениях выходит за рамки глюкозы приоритет уязвимости органов",
   "diabetes complication care expands beyond glucose to prioritise organ vulnerability",
+  "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
+  "российские вузы создают новые подходы к терапии сахарного диабета",
+  "russian universities develop new approaches to diabetes therapy",
   "https://www.sb.by/articles/vrach-ginekolog-obyasnila-legko-li-zhenshchine-s-sakharnym-diabetom-zaberemenet.html",
   "врач гинеколог объяснила легко ли женщине с сахарным диабетом забеременеть",
   "gynecologist explains whether it is easy for women with diabetes to get pregnant",
@@ -3220,9 +2636,6 @@ const DIA_NEWS={
   "https://bioengineer.org/finnish-observational-study-finds-childhood-type-1-diabetes-fell-after-lockdown/",
   "финское исследование заболеваемость диабетом 1 типа у детей снизилась после локдауна",
   "finnish study finds childhood type 1 diabetes fell after lockdown",
-  "https://vademec.ru/news/2026/11/07/rossiyskie-vuzy-sozdayut-novye-podkhody-k-terapii-sakharnogo-diabeta-obzor/",
-  "российские вузы создают новые подходы к терапии сахарного диабета",
-  "russian universities develop new approaches to diabetes therapy",
   "https://baonghean.vn/nghe-an-cap-nhat-tien-bo-moi-trong-chan-doan-dieu-tri-benh-noi-tiet-dai-thao-duong-10355308.html",
   "нге ан делится последними достижениями в диагностике и лечении эндокринных заболеваний и диабета",
   "nghe an shares latest advances in diagnosing and treating endocrine diseases and diabetes",
@@ -3238,6 +2651,22 @@ const DIA_NEWS={
   "https://newsroom.heart.org/news/intensive-blood-pressure-therapy-did-not-cut-cardiovascular-events-in-adults-with-diabetes",
   "интенсивная терапия давления не снизила число сердечно сосудистых событий у взрослых с диабетом",
   "intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes",
+  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
+  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
+  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
+  "https://investors.vrtx.com/node/35101/pdf",
+  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
+  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
+  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
+  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
+  "islet transplants with tegoprubart all 12 participants are living without insulin",
+  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
+  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
+  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
+  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
+  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
+  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
+  "oryol doctors explain how to recognize diabetes in children",
   "https://news.day.az/medicine/1869526.html",
   "учёные изобрели способ выявлять сахарный диабет по голосу",
   "scientists devised a way to detect diabetes by voice",
@@ -3440,12 +2869,95 @@ const DIA_NEWS={
     "license": "Unsplash",
     "link": "https://unsplash.com/photos/a-hand-holding-a-smart-watch-tnoTjGGo45s?utm_source=dia_news&utm_medium=referral",
     "alt": "a hand holding a smart watch"
+   },
+   {
+    "id": "u_0rXHOonM9Ug",
+    "url": "https://images.unsplash.com/photo-1683027611367-055941a0380d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHB1bXB8ZW58MXwwfHx8MTc5NDIwNzgyNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-holding-an-insulin-injection-0rXHOonM9Ug?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person holding an insulin injection"
+   },
+   {
+    "id": "u_J4HwEwZtIs8",
+    "url": "https://images.unsplash.com/photo-1612851300081-30cac0077b3b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHB1bXB8ZW58MXwwfHx8MTc5NDIwNzgyNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Dennis Klicker",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/yellow-and-clear-glass-bottle-J4HwEwZtIs8?utm_source=dia_news&utm_medium=referral",
+    "alt": "yellow and clear glass bottle"
    }
   ],
-  "drugs": [],
+  "drugs": [
+   {
+    "id": "u_8gG2PDqpktY",
+    "url": "https://images.unsplash.com/photo-1685485276223-0bb0226dcca8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbnxlbnwxfDB8fHwxNzk0MjA3ODI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "isens usa",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-sitting-at-a-table-with-a-cell-phone-8gG2PDqpktY?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person sitting at a table with a cell phone"
+   },
+   {
+    "id": "u_msQB97gUxY0",
+    "url": "https://images.unsplash.com/photo-1624625021542-41a4ff97c025?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbnxlbnwxfDB8fHwxNzk0MjA3ODI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Towfiqu barbhuiya",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/silver-and-black-tube-type-vaporizer-msQB97gUxY0?utm_source=dia_news&utm_medium=referral",
+    "alt": "silver and black tube type vaporizer"
+   }
+  ],
   "access": [],
   "market": [],
   "events": [],
-  "community": []
+  "community": [],
+  "cure": [
+   {
+    "id": "u_aef71KyW0JI",
+    "url": "https://images.unsplash.com/photo-1619332624763-48cdc3d3d08a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "FlyD",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/red-and-white-heart-illustration-aef71KyW0JI?utm_source=dia_news&utm_medium=referral",
+    "alt": "red and white heart illustration"
+   },
+   {
+    "id": "u_NbZQYileaOI",
+    "url": "https://images.unsplash.com/photo-1631048005696-9d1148f0a932?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/green-plant-with-water-droplets-NbZQYileaOI?utm_source=dia_news&utm_medium=referral",
+    "alt": "green plant with water droplets"
+   },
+   {
+    "id": "u_W2OVh2w2Kpo",
+    "url": "https://images.unsplash.com/photo-1576086476234-1103be98f096?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/gree-fur-W2OVh2w2Kpo?utm_source=dia_news&utm_medium=referral",
+    "alt": "gree fur"
+   },
+   {
+    "id": "u_gs8Sy5sSATk",
+    "url": "https://images.unsplash.com/photo-1714845596452-21985ecc6dcc?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Bioscience Image Library by Fayette Reynolds",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/microscopic-view-of-plant-cells-with-nuclei-gs8Sy5sSATk?utm_source=dia_news&utm_medium=referral",
+    "alt": "Microscopic view of plant cells with nuclei"
+   },
+   {
+    "id": "u_S07-mK6zNeY",
+    "url": "https://images.unsplash.com/photo-1716833323054-c0ea772156ad?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Bioscience Image Library by Fayette Reynolds",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/proliferation-of-adipocytes-in-adult-parathyroid-gland-by-phase-contrast-S07-mK6zNeY?utm_source=dia_news&utm_medium=referral",
+    "alt": "Proliferation of Adipocytes in Adult Parathyroid Gland by Phase Contrast"
+   },
+   {
+    "id": "u_-uAqulSLly0",
+    "url": "https://images.unsplash.com/photo-1629721270535-c67f2ab1243c?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQyMDc4MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "FlyD",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/blue-and-red-abstract-painting--uAqulSLly0?utm_source=dia_news&utm_medium=referral",
+    "alt": "blue and red abstract painting"
+   }
+  ]
  }
 };
