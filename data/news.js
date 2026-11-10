@@ -7,8 +7,359 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-09T10:50:10.606Z",
+ "updated": "2026-11-10T03:02:07.310Z",
  "items": [
+  {
+   "id": "nUm4_b2M9NQ",
+   "cat": "drugs",
+   "stage": "results",
+   "date": "2026-11-10",
+   "added": "2026-11-10T03:02:07.310Z",
+   "title": {
+    "ru": "Прекращение приёма препаратов GLP-1 связали с более высокой частотой событий",
+    "en": "Stopping GLP-1 drugs linked to higher rate of events",
+    "kk": "GLP-1 препараттарын тоқтатумен оқиғалар жиілігі жоғары болуы байланыстырылды",
+    "de": "Absetzen von GLP-1-Medikamenten mit höherer Ereignisrate verbunden",
+    "es": "Suspender los fármacos GLP-1 se asocia con una mayor frecuencia de eventos"
+   },
+   "text": {
+    "ru": "Сообщается о связи между отменой препаратов GLP-1 и более частыми событиями. Подробности в анонсе не указаны.",
+    "en": "Reports link discontinuing GLP-1 medicines to a higher frequency of events. The snippet gives no further details.",
+    "kk": "GLP-1 препараттарын қабылдауды тоқтату оқиғалардың жиі болуымен байланысты деп хабарланады. Қысқаша мәлімдемеде басқа мәліметтер жоқ.",
+    "de": "Berichte verbinden das Absetzen von GLP-1-Medikamenten mit einer höheren Häufigkeit von Ereignissen. Weitere Details fehlen in der Meldung.",
+    "es": "Se informa de una relación entre suspender los medicamentos GLP-1 y una mayor frecuencia de eventos. El resumen no ofrece más detalles."
+   },
+   "url": "https://ua.news/ru/dovkolo-svitu/pripinennia-glp-1-poviazali-z-maizhe-vdvichi-vishchoiu-chastotoiu-nespriiatlivikh-podii-abc-news-australia",
+   "src": "UA.NEWS",
+   "photoQuery": "medication pen on table",
+   "photo": {
+    "id": "u_JkTjjxYLjPU",
+    "url": "https://images.unsplash.com/photo-1760840163528-8421b8f5fc79?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhdGlvbiUyMHBlbiUyMG9uJTIwdGFibGV8ZW58MXwwfHx8MTc5NDI3OTcyN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Avesta",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-pen-and-a-disassembled-phone-on-a-wooden-table-JkTjjxYLjPU?utm_source=dia_news&utm_medium=referral",
+    "alt": "A pen and a disassembled phone on a wooden table"
+   },
+   "body": {
+    "ru": "Исследование, в котором приняли участие 80 302 итальянца с диабетом 2 типа, связало отказ от препаратов GLP-1 с более частыми случаями инфаркта, инсульта или смерти по любой причине. Результаты, о которых стало известно 10 ноября 2026 года, опубликованы в журнале The Lancet Regional Health — Europe, а пересказ сделало издание ABC News Australia. Авторы подчёркивают, что речь идёт о связи, а не о доказанной причинно-следственной зависимости.\n\nУчёные изучили данные людей без установленных сердечно-сосудистых заболеваний, которые имели диабет 2 типа и принимали агонисты рецепторов GLP-1 в период с 2004 по 2024 год. Около 60% участников прекратили лечение. Среди тех, кто перестал принимать препараты, примерно у 4 из 100 случились инфаркт или инсульт либо наступила смерть по любой причине; среди продолжавших терапию такой исход отмечали примерно у 2 из 100. Чаще всего неблагоприятные события фиксировали у людей с ожирением.\n\nРуководитель направления по исследованиям диабета в итальянской клинике IRCCS MultiMedica назвал силу выявленной связи неожиданной. По его мнению, препараты GLP-1 могут напрямую оказывать защитное действие на сердечно-сосудистую систему, и этот эффект пропадает после окончания лечения.\n\nУ исследования есть ограничения. Причины, по которым пациенты бросали терапию, не фиксировали, поэтому нельзя утверждать, что сам отказ стал причиной худших исходов: у этих людей могло быть более тяжёлое состояние здоровья или иные медицинские основания. В анализ не вошли пациенты, принимавшие тирзепатид (Mounjaro). Семаглутид (Ozempic, Wegovy) использовала лишь небольшая часть участников, а большинство принимало лираглутид или дулаглутид.\n\nНезависимые эксперты призвали провести дальнейшие исследования долгосрочных последствий приёма и отмены этих препаратов. Людям с диабетом 2 типа, которые думают о прекращении такой терапии, советуют обсудить это со специалистом.",
+    "en": "A study of 80,302 Italians with type 2 diabetes has linked stopping GLP-1 medicines to a higher rate of heart attacks, strokes, or deaths from any cause. The findings, which became known on 10 November 2026, were published in The Lancet Regional Health – Europe and summarised by ABC News Australia. The authors stress that the study shows an association, not proven cause and effect.\n\nThe researchers examined data from people without known cardiovascular disease who had type 2 diabetes and took GLP-1 receptor agonists between 2004 and 2024. About 60% of participants stopped treatment. Among those who quit, roughly 4 in 100 had a heart attack or stroke or died from any cause; among those who continued, about 2 in 100 had such an outcome. The adverse events were most often recorded in people with obesity.\n\nThe head of diabetes research at the Italian hospital IRCCS MultiMedica said the strength of the link was unexpected. In his view, GLP-1 drugs may have a direct protective effect on the cardiovascular system, and that effect disappears once treatment ends.\n\nThe study has limits. The reasons patients stopped therapy were not recorded, so it cannot be said that quitting itself caused worse outcomes; these people may have had poorer health or other medical reasons. Patients taking tirzepatide (Mounjaro) were excluded from the analysis. Only a small share of participants used semaglutide (Ozempic, Wegovy); most took liraglutide or dulaglutide.\n\nIndependent experts called for further research into the long-term effects of taking and stopping these drugs. People with type 2 diabetes who are considering ending this treatment are advised to discuss it with a healthcare professional.",
+    "kk": "2 типті диабеті бар 80 302 итальяндыққа жүргізілген зерттеу GLP-1 препараттарын қабылдауды тоқтатуды жүрек шабуылы, инсульт немесе кез келген себеппен болатын өлім жиілігінің артуымен байланыстырды. Нәтижелер 2026 жылғы 10 қарашада белгілі болды, The Lancet Regional Health — Europe журналында жарияланды, ал оның қысқаша мазмұнын ABC News Australia берді. Авторлар бұл байланыс екенін, дәлелденген себеп-салдар қатынасы емес екенін атап өтеді.\n\nЗерттеушілер жүрек-қан тамырлары аурулары анықталмаған, 2 типті диабеті бар және 2004-2024 жылдар аралығында GLP-1 рецепторларының агонистерін қабылдаған адамдардың деректерін талдады. Қатысушылардың шамамен 60%-ы емдеуді тоқтатты. Препаратты қабылдауды тоқтатқандардың шамамен 100-ден 4-інде жүрек шабуылы немесе инсульт болды, не кез келген себеппен өлім орын алды; емдеуді жалғастырғандардың арасында мұндай жағдай шамамен 100-ден 2-де тіркелді. Мұндай жағдайлар ең жиі семіздігі бар адамдарда байқалды.\n\nИталиядағы IRCCS MultiMedica ауруханасындағы диабет зерттеулерінің жетекшісі анықталған байланыстың күшін күтпеген деп атады. Оның пікірінше, GLP-1 препараттары жүрек-қан тамыр жүйесіне тікелей қорғаныс әсерін тигізуі мүмкін, және бұл әсер емдеу аяқталғаннан кейін жоғалады.\n\nЗерттеудің шектеулері бар. Пациенттердің терапияны неліктен тоқтатқаны тіркелмеген, сондықтан тоқтатудың өзі нашар нәтижелерге себеп болғанын дәлелдеу мүмкін емес: мұндай адамдардың денсаулығы нашарлап, басқа медициналық себептері де болуы мүмкін. Талдаудан тирзепатид (Mounjaro) қабылдаған пациенттер шығарылды. Семаглутидті (Ozempic, Wegovy) қатысушылардың аз бөлігі қолданды, ал көпшілігі лираглутид немесе дулаглутид алды.\n\nТәуелсіз сарапшылар бұл препараттарды қабылдау мен тоқтатудың ұзақ мерзімді салдарын одан әрі зерттеу қажеттігін атап өтті. 2 типті диабеті бар және мұндай емдеуді тоқтатуды ойлап жүрген адамдарға бұл туралы денсаулық сақтау маманымен кеңесу ұсынылады.",
+    "de": "Eine Untersuchung mit 80.302 Menschen in Italien, die an Typ-2-Diabetes leiden, hat das Absetzen von GLP-1-Medikamenten mit einer höheren Rate an Herzinfarkten, Schlaganfällen oder Todesfällen aus jeglicher Ursache in Verbindung gebracht. Die Ergebnisse, die am 10. November 2026 bekannt wurden, erschienen in The Lancet Regional Health – Europe; zusammengefasst wurden sie von ABC News Australia. Die Autorinnen und Autoren betonen, dass die Studie einen Zusammenhang zeigt, nicht aber einen belegten Ursache-Wirkungs-Zusammenhang.\n\nDas Team wertete Daten von Menschen ohne bekannte Herz-Kreislauf-Erkrankungen aus, die Typ-2-Diabetes hatten und zwischen 2004 und 2024 GLP-1-Rezeptoragonisten einnahmen. Rund 60 Prozent der Teilnehmenden beendeten die Behandlung. Unter denen, die aufhörten, erlitten etwa 4 von 100 Personen einen Herzinfarkt oder Schlaganfall oder starben aus einer beliebigen Ursache; in der Gruppe, die weiterbehandelt wurde, traf dies etwa 2 von 100 zu. Solche Ereignisse traten vor allem bei Menschen mit Adipositas auf.\n\nDer Leiter der Diabetesforschung am italienischen Krankenhaus IRCCS MultiMedica bezeichnete die Stärke des festgestellten Zusammenhangs als unerwartet. Nach seiner Einschätzung könnten GLP-1-Medikamente eine direkte Schutzwirkung auf das Herz-Kreislauf-System entfalten, die mit dem Ende der Behandlung verloren geht.\n\nDie Studie hat Grenzen. Die Gründe, warum Patienten die Therapie abbrachen, wurden nicht erfasst; deshalb lässt sich nicht belegen, dass der Abbruch selbst zu den schlechteren Ergebnissen führte. Die Betroffenen könnten einen schlechteren Gesundheitszustand oder andere medizinische Gründe gehabt haben. Patienten, die Tirzepatid (Mounjaro) einnahmen, wurden nicht in die Analyse einbezogen. Semaglutid (Ozempic, Wegovy) nutzte nur ein kleiner Teil der Teilnehmenden; die meisten nahmen Liraglutid oder Dulaglutid.\n\nUnabhängige Fachleute forderten weitere Untersuchungen zu den langfristigen Folgen von Einnahme und Absetzen dieser Medikamente. Menschen mit Typ-2-Diabetes, die einen Therapiestopp erwägen, wird geraten, dies mit medizinischem Fachpersonal zu besprechen.",
+    "es": "Un estudio con 80 302 personas en Italia que tienen diabetes tipo 2 relacionó la interrupción de los medicamentos GLP-1 con una mayor frecuencia de infartos, ictus o muertes por cualquier causa. Los resultados, conocidos el 10 de noviembre de 2026, se publicaron en la revista The Lancet Regional Health – Europe y fueron recogidos por ABC News Australia. Los autores subrayan que se trata de una asociación y que no se ha demostrado una relación de causa y efecto.\n\nLos investigadores analizaron datos de personas sin enfermedad cardiovascular conocida, con diabetes tipo 2, que tomaban agonistas del receptor GLP-1 entre 2004 y 2024. Cerca del 60 % de los participantes dejó el tratamiento. Entre quienes lo abandonaron, alrededor de 4 de cada 100 sufrieron un infarto o un ictus, o murieron por cualquier causa; en el grupo que siguió con la terapia, esto ocurrió en unas 2 de cada 100. Los eventos adversos fueron más frecuentes en personas con obesidad.\n\nEl responsable de investigación en diabetes del hospital italiano IRCCS MultiMedica afirmó que la fuerza de la asociación fue inesperada. Según su criterio, los fármacos GLP-1 podrían ejercer un efecto protector directo sobre el sistema cardiovascular, que desaparece cuando termina el tratamiento.\n\nEl estudio tiene limitaciones. No se registraron los motivos por los que los pacientes dejaron la terapia, por lo que no puede afirmarse que el abandono en sí causara peores resultados; quienes lo dejaron podían tener peor salud u otras razones médicas. No se incluyó a pacientes que tomaban tirzepatida (Mounjaro). Solo una pequeña parte de los participantes usó semaglutida (Ozempic, Wegovy); la mayoría tomaba liraglutida o dulaglutida.\n\nExpertos independientes pidieron más investigaciones sobre las consecuencias a largo plazo de tomar y dejar estos fármacos. Se recomienda a las personas con diabetes tipo 2 que consideran suspender este tratamiento que lo comenten con un profesional sanitario."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Участники исследования",
+      "en": "Study participants",
+      "kk": "Зерттеуге қатысушылар",
+      "de": "Studienteilnehmende",
+      "es": "Participantes del estudio"
+     },
+     "v": {
+      "ru": "80 302 человека с диабетом 2 типа (Италия)",
+      "en": "80,302 people with type 2 diabetes (Italy)",
+      "kk": "2 типті диабеті бар 80 302 адам (Италия)",
+      "de": "80.302 Menschen mit Typ-2-Diabetes (Italien)",
+      "es": "80 302 personas con diabetes tipo 2 (Italia)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Инфаркт, инсульт или смерть среди прекративших приём",
+      "en": "Heart attack, stroke or death among those who stopped",
+      "kk": "Емдеуді тоқтатқандардағы жүрек шабуылы, инсульт немесе өлім",
+      "de": "Herzinfarkt, Schlaganfall oder Tod bei Abbrechenden",
+      "es": "Infarto, ictus o muerte en quienes lo dejaron"
+     },
+     "v": {
+      "ru": "около 4 из 100",
+      "en": "about 4 in 100",
+      "kk": "шамамен 100-ден 4",
+      "de": "etwa 4 von 100",
+      "es": "alrededor de 4 de cada 100"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nDlyP29jPTU",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-10",
+   "added": "2026-11-10T03:02:07.310Z",
+   "title": {
+    "ru": "Время в целевом диапазоне (TIR) при диабете: консенсусные метрики НМГ и конечные точки исследований",
+    "en": "Time in Range in diabetes: consensus CGM metrics and trial endpoints",
+    "kk": "Диабеттегі мақсатты диапазондағы уақыт (TIR): НМГ консенсустық көрсеткіштері және зерттеу соңғы нүктелері",
+    "de": "Zeit im Zielbereich (TIR) bei Diabetes: Konsens-CGM-Metriken und Studienendpunkte",
+    "es": "Tiempo en rango (TIR) en diabetes: métricas CGM de consenso y criterios de valoración de ensayos clínicos"
+   },
+   "text": {
+    "ru": "Опубликованы согласованные показатели непрерывного мониторинга глюкозы, включая время в целевом диапазоне, и их использование как конечных точек клинических исследований.",
+    "en": "Consensus continuous glucose monitoring metrics, including time in range, are presented for use as clinical trial endpoints.",
+    "kk": "Үздіксіз глюкоза мониторингінің мақсатты диапазондағы уақытты қоса алғанда консенсустық көрсеткіштері клиникалық зерттеулердің соңғы нүктелері ретінде ұсынылған.",
+    "de": "Konsentierte CGM-Kennzahlen, darunter die Zeit im Zielbereich, werden als Endpunkte für klinische Studien vorgestellt.",
+    "es": "Se presentan métricas consensuadas de monitorización continua de glucosa, incluido el tiempo en rango, para su uso como criterios de valoración en ensayos clínicos."
+   },
+   "url": "https://casrai.org/guides/time-in-range-diabetes",
+   "src": "CASRAI",
+   "photoQuery": "continuous glucose monitor sensor device",
+   "photo": {
+    "id": "u_SBtNby0IiG0",
+    "url": "https://images.unsplash.com/photo-1683727186226-910f31a9da45?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwc2Vuc29yJTIwZGV2aWNlfGVufDF8MHx8fDE3OTQyNzk3Mjh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-blood-glucose-testing-using-gluco-meter-SBtNby0IiG0?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person blood glucose testing using gluco-meter"
+   },
+   "body": {
+    "ru": "10 ноября 2026 года организация CASRAI, которая разрабатывает стандарты в сфере управления исследованиями, опубликовала обновлённое техническое руководство по показателю «время в целевом диапазоне» (TIR). Этот показатель рассчитывается по данным непрерывного мониторинга глюкозы (CGM). Руководство адресовано скорее исследователям, врачам и специалистам по данным, а не пациентам напрямую; его ведёт редакционный совет CASRAI.\n\nTIR — это доля времени за выбранный период, в течение которого глюкоза в межклеточной жидкости остаётся внутри целевого интервала. Для большинства взрослых с диабетом 1 или 2 типа этот интервал составляет 70–180 мг/дл (3,9–10,0 ммоль/л). Руководство связывает показатель с международным консенсусом 2019 года и отмечает, что он фиксирует и падения, и подъёмы глюкозы, которые может не показать HbA1c, отражающий средний уровень примерно за два–три месяца.\n\nВ руководстве также разобраны сопутствующие показатели: время ниже диапазона на двух уровнях (ниже 70 и ниже 54 мг/дл), время выше диапазона, индикатор управления глюкозой (GMI) и коэффициент вариации, где значение 36% и ниже означает стабильность. Цели различаются по группам. Для большинства взрослых TIR должен превышать 70%, время ниже 70 мг/дл — составлять менее 4%, а время выше 180 мг/дл — менее 25%. Для пожилых и людей с высоким риском цель TIR — более 50%. Каждый процент TIR сдвигает суточный итог примерно на 14,4 минуты.\n\nВ руководстве приведён ретроспективный анализ данных DCCT (Beck et al., 2019): каждое снижение TIR на 10 процентных пунктов связано с ростом риска прогрессирования ретинопатии на 64% и микроальбуминурии на 40%. Для надёжных оценок нужны минимум 14 последовательных дней данных CGM с покрытием не менее 70% показаний датчика. Документ также описывает регуляторные правила и интеграцию с электронными медкартами, но это справочный текст, а не сообщение о новом исследовании или результате.\n\nРуководство не описывает дальнейших шагов; в тексте указана только дата последнего обновления — 10 ноября 2026 года.",
+    "en": "On 10 November 2026, CASRAI, an organisation that sets standards for research administration, published an updated technical guide on time in range (TIR). The measure is calculated from continuous glucose monitoring (CGM) data. The guide is aimed at researchers, clinicians and data specialists rather than patients directly, and it is maintained by the CASRAI Editorial Board.\n\nTIR is the share of time over a chosen period during which interstitial glucose stays inside a target band. For most adults with type 1 or type 2 diabetes, that band is 70–180 mg/dL (3.9–10.0 mmol/L). The guide ties the measure to a 2019 international consensus and notes that it captures glucose lows and highs which the HbA1c test, reflecting average levels over roughly two to three months, may not show.\n\nThe guide also covers related measures: time below range at two levels (under 70 and under 54 mg/dL), time above range, the glucose management indicator (GMI) and the coefficient of variation, where 36% or less signals stability. Targets differ by group. For most adults, TIR should exceed 70%, time under 70 mg/dL should be below 4%, and time over 180 mg/dL below 25%. For older or high-risk adults, the TIR goal is above 50%. Each percentage point of TIR shifts the daily total by about 14.4 minutes.\n\nThe guide cites a retrospective analysis of DCCT data (Beck et al., 2019), which linked each 10-point drop in TIR to a 64% rise in the hazard rate of retinopathy progression and a 40% rise in microalbuminuria. Reliable estimates require at least 14 consecutive days of CGM data with at least 70% sensor coverage. The document also describes regulatory rules and EHR integration, but it is a reference text rather than a report on a new study or result.\n\nThe guide does not set out any further steps; it only states its last-updated date, 10 November 2026.",
+    "kk": "2026 жылғы 10 қарашада зерттеуді басқару стандарттарымен айналысатын CASRAI ұйымы «целевой диапазондағы уақыт» (TIR) көрсеткіші бойынша жаңартылған техникалық нұсқаулық жариялады. Бұл көрсеткіш үздіксіз глюкозаны бақылау (CGM) деректері негізінде есептеледі. Нұсқаулық пациенттерден гөрі зерттеушілерге, дәрігерлерге және деректер мамандарына арналған; оны CASRAI редакциялық кеңесі жүргізеді.\n\nTIR — таңдалған кезең ішінде тінаралық глюкозаның мақсатты аралықта қалатын уақыт үлесі. 1 немесе 2 типті қант диабеті бар ересектердің көпшілігі үшін бұл аралық 70–180 мг/дл (3,9–10,0 ммоль/л). Нұсқаулық көрсеткішті 2019 жылғы халықаралық консенсусқа байланыстырады және глюкозаның төмендеуі мен көтерілуін қамтитынын атап өтеді; ал шамамен екі-үш ай ішіндегі орташа деңгейді көрсететін HbA1c мұны байқамауы мүмкін.\n\nНұсқаулықта қатар тұратын көрсеткіштер де бар: екі деңгейдегі диапазоннан төмен уақыт (70 және 54 мг/дл төмен), диапазоннан жоғары уақыт, глюкоза басқару индикаторы (GMI) және вариация коэффициенті, оның 36% және одан аз мәні тұрақтылықты білдіреді. Мақсаттар топтар бойынша әртүрлі. Ересектердің көпшілігі үшін TIR 70%-дан жоғары, 70 мг/дл төмен уақыт 4%-дан аз, 180 мг/дл жоғары уақыт 25%-дан аз болуы тиіс. Қарт және жоғары тәуекелдегілер үшін TIR мақсаты 50%-дан жоғары. TIR-дің әр пайызы тәуліктік жиынтықты шамамен 14,4 минутқа өзгертеді.\n\nНұсқаулықта DCCT деректеріне ретроспективті талдау (Beck et al., 2019) келтірілген: TIR-дің әр 10 пайыздық тармаққа төмендеуі ретинопатия прогрессиясының қауіп жылдамдығын 64%-ға, микроальбуминурияны 40%-ға арттырумен байланысты. Сенімді бағалау үшін сенсор көрсеткіштерінің кемінде 70%-ын қамтитын, кемінде 14 үздіксіз күндік CGM деректері қажет. Құжат реттеушілік ережелер мен электрондық медициналық карталармен интеграцияны да сипаттайды, бірақ бұл жаңа зерттеу немесе нәтиже туралы хабарлама емес, анықтамалық мәтін.\n\nНұсқаулық әрі қарай қандай қадамдар жасалатынын сипаттамайды; мәтінде тек соңғы жаңартылған күн — 2026 жылғы 10 қараша көрсетілген.",
+    "de": "Am 10. November 2026 veröffentlichte CASRAI, eine Organisation, die Standards im Forschungsmanagement entwickelt, einen aktualisierten technischen Leitfaden zur Zeit im Zielbereich (Time in Range, TIR). Die Kennzahl wird aus Daten der kontinuierlichen Glukosemessung (CGM) berechnet. Der Leitfaden richtet sich eher an Forschende, Ärztinnen und Ärzte sowie Datenfachleute als direkt an Patientinnen und Patienten; gepflegt wird er vom redaktionellen Gremium von CASRAI.\n\nTIR ist der Anteil der Zeit innerhalb eines gewählten Zeitraums, in dem die interstitielle Glukose im Zielintervall bleibt. Für die meisten Erwachsenen mit Typ-1- oder Typ-2-Diabetes liegt dieses Intervall bei 70 bis 180 mg/dl (3,9 bis 10,0 mmol/l). Der Leitfaden führt die Kennzahl auf einen internationalen Konsens von 2019 zurück und betont, dass sie Unter- und Überzuckerphasen erfasst, die der HbA1c-Wert, der den Durchschnitt über etwa zwei bis drei Monate abbildet, möglicherweise nicht zeigt.\n\nDer Leitfaden behandelt außerdem verwandte Werte: Zeit unterhalb des Bereichs auf zwei Stufen (unter 70 und unter 54 mg/dl), Zeit oberhalb des Bereichs, den Glukose-Management-Indikator (GMI) und den Variationskoeffizienten, bei dem 36 % oder weniger für Stabilität stehen. Die Zielwerte unterscheiden sich nach Gruppen. Für die meisten Erwachsenen sollte die TIR über 70 % liegen, die Zeit unter 70 mg/dl unter 4 % und die Zeit über 180 mg/dl unter 25 %. Für ältere oder Hochrisikopersonen liegt das TIR-Ziel über 50 %. Jeder Prozentpunkt TIR verschiebt die Tagessumme um rund 14,4 Minuten.\n\nDer Leitfaden verweist auf eine retrospektive Auswertung von DCCT-Daten (Beck et al., 2019), die jeden Rückgang der TIR um 10 Prozentpunkte mit einem 64 % höheren Anstieg der Hazard-Rate für eine Retinopathie-Progression und einem 40 % höheren Anstieg der Mikroalbuminurie in Verbindung bringt. Verlässliche Schätzungen erfordern laut Leitfaden mindestens 14 aufeinanderfolgende Tage CGM-Daten mit mindestens 70 % Sensorabdeckung. Das Dokument beschreibt zudem regulatorische Regeln und die Integration in die elektronische Patientenakte, ist aber ein Nachschlagetext und kein Bericht über eine neue Studie oder ein neues Ergebnis.\n\nWeitere Schritte nennt der Leitfaden nicht; angegeben ist nur das Datum der letzten Aktualisierung, der 10. November 2026.",
+    "es": "El 10 de noviembre de 2026, CASRAI, una organización que elabora estándares para la gestión de la investigación, publicó una guía técnica actualizada sobre el tiempo en rango (TIR). La métrica se calcula a partir de datos de monitorización continua de glucosa (CGM). La guía está dirigida sobre todo a investigadores, clínicos y especialistas en datos más que directamente a pacientes, y la mantiene el comité editorial de CASRAI.\n\nEl TIR es la proporción de tiempo, durante un periodo elegido, en que la glucosa intersticial permanece dentro de un intervalo objetivo. Para la mayoría de adultos con diabetes tipo 1 o tipo 2, ese intervalo es de 70 a 180 mg/dL (3,9 a 10,0 mmol/L). La guía vincula la métrica con un consenso internacional de 2019 y señala que recoge tanto las caídas como los picos de glucosa que la HbA1c, que refleja el promedio de unos dos a tres meses, puede no mostrar.\n\nLa guía también aborda medidas relacionadas: tiempo por debajo del rango en dos niveles (por debajo de 70 y de 54 mg/dL), tiempo por encima del rango, el indicador de gestión de glucosa (GMI) y el coeficiente de variación, donde un 36 % o menos indica estabilidad. Los objetivos varían según el grupo. En la mayoría de adultos, el TIR debería superar el 70 %, el tiempo por debajo de 70 mg/dL debería ser inferior al 4 % y el tiempo por encima de 180 mg/dL, inferior al 25 %. En adultos mayores o de alto riesgo, la meta de TIR es superior al 50 %. Cada punto porcentual de TIR desplaza el total diario unos 14,4 minutos.\n\nLa guía cita un análisis retrospectivo de datos del DCCT (Beck et al., 2019), que vinculó cada descenso de 10 puntos en el TIR con un aumento del 64 % en la tasa de riesgo de progresión de la retinopatía y un aumento del 40 % en la microalbuminuria. Para estimaciones fiables se requieren al menos 14 días consecutivos de datos de CGM con al menos el 70 % de cobertura del sensor. El documento también describe normas regulatorias e integración con historias clínicas electrónicas, pero es un texto de referencia y no el anuncio de un nuevo estudio o resultado.\n\nLa guía no detalla próximos pasos; solo consta la fecha de su última actualización, el 10 de noviembre de 2026."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Цель TIR для большинства взрослых",
+      "en": "TIR target for most adults",
+      "kk": "Ересектердің көпшілігіне арналған TIR мақсаты",
+      "de": "TIR-Zielwert für die meisten Erwachsenen",
+      "es": "Objetivo de TIR para la mayoría de adultos"
+     },
+     "v": {
+      "ru": ">70% (>16 ч 48 мин в сутки)",
+      "en": ">70% (>16 h 48 min per day)",
+      "kk": ">70% (тәулігіне >16 сағ 48 мин)",
+      "de": ">70 % (>16 Std. 48 Min. pro Tag)",
+      "es": ">70 % (>16 h 48 min al día)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Одна процентная точка TIR в сутках",
+      "en": "One percentage point of TIR per day",
+      "kk": "TIR-дің бір пайызы тәулігіне",
+      "de": "Ein Prozentpunkt TIR pro Tag",
+      "es": "Un punto porcentual de TIR al día"
+     },
+     "v": {
+      "ru": "≈14,4 минуты",
+      "en": "≈14.4 minutes",
+      "kk": "≈14,4 минут",
+      "de": "ca. 14,4 Minuten",
+      "es": "unos 14,4 minutos"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nEJ2P29jPTU",
+   "cat": "market",
+   "stage": "policy",
+   "date": "2026-11-09",
+   "added": "2026-11-10T03:02:07.310Z",
+   "title": {
+    "ru": "Финский тест на риск диабета предлагают импортозаместить в России",
+    "en": "Finnish diabetes risk test proposed for import substitution in Russia",
+    "kk": "Ресейде қолданылатын фин диабет қаупі тестін импортты алмастыру ұсынылды",
+    "de": "In Russland wird vorgeschlagen, den finnischen Diabetes-Risikotest durch eine heimische Alternative zu ersetzen",
+    "es": "Se propone sustituir por producción nacional el test finlandés de riesgo de diabetes que se usa en Rusia"
+   },
+   "text": {
+    "ru": "Используемый в России финский тест на риск диабета предлагают заменить отечественным аналогом.",
+    "en": "A Finnish diabetes risk test used in Russia is proposed to be replaced with a domestic alternative.",
+    "kk": "Ресейде қолданылатын фин диабет қаупі тестін отандық аналогпен алмастыру ұсынылады.",
+    "de": "Der in Russland verwendete finnische Diabetes-Risikotest soll durch eine inländische Alternative ersetzt werden.",
+    "es": "Se propone reemplazar por un análogo nacional el test finlandés de riesgo de diabetes que se usa en Rusia."
+   },
+   "url": "https://www.vedomosti.ru/society/articles/2026/11/10/1243864-test-na-risk-diabeta",
+   "src": "Ведомости",
+   "photoQuery": "laboratory test tubes rack",
+   "local": true,
+   "photo": {
+    "id": "u_-lulun7F32c",
+    "url": "https://images.unsplash.com/photo-1694230155228-cdde50083573?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bGFib3JhdG9yeSUyMHRlc3QlMjB0dWJlcyUyMHJhY2t8ZW58MXwwfHx8MTc5NDI3OTcyOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Ryan Zazueta",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-bunch-of-test-tubes-filled-with-different-colored-liquids--lulun7F32c?utm_source=dia_news&utm_medium=referral",
+    "alt": "a bunch of test tubes filled with different colored liquids"
+   },
+   "body": {
+    "ru": "Институт диабета, входящий в Национальный медицинский исследовательский центр эндокринологии имени Дедова, предлагает заменить финский тест на риск диабета, который сейчас применяется в России, собственной разработкой. По данным «Ведомостей», речь идёт о калькуляторе риска «Диариск», который предлагают включить в программу диспансеризации. Об этом заявила директор института Марина Шестакова.\n\nФинский опросник Findrisc был создан в 2003 году. Он включён в клинические рекомендации, однако не используется для отбора пациентов на исследования второго этапа диспансеризации. Вместо него россиянам измеряют уровень глюкозы натощак. Если результат в норме, человека не направляют на анализ гликированного гемоглобина, который отражает средний уровень сахара в крови за три месяца.\n\nИздание отмечает, что результаты внедрения нового инструмента будут зависеть от того, как организуют дальнейшее обследование. Текст, доступный для чтения, не содержит сроков запуска или решения по предложению.",
+    "en": "A diabetes institute tied to the Dedov National Medical Research Center for Endocrinology is proposing to replace the Finnish diabetes risk test now used in Russia with a domestic alternative. According to Vedomosti, the idea is to add the \"Diarisk\" risk calculator to the dispensary examination program. The institute's director, Marina Shestakova, made the statement.\n\nThe Finnish questionnaire, FINDRISC, dates from 2003. It appears in clinical guidelines but is not used to select patients for the second stage of the dispensary examination. Instead, Russians have their fasting blood glucose measured. If that result is normal, the person is not referred for a glycated hemoglobin test, which reflects average blood sugar over roughly three months.\n\nThe outlet notes that the results of introducing the new tool will depend on how further examination is organized. The portion of the text available to me does not give a timeline or a decision on the proposal.",
+    "kk": "Дедов атындағы эндокринология ұлттық медициналық зерттеу орталығына қарасты диабет институты Ресейде қолданылып жүрген фин диабет қаупі тестін отандық құралмен алмастыруды ұсынып отыр. Ведомости басылымының хабарлауынша, ұсыныс «Диариск» қауіп калькуляторын диспансерлік тексеру бағдарламасына қосу туралы. Бұл туралы институт директоры Марина Шестакова мәлімдеді.\n\nFindrisc деп аталатын фин сауалнамасы 2003 жылы жасалған. Ол клиникалық ұсынымдарға енгізілген, бірақ диспансерлік тексерудің екінші кезеңіне науқастарды іріктеу үшін пайдаланылмайды. Оның орнына адамдардың ашқарынға қан глюкозасы өлшенеді. Нәтиже қалыпты болса, адам үш айдағы орташа қант деңгейін көрсететін гликирленген гемоглобинге талдау тапсыруға жіберілмейді.\n\nБасылым жаңа құралды енгізудің нәтижесі одан кейінгі тексеруді қалай ұйымдастыруға байланысты болатынын атап өтеді. Қолжетімді мәтінде іске қосу мерзімі немесе ұсыныс бойынша шешім туралы ақпарат жоқ.",
+    "de": "Ein Diabetesinstitut, das zum Dedow-Nationalen Forschungszentrum für Endokrinologie gehört, schlägt vor, den in Russland verwendeten finnischen Diabetesrisikotest durch eine eigene Entwicklung zu ersetzen. Laut Vedomosti soll der Risikorechner „Diariskˮ in die Vorsorgeuntersuchung (Dispanserisation) aufgenommen werden. Die Institutsdirektorin Marina Schestakowa hat dies erklärt.\n\nDer finnische Fragebogen FINDRISC stammt aus dem Jahr 2003. Er ist in klinischen Leitlinien enthalten, wird aber nicht genutzt, um Patienten für die zweite Stufe der Untersuchung auszuwählen. Stattdessen wird in Russland der Nüchternblutzucker gemessen. Liegt dieser Wert im Normbereich, wird die Person nicht zur Untersuchung des HbA1c-Werts geschickt, der den durchschnittlichen Zucker der letzten drei Monate widerspiegelt.\n\nDas Blatt weist darauf hin, dass der Erfolg einer Einführung davon abhängt, wie die weitere Untersuchung organisiert wird. Der verfügbare Teil des Artikels nennt weder einen Zeitplan noch eine Entscheidung zu dem Vorschlag.",
+    "es": "Un instituto de diabetes vinculado al Centro Nacional de Investigación en Endocrinología Dedov propone sustituir por una alternativa nacional el test finlandés de riesgo de diabetes que se usa actualmente en Rusia. Según Vedomosti, la idea es incorporar la calculadora de riesgo «Diarisk» al programa de chequeo médico preventivo llamado dispansérizatsiya. La directora del instituto, Marina Shestakova, hizo la declaración.\n\nEl cuestionario finlandés FINDRISC se creó en 2003. Figura en las recomendaciones clínicas, pero no se usa para elegir qué pacientes pasan a la segunda fase del examen. En su lugar, se mide la glucosa en ayunas. Si el resultado es normal, la persona no es derivada a la prueba de hemoglobina glicada, que refleja el nivel medio de azúcar en sangre de unos tres meses.\n\nEl medio señala que los resultados de introducir la nueva herramienta dependerán de cómo se organice el examen posterior. La parte del texto a la que tuve acceso no ofrece un calendario ni una decisión sobre la propuesta."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Год создания опросника Findrisc",
+      "en": "Year the FINDRISC questionnaire was created",
+      "kk": "Findrisc сауалнамасының жасалған жылы",
+      "de": "Entwicklungsjahr des FINDRISC-Fragebogens",
+      "es": "Año de creación del cuestionario FINDRISC"
+     },
+     "v": {
+      "ru": "2003",
+      "en": "2003",
+      "kk": "2003",
+      "de": "2003",
+      "es": "2003"
+     }
+    }
+   ]
+  },
+  {
+   "id": "n5Hbz9vYz01",
+   "cat": "community",
+   "stage": "report",
+   "date": "2026-11-09",
+   "added": "2026-11-10T03:02:07.310Z",
+   "title": {
+    "ru": "В Новгородской области с сахарным диабетом живут 21 тысяча жителей",
+    "en": "About 21,000 residents of Novgorod region live with diabetes",
+    "kk": "Новгород облысында қант диабетімен 21 мың тұрғын ауырады",
+    "de": "Rund 21.000 Einwohner der Region Nowgorod leben mit Diabetes",
+    "es": "Unos 21 000 habitantes de la región de Nóvgorod viven con diabetes"
+   },
+   "text": {
+    "ru": "По данным региона, около 21 тысячи жителей Новгородской области болеют сахарным диабетом.",
+    "en": "According to regional data, about 21,000 residents of Novgorod region have diabetes.",
+    "kk": "Аймақ деректері бойынша Новгород облысында шамамен 21 мың тұрғын қант диабетімен ауырады.",
+    "de": "Laut Regionaldaten leben in der Region Nowgorod rund 21.000 Einwohner mit Diabetes.",
+    "es": "Según datos regionales, unos 21 000 habitantes de la región de Nóvgorod tienen diabetes."
+   },
+   "url": "https://novvedomosti.ru/news/medicine/117199/",
+   "src": "Новгородские ведомости",
+   "photoQuery": "regional clinic building exterior",
+   "local": true,
+   "photo": {
+    "id": "u_1deQbU6DhBg",
+    "url": "https://images.unsplash.com/photo-1574958269340-fa927503f3dd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cmVnaW9uYWwlMjBjbGluaWMlMjBidWlsZGluZyUyMGV4dGVyaW9yfGVufDF8MHx8fDE3OTQyNzk3Mjl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "kaleb tapp",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/modern-office-building-with-blue-panels-1deQbU6DhBg?utm_source=dia_news&utm_medium=referral",
+    "alt": "A modern office building with blue and silver panels under a warm sky"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года «Новгородские ведомости» сообщили, что минздрав области посвятил неделю с 9 по 15 ноября теме диабета. Кампания проходит в рамках регионального движения «За медицину здорового долголетия» и Всемирной недели качества и приурочена к Всемирному дню борьбы с диабетом 14 ноября.\n\nГлавный внештатный эндокринолог области Оксана Лоле объяснила, что причины заболевания связаны с глобальными изменениями образа жизни. Среди факторов риска она назвала хронический стресс, пищу с большим количеством калорий и низкую физическую активность. По её словам, диабет опасен тем, что высокий уровень глюкозы незаметно годами повреждает сосуды сердца, мозга, почек и глаз.\n\nВ регионе зарегистрированы 21 тысяча человек с диабетом, а около 21 тысячи находятся в зоне предиабета — состояния, при котором сахар в крови уже повышен, но ещё не достиг диагностического порога. Врач отметила, что в этот период смена образа жизни может предотвратить развитие болезни, и советует ежегодно проходить диспансеризацию, доступную по нацпроекту «Продолжительная и активная жизнь».\n\nПосле постановки диагноза рекомендуется посетить школу сахарного диабета. В области по нацпроекту работают семь таких школ, три из них — в Великом Новгороде: в поликлинике №3, в поликлинике №1 и в Региональном эндокринологическом центре областной клинической больницы. Занятия бесплатные, записаться можно через регистратуру поликлиники. На занятиях учат делать инъекции, пользоваться глюкометром, заниматься спортом, купировать гипогликемию и ухаживать за кожей.\n\nПациентам и близким также доступен официальный ресурс «Про диабет», созданный экспертами НМИЦ эндокринологии имени академика И.И. Дедова. Там есть статьи о типах диабета, симптомах, лечении и питании, онлайн-школы и калькуляторы. В материале не приводятся данные о динамике показателей за прошлые годы.",
+    "en": "On November 9, 2026, Novgorodskie Vedomosti reported that the regional health ministry is devoting the week from November 9 to 15 to diabetes. The campaign runs within the regional \"For Healthy Longevity Medicine\" movement and alongside World Quality Week, and it is timed to World Diabetes Day on November 14.\n\nOksana Lole, the region's chief non-staff endocrinologist, said the disease is linked to broad changes in how people live. She named chronic stress, high-calorie food and low physical activity as risk factors. In her view, diabetes is dangerous because high glucose quietly damages blood vessels over the years, affecting the heart, brain, kidneys and eyes.\n\nThe region has 21,000 people registered with diabetes, and about another 21,000 are in the prediabetes range, meaning blood sugar is already raised but has not yet reached the diagnostic threshold. The doctor said that changing habits at this stage can prevent the full illness from developing, and she advised yearly check-ups, which are available through the national project \"Longer and Active Life.\"\n\nAfter a diagnosis, patients are advised to attend a diabetes school. Seven such schools operate in the region under the national project, three of them in Veliky Novgorod: at polyclinic No. 3, polyclinic No. 1, and the Regional Endocrinology Center of the regional clinical hospital. Classes are free, and enrollment is done by calling the clinic's registry desk. Lessons cover giving injections, using a glucometer, exercise, managing hypoglycemia and skin care.\n\nPatients and families can also use the official information portal \"Pro Diabet,\" created by experts of the Dedov National Medical Research Center for Endocrinology. It offers articles on diabetes types, symptoms, treatment and nutrition, online diabetes schools and calculators. The article does not provide data on how these figures have changed in past years.",
+    "kk": "2026 жылдың 9 қарашасында «Новгородские ведомости» басылымы облыстық денсаулық сақтау министрлігі 9-нан 15 қарашаға дейінгі аптаны диабетке арнағанын хабарлады. Науқан «Ұзақ өмір медицинасы үшін» өңірлік қозғалысы және Дүниежүзілік сапа аптасы аясында өтеді және 14 қарашадағы Дүниежүзілік диабетпен күрес күніне орайластырылған.\n\nОблыстың бас штаттан тыс эндокринологі Оксана Лоле ауру адамдардың өмір салтындағы жаһандық өзгерістермен байланысты екенін түсіндірді. Қауіп факторлары ретінде ол созылмалы стресті, калориясы жоғары тамақты және төмен дене белсенділігін атады. Оның пікірінше, диабет қаупті, себебі жоғары глюкоза жылдар бойы жүрек, ми, бүйрек және көз қан тамырларын байқалмай бүлдіреді.\n\nӨңірде диабетпен тіркелген 21 мың адам бар, ал шамамен тағы 21 мыңы преддиабет аймағында тұр — қан қантының жоғарылағаны бар, бірақ диагноз шегіне әлі жетпеген күй. Дәрігер бұл кезеңде өмір салтын өзгерту толыққанды ауруға ұласуды болдырмай алатынын айтты және нацжоба «Ұзақ әрі белсенді өмір» аясында қолжетімді жыл сайынғы медициналық тексерулерден өтуге кеңес берді.\n\nДиагноз қойылғаннан кейін пациенттерге диабет мектебіне баруға кеңес беріледі. Облыста нацжоба аясында мұндай жеті мектеп жұмыс істейді, оның үшеуі Ұлы Новгородта: No3 емханада, No1 емханада және облыстық клиникалық ауруханаың Өңірлік эндокринологиялық орталығында. Сабақтар тегін, жазылу үшін емхананың тіркеу бөліміне қоңырау шалу керек. Сабақтарда инъекция жасау, глюкометрді пайдалану, спорт, гипогликемияны тоқтату және тері күтімі үйретіледі.\n\nПациенттер мен олардың жақындарына И.И. Дедов атындағы ұлттық медициналық зерттеу орталығының сарапшылары жасаған «Про диабет» ресми ақпараттық порталы да қолжетімді. Онда диабет түрлері, белгілері, емдеу және тамақтану туралы мақалалар, онлайн диабет мектептері және калькуляторлар бар. Мақалада осы көрсеткіштердің соңғы жылдарда қалай өзгергені туралы деректер берілмеген.",
+    "de": "Am 9. November 2026 berichteten die Novgorodskie Vedomosti, dass das Gesundheitsministerium der Region die Woche vom 9. bis 15. November dem Thema Diabetes widmet. Die Aktion läuft im Rahmen der regionalen Bewegung „Für eine Medizin der gesunden Langlebigkeit“ und parallel zur Weltwoche der Qualität und ist auf den Weltdiabetestag am 14. November abgestimmt.\n\nOksana Lole, die leitende externe Endokrinologin der Region, sagte, die Krankheit hänge mit tiefgreifenden Veränderungen der Lebensweise zusammen. Als Risikofaktoren nannte sie chronischen Stress, kalorienreiche Ernährung und geringe körperliche Aktivität. Ihrer Ansicht nach ist Diabetes gefährlich, weil ein hoher Glukosewert über Jahre unbemerkt Gefäße von Herz, Gehirn, Nieren und Augen schädigt.\n\nIn der Region sind 21.000 Menschen mit Diabetes erfasst, dazu kommen rund 21.000 im Bereich der Prädiabetes. Dabei ist der Blutzucker bereits erhöht, hat die Diagnoseschwelle aber noch nicht erreicht. Die Ärztin erklärte, dass sich in dieser Phase durch eine Umstellung der Lebensweise die volle Erkrankung verhindern lässt, und empfahl jährliche Vorsorgeuntersuchungen, die im Rahmen des Nationalen Projekts „Langes und aktives Leben“ verfügbar sind.\n\nNach einer Diagnose sollte eine Diabetesschule besucht werden. In der Region arbeiten im Rahmen des Nationalprojekts sieben solcher Schulen, drei davon in Weliki Nowgorod: in Poliklinik Nr. 3, in Poliklinik Nr. 1 und im Regionalen Endokrinologischen Zentrum des Regionalen Klinikums. Die Kurse sind kostenlos, die Anmeldung erfolgt über die Anmeldestelle der eigenen Poliklinik. Vermittelt werden Injektionen, der Umgang mit dem Blutzuckermessgerät, Sport, der Umgang mit Unterzuckerung und Hautpflege.\n\nFür Patienten und Angehörige steht außerdem das offizielle Informationsportal „Pro Diabet“ bereit, das Experten des Dedov-Zentrums für Endokrinologie erstellt haben. Es bietet Artikel zu Diabetesarten, Symptomen, Behandlung und Ernährung, Online-Diabetesschulen und Rechner. Der Bericht enthält keine Angaben dazu, wie sich diese Zahlen in früheren Jahren entwickelt haben.",
+    "es": "El 9 de noviembre de 2026, Novgorodskie Vedomosti informó de que el ministerio de salud regional dedicará la semana del 9 al 15 de noviembre a la diabetes. La campaña se enmarca en el movimiento regional \"Por una medicina de longevidad saludable\" y en la Semana Mundial de la Calidad, y está vinculada al Día Mundial de la Diabetes, que se celebra el 14 de noviembre.\n\nOksana Lole, endocrinóloga principal externa de la región, explicó que la enfermedad está ligada a cambios generales en el estilo de vida. Señaló como factores de riesgo el estrés crónico, la comida hipercalórica y la poca actividad física. Advirtió de que el exceso de glucosa daña sin hacer ruido los vasos sanguíneos durante años, afectando al corazón, el cerebro, los riñones y los ojos.\n\nEn la región hay 21.000 personas registradas con diabetes y unas 21.000 más en la zona de prediabetes, es decir, con azúcar en sangre ya elevada pero todavía por debajo del umbral diagnóstico. Según la médica, cambiar los hábitos en esa etapa puede evitar que la enfermedad se desarrolle por completo. Recomienda el chequeo médico anual, disponible gracias al proyecto nacional \"Vida larga y activa\".\n\nUna vez diagnosticado, conviene acudir a una escuela de diabetes. La región tiene siete de estas escuelas dentro del proyecto nacional, tres de ellas en Veliki Nóvgorod: en las policlínicas n.º 3 y n.º 1 y en el Centro Regional de Endocrinología del hospital clínico regional. Las clases son gratuitas y la inscripción se hace llamando al registro de la policlínica. Se enseña a inyectarse, a usar el glucómetro, a hacer ejercicio, a manejar la hipoglucemia y a cuidar la piel.\n\nPacientes y familiares también disponen del portal oficial \"Pro Diabet\", creado por expertos del Centro Nacional de Investigación en Endocrinología Dedov. Ofrece artículos sobre tipos de diabetes, síntomas, tratamiento y nutrición, escuelas online y calculadoras. El texto no aporta datos sobre la evolución de estas cifras en años anteriores."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Зарегистрировано с сахарным диабетом",
+      "en": "Registered with diabetes",
+      "kk": "Диабетпен тіркелгендер",
+      "de": "Mit Diabetes erfasst",
+      "es": "Registrados con diabetes"
+     },
+     "v": {
+      "ru": "21 тысяча человек",
+      "en": "21,000 people",
+      "kk": "21 мың адам",
+      "de": "21.000 Menschen",
+      "es": "21.000 personas"
+     }
+    },
+    {
+     "k": {
+      "ru": "В зоне предиабета",
+      "en": "In the prediabetes range",
+      "kk": "Преддиабет аймағында",
+      "de": "Im Bereich der Prädiabetes",
+      "es": "En la zona de prediabetes"
+     },
+     "v": {
+      "ru": "около 21 тысячи человек",
+      "en": "about 21,000 people",
+      "kk": "шamamen 21 мың адам",
+      "de": "rund 21.000 Menschen",
+      "es": "unas 21.000 personas"
+     }
+    },
+    {
+     "k": {
+      "ru": "Школы сахарного диабета в области",
+      "en": "Diabetes schools in the region",
+      "kk": "Облystағы диабет мектептері",
+      "de": "Diabetesschulen in der Region",
+      "es": "Escuelas de diabetes en la región"
+     },
+     "v": {
+      "ru": "семь школ, три в Великом Новгороде",
+      "en": "seven schools, three in Veliky Novgorod",
+      "kk": "жеті мектеп, үшеуі Ұлы Новгородта",
+      "de": "sieben Schulen, drei in Weliki Nowgorod",
+      "es": "siete escuelas, tres en Veliki Nóvgorod"
+     }
+    }
+   ]
+  },
+  {
+   "id": "n2R3P29jPTU",
+   "cat": "community",
+   "stage": "community",
+   "date": "2026-11-09",
+   "added": "2026-11-10T03:02:07.310Z",
+   "title": {
+    "ru": "В НИКИ детства помогают юным пациентам с диабетом и их родителям",
+    "en": "Childhood research institute helps young diabetes patients and their parents",
+    "kk": "Балалық шақ ҒЗИ қант диабеті бар жас пациенттерге және олардың ата-аналарына көмектеседі",
+    "de": "Kinderforschungsinstitut unterstützt junge Diabetespatienten und ihre Eltern",
+    "es": "El instituto de investigación infantil ayuda a jóvenes pacientes con diabetes y a sus padres"
+   },
+   "text": {
+    "ru": "Институт помогает юным пациентам с диабетом и их семьям. Подробности в анонсе не приводятся.",
+    "en": "The institute supports young patients with diabetes and their families. The snippet gives no further details.",
+    "kk": "Институт қант диабеті бар жас пациенттер мен олардың отбасыларына көмектеседі. Қысқаша мәлімдемеде басқа мәліметтер жоқ.",
+    "de": "Das Institut unterstützt junge Patienten mit Diabetes und ihre Familien. Weitere Details fehlen in der Meldung.",
+    "es": "El instituto apoya a jóvenes pacientes con diabetes y a sus familias. El resumen no ofrece más detalles."
+   },
+   "url": "https://radio1.ru/news/podmoskove/v-niki-detstva-pomogayut-yunim-bolnim-diabetom-i-ih-roditelyam/",
+   "src": "radio1.ru",
+   "photoQuery": "pediatric clinic waiting room",
+   "photo": {
+    "id": "u_Qin4G_Y_xEE",
+    "url": "https://images.unsplash.com/photo-1779281887548-f676406dea2f?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGVkaWF0cmljJTIwY2xpbmljJTIwd2FpdGluZyUyMHJvb218ZW58MXwwfHx8MTc5NDI3OTczMHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Yulaan",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/modern-waiting-room-with-blue-chairs-and-abstract-art-Qin4G_Y_xEE?utm_source=dia_news&utm_medium=referral",
+    "alt": "Modern waiting room with blue chairs and abstract art"
+   },
+   "body": {
+    "ru": "9 ноября 2026 года НИКИ детства Минздрава Московской области, выступая в рамках Недели борьбы с диабетом, подчеркнул: вовремя заметить симптомы сахарного диабета и подобрать верное лечение помогает сохранить здоровье ребёнка. В институте добавили, что обучение семьи и психологическая поддержка помогают ребёнку справляться с повседневными задачами и сохранять активность.\n\nСпециалисты пояснили, что детский диабет не возникает из-за чрезмерного употребления сладкого. Чаще у детей встречается первый тип, при котором повреждаются клетки поджелудочной железы, вырабатывающие инсулин, поэтому необходимо постоянное введение инсулина. Второй тип у детей и подростков встречается реже; риск его развития связан с наследственностью, лишним весом и малой физической активностью. Определить тип и назначить лечение способен только врач.\n\nРодителям советуют не откладывать обращение к врачу, если у ребёнка сильная жажда и частое мочеиспускание, в том числе ночью, а также выраженная слабость и утомляемость, ведь диабет первого типа у детей может развиваться быстро.\n\nВ многопрофильном стационаре института работает Школа диабета: там дети и родители учатся контролировать глюкозу, соблюдать инсулинотерапию, правильно питаться и безопасно заниматься физкультурой. С юными пациентами также работают психологи, которые помогают справляться с тревогой и эмоциональным напряжением из-за постоянного самоконтроля. Родителям не следует наказывать детей или упрекать их за показатели глюкозы, поскольку на них влияют еда, нагрузка, стресс и болезнь. Отклонение от целевых значений – повод вместе с лечащей командой разобраться в причинах.",
+    "en": "On November 9, 2026, the Scientific Research Institute of Children's Health of the Moscow Region Ministry of Health, speaking during Diabetes Awareness Week, stressed that spotting diabetes symptoms early and choosing the right treatment can protect a child's health. The institute added that family training and psychological support help a child handle everyday tasks and stay active.\n\nSpecialists explained that diabetes in children is not caused by eating too many sweets. Type 1 is more common in young patients; it damages the pancreatic cells that make insulin, so insulin must be given regularly. Type 2 is rarer among children and teenagers, and its risk is tied to heredity, excess weight and low physical activity. Only a doctor can determine the type and prescribe treatment.\n\nParents are advised not to delay seeing a doctor if a child has intense thirst and frequent urination, including at night, or marked weakness and fatigue, since type 1 diabetes in children can progress quickly.\n\nThe institute's multidisciplinary hospital runs a Diabetes School, where children and parents learn to monitor glucose, follow insulin therapy, eat properly and exercise safely. Psychologists also work with young patients to help them cope with anxiety and emotional strain caused by constant self-monitoring. Parents should avoid punishing children or blaming them for glucose readings, because food, exertion, stress and illness all affect those numbers. A deviation from target values is a reason to look into the causes together with the treating team.",
+    "kk": "2026 жылдың 9 қарашасында Мәскеу облысы Денсаулық сақтау министрлігінің Балалар денсаулығы ҒЗИ (НИКИ детства) Диабетпен күрес апталығы аясында мәлімдеді: диабеттің белгілерін уақытында байқау және дұрыс емді таңдау баланың денсаулығын сақтауға көмектеседі. Институт отбасына оқыту мен психологиялық қолдаудың баланың күнделікті міндеттерді орындауына және белсенді болуына жәрдемдесетінін қосты.\n\nМамандар баладағы диабет тәтті заттарды көп жегеннен туындамайтынын түсіндірді. Балаларда 1-типті диабет жиі кездеседі: ол ұйқы безінің инсулин шығаратын жасушаларын зақымдайды, сондықтан инсулинді үнемі енгізу қажет. 2-типті диабет балалар мен жасөспірімдерде сиректеу кездеседі; оның қаупі тұқым қуалаушылыққа, артық салмаққа және аз қозғалысқа байланысты. Түрін анықтап, емді тек дәрігер тағайындай алады.\n\nАта-аналарға баланың қатты шөлдеуі, жиі, соның ішінде түнде несеп шығаруы, сондай-ақ айқын әлсіздігі мен шаршағыштығы байқалса, дәрігерге жүгінуді кейінге қалдырмау ұсынылады, өйткені балалардағы 1-типті диабет тез дамуы мүмкін.\n\nИнституттың көп бейінді стационарында Диабет мектебі жұмыс істейді: мұнда балалар мен ата-аналар глюкозаны бақылауды, инсулинотерапияны сақтауды, дұрыс тамақтануды және қауіпсіз дене жаттығуын үйренеді. Жас науқастармен психологтар да жұмыс істеп, үнемі өзін-өзі бақылаудан туындайтын алаңдаушылық пен эмоционалдық қиындықтарды жеңуге көмектеседі. Ата-аналар глюкоза көрсеткіштері үшін балаларды жазалаудан немесе кінәлаудан аулақ болуы керек, өйткені оларға тамақ, дене жүктемесі, стресс және ауру да әсер етеді. Мақсатты мәннен ауытқу – емдеуші топпен бірге себептерін анықтауға негіз.",
+    "de": "Am 9. November 2026 erklärte das NIKI der Kindheit des Gesundheitsministeriums der Region Moskau im Rahmen der Diabetes-Aufklärungswoche, dass das frühzeitige Erkennen von Diabetessymptomen und eine passende Behandlung die Gesundheit eines Kindes schützen können. Das Institut ergänzte, dass Schulung für die Familie und psychologische Unterstützung dem Kind helfen, den Alltag zu bewältigen und aktiv zu bleiben.\n\nFachleute stellten klar, dass Diabetes bei Kindern nicht durch übermäßigen Zuckerkonsum entsteht. Bei jungen Patienten tritt häufiger Typ-1-Diabetes auf, bei dem die insulinbildenden Zellen der Bauchspeicheldrüse geschädigt sind, weshalb dauerhaft Insulin verabreicht werden muss. Typ-2-Diabetes ist bei Kindern und Jugendlichen seltener; sein Risiko hängt mit Vererbung, Übergewicht und wenig Bewegung zusammen. Nur ein Arzt kann den Typ bestimmen und die Behandlung festlegen.\n\nEltern sollten nicht zögern, ärztliche Hilfe zu suchen, wenn ein Kind starken Durst und häufiges Wasserlassen, auch nachts, oder ausgeprägte Schwäche und Müdigkeit zeigt, denn Typ-1-Diabetes kann sich bei Kindern rasch entwickeln.\n\nIn der multidisziplinären Klinik des Instituts gibt es eine Diabetesschule, in der Kinder und Eltern lernen, den Glukosespiegel zu kontrollieren, die Insulintherapie einzuhalten, sich richtig zu ernähren und sicher Sport zu treiben. Auch Psychologen betreuen die jungen Patienten, damit sie mit Ängsten und emotionalen Belastungen durch die ständige Selbstkontrolle zurechtkommen. Eltern sollten Kinder wegen Glukosewerten nicht bestrafen oder beschuldigen, denn Ernährung, Belastung, Stress und Krankheit beeinflussen diese Werte. Abweichungen von den Zielwerten sind ein Anlass, die Ursachen gemeinsam mit dem behandelnden Team zu klären.",
+    "es": "El 9 de noviembre de 2026, el NIKI de la Infancia del Ministerio de Salud de la región de Moscú, en el marco de la Semana de la Lucha contra la Diabetes, señaló que detectar a tiempo los síntomas de la diabetes y elegir un tratamiento adecuado puede preservar la salud del niño. La institución añadió que la formación de la familia y el apoyo psicológico ayudan al menor a afrontar las tareas diarias y a mantenerse activo.\n\nLos especialistas aclararon que la diabetes infantil no es consecuencia de comer demasiados dulces. En los niños es más frecuente la diabetes tipo 1, en la que se dañan las células del páncreas que producen insulina, por lo que se necesita administración constante de insulina. La tipo 2 es menos común en niños y adolescentes; su riesgo se relaciona con la herencia, el exceso de peso y la poca actividad física. Solo un médico puede determinar el tipo y prescribir el tratamiento.\n\nLos padres deben acudir al médico sin demora si el niño presenta sed intensa y micción frecuente, también de noche, o debilidad y cansancio marcados, ya que la diabetes tipo 1 infantil puede avanzar con rapidez.\n\nEl hospital multidisciplinario del instituto cuenta con una Escuela de Diabetes, donde niños y padres aprenden a controlar la glucosa, seguir la insulinoterapia, alimentarse bien y hacer ejercicio con seguridad. También trabajan psicólogos con los pacientes jóvenes para ayudarles a manejar la ansiedad y las dificultades emocionales que supone el autocontrol constante. Se aconseja a los padres no castigar ni culpar a los niños por sus cifras de glucosa, porque la alimentación, el esfuerzo físico, el estrés y la enfermedad influyen en ellas. Una desviación de los valores objetivo es motivo para averiguar las causas junto con el equipo que trata al niño."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Школа диабета",
+      "en": "Diabetes School",
+      "kk": "Диабет мектебі",
+      "de": "Diabetesschule",
+      "es": "Escuela de Diabetes"
+     },
+     "v": {
+      "ru": "Работает в многопрофильном стационаре НИКИ детства для детей и родителей",
+      "en": "Operates in the institute's multidisciplinary hospital for children and parents",
+      "kk": "Институттың көп бейінді стационарында балалар мен ата-аналар үшін жұмыс істейді",
+      "de": "Arbeitet in der multidisziplinären Klinik des Instituts für Kinder und Eltern",
+      "es": "Funciona en el hospital multidisciplinario del instituto para niños y padres"
+     }
+    }
+   ]
+  },
   {
    "id": "nXBuP29jPTU",
    "cat": "research",
@@ -409,7 +760,8 @@ const DIA_NEWS={
     "link": "https://unsplash.com/photos/a-room-filled-with-lots-of-shelves-filled-with-boxes-and-boxes-tvP6pCnq9iI?utm_source=dia_news&utm_medium=referral",
     "alt": "a room filled with lots of shelves filled with boxes and boxes"
    },
-   "bodyTries": 1
+   "bodyTries": 1,
+   "bodyTried": true
   },
   {
    "id": "ndXUT9vYz01",
@@ -1830,388 +2182,6 @@ const DIA_NEWS={
    }
   },
   {
-   "id": "njNjP29jPTU",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-08",
-   "added": "2026-11-09T07:30:16.221Z",
-   "title": {
-    "ru": "Сахарный диабет: профилактика и контроль заболевания",
-    "en": "Diabetes: prevention and control of the disease",
-    "kk": "Қант диабеті: ауруды алдын алу және бақылау",
-    "de": "Diabetes: Vorbeugung und Kontrolle der Erkrankung",
-    "es": "Diabetes: prevención y control de la enfermedad"
-   },
-   "text": {
-    "ru": "Врач Дрибинской ЦРБ рассказывает о профилактике и контроле сахарного диабета.",
-    "en": "A doctor from the Dribin district hospital explains how to prevent and control diabetes.",
-    "kk": "Дрибин аудандық орталық ауруханасының дәрігері қант диабетінің алдын алу және бақылау туралы айтады.",
-    "de": "Eine Ärztin des Kreiskrankenhauses Dribin erklärt, wie Diabetes vorgebeugt und kontrolliert werden kann.",
-    "es": "Un médico del hospital central del distrito de Dribin explica cómo prevenir y controlar la diabetes."
-   },
-   "url": "https://www.dribin.by/zdorovie/o-profilaktike-i-kontrole-zabolevaniya-rasskazyvaet-vrach-uz-dribinskaya-czrb/",
-   "src": "dribin.by",
-   "photoQuery": "medical clinic consultation desk",
-   "local": true,
-   "body": {
-    "ru": "8 ноября 2026 года портал dribin.by, связанный с районной газетой «Савецкая вёска» в Беларуси, опубликовал интервью с врачом общей практики Дрибинской центральной районной больницы Викторией Федорович. Беседа посвящена распространённому мнению, будто диабет возникает от большого количества сладкого. По словам врача, болезнь гораздо сложнее, лишь частично связана с питанием и может затронуть любого человека.\n\nОна описывает диабет как группу нарушений обмена веществ, при которых углеводы усваиваются плохо, поэтому уровень сахара в крови заметно растёт. Избыток глюкозы способен повреждать сосуды, нервы и внутренние органы. В норме поджелудочная железа выделяет инсулин, который помогает клеткам получать глюкозу для энергии.\n\nПри первом типе иммунная система разрушает бета-клетки поджелудочной железы, и выработка инсулина прекращается; по словам врача, чаще всего это касается людей младше 30 лет. При втором типе инсулин есть, но клетки на него не реагируют, а железа постепенно истощается от перегрузки; эта форма чаще встречается у пожилых. Важны наследственность, образ жизни и факторы среды. Малоподвижность названа второй по значимости причиной после ожирения. После 40–45 лет риск второго типа удваивается каждые 10 лет, а наличие диабета у близких родственников повышает вероятность, поскольку передаётся предрасположенность, а не сама болезнь.\n\nВрач отмечает, что диабет второго типа во многих случаях можно предотвратить, изменив образ жизни, и что снижение массы тела входит в число самых эффективных мер. Рекомендуются овощи, бобовые, цельнозерновые продукты и клетчатка, регулярное дробное питание, умеренные ежедневные нагрузки — прогулки, плавание, велосипед, танцы, а также контроль стресса и сна. Избыток сахара, фастфуд, жареная пища, трансжиры и алкоголь названы факторами, способствующими болезни.\n\nЛюдям с высоким риском советуют регулярно проверять уровень сахара в крови; анализ можно сделать в районной поликлинике, результаты узнать у участкового врача. Интервью носит общий характер и не содержит местной статистики или сведений о лечении.",
-    "en": "On 8 November 2026, the dribin.by portal, linked to the district newspaper Savetskaya vioska in Belarus, published an interview with Viktoria Fedorovich, a general practitioner at the Dribin district central hospital. It addresses the widespread belief that eating a lot of sweets causes diabetes. According to the doctor, the disease is far more complex, only partly tied to diet, and can affect anyone.\n\nShe describes diabetes as a group of metabolic disorders in which carbohydrates are poorly absorbed, so blood sugar rises markedly. Excess glucose can damage blood vessels, nerves and internal organs. Normally the pancreas releases insulin, which lets cells take in glucose for energy.\n\nIn type 1, the immune system destroys the pancreas's beta cells and insulin production stops; according to the interview, this mostly affects people under 30. In type 2, insulin is present but cells do not respond to it, and the pancreas gradually wears out from overwork; this form is more common in older people. Genetics, lifestyle and environment all play a role, and inactivity is named as the second most important cause after obesity. After age 40–45, type 2 risk doubles every 10 years, and having close relatives with diabetes raises the risk, since a predisposition rather than the disease itself is inherited.\n\nThe doctor notes that type 2 can often be prevented by changing habits, and weight reduction is among the most effective steps. Recommended measures include vegetables, legumes, whole grains and fiber, regular smaller meals, daily moderate activity such as walking, swimming, cycling or dancing, and managing stress and sleep. Excess sugar, fast food, fried food, trans fats and alcohol are listed as promoting the disease.\n\nPeople at high risk are advised to test their blood sugar regularly; the test is available at the district polyclinic, and results can be obtained from the local family doctor. The interview is general in nature and contains no local statistics or treatment details.",
-    "kk": "2026 жылғы 8 қарашада Беларусьтегі аудандық «Савецкая вёска» газетімен байланысты dribin.by порталы Дрибин аудандық орталық ауруханасының жалпы практика дәрігері Виктория Федоровичпен сұхбат жариялады. Сұхбатта кең таралған пікір қозғалады: диабет көп тәтті жегеннен пайда болады деген ой. Дәрігердің айтуынша, ауру әлдеқайда күрделі, тек ішінара тамаққа байланысты және кез келген адамға келуі мүмкін.\n\nОл диабетті зат алмасу бұзылыстарының тобы ретінде сипаттайды: көмірсулар нашар сіңеді, сондықтан қандағы қант айтарлықтай көтеріледі. Глюкозаның артық мөлшері қан тамырларына, жүйке талшықтарына және ішкі ағзаларға зақым келтіруі мүмкін. Қалыпты жағдайда ұйқы безі инсулин бөледі, ол жасушаларға энергия үшін глюкозаны қабылдауға көмектеседі.\n\nБірінші түрде иммундық жүйе ұйқы безінің бета-жасушаларын жояды, сөйтіп инсулин өндірісі тоқтайды; сұхбат бойынша бұл көбіне 30 жасқа дейінгі адамдарға тән. Екінші түрде инсулин бар, бірақ жасушалар оған жауап бермейді, ал ұйқы безі артық жүктемеден біртіндеп тозады; бұл түр жасы үлкен адамдарда жиірек кездеседі. Тұқым қуалаушылық, өмір салты және қоршаған орта факторлары маңызды. Қозғалыссыз өмір салты семіздіктен кейінгі екінші маңызды себеп ретінде аталады. 40–45 жастан кейін екінші түр қаупі әр 10 жыл сайын екі есе артады, ал жақын туыстарда диабеттің болуы қауіпті арттырады, себебі тұқым қуалайтыны — ауру емес, бейімділік.\n\nДәрігер екінші түр диабетінің көп жағдайда өмір салтын өзгерту арқылы алдын алуға болатынын атап өтеді; салмақты азайту ең тиімді шаралардың бірі. Ұсынылатын шараларға көкөністер, бұршақ тұқымдас дақылдар, толық дәнді өнімдер мен талшық, жиі және аз мөлшерде тамақтану, күнделікті орташа жүктеме — серуендеу, жүзу, велосипед, би, сондай-ақ стресс пен ұйқыны бақылау жатады. Артық қант, фастфуд, қуырылған тағам, трансмайлар және алкоголь ауруды күшейтетін факторлар ретінде аталады.\n\nЖоғары қауіп тобындағыларға қандағы қант деңгейін тұрақты тексеруге кеңес беріледі; талдауды аудандық емханада тапсыруға болады, нәтижесін учаскелік дәрігерден білуге болады. Сұхбат жалпы сипатта, онда жергілікті статистика немесе емдеу туралы мәліметтер жоқ.",
-    "de": "Am 8. November 2026 veröffentlichte das Portal dribin.by, das mit der Bezirkszeitung „Savetskaya vioska“ in Belarus verbunden ist, ein Interview mit Viktoria Fedorovich, einer Allgemeinmedizinerin am Bezirkskrankenhaus Dribin. Es geht um die weit verbreitete Annahme, Diabetes entstehe durch viel Süßes. Laut der Ärztin ist die Krankheit weit komplexer, nur teilweise von der Ernährung abhängig und kann jeden treffen.\n\nSie beschreibt Diabetes als Gruppe von Stoffwechselstörungen, bei denen Kohlenhydrate schlecht aufgenommen werden, sodass der Blutzucker deutlich ansteigt. Überschüssige Glukose kann Blutgefäße, Nerven und innere Organe schädigen. Normalerweise gibt die Bauchspeicheldrüse Insulin ab, das den Zellen hilft, Glukose für Energie aufzunehmen.\n\nBei Typ 1 zerstört das Immunsystem die Beta-Zellen der Bauchspeicheldrüse, und die Insulinproduktion endet; laut dem Interview betrifft dies vor allem Menschen unter 30 Jahren. Bei Typ 2 ist Insulin vorhanden, doch die Zellen reagieren nicht darauf, und die Drüse erschöpft sich nach und nach durch Überlastung; diese Form tritt häufiger bei älteren Menschen auf. Genetik, Lebensstil und Umweltfaktoren spielen eine Rolle, wobei Bewegungsmangel als zweitwichtigste Ursache nach Übergewicht genannt wird. Nach dem 40. bis 45. Lebensjahr verdoppelt sich das Typ-2-Risiko alle 10 Jahre, und Diabetes bei nahen Verwandten erhöht die Gefahr, weil eine Veranlagung und nicht die Krankheit selbst vererbt wird.\n\nDie Ärztin betont, dass Typ 2 in vielen Fällen durch eine Umstellung der Lebensgewohnheiten verhindert werden kann; Gewichtsreduktion gehört zu den wirksamsten Schritten. Empfohlen werden Gemüse, Hülsenfrüchte, Vollkornprodukte und Ballaststoffe, regelmäßige kleinere Mahlzeiten, tägliche moderate Bewegung wie Spazierengehen, Schwimmen, Radfahren oder Tanzen sowie der Umgang mit Stress und Schlaf. Zuckerüberschuss, Fast Food, frittierte Speisen, Transfette und Alkohol gelten als begünstigende Faktoren.\n\nMenschen mit hohem Risiko wird geraten, ihren Blutzucker regelmäßig prüfen zu lassen; der Test ist in der Bezirkspoliklinik möglich, die Ergebnisse erfährt man bei der zuständigen Hausärztin oder dem Hausarzt. Das Interview ist allgemein gehalten und enthält keine lokalen Statistiken oder Angaben zur Behandlung.",
-    "es": "El 8 de noviembre de 2026, el portal dribin.by, vinculado al periódico distrital «Savetskaya vioska» de Bielorrusia, publicó una entrevista con Viktoria Fedorovich, médica de familia del hospital central del distrito de Dribin. Aborda la creencia extendida de que la diabetes surge por comer mucho dulce. Según la doctora, la enfermedad es mucho más compleja, depende solo en parte de la alimentación y puede afectar a cualquier persona.\n\nDescribe la diabetes como un grupo de trastornos del metabolismo en los que los carbohidratos se absorben mal, por lo que la glucosa en sangre sube de forma notable. El exceso de glucosa puede dañar los vasos sanguíneos, los nervios y los órganos internos. Normalmente, el páncreas libera insulina, que permite a las células captar glucosa para obtener energía.\n\nEn el tipo 1, el sistema inmunitario destruye las células beta del páncreas y la producción de insulina cesa; según la entrevista, esto afecta sobre todo a personas menores de 30 años. En el tipo 2, la insulina está presente, pero las células no responden a ella, y el páncreas se desgasta poco a poco por la sobrecarga; esta forma es más frecuente en personas mayores. La genética, el estilo de vida y el entorno influyen, y el sedentarismo figura como la segunda causa más importante después de la obesidad. Pasados los 40–45 años, el riesgo de tipo 2 se duplica cada 10 años, y tener familiares cercanos con diabetes lo aumenta, ya que se hereda una predisposición y no la enfermedad en sí.\n\nLa doctora señala que el tipo 2 puede prevenirse en muchos casos cambiando los hábitos, y que bajar de peso está entre las medidas más eficaces. Se recomiendan verduras, legumbres, cereales integrales y fibra, comidas regulares y más pequeñas, actividad física moderada a diario, como caminar, nadar, pedalear o bailar, y cuidar el estrés y el sueño. El exceso de azúcar, la comida rápida, los alimentos fritos, las grasas trans y el alcohol se citan como factores que favorecen la enfermedad.\n\nA las personas con alto riesgo se les aconseja controlar su glucemia con regularidad; el análisis puede hacerse en la policlínica del distrito y los resultados se obtienen con el médico de cabecera. La entrevista es de carácter general y no incluye estadísticas locales ni detalles sobre el tratamiento."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Риск после 40–45 лет",
-      "en": "Risk after age 40–45",
-      "kk": "40–45 жастан кейінгі қауіп",
-      "de": "Risiko ab 40–45 Jahren",
-      "es": "Riesgo después de los 40–45 años"
-     },
-     "v": {
-      "ru": "Риск диабета 2 типа удваивается каждые 10 лет",
-      "en": "Type 2 risk doubles every 10 years",
-      "kk": "Екінші түр қаупі әр 10 жыл сайын екі есе артады",
-      "de": "Typ-2-Risiko verdoppelt sich alle 10 Jahre",
-      "es": "El riesgo de tipo 2 se duplica cada 10 años"
-     }
-    },
-    {
-     "k": {
-      "ru": "Возраст, чаще всего затрагиваемый при 1 типе",
-      "en": "Age most often affected by type 1",
-      "kk": "1-түр диабетте көбіне қай жас",
-      "de": "Altersgruppe bei Typ 1",
-      "es": "Edad más afectada en el tipo 1"
-     },
-     "v": {
-      "ru": "В основном люди младше 30 лет",
-      "en": "Mainly people under 30",
-      "kk": "Негізінен 30 жасқа дейінгі адамдар",
-      "de": "Vor allem Menschen unter 30 Jahren",
-      "es": "Sobre todo menores de 30 años"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u_bdeLBIPYUrE",
-    "url": "https://images.unsplash.com/photo-1778151270886-f227700b0eba?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGNsaW5pYyUyMGNvbnN1bHRhdGlvbiUyMGRlc2t8ZW58MXwwfHx8MTc5NDIxMzU2NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Irshad Pathan",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/modern-office-with-desk-chairs-and-computer-bdeLBIPYUrE?utm_source=dia_news&utm_medium=referral",
-    "alt": "Modern office with desk, chairs, and computer"
-   }
-  },
-  {
-   "id": "nEJvP29jPTU",
-   "cat": "cure",
-   "stage": "early",
-   "date": "2026-11-08",
-   "added": "2026-11-09T07:03:34.379Z",
-   "title": {
-    "ru": "CRISPR и регенерация бета-клеток: ранние многообещающие результаты",
-    "en": "CRISPR Beta-Cell Regeneration Shows Early Promise",
-    "kk": "CRISPR және бета-жасушалардың қалпына келуі: алғашқы перспективалы нәтижелер",
-    "de": "CRISPR-Regeneration von Beta-Zellen zeigt frühe Hoffnung",
-    "es": "La regeneración de células beta con CRISPR muestra resultados tempranos prometedores"
-   },
-   "text": {
-    "ru": "Ранние данные показывают, что регенерация бета-клеток с помощью CRISPR может помочь в долгосрочном контроле диабета. Исследование находится на ранней стадии.",
-    "en": "Early data suggest that CRISPR-based beta-cell regeneration could support long-term diabetes management. The research is at an early stage.",
-    "kk": "Алғашқы деректер CRISPR негізіндегі бета-жасушалардың қалпына келуі диабетті ұзақ мерзімді бақылауға көмектесуі мүмкін екенін көрсетеді. Зерттеу алғашқы кезеңде.",
-    "de": "Erste Daten deuten darauf hin, dass die CRISPR-basierte Regeneration von Beta-Zellen die langfristige Diabeteskontrolle unterstützen könnte. Die Forschung befindet sich in einem frühen Stadium.",
-    "es": "Los datos preliminares sugieren que la regeneración de células beta basada en CRISPR podría ayudar al control a largo plazo de la diabetes. La investigación está en una fase temprana."
-   },
-   "url": "https://bioengineer.org/crispr-beta-cell-regeneration-shows-early-promise-for-long-term-diabetes-management/",
-   "src": "Bioengineer.org",
-   "photoQuery": "scientist laboratory cells microscope",
-   "photo": {
-    "id": "u_gKUC4TMhOiY",
-    "url": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c2NpZW50aXN0JTIwbGFib3JhdG9yeSUyMGNlbGxzJTIwbWljcm9zY29wZXxlbnwxfDB8fHwxNzk0MjA3ODIxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Ousa Chea",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_source=dia_news&utm_medium=referral",
-    "alt": "white microscope on top of black table"
-   },
-   "body": {
-    "ru": "Обзор, опубликованный в Egyptian Journal of Medical Human Genetics (авторы Syeda Fadak Zahra Hujjat и Syeda Hasnat Zahra), рассматривает, как редактирование генов CRISPR-Cas9 может восстанавливать инсулин-продуцирующие бета-клетки и защищать их от иммунной атаки. Авторы опираются на данные животных исследований и одно продолжающееся клиническое испытание ранней фазы.\n\nДиабетом в мире страдают, по оценкам, 537 миллионов человек. Обычные методы лечения, такие как инсулин, пероральные препараты и изменение образа жизни, снижают высокий уровень глюкозы в крови, но не восполняют утраченные бета-клетки. Существующие методы замещения клеток, например трансплантация островков, ограничены нехваткой доноров, риском образования опухолей и необходимостью пожизненного приема иммунодепрессантов.\n\nВ лабораторных исследованиях учёные отключали ген CDKN2A, чтобы ускорить деление бета-клеток, а у мышей изменение гена Arx превращало альфа-клетки в функциональные бета-подобные клетки, восстанавливая толерантность к глюкозе без гипогликемии. У приматов, не относящихся к человеку, делеция CDKN2A за три месяца удвоила функциональную массу бета-клеток, однако долгосрочная безопасность в отношении неконтролируемого роста клеток всё ещё изучается.\n\nГлавное клиническое испытание, NCT04143744, редактирует вне организма прогениторы поджелудочной железы, полученные из стволовых клеток, перед введением пациентам с диабетом 1 типа. Промежуточные результаты за шесть месяцев показали повышение выработки C-пептида и снижение потребности во внешнем инсулине; сообщений о дозолимитирующей токсичности не было. Исследователи предупреждают, что группа мала, наблюдение короткое и долговечность неизвестна; по данным статьи, набор участников ещё продолжался, а завершение ожидалось в конце 2025 года.\n\nСреди других препятствий — непреднамеренные разрывы ДНК, которые могут вызвать рак, иммунные реакции, смешанные популяции отредактированных и неотредактированных клеток, а также оценочная стоимость от 250 000 до 1 000 000 долларов на пациента. Авторы считают, что регенерация на основе CRISPR сейчас противопоказана людям с тяжёлым иммунодефицитом или повышенным исходным риском рака. Предлагаемые шаги включают проектирование направляющих РНК с помощью ИИ, иммуномодуляцию и перепрограммирование in vivo, которое могло бы обойтись без трансплантации, а также долгосрочное наблюдение до окончательных выводов.",
-    "en": "A review published in the Egyptian Journal of Medical Human Genetics (authors Syeda Fadak Zahra Hujjat and Syeda Hasnat Zahra) examines how CRISPR-Cas9 gene editing might regenerate insulin-producing beta cells and shield them from immune attack. The authors combine evidence from animal studies with one early-phase human trial that is still running.\n\nDiabetes is estimated to affect 537 million people worldwide. Usual treatments, including insulin, oral drugs and lifestyle changes, lower high blood glucose but do not replace lost beta cells. Existing cell-replacement options, such as islet transplantation, are limited by donor shortages, tumor risks and the need for lifelong immunosuppressive drugs.\n\nIn laboratory work, researchers switched off CDKN2A to speed up beta-cell division, and in mice an alteration of the Arx gene turned alpha cells into functional beta-like cells, restoring glucose tolerance without hypoglycemia. In non-human primates, deleting CDKN2A doubled functional beta-cell mass within three months, but long-term safety regarding uncontrolled cell growth is still being investigated.\n\nThe main clinical test, trial NCT04143744, edits stem-cell-derived pancreatic progenitors outside the body before they are given to people with type 1 diabetes. Interim six-month results showed higher C-peptide production and a lower need for injected insulin, with no dose-limiting toxicities reported. Researchers caution that the group is small, follow-up is short and durability is unknown; according to the article, enrollment was still open, with completion expected in late 2025.\n\nOther hurdles include unintended DNA breaks that could cause cancer, immune reactions, mixed populations of edited and unedited cells, and estimated costs of $250,000 to $1,000,000 per patient. The authors say CRISPR-based regeneration is currently contraindicated for people with severe immunodeficiency or a higher baseline cancer risk. Proposed next steps include AI-guided guide RNA design, immune modulation, and in vivo reprogramming that could avoid transplantation, alongside long-term monitoring before firm conclusions are drawn.",
-    "kk": "Egyptian Journal of Medical Human Genetics журналында жарияланған шолу (авторлары Syeda Fadak Zahra Hujjat және Syeda Hasnat Zahra) CRISPR-Cas9 гендік редакциясының инсулин өндіретін бета-жасушаларды қалпына келтіру және оларды иммундық шабуылдан қорғау мүмкіндігін қарастырады. Авторлар жануарлар зерттеулерінің деректерін әлі жалғасып жatқан, ерте фазадағы бір клиникалық сынақпен біріктіреді.\n\nӘлемде шамамен 537 миллион адам диабетпен ауырады деп бағаланады. Әдеттегі емдеу, соның ішінде инсулин, ауыз арқылы қабылданатын дәрілер және өмір салтын өзгерту, жоғары қан глюкозасын төмендетеді, бірақ жоғалған бета-жасушаларды толтырмайды. Бар жасушаларды ауыстыру тәсілдері, мысалы аралшықтарды трансплантациялау, донорлардың жетіспеуімен, ісік қаупімен және өмір бойы иммунитетті басатын дәрілерді қабылдау қажеттілігімен шектеледі.\n\nЗертханалық жұмыстарда ғалымдар бета-жасушалардың бөлінуін жылдамдату үшін CDKN2A генін өшірді, ал тышқандарда Arx генін өзгерту альфа-жасушаларды функционалды бета-тәрізді жасушаларға айналдырып, гипогликемиясыз глюкозаға төзімділікті қалпына келтірді. Адамнан басқа приматтарда CDKN2A жойылуы үш айда функционалды бета-жасуша массасын екі есеге арттырды, бірақ бақыланбайтын жасуша өсуіне қатысты ұзақ мерзімді қауіпсіздік әлі зерттелуде.\n\nНегізгі клиникалық сынақ, NCT04143744, бағаналы жасушалардан алынған ұйқы безінің прогениторларын 1-типті диабеті бар адамдарға енгізер алдында организм сыртында редакциялайды. Алты айлық аралық нәтижелер C-пептид өндірісінің артқанын және сыртқы инсулинге қажеттіліктің азайғанын көрсетті; дозаға байланысты уыттылық туралы хабарламалар болмаған. Зерттеушілер топтың шағын екенін, бақылау мерзімінің қысқа екенін және ұзақтығының белгісіз екенін ескертеді; мақалада қатысушыларды тарту әлі жалғасып жатқаны, аяқталуы 2025 жылдың соңына жоспарланғаны айтылады.\n\nБасқа кедергілерге қалаусыз ДНҚ үзілістері, ісік туғызуы мүмкін, иммундық реакциялар, өңделген және өңделмеген жасушалардың аралас популяциялары, сондай-ақ бір науқасқа шамамен 250 000-нан 1 000 000 долларға дейінгі бағасы жатады. Авторлардың айтуынша, CRISPR негізіндегі регенерация қазір ауыр иммунитет тапшылығы бар немесе бастапқы қатерлі ісік қаупі жоғары адамдарға қарсы көрсетілген. Ұсынылатын келесі қадамдарға ЖИ (жасанды интеллект) көмегімен нұсқаушы РНҚ жобалау, иммундық модуляция және трансплантациядан аулақ болуы мүмкін in vivo қайта бағдарламалау, сондай-ақ нақты қорытындыға дейінгі ұзақ мерзімді бақылау кіреді.",
-    "de": "Ein Übersichtsartikel in der Egyptian Journal of Medical Human Genetics (Autoren Syeda Fadak Zahra Hujjat und Syeda Hasnat Zahra) untersucht, wie die Genbearbeitung mit CRISPR-Cas9 insulinproduzierende Beta-Zellen regenerieren und vor Angriffen des Immunsystems schützen könnte. Die Autoren verbinden Befunde aus Tierstudien mit einer noch laufenden klinischen Studie der frühen Phase.\n\nWeltweit sind schätzungsweise 537 Millionen Menschen von Diabetes betroffen. Übliche Behandlungen wie Insulin, orale Medikamente und Lebensstiländerungen senken hohen Blutzucker, ersetzen aber nicht die verlorenen Beta-Zellen. Bestehende Zellersatzverfahren wie die Inseltransplantation sind durch Spendermangel, Tumorrisiken und die Notwendigkeit lebenslanger immunsuppressiver Medikamente eingeschränkt.\n\nIn Laborarbeiten schalteten Forschende CDKN2A ab, um die Teilung der Beta-Zellen zu beschleunigen, und bei Mäusen verwandelte eine Veränderung des Arx-Gens Alphazellen in funktionelle betazellähnliche Zellen, wodurch die Glukosetoleranz ohne Hypoglykämie wiederhergestellt wurde. Bei nicht-menschlichen Primaten verdoppelte die CDKN2A-Deletion die funktionelle Beta-Zell-Masse innerhalb von drei Monaten; die langfristige Sicherheit hinsichtlich unkontrollierten Zellwachstums wird jedoch noch untersucht.\n\nDie wichtigste klinische Untersuchung, NCT04143744, bearbeitet aus Stammzellen gewonnene Vorläuferzellen der Bauchspeicheldrüse außerhalb des Körpers, bevor sie Menschen mit Typ-1-Diabetes verabreicht werden. Zwischenergebnisse nach sechs Monaten zeigten eine höhere C-Peptid-Produktion und einen geringeren Bedarf an zugeführtem Insulin; dosislimitierende Toxizität wurde nicht berichtet. Die Forschenden warnen, dass die Gruppe klein ist, die Beobachtungszeit kurz und die Dauerhaftigkeit unbekannt; laut Artikel lief die Teilnehmerrekrutierung noch, mit einem erwarteten Abschluss Ende 2025.\n\nWeitere Hürden sind ungewollte DNA-Brüche, die Krebs auslösen könnten, Immunreaktionen, gemischte Zellpopulationen aus bearbeiteten und unbearbeiteten Zellen sowie geschätzte Kosten von 250.000 bis 1.000.000 US-Dollar pro Patient. Die Autoren sagen, dass die CRISPR-basierte Regeneration derzeit bei Menschen mit schwerer Immunschwäche oder erhöhtem Ausgangsrisiko für Krebs kontraindiziert ist. Vorgeschlagene nächste Schritte sind KI-gestütztes Design der Leit-RNA, Immunmodulation und In-vivo-Umprogrammierung, die eine Transplantation vermeiden könnte, begleitet von Langzeitbeobachtung vor endgültigen Schlussfolgerungen.",
-    "es": "Una revisión publicada en el Egyptian Journal of Medical Human Genetics, de Syeda Fadak Zahra Hujjat y Syeda Hasnat Zahra, analiza cómo la edición genética CRISPR-Cas9 podría regenerar las células beta productoras de insulina y protegerlas del ataque inmunitario. Los autores combinan evidencia de estudios con animales con un ensayo clínico de fase temprana que aún está en curso.\n\nSe calcula que 537 millones de personas viven con diabetes en el mundo. Los tratamientos habituales, como la insulina, los fármacos orales y los cambios de estilo de vida, reducen la glucosa alta en sangre, pero no reponen las células beta perdidas. Las opciones actuales de reemplazo celular, como el trasplante de islotes, están limitadas por la escasez de donantes, los riesgos tumorales y la necesidad de inmunosupresores de por vida.\n\nEn trabajos de laboratorio, los investigadores desactivaron CDKN2A para acelerar la división de las células beta, y en ratones una modificación del gen Arx convirtió células alfa en células similares a las beta funcionales, restaurando la tolerancia a la glucosa sin hipoglucemia. En primates no humanos, la deleción de CDKN2A duplicó la masa funcional de células beta en tres meses, aunque la seguridad a largo plazo frente al crecimiento celular descontrolado sigue bajo investigación.\n\nEl ensayo clínico principal, NCT04143744, edita en laboratorio progenitores pancreáticos derivados de células madre antes de administrarlos a personas con diabetes tipo 1. Los datos intermedios a seis meses mostraron mayor producción de péptido C y menor necesidad de insulina exógena, sin toxicidades limitantes de dosis reportadas. Los investigadores advierten que el grupo es pequeño, el seguimiento breve y la durabilidad desconocida; según el artículo, el reclutamiento seguía abierto y la finalización se preveía para finales de 2025.\n\nOtros obstáculos incluyen cortes de ADN no deseados que podrían provocar cáncer, reacciones inmunitarias, poblaciones mixtas de células editadas y no editadas, y costes estimados de 250.000 a 1.000.000 de dólares por paciente. Los autores afirman que la regeneración basada en CRISPR está actualmente contraindicada en personas con inmunodeficiencia grave o con mayor riesgo basal de cáncer. Los siguientes pasos propuestos incluyen el diseño de ARN guía asistido por IA, la modulación inmunitaria y la reprogramación in vivo que podría evitar el trasplante, junto con seguimiento a largo plazo antes de sacar conclusiones firmes."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Людей с диабетом в мире (оценка)",
-      "en": "People with diabetes worldwide (estimate)",
-      "kk": "Дүние жүзінде диабетпен ауратын адамдар (бағалау)",
-      "de": "Menschen mit Diabetes weltweit (Schätzung)",
-      "es": "Personas con diabetes en el mundo (estimación)"
-     },
-     "v": {
-      "ru": "537 миллионов",
-      "en": "537 million",
-      "kk": "537 миллион",
-      "de": "537 Millionen",
-      "es": "537 millones"
-     }
-    },
-    {
-     "k": {
-      "ru": "Оценочная стоимость терапии на пациента",
-      "en": "Estimated cost per patient",
-      "kk": "Бір науқасқа шаққандағы шамамен құны",
-      "de": "Geschätzte Kosten pro Patient",
-      "es": "Coste estimado por paciente"
-     },
-     "v": {
-      "ru": "От 250 000 до 1 000 000 долларов",
-      "en": "$250,000 to $1,000,000",
-      "kk": "250 000-нан 1 000 000 долларға дейін",
-      "de": "250.000 bis 1.000.000 US-Dollar",
-      "es": "De 250.000 a 1.000.000 de dólares"
-     }
-    },
-    {
-     "k": {
-      "ru": "Функциональная масса бета-клеток у приматов через 3 месяца после делеции CDKN2A",
-      "en": "Functional beta-cell mass in primates 3 months after CDKN2A deletion",
-      "kk": "CDKN2A жойылғаннан кейін 3 айдан соң приматтардағы функционалды бета-жасуша массасы",
-      "de": "Funktionelle Beta-Zell-Masse bei Primaten drei Monate nach CDKN2A-Deletion",
-      "es": "Masa funcional de células beta en primates tres meses después de la deleción de CDKN2A"
-     },
-     "v": {
-      "ru": "Удвоена",
-      "en": "Doubled",
-      "kk": "Екі есеге артты",
-      "de": "Verdoppelt",
-      "es": "Duplicada"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nU1E_b2M9NQ",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-08",
-   "added": "2026-11-09T07:03:34.379Z",
-   "title": {
-    "ru": "Орловские врачи рассказали, как распознать диабет у детей",
-    "en": "Orel Doctors Explain How to Recognize Diabetes in Children",
-    "kk": "Орел дәрігерлері балалардағы қант диабетін қалай анықтауға болатынын түсіндірді",
-    "de": "Ärzte aus Orel erklären, wie man Diabetes bei Kindern erkennt",
-    "es": "Médicos de Oriol explican cómo reconocer la diabetes en los niños"
-   },
-   "text": {
-    "ru": "Врачи Орла объяснили родителям, на какие признаки диабета у детей стоит обратить внимание.",
-    "en": "Doctors in Orel explained to parents which signs of diabetes in children to watch for.",
-    "kk": "Орел дәрігерлері ата-analарға балалардағы қант диабетінің қандай белгілеріне назар аудару керектігін түсіндірді.",
-    "de": "Ärzte aus Orel erklärten Eltern, auf welche Anzeichen von Diabetes bei Kindern sie achten sollten.",
-    "es": "Los médicos de Oriol explicaron a los padres qué señales de diabetes en los niños deben vigilar."
-   },
-   "url": "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
-   "src": "\"Орелтаймс\"",
-   "photoQuery": "sugar cubes spilled",
-   "body": {
-    "ru": "8 ноября 2026 года орловское издание «Орелтаймс» опубликовало материал, в котором врачи Колпнянской ЦРБ Орловской области объясняют, как заметить диабет у детей. По словам специалистов, случаи заболевания всё чаще выявляют у детей и молодёжи. Симптомы могут принимать за обычную усталость или период активного роста, а откладывание диагностики способно привести к тяжёлым последствиям.\n\nЧаще всего у детей встречается диабет 1-го типа, аутоиммунная болезнь, при которой организм разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Обычно он проявляется в возрасте от 4 до 14 лет, но может появиться и позже, в том числе у людей до 35–40 лет. Диабет 2-го типа, по словам медиков, тоже всё чаще встречается у молодых на фоне эпидемии ожирения, фастфуда и малоподвижного образа жизни. На ранних этапах у детей с ожирением отмечают повышенный уровень инсулина; лечение направлено на снижение инсулинорезистентности: диета без рафинированных углеводов, меньше жиров и больше движения.\n\nТревожными признаками врачи называют ситуации, когда ребёнок много пьёт и ест, чаще ходит в туалет, резко худеет или жалуется на слабость без видимой причины. Взрослые нередко объясняют это школьной нагрузкой или ростом. Медики напоминают, что без инсулина глюкоза не попадает в ткани, организм начинает сжигать жиры и белки, накапливаются кетоновые тела и развивается кетоацидоз. Это требует госпитализации в реанимацию и в тяжёлых случаях ведёт к инвалидизации или смерти ребёнка.\n\nВ заключение авторы призывают родителей внимательнее относиться к таким симптомам и своевременно обращаться к врачам. В материале не приведены статистические данные по региону, поэтому это общий разъяснительный текст, а не клинические рекомендации.",
-    "en": "On 8 November 2026, the Oryol outlet OrelTimes published a report in which doctors from the Kolpna district hospital, a healthcare institution in the Oryol region, explain how to recognise diabetes in children. According to the specialists, cases are being found more and more often among children and young people. Symptoms can be mistaken for ordinary tiredness or a period of rapid growth, and delaying diagnosis can lead to serious consequences.\n\nType 1 diabetes is the form most often seen in children. It is an autoimmune disease in which the body destroys the beta cells of the pancreas that produce insulin. It usually shows itself between the ages of 4 and 14, but it can also appear later, including in people up to 35–40 years old. Type 2 diabetes is also appearing at younger ages, according to the doctors, linked to the obesity epidemic, fast food and low physical activity. In children with obesity, elevated insulin levels are seen in the early stages. Treatment aims to reduce insulin resistance through a diet without refined carbohydrates, less fat and more movement.\n\nThe doctors list warning signs: a child who drinks and eats much more than usual, urinates more often, loses weight rapidly, or complains of weakness without an obvious cause. Adults often attribute these changes to school workload or growth. Without insulin, glucose cannot pass into the tissues, so the body starts burning fat and protein, ketone bodies accumulate, and ketoacidosis develops. This requires hospital treatment in intensive care and, in severe cases, can lead to disability or the child's death.\n\nIn conclusion, the authors urge parents to pay closer attention to such symptoms and to see doctors in good time. The article does not give regional statistics, so it is a general explainer rather than clinical guidance.",
-    "kk": "2026 жылғы 8 қарашада орловтық «Орелтаймс» басылымы Орел облысындағы «Колпнян орталық аудандық ауруханасы» дәрігерлерінің балалардағы диабетті қалай анықтауға болатыны туралы материалын жариялады. Мамандардың айтуынша, балалар мен жастар арасында бұл ауру жиі тіркеліп жүр. Белгілері қарапайым шаршаудай немесе жылдам өсу кезеңі сияқты көрінуі мүмкін, ал диагнозды кешіктіру ауыр салдарға әкелуі ықтимал.\n\nБалаларда жиі кездесетін түрі — 1-типті диабет. Бұл — иммундық жүйе ұйқы безінің инсулин өндіретін бета-жасушаларын бұзатын аутоиммундық ауру. Әдетте ол 4-тен 14 жасқа дейін білінеді, бірақ кейінірек, соның ішінде 35–40 жасқа дейінгі адамдарда да басталуы мүмкін. Дәрігерлердің айтуынша, 2-типті диабет те жастарда жиілеп келеді; оның себебі — семіздік эпидемиясы, фастфуд және қозғалыссыз өмір салты. Семіздігі бар балаларда ауру басталған алғашқы кезеңде инсулин деңгейі жоғары болады. Емдеу инсулинге төзімділікті азайтуға бағытталған: рафинадталған көмірсуларсыз диета, майды азайту және қозғалысты көбейту.\n\nДәрігерлер ескерту белгілерін атайды: бала әдеттегіден көп ішіп-жеп, жиі дәретханаға барса, тез арықтаса немесе себепсіз әлсіздікке шағымданса. Ересектер мұны көбіне мектептегі жүктемемен немесе өсумен байланыстырады. Инсулинсіз глюкоза тіндерге өте алмайды, сондықтан ағза май мен ақуызды жағуға кірісіп, кетон денелері жиналып, кетоацидоз дамиды. Бұл реанимацияда емдеуді қажет етеді, ауыр жағдайда баланы мүгедектікке немесе өлімге апаруы мүмкін.\n\nҚорытындысында авторлар ата-аналарды мұндай белгілерге мұқият қарап, уақытында дәрігерге қаралуға шақырады. Материалда аймақ бойынша статистикалық деректер жоқ, сондықтан бұл клиникалық ұсынымдар емес, жалпы түсіндірме мәтін.",
-    "de": "Am 8. November 2026 veröffentlichte das Regionalmedium OrelTimes aus Orjol einen Beitrag, in dem Ärzte des Kreiskrankenhauses Kolpna, einer Gesundheitseinrichtung in der Oblast Orjol, erklären, wie sich Diabetes bei Kindern erkennen lässt. Laut den Fachleuten wird die Krankheit zunehmend bei Kindern und jungen Menschen festgestellt. Die Symptome können für gewöhnliche Müdigkeit oder eine Wachstumsphase gehalten werden; eine verzögerte Diagnose kann schwerwiegende Folgen haben.\n\nAm häufigsten tritt bei Kindern Typ-1-Diabetes auf, eine Autoimmunerkrankung, bei der der Körper die insulinbildenden Beta-Zellen der Bauchspeicheldrüse zerstört. Sie zeigt sich meist zwischen 4 und 14 Jahren, kann aber auch später auftreten, bis hin zu Menschen von 35 bis 40 Jahren. Auch Typ-2-Diabetes betrifft laut den Medizinern immer jüngere Menschen, was sie mit Adipositas, Fast Food und Bewegungsmangel in Verbindung bringen. Bei Kindern mit Übergewicht ist im Frühstadium ein erhöhter Insulinspiegel feststellbar. Die Behandlung zielt darauf ab, die Insulinresistenz zu verringern, durch eine Ernährung ohne raffinierte Kohlenhydrate, weniger Fett und mehr Bewegung.\n\nWarnzeichen sind laut den Ärzten, wenn ein Kind deutlich mehr trinkt und isst als sonst, häufiger zur Toilette muss, rasch abnimmt oder ohne erkennbaren Grund über Schwäche klagt. Erwachsene führen dies oft auf Schulstress oder das Wachstum zurück. Ohne Insulin kann Glukose nicht in die Gewebe gelangen; der Körper beginnt, Fett und Eiweiß zu verbrennen, Ketonkörper sammeln sich an, und es kann eine Ketoazidose entstehen. Dies erfordert eine Behandlung auf der Intensivstation und kann in schweren Fällen zu Behinderung oder zum Tod des Kindes führen.\n\nZum Schluss rufen die Autoren Eltern dazu auf, auf solche Symptome genauer zu achten und rechtzeitig Ärzte aufzusuchen. Der Beitrag nennt keine regionalen Fallzahlen; er ist eine allgemeine Information und keine klinische Leitlinie.",
-    "es": "El 8 de noviembre de 2026, el medio regional OrelTimes, de Oriol, publicó un artículo en el que médicos del hospital de distrito de Kolpna, una institución sanitaria de la región de Oriol, explican cómo reconocer la diabetes en los niños. Según los especialistas, cada vez se detectan más casos en menores y jóvenes. Los síntomas pueden confundirse con cansancio normal o con una etapa de crecimiento rápido, y retrasar el diagnóstico puede tener consecuencias graves.\n\nLa forma más frecuente en la infancia es la diabetes tipo 1, una enfermedad autoinmune en la que el organismo destruye las células beta del páncreas que producen insulina. Suele manifestarse entre los 4 y los 14 años, aunque puede aparecer más tarde, incluso en personas de 35 a 40 años. Según los médicos, la diabetes tipo 2 también se presenta a edades cada vez más tempranas, vinculada a la epidemia de obesidad, la comida rápida y el sedentarismo. En niños con obesidad se detecta en las primeras fases un nivel elevado de insulina. El tratamiento busca reducir la resistencia a la insulina con una dieta sin carbohidratos refinados, menos grasas y más actividad física.\n\nEntre las señales de alarma, los médicos mencionan que el niño beba y coma mucho más de lo habitual, orine con más frecuencia, pierda peso rápidamente o se queje de debilidad sin una causa evidente. Los adultos suelen atribuirlo a la carga escolar o al crecimiento. Sin insulina, la glucosa no puede pasar a los tejidos, así que el cuerpo empieza a quemar grasas y proteínas, se acumulan cuerpos cetónicos y puede desarrollarse una cetoacidosis. Esto exige hospitalización en cuidados intensivos y, en casos graves, puede provocar discapacidad o la muerte del menor.\n\nPara concluir, los autores piden a los padres prestar más atención a estos síntomas y acudir a los médicos a tiempo. El texto no ofrece cifras regionales de casos; es una explicación general, no una guía clínica."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Возраст, в котором обычно проявляется диабет 1-го типа",
-      "en": "Age when type 1 diabetes usually appears",
-      "kk": "1-типті диабеттің әдетте білінетін жасы",
-      "de": "Alter, in dem Typ-1-Diabetes meist auftritt",
-      "es": "Edad en que suele aparecer la diabetes tipo 1"
-     },
-     "v": {
-      "ru": "от 4 до 14 лет",
-      "en": "4 to 14 years",
-      "kk": "4-тен 14 жасқа дейін",
-      "de": "4 bis 14 Jahre",
-      "es": "de 4 a 14 años"
-     }
-    },
-    {
-     "k": {
-      "ru": "Возраст, до которого заболевание может проявиться позже",
-      "en": "Age up to which the disease may appear later",
-      "kk": "Ауру кейінірек білінуі мүмкін жас шегі",
-      "de": "Alter, bis zu dem die Krankheit später auftreten kann",
-      "es": "Edad hasta la que la enfermedad puede aparecer más tarde"
-     },
-     "v": {
-      "ru": "до 35–40 лет",
-      "en": "up to 35–40 years",
-      "kk": "35–40 жасқа дейін",
-      "de": "bis 35–40 Jahre",
-      "es": "hasta los 35–40 años"
-     }
-    }
-   ],
-   "photo": {
-    "id": "u_TXVntZ190Ao",
-    "url": "https://images.unsplash.com/photo-1709651808265-977ed7ef78c6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNwaWxsZWR8ZW58MXwwfHx8MTc5NDIxMzU2Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Daniel Kraus",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-pile-of-sugar-cubes-sitting-on-top-of-each-other-TXVntZ190Ao?utm_source=dia_news&utm_medium=referral",
-    "alt": "a pile of sugar cubes sitting on top of each other"
-   }
-  },
-  {
-   "id": "nW5NP29jPTU",
-   "cat": "events",
-   "stage": "community",
-   "date": "2026-11-08",
-   "added": "2026-11-09T03:02:09.070Z",
-   "title": {
-    "ru": "Школы диабета на Ставрополье используют муляжи для отработки «здоровой тарелки»",
-    "en": "Diabetes schools in Stavropol use models to practise a 'healthy plate'",
-    "kk": "Ставрополь өлкесіндегі диабет мектептері «сау тәрелкені» меңгеру үшін мақеттерді қолданады",
-    "de": "Diabetesschulen in Stawropol üben mit Modellen den „gesunden Teller“",
-    "es": "Las escuelas de diabetes de Stávropol usan maquetas para practicar el «plato saludable»"
-   },
-   "text": {
-    "ru": "В школах диабета на Ставрополье для отработки принципов «здоровой тарелки» применяют муляжи продуктов.",
-    "en": "Diabetes schools in the Stavropol region use food models to practise the principles of a 'healthy plate'.",
-    "kk": "Ставрополь өлкесіндегі диабет мектептерінде «сау тәрелке» қағидаттарын меңгеру үшін тағам мақеттері қолданылады.",
-    "de": "Diabetesschulen in der Region Stawropol verwenden Lebensmittelmodelle, um die Prinzipien des „gesunden Tellers“ zu üben.",
-    "es": "Las escuelas de diabetes de la región de Stávropol usan modelos de alimentos para practicar los principios del «plato saludable»."
-   },
-   "url": "https://vechorka.ru/news/health/shkoly-diabeta-na-stavropole-ispolzuyut-mulyazhi-dlya-otrabotki-zdorovoj-tarelki",
-   "src": "Вечерний Ставрополь",
-   "photoQuery": "healthy plate vegetables",
-   "photo": {
-    "id": "u_1SJRLmhnmaA",
-    "url": "https://images.unsplash.com/photo-1590779032260-5623d6774f7a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8aGVhbHRoeSUyMHBsYXRlJTIwdmVnZXRhYmxlc3xlbnwxfDB8fHwxNzk0MTkzMzMzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Nathan Dumlao",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/assorted-vegetables-on-white-ceramic-plate-1SJRLmhnmaA?utm_source=dia_news&utm_medium=referral",
-    "alt": "assorted vegetables on white ceramic plate"
-   },
-   "body": {
-    "ru": "8 ноября в России стартовала тематическая неделя, приуроченная к Всемирному дню борьбы с диабетом, который отмечается 14 ноября. Диабет описан как хроническая болезнь, при которой уровень сахара в крови повышается из-за недостатка инсулина. Минздрав Ставропольского края напомнил о серьёзных последствиях: диабетической ретинопатии, которая входит в число частых причин слепоты, инфарктах и инсультах, нарушении кровообращения, повреждении нервов нижних конечностей (что может завершиться ампутацией) и хронической почечной недостаточности.\n\nВ регионе продолжается работа Школ диабета в рамках регионального проекта «Борьба с сахарным диабетом» национального проекта «Продолжительная и активная жизнь». Образовательные программы подготовлены для разных групп пациентов с учётом типа диабета и терапии. Медики проводят занятия в небольших группах, что позволяет подходить к каждому индивидуально. На занятиях применяют наглядные пособия, интерактивные доски и муляжи, с помощью которых отрабатывают навыки «здоровой тарелки».\n\nВ материале также перечислены общие рекомендации по снижению риска заболевания: отказ от алкоголя и табака, поддержание оптимального веса, физическая активность, избегание стрессов, регулярный замер глюкозы и давления, контроль холестерина. Упоминается норма не менее 0,5 кг овощей и фруктов в день, отказ от фастфуда и ограничение жиров и углеводов. Людям с диагнозом советуют регулярно принимать лекарства по назначению врача и проходить медосмотры.\n\nСтатья не содержит данных о том, сколько человек прошли обучение в школах в этом году, и не приводит новых показателей по программам. Сообщение носит общий характер, а дальнейшие планы школ в тексте не описаны, кроме продолжения их работы.",
-    "en": "On November 8, a thematic week tied to World Diabetes Day, marked on November 14, began across Russia. The article describes diabetes as a chronic condition in which blood sugar rises because of a shortage of insulin. The Stavropol Region's health ministry pointed to serious complications, including diabetic retinopathy, a frequent cause of blindness, as well as heart attacks, strokes, circulation problems, nerve damage in the lower limbs that can lead to amputation, and chronic kidney failure.\n\nDiabetes Schools continue to operate in the region under the regional project \"Fighting Diabetes,\" part of the national project \"Long and Active Life.\" Their educational programs were designed for different groups of patients, depending on diabetes type and therapy. Medical staff teach in small groups, which allows an individual approach. Classes use visual teaching aids, interactive whiteboards and food models that help participants practise building a \"healthy plate.\"\n\nThe piece also lists general recommendations for lowering the risk of the disease: giving up alcohol and tobacco, keeping a healthy weight, staying physically active, managing stress, and regularly checking glucose, blood pressure and cholesterol. It cites a guideline of at least 0.5 kg of vegetables and fruit per day, avoiding fast food, and limiting fats and carbohydrates. People with a diagnosis are advised to take prescribed medication regularly and attend medical check-ups.\n\nThe article does not say how many people have completed the schools' courses this year and gives no new figures on the programs. The report is general in nature, and beyond the schools continuing their work, it does not describe any further plans.",
-    "kk": "8 қарашада Ресейде Дүниежүзілік диабетпен күрес күніне (14 қараша) арналған тақырыптық апта басталды. Мақалада диабет қандағы қант деңгейі инсулин жетіспеушілігінен көтерілетін созылмалы ауру ретінде сипатталады. Ставрополь өлкесінің денсаулық сақтау министрлігі асқынулардың қаупі жоғары екенін ескертті: соқырлықтың жиі себебі саналатын диабеттік ретинопатия, жүрек инфаркті мен инсульт, қан айналымының бұзылуы, төменгі аяқ жүйкелерінің зақымдалуы (ампутацияға әкелуі мүмкін) және созылмалы бүйрек жеткіліксіздігі.\n\nӨлкеде «Борьба с сахарным диабетом» өңірлік жобасы аясында, «Продолжительная и активная жизнь» ұлттық жобасының бөлігі ретінде Диабет мектептерінің жұмысы жалғасуда. Оқу бағдарламалары диабет түріне және емдеуге байланысты пациенттердің әртүрлі топтары үшін дайындалған. Медицина қызметкерлері сабақтарды шағын топтарда өткізеді, бұл әрбір адамға жеке көзқарас ұстануға мүмкіндік береді. Сабақтарда көрнекі құралдар, интерактивті тақталар және «дұрыс тәрелке» дағдысын жаттықтыруға арналған муляждар қолданылады.\n\nМақалада қауіпті азайтуға арналған жалпы ұсыныстар да берілген: алкогольден және темекіден бас тарту, салмақты оңтайлы деңгейде ұстау, белсенді болу, стресстен аулақ болу, қан глюкозасы мен қан қысымын үнемі өлшеу және холестеринді бақылау. Күніне кемінде 0,5 кг көкөніс пен жеміс жеу нормасы, фастфуддан бас тарту және май мен көмірсуды шектеу айтылған. Диагнозы бар адамдарға дәрігер тағайындаған дәрілерді үнемі қабылдау және медициналық тексеруден өту кеңес беріледі.\n\nМақалада бұл жылы мектептердің курстарынан канша адам өткені туралы деректер жоқ, бағдарламалар бойынша жаңа көрсеткіштер де келтірілмеген. Хабарлама жалпы сипатта жазылған, ал мектептердің жұмысын жалғастырудан басқа кейінгі жоспарлар сипатталмаған.",
-    "de": "Am 8. November begann in ganz Russland eine thematische Woche, die dem Weltdiabetestag am 14. November gewidmet ist. Der Artikel beschreibt Diabetes als chronische Erkrankung, bei der der Blutzuckerspiegel wegen eines Insulinmangels steigt. Das Gesundheitsministerium der Region Stawropol wies auf ernste Folgen hin, darunter die diabetische Retinopathie, eine häufige Ursache für Erblindung, außerdem Herzinfarkte und Schlaganfälle, Durchblutungsstörungen, Nervenschäden an den unteren Gliedmaßen, die bis zur Amputation führen können, sowie chronisches Nierenversagen.\n\nIn der Region laufen die Diabetesschulen weiter, im Rahmen des regionalen Projekts „Kampf gegen Zuckerkrankheit“ des nationalen Projekts „Langes und aktives Leben“. Die Bildungsprogramme wurden für verschiedene Patientengruppen entwickelt, je nach Diabetestyp und Therapie. Das medizinische Personal unterrichtet in kleinen Gruppen, was einen individuellen Ansatz ermöglicht. Im Unterricht kommen anschauliche Lehrmittel, interaktive Tafeln und Modelle zum Einsatz, mit denen das Zusammenstellen eines „gesunden Tellers“ geübt wird.\n\nDer Beitrag nennt außerdem allgemeine Empfehlungen zur Risikosenkung: Verzicht auf Alkohol und Tabak, ein gesundes Körpergewicht, körperliche Aktivität, Stressvermeidung sowie regelmäßige Kontrolle von Blutzucker, Blutdruck und Cholesterin. Erwähnt wird auch die Richtgröße von mindestens 0,5 kg Gemüse und Obst pro Tag, der Verzicht auf Fast Food und die Begrenzung von Fetten und Kohlenhydraten. Betroffenen wird geraten, verordnete Medikamente regelmäßig einzunehmen und an Vorsorgeuntersuchungen teilzunehmen.\n\nDer Artikel nennt keine Zahl der Personen, die in diesem Jahr einen Kurs an den Schulen abgeschlossen haben, und enthält keine neuen Kennzahlen zu den Programmen. Die Meldung ist allgemein gehalten; über die Fortführung der Schularbeit hinaus werden keine weiteren Pläne beschrieben.",
-    "es": "El 8 de noviembre comenzó en toda Rusia una semana temática vinculada al Día Mundial de la Diabetes, que se conmemora el 14 de noviembre. El artículo describe la diabetes como una enfermedad crónica en la que el nivel de azúcar en sangre aumenta por falta de insulina. El ministerio de Salud de la región de Stávropol advirtió sobre complicaciones graves, entre ellas la retinopatía diabética, una causa frecuente de ceguera, además de infartos, ictus, problemas de circulación, daños en los nervios de las extremidades inferiores que pueden llevar a la amputación e insuficiencia renal crónica.\n\nLas Escuelas de Diabetes siguen funcionando en la región dentro del proyecto regional «Lucha contra la diabetes», parte del proyecto nacional «Vida larga y activa». Sus programas educativos se diseñaron para distintos grupos de pacientes, según el tipo de diabetes y el tratamiento. El personal médico imparte las clases en grupos pequeños, lo que permite un enfoque personalizado. Se utilizan materiales didácticos visuales, pizarras interactivas y maquetas para practicar la construcción de un «plato saludable».\n\nEl texto también recoge recomendaciones generales para reducir el riesgo: dejar el alcohol y el tabaco, mantener un peso óptimo, hacer actividad física, evitar el estrés y controlar con regularidad la glucosa, la presión arterial y el colesterol. Se menciona una referencia de al menos 0,5 kg de verduras y frutas al día, evitar la comida rápida y limitar grasas y carbohidratos. A las personas con diagnóstico se les aconseja tomar la medicación prescrita de forma regular y acudir a los controles médicos.\n\nEl artículo no indica cuántas personas han completado los cursos de las escuelas este año ni ofrece nuevas cifras sobre los programas. La información es de carácter general y, más allá de la continuidad de las escuelas, no describe planes posteriores."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Старт тематической недели ко Всемирному дню борьбы с диабетом",
-      "en": "Start of thematic week for World Diabetes Day",
-      "kk": "Дүниежүзілік диабетпен күрес күніне арналған тақырыптық аптаның басталуы",
-      "de": "Beginn der thematischen Woche zum Weltdiabetestag",
-      "es": "Inicio de la semana temática del Día Mundial de la Diabetes"
-     },
-     "v": {
-      "ru": "8 ноября",
-      "en": "November 8",
-      "kk": "8 қараша",
-      "de": "8. November",
-      "es": "8 de noviembre"
-     }
-    },
-    {
-     "k": {
-      "ru": "Рекомендуемая суточная норма овощей и фруктов (из статьи)",
-      "en": "Recommended daily amount of vegetables and fruit (from the article)",
-      "kk": "Көкөніс пен жемістің ұсынылған күндік мөлшері (мақаladан)",
-      "de": "Empfohlene tägliche Menge an Gemüse und Obst (aus dem Artikel)",
-      "es": "Cantidad diaria recomendada de verduras y frutas (del artículo)"
-     },
-     "v": {
-      "ru": "не менее 0,5 кг",
-      "en": "at least 0.5 kg",
-      "kk": "кемінде 0,5 кг",
-      "de": "mindestens 0,5 kg",
-      "es": "al menos 0,5 kg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nbXM_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-08",
-   "added": "2026-11-09T03:02:09.070Z",
-   "title": {
-    "ru": "Описан случай фульминантного диабета 1 типа на фоне гестационного диабета",
-    "en": "Case report describes fulminant type 1 diabetes superimposed on gestational diabetes",
-    "kk": "Гестациялық диабет фонында фулминантты 1-тип диабеті жағдайы сипатталған",
-    "de": "Fallbericht beschreibt fulminanten Typ-1-Diabetes auf dem Boden eines Schwangerschaftsdiabetes",
-    "es": "Un informe de caso describe diabetes tipo 1 fulminante superpuesta a diabetes gestacional"
-   },
-   "text": {
-    "ru": "В описании клинического случая рассказано о фульминантном диабете 1 типа, развившемся на фоне гестационного диабета.",
-    "en": "A clinical case report describes fulminant type 1 diabetes that developed on top of gestational diabetes.",
-    "kk": "Клиникалық жағдайдың сипаттамасында гестациялық диабет фонында дамыған фулминантты 1-тип диабеті баяндалған.",
-    "de": "Ein klinischer Fallbericht beschreibt einen fulminanten Typ-1-Diabetes, der sich auf einem Schwangerschaftsdiabetes entwickelte.",
-    "es": "Un informe de caso clínico describe una diabetes tipo 1 fulminante que se desarrolló sobre una diabetes gestacional."
-   },
-   "url": "https://bioengineer.org/case-report-details-fulminant-type-1-diabetes-superimposed-on-gestational-diabetes/",
-   "src": "Bioengineer.org",
-   "photoQuery": "pregnant woman blood glucose test",
-   "photo": {
-    "id": "u_SBtNby0IiG0",
-    "url": "https://images.unsplash.com/photo-1683727186226-910f31a9da45?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cHJlZ25hbnQlMjB3b21hbiUyMGJsb29kJTIwZ2x1Y29zZSUyMHRlc3R8ZW58MXwwfHx8MTc5NDE5MzMzM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-blood-glucose-testing-using-gluco-meter-SBtNby0IiG0?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person blood glucose testing using gluco-meter"
-   },
-   "body": {
-    "ru": "В журнале Frontiers in Endocrinology опубликован клинический случай 24-летней женщины, у которой во время беременности развился фульминантный диабет 1 типа; до этого ей назначали инсулин по поводу гестационного диабета. Авторы из больниц, связанных с Медицинским университетом Хайнаня в Хайкоу (Китай), отмечают, что состояние возникло внезапно в третьем триместре и завершилось внутриутробной гибелью плода.\n\nНа 33-й неделе беременности женщина пропустила одну запланированную дозу базального инсулина, после чего появились головокружение, тошнота и рвота. В первой больнице уровень глюкозы в плазме составил 19,14 ммоль/л (345 мг/дл), а в моче обнаружили кетоны 3+. Сердечную активность плода ещё регистрировали, но на следующий день сердечных тонов не было, что подтвердило внутриутробную гибель до перевода в специализированный стационар.\n\nПосле перевода анализы подтвердили тяжёлый диабетический кетоацидоз: глюкоза 20,77 ммоль/л (374 мг/дл), бета-гидроксибутират 6,63 ммоль/л (69,0 мг/дл), pH артериальной крови 7,235, бикарбонат 6,00 ммоль/л. Гликированный гемоглобин составлял 6,1% (43 ммоль/моль), что авторы сопоставляют с острой тяжестью состояния. Лечение включало внутривенные жидкости, инсулин, коррекцию электролитов и постоянный контроль. После стабилизации роды были индуцированы, родилась мёртвая девочка.\n\nДиагноз фульминантного диабета 1 типа был подтверждён после стабилизации: натощак и после стимуляции уровни С-пептида оказались очень низкими. При последующем амбулаторном наблюдении почти полный дефицит собственного инсулина сохранялся, что отличает это состояние от обычного гестационного диабета.\n\nАвторы предупреждают о риске «диагностического якоря»: внезапные желудочно-кишечные симптомы или ухудшение глюкозы у беременных с гестационным диабетом на инсулине требуют немедленной проверки на кетоз и ацидоз, а не объяснения только инсулинорезистентностью или пропуском дозы. Ограничение работы в том, что это наблюдательный отчёт об одном пациенте, поэтому он не показывает, насколько распространено состояние и применим ли подход шире.",
-    "en": "A case report published in Frontiers in Endocrinology describes a 24-year-old woman who developed fulminant type 1 diabetes during pregnancy after already receiving insulin for gestational diabetes. The authors, from hospitals linked to Hainan Medical University in Haikou, China, say the condition appeared suddenly in the third trimester and ended with the loss of the fetus in the womb.\n\nAt 33 weeks of pregnancy, the woman skipped one scheduled dose of basal insulin, after which she felt dizzy, nauseous and vomited. At the first hospital, her plasma glucose was 19.14 mmol/L (345 mg/dL) and her urine showed 3+ ketones. Fetal heart activity was still detectable, but the next day no heart tones could be found, confirming intrauterine death before she was moved to a specialized hospital.\n\nAfter the transfer, tests confirmed severe diabetic ketoacidosis: glucose 20.77 mmol/L (374 mg/dL), beta-hydroxybutyrate 6.63 mmol/L (69.0 mg/dL), arterial pH 7.235 and bicarbonate 6.00 mmol/L. Her glycated hemoglobin was 6.1% (43 mmol/mol), a figure the authors set against the acute severity of her condition. Treatment included intravenous fluids, insulin, electrolyte correction and continuous monitoring. Once stabilized, labor was induced and a stillborn girl was delivered.\n\nThe diagnosis of fulminant type 1 diabetes was confirmed after stabilization, when fasting and stimulated C-peptide levels were very low. Later outpatient follow-up showed that near-complete insulin deficiency persisted, which distinguishes the condition from typical gestational diabetes.\n\nThe authors warn of diagnostic anchoring: sudden gastrointestinal symptoms or worsening glucose in pregnant women with insulin-treated gestational diabetes should prompt immediate testing for ketosis and acidosis, rather than being attributed only to insulin resistance or a missed dose. A limitation is that this is an observational report on a single patient, so it cannot show how common the condition is or whether the approach works more broadly.",
-    "kk": "Frontiers in Endocrinology журналында 24 жастағы әйелдің жүктілік кезінде фульминантты 1 типті қант диабеті дамығаны туралы клиникалық жағдай сипатталған; ол бұған дейін гестациялық қант диабеті себебінен инсулин алып жүрген. Қытайдың Хайкоу қаласындағы Хайнань медицина университетімен байланысты ауруханалардың авторлары бұл жағдай үшінші триместрде кенет басталып, ішілік плод өлімімен аяқталғанын атап көрсетеді.\n\nЖүктіліктің 33-аптасында әйел базальды инсулиннің бір жоспарланған дозасын өткізіп алған, содан кейін бас айналу, жүрек айну және құсу пайда болған. Алғашқы ауруханада плазмадағы глюкоза деңгейі 19,14 ммоль/л (345 мг/дл), зәрде кетон 3+ анықталған. Плод жүрегінің қимылы әлі тіркелген, бірақ келесі күні жүрек дыбыстары естілмеген, бұл арнайы стационарға ауыстырылғанға дейін ішілік өлімді растаған.\n\nАуыстырылғаннан кейін талдаулар ауыр диабеттік кетоацидозды растаған: глюкоза 20,77 ммоль/л (374 мг/дл), бета-гидроксибутират 6,63 ммоль/л (69,0 мг/дл), артериялық қан pH 7,235, бикарбонат 6,00 ммоль/л. Гликирленген гемоглобин 6,1% (43 ммоль/моль) болған, авторлар мұны жедел ауырлығымен салыстырады. Емдеуге внутривенді сұйықтықтар, инсулин, электролиттерді түзету және үздіксіз бақылау кірді. Тұрақтанғаннан кейін босану жасанды түрде шақырылып, өлі қыз туылған.\n\nФульминантты 1 типті қант диабетінің диагнозы тұрақтанғаннан кейін расталған: ашқарынға және стимуляциядан кейінгі С-пептид деңгейі өте төмен болған. Кейінгі амбулаториялық бақылауда өз инсулинінің дерлік толық жетіспеушілігі сақталған, бұл жағдайды әдеттегі гестациялық қант диабетінен ажыратады.\n\nАвторлар «диагностикалық бекіту» қаупі туралы ескертеді: инсулин алатын гестациялық қант диабеті бар жүкті әйелдерде кенет асқазан-ішек симптомдары немесе глюкозаның нашарлауы кетоз бен ацидозға дереу тексеруді талап етеді, оны тек инсулинге төзімділікке немесе өткізіп алынған дозаға жатқызуға болмайды. Шектеу — бұл бір пациенттің бақылау баяны, сондықтан жағдайдың қаншалықты жиі кездесетінін және тәсілдің кеңірек тиімділігін көрсете алмайды.",
-    "de": "In einem im Journal Frontiers in Endocrinology veröffentlichten Fallbericht wird eine 24-jährige Frau beschrieben, die während der Schwangerschaft einen fulminanten Typ-1-Diabetes entwickelte, nachdem sie bereits wegen eines Schwangerschaftsdiabetes Insulin erhielt. Die Autoren aus Kliniken, die mit der Hainan Medical University in Haikou (China) verbunden sind, schildern, dass die Erkrankung im dritten Trimester plötzlich auftrat und mit dem Verlust des Fetus im Mutterleib endete.\n\nIn der 33. Schwangerschaftswoche ließ die Frau eine einzige geplante Dosis Basalinsulin aus und bekam danach Schwindel, Übelkeit und Erbrechen. In der ersten Klinik lag ihre Plasmaglukose bei 19,14 mmol/l (345 mg/dl), und im Urin wurden 3+ Ketone gemessen. Die fetale Herzaktivität war noch nachweisbar, doch am folgenden Tag ließen sich keine Herztöne mehr finden, was den intrauterinen Tod vor der Verlegung in eine spezialisierte Klinik bestätigte.\n\nNach der Verlegung bestätigten Untersuchungen eine schwere diabetische Ketoazidose: Glukose 20,77 mmol/l (374 mg/dl), Beta-Hydroxybutyrat 6,63 mmol/l (69,0 mg/dl), arterieller pH-Wert 7,235 und Bikarbonat 6,00 mmol/l. Ihr glykiertes Hämoglobin betrug 6,1 % (43 mmol/mol), einen Wert, den die Autoren dem akuten Schweregrad gegenüberstellen. Behandelt wurde mit intravenösen Flüssigkeiten, Insulin, Elektrolytausgleich und kontinuierlicher Überwachung. Nach der Stabilisierung wurde die Geburt eingeleitet, und ein totes Mädchen kam zur Welt.\n\nDie Diagnose eines fulminanten Typ-1-Diabetes wurde nach der Stabilisierung gestellt, als die C-Peptid-Werte nüchtern und nach Stimulation sehr niedrig waren. Die spätere ambulante Nachbeobachtung zeigte, dass der nahezu vollständige Mangel an körpereigenem Insulin fortbestand, was die Erkrankung vom üblichen Schwangerschaftsdiabetes unterscheidet.\n\nDie Autoren warnen vor diagnostischer Verankerung: Plötzliche Magen-Darm-Beschwerden oder eine Verschlechterung der Glukosewerte bei Schwangeren unter Insulintherapie sollten sofort auf Ketose und Azidose geprüft werden, statt allein einer Insulinresistenz oder einer ausgelassenen Dosis zugeschrieben zu werden. Einschränkend ist, dass es sich um die Beobachtung eines einzelnen Patienten handelt; daher lässt sich weder die Häufigkeit der Erkrankung ableiten noch belegen, dass das Vorgehen breiter wirkt.",
-    "es": "Un informe de caso publicado en la revista Frontiers in Endocrinology describe a una mujer de 24 años que desarrolló diabetes tipo 1 fulminante durante el embarazo, tras haber recibido previamente insulina por diabetes gestacional. Los autores, de hospitales vinculados a la Universidad Médica de Hainan en Haikou (China), indican que la enfermedad apareció de forma repentina en el tercer trimestre y terminó con la muerte fetal intrauterina.\n\nEn la semana 33 de gestación, la mujer omitió una dosis programada de insulina basal y después presentó mareo, náuseas y vómitos. En el primer hospital, su glucosa plasmática era de 19,14 mmol/L (345 mg/dL) y la orina mostraba cetonas 3+. La actividad cardíaca fetal aún se detectaba, pero al día siguiente no se encontraron latidos, lo que confirmó la muerte intrauterina antes del traslado a un centro especializado.\n\nTras el traslado, los análisis confirmaron una cetoacidosis diabética grave: glucosa de 20,77 mmol/L (374 mg/dL), beta-hidroxibutirato de 6,63 mmol/L (69,0 mg/dL), pH arterial de 7,235 y bicarbonato de 6,00 mmol/L. Su hemoglobina glicosilada fue del 6,1 % (43 mmol/mol), una cifra que los autores contrastan con la gravedad aguda. El tratamiento incluyó líquidos intravenosos, insulina, corrección de electrolitos y monitorización continua. Una vez estabilizada, se indujo el parto y nació una niña mortinata.\n\nEl diagnóstico de diabetes tipo 1 fulminante se confirmó tras la estabilización, cuando los niveles de péptido C en ayunas y tras estimulación eran muy bajos. En el seguimiento ambulatorio posterior persistió una deficiencia casi total de insulina propia, lo que la distingue de la diabetes gestacional habitual.\n\nLos autores advierten del riesgo de \"anclaje diagnóstico\": los síntomas digestivos repentinos o el empeoramiento de la glucosa en embarazadas con diabetes gestacional tratada con insulina deben estudiarse de inmediato en busca de cetosis y acidosis, en lugar de atribuirse solo a la resistencia a la insulina o a una dosis omitida. Como limitación, se trata de un informe observacional de una sola paciente, por lo que no permite estimar la frecuencia de la enfermedad ni demostrar que el enfoque funcione de forma general."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Уровень глюкозы в плазме при первом обращении",
-      "en": "Plasma glucose at first hospital",
-      "kk": "Алғашқы ауруханадағы плазмадағы глюкоза",
-      "de": "Plasmaglukose in der ersten Klinik",
-      "es": "Glucosa plasmática en el primer hospital"
-     },
-     "v": {
-      "ru": "19,14 ммоль/л (345 мг/дл)",
-      "en": "19.14 mmol/L (345 mg/dL)",
-      "kk": "19,14 ммоль/л (345 мг/дл)",
-      "de": "19,14 mmol/l (345 mg/dl)",
-      "es": "19,14 mmol/L (345 mg/dL)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Гликированный гемоглобин",
-      "en": "Glycated hemoglobin",
-      "kk": "Гликирленген гемоглобин",
-      "de": "Glykiertes Hämoglobin",
-      "es": "Hemoglobina glicosilada"
-     },
-     "v": {
-      "ru": "6,1% (43 ммоль/моль)",
-      "en": "6.1% (43 mmol/mol)",
-      "kk": "6,1% (43 ммоль/моль)",
-      "de": "6,1 % (43 mmol/mol)",
-      "es": "6,1 % (43 mmol/mol)"
-     }
-    }
-   ]
-  },
-  {
    "id": "cure-sana-up421",
    "cat": "cure",
    "stage": "early",
@@ -2610,6 +2580,21 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://ua.news/ru/dovkolo-svitu/pripinennia-glp-1-poviazali-z-maizhe-vdvichi-vishchoiu-chastotoiu-nespriiatlivikh-podii-abc-news-australia",
+  "прекращение приёма препаратов glp 1 связали с более высокой частотой событий",
+  "stopping glp 1 drugs linked to higher rate of events",
+  "https://casrai.org/guides/time-in-range-diabetes",
+  "время в целевом диапазоне tir при диабете консенсусные метрики нмг и конечные точки исследований",
+  "time in range in diabetes consensus cgm metrics and trial endpoints",
+  "https://www.vedomosti.ru/society/articles/2026/11/10/1243864-test-na-risk-diabeta",
+  "финский тест на риск диабета предлагают импортозаместить в россии",
+  "finnish diabetes risk test proposed for import substitution in russia",
+  "https://novvedomosti.ru/news/medicine/117199/",
+  "в новгородской области с сахарным диабетом живут 21 тысяча жителей",
+  "about 21 000 residents of novgorod region live with diabetes",
+  "https://radio1.ru/news/podmoskove/v-niki-detstva-pomogayut-yunim-bolnim-diabetom-i-ih-roditelyam/",
+  "в ники детства помогают юным пациентам с диабетом и их родителям",
+  "childhood research institute helps young diabetes patients and their parents",
   "https://news.day.az/medicine/1869534.html",
   "ученые предупредили о последствиях слишком строгого контроля уровня сахара при диабете",
   "scientists warn of risks from overly strict blood sugar control in diabetes",
@@ -2700,21 +2685,6 @@ const DIA_NEWS={
   "https://www.teleport2001.ru/news/2026-11-09/221056-sudya-i-pristavy-spasli-devushku-s-sakharnym-diabetom-kotoraya-upala-v-obmorok-vo-vremya-snegopada.html",
   "судья и приставы помогли девушке с сахарным диабетом которая упала в обморок во время снегопада",
   "judge and bailiffs help young woman with diabetes who fainted during snowfall",
-  "https://www.dribin.by/zdorovie/o-profilaktike-i-kontrole-zabolevaniya-rasskazyvaet-vrach-uz-dribinskaya-czrb/",
-  "сахарный диабет профилактика и контроль заболевания",
-  "diabetes prevention and control of the disease",
-  "https://bioengineer.org/crispr-beta-cell-regeneration-shows-early-promise-for-long-term-diabetes-management/",
-  "crispr и регенерация бета клеток ранние многообещающие результаты",
-  "crispr beta cell regeneration shows early promise",
-  "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
-  "орловские врачи рассказали как распознать диабет у детей",
-  "orel doctors explain how to recognize diabetes in children",
-  "https://vechorka.ru/news/health/shkoly-diabeta-na-stavropole-ispolzuyut-mulyazhi-dlya-otrabotki-zdorovoj-tarelki",
-  "школы диабета на ставрополье используют муляжи для отработки здоровой тарелки",
-  "diabetes schools in stavropol use models to practise a healthy plate",
-  "https://bioengineer.org/case-report-details-fulminant-type-1-diabetes-superimposed-on-gestational-diabetes/",
-  "описан случай фульминантного диабета 1 типа на фоне гестационного диабета",
-  "case report describes fulminant type 1 diabetes superimposed on gestational diabetes",
   "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
   "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
   "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
@@ -2730,6 +2700,21 @@ const DIA_NEWS={
   "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
   "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
   "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
+  "https://www.dribin.by/zdorovie/o-profilaktike-i-kontrole-zabolevaniya-rasskazyvaet-vrach-uz-dribinskaya-czrb/",
+  "сахарный диабет профилактика и контроль заболевания",
+  "diabetes prevention and control of the disease",
+  "https://bioengineer.org/crispr-beta-cell-regeneration-shows-early-promise-for-long-term-diabetes-management/",
+  "crispr и регенерация бета клеток ранние многообещающие результаты",
+  "crispr beta cell regeneration shows early promise",
+  "https://oreltimes.ru/news/obshhestvo/orlovskie-vrachi-rasskazali-kak-raspoznat-diabet-u-detej/",
+  "орловские врачи рассказали как распознать диабет у детей",
+  "orel doctors explain how to recognize diabetes in children",
+  "https://vechorka.ru/news/health/shkoly-diabeta-na-stavropole-ispolzuyut-mulyazhi-dlya-otrabotki-zdorovoj-tarelki",
+  "школы диабета на ставрополье используют муляжи для отработки здоровой тарелки",
+  "diabetes schools in stavropol use models to practise a healthy plate",
+  "https://bioengineer.org/case-report-details-fulminant-type-1-diabetes-superimposed-on-gestational-diabetes/",
+  "описан случай фульминантного диабета 1 типа на фоне гестационного диабета",
+  "case report describes fulminant type 1 diabetes superimposed on gestational diabetes",
   "https://gorobzor.ru/novosti/obschestvo/222892-v-ufe-rebenok-diabetik-ostalsya-bez-insulina",
   "отцу ребёнка с диабетом из уфы вернули деньги за инсулин после иска прокуратуры",
   "father of a child with diabetes in ufa refunded for insulin after prosecutor s lawsuit",
