@@ -7,8 +7,877 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-18T03:05:23.470Z",
+ "updated": "2026-11-19T03:06:43.755Z",
  "items": [
+  {
+   "id": "nWnc_b2M9NQ",
+   "cat": "drugs",
+   "stage": "results",
+   "date": "2026-11-19",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Клиническое исследование показало, что препараты GLP-1 могут быть эффективны у детей от 6 лет",
+    "en": "Clinical trial shows GLP-1 drugs could be effective in children as young as 6",
+    "kk": "Клиникалық зерттеу GLP-1 препараттарының 6 жастағы балаларда тиімді болуы мүмкін екенін көрсетті",
+    "de": "Klinische Studie zeigt, dass GLP-1-Medikamente bereits bei Sechsjährigen wirksam sein könnten",
+    "es": "Un ensayo clínico muestra que los fármacos GLP-1 podrían ser eficaces en niños desde los 6 años"
+   },
+   "text": {
+    "ru": "Результаты испытания указывают на возможную эффективность GLP-1 препаратов у маленьких детей. Вопрос о целесообразности их применения детьми остаётся открытым.",
+    "en": "The trial results point to possible effectiveness of GLP-1 drugs in young children. Whether kids should use them remains an open question.",
+    "kk": "Сынақ нәтижелері GLP-1 препараттарының кішкентай балаларда тиімді болуы мүмкін екенін көрсетеді. Балаларға мұны қолдану керек пе, бұл ашық сұрақ күйінде қалады.",
+    "de": "Die Studienergebnisse deuten auf eine mögliche Wirksamkeit von GLP-1-Medikamenten bei kleinen Kindern hin. Ob Kinder sie einnehmen sollten, bleibt offen.",
+    "es": "Los resultados del ensayo apuntan a una posible eficacia de los fármacos GLP-1 en niños pequeños. Si los niños deberían usarlos sigue siendo una cuestión abierta."
+   },
+   "url": "https://abcnews.com/Health/clinical-trial-shows-glp-1s-effective-children-young/story?id=138245257",
+   "src": "MyCentralOregon.com",
+   "photoQuery": "injection pen medication",
+   "photo": {
+    "id": "u_aLCcungJbrc",
+    "url": "https://images.unsplash.com/photo-1745940369366-330f0159720d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8aW5qZWN0aW9uJTIwcGVuJTIwbWVkaWNhdGlvbnxlbnwxfDB8fHwxNzk1MDU3NjA0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/medicine-box-and-injection-pens-for-medical-use-aLCcungJbrc?utm_source=dia_news&utm_medium=referral",
+    "alt": "Medicine box and injection pens for medical use"
+   },
+   "body": {
+    "ru": "Novo Nordisk представила результаты испытания фазы 3 препарата Wegovy на конференции по медицине ожирения в середине ноября 2026 года. Данные указывают, что лекарство может помогать при ожирении у детей с 6 лет. У большинства участников в возрасте от 6 до 11 лет индекс массы тела снизился на 10% и более.\n\nЧерез 68 недель почти 40% детей, принимавших семаглутид (действующее вещество Wegovy), уже не имели ожирения. Почти у всех детей из группы плацебо ожирение сохранилось. Сейчас FDA одобрило Wegovy только с 12 лет, но компания планирует добиваться снижения возрастного порога. ВОЗ не рекомендует медикаментозное похудение детям младше 10 лет и советует опираться на диету и физические нагрузки.\n\nЖелудочно-кишечные побочные эффекты были частыми: рвота у 70% против 29% в группе плацебо, диарея у 62% против 35%, тошнота у 58% против 24%. Дети, принимавшие препарат, также выросли примерно на 1,3 дюйма меньше, чем не принимавшие. В исследовании не выявили новых серьезных проблем безопасности, однако специалисты считают нужным продолжить наблюдение за ростом и составом тела.\n\nМнения врачей расходятся. Доктор Мэри Пэт Галлагер, не участвовавшая в испытании, назвала результат замечательным и считает, что лечение ожирения может заменить несколько препаратов при сопутствующих состояниях. Доктор Джейд Кобёрн, также не участвовавшая в исследовании, видит в препарате возможный инструмент для части детей с тяжелым ожирением, когда диета и образ жизни не помогают, но не как первую линию или единственное средство. По данным CDC, примерно каждый пятый ребенок и подросток в США имеет ожирение.",
+    "en": "Novo Nordisk presented results from a phase 3 trial of its drug Wegovy at an obesity medicine conference in mid-November 2026. The findings suggest the medication may help treat obesity in children as young as six. Among participants aged 6 to 11, the drug lowered body mass index by 10% or more in most cases.\n\nAfter 68 weeks, almost 40% of children taking semaglutide, the active ingredient in Wegovy, no longer had obesity. Nearly all children on placebo still did. The FDA has approved Wegovy only from age 12, but the company plans to seek a lower age limit. The WHO advises against drug-based weight-loss treatment for children under 10 and recommends diet and exercise instead.\n\nGastrointestinal side effects were more frequent with semaglutide: vomiting in 70% versus 29% on placebo, diarrhea in 62% versus 35%, and nausea in 58% versus 24%. Children on the drug also grew about 1.3 inches less than those who did not take it. The study reported no new major safety concerns, but experts say more follow-up is needed on growth and body composition.\n\nDoctors remain divided. Dr. Mary Pat Gallagher, who was not involved in the trial, called the result remarkable and argued that treating obesity could replace several medications for related conditions. Dr. Jade Cobern, also uninvolved, sees the drug as a possible tool for some children with severe obesity when diet and lifestyle changes fall short, though not as a first-line or standalone option. The CDC estimates that about one in five US children and adolescents have obesity.",
+    "kk": "Novo Nordisk компаниясы Wegovy препаратының 3-фазалы клиникалық зерттеуінің нәтижелерін 2026 жылдың қараша айының ортасында семіздік медицинасы конференциясында ұсынды. Деректер бұл дәрі 6 жастан бастап балалардағы семіздікті емдеуге көмектесуі мүмкін екенін көрсетеді. 6-дан 11 жасқа дейінгі қатысушылардың көпшілігінде дене массасы индексі 10% немесе одан да көп төмендеді.\n\n68 аптадан кейін семаглутидті қабылдаған балалардың шамамен 40%-ында семіздік байқалмады. Плацебо алған балалардың дерлік барлығында семіздік сақталды. FDA Wegovy-ді тек 12 жастан бастап бекіткен, ал компания жас шегін төмендетуге өтініш беруді жоспарлап отыр. ДДҰ 10 жасқа дейінгі балаларға дәрімен салмақ тастауды ұсынбайды және оның орнына диета мен дене белсенділігін ұсынады.\n\nАсқорыту жолдарына қатысты жанама әсерлер семаглутид тобында жиі болды: плацебо тобында 29% болса, семаглутид тобында құсу 70%-да, іш өту 62% (35% қарсы), жүрек айну 58% (24% қарсы) байқалды. Препаратты қабылдаған балалар қабылдамағандарға қарағанда шамамен 1,3 дюйм аз өсті. Зерттеуде жаңа маңызды қауіпсіздік мәселелері тіркелмеді, бірақ сарапшылар бойдың өсуі мен дене құрамына қатысты қосымша бақылау қажет деп санайды.\n\nДәрігерлердің пікірі бөлінген. Зерттеуге қатыспаған доктор Мэри Пэт Галлагер нәтижелерді ерекше деп бағалап, семіздікті емдеу байланысты аурулар үшін бірнеше дәрінің орнын басуы мүмкін екенін айтты. Сол сияқты қатыспаған доктор Джейд Кобэрн препаратты ауыр семіздігі бар кейбір балалар үшін мүмкін құрал деп санайды, тек диета мен өмір салты жеткіліксіз болған жағдайда, бірақ бірінші таңдау немесе жалғыз әдіс ретінде емес. CDC мәліметі бойынша, АҚШ-та балалар мен жасөспірімдердің шамамен бестен бірінде семіздік бар.",
+    "de": "Novo Nordisk hat Ergebnisse einer Phase-3-Studie zu seinem Präparat Wegovy auf einer Konferenz zur Adipositasmedizin Mitte November 2026 vorgestellt. Die Befunde deuten darauf hin, dass das Medikament bei Kindern mit Adipositas schon ab 6 Jahren helfen könnte. Bei den meisten Teilnehmern im Alter von 6 bis 11 Jahren sank der Body-Mass-Index um 10 % oder mehr.\n\nNach 68 Wochen hatten fast 40 % der Kinder, die Semaglutid – den Wirkstoff von Wegovy – erhielten, keine Adipositas mehr. Fast alle Kinder in der Placebogruppe hatten sie weiterhin. Die US-Arzneimittelbehörde FDA hat Wegovy bisher erst ab 12 Jahren zugelassen, das Unternehmen plant jedoch, eine niedrigere Altersgrenze anzustreben. Die WHO rät davon ab, Kindern unter 10 Jahren Abnehmmedikamente zu geben, und empfiehlt stattdessen Ernährung und Bewegung.\n\nMagen-Darm-Nebenwirkungen traten unter Semaglutid häufiger auf: Erbrechen bei 70 % gegenüber 29 % unter Placebo, Durchfall bei 62 % gegenüber 35 % und Übelkeit bei 58 % gegenüber 24 %. Kinder, die das Medikament nahmen, wuchsen zudem etwa 1,3 Zoll weniger als jene ohne Behandlung. Die Studie berichtete über keine neuen größeren Sicherheitsbedenken, doch Experten halten weitere Nachbeobachtungen zu Wachstum und Körperzusammensetzung für nötig.\n\nDie Ärzteschaft bleibt gespalten. Dr. Mary Pat Gallagher, die nicht an der Studie beteiligt war, nannte das Ergebnis bemerkenswert und meint, eine Behandlung der Adipositas könnte mehrere Medikamente für verwandte Erkrankungen ersetzen. Dr. Jade Cobern, ebenfalls unbeteiligt, sieht das Mittel als mögliches Werkzeug für manche Kinder mit schwerer Adipositas, wenn Ernährung und Lebensstil nicht ausreichen, aber nicht als Erstlinientherapie oder alleinige Option. Laut CDC haben in den USA rund ein Fünftel der Kinder und Jugendlichen Adipositas.",
+    "es": "Novo Nordisk presentó resultados de un ensayo de fase 3 de su fármaco Wegovy en una conferencia de medicina de la obesidad a mediados de noviembre de 2026. Los hallazgos sugieren que el medicamento podría ayudar a tratar la obesidad en niños desde los 6 años. Entre los participantes de 6 a 11 años, el fármaco redujo el índice de masa corporal en un 10 % o más en la mayoría de los casos.\n\nTras 68 semanas, casi el 40 % de los niños que tomaban semaglutida, el principio activo de Wegovy, ya no tenían obesidad. Casi todos los niños del grupo placebo seguían teniéndola. La FDA estadounidense aprueba Wegovy solo a partir de los 12 años, aunque la empresa planea pedir un límite de edad más bajo. La OMS desaconseja los tratamientos farmacológicos para perder peso en menores de 10 años y recomienda, en cambio, dieta y ejercicio.\n\nLos efectos secundarios gastrointestinales fueron más frecuentes con semaglutida: vómitos en el 70 % frente al 29 % con placebo, diarrea en el 62 % frente al 35 % y náuseas en el 58 % frente al 24 %. Los niños que tomaron el fármaco también crecieron unas 1,3 pulgadas menos que quienes no lo tomaron. El estudio no informó de nuevas preocupaciones graves de seguridad, pero los expertos consideran necesario un seguimiento adicional del crecimiento y la composición corporal.\n\nLos médicos siguen divididos. La doctora Mary Pat Gallagher, que no participó en el ensayo, calificó el resultado de notable y sostuvo que tratar la obesidad podría reemplazar varios medicamentos para afecciones relacionadas. La doctora Jade Cobern, también ajena al estudio, considera el fármaco una posible herramienta para algunos niños con obesidad grave cuando la dieta y el estilo de vida no bastan, pero no como primera opción ni como tratamiento único. Según los CDC, aproximadamente uno de cada cinco niños y adolescentes en EE. UU. tiene obesidad."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Доля детей без ожирения через 68 недель",
+      "en": "Children no longer with obesity after 68 weeks",
+      "kk": "68 аптадан кейін семіздігі жоқ балалардың үлесі",
+      "de": "Kinder ohne Adipositas nach 68 Wochen",
+      "es": "Niños sin obesidad tras 68 semanas"
+     },
+     "v": {
+      "ru": "около 40%",
+      "en": "almost 40%",
+      "kk": "шамамен 40%",
+      "de": "fast 40 %",
+      "es": "casi el 40 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Рвота в группе семаглутида против плацебо",
+      "en": "Vomiting, semaglutide vs placebo",
+      "kk": "Семаглутид пен плацебо тобындағы құсу",
+      "de": "Erbrechen, Semaglutid vs. Placebo",
+      "es": "Vómitos, semaglutida vs. placebo"
+     },
+     "v": {
+      "ru": "70% против 29%",
+      "en": "70% vs 29%",
+      "kk": "70% қарсы 29%",
+      "de": "70 % gegenüber 29 %",
+      "es": "70 % frente al 29 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст, с которого FDA одобрило Wegovy",
+      "en": "Age from which FDA approved Wegovy",
+      "kk": "FDA Wegovy-ді бекіткен жас",
+      "de": "Ab welchem Alter die FDA Wegovy zugelassen hat",
+      "es": "Edad desde la que la FDA aprueba Wegovy"
+     },
+     "v": {
+      "ru": "12 лет",
+      "en": "12 years",
+      "kk": "12 жас",
+      "de": "12 Jahre",
+      "es": "12 años"
+     }
+    }
+   ]
+  },
+  {
+   "id": "n9iQT9vYz01",
+   "cat": "cure",
+   "stage": "early",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Учёные MIT имплантировали мышам и крысам устройства, вырабатывающие кислород, вместе с клетками, производящими инсулин",
+    "en": "MIT scientists implant oxygen-producing devices with insulin-making cells in mice and rats",
+    "kk": "MIT ғалымдары тышқандар мен егеуқұйрықтарға инсулин өндіретін жасушалары бар, оттегі өндіретін құрылғыларды имплантациялады",
+    "de": "MIT-Forscher implantieren Mäusen und Ratten sauerstoffproduzierende Geräte mit insulinbildenden Zellen",
+    "es": "Científicos del MIT implantan en ratones y ratas dispositivos productores de oxígeno con células productoras de insulina"
+   },
+   "text": {
+    "ru": "Исследование на грызунах показывает, как клетки, вырабатывающие инсулин, могут получать кислород из имплантированных устройств. Это ранний этап, до применения у людей ещё далеко.",
+    "en": "A study in mice and rats looks at implanted devices that supply oxygen to insulin-making cells. This is early-stage research, far from use in people.",
+    "kk": "Тышқандар мен егеуқұйрықтарда жүргізілген зерттеу имплантталған құрылғылардың инсулин өндіретін жасушаларға оттегі беретінін көрсетеді. Бұл ерте кезеңдегі зерттеу, адамдарға қолдану әлі алыс.",
+    "de": "Eine Studie an Mäusen und Ratten untersucht implantierte Geräte, die insulinbildende Zellen mit Sauerstoff versorgen. Es handelt sich um frühe Forschung, der Einsatz beim Menschen liegt noch fern.",
+    "es": "Un estudio en ratones y ratas analiza dispositivos implantados que suministran oxígeno a células productoras de insulina. Es una investigación en fase temprana, lejos de su uso en personas."
+   },
+   "url": "https://m.economictimes.com/news/international/us/mit-scientists-implanted-oxygen-making-devices-with-insulin-producing-cells-into-mice-and-rats-the-cells-stayed-active-and-controlled-blood-sugar-for-90-days/amp_articleshow/135890335.cms",
+   "src": "The Economic Times",
+   "photoQuery": "laboratory cell culture dish",
+   "photo": {
+    "id": "u_Bq7fZfstHOc",
+    "url": "https://images.unsplash.com/photo-1714845596474-5b934d901b4e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8cGFuY3JlYXRpYyUyMGlzbGV0JTIwY2VsbHMlMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTUwNTc2MDV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Bioscience Image Library by Fayette Reynolds",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/microscopic-view-of-plant-cells-with-purple-vascular-tissue-Bq7fZfstHOc?utm_source=dia_news&utm_medium=referral",
+    "alt": "Microscopic view of plant cells with purple vascular tissue"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nhWMT9vYz01",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Людям с недавно диагностированным диабетом 2 типа нужна большая поддержка, показало исследование",
+    "en": "Newly diagnosed type 2 diabetes patients need more support, study finds",
+    "kk": "Жаңа диагноз қойылған 2 типті қант диабеті бар адамдарға көбірек қолдау қажет екені зерттеуде анықталды",
+    "de": "Neu diagnostizierte Menschen mit Typ-2-Diabetes brauchen mehr Unterstützung, zeigt eine Studie",
+    "es": "Las personas recién diagnosticadas con diabetes tipo 2 necesitan más apoyo, según un estudio"
+   },
+   "text": {
+    "ru": "Исследование показывает, что тем, кто только узнал о диабете 2 типа, необходимо больше поддержки, пока они учатся жить с болезнью.",
+    "en": "The study finds that people newly diagnosed with type 2 diabetes need more support as they learn to live with the condition.",
+    "kk": "Зерттеу 2 типті қант диабеті жаңа анықталған адамдарға ауруымен өмір сүруді үйрену кезінде көбірек қолдау қажет екенін көрсетеді.",
+    "de": "Die Studie zeigt, dass Menschen mit neu diagnostiziertem Typ-2-Diabetes beim Umgang mit der Erkrankung mehr Unterstützung brauchen.",
+    "es": "El estudio concluye que las personas recién diagnosticadas con diabetes tipo 2 necesitan más apoyo para aprender a convivir con la enfermedad."
+   },
+   "url": "https://www.ohio.edu/news/2026/11/those-newly-diagnosed-need-more-support-they-learn-live-type-2-diabetes-study-finds",
+   "src": "Ohio University",
+   "photoQuery": "diabetes education notebook",
+   "photo": {
+    "id": "u_LtIqWwDs70s",
+    "url": "https://images.unsplash.com/photo-1599081595476-75608b796d52?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8ZGlhYmV0ZXMlMjBlZHVjYXRpb24lMjBub3RlYm9va3xlbnwxfDB8fHwxNzk1MDU3NjA1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Kelly Sikkema",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-and-white-frame-with-white-printer-paper-LtIqWwDs70s?utm_source=dia_news&utm_medium=referral",
+    "alt": "black and white frame with white printer paper"
+   },
+   "body": {
+    "ru": "Исследователи Университета Огайо вместе с коллегами из Touro University в Нью-Йорке и Калифорнии пришли к выводу, что людям, у которых недавно выявили диабет 2 типа, нужна более серьёзная психосоциальная поддержка. Работа опубликована в журнале Diabetes, Obesity and CardioMetabolic CARE, а университет распространил новость 17 ноября 2026 года.\n\nКоманда провела углублённые интервью с 30 взрослыми, которых с момента постановки диагноза прошло не больше девяти месяцев. Оказалось, что привыкание к болезни включает far more, чем контроль сахара в крови: участники говорили об эмоциональном напряжении, страхе, неопределённости, трудностях с получением социальной поддержки и сложностях с изменением образа жизни, приёмом лекарств и работой системы здравоохранения.\n\nСоавтор исследования Элизабет Беверли, сотрудница Университета Огайо, описала ежедневную нагрузку: приём лекарств, контроль уровня глюкозы, выбор продуктов, физическая активность, визиты к врачу, осмотр глаз и проверку стоп. В отличие от состояний, которые требуют лечения лишь время от времени, диабет требует внимания каждый день, и это может стать тяжёлым эмоциональным бременем. Даже поездка на выходные усложняется. В статье также описан диабетический дистресс — эмоциональная нагрузка от постоянных требований, раздражения от самоконтроля, тревоги о осложнениях и сомнений в качестве и стоимости лечения.\n\nИсследователи указывают на пробел в первичной медицинской помощи и считают, что в первые месяцы после постановки диагноза людям нужна более комплексная помощь. Такая поддержка должна касаться эмоционального благополучия, индивидуального обучения, практических рекомендаций по образу жизни и доступа к медицинским услугам.\n\nВ статье не описаны ограничения исследования, а выборка включала 30 человек.",
+    "en": "Researchers at Ohio University, working with colleagues at Touro University in New York and California, concluded that people recently diagnosed with type 2 diabetes need stronger psychosocial support. The findings appear in the journal Diabetes, Obesity and CardioMetabolic CARE, and the university released the news on November 17, 2026.\n\nThe team conducted in-depth interviews with 30 adults who had been diagnosed within the previous nine months. The conversations showed that adjusting to the condition involves far more than keeping blood sugar in check. Participants described emotional strain, fear, uncertainty, difficulty finding social support, and trouble adapting to lifestyle changes, medications and the health care system.\n\nCo-author Elizabeth Beverly, a university researcher, outlined the daily workload: taking medication, tracking glucose, choosing food, staying active, attending appointments, getting eye exams and checking the feet. Compared with illnesses that need only periodic care, diabetes calls for attention every single day, which can become a heavy emotional burden. Even planning a weekend away becomes complicated. The article also covers diabetes distress, the emotional weight of constant demands, frustration with self-care, worry about complications, and concerns about the quality and cost of care.\n\nThe researchers point to a gap in primary care and argue that newly diagnosed people need more comprehensive help during the first months after diagnosis. That support should address emotional well-being, individualized education, practical lifestyle guidance and access to health care services.\n\nThe article does not describe the study's limitations; the sample included 30 adults.",
+    "kk": "Огайо университетінің зерттеушілері Нью-Йорк пен Калифорниядағы Touro University әріптестерімен бірлесіп, жақында 2 типті қант диабеті анықталған адамдарға психоәлеуметтік қолдау көбірек қажет деген қорытындыға келді. Нәтижелер Diabetes, Obesity and CardioMetabolic CARE журналында жарияланды, ал университет жаңалықты 2026 жылдың 17 қарашасында таратты.\n\nТоп диагноз қойылғанына тоғыз айдан аспаған 30 ересекпен терең сұхбат жүргізді. Әңгімелер көрсеткеніндей, ауруға бейімделу қан қантын бақылаудан әлдеқайда күрделі. Қатысушылар эмоционалдық шиеленіс, қорқыныш, белгісіздік, әлеуметтік қолдау табудағы қиындық және өмір салтын өзгерту, дәрі қабылдау мен денсаулық сақтау жүйесіне бейімделудегі қиындықтар туралы айтты.\n\nБірлескен автор Элизабет Беверли, университет зерттеушісі, күнделікті жүктемені сипаттады: дәрі қабылдау, глюкоза деңгейін бақылау, тамақты таңдау, белсенді болу, дәрігерге бару, көзді тексеру және аяқты тексеру. Уақыт-уақыт емдеуді қажет ететін аурулармен салыстырғанда, диабет күн сайын назар аударуды талап етеді, бұл эмоционалдық ауыр жүкке айналуы мүмкін. Тіпті демалысқа шығуды жоспарлау да күрделенеді. Мақалада диабеттік дистресс туралы да айтылады: бұл — үнемі артатын талаптардың, өзін-өзі бақылаудағы ренжу­дің, асқынулардан туатын уайымның және емнің сапасы мен құны туралы алаңдаушылықтың эмоционалдық салмағы.\n\nЗерттеушілер бастапқы медициналық көмектегі олқылықты атап өтіп, диагноз қойылғаннан кейінгі алғашқы айларда жаңа диагноз алған адамдарға кешенді көмек қажет деп санайды. Мұндай қолдау эмоционалдық әл-ауқатқа, жеке оқытуға, өмір салты бойынша практикалық кеңеске және медициналық қызметтерге қолжетімділікке бағытталуы тиіс.\n\nМақалада зерттеудің шектеулері сипатталмаған; қатысушылар саны 30 ересек адам болды.",
+    "de": "Forschende der Ohio University haben gemeinsam mit Kolleginnen und Kollegen der Touro University in New York und Kalifornien festgestellt, dass Menschen mit kürzlich diagnostiziertem Typ-2-Diabetes eine stärkere psychosoziale Unterstützung benötigen. Die Ergebnisse erschienen im Fachjournal Diabetes, Obesity and CardioMetabolic CARE; die Universität verbreitete die Meldung am 17. November 2026.\n\nDas Team führte ausführliche Interviews mit 30 Erwachsenen, deren Diagnose höchstens neun Monate zurücklag. Die Gespräche zeigten, dass sich an die Krankheit zu gewöhnen weit mehr bedeutet, als den Blutzucker im Griff zu behalten. Die Teilnehmenden berichteten von seelischer Anspannung, Angst, Unsicherheit, Schwierigkeiten, soziale Unterstützung zu finden, und von Problemen, sich an Lebensstiländerungen, Medikamente und das Gesundheitssystem anzupassen.\n\nDie Mitautorin Elizabeth Beverly, Forscherin an der Universität, beschrieb die tägliche Belastung: Medikamente einnehmen, Glukosewerte kontrollieren, Speisen auswählen, aktiv bleiben, Arzttermine wahrnehmen, Augenuntersuchungen machen und die Füße prüfen. Im Vergleich zu Erkrankungen, die nur gelegentlich behandelt werden müssen, verlangt Diabetes jeden Tag Aufmerksamkeit, was emotional schwer werden kann. Schon die Planung eines Wochenendausflugs wird kompliziert. Der Artikel behandelt außerdem den sogenannten Diabetes-Distress, also die seelische Last durch ständige Anforderungen, Frust bei der Selbstfürsorge, Sorgen vor Folgeerkrankungen und Zweifel an Qualität und Kosten der Versorgung.\n\nDie Forschenden verweisen auf eine Lücke in der hausärztlichen Versorgung und halten umfassendere Hilfe in den ersten Monaten nach der Diagnose für nötig. Diese Unterstützung sollte emotionales Wohlbefinden, individuell angepasste Schulung, praktische Hinweise zum Lebensstil und den Zugang zu medizinischen Leistungen abdecken.\n\nDer Artikel beschreibt keine Einschränkungen der Studie; die Stichprobe umfasste 30 Erwachsene.",
+    "es": "Investigadores de la Universidad de Ohio, junto con colegas de la Touro University de Nueva York y California, concluyeron que las personas diagnosticadas recientemente con diabetes tipo 2 necesitan un apoyo psicosocial más sólido. Los resultados aparecen en la revista Diabetes, Obesity and CardioMetabolic CARE, y la universidad difundió la noticia el 17 de noviembre de 2026.\n\nEl equipo realizó entrevistas en profundidad a 30 adultos diagnosticados en los nueve meses previos. Las conversaciones revelaron que adaptarse a la enfermedad implica mucho más que mantener la glucosa controlada. Los participantes describieron tensión emocional, miedo, incertidumbre, dificultades para encontrar apoyo social y problemas para adaptarse a los cambios de estilo de vida, a la medicación y al sistema sanitario.\n\nLa coautora Elizabeth Beverly, investigadora de la universidad, detalló la carga diaria: tomar medicamentos, vigilar la glucosa, elegir alimentos, mantenerse activo, acudir a citas, hacerse revisiones oculares y revisarse los pies. Frente a afecciones que solo requieren atención de vez en cuando, la diabetes exige atención cada día, lo que puede convertirse en una pesada carga emocional. Incluso planificar un fin de semana fuera se complica. El artículo también aborda el distrés diabético, es decir, el peso emocional de las exigencias constantes, la frustración con el autocuidado, la preocupación por las complicaciones y las dudas sobre la calidad y el coste de la atención.\n\nLos investigadores señalan una brecha en la atención primaria y sostienen que las personas recién diagnosticadas necesitan ayuda más completa durante los primeros meses tras el diagnóstico. Ese apoyo debería abarcar el bienestar emocional, la educación personalizada, la orientación práctica sobre el estilo de vida y el acceso a los servicios sanitarios.\n\nEl artículo no describe las limitaciones del estudio; la muestra incluyó a 30 adultos."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Количество участников исследования",
+      "en": "Number of study participants",
+      "kk": "Зерттеу қатысушыларының саны",
+      "de": "Anzahl der Studienteilnehmenden",
+      "es": "Número de participantes del estudio"
+     },
+     "v": {
+      "ru": "30 взрослых, диагноз у которых был поставлен не более девяти месяцев назад",
+      "en": "30 adults, diagnosed no more than nine months earlier",
+      "kk": "Диагноз қойылғанына тоғыз айдан аспаған 30 ересек",
+      "de": "30 Erwachsene, deren Diagnose höchstens neun Monate zurücklag",
+      "es": "30 adultos, diagnosticados en los nueve meses previos"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVFE_b2M9NQ",
+   "cat": "research",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "При диабете несколько коротких пятиминутных прогулок полезнее одной долгой",
+    "en": "For diabetes, frequent five-minute walks beat one long walk",
+    "kk": "Қант диабетінде бір ұзақ серуеннен гөрі жиі бесминуттық серуендер пайдалырақ",
+    "de": "Bei Diabetes sind häufige fünfminütige Spaziergänge besser als ein langer Spaziergang",
+    "es": "En la diabetes, caminar varias veces cinco minutos es más beneficioso que una caminata larga"
+   },
+   "text": {
+    "ru": "Короткие регулярные прогулки, по данным сообщения, могут оказаться полезнее одной длительной прогулки для людей с диабетом.",
+    "en": "According to the report, short regular walks may be more beneficial than one long walk for people with diabetes.",
+    "kk": "Хабарламаға сәйкес, қант диабеті бар адамдар үшін қысқа, үнемі жасалатын серуендер бір ұзақ серуеннен пайдалырақ болуы мүмкін.",
+    "de": "Laut Bericht könnten kurze, regelmäßige Spaziergänge für Menschen mit Diabetes nützlicher sein als ein langer Spaziergang.",
+    "es": "Según la información, los paseos cortos y regulares podrían ser más beneficiosos que un paseo largo para las personas con diabetes."
+   },
+   "url": "https://pharmmedprom.ru/news/pri-diabete-chastaya-pyatiminutnaya-hodba-poleznee-odnoj-dolgoj-progulki/",
+   "src": "ФармМедПром",
+   "photoQuery": "walking path park",
+   "photo": {
+    "id": "u_RjnKalYbWLg",
+    "url": "https://images.unsplash.com/photo-1771899959063-1f8f63b8d4b9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8d2Fsa2luZyUyMHBhdGglMjBwYXJrfGVufDF8MHx8fDE3OTUwNTc2MDZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Eric Dominguez",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/people-walking-on-a-park-path-at-night-RjnKalYbWLg?utm_source=dia_news&utm_medium=referral",
+    "alt": "People walking on a park path at night"
+   },
+   "body": {
+    "ru": "18 ноября 2026 года ФармМедПром со ссылкой на ТАСС рассказал о результатах зарубежного исследования: по его данным, несколько коротких прогулок быстрым шагом в течение дня помогают удерживать уровень глюкозы в крови стабильнее, чем одна непрерывная тренировка такой же длительности. Вывод сделан по итогам шестинедельного клинического эксперимента с участием людей с ожирением.\n\nРаньше однодневные опыты показали, что прерывание сидячей работы лёгкой ходьбой снижало у людей с избыточным весом скачки инсулина примерно на 23% и рост сахара после еды примерно на 27%. Однако оставалось неясным, даёт ли такой дробный график долгосрочную пользу по сравнению с одной полноценной тренировкой.\n\nВ эксперименте участвовали 30 взрослых добровольцев с избыточным весом или ожирением. Они вели малоподвижный образ жизни, проводили сидя более шести часов в день и входили в группу риска развития диабета второго типа. Шесть недель участники ходили быстрым шагом по 45 минут пять дней в неделю, но по разным расписаниям. Первая группа делила нагрузку на девять коротких прогулок по пять минут в течение дня, вторая проходила все 45 минут подряд.\n\nГлюкозу отслеживали круглосуточно с помощью носимых сенсоров и регулярных анализов крови. В первой группе сахар дольше оставался в пределах нормы, а его суточные колебания заметно уменьшились. Участники с частыми перерывами на ходьбу за полтора месяца сохранили вес или немного его снизили, тогда как во второй группе масса тела выросла. Существенных различий в питании и аппетите между группами исследователи не выявили.\n\nСоавтор работы, руководитель исследований Национального центра научных исследований CNRS Одри Бергуиньян отметила, что распределение нагрузки в течение дня для контроля сахара в крови важно не меньше её общего объёма. По её словам, людям с повышенным риском диабета второго типа полезнее регулярно прерывать сидение короткими прогулками, чем ограничиваться одной долгой тренировкой. О дальнейших шагах исследователей в материале не сообщается.",
+    "en": "On November 18, 2026, the outlet FarmMedProm, citing TASS, reported on a foreign study suggesting that several short brisk walks spread across the day keep blood glucose steadier than one continuous session of the same length. The conclusion comes from a six-week clinical experiment involving people with obesity.\n\nEarlier one-day experiments had found that breaking up sitting work with light walking reduced insulin spikes by about 23% and the rise in sugar after meals by about 27% in people who were overweight. It remained unclear, however, whether such a split schedule offers long-term benefits compared with one full workout.\n\nThe experiment included 30 adult volunteers who were overweight or obese, led sedentary lives and sat for more than six hours a day; all were at risk of developing type 2 diabetes. For six weeks they walked briskly for 45 minutes, five days a week, on two different schedules. One group divided the load into nine five-minute walks during the day, while the other completed all 45 minutes at once.\n\nGlucose was tracked around the clock using wearable sensors and regular blood tests. In the first group, sugar stayed within the normal range for longer and its daily swings were noticeably smaller. Participants who took frequent walking breaks kept their body weight the same or lost a little over the month and a half, whereas weight rose in the second group. The researchers found no significant differences in diet or appetite between the groups.\n\nAudrey Bergouignan, the study's co-author and head of research at the CNRS National Center for Scientific Research, said that how activity is distributed across the day matters for blood sugar control at least as much as the total amount. She added that people at higher risk of type 2 diabetes benefit more from regularly interrupting sitting with short walks than from relying on one long session. The article does not report any next steps for the researchers.",
+    "kk": "2026 жылғы 18 қарашада ФармМедПром ТАСС-қа сілтеме жасап, шетелдік зерттеу туралы хабарлады: оның деректері бойынша, күні бойы жасалатын бірнеше қысқа, жылдам қадамдармен серуендеу қан глюкозасының деңгейін бір үздіксіз жаттығуға қарағанда тұрақтырақ ұстайды. Бұл қорытынды семіздігі бар адамдар қатысқан алты аптalық клиникалық тәжірибенің нәтижесіне негізделген.\n\nБұрын бір күндік тәжірибелерде отыра жұмыс істеу кезінде жеңіл жүрумен үзіліс жасау артық салмағы бар адамдарда инсулин секірістерін шамамен 23%-ға, тамақтан кейінгі қант өсімін шамамен 27%-ға азайтқаны анықталған. Алайда мұндай бөлшектенген кестенің ұзақ мерзімді пайдасы, бір толық жаттығуымен салыстырғанда, әлі белгісіз болып қалды.\n\nТәжірибеге артық салмағы немесе семіздігі бар, жасы ересек 30 ерікті қатысты. Олар қозғалысы аз өмір сүрді, күніне алты сағаттан астам отырды және барлығы 2-типті қант диабетінің даму қаупі бар топқа кірді. Алты апта бойы олар аптасына бес күн, әр жолы 45 минуттан жылдам қадаммен жүрді, бірақ екі түрлі кесте бойынша. Бір топ жүктемені күн ішінде бес минуттық тоғыз қысқа серуенге бөлді, екінші топ бүкіл 45 минутты бірден өтті.\n\nГлюкоза тәулік бойы киілетін сенсорлар мен үнемі жасалатын қан талдаулары арқылы бақыланды. Бірінші топта қант қалыпты деңгейде ұзағырақ сақталды, ал оның тәуліктік ауытқулары едәуір азайды. Жиі жүру үзілістерін жасаған қатысушылардың дене салмағы бір жарым айда өзгермеді немесе аздап төмендеді, ал екінші топта салмақ өсті. Топтар арасында тамақтану мен тәбетте маңызды айырмашылық табылмады.\n\nЖұмыстың бірлескен авторы, CNRS Ұлттық ғылыми зерттеулер орталығының жетекшісі Одри Бергуиньян күн бойы жүктеменің таралуы қан қантын бақылау үшін жалпы көлемі сияқты маңызды екенін атап өтті. Оның айтуынша, 2-типті қант диабетінің қаупі жоғары адамдар бір ұзақ жаттығуға шектелгеннен гөрі, отыруды қысқа серуендермен үнемі үзіп отырғаны пайдалы. Мақалада зерттеушілердің келесі қадамдары туралы айтылмаған.",
+    "de": "Am 18. November 2026 berichtete FarmMedProm unter Berufung auf TASS über eine ausländische Studie. Ihr zufolge halten mehrere kurze, zügige Spaziergänge über den Tag verteilt den Blutzucker stabiler als ein einziges durchgehendes Training gleicher Dauer. Das Ergebnis stammt aus einem sechswöchigen klinischen Versuch mit Menschen mit Adipositas.\n\nFrühere eintägige Versuche hatten gezeigt, dass unterbrochene Sitzarbeit durch leichtes Gehen bei Übergewichtigen Insulinspitzen um etwa 23 % und den Zuckeranstieg nach dem Essen um rund 27 % verringerte. Unklar blieb jedoch, ob ein solcher aufgeteilter Plan langfristig mehr bringt als eine einzige volle Trainingseinheit.\n\nAn dem Versuch nahmen 30 erwachsene Freiwillige mit Übergewicht oder Adipositas teil. Sie bewegten sich wenig, saßen mehr als sechs Stunden täglich und gehörten zur Risikogruppe für Typ-2-Diabetes. Sechs Wochen lang gingen sie an fünf Tagen pro Woche jeweils 45 Minuten zügig, nach zwei unterschiedlichen Zeitplänen. Eine Gruppe verteilte die Belastung auf neun kurze Spaziergänge zu je fünf Minuten im Laufe des Tages, die andere absolvierte alle 45 Minuten am Stück.\n\nDer Glukosespiegel wurde rund um die Uhr mit tragbaren Sensoren und regelmäßigen Blutuntersuchungen überwacht. In der ersten Gruppe blieb der Zucker länger im Normbereich, und seine täglichen Schwankungen fielen deutlich kleiner aus. Teilnehmende mit häufigen Gehpausen behielten ihr Körpergewicht in eineinhalb Monaten bei oder verloren etwas, während es in der zweiten Gruppe zunahm. Bei Ernährung und Appetit fanden die Forschenden keine wesentlichen Unterschiede zwischen den Gruppen.\n\nDie Mitautorin Audrey Bergouignan, Leiterin der Forschung am Nationalen Zentrum für wissenschaftliche Forschung CNRS, erklärte, dass die Verteilung der Aktivität über den Tag für die Blutzuckerkontrolle mindestens so wichtig sei wie der Gesamtumfang. Menschen mit erhöhtem Risiko für Typ-2-Diabetes profitierten laut ihr davon, das Sitzen regelmäßig mit kurzen Spaziergängen zu unterbrechen, mehr als von einer einzigen langen Einheit. Über weitere Schritte der Forschenden berichtet der Artikel nicht.",
+    "es": "El 18 de noviembre de 2026, FarmMedProm informó, citando a TASS, sobre un estudio extranjero según el cual varias caminatas cortas a paso rápido repartidas a lo largo del día mantienen la glucosa en sangre más estable que una sola sesión continua de igual duración. La conclusión procede de un experimento clínico de seis semanas con personas con obesidad.\n\nExperimentos previos de un solo día habían constatado que interrumpir el trabajo sentado con caminatas ligeras reducía en personas con sobrepeso los picos de insulina en alrededor de un 23 % y el aumento de azúcar tras las comidas en cerca de un 27 %. Sin embargo, seguía sin estar claro si este horario fraccionado ofrece beneficios a largo plazo frente a un único entrenamiento completo.\n\nPara comprobarlo participaron 30 voluntarios adultos con sobrepeso u obesidad, con un estilo de vida sedentario, que pasaban más de seis horas al día sentados y estaban en riesgo de desarrollar diabetes tipo 2. Durante seis semanas caminaron a paso rápido 45 minutos, cinco días por semana, siguiendo dos horarios distintos. Un grupo repartió la carga en nueve paseos cortos de cinco minutos a lo largo del día; el otro completó los 45 minutos de una sola vez.\n\nLa glucosa se controló las 24 horas con sensores portátiles y análisis de sangre periódicos. En el primer grupo, el azúcar permaneció dentro del rango normal durante más tiempo y sus oscilaciones diarias fueron notablemente menores. Quienes hicieron pausas frecuentes para caminar mantuvieron su peso o lo redujeron un poco en mes y medio, mientras que en el segundo grupo aumentó. Los investigadores no encontraron diferencias significativas en la dieta ni en el apetito entre los grupos.\n\nLa coautora Audrey Bergouignan, responsable de las investigaciones en el Centro Nacional de Investigación Científica (CNRS), señaló que repartir la actividad a lo largo del día es tan importante para controlar el azúcar en sangre como el volumen total. Según ella, las personas con mayor riesgo de diabetes tipo 2 se benefician más de interrumpir regularmente el sedentarismo con paseos breves que de depender de una sola sesión larga. El artículo no describe próximos pasos."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Снижение скачков инсулина при коротких прогулках (однодневные опыты)",
+      "en": "Drop in insulin spikes with short walks (one-day experiments)",
+      "kk": "Қысқа серуендеу кезіндегі инсулин секірісінің төмендеуі (бір күндік тәжірибелер)",
+      "de": "Rückgang der Insulinspitzen bei kurzen Spaziergängen (eintägige Versuche)",
+      "es": "Descenso de los picos de insulina con caminatas cortas (experimentos de un día)"
+     },
+     "v": {
+      "ru": "около 23%",
+      "en": "about 23%",
+      "kk": "шамамен 23%",
+      "de": "etwa 23 %",
+      "es": "alrededor de un 23 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участники эксперимента",
+      "en": "Participants in the experiment",
+      "kk": "Тәжірибеге қатысушылар",
+      "de": "Teilnehmende des Versuchs",
+      "es": "Participantes del experimento"
+     },
+     "v": {
+      "ru": "30 взрослых добровольцев",
+      "en": "30 adult volunteers",
+      "kk": "30 ересек ерікті",
+      "de": "30 erwachsene Freiwillige",
+      "es": "30 voluntarios adultos"
+     }
+    },
+    {
+     "k": {
+      "ru": "Длительность клинического эксперимента",
+      "en": "Duration of the clinical experiment",
+      "kk": "Клиникалық тәжірибенің ұзақтығы",
+      "de": "Dauer des klinischen Versuchs",
+      "es": "Duración del experimento clínico"
+     },
+     "v": {
+      "ru": "6 недель",
+      "en": "6 weeks",
+      "kk": "6 апта",
+      "de": "6 Wochen",
+      "es": "6 semanas"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nhWUT9vYz01",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "В исследовании выявлена высокая частота старческой немощи у пожилых индийских пациентов с диабетом",
+    "en": "High frailty rates identified in older Indian patients with diabetes",
+    "kk": "Зерттеуде Үндістандағы қарт қант диабеті науқастарында әлсіздік жиілігі жоғары екені анықталды",
+    "de": "Hohe Gebrechlichkeitsraten bei älteren indischen Diabetespatienten festgestellt",
+    "es": "Altas tasas de fragilidad detectadas en pacientes indios mayores con diabetes"
+   },
+   "text": {
+    "ru": "Исследование в Индии зафиксировало высокий уровень старческой немощи среди пожилых пациентов с диабетом.",
+    "en": "A study in India found high rates of frailty among older patients with diabetes.",
+    "kk": "Үндістандағы зерттеу қант диабеті бар қарт науқастар арасында әлсіздіктің жоғары деңгейін анықтады.",
+    "de": "Eine Studie in Indien ergab hohe Raten von Gebrechlichkeit bei älteren Patienten mit Diabetes.",
+    "es": "Un estudio en la India detectó altos niveles de fragilidad entre los pacientes mayores con diabetes."
+   },
+   "url": "https://bioengineer.org/high-frailty-rates-identified-in-older-indian-patients-with-diabetes/",
+   "src": "Bioengineer.org",
+   "photoQuery": "blood glucose test strips",
+   "local": true,
+   "photo": {
+    "id": "u_BlgBBf_b_94",
+    "url": "https://images.unsplash.com/photo-1714642596931-2293df25c4a3?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8Ymxvb2QlMjBnbHVjb3NlJTIwdGVzdCUyMHN0cmlwc3xlbnwxfDB8fHwxNzk1MDU3NjA2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jane Korsak",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/blood-glucose-meter-with-test-strips-BlgBBf_b_94?utm_source=dia_news&utm_medium=referral",
+    "alt": "A blood glucose meter with a lancing device and test strips on white"
+   },
+   "body": {
+    "ru": "Исследование, проведённое в специализированном диабетологическом центре в Ченнаи (Индия), показало, что у пожилых людей с диабетом 2 типа клиническая старческая немощь встречается в 59,0–76,4 % случаев. Результаты опубликованы в журнале Diabetes Therapy. Авторы обследовали 1171 человека в возрасте 65 лет и старше, живущих самостоятельно. Итоговая цифра зависела от метода: по стандартной анкете с десятью блоками немощными оказались лишь 11,4 %, а тест силы кисти выявил 55,3 %. При использовании индийских пороговых значений общая распространённость составила 76,4 %.\n\nУчастников отобрали из реестра 5348 человек с диабетом 2 типа, которые наблюдались в центре с апреля по июнь 2023 года. После исключений средний возраст итоговой группы составил 71,5 года, мужчины составляли 65,3 %. Немощность оценивали и анкетой, и ручным динамометром, измерявшим силу доминирующей кисти. Согласованность двух инструментов оказалась минимальной (каппа Коэна 0,052). Из 691 человека, классифицированного как немощный по основному определению, 558 выявил только тест силы хвата.\n\nДругие результаты связали немощность с контролем сахара, физической активностью и лечением. Каждый процентный пункт гликированного гемоглобина повышал шансы немощности на 13 %, а физическая неактивность — на 36 %. Приём сульфонилмочевины также был связан с немощностью. Более высокое потребление белка было связано с меньшими шансами: в группе с самым высоким потреблением белка шансы были на 41 % ниже, чем в группе с самым низким. Диабетическая ретинопатия чаще встречалась у немощных участников (74,3 % против 65,6 %).\n\nАвторы отмечают ограничения. Исследование проходило в специализированной больнице третичного уровня, поэтому результаты могут не распространяться на всех пожилых индийцев с диабетом. Дизайн «поперечного среза» не позволяет доказать причинно-следственную связь, а пациенты с тяжёлой немощностью, умершие рано, могли остаться вне выборки. Авторы рекомендуют регулярно проверять силу хвата, с осторожностью назначать препараты, способные вызвать гипогликемию, включать структурированные упражнения и достаточное количество белка в рацион пожилых пациентов с диабетом 2 типа.",
+    "en": "A cross-sectional study carried out at a specialist diabetes centre in Chennai, India, found that between 59.0 and 76.4 percent of older adults with type 2 diabetes are living with clinical frailty. The results were published in the journal Diabetes Therapy. The researchers examined 1171 people aged 65 and over who lived independently. The final figure depended on the method: a standard ten-domain questionnaire marked only 11.4 percent as frail, while a hand-strength test identified 55.3 percent. Using Indian threshold values, the overall prevalence reached 76.4 percent.\n\nParticipants were drawn from a registry of 5348 people with type 2 diabetes who attended the centre between April and June 2023. After exclusions, the final group had a mean age of 71.5 years, and men made up 65.3 percent. Frailty was assessed both by questionnaire and by a handheld dynamometer that measured the strength of the dominant hand. The two tools agreed poorly, with a Cohen's kappa of 0.052. Of the 691 people classified as frail under the main definition, 558 were identified only by the grip test.\n\nOther findings linked frailty to blood sugar control, physical activity and treatment. Each one-point rise in glycated haemoglobin raised the odds of frailty by 13 percent, and physical inactivity increased them by 36 percent. Sulfonylurea use was also linked to frailty. Higher protein intake was associated with lower odds: the highest protein group had 41 percent lower odds than the lowest. Diabetic retinopathy was more common among frail participants (74.3 versus 65.6 percent).\n\nThe authors note several limitations. Because the study took place in a specialised tertiary hospital, the results may not apply to all older Indians with diabetes. Its cross-sectional design cannot prove cause and effect, and people with severe frailty who died early may have been missed. The authors recommend routine grip-strength screening, caution with drugs that can cause low blood sugar, structured exercise and adequate dietary protein for older patients with type 2 diabetes.",
+    "kk": "Үндістанның Ченнаи қаласындағы мамандандырылған диабет орталығында жүргізілген көлденең зерттеу 2 типті қант диабеті бар үлкен жastағы адамдардың 59,0–76,4 пайызында клиникалық әлсіздік (frailty) бар екенін анықтады. Нәтижелер Diabetes Therapy журналында жарияланды. Зерттеушілер өз бетінше тұратын, 65 жас және одан үлкен 1171 адамды қарастырды. Соңғы көрсеткіш қолданылған әдіске байланысты болды: он бөлімнен тұратын стандартты сауалнама бойынша тек 11,4 пайыз әлсіз деп танылды, ал қол күшін сынау 55,3 пайызды анықтады. Үндістандық шекті мәндерді қолданғанда жалпы таралу 76,4 пайызға жетті.\n\nҚатысушылар 2023 жылдың сәуірі мен маусымы аралығында орталыққа қараған 5348 адамнан тұратын тізілімнен іріктелді. Алып тасталғаннан кейін соңғы топтың орташа жасы 71,5 жас болды, ерлер 65,3 пайызды құрады. Әлсіздік сауалнамамен және негізгі қолдың күшін өлшейтін қолмен динамометрмен бағаланды. Екі құралдың сәйкестігі өте төмен болды (Коэн каппасы 0,052). Негізгі анықтама бойынша әлсіз деп танылған 691 адамның 558-і тек қол күші сынағымен анықталды.\n\nБасқа нәтижелер әлсіздікті қант деңгейін бақылаумен, дене белсенділігімен және емдеумен байланыстырды. Гликирленген гемоглобиннің әрбір пайыздық бірлігінің өсуі әлсіздік ықтималдығын 13 пайызға арттырды, ал дене белсенділігінің жоқтығы 36 пайызға арттырды. Сульфонилмочевина қабылдау да әлсіздікпен байланысты болды. Ақуызды көбірек қабылдау ықтималдықтың төмендеуімен байланысты болды: ең көп ақуыз қабылдаған топта ықтималдық ең аз қабылдаған топқа қарағанда 41 пайызға төмен болды. Диабеттік ретинопатия әлсіз қатысушыларда жиірек кездесті (74,3 пайыз және 65,6 пайыз).\n\nАвторлар бірқатар шектеулерді атап өтті. Зерттеу мамандандырылған үшінші деңгейлі ауруханада жүргізілгендіктен, нәтижелер диабеті бар барлық үлкен жастағы үндістерге қолданылмауы мүмкін. Көлденең дизайн себеп-салдар байланысын дәлелдей алмайды, ал ауыр әлсіздігі бар, ерте қайтыс болған адамдар үлгіге енбеген болуы мүмкін. Авторлар 2 типті қант диабеті бар үлкен жастағы пациенттерге қол күшін үнемі тексеруді, қант деңгейін төмендетуі мүмкін дәрілерге сақтықпен қарауды, құрылымды жаттығуларды және жеткілікті ақуызды ұсынады.",
+    "de": "Eine im Diabeteszentrum in Chennai (Indien) durchgeführte Querschnittsstudie ergab, dass bei 59,0 bis 76,4 Prozent der älteren Erwachsenen mit Typ-2-Diabetes eine klinische Gebrechlichkeit (Frailty) vorliegt. Die Ergebnisse wurden in der Fachzeitschrift Diabetes Therapy veröffentlicht. Die Forschenden untersuchten 1171 selbstständig lebende Menschen ab 65 Jahren. Je nach Methode fiel das Ergebnis deutlich unterschiedlich aus: Ein standardisierter Fragebogen mit zehn Bereichen stufte nur 11,4 Prozent als gebrechlich ein, der Handkraft-Test dagegen 55,3 Prozent. Mit indischen Grenzwerten stieg die Gesamtrate auf 76,4 Prozent.\n\nDie Teilnehmenden stammten aus einem Register mit 5348 Menschen mit Typ-2-Diabetes, die zwischen April und Juni 2023 die Einrichtung besuchten. Nach Ausschlüssen lag das Durchschnittsalter der Endgruppe bei 71,5 Jahren, Männer machten 65,3 Prozent aus. Die Gebrechlichkeit wurde sowohl per Fragebogen als auch mit einem Handdynamometer gemessen, das die Kraft der dominanten Hand erfasste. Die beiden Verfahren stimmten kaum überein (Cohens Kappa 0,052). Von den 691 Personen, die nach der Hauptdefinition als gebrechlich galten, wurden 558 ausschließlich durch den Griffkraft-Test erkannt.\n\nWeitere Befunde verbanden Gebrechlichkeit mit Blutzuckereinstellung, Bewegung und Medikation. Jeder Prozentpunkt mehr beim glykierten Hämoglobin erhöhte die Chancen auf Gebrechlichkeit um 13 Prozent, körperliche Inaktivität um 36 Prozent. Auch die Einnahme von Sulfonylharnstoffen hing mit Gebrechlichkeit zusammen. Eine höhere Proteinzufuhr ging mit geringeren Chancen einher: In der Gruppe mit der höchsten Proteinaufnahme lagen die Chancen um 41 Prozent unter denen der Gruppe mit der niedrigsten. Eine diabetische Retinopathie kam bei gebrechlichen Teilnehmenden häufiger vor (74,3 gegenüber 65,6 Prozent).\n\nDie Autorinnen und Autoren nennen Einschränkungen. Da die Studie in einer spezialisierten Klinik der Maximalversorgung stattfand, lassen sich die Ergebnisse möglicherweise nicht auf alle älteren Menschen mit Diabetes in Indien übertragen. Das Querschnittsdesign kann keine Ursache-Wirkung-Beziehungen belegen, und Personen mit schwerer Gebrechlichkeit, die früh verstarben, könnten gefehlt haben. Empfohlen werden regelmäßige Griffkraftmessungen, Vorsicht bei Mitteln, die Unterzuckerung auslösen können, strukturiertes Training und ausreichend Protein in der Ernährung.",
+    "es": "Un estudio transversal realizado en un centro especializado en diabetes de Chennai (India) reveló que entre el 59,0 y el 76,4 por ciento de los adultos mayores con diabetes tipo 2 viven con fragilidad clínica. Publicado en la revista Diabetes Therapy, el trabajo evaluó a 1171 personas de 65 años o más que vivían de forma independiente. El resultado dependió del método: un cuestionario estándar de diez dominios marcó solo al 11,4 por ciento como frágil, mientras que la prueba de fuerza de prensión manual clasificó como frágil al 55,3 por ciento. Con los puntos de corte indios, la prevalencia global subió al 76,4 por ciento.\n\nLos participantes se seleccionaron de un registro de 5348 personas con diabetes tipo 2 que acudieron al centro entre abril y junio de 2023. Tras las exclusiones, el grupo final tenía una edad media de 71,5 años y los hombres eran el 65,3 por ciento. La fragilidad se evaluó con un cuestionario y con un dinamómetro manual que medía la fuerza de la mano dominante. Ambas herramientas coincidieron muy poco (kappa de Cohen de 0,052). De las 691 personas clasificadas como frágiles según la definición principal, 558 fueron identificadas solo mediante la prueba de fuerza de prensión.\n\nOtros hallazgos vincularon la fragilidad con el control de la glucemia, la actividad física y el tratamiento. Cada punto porcentual de hemoglobina glicosilada aumentó las probabilidades de fragilidad un 13 por ciento, y la inactividad física, un 36 por ciento. El uso de sulfonilureas también se asoció con la fragilidad. Una mayor ingesta de proteínas se relacionó con menores probabilidades: el grupo con más proteína tuvo un 41 por ciento menos de probabilidades que el grupo con menos. La retinopatía diabética fue más frecuente entre los participantes frágiles (74,3 frente a 65,6 por ciento).\n\nLos autores señalan limitaciones. Como el estudio se hizo en un hospital especializado de atención terciaria, los resultados podrían no extrapolarse a todos los adultos mayores indios con diabetes. El diseño transversal no permite confirmar relaciones causales, y las personas con fragilidad grave que murieron prematuramente podrían no haber sido incluidas. Los autores recomiendan el cribado rutinario con dinamometría, precaución con fármacos que pueden causar hipoglucemia, ejercicio estructurado y una dieta con suficiente proteína."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Немощные по тесту силы хвата",
+      "en": "Frail by grip-strength test",
+      "kk": "Қол күші сынағы бойынша әлсіз",
+      "de": "Gebrechlich laut Griffkraft-Test",
+      "es": "Frágiles según la prueba de fuerza de prensión"
+     },
+     "v": {
+      "ru": "55,3 %",
+      "en": "55.3%",
+      "kk": "55,3 %",
+      "de": "55,3 %",
+      "es": "55,3 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Общая распространённость (индийские пороговые значения)",
+      "en": "Overall prevalence (Indian threshold values)",
+      "kk": "Жалпы таралу (үндістандық шекті мәндер)",
+      "de": "Gesamtrate (indische Grenzwerte)",
+      "es": "Prevalencia global (puntos de corte indios)"
+     },
+     "v": {
+      "ru": "76,4 %",
+      "en": "76.4%",
+      "kk": "76,4 %",
+      "de": "76,4 %",
+      "es": "76,4 %"
+     }
+    }
+   ]
+  },
+  {
+   "id": "n2NBP29jPTU",
+   "cat": "research",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Гонконгское исследование определило функцию оценки для инструмента качества жизни при диабете",
+    "en": "Hong Kong study establishes valuation function for diabetes quality of life instrument",
+    "kk": "Гонконгтағы зерттеу қант диабетіндегі өмір сапасы құралы үшін бағалау функциясын анықтады",
+    "de": "Hongkonger Studie legt Bewertungsfunktion für ein Diabetes-Lebensqualitätsinstrument fest",
+    "es": "Estudio de Hong Kong establece una función de valoración para un instrumento de calidad de vida en diabetes"
+   },
+   "text": {
+    "ru": "Исследование в Гонконге разработало функцию оценки для инструмента, измеряющего качество жизни при диабете.",
+    "en": "A Hong Kong study developed a valuation function for an instrument that measures quality of life in diabetes.",
+    "kk": "Гонконгтағы зерттеу қант диабетіндегі өмір сапасын өлшейтін құрал үшін бағалау функциясын жасады.",
+    "de": "Eine Studie in Hongkong entwickelte eine Bewertungsfunktion für ein Instrument zur Messung der Lebensqualität bei Diabetes.",
+    "es": "Un estudio en Hong Kong desarrolló una función de valoración para un instrumento que mide la calidad de vida en la diabetes."
+   },
+   "url": "https://bioengineer.org/hong-kong-study-establishes-valuation-function-for-diabetes-quality-of-life-instrument/",
+   "src": "Bioengineer.org",
+   "photoQuery": "hospital clinic corridor",
+   "local": true,
+   "photo": {
+    "id": "u_gKUC4TMhOiY",
+    "url": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NTA1NzYwN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Ousa Chea",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_source=dia_news&utm_medium=referral",
+    "alt": "white microscope on top of black table"
+   },
+   "body": {
+    "ru": "Исследователи из Гонконга разработали местную функцию оценки для опросника Health and Self-Management in Diabetes Questionnaire (HASMID), который помогает оценивать качество жизни, связанное со здоровьем, у людей с диабетом. Материалы о работе появились 18 ноября 2026 года. Полученный набор весов позволяет рассчитывать скорректированные по качеству годы жизни (QALY) для вмешательств при диабете, что важно для анализа «затраты — полезность».\n\nКоманда собрала данные через онлайн-опрос 2 105 жителей Гонконга в возрасте от 20 до 80 лет. Участников отбирали по квотам, чтобы их состав отражал общее население. Каждый respondent ответил на 15 заданий с выбором, сравнивая пары гипотетических состояний здоровья и периоды времени. Для анализа применяли модели условного и смешанного логита с поправками на логическую согласованность. Шкала привязана так, что 0 означает смерть, а 1 — полное здоровье.\n\nВ скорректированной модели условного логита снижение полезности по восьми измерениям опросника составило от -0,012 до -0,183. Настроение и поддержка окружения каждое давали около 16% общей потери полезности, жизнеспособность — 14%, стресс — 13%. Самое тяжёлое описанное состояние получило оценку -0,118, то есть респонденты сочли его хуже смерти.\n\nПроверки устойчивости, включая анализ подгрупп, модели взаимодействий и модели латентных классов, показали, что предпочтения в целом сохраняются при разных статистических подходах и группах населения.\n\nАвторы ожидают, что локально откалиброванные веса помогут в экономических оценках и при принятии решений о бюджете здравоохранения в Гонконге. Важно учитывать, что значения отражают оценки широкой публики гипотетических состояний, а не прямые измерения у пациентов.",
+    "en": "Researchers in Hong Kong have developed a locally based scoring function for the Health and Self-Management in Diabetes Questionnaire (HASMID), a tool that estimates health-related quality of life for people with diabetes. Coverage of the study appeared on November 18, 2026. The resulting value set lets analysts calculate quality-adjusted life years (QALYs) for diabetes interventions, which supports cost-utility analyses.\n\nThe team gathered preferences through a web-based survey of 2,105 residents aged 20 to 80, recruited by quota sampling to mirror the general population. Each person completed 15 choice tasks comparing pairs of hypothetical health states, each with a time duration. The data were analysed with conditional and mixed logit models, adjusted for logical consistency. Values were anchored so that 0 means death and 1 means full health.\n\nIn the adjusted conditional logit model, utility decrements ranged from -0.012 to -0.183 across the questionnaire's eight dimensions. Mood and support each accounted for about 16 percent of total utility loss, vitality for 14 percent and stress for 13 percent. The worst health state described by the instrument received an estimated utility of -0.118, meaning respondents judged it worse than death.\n\nRobustness checks, including subgroup analyses, interaction models and latent class modelling, indicated that preferences remained broadly stable across statistical specifications and population segments.\n\nLooking ahead, the authors expect these local weights to feed into economic evaluations and to guide budget decisions for healthcare in Hong Kong. The values reflect how the general public rated hypothetical health states, not direct measurements from patients.",
+    "kk": "Гонконгтегі зерттеушілер диабеті бар адамдардың денсаулыққа байланысты өмір сапасын бағалайтын Health and Self-Management in Diabetes Questionnaire (HASMID) сауалнамасына арналған жергілікті бағалау функциясын жасады. Зерттеу туралы хабарлар 2026 жылдың 18 қарашасында шықты. Алынған мән жиынтығы диабетке қатысты араласуларға арналған түзетілген өмір жылдарын (QALY) есептеуге мүмкіндік береді, бұл шығын–пайда талдауларына қажет.\n\nКоманда Гонконгтің 20-дан 80 жасқа дейінгі 2 105 тұрғынынан онлайн сауалнама арқылы деректер жинады. Қатысушылар жалпы халықтың құрамын көрсету үшін квоталық іріктеумен таңдалды. Әрбір адам болжамды денсаулық жағдайларын және уақыт ұзақтығын салыстыратын 15 таңдау тапсырмасын орындады. Деректерді талдау үшін шартты және аралас логит модельдері қолданылып, логикалық сәйкестікке түзетулер енгізілді. Шкала бойынша 0 — өлім, 1 — толық денсаулық.\n\nТүзетілген шартты логит моделінде сауалнаманың сегіз өлшемі бойынша пайдалылықтың төмендеуі -0,012-ден -0,183-ке дейін болды. Көңіл-күй мен қолдау әрқайсысы жалпы пайдалылық шығынының шамамен 16 пайызын құрады, өміршеңдік — 14, стресс — 13 пайыз. Сипатталған ең ауыр денсаулық жағдайына -0,118 бағасы берілді, яғни респонденттер оны өлімнен де нашар деп бағалады.\n\nТұрақтылық тексерулері, соның ішінде топтық талдау, өзара әрекеттесу модельдері және латенттік сынып модельдері, статистикалық тәсілдер мен халық топтары бойынша артықшылықтардың жалпы алғанда тұрақты қалғанын көрсетті.\n\nАвторлар жергілікті калибрленген салмақтардың экономикалық бағалауларға қосылып, Гонконгтегі денсаулық сақтау бюджетіне қатысты шешімдерге жол көрсетеді деп күтеді. Мәндер жалпы халықтың болжамды жағдайларға берген бағасын көрсетеді, пациенттерден тікелей өлшеу емес екенін ескеру маңызды.",
+    "de": "Forscher aus Hongkong haben eine lokal ausgerichtete Bewertungsfunktion für den Fragebogen „Health and Self-Management in Diabetes Questionnaire“ (HASMID) entwickelt, der die gesundheitsbezogene Lebensqualität von Menschen mit Diabetes einschätzt. Berichte über die Studie erschienen am 18. November 2026. Der daraus entstandene Wertesatz ermöglicht es, qualitätsadjustierte Lebensjahre (QALY) für Diabetes-Maßnahmen zu berechnen, was Kosten-Nutzwert-Analysen unterstützt.\n\nDas Team erhob die Präferenzen über eine webbasierte Befragung von 2.105 Einwohnern Hongkongs im Alter von 20 bis 80 Jahren. Die Teilnehmenden wurden per Quotenverfahren ausgewählt, damit sie die Allgemeinbevölkerung widerspiegeln. Jede Person beantwortete 15 Auswahlaufgaben, in denen jeweils zwei hypothetische Gesundheitszustände mit einer Zeitdauer verglichen wurden. Für die Auswertung dienten bedingte und gemischte Logit-Modelle, ergänzt um Anpassungen für logische Konsistenz. Die Skala ist so verankert, dass 0 dem Tod und 1 voller Gesundheit entspricht.\n\nIm angepassten bedingten Logit-Modell lagen die Nutzenverluste über die acht Dimensionen des Fragebogens zwischen -0,012 und -0,183. Stimmung und Unterstützung machten jeweils etwa 16 Prozent des gesamten Nutzenverlusts aus, Vitalität 14 Prozent und Stress 13 Prozent. Der schlechteste im Instrument beschriebene Zustand erhielt einen geschätzten Nutzenwert von -0,118; die Befragten hielten ihn also für schlechter als den Tod.\n\nRobustheitsprüfungen, darunter Subgruppenanalysen, Interaktionsmodelle und latente Klassenmodelle, zeigten, dass die Präferenzen über verschiedene statistische Spezifikationen und Bevölkerungsgruppen hinweg weitgehend stabil blieben.\n\nDie Autoren rechnen damit, dass die lokal kalibrierten Gewichte in ökonomische Bewertungen einfließen und Haushaltsentscheidungen im Gesundheitswesen Hongkongs anleiten. Zu beachten ist, dass die Werte die Einschätzungen der Allgemeinbevölkerung zu hypothetischen Zuständen widerspiegeln und keine direkten Messungen bei Patienten sind.",
+    "es": "Investigadores de Hong Kong han elaborado una función de valoración de elaboración local para el Cuestionario de Salud y Autogestión de la Diabetes (HASMID, por sus siglas en inglés), un instrumento que estima la calidad de vida relacionada con la salud de personas con diabetes. La información sobre el estudio apareció el 18 de noviembre de 2026. El conjunto de valores resultante permite calcular años de vida ajustados por calidad (AVAC) para intervenciones contra la diabetes, lo que respalda los análisis de coste-utilidad.\n\nEl equipo recogió preferencias mediante una encuesta en línea a 2.105 residentes de Hong Kong de 20 a 80 años, reclutados por muestreo de cuotas para reflejar la población general. Cada persona completó 15 tareas de elección que comparaban pares de estados de salud hipotéticos, cada uno con una duración de tiempo. Los datos se analizaron con modelos logit condicional y logit mixto, ajustados para mantener la coherencia lógica. Los valores se anclaron de modo que 0 equivale a la muerte y 1 a la salud plena.\n\nEn el modelo logit condicional ajustado, las reducciones de utilidad iban de -0,012 a -0,183 en las ocho dimensiones del cuestionario. El estado de ánimo y el apoyo representaban cada uno cerca del 16 % de la pérdida total de utilidad; la vitalidad aportaba el 14 % y el estrés el 13 %. El peor estado de salud descrito por el instrumento obtuvo una utilidad estimada de -0,118, lo que indica que los encuestados lo juzgaron peor que la muerte.\n\nLas pruebas de robustez, que incluyeron análisis por subgrupos, modelos de interacción y modelos de clases latentes, mostraron que las preferencias se mantuvieron en general estables entre especificaciones estadísticas y segmentos de población.\n\nLos autores esperan que estos pesos calibrados localmente se incorporen a evaluaciones económicas y orienten las decisiones presupuestarias del sistema sanitario de Hong Kong. Conviene tener en cuenta que los valores reflejan cómo el público general valoró estados hipotéticos, no mediciones directas en pacientes."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Участники опроса",
+      "en": "Survey participants",
+      "kk": "Сауалнамаға қатысушылар",
+      "de": "Befragte",
+      "es": "Participantes en la encuesta"
+     },
+     "v": {
+      "ru": "2 105 жителей Гонконга, 20–80 лет",
+      "en": "2,105 Hong Kong residents, aged 20–80",
+      "kk": "Гонконгтің 2 105 тұрғыны, 20–80 жас",
+      "de": "2.105 Einwohner Hongkongs, 20–80 Jahre",
+      "es": "2.105 residentes de Hong Kong, de 20 a 80 años"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доля в общей потере полезности (настроение и поддержка)",
+      "en": "Share of total utility loss (mood and support)",
+      "kk": "Жалпы пайдалылық шығынындағы үлес (көңіл-күй және қолдау)",
+      "de": "Anteil am gesamten Nutzenverlust (Stimmung und Unterstützung)",
+      "es": "Parte de la pérdida total de utilidad (estado de ánimo y apoyo)"
+     },
+     "v": {
+      "ru": "около 16% каждое",
+      "en": "about 16% each",
+      "kk": "әрқайсысы шамамен 16%",
+      "de": "jeweils etwa 16 Prozent",
+      "es": "cerca del 16 % cada uno"
+     }
+    },
+    {
+     "k": {
+      "ru": "Оценка самого тяжёлого состояния",
+      "en": "Estimated utility of the worst health state",
+      "kk": "Ең ауыр денсаулық жағдайының бағасы",
+      "de": "Geschätzter Nutzenwert des schlechtesten Zustands",
+      "es": "Utilidad estimada del peor estado de salud"
+     },
+     "v": {
+      "ru": "-0,118",
+      "en": "-0.118",
+      "kk": "-0,118",
+      "de": "-0,118",
+      "es": "-0,118"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nJRUT9vYz01",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Какая помощь доступна при диабете по Программе медицинских гарантий и программе «Доступные лекарства»",
+    "en": "What help is available for diabetes under the Medical Guarantees Programme and the Affordable Medicines programme",
+    "kk": "Қант диабеті кезінде Медициналық кепілдіктер бағдарламасы мен «Қолжетімді дәрілер» бағдарламасы бойынша қандай көмек қолжетімді",
+    "de": "Welche Hilfe bei Diabetes im Rahmen des Programms medizinischer Garantien und des Programms „Erschwingliche Arzneimittel“ verfügbar ist",
+    "es": "Qué ayuda está disponible para la diabetes en el marco del Programa de Garantías Médicas y el programa «Medicamentos asequibles»"
+   },
+   "text": {
+    "ru": "Материал рассказывает о мерах поддержки пациентов с диабетом в рамках государственных программ по медицинским гарантиям и доступным лекарствам.",
+    "en": "The article explains support for patients with diabetes under state programmes on medical guarantees and affordable medicines.",
+    "kk": "Мақалада қант диабеті бар науқастарға медициналық кепілдіктер мен қолжетімді дәрілер бойынша мемлекеттік бағдарламалар аясындағы қолдау туралы айтылады.",
+    "de": "Der Artikel erläutert die Unterstützung für Diabetespatienten im Rahmen staatlicher Programme zu medizinischen Garantien und erschwinglichen Arzneimitteln.",
+    "es": "El artículo explica el apoyo a los pacientes con diabetes en el marco de los programas estatales de garantías médicas y medicamentos asequibles."
+   },
+   "url": "https://thepharma.media/pacijentu/43856-cukrovii-diabet-yaka-dopomoga-dostupna-za-programoyu-medicnix-garantii-ta-programoyu-dostupni-liki-18112026",
+   "src": "the Pharma Media",
+   "photoQuery": "pharmacy shelves medicines",
+   "local": true,
+   "photo": {
+    "id": "u_tvP6pCnq9iI",
+    "url": "https://images.unsplash.com/photo-1642055514517-7b52288890ec?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cGhhcm1hY3klMjBzaGVsdmVzJTIwbWVkaWNpbmVzfGVufDF8MHx8fDE3OTUwNTc2MDh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Árpád Czapp",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-room-filled-with-lots-of-shelves-filled-with-boxes-and-boxes-tvP6pCnq9iI?utm_source=dia_news&utm_medium=referral",
+    "alt": "a room filled with lots of shelves filled with boxes and boxes"
+   },
+   "body": {
+    "ru": "С начала 2026 года по конец октября в Украине сахарный диабет впервые выявили более чем у 258 тыс. человек. За тот же период более 944 тыс. пациентов хотя бы раз получили компенсацию по программе «Доступные лекарства», которая возмещает стоимость отдельных препаратов и тест-полосок для контроля глюкозы. По данным электронной системы здравоохранения, на 1 ноября 2026 года в стране зарегистрировано более 1,87 млн пациентов с диабетом.\n\nВ рамках Программы медицинских гарантий пациенты получают помощь, необходимую для контроля болезни: диагностику, лечение по медицинским показаниям и регулярное наблюдение за течением заболевания и эффективностью терапии. Своевременное лечение и постоянный контроль глюкозы, как сказано в материале, помогают снизить риск осложнений.\n\nПрограмма «Доступные лекарства» покрывает часть расходов на препараты для лечения диабета, инсулин и тест-полоски для измерения глюкозы в крови. Ранее НСЗУ пояснила, что для инсулина нужен электронный рецепт, а тест-полоски оформляются через электронный запрос на основании плана лечения. Тест-полоски доступны пациентам с диабетом 1 типа и пациентам с диабетом 2 типа, которым назначена инсулинотерапия.\n\nЧтобы получить нужные средства, пациенту следует обратиться к врачу. При наличии показаний врач назначает лечение и выписывает электронный рецепт, по которому можно получить препараты или изделия в рамках программы. Регулярное наблюдение и соблюдение назначенной терапии остаются ключевыми условиями контроля диабета.",
+    "en": "Between the start of 2026 and the end of October, diabetes was diagnosed for the first time in more than 258,000 people in Ukraine. Over the same period, more than 944,000 patients used the \"Affordable Medicines\" programme at least once; it reimburses the cost of certain drugs and glucose test strips. According to the national eHealth system, more than 1.87 million patients with diabetes were registered in the country as of 1 November 2026.\n\nUnder the Medical Guarantees Programme, patients receive the care needed to manage the condition: diagnostics, treatment based on medical indications, and regular monitoring of how the disease and the therapy are progressing. As the article notes, timely treatment and constant glucose control help reduce the risk of complications.\n\nThe Affordable Medicines programme covers part of the cost of diabetes medicines, insulin preparations and blood glucose test strips. Earlier, the National Health Service of Ukraine (NHSU) explained that insulin requires an electronic prescription, while test strips are requested through an electronic request based on the treatment plan. Test strips are available to people with type 1 diabetes and to people with type 2 diabetes who need insulin therapy.\n\nTo obtain these products, a patient should consult a doctor. If there are medical grounds, the doctor prescribes treatment and issues an electronic prescription, which can be used to collect the medicines or devices under the programme. Regular follow-up and adherence to the prescribed therapy remain key conditions for controlling diabetes.",
+    "kk": "2026 жылдың басынан қазан айының соңына дейін Украинада қант диабеті алғаш рет 258 мыңнан астам адамда анықталған. Осы кезең ішінде 944 мыңнан астам пациент «Қолжетімді дәрілер» бағдарламасы бойынша кем дегенде бір рет өтемақы алған; бұл бағдарлама кейбір дәрілердің және глюкозаны бақылауға арналған тест-жолақтардың құнын өтейді. Электронды денсаулық сақтау жүйесінің деректері бойынша, 2026 жылғы 1 қарашадағы жағдай бойынша елде диабеті бар 1,87 млн-нан астам пациент тіркелген.\n\nМедициналық кепілдіктер бағдарламасы аясында пациенттер ауруды бақылау үшін қажетті көмекті алады: диагностика, медициналық көрсеткіштерге сай емдеу және ауру барысы мен емнің тиімділігіне тұрақты бақылау. Материалда айтылғандай, уақытылы емдеу мен глюкоза деңгейін үнемі бақылау асқыну қаупін азайтуға көмектеседі.\n\n«Қолжетімді дәрілер» бағдарламасы диабетке арналған дәрілердің, инсулин препараттарының және қан глюкозасын өлшеуге арналған тест-жолақтардың бір бөлігінің құнын өтейді. Бұған дейін Украинаның ұлттық денсаулық сақтау қызметі (НСЗУ) инсулин үшін электронды рецепт қажет екенін, ал тест-жолақтар емдеу жоспарына сүйене отырып электронды сұраныс арқылы рәсімделетінін түсіндірген. Тест-жолақтар 1-типті диабеті бар адамдарға және инсулинотерапия қажет 2-типті диабеті бар пациенттерге қолжетімді.\n\nБұл құралдарды алу үшін пациент дәрігерге жүгінуі керек. Медициналық негіз болған жағдайда дәрігер емдеуді белгілеп, бағдарлама аясында дәрілерді немесе бұйымдарды алуға болатын электронды рецепт жазады. Тұрақты бақылау мен тағайындалған емді сақтау диабетті бақылаудың негізгі шарттары болып қала береді.",
+    "de": "Zwischen Anfang 2026 und Ende Oktober wurde in der Ukraine bei mehr als 258.000 Menschen erstmals Diabetes diagnostiziert. Im selben Zeitraum nutzten über 944.000 Patienten das Programm „Erschwingliche Arzneimittel“ mindestens einmal; es erstattet die Kosten bestimmter Medikamente und Blutzucker-Teststreifen. Laut dem elektronischen Gesundheitssystem waren am 1. November 2026 landesweit mehr als 1,87 Millionen Menschen mit Diabetes registriert.\n\nIm Rahmen des Programms medizinischer Garantien erhalten Patienten die Versorgung, die zur Kontrolle der Krankheit nötig ist: Diagnostik, eine Behandlung nach medizinischer Indikation sowie regelmäßige Überwachung des Krankheitsverlaufs und der Wirksamkeit der Therapie. Wie der Artikel festhält, helfen rechtzeitige Behandlung und eine ständige Kontrolle des Blutzuckers, das Risiko von Komplikationen zu senken.\n\nDas Programm „Erschwingliche Arzneimittel“ übernimmt einen Teil der Kosten für Diabetesmedikamente, Insulinpräparate und Teststreifen zur Messung des Blutzuckers. Der Nationale Gesundheitsdienst der Ukraine (NSZU) hatte zuvor erläutert, dass für Insulin ein elektronisches Rezept nötig ist, Teststreifen hingegen über eine elektronische Anfrage auf Basis des Behandlungsplans angefordert werden. Verfügbar sind sie für Menschen mit Typ-1-Diabetes sowie für Typ-2-Patienten, die eine Insulintherapie benötigen.\n\nUm diese Produkte zu erhalten, sollte der Patient einen Arzt aufsuchen. Liegen medizinische Gründe vor, legt der Arzt die Behandlung fest und stellt ein elektronisches Rezept aus, mit dem die Medikamente oder Hilfsmittel im Rahmen des Programms bezogen werden können. Regelmäßige Kontrollen und das Einhalten der verordneten Therapie bleiben zentrale Voraussetzungen für die Kontrolle des Diabetes.",
+    "es": "Entre el inicio de 2026 y finales de octubre, más de 258 000 personas en Ucrania recibieron por primera vez un diagnóstico de diabetes. En el mismo periodo, más de 944 000 pacientes usaron al menos una vez el programa \"Medicamentos Asequibles\", que reembolsa el coste de ciertos fármacos y tiras para medir la glucosa. Según el sistema electrónico de salud, al 1 de noviembre de 2026 había más de 1,87 millones de pacientes con diabetes registrados en el país.\n\nDentro del Programa de Garantías Médicas, los pacientes reciben la atención necesaria para controlar la enfermedad: diagnóstico, tratamiento según indicación médica y seguimiento periódico de la evolución de la enfermedad y de la eficacia de la terapia. Como señala el texto, un tratamiento oportuno y un control constante de la glucosa ayudan a reducir el riesgo de complicaciones.\n\nEl programa \"Medicamentos Asequibles\" cubre parte del coste de los medicamentos para la diabetes, las preparaciones de insulina y las tiras para medir la glucosa en sangre. Anteriormente, el Servicio Nacional de Salud de Ucrania (NSZU) explicó que la insulina requiere receta electrónica, mientras que las tiras se solicitan mediante una solicitud electrónica basada en el plan de tratamiento. Están disponibles para personas con diabetes tipo 1 y para pacientes con diabetes tipo 2 que necesitan insulinoterapia.\n\nPara obtener estos productos, el paciente debe acudir al médico. Si existe indicación médica, el profesional establece el tratamiento y emite una receta electrónica con la que se pueden recoger los medicamentos o dispositivos del programa. El seguimiento regular y el cumplimiento de la terapia prescrita siguen siendo condiciones clave para controlar la diabetes."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Впервые выявленный диабет, с начала 2026 года по конец октября (Украина)",
+      "en": "First-time diabetes diagnoses, January to end of October 2026 (Ukraine)",
+      "kk": "2026 жылдың басынан қазан айының соңына дейін алғаш анықталған диабет (Украина)",
+      "de": "Erstdiagnosen von Diabetes, Januar bis Ende Oktober 2026 (Ukraine)",
+      "es": "Diagnósticos nuevos de diabetes, de enero a finales de octubre de 2026 (Ucrania)"
+     },
+     "v": {
+      "ru": "более 258 тыс. пациентов",
+      "en": "more than 258,000 patients",
+      "kk": "258 мыңнан астам пациент",
+      "de": "mehr als 258.000 Patienten",
+      "es": "más de 258 000 pacientes"
+     }
+    },
+    {
+     "k": {
+      "ru": "Зарегистрированные пациенты с диабетом по данным ЭСЗ на 1 ноября 2026 года",
+      "en": "Registered patients with diabetes per the eHealth system as of 1 November 2026",
+      "kk": "2026 жылғы 1 қарашадағы электронды денсаулық сақтау жүйесі бойынша тіркелген диабеті бар пациенттер",
+      "de": "Im elektronischen Gesundheitssystem registrierte Diabetes-Patienten am 1. November 2026",
+      "es": "Pacientes con diabetes registrados en el sistema electrónico de salud al 1 de noviembre de 2026"
+     },
+     "v": {
+      "ru": "более 1,87 млн",
+      "en": "more than 1.87 million",
+      "kk": "1,87 млн-нан астам",
+      "de": "mehr als 1,87 Millionen",
+      "es": "más de 1,87 millones"
+     }
+    }
+   ]
+  },
+  {
+   "id": "naHE_b2M9NQ",
+   "cat": "access",
+   "stage": "launch",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Дополнительные препараты для диабетиков поступят в аптеки в ближайшее время",
+    "en": "Additional diabetes medicines to reach pharmacies soon",
+    "kk": "Қант диабеті препараттарының қосымша партиясы жақын арада дәптеханаларға түседі",
+    "de": "Zusätzliche Diabetesmedikamente werden bald in Apotheken eintreffen",
+    "es": "Medicamentos adicionales para la diabetes llegarán pronto a las farmacias"
+   },
+   "text": {
+    "ru": "Дополнительные партии препаратов для пациентов с диабетом скоро появятся в аптечной сети.",
+    "en": "Additional batches of medicines for patients with diabetes will soon arrive at pharmacies.",
+    "kk": "Қант диабеті бар науқастарға арналған дәрілердің қосымша партиялары жақын арада дәріханаларда пайда болады.",
+    "de": "Zusätzliche Chargen von Arzneimitteln für Diabetespatienten werden bald in den Apotheken verfügbar sein.",
+    "es": "Pronto llegarán a las farmacias lotes adicionales de medicamentos para pacientes con diabetes."
+   },
+   "url": "https://top68.ru/news/health/2026-11-18/dopolnitelnye-preparaty-dlya-diabetikov-postupyat-v-apteki-v-blizhayshee-vremya-352105",
+   "src": "РИА «ТОП68",
+   "photoQuery": "pharmacy shelves medicines",
+   "photo": {
+    "id": "u_sWdaAZ5fXU8",
+    "url": "https://images.unsplash.com/photo-1671108503276-1d3d5ab23a3a?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTF8fHBoYXJtYWN5JTIwc2hlbHZlcyUyMG1lZGljaW5lc3xlbnwxfDB8fHwxNzk1MDU3NjA4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Jeff Trierweiler",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-shelf-filled-with-lots-of-white-and-orange-medicine-bottles-sWdaAZ5fXU8?utm_source=dia_news&utm_medium=referral",
+    "alt": "a shelf filled with lots of white and orange medicine bottles"
+   },
+   "body": {
+    "ru": "Льготники Тамбовской области в ближайшее время получат препараты для лечения диабета и необходимые тест-полоски. Об этом заместитель главы региона, министр здравоохранения Марина Македонская сообщила в ходе «Прямой линии» с губернатором Евгением Первышовым, где зрителям ответили на вопрос о нехватке лекарств для диабетиков.\n\nГубернатор признал, что год назад обеспечение льготными лекарствами было очень острой проблемой, а сейчас ситуация стабилизировалась. Тем не менее демография региона такова, что выделяемых средств не всегда хватает: около 30% жителей достигли пенсионного возраста, и многие из них имеют право на льготы. Лимиты на этот год, утверждённые в августе прошлого года, близки к исчерпанию, поэтому Минздраву поручили провести конкурсные закупки лекарств в счёт лимитов следующего года.\n\nМакедонская отметила, что с момента утверждения лимитов число льготников выросло на 7 тысяч человек, и это потребовало дополнительных денег. Федеральные и региональные лимиты к концу года действительно исчерпаны, однако губернатору удалось найти возможность выделить дополнительные средства. По самым сложным позициям закупка уже проведена, поставки ожидаются. Если в отдельных аптечных пунктах нет нужных препаратов, их перераспределяют из других пунктов, но механизм, по словам министра, ещё требует доработки, чтобы пациенты реже сталкивались с нехваткой лекарств.\n\nС тест-полосками ситуация лучше: по словам министра, их достаточно, и они тоже перераспределяются в те аптеки, где закончились. Закупка полосок уже сделана, и до 10 декабря они будут в наличии в аптечных пунктах медицинских организаций.",
+    "en": "Beneficiaries in the Tambov region will soon receive medicines for diabetes treatment, along with the necessary test strips. Deputy regional head and health minister Marina Makedonskaya announced this during a live call-in with Governor Yevgeny Pervyshov, where viewers' questions about shortages of medicines for diabetic patients were addressed.\n\nThe governor acknowledged that a year ago, supplying benefit medicines was a very pressing problem, and that the situation has since stabilized. Even so, the region's demographics mean the money allocated for this is not always enough: about 30% of residents have reached retirement age, and many of them are entitled to benefits. The limits for this year, approved in August of last year, are nearly used up, so the health ministry was instructed to hold tenders for purchases charged against next year's limits.\n\nMakedonskaya noted that since the limits were set, the number of beneficiaries has grown by 7,000 people, which required extra funding. Federal and regional limits were indeed exhausted by year's end, but the governor found a way to allocate additional money. Purchases for the most complex items have already been made, and deliveries are expected. If certain pharmacy outlets lack needed drugs, they are restocked from other outlets; however, the minister said the mechanism still needs refinement so that patients face fewer shortages.\n\nThe minister said test strips are available in sufficient quantities, and they too are moved to pharmacies that have run out. Their purchase has already been completed, and until 10 December they will be available at pharmacy outlets of medical organizations.",
+    "kk": "Тамбов облысындағы жеңілдік алушылар жақын арада диабетті емдеуге арналған дәрілер мен қажетті тест-жолақтарды алады. Бұл туралы аймақ басшысының орынбасары, денсаулық сақтау министрі Марина Македонская губернатор Евгений Первышовпен өткен «Тікелей желі» эфирінде мәлімдеді, онда диабеті бар пациенттерге арналған дәрі жетіспеуі туралы көрермен сұрақтарына жауап берілді.\n\nГубернатор бір жыл бұрын жеңілдікті дәрілермен қамтамасыз ету өте өткір мәселе болғанын, қазір жағдай тұрақталғанын айтты. Соған қарамастан, өңірдің демографиясына байланысты осы мақсатқа бөлінген қаражат әрдайым жетпейді: тұрғындардың шамамен 30%-ы зейнеткерлік жасқа жеткен, ал олардың көбі жеңілдікке құқылы. Биыл бекітілген лимиттер өткен жылдың тамызында белгіленген, олар дерлік таусылуға жақын, сондықтан денсаулық сақтау министрлігіне келесі жылдың лимиттері есебінен сатып алу бойынша конкурстар өткізу тапсырылды.\n\nМакедонская лимиттер бекітілгеннен бері жеңілдік алушылар саны 7 мың адамға өскенін атап өтті, бұл қосымша қаражатты талап етті. Федералдық және өңірлік лимиттер жыл соңына қарай шынымен таусылды, бірақ губернатор қосымша қаражат бөлу мүмкіндігін тапты. Ең күрделі позицияларға сатып алу жасалған, жеткізілім күтіледі. Белгілі бір дәріхана пункттерінде қажетті дәрілер болмаса, оларды басқа пункттерден қайта бөледі; алайда министрдің айтуынша, пациенттер дәрі жетіспеушілігіне аз тап болуы үшін бұл механизмді әлі жетілдіру керек.\n\nМинистрдің айтуынша, тест-жолақтар жеткілікті мөлшерде бар, олар да таусылған дәріхана пункттеріне қайта бөлінеді. Оларды сатып алу аяқталған, 10 желтоқсанға дейін тест-жолақтар медициналық ұйымдардың дәріхана пункттерінде болады.",
+    "de": "Berechtigte in der Region Tambow sollen in Kürze Arzneimittel zur Diabetesbehandlung sowie die nötigen Teststreifen erhalten. Das kündigte die stellvertretende Gebietsleiterin und Gesundheitsministerin Marina Makedonskaja während einer Live-Sendung mit Gouverneur Jewgeni Perwyschow an, in der Zuschauerfragen zu Engpässen bei Medikamenten für Diabetiker beantwortet wurden.\n\nDer Gouverneur räumte ein, dass die Versorgung mit Vergünstigungsmedikamenten vor einem Jahr ein sehr drängendes Problem war, die Lage sich inzwischen aber stabilisiert hat. Dennoch reichen die dafür vorgesehenen Mittel wegen der demografischen Lage der Region nicht immer aus: Rund 30 Prozent der Einwohner haben das Rentenalter erreicht, und viele von ihnen sind anspruchsberechtigt. Die Limits für dieses Jahr, im August des Vorjahres genehmigt, sind fast ausgeschöpft, weshalb das Gesundheitsministerium angewiesen wurde, Ausschreibungen für Einkäufe zulasten der Limits des nächsten Jahres durchzuführen.\n\nMakedonskaja wies darauf hin, dass die Zahl der Berechtigten seit der Festlegung der Limits um 7.000 Personen gestiegen ist, was zusätzliche Mittel erforderlich machte. Die föderalen und regionalen Limits waren zum Jahresende tatsächlich ausgeschöpft, doch der Gouverneur fand einen Weg, zusätzliches Geld bereitzustellen. Für die kompliziertesten Positionen wurden bereits Einkäufe getätigt, Lieferungen werden erwartet. Fehlen bestimmte Präparate in einzelnen Apotheken, werden sie aus anderen Apotheken nachverteilt; der Mechanismus, so die Ministerin, müsse aber noch verbessert werden, damit Patienten seltener auf Engpässe stoßen.\n\nTeststreifen seien laut Ministerin in ausreichender Menge vorhanden und würden ebenfalls in die Apotheken verteilt, in denen sie ausgegangen sind. Die Beschaffung sei abgeschlossen; bis zum 10. Dezember sollen die Teststreifen in den Apothekenstellen der medizinischen Einrichtungen verfügbar sein.",
+    "es": "Los beneficiarios de la región de Tambov recibirán pronto medicamentos para tratar la diabetes y las tiras reactivas necesarias. Lo anunció la viceGobernadora y ministra de Salud, Marina Makedonskaya, durante una línea directa en directo con el gobernador Yevgeni Pervyshov, donde se respondieron preguntas de los telespectadores sobre la escasez de fármacos para pacientes diabéticos.\n\nEl gobernador reconoció que hace un año el abastecimiento de medicamentos para beneficiarios era un problema muy acuciante, y que la situación se ha estabilizado desde entonces. Aun así, la demografía de la región hace que el dinero asignado para ello no siempre alcance: alrededor del 30 % de los residentes ha llegado a la edad de jubilación y muchos tienen derecho a prestaciones. Los límites de este año, aprobados en agosto del año pasado, están casi agotados, por lo que se ordenó al ministerio de Salud convocar licitaciones para compras con cargo a los límites del año siguiente.\n\nMakedonskaya señaló que, desde que se fijaron los límites, el número de beneficiarios ha crecido en 7.000 personas, lo que exigió fondos adicionales. Los límites federales y regionales se agotaron efectivamente a final de año, pero el gobernador encontró la manera de asignar dinero extra. Ya se han realizado las compras de los productos más complejos y se esperan entregas. Si en algunos puntos de farmacia faltan medicamentos concretos, se reparten desde otros puntos; no obstante, la ministra indicó que el mecanismo aún debe perfeccionarse para que los pacientes sufran menos faltantes.\n\nLa ministra afirmó que las tiras reactivas hay en cantidad suficiente y que también se redistribuyen a las farmacias donde se han terminado. Su compra ya está hecha y, hasta el 10 de diciembre, estarán disponibles en los puntos de farmacia de las organizaciones médicas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Доля населения региона, достигшего пенсионного возраста",
+      "en": "Share of regional population that has reached pensionable age",
+      "kk": "Өңір халқының зейнеткерлік жасқа жеткен үлесі",
+      "de": "Anteil der Bevölkerung im Rentenalter",
+      "es": "Proporción de la población en edad de jubilación"
+     },
+     "v": {
+      "ru": "30%",
+      "en": "30%",
+      "kk": "30%",
+      "de": "30 %",
+      "es": "30 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Рост числа льготников с момента утверждения лимитов",
+      "en": "Increase in beneficiaries since the limits were set",
+      "kk": "Лимиттер бекітілгеннен бергі жеңілдік алушылар өсімі",
+      "de": "Zuwachs der Berechtigten seit Festlegung der Limits",
+      "es": "Aumento de beneficiarios desde la fijación de los límites"
+     },
+     "v": {
+      "ru": "7 тыс. человек",
+      "en": "7,000 people",
+      "kk": "7 мың адам",
+      "de": "7.000 Personen",
+      "es": "7.000 personas"
+     }
+    },
+    {
+     "k": {
+      "ru": "Срок наличия тест-полосок в аптечных пунктах",
+      "en": "Test strips expected in pharmacy outlets until",
+      "kk": "Тест-жолақтардың дәріхана пункттерінде болатын мерзімі",
+      "de": "Teststreifen in den Apotheken verfügbar bis",
+      "es": "Tiras reactivas disponibles en farmacias hasta"
+     },
+     "v": {
+      "ru": "до 10 декабря",
+      "en": "10 December",
+      "kk": "10 желтоқсанға дейін",
+      "de": "bis 10. Dezember",
+      "es": "hasta el 10 de diciembre"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ndadz9vYz01",
+   "cat": "research",
+   "stage": "early",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Исследователи Университета Висконсина нацелились на клетки, лежащие в основе диабета",
+    "en": "UW researchers target cells at the root of diabetes",
+    "kk": "Висконсин университетінің зерттеушілері қант диабетінің негізінде жатқан жасушаларға бағытталады",
+    "de": "Forscher der Universität Wisconsin nehmen Zellen an der Wurzel des Diabetes ins Visier",
+    "es": "Investigadores de la Universidad de Wisconsin apuntan a las células en la raíz de la diabetes"
+   },
+   "text": {
+    "ru": "Учёные университета работают над воздействием на клетки, которые играют ключевую роль в развитии диабета.",
+    "en": "University researchers are working on targeting the cells that play a key role in diabetes.",
+    "kk": "Университет зерттеушілері қант диабетінің дамуында маңызды рөл атқаратын жасушаларға әсер етуді зерттеуде.",
+    "de": "Universitätsforscher arbeiten daran, gezielt Zellen anzusprechen, die bei Diabetes eine Schlüsselrolle spielen.",
+    "es": "Investigadores universitarios trabajan en dirigirse a las células que desempeñan un papel clave en la diabetes."
+   },
+   "url": "https://badgerherald.com/news/science-news/2026/11/18/uw-researchers-target-cells-at-the-root-of-diabetes/",
+   "src": "The Badger Herald",
+   "photoQuery": "scientist microscope",
+   "photo": {
+    "id": "u_6q5QG8iIgRo",
+    "url": "https://images.unsplash.com/photo-1562789233-495f52b583dd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8c2NpZW50aXN0JTIwbWljcm9zY29wZXxlbnwxfDB8fHwxNzk1MDU3NjA4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Trust \"Tru\" Katsande",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/woman-looking-on-microscope-inside-room-6q5QG8iIgRo?utm_source=dia_news&utm_medium=referral",
+    "alt": "woman looking on microscope inside room"
+   },
+   "body": {
+    "ru": "В ноябре, который в США отмечается как Национальный месяц диабета, The Badger Herald опубликовала материал о исследованиях Университета Висконсина, направленных на клетки, которые вырабатывают инсулин. Автор материала, научный корреспондент Юва Вийаякумар Шунмугаприя, опубликовал его 18 ноября 2026 года. В подзаголовке сказано, что две лаборатории университета объясняют, как защита этих клеток может помочь предотвратить болезнь или отсрочить её появление. Однако доступная часть текста посвящена только одной из этих лабораторий.\n\nДоктор Дон Дэвис, руководитель Всеуниверситетского центра по диабету и профессор медицины, объясняет, что инсулин — это гормон, который регулирует уровень глюкозы в крови. Его производят небольшие бета-клетки поджелудочной железы. Лаборатория Дон Дэвис изучает, как поддерживать здоровье бета-клеток, чтобы они продолжали выделять инсулин. По словам Дэвис, диабет развивается только тогда, когда бета-клетки не справляются с потребностью организма в инсулине.\n\nДэвис также описывает, как развивается проблема. С возрастом, набором веса или ожирением организм становится менее чувствительным к инсулину. Сначала он компенсирует это, производя больше инсулина, но в какой-то момент бета-клетки уже не могут выработать достаточно гормона, и уровень сахара в крови растёт. Именно это, по её словам, и определяет диабет.\n\nМатериал носит объяснительный характер: в нём не приводятся результаты исследований, данные испытаний, размеры выборок или сроки. В доступной части текста не описана работа второй лаборатории. Текст основан на комментариях учёного, поэтому дальнейшие шаги исследований в нём не раскрыты.",
+    "en": "In November, which is National Diabetes Month in the United States, The Badger Herald published a story about University of Wisconsin research aimed at the cells that produce insulin. The author, science news associate Yuva Vijaykumar Shunmugapriya, published it on November 18, 2026. The subtitle says two UW labs explain how protecting these cells could help prevent or delay the disease. However, the part of the text we could access focuses on only one of those labs.\n\nDr. Dawn Davis, director of the UW Comprehensive Diabetes Center and a professor of medicine, explains that insulin is a hormone that regulates blood glucose levels. It is made by small beta cells in the pancreas. Her laboratory studies how to keep beta cells healthy so they keep releasing insulin. In Davis's words, a person does not develop diabetes unless those cells cannot keep up with the body's need for insulin.\n\nDavis also describes how the problem develops. With aging, weight gain or obesity, the body becomes less responsive to insulin. At first it compensates by making more of the hormone, but eventually the beta cells cannot produce enough, and blood sugar rises. That rise, she says, is what defines diabetes.\n\nThe piece is explanatory. It does not report study results, trial data, sample sizes or timelines. The accessible portion does not describe the second lab's work. Because it relies on comments from one researcher, it offers no details on next steps for the research.",
+    "kk": "Қараша айында, ол АҚШ-та Ұлттық диабет айы деп аталады, The Badger Herald басылымы Висконсин университетінің инсулин өндіретін жасушаларға бағытталған зерттеуі туралы материал жариялады. Авторы, ғылыми жаңалықтар бойынша қызметкер Ювa Вийаякумар Шунмугаприя, мақаланы 2026 жылдың 18 қарашасында жариялады. Тақырыпшасында университеттің екі зертханасы осы жасушаларды қорғау аурудың алдын алуға немесе оның басталуын кейінге қалдыруға көмектесе алатынын түсіндіретіні айтылған. Алайда біз қол жеткізген мәтіннің бөлігі тек сол зертханалардың бірімен ғана байланысты.\n\nДоктор Дон Дэвис, Университеттің кешенді диабет орталығының директоры және медицина профессоры, инсулин қан глюкозасының деңгейін реттейтін гормон екенін түсіндіреді. Оны ұйқы безіндегі кішкентай бета-жасушалар жасайды. Оның зертханасы бета-жасушаларды сау ұстап, олардың инсулин бөлуін жалғастыруына бағытталған. Дэвистің сөзінше, адамда диабет тек сол жасушалар ағзаның инсулинге деген қажетін қанағаттандыра алмаған жағдайда ғана дамиды.\n\nДэвис мәселенің қалай дамитынын да сипаттайды. Жасқа бару, салмақ қосу немесе семіздікпен инсулинге ағза сезімталдығы төмендейді. Алғашында ағза гормонды көбірек өндіру арқылы өтейді, бірақ уақыт өте бета-жасушалар жеткілікті мөлшерде өндіре алмай қалады және қандағы қант деңгейі көтеріледі. Оның айтуынша, дәл осы көтерілу диабетті анықтайды.\n\nМақала түсіндірме сипатта жазылған. Онда зерттеу нәтижелері, сынақ деректері, үлгі көлемі немесе мерзімдер берілмеген. Қол жеткізген бөлікте екінші зертхананың жұмысы сипатталмаған. Ол бір ғалымның пікіріне сүйенгендіктен, зерттеудің келесі қадамдары туралы мәлімет жоқ.",
+    "de": "Im November, dem Nationalen Diabetesmonat in den Vereinigten Staaten, veröffentlichte The Badger Herald einen Beitrag über Forschung der University of Wisconsin, die auf die Zellen zielt, die Insulin produzieren. Die Autorin, Wissenschaftsredakteurin Yuva Vijaykumar Shunmugapriya, veröffentlichte den Text am 18. November 2026. Der Untertitel besagt, dass zwei Labore der UW erklären, wie der Schutz dieser Zellen die Krankheit verhindern oder verzögern könnte. Der Teil des Textes, auf den wir zugreifen konnten, konzentriert sich jedoch nur auf eines dieser Labore.\n\nDr. Dawn Davis, Leiterin des UW Comprehensive Diabetes Center und Professorin für Medizin, erklärt, dass Insulin ein Hormon ist, das den Blutzuckerspiegel reguliert. Es wird von kleinen Beta-Zellen der Bauchspeicheldrüse gebildet. Ihr Labor untersucht, wie sich Beta-Zellen gesund halten lassen, damit sie weiterhin Insulin freisetzen. Laut Davis entsteht Diabetes erst dann, wenn diese Zellen den Insulinbedarf des Körpers nicht mehr decken können.\n\nDavis beschreibt außerdem, wie sich das Problem entwickelt. Mit zunehmendem Alter, Gewichtszunahme oder Adipositas reagiert der Körper weniger empfindlich auf Insulin. Zunächst gleicht er dies aus, indem er mehr Insulin produziert. Irgendwann können die Beta-Zellen jedoch nicht mehr genug herstellen, und der Blutzucker steigt. Genau dieser Anstieg definiert laut Davis den Diabetes.\n\nDer Beitrag ist erklärend angelegt. Er berichtet weder über Studienergebnisse, Studiendaten, Stichprobengrößen noch über Zeitpläne. Der zugängliche Teil beschreibt die Arbeit des zweiten Labors nicht. Da er sich auf Aussagen einer einzigen Forscherin stützt, enthält er auch keine Angaben zu den nächsten Schritten der Forschung.",
+    "es": "En noviembre, que en Estados Unidos es el Mes Nacional de la Diabetes, The Badger Herald publicó un artículo sobre una investigación de la Universidad de Wisconsin dirigida a las células que producen insulina. La autora, la redactora de noticias científicas Yuva Vijaykumar Shunmugapriya, lo publicó el 18 de noviembre de 2026. El subtítulo indica que dos laboratorios de la UW explican cómo proteger estas células podría ayudar a prevenir o retrasar la enfermedad. Sin embargo, la parte del texto a la que pudimos acceder se centra en solo uno de esos laboratorios.\n\nLa doctora Dawn Davis, directora del Centro Integral de Diabetes de la UW y profesora de medicina, explica que la insulina es una hormona que regula los niveles de glucosa en sangre. La producen pequeñas células beta del páncreas. Su laboratorio estudia cómo mantener sanas las células beta para que sigan liberando insulina. Según Davis, una persona no desarrolla diabetes a menos que esas células no puedan satisfacer la necesidad de insulina del cuerpo.\n\nDavis también describe cómo se desarrolla el problema. Con el envejecimiento, el aumento de peso o la obesidad, el cuerpo responde menos a la insulina. Al principio compensa produciendo más, pero con el tiempo las células beta ya no pueden fabricar suficiente y la glucosa en sangre sube. Según ella, ese aumento es lo que define la diabetes.\n\nEl artículo tiene un carácter explicativo. No informa de resultados de estudios, datos de ensayos, tamaños de muestra ni plazos. La parte accesible no describe el trabajo del segundo laboratorio. Como se basa en declaraciones de una sola investigadora, tampoco ofrece detalles sobre los próximos pasos de la investigación."
+   }
+  },
+  {
+   "id": "nRhdz9vYz01",
+   "cat": "research",
+   "stage": "early",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Экспериментальные модели дают важные сведения о многофакторной патофизиологии диабета",
+    "en": "Experimental models offer critical insights into multifactorial diabetes pathophysiology",
+    "kk": "Эксперименттік модельдер қант диабетінің көпфакторлы патофизиологиясы туралы маңызды мәліметтер береді",
+    "de": "Experimentelle Modelle liefern wichtige Erkenntnisse zur multifaktoriellen Pathophysiologie des Diabetes",
+    "es": "Los modelos experimentales ofrecen información clave sobre la fisiopatología multifactorial de la diabetes"
+   },
+   "text": {
+    "ru": "Обзор экспериментальных моделей показывает, как изучать сложные механизмы развития диабета.",
+    "en": "A review of experimental models shows how the complex mechanisms of diabetes can be studied.",
+    "kk": "Эксперименттік модельдерге шолу қант диабетінің күрделі механизмдерін қалай зерттеуге болатынын көрсетеді.",
+    "de": "Eine Übersicht über experimentelle Modelle zeigt, wie die komplexen Mechanismen des Diabetes untersucht werden können.",
+    "es": "Una revisión de los modelos experimentales muestra cómo estudiar los complejos mecanismos de la diabetes."
+   },
+   "url": "https://bioengineer.org/experimental-models-offer-critical-insights-into-multifactorial-diabetes-pathophysiology/",
+   "src": "Bioengineer.org",
+   "photoQuery": "laboratory mice research cages",
+   "photo": {
+    "id": "u_GdxEequd98s",
+    "url": "https://images.unsplash.com/photo-1704387286382-6c572e4b2942?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bGFib3JhdG9yeSUyMG1pY2UlMjByZXNlYXJjaCUyMGNhZ2VzfGVufDF8MHx8fDE3OTUwNTc2MDl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Mateusz Bajdak",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-bunch-of-umbrellas-that-are-in-a-cage-GdxEequd98s?utm_source=dia_news&utm_medium=referral",
+    "alt": "a bunch of umbrellas that are in a cage"
+   },
+   "body": {
+    "ru": "18 ноября 2026 года Bioengineer.org опубликовал обзор экспериментальных моделей, которые используются в исследованиях диабета. Он основан на работе Л. П. Девалкара в журнале Laboratory Animal Research. Ссылаясь на оценки Международной диабетической федерации, авторы отмечают, что около 11,1% взрослых в возрасте 20–79 лет живут с диабетом, примерно каждый девятый, а более 43% случаев остаются без диагноза. Мировые расходы на помощь при диабете составляют около 1 трлн долларов США в год, что на 338% больше, чем 17 лет назад.\n\nОбзор делит животные модели на диетические, химические, генетические и хирургические. Диетические модели, применяемые с конца 1980-х, кормят грызунов рационом, где 45–60% калорий приходится на жир. Это вызывает инсулинорезистентность и высокий уровень сахара в крови, но результаты зависят от штамма грызунов. Химические модели на основе аллоксана или стрептозотоцина разрушают инсулинпродуцирующие бета-клетки и помогают изучать диабет 1 типа. Однако бета-клетки грызунов содержат гораздо больше транспортёра GLUT2, чем человеческие, поэтому выводы требуют осторожной интерпретации. Генетические модели включают мышь non-obese diabetic (NOD) и крысу Гото-Какизаки. Тотальная панкреатэктомия создаёт полный дефицит инсулина для проверки трансплантации островков.\n\nСистемы в лабораторной посуде дают более простую картину. Клеточные линии INS-1 и MIN6 удобны в работе, но со временем пассажей меняют свойства и хуже реагируют на глюкозу, чем настоящие островки. Выделенные островки сохраняют функцию лишь 7–10 дней и различаются у разных доноров. Бета-подобные клетки, полученные из стволовых, могли бы быть персонифицированными, хотя ранние версии были незрелыми. Устройства «орган-на-чипе» способны поддерживать островки жизнеспособными дольше.\n\nПо словам авторов, ни одна модель не передаёт болезнь целиком, и у каждой есть ограничения. Прогресс, по их ожиданиям, придёт от сочетания платформ, возможно, с анализом метаболических данных с помощью искусственного интеллекта. Материал описывает существующие подходы, а не новый эксперимент или результаты пациентов. Для людей с диабетом это ранняя лабораторная работа, которая не меняет лечение. Вопросы о лечении стоит задавать врачу.",
+    "en": "On November 18, 2026, Bioengineer.org summarized a review of experimental models used in diabetes research, based on a paper by L. P. Dewalkar in Laboratory Animal Research. Citing International Diabetes Federation estimates, the authors note that about 11.1% of adults aged 20 to 79 live with diabetes, roughly one in nine, and more than 43% of cases go undiagnosed. Global spending on diabetes care is put at around USD 1 trillion a year, a 338% rise over 17 years.\n\nThe review sorts animal models into diet-induced, chemical, genetic and surgical types. Diet-induced models, used since the late 1980s, feed rodents diets in which 45–60% of calories come from fat. This leads to insulin resistance and high blood sugar, though outcomes depend on the rodent strain. Chemical models using alloxan or streptozotocin destroy insulin-producing beta cells and help study type 1 diabetes. However, rodent beta cells carry much more of the GLUT2 transporter than human cells, so findings need cautious interpretation. Genetic models include the non-obese diabetic (NOD) mouse and the Goto-Kakizaki rat. Total pancreatectomy produces complete insulin deficiency, which is useful for testing islet transplantation.\n\nLaboratory-dish systems offer a simpler view. Cell lines such as INS-1 and MIN6 are easy to work with, but they drift over repeated passages and respond to glucose less well than real islets. Isolated islets stay functional for only 7 to 10 days and vary between donors. Stem cell-derived beta-like cells could be patient-specific, though early versions lacked maturity. Organ-on-chip devices can keep islets viable for longer.\n\nNo single model captures the full disease, the authors stress, and each has limits. They expect progress to come from combining platforms, possibly with artificial intelligence analysis of metabolic data. The piece summarizes existing approaches rather than reporting a new experiment or patient results. For people living with diabetes, these findings are early laboratory work that does not change treatment; questions about care should go to a health professional.",
+    "kk": "2026 жылдың 18 қарашасында Bioengineer.org диабет зерттеулерінде қолданылатын тәжірибелік модельдер туралы шолуды жариялады. Ол Laboratory Animal Research журналындағы L. P. Dewalkar жұмысына негізделген. Халықаралық диабет федерациясының бағалауына сүйенсек, 20–79 жас аралығындағы ересектердің шамамен 11,1%-ы диабетпен өмір сүреді, яғни шамамен тоғыз адамның бірі. Жағдайлардың 43%-дан астамы диагнозсыз қалады. Диабетті емдеуге жұмсалатын әлемдік шығын жылына шамамен 1 трлн АҚШ доллары, бұл 17 жылда 338%-ға өскен.\n\nШолу жануарлар модельдерін диеталық, химиялық, генетикалық және хирургиялық түрлерге бөледі. 1980 жылдардың аяғынан қолданылатын диеталық модельдерде кеміргіштерге калориясының 45–60%-ы майдан келетін рацион беріледі. Бұл инсулинге төзімсіздікке және қандағы қант деңгейінің жоғарылауына әкеледі, бірақ нәтиже кеміргіш штаммына байланысты. Аллоксан немесе стрептозотоцин негізіндегі химиялық модельдер инсулин өндіретін бета-жасушаларды жояды және 1 типті диабетті зерттеуге көмектеседі. Алайда кеміргіштердің бета-жасушаларында GLUT2 тасымалдаушысы адамдікіне қарағанда әлдеқайда көп, сондықтан нәтижелерді абайлап түсіндіру қажет. Генетикалық модельдерге семіздікке ұшырамаған диабетті (NOD) тышқан және Гото-Какизаки егеуқұйрығы кіреді. Толық панкреатэктомия инсулин тапшылығын толық туғызады, бұл ұйқы безі аралшықтарын трансплантациялауды сынау үшін пайдалы.\n\nЗертхана ыдыстарындағы жүйелер қарапайымырақ көрініс береді. INS-1 және MIN6 сияқты жасушалық желілермен жұмыс оңай, бірақ қайта-қайта өсірген сайын қасиеттері өзгереді және глюкозаға нақты аралшықтарға қарағанда әлсіз жауап береді. Бөлініп алынған аралшықтар тек 7–10 күн жұмыс істейді және донорлар арасында айырмашылық бар. Діңгек жасушаларынан алынған бета тәрізді жасушалар пациентке тән болуы мүмкін, бірақ ерте нұсқалары толық жетілмеген. «Чипте орган» құрылғылары аралшықтарды ұзағырақ тірі ұстай алады.\n\nАвторлардың айтуынша, ешбір бір модель аурудың толық суретін бере алмайды және әрқайсысының шегі бар. Олардың пайымдауынша, алға басу платформаларды біріктіруден келеді, мүмкін метаболикалық деректерді жасанды интеллект арқылы талдаумен. Мақалада жаңа эксперимент немесе пациенттердің нәтижелері емес, қолданыстағы тәсілдер сипатталады. Диабетпен өмір сүретін адамдар үшін бұл ерте зертханалық жұмыс, ол емдеуді өзгертпейді. Емдеу туралы сұрақтарды дәрігерге қойыңыз.",
+    "de": "Am 18. November 2026 fasste Bioengineer.org einen Übersichtsartikel über Versuchsmodelle in der Diabetesforschung zusammen, der auf einer Arbeit von L. P. Dewalkar in der Zeitschrift Laboratory Animal Research beruht. Unter Berufung auf Schätzungen der Internationalen Diabetes Föderation leben etwa 11,1 % der Erwachsenen im Alter von 20 bis 79 Jahren mit Diabetes, also ungefähr jeder Neunte. Mehr als 43 % der Fälle bleiben unerkannt. Die weltweiten Ausgaben für die Diabetesversorgung liegen bei rund 1 Billion US-Dollar pro Jahr, ein Anstieg um 338 % in 17 Jahren.\n\nDer Übersichtsartikel ordnet Tiermodelle in diätbedingte, chemisch induzierte, genetische und chirurgische Typen ein. Diätmodelle, seit dem späten 20. Jahrhundert eingesetzt, versorgen Nagetiere mit Futter, bei dem 45–60 % der Kalorien aus Fett stammen. Das führt zu Insulinresistenz und hohem Blutzucker, die Ergebnisse hängen jedoch vom Stamm ab. Chemische Modelle mit Alloxan oder Streptozotocin zerstören insulinbildende Beta-Zellen und dienen der Erforschung von Typ-1-Diabetes. Nagetier-Beta-Zellen tragen allerdings weit mehr des Transporters GLUT2 als menschliche, weshalb Befunde vorsichtig übertragen werden müssen. Zu den genetischen Modellen zählen die nicht fettleibige diabetische (NOD)-Maus und die Goto-Kakizaki-Ratte. Die totale Pankreatektomie erzeugt einen vollständigen Insulinmangel, der für Tests zur Inseltransplantation nützlich ist.\n\nSysteme im Labor bieten eine weitere Ebene. Zelllinien wie INS-1 und MIN6 sind leicht handhabbar, verändern sich aber bei wiederholten Passagen und reagieren schwächer auf Glukose als echte Inseln. Isolierte Inseln bleiben nur 7 bis 10 Tage funktionsfähig und unterscheiden sich zwischen Spendern. Aus Stammzellen gewonnene beta-ähnliche Zellen könnten patientenspezifisch sein, frühe Versionen waren jedoch unausgereift. Organ-on-a-Chip-Geräte können Inseln länger am Leben halten.\n\nLaut den Autoren deckt kein einzelnes Modell die gesamte Krankheit ab, und jedes hat Grenzen. Fortschritte erwarten sie aus der Kombination der Plattformen, möglicherweise unterstützt durch KI-gestützte Analyse metabolischer Daten. Der Text fasst bestehende Ansätze zusammen, statt neue Experimente oder Patientenergebnisse zu berichten. Für Menschen mit Diabetes sind diese Befunde frühe Laborarbeit, die die Behandlung nicht ändert. Fragen zur Versorgung sollten an medizinisches Fachpersonal gerichtet werden.",
+    "es": "El 18 de noviembre de 2026, Bioengineer.org publicó un resumen de una revisión sobre modelos experimentales usados en la investigación de la diabetes, basada en un artículo de L. P. Dewalkar en la revista Laboratory Animal Research. Citando estimaciones de la Federación Internacional de Diabetes, los autores señalan que alrededor del 11,1 % de los adultos de 20 a 79 años vive con diabetes, aproximadamente uno de cada nueve. Más del 43 % de los casos no está diagnosticado. El gasto mundial en atención de la diabetes ronda los 1 billón de dólares al año, un aumento del 338 % en 17 años.\n\nLa revisión clasifica los modelos animales en inducidos por dieta, químicos, genéticos y quirúrgicos. Los modelos inducidos por dieta, usados desde finales de los años 80, alimentan a roedores con dietas en las que el 45–60 % de las calorías proviene de la grasa. Esto provoca resistencia a la insulina y glucemia alta, aunque los resultados dependen de la cepa del roedor. Los modelos químicos con aloxano o estreptozotocina destruyen las células beta productoras de insulina y sirven para estudiar la diabetes tipo 1. Sin embargo, las células beta de roedor tienen mucho más del transportador GLUT2 que las humanas, por lo que los hallazgos requieren una interpretación cuidadosa. Entre los modelos genéticos están el ratón diabético no obeso (NOD) y la rata Goto-Kakizaki. La pancreatectomía total produce una deficiencia completa de insulina, útil para probar trasplantes de islotes.\n\nLos sistemas de laboratorio ofrecen una visión más sencilla. Líneas celulares como INS-1 y MIN6 son fáciles de manejar, pero cambian tras pases repetidos y responden peor a la glucosa que los islotes reales. Los islotes aislados solo mantienen su función entre 7 y 10 días y varían entre donantes. Las células similares a las beta derivadas de células madre podrían ser específicas del paciente, aunque las versiones iniciales carecían de madurez. Los dispositivos de órgano en chip pueden mantener los islotes viables por más tiempo.\n\nSegún los autores, ningún modelo único captura toda la enfermedad y cada uno tiene límites. Esperan avances de la combinación de plataformas, posiblemente con análisis de datos metabólicos mediante inteligencia artificial. El texto resume enfoques existentes en lugar de informar de un nuevo experimento o de resultados en pacientes. Para las personas con diabetes, estos hallazgos son trabajo de laboratorio preliminar que no cambia el tratamiento. Las dudas sobre la atención deben consultarse con un profesional sanitario."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Взрослые с диабетом (оценка IDF)",
+      "en": "Adults living with diabetes (IDF estimate)",
+      "kk": "Диабетпен өмір сүретін ересектер (IDF бағалауы)",
+      "de": "Erwachsene mit Diabetes (IDF-Schätzung)",
+      "es": "Adultos que viven con diabetes (estimación de la IDF)"
+     },
+     "v": {
+      "ru": "около 11,1% взрослых в возрасте 20–79 лет",
+      "en": "about 11.1% of adults aged 20–79",
+      "kk": "20–79 жас аралығындағы ересектердің шамамен 11,1%-ы",
+      "de": "etwa 11,1 % der Erwachsenen im Alter von 20–79 Jahren",
+      "es": "alrededor del 11,1 % de los adultos de 20 a 79 años"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доля калорий из жира в диетических моделях",
+      "en": "Share of calories from fat in diet-induced models",
+      "kk": "Диеталық модельдердегі майдан алынатын калория үлесі",
+      "de": "Fettanteil der Kalorien in diätbedingten Modellen",
+      "es": "Proporción de calorías de grasa en los modelos inducidos por dieta"
+     },
+     "v": {
+      "ru": "45–60%",
+      "en": "45–60%",
+      "kk": "45–60%",
+      "de": "45–60 %",
+      "es": "45–60 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Срок функционирования выделенных островков",
+      "en": "Functional window of isolated islets",
+      "kk": "Бөлініп алынған аралшықтардың жұмыс мерзімі",
+      "de": "Funktionsdauer isolierter Inseln",
+      "es": "Ventana de función de los islotes aislados"
+     },
+     "v": {
+      "ru": "7–10 дней",
+      "en": "7 to 10 days",
+      "kk": "7–10 күн",
+      "de": "7 bis 10 Tage",
+      "es": "7 a 10 días"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVIYz9vYz01",
+   "cat": "events",
+   "stage": "conference",
+   "date": "2026-11-18",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "В Бурятии обсудили вопросы борьбы с диабетом",
+    "en": "Buryatia discusses ways to fight diabetes",
+    "kk": "Бурятияда қант диабетімен күресу мәселелері талқыланды",
+    "de": "In Burjatien wurden Wege zur Bekämpfung des Diabetes erörtert",
+    "es": "En Buriatia se debatieron formas de combatir la diabetes"
+   },
+   "text": {
+    "ru": "В Республике Бурятия прошло обсуждение вопросов профилактики и лечения диабета.",
+    "en": "A discussion on diabetes prevention and treatment was held in the Republic of Buryatia.",
+    "kk": "Бурятия Республикасында қант диабетін алдын алу және емдеу мәселелері талқыланды.",
+    "de": "In der Republik Burjatien fand eine Diskussion über Prävention und Behandlung von Diabetes statt.",
+    "es": "En la República de Buriatia se celebró un debate sobre la prevención y el tratamiento de la diabetes."
+   },
+   "url": "https://egov-buryatia.ru/minzdrav/press_center/news/detail.php?ID=211105",
+   "src": "Правительство Республики Бурятия",
+   "photoQuery": "medical conference hall seminar table",
+   "local": true,
+   "photo": {
+    "id": "u_5nGCyV51P60",
+    "url": "https://images.unsplash.com/photo-1763706320063-b210731b37a1?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29uZmVyZW5jZSUyMGhhbGwlMjBzZWF0c3xlbnwxfDB8fHwxNzk1MDU3NjEwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Hayk Badalyan",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/rows-of-empty-blue-theater-seats-in-dim-lighting-5nGCyV51P60?utm_source=dia_news&utm_medium=referral",
+    "alt": "Rows of empty blue theater seats in dim lighting"
+   },
+   "body": {
+    "ru": "18 ноября 2026 года в Улан-Удэ прошла республиканская конференция эндокринологической службы, посвящённая современным подходам к диагностике и лечению сахарного диабета. Её приурочили к Всемирному дню борьбы с диабетом. В мероприятии участвовали более 70 специалистов, было заслушано 10 докладов.\n\nГлавный внештатный эндокринолог Минздрава Бурятии Дарима Нимаева рассказала о работе программы «Борьба с сахарным диабетом» и о статистике за 2026 год. Особое внимание привлекла тема ампутаций. Чимитма Ширипцынгеева, врач кабинета «Диабетическая стопа», назвала ошибки, которые чаще всего приводят к ампутации. По её данным, в прошлом году из-за диабета конечности ампутировали 134 жителям республики, а за девять месяцев нынешнего года — 125. Специалисты призывают внимательнее следить за состоянием стоп и вовремя замечать тревожные признаки.\n\nДругие доклады касались новых рекомендаций по лечению диабета 1 типа у взрослых. Сарюна Жигмитова отметила, что обновления помогут лечить эффективнее. Татьяна Батудаева напомнила о необходимости лечить человека целиком, а не отдельные болезни, и рассказала о терапии при повышенном уровне мочевой кислоты. Татьяна Спасова обсудила, когда при жировой болезни печени стоит начинать лекарственное лечение.\n\nВ статье не приводятся подробности новых рекомендаций и не говорится о последующих шагах. Конференцию описывают как площадку, где врачи делятся опытом, изучают новое и обсуждают актуальные проблемы.",
+    "en": "On 18 November 2026, a republican conference of the regional endocrinology service took place in Ulan-Ude, focusing on modern approaches to diagnosing and treating diabetes. It was timed to World Diabetes Day. More than 70 specialists took part, and 10 reports were heard.\n\nDarima Nimaeva, the republic's chief non-staff endocrinologist at the Ministry of Health, described how the \"Fighting Diabetes\" programme works and presented 2026 statistics. Amputations drew particular attention. Chimitma Shiripitsyngeeva, a doctor at the \"Diabetic Foot\" office, outlined the errors that most often lead to amputation. She said that last year, diabetes led to limb amputations for 134 residents of Buryatia, and in the first nine months of this year, for 125. Specialists urge closer attention to the condition of the feet and timely recognition of warning signs.\n\nOther presentations addressed new recommendations for treating type 1 diabetes in adults. Sarjuna Zhigmitova noted that the updates should help make treatment more effective. Tatyana Batudaeva stressed treating the whole person rather than individual conditions, and spoke about therapy for elevated uric acid. Tatyana Spasova discussed when drug treatment should begin for fatty liver disease.\n\nThe article gives no details of the new recommendations and says nothing about follow-up steps. It presents the conference as a forum where doctors share experience, study new developments and discuss pressing issues.",
+    "kk": "2026 жылғы 18 қарашада Улан-Үдэ қаласында эндокринологиялық қызметтің республикалық конференциясы өтті. Оның тақырыбы — қант диабетін диагностикалау мен емдеудің заманауи тәсілдері. Конференция Дүниежүзілік диабетпен күрес күніне орай ұйымдастырылды. Оған 70-тен астам маман қатысып, 10 баяндама тыңдалды.\n\nДенсаулық сақтау министрлігінің бас штаттан тыс эндокринологі Дарима Нимаева «Қант диабетімен күрес» бағдарламасының жұмысы туралы айтып, 2026 жылғы статистиканы таныстырды. Ерекше назар ампутацияға аударылды. «Диабеттік табан» кабинетінің дәрігері Чимитма Ширипцынгеева ампутацияға әкелетін жиі кездесетін қателерді талдады. Оның айтуынша, өткен жылы диабет салдарынан республика тұрғындарының 134-іне аяқ-қолы кесілген, ал биылғы тоғыз айда бұл көрсеткіш 125 адам болған. Мамандар табанның жағдайын мұқият бақылауға және алаңдатарлық белгілерді уақтылы байқауға шақырады.\n\nБасқа баяндамалар ересектердегі 1-типті қант диабетін емдеудің жаңа ұсыныстарына арналды. Сарюна Жигмитова жаңартулардың емдеуді тиімдірек етуге көмектесетінін атап өтті. Татьяна Батудаева адамды жекелеген ауруларға емес, тұтастай емдеу қажеттігін еске салып, несеп қышқылының жоғарылауына арналған терапия туралы айтты. Татьяна Спасова май гепатозы кезінде дәрілік емді қашан бастау керектігін талқылады.\n\nМақалада жаңа ұсыныстардың мазмұны туралы толық мәлімет берілмеген, кейінгі қадамдар туралы да айтылмаған. Конференция дәрігерлер тәжірибе бөлісетін, жаңалықтарды зерттейтін және өзекті мәселелерді талқылайтын алаң ретінде сипатталған.",
+    "de": "Am 18. November 2026 fand in Ulan-Ude eine republikweite Konferenz des Endokrinologiedienstes statt, die moderne Ansätze zu Diagnostik und Behandlung des Diabetes mellitus zum Thema hatte. Sie war auf den Welt-Diabetes-Tag abgestimmt. Mehr als 70 Fachleute nahmen teil, und es wurden 10 Vorträge gehört.\n\nDarima Nimaeva, leitende nebenamtliche Endokrinologin des Gesundheitsministeriums von Burjatien, stellte vor, wie das Programm „Kampf gegen den Zuckerdiabetes“ arbeitet, und nannte Zahlen für 2026. Besondere Aufmerksamkeit erhielten Amputationen. Chimitma Schiripzyngejewa, Ärztin im Bereich „Diabetischer Fuß“, erläuterte, welche Fehler am häufigsten zu einer Amputation führen. Laut ihren Angaben mussten im vergangenen Jahr 134 Einwohnern Burjatiens infolge von Diabetes Gliedmaßen amputiert werden, in den ersten neun Monaten dieses Jahres waren es 125. Die Fachleute raten dazu, den Zustand der Füße genau zu beobachten und Warnzeichen rechtzeitig zu erkennen.\n\nWeitere Vorträge befassten sich mit neuen Empfehlungen zur Behandlung von Typ-1-Diabetes bei Erwachsenen. Sarjuna Schigmitowa merkte an, dass die Aktualisierungen helfen sollen, wirksamer zu behandeln. Tatjana Batudajewa betonte, den Menschen als Ganzes statt einzelne Erkrankungen zu behandeln, und sprach über Therapie bei erhöhter Harnsäure. Tatjana Spasowa erörterte, wann bei einer Fettlebererkrankung eine medikamentöse Behandlung beginnen sollte.\n\nDer Artikel enthält keine Einzelheiten zu den neuen Empfehlungen und nennt keine weiteren Schritte. Die Konferenz wird als Forum beschrieben, in dem Ärzte Erfahrungen austauschen, Neuerungen prüfen und drängende Fragen besprechen.",
+    "es": "El 18 de noviembre de 2026 se celebró en Ulan-Udé una conferencia republicana del servicio de endocrinología, dedicada a los enfoques modernos para diagnosticar y tratar la diabetes. Coincidió con el Día Mundial de la Diabetes. Participaron más de 70 especialistas y se escucharon 10 ponencias.\n\nDarima Nimaeva, endocrinóloga principal no titular del Ministerio de Salud de Buriatia, explicó cómo funciona el programa «Lucha contra la diabetes» y presentó cifras de 2026. Las amputaciones recibieron especial atención. Chimitma Shiripitsyngeeva, médica del consultorio «Pie diabético», expuso los errores que con más frecuencia llevan a una amputación. Según sus datos, el año pasado la diabetes provocó la amputación de extremidades a 134 residentes de Buriatia, y en los primeros nueve meses de este año, a 125. Los especialistas piden vigilar de cerca el estado de los pies y detectar a tiempo las señales de alarma.\n\nOtras ponencias trataron nuevas recomendaciones para tratar la diabetes tipo 1 en adultos. Sariuna Zhigmitova señaló que las actualizaciones deberían ayudar a tratar con más eficacia. Tatiana Batudaeva subrayó la importancia de atender a la persona en su conjunto y no solo a enfermedades aisladas, y habló de la terapia para el ácido úrico elevado. Tatiana Spasova abordó cuándo conviene empezar el tratamiento farmacológico en la enfermedad del hígado graso.\n\nEl artículo no detalla el contenido de las nuevas recomendaciones ni menciona pasos posteriores. Presenta la conferencia como un espacio donde los médicos comparten experiencias, estudian novedades y debaten temas candentes."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Ампутации конечностей из-за диабета в прошлом году",
+      "en": "Limb amputations due to diabetes last year",
+      "kk": "Өткен жылы диабет салдарынан аяқ-қолы кесілгендер",
+      "de": "Amputationen infolge von Diabetes im Vorjahr",
+      "es": "Amputaciones de extremidades por diabetes el año pasado"
+     },
+     "v": {
+      "ru": "134 жителя Бурятии",
+      "en": "134 residents of Buryatia",
+      "kk": "Бурятия тұрғындарының 134-і",
+      "de": "134 Einwohner Burjatiens",
+      "es": "134 residentes de Buriatia"
+     }
+    },
+    {
+     "k": {
+      "ru": "Ампутации конечностей из-за диабета за 9 месяцев текущего года",
+      "en": "Limb amputations due to diabetes in the first nine months of this year",
+      "kk": "Биылғы тоғыз айда диабет салдарынан аяқ-қолы кесілгендер",
+      "de": "Amputationen infolge von Diabetes in den ersten neun Monaten dieses Jahres",
+      "es": "Amputaciones de extremidades por diabetes en los primeros nueve meses de este año"
+     },
+     "v": {
+      "ru": "125 жителей Бурятии",
+      "en": "125 residents of Buryatia",
+      "kk": "Бурятия тұрғындарының 125-і",
+      "de": "125 Einwohner Burjatiens",
+      "es": "125 residentes de Buriatia"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nkUwP29jPTU",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-17",
+   "added": "2026-11-19T03:06:43.755Z",
+   "title": {
+    "ru": "Эндокринолог объяснил, почему диабет стали чаще выявлять у юных туляков",
+    "en": "Endocrinologist explains why diabetes is being detected more often in young Tula residents",
+    "kk": "Эндокринолог жас тулалықтарда қант диабетінің жиі анықталу себебін түсіндірді",
+    "de": "Endokrinologe erklärt, warum bei jungen Einwohnern von Tula häufiger Diabetes festgestellt wird",
+    "es": "Un endocrinólogo explica por qué se detecta más diabetes en jóvenes de Tula"
+   },
+   "text": {
+    "ru": "Врач рассказал о причинах более частого выявления диабета у молодых жителей Тульской области.",
+    "en": "A doctor spoke about the reasons diabetes is more often detected among young residents of the Tula region.",
+    "kk": "Дәрігер Тула облысының жас тұрғындарында қант диабетінің жиі анықталу себептері туралы айтты.",
+    "de": "Ein Arzt sprach über die Gründe, warum bei jungen Einwohnern der Region Tula häufiger Diabetes festgestellt wird.",
+    "es": "Un médico habló de las razones por las que se detecta con más frecuencia la diabetes en jóvenes de la región de Tula."
+   },
+   "url": "https://1tulatv.ru/novosti/300836-endokrinolog-rasskazal-pochemu-diabet-stali-chashche-vyyavlyat-u-yunyh-tulyakov.html",
+   "src": "Первый Тульский",
+   "photoQuery": "blood glucose meter finger test",
+   "local": true,
+   "photo": {
+    "id": "u_bVIpvMDkNKA",
+    "url": "https://images.unsplash.com/photo-1738778151587-032287ae9f90?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTF8fGxhYm9yYXRvcnklMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTUwNTc2MDd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Dmytro Vynohradov",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-microscope-sitting-on-top-of-a-table-next-to-a-bottle-bVIpvMDkNKA?utm_source=dia_news&utm_medium=referral",
+    "alt": "A microscope sitting on top of a table next to a bottle"
+   },
+   "body": {
+    "ru": "17 ноября 2026 года «Первый Тульский» опубликовал материал о радиоинтервью, в котором говорится о росте числа выявленных случаев диабета у молодых людей. Диабет второго типа, который раньше считали болезнью взрослых, всё чаще находят у детей и подростков. Одним из факторов риска называют рост числа случаев ожирения.\n\nСведения принадлежат эндокринологу Олегу Соловьёву, который возглавляет отделение детской эндокринологии в детской областной клинической больнице. Он выступал в программе «Анамнез» на радио «Серебряный дождь» (88.3 FM) в Пскове, а информацию передало ПАИ. Хотя в заголовке упоминаются тульские дети, цифры из интервью относятся к Псковской области.\n\nПо словам врача, в Псковской области сахарным диабетом живут около 35 тысяч взрослых, и примерно 90% из них страдают диабетом второго типа, который не требует инсулина постоянно. У детей чаще встречается первый тип, но всё больше мальчиков и девочек сталкиваются с ожирением, а оно является одним из ключевых факторов риска второго типа.\n\nСоловьёв отметил, что хроническая болезнь не означает приговора, однако требует серьёзной дисциплины. В детской больнице работают школы сахарного диабета, стационарные и амбулаторные. Там объясняют особенности болезни, возможные осложнения и питание: какие продукты стоит ограничить и чем их можно заменить.\n\nВ материале нет новой статистики по детям в регионе, данных о динамике и сведений о программах помимо этих школ.",
+    "en": "On November 17, 2026, the regional outlet Pervyi Tulsky published a report on a radio interview about a rising number of diabetes cases found in young people. Type 2 diabetes, long considered a disease of adults, is increasingly being detected in children and teenagers. One of the cited risk factors is a growing number of obesity cases.\n\nThe information comes from Oleg Soloviev, an endocrinologist who heads the children's endocrinology department at the regional children's clinical hospital. He spoke on the \"Anamnez\" program on the Serebryany Dozhd radio station (88.3 FM) in Pskov, and the PAI news agency relayed the details. Although the headline refers to Tula, the figures from the interview concern the Pskov region.\n\nAccording to the doctor, about 35,000 adults in the Pskov region live with diabetes, and roughly 90% of them have type 2, which does not require constant insulin. Among children, type 1 is more common, but more boys and girls are now dealing with obesity, a key risk factor for type 2.\n\nSoloviev noted that a chronic condition is not a verdict, yet it demands serious self-discipline. The children's hospital runs diabetes schools, both inpatient and outpatient. They explain the features of the disease, possible complications and nutrition, including which foods to limit and what can replace them.\n\nThe report offers no new statistics on regional children, no data on trends over time, and no information about programs beyond these schools.",
+    "kk": "2026 жылдың 17 қарашасында «Первый Тульский» арнасы радиодағы сұхбат туралы материал жариялады. Онда жас адамдар арасында диабет жағдайларының артып келе жатқаны айтылады. Бұрын ересектердің ауруы саналған 2-типті диабет балалар мен жасөспірімдерде жиі табылуда. Қауіп факторларының бірі ретінде семіздік жағдайларының өсуі аталады.\n\nАқпарат эндокринолог Олег Соловьевтен шыққан; ол облыстық балалар клиникалық ауруханасындағы балалар эндокринологиясы бөлімін басқарады. Ол Псковтағы «Серебряный дождь» радиосының (88.3 FM) «Анамнез» бағдарламасында сөз сөйледі, ал мәліметті ПАИ агенттігі таратты. Тақырыпта Тула аталғанымен, сұхбаттағы сандар Псков облысына қатысты.\n\nДәрігердің айтуынша, Псков облысында шамамен 35 мың ересек қант диабетімен өмір сүреді, олардың шамамен 90%-ында инсулинді үнемі қабылдауды қажет етпейтін 2-типті диабет бар. Балаларда 1-типті диабет жиірек кездеседі, бірақ семіздікке шалдыққан ұл-қыздар көбейіп келеді, ал семіздік 2-типтің негізгі қауіп факторы.\n\nСоловьев созылмалы ауруды үкім емес, бірақ тәртіпті болуды талап ететін жағдай ретінде сипаттады. Балалар ауруханасында стационарлық және амбулаториялық қант диабеті мектептері жұмыс істейді. Онда аурудың ерекшеліктері, мүмкін асқынулар және тамақтану түсіндіріледі: қандай өнімдерді шектеу керек және оларды немен алмастыруға болатыны айтылады.\n\nМатериалда облыстағы балалар бойынша жаңа статистика, уақыт бойынша өзгерістер және осы мектептерден бөлек бағдарламалар туралы мәлімет жоқ.",
+    "de": "Am 17. November 2026 veröffentlichte das regionale Portal Pervyi Tulsky einen Bericht über ein Radiointerview. Darin geht es um eine steigende Zahl von Diabetesfällen, die bei jungen Menschen entdeckt werden. Typ-2-Diabetes, lange als Erkrankung Erwachsener betrachtet, wird zunehmend bei Kindern und Jugendlichen festgestellt. Als Risikofaktor wird unter anderem die wachsende Zahl von Adipositas-Fällen genannt.\n\nDie Informationen stammen vom Endokrinologen Oleg Soloviev, der die Abteilung für Kinderendokrinologie am regionalen Kinderklinikum leitet. Er sprach im Programm „Anamnez“ beim Radiosender Serebryany Dozhd (88,3 FM) in Pskow, und die Nachrichtenagentur PAI verbreitete die Angaben. Obwohl die Überschrift Tula nennt, beziehen sich die Zahlen aus dem Interview auf die Region Pskow.\n\nLaut dem Arzt leben in der Region Pskow rund 35.000 Erwachsene mit Diabetes, etwa 90 Prozent davon mit Typ 2, der nicht insulinabhängig ist. Bei Kindern ist Typ 1 häufiger, doch immer mehr Jungen und Mädchen haben Übergewicht, einen zentralen Risikofaktor für Typ 2.\n\nSoloviev betonte, dass die chronische Erkrankung kein Urteil sei, aber große Disziplin verlange. An der Kinderklinik gibt es Diabetesschulen, stationär wie ambulant. Dort werden Merkmale der Krankheit, mögliche Komplikationen und Ernährung erklärt, etwa welche Lebensmittel man einschränken und wodurch man sie ersetzen kann.\n\nDer Bericht enthält keine neuen Statistiken zu Kindern in der Region, keine Angaben zu Entwicklungen über die Zeit und keine Informationen zu Programmen außerhalb dieser Schulen.",
+    "es": "El 17 de noviembre de 2026, el medio regional Pervyi Tulsky publicó un reportaje sobre una entrevista de radio. Trata del aumento de casos de diabetes detectados en personas jóvenes. La diabetes tipo 2, considerada durante mucho tiempo una enfermedad de adultos, se encuentra cada vez más en niños y adolescentes. Entre los factores de riesgo se menciona el creciente número de casos de obesidad.\n\nLa información procede del endocrinólogo Oleg Soloviov, que dirige el departamento de endocrinología infantil del hospital clínico regional para niños. Habló en el programa \"Anamnez\" de la emisora Serebryany Dozhd (88.3 FM) en Pskov, y la agencia PAI difundió los datos. Aunque el titular menciona Tula, las cifras de la entrevista se refieren a la región de Pskov.\n\nSegún el médico, unas 35 000 personas adultas viven con diabetes en la región de Pskov, y alrededor del 90 % de ellas tienen diabetes tipo 2, que no requiere insulina de forma constante. En niños predomina el tipo 1, pero cada vez más niños y niñas presentan obesidad, un factor de riesgo clave para el tipo 2.\n\nSoloviov señaló que la enfermedad crónica no es una condena, aunque exige una disciplina considerable. El hospital infantil tiene escuelas de diabetes, tanto hospitalarias como ambulatorias, donde se explican las características de la enfermedad, las posibles complicaciones y la alimentación, incluidos los alimentos que conviene limitar y sus sustitutos.\n\nEl texto no aporta estadísticas nuevas sobre niños de la región, datos sobre la evolución en el tiempo ni información sobre programas distintos de estas escuelas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Взрослые с диабетом в Псковской области",
+      "en": "Adults with diabetes in the Pskov region",
+      "kk": "Псков облысындағы диабеті бар ересектер",
+      "de": "Erwachsene mit Diabetes in der Region Pskow",
+      "es": "Adultos con diabetes en la región de Pskov"
+     },
+     "v": {
+      "ru": "около 35 тысяч",
+      "en": "about 35,000",
+      "kk": "шамамен 35 мың",
+      "de": "rund 35.000",
+      "es": "unas 35 000"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доля диабета второго типа среди взрослых с диабетом",
+      "en": "Share of type 2 among adults with diabetes",
+      "kk": "Диабеті бар ересектердегі 2-типті диабеттің үлесі",
+      "de": "Anteil von Typ 2 unter Erwachsenen mit Diabetes",
+      "es": "Proporción de tipo 2 entre adultos con diabetes"
+     },
+     "v": {
+      "ru": "примерно 90%",
+      "en": "roughly 90%",
+      "kk": "шамамен 90%",
+      "de": "etwa 90 Prozent",
+      "es": "alrededor del 90 %"
+     }
+    }
+   ]
+  },
   {
    "id": "nDE4P29jPTU",
    "cat": "devices",
@@ -1363,786 +2232,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "njFFP29jPTU",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "В России растет число пациентов с сахарным диабетом: более 6 млн человек",
-    "en": "Russia sees rising number of diabetes patients: over 6 million people",
-    "kk": "Ресейде қант диабетімен ауыратын пациенттердің саны өсуде: 6 миллионнан астам адам",
-    "de": "In Russland steigt die Zahl der Diabetespatienten: über 6 Millionen Menschen",
-    "es": "En Rusia crece el número de pacientes con diabetes: más de 6 millones de personas"
-   },
-   "text": {
-    "ru": "По сообщению, в России растет число пациентов с сахарным диабетом, их более 6 млн.",
-    "en": "According to the report, the number of diabetes patients in Russia is growing and exceeds 6 million.",
-    "kk": "Хабарламаға сәйкес, Ресейде қант диабетімен ауыратын пациенттердің саны өсуде және 6 миллионнан асады.",
-    "de": "Laut Bericht steigt die Zahl der Diabetespatienten in Russland und liegt bei über 6 Millionen.",
-    "es": "Según el informe, el número de pacientes con diabetes en Rusia crece y supera los 6 millones."
-   },
-   "url": "https://www.tv21.ru/news/2026/11/16/bolee-6-mln-chelovek-v-rossii-rastet-chislo-pacientov-s-saharnym-diabetom",
-   "src": "Телекомпания ТВ-21",
-   "photoQuery": "glucose test strips",
-   "local": true,
-   "photo": {
-    "id": "u_gKUC4TMhOiY",
-    "url": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NDg4NDU4M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Ousa Chea",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_source=dia_news&utm_medium=referral",
-    "alt": "white microscope on top of black table"
-   },
-   "body": {
-    "ru": "16 ноября 2026 года телекомпания ТВ-21 из Мурманска сообщила, что число людей с диабетом в России увеличивается: по её данным, с этим диагнозом живут более 6 млн человек.\n\nМатериал начинается с профессионального праздника эндокринологов, который отмечали в минувшие выходные. Далее напоминается, что 14 ноября — Всемирный день борьбы с диабетом; в этот день традиционно проводят лекции и встречи, направленные на информирование людей о болезни.\n\nАвтор отмечает, что заболеваемость диабетом с каждым годом растёт по всему миру. На этом фоне приведена общая цифра по стране — более 6 млн человек.\n\nСюжет короткий и имеет очевидные ограничения. В нём не назван источник оценки в 6 млн, не указано, когда она была получена, и нет разбивки по типам диабета, возрастам или регионам. Экспертных комментариев в материале также нет.\n\nНовые мероприятия или дальнейшие шаги в статье не описаны: речь идёт лишь о традиционных акциях, приуроченных ко Всемирному дню борьбы с диабетом.",
-    "en": "On 16 November 2026, the Murmansk-based broadcaster TV-21 reported that the number of people with diabetes in Russia is growing, and that more than 6 million people in the country live with the diagnosis.\n\nThe report opens with the professional holiday of endocrinologists, which was marked over the past weekend. It then recalls that 14 November is World Diabetes Day, a date on which lectures and meetings aimed at informing people about the disease are traditionally organised.\n\nThe author points out that diabetes incidence rises every year across the world. Against this background, the national total of more than 6 million people is cited.\n\nThe item is short and has clear limitations. It does not name the source of the 6 million estimate, does not say when that figure was obtained, and offers no breakdown by type of diabetes, age group or region. It also includes no expert comments.\n\nThe article does not describe any new events or next steps; it mentions only the traditional awareness activities held around World Diabetes Day.",
-    "kk": "2026 жылғы 16 қарашада Мурманскідегі ТВ-21 телекомпаниясы Ресейде қант диабетімен ауыратындардың саны артып келе жатқанын хабарлады: оның деректері бойынша, елде бұл диагнозбен 6 млн-нан астам адам өмір сүреді.\n\nМатериал эндокринологтардың кәсіби мерекесінен басталады, оны өткен демалыс күндері атап өтті. Одан әрі 14 қараша — Бүкіләлемдік диабетпен күрес күні екені еске салынады; осы күні дәстүр бойынша адамдарды ауру туралы хабардар етуге бағытталған дәрістер мен кездесулер ұйымдастырылады.\n\nАвтордың айтуынша, диабет жағдайлары бүкіл әлемде жыл сайын көбейіп келеді. Осы аясында елдегі жалпы көрсеткіш — 6 млн-нан астам адам ретінде келтірілген.\n\nСюжет қысқа және оның шектеулері бар. Онда 6 млн бағасының дерек көзі аталмаған, санақ қашан жасалғаны көрсетілмеген, диабеттің түрі, жас топтары немесе өңірлер бойынша бөлініс берілмеген. Материалда сарапшылардың пікірі де жоқ.\n\nМақалада жаңа іс-шаралар немесе келесі қадамдар туралы айтылмайды; тек Бүкіләлемдік диабетпен күрес күніне байланысты дәстүрлі ағарту шаралары ғана аталады.",
-    "de": "Am 16. November 2026 berichtete der Regionalsender TV-21 aus Murmansk, dass die Zahl der Menschen mit Diabetes in Russland steigt: Nach seinen Angaben leben im Land mehr als 6 Millionen Menschen mit dieser Diagnose.\n\nDer Beitrag beginnt mit dem Berufsfeiertag der Endokrinologen, der am vergangenen Wochenende begangen wurde. Danach wird daran erinnert, dass der 14. November der Welttag des Kampfes gegen Diabetes ist; an diesem Tag werden traditionell Vorträge und Treffen organisiert, die über die Krankheit informieren sollen.\n\nDer Autor hebt hervor, dass die Erkrankungsrate weltweit von Jahr zu Jahr zunimmt. Vor diesem Hintergrund wird die landesweite Gesamtzahl von mehr als 6 Millionen Menschen genannt.\n\nDie Meldung ist kurz und hat erkennbare Grenzen. Sie nennt keine Quelle für die Schätzung von 6 Millionen, sagt nicht, wann diese Zahl ermittelt wurde, und enthält keine Aufschlüsselung nach Diabetesart, Altersgruppen oder Regionen. Auch Expertenkommentare fehlen.\n\nNeue Veranstaltungen oder weitere Schritte beschreibt der Artikel nicht; erwähnt werden lediglich die traditionellen Informationsaktionen rund um den Welttag des Kampfes gegen Diabetes.",
-    "es": "El 16 de noviembre de 2026, la televisión regional rusa TV-21 informó de que aumenta el número de personas con diabetes en Rusia: según sus datos, más de 6 millones de personas viven con este diagnóstico en el país.\n\nLa noticia comienza con la fiesta profesional de los endocrinólogos, celebrada el fin de semana anterior. Después recuerda que el 14 de noviembre es el Día Mundial de la Lucha contra la Diabetes, jornada en la que tradicionalmente se organizan conferencias y encuentros para informar sobre la enfermedad.\n\nEl autor señala que la incidencia de la diabetes crece cada año en todo el mundo. En ese contexto se presenta la cifra nacional de más de 6 millones de personas.\n\nLa pieza es breve y tiene límites evidentes. No nombra la fuente de la estimación de 6 millones, no indica cuándo se obtuvo esa cifra y no ofrece desglose por tipo de diabetes, grupos de edad o regiones. Tampoco incluye comentarios de expertos.\n\nEl artículo no describe nuevas actividades ni próximos pasos; solo menciona las acciones informativas habituales en torno al Día Mundial de la Lucha contra la Diabetes."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Людей с диагнозом сахарный диабет в России",
-      "en": "People living with diabetes in Russia",
-      "kk": "Ресейде қант диабеті диагнозымен өмір сүретін адамдар",
-      "de": "Menschen mit Diabetes in Russland",
-      "es": "Personas con diabetes en Rusia"
-     },
-     "v": {
-      "ru": "более 6 млн человек",
-      "en": "more than 6 million people",
-      "kk": "6 млн-нан астам адам",
-      "de": "mehr als 6 Millionen Menschen",
-      "es": "más de 6 millones de personas"
-     }
-    },
-    {
-     "k": {
-      "ru": "Всемирный день борьбы с диабетом",
-      "en": "World Diabetes Day",
-      "kk": "Бүкіләлемдік диабетпен күрес күні",
-      "de": "Welttag des Kampfes gegen Diabetes",
-      "es": "Día Mundial de la Lucha contra la Diabetes"
-     },
-     "v": {
-      "ru": "14 ноября",
-      "en": "14 November",
-      "kk": "14 қараша",
-      "de": "14. November",
-      "es": "14 de noviembre"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nRlI_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "К 2050 году число взрослых с диабетом в Турции может достичь 14,1 млн",
-    "en": "Adults with diabetes in Turkey could reach 14.1 million by 2050",
-    "kk": "2050 жылға қарай Түркиядағы қант диабетімен ауыратын ересектердің саны 14,1 миллионға жетуі мүмкін",
-    "de": "Zahl der Erwachsenen mit Diabetes in der Türkei könnte bis 2050 auf 14,1 Mio. steigen",
-    "es": "El número de adultos con diabetes en Turquía podría llegar a 14,1 millones en 2050"
-   },
-   "text": {
-    "ru": "Прогноз: к 2050 году число взрослых с диабетом в Турции может достичь 14,1 млн человек.",
-    "en": "A forecast says the number of adults with diabetes in Turkey could reach 14.1 million by 2050.",
-    "kk": "Болжам бойынша, 2050 жылға қарай Түркиядағы қант диабетімен ауыратын ересектер саны 14,1 миллион адамға жетуі мүмкін.",
-    "de": "Eine Prognose besagt, dass die Zahl der Erwachsenen mit Diabetes in der Türkei bis 2050 auf 14,1 Millionen steigen könnte.",
-    "es": "Un pronóstico indica que el número de adultos con diabetes en Turquía podría alcanzar los 14,1 millones en 2050."
-   },
-   "url": "https://mk-turkey.ru/life/2026/11/16/k-2050-godu-chislo-vzroslyh-s-diabetom-v-turcii-mozhet-dostich-141-mln.html",
-   "src": "MK-Turkey.ru",
-   "photoQuery": "medical charts clipboard desk",
-   "local": true,
-   "photo": {
-    "id": "u_LRh4c7-0Y80",
-    "url": "https://images.unsplash.com/photo-1618514458914-120d9aef81ed?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMGNoYXJ0cyUyMGNsaXBib2FyZCUyMGRlc2t8ZW58MXwwfHx8MTc5NDg4NDU4M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Luba Ertel",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-and-black-labeled-box-LRh4c7-0Y80?utm_source=dia_news&utm_medium=referral",
-    "alt": "white and black labeled box"
-   },
-   "body": {
-    "ru": "Число взрослых с диабетом в Турции, по прогнозу, вырастет с 9,6 млн до 14,1 млн к 2050 году. Об этом сообщил портал MK-Turkey.ru 16 ноября 2026 года. Речь идет о прогнозе, а не о текущих данных.\n\nАвтор материала связывает рост с тремя основными факторами: ожирением, старением населения и увеличением числа случаев среди молодых людей. Он также приводит слова специалиста по фамилии Айваз: с 2010 по 2021 год число людей с диабетом в стране выросло примерно на 2,4 млн, а число людей с преддиабетом — на 3,3 млн. Вместе это составляет 5,7 млн.\n\nВ материале также говорится о мировой динамике. По прогнозу Международной федерации диабета, число взрослых с диабетом в мире вырастет с 589 млн в 2024 году до 853 млн к 2050 году.\n\nЕсть и оговорки. Цифра 14,1 млн — это прогноз, а разделы статьи, доступные редакции, не раскрывают методику расчета и возрастной диапазон. Прирост в 5,7 млн включает и людей с преддиабетом, а не только с диабетом. В доступной части текста конкретные меры или шаги не описаны. Читать материал стоит как оценку будущего, а не как измеренные данные.",
-    "en": "The number of adults with diabetes in Türkiye is projected to rise from 9.6 million to 14.1 million by 2050, according to a report published on 16 November 2026 by the Russian-language outlet MK-Turkey.ru. The figure is a forecast, not a current count.\n\nThe report attributes the expected growth to three main factors: obesity, an ageing population and a rising number of cases among young people. It also cites a specialist named Ayvaz, who said that between 2010 and 2021 about 2.4 million more people had diabetes and 3.3 million more had prediabetes. Together, that is an increase of 5.7 million.\n\nThe article places Türkiye within a wider global trend. Citing projections from the International Diabetes Federation, it says the number of adults with diabetes worldwide is expected to grow from 589 million in 2024 to 853 million by 2050.\n\nThere are some limits. The 14.1 million figure is a projection, and the sections of the article available to this newsroom do not explain the calculation method or the age range considered. The 5.7 million increase also includes people with prediabetes, not only those with diabetes. The accessible text does not describe specific measures or next steps. It is best read as an outlook for the future rather than as measured data.",
-    "kk": "Түркиядегі ересек диабеттілер саны 2050 жылға қарай 9,6 млн-нан 14,1 млн-ға дейін өседі деп болжанып отыр. Бұл туралы MK-Turkey.ru порталы 2026 жылғы 16 қарашада хабарлады. Бұл — болжам, ағымдағы нақты есеп емес.\n\nМатериал өсуді үш негізгі факторға байланыстырады: семіздік, халықтың қартаюы және жас адамдар арасындағы жағдайлардың артуы. Сондай-ақ Айваз деген маманның сөзін келтіреді: 2010-2021 жылдар аралығында қант диабеті бар адамдар шамамен 2,4 млн-ға, преддиабеті бар адамдар 3,3 млн-ға көбейген. Бұл жиынтығында 5,7 млн құрайды.\n\nМатериалда әлемдік үрдіс туралы да айтылады. Халықаралық диабет федерациясының болжамы бойынша, әлемдегі ересек диабеттілер саны 2024 жылғы 589 млн-нан 2050 жылға қарай 853 млн-ға дейін өседі.\n\nШектеулер де бар. 14,1 млн — болжам, ал редакцияға қолжетімді бөлімдерде есептеу әдісі мен жас ауқымы түсіндірілмеген. 5,7 млн өсімге преддиабеті бар адамдар да кіреді, тек диабеттілер ғана емес. Қолжетімді мәтінде нақты шаралар сипатталмаған. Бұл материалды өлшенген деректер емес, болашаққа арналған бағалау ретінде оқу дұрыс.",
-    "de": "Die Zahl der Erwachsenen mit Diabetes in der Türkei soll bis 2050 von 9,6 Millionen auf 14,1 Millionen steigen, so eine Prognose, über die das russischsprachige Portal MK-Turkey.ru am 16. November 2026 berichtete. Es handelt sich um eine Vorhersage, nicht um aktuelle Zahlen.\n\nDer Bericht führt den erwarteten Anstieg auf drei Hauptfaktoren zurück: Adipositas, eine alternde Bevölkerung und mehr Fälle bei jungen Menschen. Zudem zitiert er einen Fachmann namens Ayvaz, der sagte, dass zwischen 2010 und 2021 rund 2,4 Millionen Menschen mehr mit Diabetes und 3,3 Millionen mehr mit Prädiabetes hinzugekommen seien. Zusammen ergibt das einen Zuwachs von 5,7 Millionen.\n\nDer Artikel ordnet dies in einen weltweiten Trend ein. Laut Prognose der Internationalen Diabetes Föderation wird die Zahl der Erwachsenen mit Diabetes weltweit von 589 Millionen im Jahr 2024 auf 853 Millionen bis 2050 steigen.\n\nEs gibt allerdings Einschränkungen. Die 14,1 Millionen sind eine Projektion, und die Abschnitte, die der Redaktion zugänglich waren, erläutern weder die Berechnungsmethode noch die betrachtete Altersspanne. Der Zuwachs von 5,7 Millionen umfasst auch Menschen mit Prädiabetes, nicht nur mit Diabetes. Konkrete politische Schritte werden im zugänglichen Teil nicht beschrieben. Man sollte dies als Ausblick auf die Zukunft lesen, nicht als gemessene Daten.",
-    "es": "Se prevé que el número de adultos con diabetes en Turquía aumente de 9,6 millones a 14,1 millones para 2050, según una proyección recogida por el portal en ruso MK-Turkey.ru el 16 de noviembre de 2026. Se trata de un pronóstico, no de una cifra actual.\n\nEl texto atribuye el crecimiento a tres factores principales: la obesidad, el envejecimiento de la población y el aumento de casos entre los jóvenes. También cita a un especialista llamado Ayvaz, quien afirmó que entre 2010 y 2021 hubo unos 2,4 millones más de personas con diabetes y 3,3 millones más con prediabetes. En conjunto, el aumento fue de 5,7 millones.\n\nEl artículo sitúa esta cifra en una tendencia mundial. Según proyecciones de la Federación Internacional de Diabetes, el número de adultos con diabetes en el mundo pasará de 589 millones en 2024 a 853 millones en 2050.\n\nHay algunas limitaciones. El 14,1 millones es una proyección, y las partes del texto a las que tuvo acceso esta redacción no explican el método de cálculo ni el rango de edad considerado. El aumento de 5,7 millones incluye también a personas con prediabetes, no solo con diabetes. En la parte accesible no se describen medidas concretas. Conviene leerlo como una perspectiva a futuro, no como datos medidos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Прогноз на 2050 год: взрослые с диабетом в Турции",
-      "en": "2050 forecast: adults with diabetes in Türkiye",
-      "kk": "2050 жылғы болжам: Түркиядегі ересек диабеттілер",
-      "de": "Prognose für 2050: Erwachsene mit Diabetes in der Türkei",
-      "es": "Previsión para 2050: adultos con diabetes en Turquía"
-     },
-     "v": {
-      "ru": "14,1 млн (сейчас 9,6 млн)",
-      "en": "14.1 million (now 9.6 million)",
-      "kk": "14,1 млн (қазір 9,6 млн)",
-      "de": "14,1 Millionen (derzeit 9,6 Millionen)",
-      "es": "14,1 millones (actualmente 9,6 millones)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Прирост с диабетом и преддиабетом в Турции, 2010–2021",
-      "en": "Increase in diabetes and prediabetes in Türkiye, 2010–2021",
-      "kk": "Түркиядегі диабет пен преддиабет өсімі, 2010–2021",
-      "de": "Zuwachs bei Diabetes und Prädiabetes in der Türkei, 2010–2021",
-      "es": "Aumento de diabetes y prediabetes en Turquía, 2010–2021"
-     },
-     "v": {
-      "ru": "+5,7 млн (2,4 млн с диабетом и 3,3 млн с преддиабетом)",
-      "en": "+5.7 million (2.4 million with diabetes and 3.3 million with prediabetes)",
-      "kk": "+5,7 млн (2,4 млн диабет, 3,3 млн преддиабет)",
-      "de": "+5,7 Millionen (2,4 Millionen mit Diabetes und 3,3 Millionen mit Prädiabetes)",
-      "es": "+5,7 millones (2,4 millones con diabetes y 3,3 millones con prediabetes)"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nbGs_b2M9NQ",
-   "cat": "market",
-   "date": "2026-11-16",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "Novo Nordisk прекращает выпуск шприц-ручек с человеческим инсулином",
-    "en": "Novo Nordisk ends human insulin pens",
-    "kk": "Novo Nordisk адам инсулині бар қалам-шприцтерді өндіруді тоқтатады",
-    "de": "Novo Nordisk stellt Humaninsulin-Pens ein",
-    "es": "Novo Nordisk deja de fabricar plumas de insulina humana"
-   },
-   "text": {
-    "ru": "Novo Nordisk прекращает выпуск шприц-ручек с человеческим инсулином. Заметка связана с новым руководством ВОЗ по диабету 1 типа у детей, которое поддерживает человеческий инсулин.",
-    "en": "Novo Nordisk is ending its human insulin pens. The news comes alongside a WHO guideline on type 1 diabetes that backs human insulin.",
-    "kk": "Novo Nordisk адам инсулині бар қалам-шприцтерді өндіруді тоқтатады. Жаңалық 1-тип диабеті бойынша ДДҰ нұсқаулығымен қатар шықты, ол адам инсулинін қолдайды.",
-    "de": "Novo Nordisk stellt seine Humaninsulin-Pens ein. Die Meldung erscheint zeitgleich mit einer WHO-Leitlinie zu Typ-1-Diabetes, die Humaninsulin unterstützt.",
-    "es": "Novo Nordisk deja de fabricar sus plumas de insulina humana. La noticia coincide con una guía de la OMS sobre diabetes tipo 1 que respalda la insulina humana."
-   },
-   "url": "https://www.techtimes.com/articles/330772/20261115/who-type-1-diabetes-guideline-backs-human-insulin-novo-nordisk-ends-human-insulin-pens.htm",
-   "src": "Tech Times",
-   "photoQuery": "insulin pen close-up",
-   "photo": {
-    "id": "u_NiXMv9iFN1c",
-    "url": "https://images.unsplash.com/photo-1745939912168-cc7333d65327?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQ3OTg4NjB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Haberdoedas",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-blue-insulin-pen-rests-on-a-white-surface-NiXMv9iFN1c?utm_source=dia_news&utm_medium=referral",
-    "alt": "A blue insulin pen rests on a white surface"
-   },
-   "body": {
-    "ru": "Всемирная организация здравоохранения выпустила первые рекомендации для взрослых с сахарным диабетом 1 типа, объявленные 14 ноября ко Всемирному дню диабета. Человеческий инсулин в них назван подходящим и эффективным вариантом; его предпочитают за обычно более низкую стоимость, при этом аналоги инсулина по-прежнему допускаются. Документ сильно рекомендует несколько инъекций в день с дозами, подбираемыми по показаниям глюкометра.\n\nNovo Nordisk, крупный производитель инсулина, сообщила Reuters, что прекращает выпуск шприц-ручек с человеческим инсулином и будет продавать его только во флаконах, но срок не назвала. Аналоговые ручки продолжат выпускаться. Регулятор Австралии ожидает прекращения поставок картриджей Protaphane и Actrapid Penfill в декабре 2026 года. Médecins Sans Frontières и T1International раскритиковали решение; опрос MSF показал, что 82% опрошенных предпочитают ручки шприцам.\n\nКонтроль глюкозы — ещё одна проблема. Там, где анализ крови недоступен, рекомендация допускает тесты мочи на глюкозу, однако лабораторные указания предупреждают: полоски не отличают нормальный уровень сахара в крови от гипогликемии, поэтому опасное снижение может остаться незамеченным. Сводка рекомендаций сообщает о 14 пунктах, из которых один сильный и 13 условных, а также о целевом HbA1c 7% и ниже (53 ммоль/моль) для большинства взрослых.\n\nДискуссия о доказательствах и стоимости продолжается. Кокрейновский обзор показал тяжёлую гипогликемию у 8,5% пациентов на детемире против 11,5% на NPH, а для гларгина доверительный интервал включает отсутствие разницы. Анализ 2018 года оценил биоаналог обычного человеческого инсулина в $48–71 на пациента в год, против $78–108 за гларгин. Петиция T1International 2026 года, подписанная более чем 250 людьми, просит ВОЗ сделать аналоги и ручки стандартом помощи; рекомендация выполняет эту просьбу лишь частично.\n\nВОЗ оценивает число живущих с сахарным диабетом 1 типа в 9,5 млн человек во всём мире; около 500 000 получили диагноз в 2025 году. Отдельная рекомендация для детей и подростков до 19 лет датирована 13 ноября. Ключевой вопрос — дойдёт ли рекомендованный инсулин до пациентов в форме, которая позволяет точно дозировать, и будут ли надёжные средства контроля глюкозы. Это новость, а не медицинская рекомендация; пациентам стоит обсуждать лечение с врачом.",
-    "en": "The World Health Organization has issued its first guidelines for adults with type 1 diabetes, announced November 14 for World Diabetes Day. It describes human insulin as an appropriate, effective option and favors it because it is generally cheaper, while analog insulins may still be used. The guideline strongly recommends multiple daily injections with doses adjusted to blood glucose readings.\n\nNovo Nordisk, a major insulin maker, told Reuters it is phasing out human insulin pens and will sell that insulin only in vials, though it gave no timeline. Analog pens will continue. Australia's regulator expects the Protaphane and Actrapid Penfill cartridges to be discontinued in December 2026. Médecins Sans Frontières and T1International criticized the move, and an MSF survey found that 82% of respondents prefer pens to syringes.\n\nGlucose monitoring is another concern. Where blood testing is unavailable, the guideline allows urine glucose tests, yet laboratory guidance warns that these strips cannot tell normal blood sugar from hypoglycemia, so a dangerous low can go undetected. A news summary of the document reports 14 recommendations, one strong and 13 conditional, plus an HbA1c target of 7% or lower (53 mmol/mol) for most adults.\n\nThe evidence and cost debate continues. A Cochrane review found severe hypoglycemia in 8.5% of people on detemir versus 11.5% on NPH, but for glargine the confidence interval includes no difference. A 2018 analysis estimated biosimilar regular human insulin at $48 to $71 per patient per year, versus $78 to $108 for glargine. A 2026 T1International petition, signed by more than 250 people, asks WHO to make analogs and pens standard care, a request the guideline meets only partly.\n\nWHO puts the number of people living with type 1 diabetes at 9.5 million worldwide, with about 500,000 newly diagnosed in 2025. A separate guideline for children and adolescents up to 19 was dated November 13. The key question is whether the recommended insulin will reach patients in a form they can dose accurately, with reliable glucose checks. This is news, not medical advice; patients should consult their clinicians.",
-    "kk": "Дүниежүзілік денсаулық сақтау ұйымы (ДДҰ) 1-типті қант диабеті бар ересектерге арналған алғашқы нұсқаулығын шығарды; ол 14 қарашада Дүниежүзілік диабет күніне орай жарияланды. Нұсқаулықта адам инсулині тиімді әрі лайықты таңдау ретінде сипатталады және ол әдетте арзан болғандықтан артық көрсетіледі, ал инсулин аналогтарына да рұқсат етіледі. Құжат күніне бірнеше рет инъекция жасауды қатты ұсынады, дозалар қант деңгейін өлшеу нәтижелеріне қарай реттеледі.\n\nИнсулин өндірушілердің бірі Novo Nordisk Reuters агенттігіне адам инсулинімен жұмыс істейтін қалам-шприцтерді біртіндеп тоқтатып, мұндай инсулинді тек флакондарда сататынын айтты, бірақ мерзім атаған жоқ. Аналогтық қалам-шприцтер өндірілуін жалғастырады. Австралия реттеушісі Protaphane және Actrapid Penfill картридждерінің 2026 жылдың желтоқсанында тоқтатылуын күтеді. Médecins Sans Frontières және T1International бұл шешімді сынға алды; MSF сауалнамасы жауап берушілердің 82%-ы шприцтерден гөрі қаламдарды жақсы көретінін анықтады.\n\nҚант деңгейін бақылау тағы бір мәселе. Қан тексеруі мүмкін болмаған жерде нұсқаулық зәрдегі глюкозаны тексеруге рұқсат береді, бірақ зертханалық нұсқаулар мұндай сынауыштардың қалыпты қан қантын гипогликемиядан ажыратпайтынын ескертеді, сондықтан қауіпті төмендеу байқалмай қалуы мүмкін. Нұсқаулық туралы жаңалық шолуында 14 ұсыныс бар екені, оның біреуі күшті, 13-і шартты екені және ересектердің көпшілігі үшін HbA1c мақсаты 7% немесе одан төмен (53 ммоль/моль) екені айтылады.\n\nДәлелдер мен құн туралы пікірталас әлі жалғасуда. Cochrane шолуы детемирді қабылдаушылардың 8,5%-ында, NPH қабылдаушылардың 11,5%-ында ауыр гипогликемия байқалғанын көрсетті; гларгин үшін сенімділік аралығында айырмашылық жоқ. 2018 жылғы талдау биоаналог адам инсулинінің бір науқасқа жылына $48–71, ал гларгинге $78–108 құрайтынын бағалады. 2026 жылғы T1International петициясы, оған 250-ден астам адам қол қойған, ДДҰ-дан аналогтар мен қаламдарды барлығына стандартты көмек ету керек деп талап етеді; нұсқаулық бұл талапты тек ішінара орындайды.\n\nДДҰ мәліметінше, дүниежүзінде 1-типті қант диабетімен 9,5 миллион адам өмір сүреді, ал 2025 жылы шамамен 500 000 адамға диагноз қойылған. 19 жасқа дейінгі балалар мен жасөспірімдерге арналған бөлек нұсқаулық 13 қарашамен белгіленген. Негізгі сұрақ — ұсынылған инсулин пациенттерге дозаны дәл есептеуге мүмкіндік беретін түрде және сенімді қант бақылауымен жете ма. Бұл жаңалық, медициналық кеңес емес; науқастар емдеу туралы дәрігерімен кеңесуі керек.",
-    "de": "Die Weltgesundheitsorganisation (WHO) hat ihre ersten Leitlinien für Erwachsene mit Typ-1-Diabetes veröffentlicht, angekündigt am 14. November zum Weltdiabetestag. Humaninsulin wird darin als angemessene, wirksame Option beschrieben und wegen seiner in der Regel niedrigeren Kosten bevorzugt, während Insulinanaloga weiterhin zulässig bleiben. Die Leitlinie empfiehlt nachdrücklich mehrere tägliche Injektionen, deren Dosis an die Blutzuckerwerte angepasst wird.\n\nNovo Nordisk, ein großer Insulinhersteller, teilte Reuters mit, dass Humaninsulin-Pens auslaufen und dieses Insulin nur noch in Fläschchen verkauft werde; einen Zeitplan nannte das Unternehmen nicht. Analog-Pens werden weiter angeboten. Die australische Aufsichtsbehörde erwartet, dass die Protaphane- und Actrapid-Penfill-Kartuschen im Dezember 2026 eingestellt werden. Médecins Sans Frontières und T1International kritisierten den Schritt; eine MSF-Umfrage ergab, dass 82 % der Befragten Pens gegenüber Spritzen bevorzugen.\n\nDie Glukosekontrolle ist ein weiteres Problem. Wo Bluttests nicht verfügbar sind, lässt die Leitlinie Urin-Glukosetests zu, doch Laborhinweise warnen, dass diese Teststreifen normalen Blutzucker nicht von einer Hypoglykämie unterscheiden können; eine gefährliche Unterzuckerung bleibt so womöglich unbemerkt. Eine Nachrichtenzusammenfassung nennt 14 Empfehlungen, davon eine starke und 13 bedingte, sowie für die meisten Erwachsenen einen HbA1c-Zielwert von 7 % oder darunter (53 mmol/mol).\n\nDie Debatte über Evidenz und Kosten geht weiter. Ein Cochrane-Review fand schwere Hypoglykämien bei 8,5 % der Menschen mit Detemir gegenüber 11,5 % mit NPH; bei Glargin schließt das Konfidenzintervall keinen Unterschied aus. Eine Analyse von 2018 schätzte Biosimilar-Normalinsulin auf 48 bis 71 US-Dollar pro Patient und Jahr, Glargin auf 78 bis 108 US-Dollar. Eine T1International-Petition von 2026, unterzeichnet von mehr als 250 Menschen, fordert, Analoga und Pens für alle zur Standardversorgung zu machen; die Leitlinie erfüllt das nur teilweise.\n\nDie WHO gibt an, dass weltweit 9,5 Millionen Menschen mit Typ-1-Diabetes leben, und etwa 500.000 Menschen erhielten 2025 neu die Diagnose. Eine eigene Leitlinie für Kinder und Jugendliche bis 19 Jahre ist auf den 13. November datiert. Entscheidend ist, ob das empfohlene Insulin Patienten in einer Form erreicht, die genaues Dosieren erlaubt, und ob verlässliche Glukosekontrollen verfügbar sind. Dies ist eine Nachricht, keine medizinische Beratung; Betroffene sollten mit ihrem Arzt sprechen.",
-    "es": "La Organización Mundial de la Salud publicó sus primeras guías para adultos con diabetes tipo 1, anunciadas el 14 de noviembre con motivo del Día Mundial de la Diabetes. Describe la insulina humana como una opción adecuada y eficaz y la prefiere por ser en general más barata, aunque siguen permitidas las insulinas análogas. La guía recomienda con firmeza varias inyecciones diarias, con dosis ajustadas a las lecturas de glucosa en sangre.\n\nNovo Nordisk, un importante fabricante de insulina, dijo a Reuters que está retirando gradualmente las plumas de insulina humana y que venderá esa insulina solo en viales, aunque no dio un calendario. Las plumas de análogos continuarán. El regulador australiano prevé que los cartuchos Protaphane y Actrapid Penfill dejen de fabricarse en diciembre de 2026. Médecins Sans Frontières y T1International criticaron el cambio; una encuesta de MSF reveló que el 82 % de los encuestados prefiere las plumas a las jeringas.\n\nEl control de la glucosa es otra preocupación. Cuando no hay análisis de sangre, la guía permite las pruebas de glucosa en orina, pero las guías de laboratorio advierten que esas tiras no distinguen la glucemia normal de la hipoglucemia, por lo que una bajada peligrosa podría pasar desapercibida. Un resumen periodístico de la guía informa de 14 recomendaciones, una fuerte y 13 condicionales, además de un objetivo de HbA1c de 7 % o menos (53 mmol/mol) para la mayoría de los adultos.\n\nEl debate sobre pruebas y costos sigue abierto. Una revisión Cochrane halló hipoglucemia grave en el 8,5 % de quienes usaban detemir frente al 11,5 % con NPH; en el caso de glargina, el intervalo de confianza incluye la ausencia de diferencia. Un análisis de 2018 estimó que la insulina humana regular biosimilar costaría entre 48 y 71 dólares por paciente al año, frente a 78 a 108 dólares de glargina. Una petición de T1International de 2026, firmada por más de 250 personas, pide a la OMS que los análogos y las plumas sean la atención estándar; la guía solo cumple parcialmente esa petición.\n\nLa OMS cifra en 9,5 millones las personas que viven con diabetes tipo 1 en el mundo, y unas 500 000 recibieron el diagnóstico en 2025. Una guía aparte para niños y adolescentes hasta los 19 años tiene fecha del 13 de noviembre. La pregunta clave es si la insulina recomendada llegará a los pacientes en una forma que permita dosificar con precisión y con controles de glucosa fiables. Esta es una noticia, no un consejo médico; los pacientes deben consultar a su profesional de salud."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Людей с диабетом 1 типа в мире",
-      "en": "People living with type 1 diabetes worldwide",
-      "kk": "Дүниежүзінде 1-типті қант диабетімен өмір сүретіндер",
-      "de": "Menschen mit Typ-1-Diabetes weltweit",
-      "es": "Personas con diabetes tipo 1 en el mundo"
-     },
-     "v": {
-      "ru": "9,5 млн",
-      "en": "9.5 million",
-      "kk": "9,5 миллион",
-      "de": "9,5 Millionen",
-      "es": "9,5 millones"
-     }
-    },
-    {
-     "k": {
-      "ru": "Опрошенных, предпочитающих ручки шприцам (опрос MSF)",
-      "en": "Respondents preferring pens over syringes (MSF survey)",
-      "kk": "Қаламдарды шприцтерден артық көретін сауалнамаға қатысушылар (MSF)",
-      "de": "Befragte, die Pens gegenüber Spritzen bevorzugen (MSF-Umfrage)",
-      "es": "Encuestados que prefieren plumas a jeringas (encuesta de MSF)"
-     },
-     "v": {
-      "ru": "82%",
-      "en": "82%",
-      "kk": "82%",
-      "de": "82 %",
-      "es": "82 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Рекомендации ВОЗ для взрослых с диабетом 1 типа",
-      "en": "WHO adult type 1 diabetes recommendations",
-      "kk": "ДДҰ-ның 1-типті қант диабетіне арналған ересектер ұсыныстары",
-      "de": "WHO-Empfehlungen für Erwachsene mit Typ-1-Diabetes",
-      "es": "Recomendaciones de la OMS para adultos con diabetes tipo 1"
-     },
-     "v": {
-      "ru": "14 (1 сильная, 13 условных)",
-      "en": "14 (one strong, 13 conditional)",
-      "kk": "14 (біреуі күшті, 13-і шартты)",
-      "de": "14 (eine stark, 13 bedingt)",
-      "es": "14 (una fuerte, 13 condicionales)"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nQlQ_b2M9NQ",
-   "cat": "market",
-   "stage": "launch",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "Резидент ОЭЗ «Технополис Москва» запустил молодежную линейку обуви для людей с диабетом",
-    "en": "Technopolis Moscow resident launches youth footwear line for people with diabetes",
-    "kk": "«Технополис Мәскеу» ЭАА резиденті диабеті бар адамдарға арналған жастар аяқ киім желісін іске қосты",
-    "de": "Ein Unternehmen aus der Sonderwirtschaftszone Technopolis Moskau startet eine Jugendschuhlinie für Menschen mit Diabetes",
-    "es": "Una residente de la zona económica Technopolis Moscú lanza una línea de calzado juvenil para personas con diabetes"
-   },
-   "text": {
-    "ru": "Резидент ОЭЗ «Технополис Москва» выпустил молодежную линейку обуви для людей с диабетом.",
-    "en": "A resident of the Technopolis Moscow special economic zone has launched a youth footwear line for people with diabetes.",
-    "kk": "«Технополис Мәскеу» ЭАА резиденті диабеті бар адамдарға арналған жастар аяқ киім желісін шығарды.",
-    "de": "Ein Unternehmen aus der Sonderwirtschaftszone Technopolis Moskau hat eine Jugendschuhlinie für Menschen mit Diabetes auf den Markt gebracht.",
-    "es": "Una residente de la zona económica Technopolis Moscú ha lanzado una línea de calzado juvenil para personas con diabetes."
-   },
-   "url": "https://www.mos.ru/news/item/178514073/",
-   "src": "Официальный сайт Мэра Москвы",
-   "photoQuery": "diabetic footwear sneakers on shelf",
-   "local": true,
-   "photo": {
-    "id": "u_4BO_MSTEmL8",
-    "url": "https://images.unsplash.com/photo-1655655314398-c40c8dc6fb75?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTh8fG1lZGljYWwlMjB0ZWNobm9sb2d5JTIwZGV2aWNlfGVufDF8MHx8fDE3OTQ3OTg4NjF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sam Moghadam",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-medical-device-with-a-screen-4BO_MSTEmL8?utm_source=dia_news&utm_medium=referral",
-    "alt": "a medical device with a screen"
-   },
-   "body": {
-    "ru": "Резидент ОЭЗ «Технополис Москва» приурочил к Всемирному дню борьбы с диабетом запуск линейки лечебной обуви. Специальные изделия призваны не допустить появления заболеваний, связанных с диабетом. Об этом 15 ноября сообщил заместитель мэра Москвы по транспорту и промышленности Максим Ликсутов.\n\nПо его словам, город поддерживает социально значимые производства. За последние пять лет резидент выпустил 10 коллекций лечебной обуви, а в этом году добавил линейку для людей с диабетом. С начала работы предприятие подготовило более 500 наименований продукции на сумму свыше 1,3 миллиарда рублей. Только за последние пять лет выпуск такой обуви составил 80 тысяч пар.\n\nПроизводитель — компания «Ортомода», которая работает на стыке медицины, реабилитации, легкой промышленности и IT. Первые модели для диабетиков создавались вместе с Эндокринологическим научным центром РАМН. Сейчас у фирмы есть собственная исследовательская группа и дизайн-лаборатория, а ежегодно до 10 процентов оборотных средств уходит на научно-исследовательские работы. Обувь для диабетической стопы занимает 30 процентов общего объема.\n\nТакие модели имеют минимум швов, а стелька обладает эффектом «антипамяти», который помогает выпрямлять заломы. В производстве применяются материалы, в том числе с нитями серебра. Посадку контролируют 10 ортопедов, а медицинское подразделение с современным диагностическим оборудованием помогает определить степень деформации стопы и нарушения опорно-двигательного аппарата.\n\nВ материале не говорится о ценах, продажах новой линейки или данных клинических испытаний. Особая экономическая зона отмечает в 2026 году 20-летие: на 10 площадках площадью 430 гектаров работают более 250 высокотехнологичных предприятий. Развитием зоны занимается столичный Департамент инвестиционной и промышленной политики. Дальнейших шагов в статье не описано.",
-    "en": "A resident of Moscow's Technopolis special economic zone has launched a line of therapeutic footwear for people with diabetes, timed to World Diabetes Day. Deputy Mayor Maxim Liksutov, who oversees transport and industry, announced the launch on November 15, 2026.\n\nLiksutov said the city actively backs socially important manufacturers. Over the past five years the resident has produced ten collections of therapeutic footwear, and this year it added a range designed for people with diabetes. Since it started, the company has made more than 500 product items worth over 1.3 billion rubles. In the last five years alone, output of such footwear reached 80,000 pairs.\n\nThe manufacturer, Ortomoda, works at the meeting point of medicine, rehabilitation, light industry and IT. Its first diabetes shoe models were developed with the Endocrinology Research Center of the Russian Academy of Medical Sciences. The firm now has its own research group and design lab, and each year it puts up to 10 percent of its working capital into R&D. Footwear for the diabetic foot accounts for 30 percent of total output.\n\nThese models have very few seams, and the insole has an \"anti-memory\" property that helps smooth out creases. Materials include some with silver threads. Ten orthopedists check the fit, and an in-house medical unit with modern diagnostic equipment helps determine the degree of foot deformity and musculoskeletal problems.\n\nThe article gives no prices, sales figures for the new line, or clinical trial data. The zone, which marks its 20th anniversary in 2026, spans 10 sites covering 430 hectares and hosts more than 250 high-tech enterprises. Its development is handled by Moscow's investment and industrial policy department. The article does not describe any next steps.",
-    "kk": "Мәскеудің «Технополис Мәскеу» арнайы экономикалық аймағының резиденті Бүкіләлемдік диабет күніне орайластырып, диабеті бар адамдарға арналған емдік аяқ киім желісін іске қосты. Көлік және өнеркәсіп мәселелеріне жауапты Мәскеу мэрінің орынбасары Максим Ликсутов бұл туралы 2026 жылғы 15 қарашада хабарлады.\n\nЛиксутовтың айтуынша, қала әлеуметтік маңызды өндірістерді белсенді қолдайды. Соңғы бес жылда резидент емдік аяқ киімнің 10 коллекциясын шығарған, ал биыл диабеті бар адамдарға арналған желі қосылған. Жұмыс басталғаннан бері компания құны 1,3 миллиард рубльден асатын 500-ден астам өнім атауын дайындаған. Тек соңғы бес жылда мұндай аяқ киім өндірісі 80 мың жұпқа жеткен.\n\nӨндіруші — «Ортомода» компаниясы; ол медицина, реабилитация, жеңіл өнеркәсіп және IT тоғысында жұмыс істейді. Алғашқы диабетке арналған үлгілер Ресей медицина ғылымдары академиясының Эндокринология ғылыми орталығымен бірлесіп әзірленген. Қазір фирманың өз ғылыми-зерттеу тобы және дизайн зертханасы бар, ал жыл сайын ол айналым капиталының 10 пайызына дейінін ҒЗТКЖ-ға жұмсайды. Диабеттік табанға арналған аяқ киім жалпы көлемнің 30 пайызын алады.\n\nМұндай үлгілерде тігіс аз, ал ішкі табанда қатпарларды тегістеуге көмектесетін «антижад» әсері бар. Материалдарда күміс жіптер бар нұсқалар да қолданылады. Аяққа дәл отыруын 10 ортопед бақылайды; заманауи диагностикалық жабдығы бар медициналық бөлім табанның деформация дәрежесін және қозғалыс-тірек аппаратының бұзылыстарын анықтауға көмектеседі.\n\nМақалада бағасы, жаңа желінің сатылым көрсеткіштері немесе клиникалық сынақ деректері көрсетілмеген. 2026 жылы 20 жасқа толатын аймақ 430 гектар аумақта 10 алаңды алып жатыр және 250-ден астам жоғары технологиялық кәсіпорынды біріктіреді. Оның дамуын Мәскеудің инвестициялық және өнеркәсіптік саясат департаменті жүзеге асырады. Мақалада келесі қадамдар сипатталмаған.",
-    "de": "Ein Resident der Sonderwirtschaftszone „Technopolis Moskau“ hat zum Welttag des Diabetes eine Linie therapeutischer Schuhe für Menschen mit Diabetes auf den Markt gebracht. Den Start verkündete der stellvertretende Moskauer Bürgermeister für Verkehr und Industrie, Maxim Liksutow, am 15. November 2026.\n\nLaut Liksutow unterstützt die Stadt gesellschaftlich wichtige Produktionen aktiv. In den vergangenen fünf Jahren hat der Resident zehn Kollektionen therapeutischer Schuhe entwickelt; in diesem Jahr kam die Linie für Menschen mit Diabetes hinzu. Seit Beginn wurden mehr als 500 Produktbezeichnungen im Wert von über 1,3 Milliarden Rubel gefertigt. Allein in den letzten fünf Jahren belief sich der Ausstoß solcher Schuhe auf 80.000 Paar.\n\nDer Hersteller „Ortomoda“ bewegt sich an der Schnittstelle von Medizin, Rehabilitation, Leichtindustrie und IT. Die ersten Modelle für Diabetiker entstanden gemeinsam mit dem Endokrinologischen Forschungszentrum der Russischen Akademie der Medizinischen Wissenschaften. Heute verfügt das Unternehmen über eine eigene Forschungsgruppe und ein Designlabor und investiert jährlich bis zu 10 Prozent seines Umlaufvermögens in Forschung und Entwicklung. Schuhe für den diabetischen Fuß machen 30 Prozent des Gesamtvolumens aus.\n\nDiese Modelle haben nur wenige Nähte, und die Einlegesohle soll durch einen „Anti-Gedächtnis“-Effekt Falten glätten. Eingesetzt werden unter anderem Materialien mit Silberfäden. Zehn Orthopäden achten auf die passgenaue Passform; eine medizinische Abteilung mit moderner Diagnostik hilft, das Ausmaß von Fußdeformitäten und Problemen des Bewegungsapparats zu bestimmen.\n\nDer Beitrag nennt weder Preise noch Verkaufszahlen der neuen Linie oder Daten zur klinischen Wirksamkeit. Die Sonderwirtschaftszone feiert 2026 ihr 20-jähriges Bestehen; sie umfasst 10 Standorte auf 430 Hektar und beherbergt mehr als 250 Hightech-Unternehmen. Für ihre Entwicklung ist die Moskauer Behörde für Investitions- und Industriepolitik zuständig. Nächste Schritte beschreibt der Artikel nicht.",
-    "es": "Una empresa residente de la zona económica especial «Technopolis Moscú» lanzó una línea de calzado terapéutico para personas con diabetes, coincidiendo con el Día Mundial de la Diabetes. El anuncio lo hizo el 15 de noviembre de 2026 el vicealcalde de Moscú para transporte e industria, Maxim Liksutov.\n\nSegún Liksutov, la ciudad respalda activamente a los productores de interés social. En los últimos cinco años, la empresa creó diez colecciones de calzado terapéutico, y este año añadió la línea dirigida a personas con diabetes. Desde su inicio, ha fabricado más de 500 artículos por un valor superior a 1.300 millones de rublos. Solo en los últimos cinco años, la producción de este tipo de calzado alcanzó los 80.000 pares.\n\nEl fabricante, Ortomoda, opera en la intersección de la medicina, la rehabilitación, la industria ligera y las TI. Los primeros modelos para diabéticos se desarrollaron junto con el Centro Científico de Endocrinología de la Academia Rusa de Ciencias Médicas. Hoy cuenta con su propio grupo de investigación y laboratorio de diseño, y cada año destina hasta el 10 % de su capital circulante a investigación y desarrollo. El calzado para el pie diabético representa el 30 % de su volumen total.\n\nEstos modelos tienen muy pocas costuras, y la plantilla incorpora un efecto «antimemoria» que alisa los pliegues. Algunos materiales llevan hilos de plata. Diez ortopedistas supervisan el ajuste, y una unidad médica interna, equipada con diagnóstico moderno, ayuda a determinar el grado de deformidad del pie y las alteraciones del aparato locomotor.\n\nEl texto no indica precios, cifras de ventas de la nueva línea ni datos de eficacia clínica. La zona, que cumple 20 años en 2026, ocupa 430 hectáreas en 10 emplazamientos y alberga más de 250 empresas de alta tecnología; su desarrollo corre a cargo del departamento de política inversora e industrial de Moscú. El artículo no describe próximos pasos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Выпуск обуви за последние пять лет",
-      "en": "Footwear output over the last five years",
-      "kk": "Соңғы бес жылдағы аяқ киім өндірісі",
-      "de": "Schuhproduktion in den letzten fünf Jahren",
-      "es": "Producción de calzado en los últimos cinco años"
-     },
-     "v": {
-      "ru": "80 тысяч пар",
-      "en": "80,000 pairs",
-      "kk": "80 мың жұп",
-      "de": "80.000 Paar",
-      "es": "80.000 pares"
-     }
-    },
-    {
-     "k": {
-      "ru": "Общий выпуск с начала работы",
-      "en": "Total output since the start",
-      "kk": "Жұмыс басталғаннан бері жалпы өндіріс",
-      "de": "Gesamtproduktion seit Beginn",
-      "es": "Producción total desde el inicio"
-     },
-     "v": {
-      "ru": "более 500 наименований на сумму свыше 1,3 млрд рублей",
-      "en": "more than 500 items worth over 1.3 billion rubles",
-      "kk": "1,3 миллиард рубльден асатын құнға 500-ден астам атау",
-      "de": "über 500 Artikel im Wert von über 1,3 Mrd. Rubel",
-      "es": "más de 500 artículos por un valor superior a 1.300 millones de rublos"
-     }
-    },
-    {
-     "k": {
-      "ru": "Доля обуви для диабетической стопы в общем объеме",
-      "en": "Share of diabetic-foot footwear in total output",
-      "kk": "Диабеттік табанға арналған аяқ киімнің жалпы көлемдегі үлесі",
-      "de": "Anteil der Schuhe für den diabetischen Fuß am Gesamtvolumen",
-      "es": "Proporción del calzado para el pie diabético en el volumen total"
-     },
-     "v": {
-      "ru": "30 процентов",
-      "en": "30 percent",
-      "kk": "30 пайыз",
-      "de": "30 Prozent",
-      "es": "30 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nDNFP29jPTU",
-   "cat": "events",
-   "stage": "campaign",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "В ТЦ «Мега» омичам измерили глюкозу и давление в рамках акции «Стоп, диабет!»",
-    "en": "Omsk residents had glucose and blood pressure checked at Mega mall in the 'Stop, diabetes!' campaign",
-    "kk": "«Мега» СОО-да «Стоп, диабет!» акциясы аясында омбылықтардың глюкозасы мен қан қысымы өлшенді",
-    "de": "Im Einkaufszentrum Mega in Omsk wurden im Rahmen der Aktion „Stopp, Diabetes!“ Blutzucker und Blutdruck gemessen",
-    "es": "En el centro comercial Mega de Omsk se midieron la glucosa y la presión arterial en la campaña «¡Alto, diabetes!»"
-   },
-   "text": {
-    "ru": "В омском торговом центре «Мега» в рамках акции «Стоп, диабет!» проводились измерения уровня глюкозы и давления.",
-    "en": "As part of the 'Stop, diabetes!' campaign, glucose and blood pressure were measured at the Mega shopping center in Omsk.",
-    "kk": "«Стоп, диабет!» акциясы аясында Омбыдағы «Мега» СОО-да глюкоза мен қан қысымы өлшенді.",
-    "de": "Im Rahmen der Aktion „Stopp, Diabetes!“ wurden im Einkaufszentrum Mega in Omsk Blutzucker und Blutdruck gemessen.",
-    "es": "Como parte de la campaña «¡Alto, diabetes!», se midieron la glucosa y la presión arterial en el centro comercial Mega de Omsk."
-   },
-   "url": "https://bk55.ru/news/article/262729/",
-   "src": "bk55.ru",
-   "photoQuery": "blood glucose meter lancet",
-   "local": true,
-   "photo": {
-    "id": "u_ZJaK9jQXeDA",
-    "url": "https://images.unsplash.com/photo-1624454002429-40ed87a5ec04?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBnbHVjb3NlJTIwbWV0ZXIlMjBsYW5jZXR8ZW58MXwwfHx8MTc5NDc5ODg2Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Towfiqu barbhuiya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=dia_news&utm_medium=referral",
-    "alt": "white digital device beside white pen"
-   },
-   "body": {
-    "ru": "В торговом центре «Мега» в Омске прошла акция «Стоп, диабет!». Любой желающий мог проверить уровень глюкозы и артериальное давление. Мероприятие приурочили к неделе профилактики сахарного диабета и Всемирному дню борьбы с диабетом.\n\nПо словам регионального Минздрава, специалисты Омского областного центра общественного здоровья и медицинской профилактики вместе с омским филиалом «СОГАЗ-Мед» организовали на временной площадке пятиминутный чекап. Посетителям исследовали капиллярную кровь на глюкозу, измеряли давление, объём талии, индекс массы тела и процент жировой массы с помощью жироанализатора.\n\nПо итогам обследования врачи давали советы, как изменить образ жизни, чтобы снизить риск хронических неинфекционных болезней, в том числе диабета. Тем, у кого уровень глюкозы оказался высоким, рекомендовали обратиться к участковому врачу и пройти диспансеризацию. Каждый участник получил памятку о симптомах, профилактике и факторах риска: курении, артериальной гипертонии, стрессе и ожирении.\n\nМедики напомнили, что диабет 2-го типа тесно связан с образом жизни, а регулярные осмотры помогают выявить обратимые нарушения до того, как понадобятся лекарства. Замдиректора омского филиала «СОГАЗ-Мед» Марина Тиванова отметила, что страховая компания информирует застрахованных, контролирует качество медпомощи и побуждает людей вовремя проходить обследования.\n\nВ материале не указано, сколько человек прошли тестирование и сколько длилась акция.",
-    "en": "The \"Stop, diabetes!\" campaign took place at the Mega shopping center in Omsk, where anyone interested could check their blood glucose and blood pressure. It was timed to coincide with diabetes prevention week and World Diabetes Day.\n\nAccording to the regional health ministry, specialists from the Omsk regional center for public health and medical prevention, together with the Omsk branch of SOGAZ-Med, set up a five-minute checkup at a temporary site. Visitors had capillary blood tested for glucose, and their blood pressure, waist size, body mass index and body fat percentage were measured with a body-fat analyzer.\n\nBased on the results, doctors offered advice on changing daily habits to lower the risk of chronic non-communicable diseases, including diabetes. People with high glucose levels were advised to see their district doctor and undergo a dispensary health screening. Each participant also received a leaflet covering symptoms, prevention and risk factors such as smoking, arterial hypertension, stress and obesity.\n\nMedics reminded the public that type 2 diabetes is closely tied to lifestyle, and that regular check-ups can reveal reversible disorders before medication becomes necessary. Marina Tivanova, deputy director of the Omsk branch of SOGAZ-Med, said the insurer informs its policyholders, monitors the quality of medical care and encourages people to get screened on time.\n\nThe report does not say how many people took the tests or how long the campaign lasted.",
-    "kk": "Омбының «Мега» сауда орталығында «Стоп, диабет!» науқаны өтті, онда қаласаған кез келген адам глюкоза деңгейін және артериялық қан қысымын тексере алды. Іс-шара диабетті алдын алу аптасымен және Дүниежүзілік диабет күнімен бір уақытқа сәйкестендірілді.\n\nАймақтық денсаулық сақтау министрлігінің мәліметінше, Омбы облыстық қоғамдық денсаулық және медициналық профилактика орталығының мамандары «СОГАЗ-Мед» Омбы филиалымен бірлесіп, уақытша алаңда бес минуттық чекап ұйымдастырды. Келушілердің капиллярлық қанындағы глюкоза зерттелді, қан қысымы, бел көлемі, дене массасы индексі және жироанализатор көмегімен май массасының пайызы өлшенді.\n\nТексеру нәтижелері бойынша дәрігерлер диабетті қоса алғанда, созылмалы жұқпалы емес аурулардың қаупін азайту үшін өмір салтын өзгерту жөнінде кеңес берді. Глюкоза деңгейі жоғары шыққандарға участкелік дәрігерге қаралып, диспансерлік тексеруден өту ұсынылды. Әр қатысушы белгілері, алдын алу шаралары және темекі шегу, артериялық гипертензия, стресс пен семіздік сияқты қауіп факторлары туралы жадынама алды.\n\nМедиктер 2-ші типті диабеттің өмір салтымен тығыз байланысты екенін және тұрақты тексерулер дәрі қажет болғанға дейін қайтымды бұзылыстарды анықтауға көмектесетінін еske салды. «СОГАЗ-Мед» Омбы филиалының директор орынбасары Марина Тиванова сақтандыру компаниясы сақтанушыларды хабардар етіп, медициналық көмек сапасын бақылап, адамдарды уақытында тексерілуге ынталандыратынын айтты.\n\nМатериалда тестіден өткен адамдар саны мен науқанның қанша уақыт созылғаны көрсетілмеген.",
-    "de": "Im Einkaufszentrum „Mega“ in Omsk fand die Aktion „Stopp, Diabetes!“ statt, bei der alle Interessierten ihren Blutzucker und ihren Blutdruck messen lassen konnten. Sie war auf die Woche der Diabetesvorbeugung und den Weltdiabetestag abgestimmt.\n\nLaut dem regionalen Gesundheitsministerium richteten Fachleute des Omsker Regionalzentrums für öffentliche Gesundheit und medizinische Vorbeugung gemeinsam mit der Omsker Niederlassung von „SOGAZ-Med“ an einem provisorischen Standort einen fünfminütigen Check-up ein. Dabei wurde der Glukosewert aus dem Kapillarblut bestimmt; außerdem erfassten die Teams Blutdruck, Taillenumfang, Body-Mass-Index und den Körperfettanteil mit einem Fettanalysegerät.\n\nAuf Grundlage der Werte gaben Ärztinnen und Ärzte Empfehlungen zur Veränderung des Lebensstils, um das Risiko chronischer nichtübertragbarer Erkrankungen, darunter Diabetes, zu senken. Personen mit erhöhtem Glukosewert wurde geraten, ihren Bezirksarzt aufzusuchen und die in Russland übliche Routineuntersuchung (Dispansierisierung) wahrzunehmen. Jeder Teilnehmer erhielt außerdem ein Merkblatt zu Symptomen, Vorbeugung und Risikofaktoren wie Rauchen, Bluthochdruck, Stress und Adipositas.\n\nMediziner erinnerten daran, dass Typ-2-Diabetes eng mit dem Lebensstil zusammenhängt und regelmäßige Kontrollen reversible Störungen erkennen lassen, bevor Medikamente nötig werden. Marina Tivanova, stellvertretende Leiterin der Omsker Niederlassung von „SOGAZ-Med“, sagte, die Versicherung informiere Versicherte, überwache die Qualität der medizinischen Versorgung und rege dazu an, Untersuchungen rechtzeitig wahrzunehmen.\n\nDer Bericht nennt weder die Zahl der Teilnehmenden noch die Dauer der Aktion.",
-    "es": "En el centro comercial «Mega» de Omsk se celebró la campaña «¡Alto, diabetes!», en la que cualquier persona interesada podía comprobar su nivel de glucosa y su presión arterial. El evento se programó para coincidir con la semana de prevención de la diabetes y con el Día Mundial de la Diabetes.\n\nSegún el Ministerio de Salud regional, especialistas del Centro Regional de Salud Pública y Prevención Médica de Omsk, junto con la sucursal de Omsk de «SOGAZ-Med», montaron en un espacio provisional un chequeo de cinco minutos. Se analizó la glucosa en sangre capilar y se midieron la presión arterial, el perímetro de cintura, el índice de masa corporal y el porcentaje de grasa corporal con un analizador de grasa.\n\nCon base en esos resultados, los médicos dieron consejos para cambiar hábitos de vida y reducir el riesgo de enfermedades crónicas no transmisibles, entre ellas la diabetes. A quienes tenían la glucosa elevada se les recomendó acudir al médico de cabecera y someterse a un examen de dispensarización. Cada participante recibió un folleto sobre síntomas, medidas preventivas y factores de riesgo como el tabaquismo, la hipertensión arterial, el estrés y la obesidad.\n\nLos profesionales recordaron que la diabetes tipo 2 está estrechamente ligada al estilo de vida y que los controles periódicos permiten detectar alteraciones reversibles antes de que hagan falta medicamentos. Marina Tivanova, subdirectora de la sucursal de Omsk de «SOGAZ-Med», explicó que la aseguradora informa a sus asegurados, vigila la calidad de la atención médica y motiva a acudir a los exámenes a tiempo.\n\nEl texto no indica cuántas personas se hicieron las pruebas ni cuánto duró la campaña."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Продолжительность обследования на площадке",
-      "en": "Duration of the checkup at the site",
-      "kk": "Алаңдағы тексерудің ұзақтығы",
-      "de": "Dauer des Checks auf dem Gelände",
-      "es": "Duración del chequeo en el lugar"
-     },
-     "v": {
-      "ru": "5 минут",
-      "en": "5 minutes",
-      "kk": "5 минут",
-      "de": "5 Minuten",
-      "es": "5 minutos"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nlZFP29jPTU",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "В РФ после пандемии COVID-19 выросла распространённость диабета первого типа",
-    "en": "Type 1 diabetes prevalence in Russia has risen after the COVID-19 pandemic",
-    "kk": "COVID-19 пандемиясынан кейін Ресейде 1-тип қант диабетінің таралуы артты",
-    "de": "Die Verbreitung von Typ-1-Diabetes in Russland ist nach der COVID-19-Pandemie gestiegen",
-    "es": "La prevalencia de la diabetes tipo 1 en Rusia aumentó tras la pandemia de COVID-19"
-   },
-   "text": {
-    "ru": "Сообщается, что после пандемии COVID-19 в России выросла распространённость диабета первого типа.",
-    "en": "Reports indicate that type 1 diabetes prevalence in Russia has increased since the COVID-19 pandemic.",
-    "kk": "Хабарламаларға сәйкес, COVID-19 пандемиясынан кейін Ресейде 1-тип қант диабетінің таралуы артқан.",
-    "de": "Berichten zufolge ist die Verbreitung von Typ-1-Diabetes in Russland seit der COVID-19-Pandemie gestiegen.",
-    "es": "Según las informaciones, la prevalencia de la diabetes tipo 1 en Rusia ha aumentado desde la pandemia de COVID-19."
-   },
-   "url": "https://tatarstan24.tv/news/31917.v-rf-posle-pandemii-covid-19-vyrosla-rasprostranennost-diabeta-pervogo-tipa",
-   "src": "Татарстан 24",
-   "photoQuery": "medical laboratory test tubes",
-   "local": true,
-   "photo": {
-    "id": "u_0jE8ynV4mis",
-    "url": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGxhYm9yYXRvcnklMjB0ZXN0JTIwdHViZXN8ZW58MXwwfHx8MTc5NDc5ODg2Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Testalize.me",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/blood-collection-tubes-in-laboratory-rack-0jE8ynV4mis?utm_source=dia_news&utm_medium=referral",
-    "alt": "Rows of medical blood collection tubes with colorful caps in a laboratory rack"
-   },
-   "body": {
-    "ru": "Директор НМИЦ эндокринологии имени академика Дедова Наталья Мокрышева в интервью РИА Новости сообщила, что в России после пандемии коронавируса число случаев диабета первого типа выросло. По её словам, тяжёлые инфекции способны влиять на иммунную систему и провоцировать аутоиммунные процессы, которые со временем приводят к болезни.\n\nИсследователи зафиксировали больше случаев диабета первого типа у людей, перенёсших COVID-19. При этом сама инфекция не гарантирует заболевания: речь идёт о запуске аутоиммунных реакций лишь у людей с определённой предрасположенностью. Масштабы роста в материале не приводятся.\n\nЭндокринолог отметила, что COVID-19 мог повлиять и на риски диабета второго типа, однако прямая зависимость между инфекцией и этим заболеванием не установлена. Тяжёлое течение болезни может нарушать жировой и углеводный обмен и способствовать метаболическим сбоям. Кроме того, самоизоляция, удалённая работа, меньшая физическая активность и изменения в питании привели к набору веса и ожирению.\n\nМокрышева подчеркнула, что ожирение и малоподвижный образ жизни относятся к значимым факторам риска диабета второго типа. Ожирение можно скорректировать: питание и физическая нагрузка способны уменьшить его влияние.\n\nНеделя борьбы с сахарным диабетом проходит в России с 9 по 15 ноября. Она приурочена ко Всемирному дню борьбы с диабетом и Дню эндокринолога, которые отмечаются 14 ноября.",
-    "en": "Natalia Mokrysheva, director of the Dedov National Medical Research Center for Endocrinology, told RIA Novosti in an interview that the prevalence of type 1 diabetes in Russia has risen since the COVID-19 pandemic. According to her, severe infections can affect the immune system and trigger autoimmune processes that eventually lead to the disease.\n\nResearchers have recorded more cases of type 1 diabetes among people who had COVID-19. However, the infection does not guarantee that a person will develop the disease; it may start autoimmune processes only in people with a certain predisposition. The article does not give figures on the scale of the increase.\n\nThe endocrinologist noted that COVID-19 may also have affected the risks of type 2 diabetes, but no direct link between the infection and this disease has been established. A severe course of illness can disrupt fat and carbohydrate metabolism and contribute to metabolic disorders. In addition, self-isolation, remote work, reduced physical activity and changes in diet led to weight gain and obesity during the pandemic.\n\nMokrysheva stressed that obesity and a sedentary lifestyle are significant risk factors for type 2 diabetes. Obesity is modifiable: changes in diet and more physical activity can reduce its impact.\n\nDiabetes Awareness Week runs in Russia from November 9 to 15. It is timed to World Diabetes Day and Endocrinologist's Day, both marked on November 14.",
-    "kk": "Ресей Федерациясындағы академик И. И. Дедов атындағы эндокринология ұлттық медициналық зерттеу орталығының директоры Наталья Мокрышева РИА Новостиге берген сұхбатында пандемиядан кейін Ресейде 1-типті қант диабеті жиілігі артқанын айтты. Оның сөзінше, ауыр инфекциялар иммундық жүйеге әсер етіп, уақыт өте келе ауруға әкелетін аутоиммундық процестерді іске қосуы мүмкін.\n\nЗерттеушілер COVID-19 ауруын өткізген адамдарда 1-типті қант диабетінің жағдайлары көбейгенін байқаған. Алайда инфекцияның өзі ауруға міндетті түрде әкелмейді: бұл белгілі бір бейімділігі бар адамдарда аутоиммундық реакцияларды бастау мүмкіндігі туралы. Материалда өсудің көлемі туралы деректер берілмеген.\n\nЭндокринолог COVID-19 2-типті қант диабетінің қауіп факторларына да әсер етуі мүмкін екенін атап өтті, бірақ инфекция мен аурудың арасында тікелей байланыс анықталмаған. Ауырлау түрі май және көмірсу алмасуын бұзып, метаболизм ауытқуларына ықпал етуі мүмкін. Сонымен қатар оқшаулану, қашықтан жұмыс, физикалық белсенділіктің азаюы және тамақтану өзгерісі салмақтың артуына және семіздікке әкелді.\n\nМокрышева семіздік пен қозғалыссыз өмір салты 2-типті қант диабетінің маңызды қауіп факторлары екенін атап өтті. Семіздікті түзетуге болады: тамақтану мен дене белсенділігі оның әсерін азайта алады.\n\nРесейде қант диабетімен күрес апталығы 9-нан 15-ке дейін қарашада өтеді. Ол Дүниежүзілік диабет күніне және 14 қарашада аталып өтетін Эндокринолог күніне орайластырылған.",
-    "de": "Natalia Mokrysheva, Direktorin des Dedov-Zentrums für Endokrinologie, sagte in einem Interview mit RIA Novosti, dass die Verbreitung von Typ-1-Diabetes in Russland nach der COVID-19-Pandemie zugenommen hat. Schwere Infektionen könnten das Immunsystem beeinflussen und autoimmune Prozesse auslösen, die später zur Erkrankung führen.\n\nForscher haben bei Menschen, die COVID-19 durchgemacht hatten, mehr Fälle von Typ-1-Diabetes registriert. Die Infektion garantiert jedoch keine Erkrankung; sie kann autoimmune Reaktionen nur bei Menschen mit einer bestimmten Veranlagung anstoßen. Über das Ausmaß des Anstiegs nennt der Artikel keine Zahlen.\n\nDie Endokrinologin merkte an, dass COVID-19 auch die Risiken für Typ-2-Diabetes beeinflusst haben könnte, ein direkter Zusammenhang zwischen Infektion und dieser Krankheit sei aber nicht nachgewiesen. Ein schwerer Krankheitsverlauf kann den Fett- und Kohlenhydratstoffwechsel stören und metabolische Störungen begünstigen. Hinzu kamen Selbstisolation, Homeoffice, weniger Bewegung und veränderte Ernährung, die zu Gewichtszunahme und Adipositas führten.\n\nMokrysheva betonte, dass Adipositas und Bewegungsmangel wichtige Risikofaktoren für Typ-2-Diabetes sind. Adipositas lässt sich beeinflussen: Ernährungsumstellung und mehr körperliche Aktivität können ihre Wirkung verringern.\n\nDie Woche des Kampfes gegen Diabetes findet in Russland vom 9. bis 15. November statt. Sie ist dem Weltdiabetestag und dem Tag des Endokrinologen gewidmet, die jeweils am 14. November begangen werden.",
-    "es": "Natalia Mokrysheva, directora del Centro Nacional de Investigación en Endocrinología Dedov, declaró en una entrevista con RIA Novosti que la prevalencia de la diabetes tipo 1 en Rusia ha aumentado después de la pandemia de COVID-19. Según explicó, las infecciones graves pueden afectar al sistema inmunitario y desencadenar procesos autoinmunes que, con el tiempo, derivan en la enfermedad.\n\nLos investigadores han registrado más casos de diabetes tipo 1 entre personas que pasaron la COVID-19. Sin embargo, la infección no garantiza que una persona vaya a desarrollar la enfermedad; solo podría iniciar procesos autoinmunes en personas con una determinada predisposición. El artículo no ofrece cifras sobre la magnitud del aumento.\n\nLa endocrinóloga señaló que la COVID-19 también podría haber influido en los riesgos de diabetes tipo 2, aunque no se ha establecido una relación directa entre la infección y esta enfermedad. Una evolución grave del cuadro puede alterar el metabolismo de grasas y carbohidratos y favorecer trastornos metabólicos. Además, el aislamiento, el teletrabajo, la menor actividad física y los cambios en la alimentación provocaron aumento de peso y obesidad.\n\nMokrysheva subrayó que la obesidad y el sedentarismo son factores de riesgo importantes para la diabetes tipo 2. La obesidad es modificable: cambios en la dieta y más actividad física pueden reducir su efecto.\n\nLa Semana de la Lucha contra la Diabetes se celebra en Rusia del 9 al 15 de noviembre. Coincide con el Día Mundial de la Diabetes y el Día del Endocrinólogo, que se conmemoran el 14 de noviembre."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Неделя борьбы с сахарным диабетом в России",
-      "en": "Diabetes Awareness Week in Russia",
-      "kk": "Ресейдегі қант диабетімен күрес апталығы",
-      "de": "Woche des Kampfes gegen Diabetes in Russland",
-      "es": "Semana de la Lucha contra la Diabetes en Rusia"
-     },
-     "v": {
-      "ru": "с 9 по 15 ноября",
-      "en": "November 9 to 15",
-      "kk": "қарашаның 9-нан 15-іне дейін",
-      "de": "9. bis 15. November",
-      "es": "del 9 al 15 de noviembre"
-     }
-    }
-   ]
-  },
-  {
-   "id": "n5VUT9vYz01",
-   "cat": "research",
-   "stage": "early",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "Инсулин в таблетках вместо уколов: над чем работают российские учёные",
-    "en": "Insulin in tablets instead of injections: what Russian scientists are developing",
-    "kk": "Инъекцияның орнына таблеткадағы инсулин: ресейлік ғалымдар не әзірлеп жатыр",
-    "de": "Insulin in Tablettenform statt Spritzen: Woran russische Wissenschaftler arbeiten",
-    "es": "Insulina en comprimidos en lugar de inyecciones: en qué trabajan los científicos rusos"
-   },
-   "text": {
-    "ru": "Российские учёные разрабатывают инсулин в таблетках как альтернативу инъекциям. Стадия разработки в заметке не уточняется.",
-    "en": "Russian scientists are developing insulin in tablet form as an alternative to injections. The article does not specify the development stage.",
-    "kk": "Ресейлік ғалымдар инъекциялардың баламасы ретінде таблеткадағы инсулинді әзірлеуде. Мақалада әзірлеу сатысы нақтыланбаған.",
-    "de": "Russische Wissenschaftler entwickeln Insulin in Tablettenform als Alternative zu Injektionen. Der Entwicklungsstand wird im Artikel nicht genannt.",
-    "es": "Científicos rusos desarrollan insulina en comprimidos como alternativa a las inyecciones. El artículo no especifica la fase de desarrollo."
-   },
-   "url": "https://rajonnievesti.ru/novosti/insulin-v-tabletkah-vmesto-ukolov-chto-razrabatyvayut-rossijskie-uchenye/",
-   "src": "Районные вести",
-   "photoQuery": "insulin tablets pills bottle",
-   "local": true,
-   "photo": {
-    "id": "u_w8p9cQDLX7I",
-    "url": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHRhYmxldHMlMjBwaWxscyUyMGJvdHRsZXxlbnwxfDB8fHwxNzk0Nzk4ODYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Towfiqu barbhuiya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/colorful-pills-spilling-from-orange-bottle-w8p9cQDLX7I?utm_source=dia_news&utm_medium=referral",
-    "alt": "colorful pills spilling from orange bottle"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nWnU_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "В ЛНР дети и беременные бесплатно получают системы мониторинга глюкозы",
-    "en": "Children and pregnant women in LNR receive glucose monitoring systems free of charge",
-    "kk": "ЛХР-да балалар мен жүкті әйелдер глюкозаны бақылау жүйелерін тегін алады",
-    "de": "In der Volksrepublik Lugansk erhalten Kinder und Schwangere Glukosemonitoring-Systeme kostenlos",
-    "es": "En la RPL, los niños y las embarazadas reciben sistemas de monitoreo de glucosa gratis"
-   },
-   "text": {
-    "ru": "Дети и беременные в ЛНР бесплатно получают системы мониторинга глюкозы.",
-    "en": "Children and pregnant women in the Luhansk People's Republic receive glucose monitoring systems free of charge.",
-    "kk": "ЛХР-да балалар мен жүкті әйелдер глюкоза мониторингі жүйелерін тегін алады.",
-    "de": "In der Volksrepublik Lugansk erhalten Kinder und Schwangere Systeme zur Glukoseüberwachung kostenlos.",
-    "es": "En la República Popular de Lugansk, los niños y las embarazadas reciben gratis sistemas de monitoreo de glucosa."
-   },
-   "url": "https://lug-info.ru/news/sistemy-monitoringa-gljukozy-besplatno-poluchajut-v-lnr-deti-i-beremennye/",
-   "src": "Луганский Информационный Центр",
-   "photoQuery": "glucose monitoring sensor device",
-   "local": true,
-   "photo": {
-    "id": "u_tvP6pCnq9iI",
-    "url": "https://images.unsplash.com/photo-1642055514517-7b52288890ec?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQ3MTE2NzV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Árpád Czapp",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-room-filled-with-lots-of-shelves-filled-with-boxes-and-boxes-tvP6pCnq9iI?utm_source=dia_news&utm_medium=referral",
-    "alt": "a room filled with lots of shelves filled with boxes and boxes"
-   },
-   "body": {
-    "ru": "15 ноября 2026 года Луганский информационный центр сообщил, что дети и беременные в ЛНР получают системы непрерывного мониторинга глюкозы без оплаты. Это происходит в рамках федерального проекта «Борьба с сахарным диабетом».\n\nИнформацию предоставила главный внештатный эндокринолог Минздрава ЛНР Ольга Поддубченко, заведующая эндокринологическим отделением Луганской республиканской клинической больницы, в интервью изданию.\n\nПо ее словам, в прошлом году такими системами обеспечили 57 беременных женщин. В этом году установлен показатель 75, и регион к нему приближается. Пока федеральный проект охватывает только детей и беременных; массовой выдачи для других категорий нет, и над этим еще предстоит работать. Количество устройств на одну женщину зависит от срока беременности.\n\nРанее министр здравоохранения Наталия Пащенко сообщила, что почти 400 детей в республике получили эти системы по той же программе.",
-    "en": "On November 15, 2026, the Luhansk news outlet LIC reported that children and pregnant women in the LNR are receiving continuous glucose monitoring systems at no cost. The supply is taking place under the federal project \"Fighting Diabetes Mellitus.\"\n\nThe information came from an interview with Olga Poddubchenko, the republic's chief freelance endocrinologist at the Ministry of Health and head of the endocrinology department at the Luhansk Republican Clinical Hospital.\n\nShe said 57 pregnant women received such systems last year. This year the target is 75, and the region is getting close to it. For now, the federal project covers only children and pregnant women; there is no mass provision for other groups yet, and this area still needs work. The number of devices for each woman depends on how far along her pregnancy is.\n\nEarlier, Health Minister Natalia Pashchenko said almost 400 children in the republic had received the systems under the same programme.",
-    "kk": "2026 жылдың 15 қарашасында Луганск ақпарат орталығы (ЛАО) ЛХР-де балалар мен жүкті әйелдердің үздіксіз глюкоза мониторингі жүйелерін тегін алып жатқанын хабарлады. Бұл «Қант диабетімен күрес» федералдық жобасы аясында жүзеге асырылуда.\n\nАқпаратты ЛХР Денсаулық сақтау министрлігінің бас штаттан тыс эндокринологы, Луганск республикалық клиникалық ауруханасы эндокринология бөлімінің меңгерушісі Ольга Поддубченко берген сұхбатында айтты.\n\nОның айтуынша, өткен жылы мұндай жүйелермен 57 жүкті әйел қамтылған. Биыл көрсеткіш 75 болып белгіленген, және аймақ соған жақындап келеді. Қазіргі уақытта федералдық жоба тек балаларды және жүкті әйелдерді қамтиды; басқа санаттар үшін жаппай беру әлі жоқ, бұл бағытта әлі жұмыс істеу керек. Әрбір әйелге берілетін құрылғылар саны жүктіліктің мерзіміне байланысты.\n\nБұрын денсаулық сақтау министрі Наталия Пащенко республикада сол бағдарлама бойынша жүйелерді бала шамамен 400 алғанын айтқан.",
-    "de": "Am 15. November 2026 berichtete das Luhansker Informationszentrum (LIC), dass Kinder und schwangere Frauen in der LVR kostenlos kontinuierliche Glukosemesssysteme erhalten. Die Versorgung läuft im Rahmen des föderalen Projekts „Kampf gegen Diabetes mellitus“.\n\nDie Angaben stammen aus einem Interview mit Olga Poddubchenko, der leitenden nebenamtlichen Endokrinologin des Gesundheitsministeriums der LVR und Leiterin der Abteilung für Endokrinologie am Luhansker Republikanischen Klinikum.\n\nNach ihren Worten erhielten im vergangenen Jahr 57 schwangere Frauen solche Systeme. Für dieses Jahr liegt die Zielmarke bei 75, und die Region nähert sich ihr. Derzeit deckt das föderale Projekt nur Kinder und schwangere Frauen ab; eine breite Versorgung anderer Gruppen gibt es noch nicht, und daran muss noch gearbeitet werden. Die Zahl der Geräte pro Frau richtet sich nach dem Schwangerschaftsstadium.\n\nZuvor hatte Gesundheitsministerin Natalija Paschtschenko mitgeteilt, dass im Rahmen desselben Programms fast 400 Kinder in der Republik mit den Systemen versorgt worden seien.",
-    "es": "El 15 de noviembre de 2026, el medio luganés LIC informó de que los niños y las mujeres embarazadas en la RPL reciben de forma gratuita sistemas de monitorización continua de glucosa. Esta cobertura se realiza en el marco del proyecto federal «Lucha contra la diabetes mellitus».\n\nLa información procede de una entrevista con Olga Poddubchenko, endocrinóloga principal no permanente del Ministerio de Salud de la RPL y jefa del departamento de endocrinología del Hospital Clínico Republicano de Lugansk.\n\nSegún explicó, el año pasado 57 mujeres embarazadas recibieron estos sistemas. Este año la meta es de 75, y la región se acerca a ella. Por ahora, el proyecto federal solo contempla a niños y mujeres embarazadas; todavía no hay un suministro masivo para otros grupos, y aún queda trabajo por hacer en ese ámbito. El número de dispositivos por mujer depende de la etapa del embarazo.\n\nAnteriormente, la ministra de Salud, Natalia Pashchenko, había informado de que casi 400 niños de la república habían recibido los sistemas dentro del mismo programa."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Беременные женщины, обеспеченные системами мониторинга в прошлом году",
-      "en": "Pregnant women provided with monitoring systems last year",
-      "kk": "Өткен жылы бақылау жүйелерімен қамтылған жүкті әйелдер",
-      "de": "Im Vorjahr mit Systemen versorgte schwangere Frauen",
-      "es": "Mujeres embarazadas que recibieron los sistemas el año pasado"
-     },
-     "v": {
-      "ru": "57",
-      "en": "57",
-      "kk": "57",
-      "de": "57",
-      "es": "57"
-     }
-    },
-    {
-     "k": {
-      "ru": "Показатель на текущий год для беременных женщин",
-      "en": "This year's target for pregnant women",
-      "kk": "Биылғы жүкті әйелдер үшін көрсеткіш",
-      "de": "Zielwert für schwangere Frauen in diesem Jahr",
-      "es": "Meta de este año para mujeres embarazadas"
-     },
-     "v": {
-      "ru": "75",
-      "en": "75",
-      "kk": "75",
-      "de": "75",
-      "es": "75"
-     }
-    },
-    {
-     "k": {
-      "ru": "Дети, обеспеченные системами мониторинга в ЛНР (по данным министра)",
-      "en": "Children provided with monitoring systems in the LNR (per the minister)",
-      "kk": "ЛХР-де бақылау жүйелерімен қамтылған балалар (министр мәліметі бойынша)",
-      "de": "In der LVR mit Systemen versorgte Kinder (laut Ministerin)",
-      "es": "Niños con sistemas de monitorización en la RPL (según la ministra)"
-     },
-     "v": {
-      "ru": "почти 400",
-      "en": "almost 400",
-      "kk": "шамамен 400",
-      "de": "fast 400",
-      "es": "casi 400"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nJXUT9vYz01",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "В 24 Школах здоровья Пензы научились контролировать диабет более 14 тысяч жителей",
-    "en": "More than 14,000 residents of Penza have learned to manage diabetes at 24 Health Schools",
-    "kk": "Пензадағы 24 Денсаулық мектебінде 14 мыңнан астам тұрғын диабетті бақылауды үйренді",
-    "de": "Mehr als 14.000 Einwohner von Penza haben in 24 Gesundheitsschulen gelernt, ihren Diabetes zu kontrollieren",
-    "es": "Más de 14 000 habitantes de Penza aprendieron a controlar la diabetes en 24 Escuelas de salud"
-   },
-   "text": {
-    "ru": "Более 14 тысяч пензенцев прошли обучение по контролю диабета в 24 Школах здоровья.",
-    "en": "More than 14,000 people from Penza have been trained to control diabetes at 24 Health Schools.",
-    "kk": "Пенза тұрғындарының 14 мыңнан astam адамы 24 Денсаулық мектебінде қант диабетін бақылау бойынша оқыды.",
-    "de": "Mehr als 14.000 Einwohner von Penza wurden in 24 Gesundheitsschulen im Umgang mit Diabetes geschult.",
-    "es": "Más de 14 000 habitantes de Penza recibieron formación para controlar la diabetes en 24 Escuelas de salud."
-   },
-   "url": "https://penza-post.ru/news/bolee-14-tysyach-penzencev-nauchili-kontrolirovat-diabet-v-24-shkolah-zdorovya",
-   "src": "The Penza Post",
-   "photoQuery": "health education classroom whiteboard",
-   "local": true,
-   "photo": {
-    "id": "u_jUPOXXRNdcA",
-    "url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDc5ODg2NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Brooke Lark",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/poached-egg-with-vegetables-and-tomatoes-on-blue-plate-jUPOXXRNdcA?utm_source=dia_news&utm_medium=referral",
-    "alt": "poached egg with vegetables and tomatoes on blue plate"
-   },
-   "body": {
-    "ru": "К Всемирному дню борьбы с сахарным диабетом, который отмечается 14 ноября, медики Пензенской области напомнили жителям о регулярной проверке уровня глюкозы в крови. Об этом 15 ноября 2026 года сообщил портал The Penza Post. По данным редакции, обучение контролю над болезнью прошли более 14 тысяч человек, включая взрослых и детей.\n\nЗанятия проходят в 24 Школах здоровья, которые в 2026 году работают на базе региональных медицинских учреждений. Они действуют в рамках федерального проекта «Борьба с сахарным диабетом» национального проекта «Продолжительная и активная жизнь», а поддержку оказывает губернатор Олег Мельниченко.\n\nГлавная цель занятий — снизить страх перед диагнозом. Главный внештатный эндокринолог региона Екатерина Князькина называет знания инструментом контроля над болезнью, не менее важным, чем инсулин или глюкометр, и подчеркивает, что диабет не приговор.\n\nКурсы бесплатны для жителей с подтвержденным диагнозом. Взрослые записываются через медицинскую сестру эндокринолога в поликлинике по месту жительства, а для детей запись ведет участковый педиатр.\n\nСпециалисты призывают использовать 14 ноября как повод проверить свое здоровье. По их словам, своевременное обследование и профилактика помогают держать болезнь под контролем на ранней стадии и избегать тяжелых осложнений.",
-    "en": "Medics in the Penza region used World Diabetes Day, marked each year on 14 November, to remind residents to check their blood glucose levels regularly. The Penza Post reported the news on 15 November 2026. According to the outlet, more than 14,000 people, both adults and children, have completed training in managing the disease.\n\nThe training takes place at 24 Health Schools that operate in 2026 at regional medical institutions. They function under the federal \"Fight against diabetes\" project, which belongs to the national \"Long and Active Life\" initiative, and receive support from Governor Oleg Melnichenko.\n\nThe main aim of the sessions is to ease fear of a diagnosis. Regional chief external endocrinologist Ekaterina Knyazkina describes knowledge as a tool for controlling the illness that matters as much as insulin or a glucometer, and stresses that diabetes is not a sentence.\n\nThe courses are free for residents with a confirmed diagnosis. Adults sign up through an endocrinologist's nurse at their local clinic, while children register via their district pediatrician.\n\nSpecialists urge people to treat 14 November as a reason to check their health. In their view, timely testing and prevention help keep the disease under control at an early stage and avoid serious complications.",
-    "kk": "14 қарашада атап өтілетін Бүкіләлемдік қант диабетімен күрес күніне орай Пенза облысының медиктері тұрғындарға қан глюкозасының деңгейін үнемі тексеру қажеттігін еске салды. The Penza Post порталы бұл жаңалықты 2026 жылғы 15 қарашада жариялады. Басылымның мәліметінше, ересектер мен балалар қоса алғанда, 14 мыңнан астам адам аурумен жұмыс істеуді үйрену курсынан өтті.\n\nОқу 2026 жылы аймақтық медициналық мекемелерде жұмыс істейтін 24 Денсаулық мектебінде өтеді. Олар «Қант диабетімен күрес» федералдық жобасы аясында жұмыс істейді, ал ол «Ұзақ және белсенді өмір» ұлттық жобасының құрамына кіреді. Оларды губернатор Олег Мельниченко қолдайды.\n\nСабақтардың басты мақсаты — диагноз туралы қорқынышты азайту. Облыстың бас сырттай эндокринологы Екатерина Князькина білімді инсулин немесе глюкометр сияқты аурудың бақылауындағы маңызды құрал деп санайды және диабеттің үкім емес екенін атап көрсетеді.\n\nКурстар расталған диагнозы бар тұрғындар үшін тегін. Ересектер тұрғылықты жердегі емханадағы эндокринологтың медбикесі арқылы жазылады, ал балалар жазылуды учаске педиатры арқылы жасайды.\n\nМамандар 14 қарашаны денсаулығын тексеруге себеп ретінде пайдалануға шақырады. Олардың пікірінше, уақтылы тексеру мен профилактика аурудың ерте сатысында бақылауда ұстауға және ауыр асқынулардың алдын алуға көмектеседі.",
-    "de": "Medizinerinnen und Mediziner in der Region Pensa nutzten den Weltdiabetestag, der jedes Jahr am 14. November begangen wird, um die Bewohner daran zu erinnern, ihren Blutzuckerspiegel regelmäßig zu kontrollieren. Die Meldung erschien am 15. November 2026 bei The Penza Post. Laut dem Portal haben mehr als 14.000 Menschen, Erwachsene wie Kinder, eine Schulung zum Umgang mit der Erkrankung absolviert.\n\nDie Kurse finden in 24 Gesundheitsschulen statt, die 2026 an regionalen medizinischen Einrichtungen arbeiten. Sie gehören zum föderalen Projekt „Kampf gegen Diabetes“, das Teil der nationalen Initiative „Langes und aktives Leben“ ist, und werden vom Gouverneur Oleg Melnitschenko unterstützt.\n\nDas wichtigste Ziel der Veranstaltungen ist es, die Angst vor einer Diagnose zu nehmen. Die regionale Chef-Fachendokrinologin Jekaterina Knjaskina beschreibt Wissen als ein Instrument zur Krankheitskontrolle, das ebenso wichtig sei wie Insulin oder ein Blutzuckermessgerät, und betont, dass Diabetes kein Todesurteil ist.\n\nDie Kurse sind für Einwohner mit bestätigter Diagnose kostenlos. Erwachsene melden sich über die Pflegekraft des Endokrinologen in ihrer örtlichen Klinik an, Kinder über den zuständigen Kinderarzt.\n\nFachleute raten, den 14. November als Anlass zu nehmen, die eigene Gesundheit zu überprüfen. Rechtzeitige Untersuchungen und Vorbeugung helfen nach ihrer Einschätzung, die Krankheit früh unter Kontrolle zu halten und schwere Komplikationen zu vermeiden.",
-    "es": "Los médicos de la región de Penza aprovecharon el Día Mundial de la Diabetes, que se celebra cada año el 14 de noviembre, para recordar a los habitantes que deben controlar con regularidad sus niveles de glucosa en sangre. La noticia se publicó el 15 de noviembre de 2026 en The Penza Post. Según el medio, más de 14.000 personas, entre adultos y niños, ya han completado la formación para manejar la enfermedad.\n\nLa formación se imparte en 24 Escuelas de Salud que funcionan en 2026 en centros médicos regionales. Forman parte del proyecto federal «Lucha contra la diabetes», incluido en la iniciativa nacional «Vida larga y activa», y reciben el respaldo del gobernador Oleg Melnichenko.\n\nEl objetivo principal de las sesiones es reducir el miedo al diagnóstico. La endocrinóloga jefa externa de la región, Ekaterina Knyazkina, considera que el conocimiento es una herramienta para controlar la enfermedad tan importante como la insulina o el glucómetro, y subraya que la diabetes no es una sentencia.\n\nLos cursos son gratuitos para los residentes con un diagnóstico confirmado. Los adultos se inscriben a través de la enfermera del endocrinólogo en su centro de salud local, mientras que los niños lo hacen por medio de su pediatra de zona.\n\nLos especialistas animan a aprovechar el 14 de noviembre como motivo para revisar el estado de salud. Según ellos, los exámenes a tiempo y las medidas preventivas permiten mantener la enfermedad bajo control en una etapa temprana y evitar complicaciones graves."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Школы здоровья в 2026 году",
-      "en": "Health Schools operating in 2026",
-      "kk": "2026 жылы денсаулық мектептері",
-      "de": "Gesundheitsschulen 2026",
-      "es": "Escuelas de Salud en 2026"
-     },
-     "v": {
-      "ru": "24",
-      "en": "24",
-      "kk": "24",
-      "de": "24",
-      "es": "24"
-     }
-    },
-    {
-     "k": {
-      "ru": "Прошли обучение с начала 2026 года",
-      "en": "Completed training since the start of 2026",
-      "kk": "2026 жылдың басынан бері оқудан өткендер",
-      "de": "Geschult seit Jahresbeginn 2026",
-      "es": "Formados desde comienzos de 2026"
-     },
-     "v": {
-      "ru": "более 14 тысяч человек",
-      "en": "more than 14,000 people",
-      "kk": "14 мыңнан астам адам",
-      "de": "mehr als 14.000 Menschen",
-      "es": "más de 14.000 personas"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nVpuP29jPTU",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "В Латвии ежегодно растёт заболеваемость сахарным диабетом",
-    "en": "Diabetes incidence is rising every year in Latvia",
-    "kk": "Латвияда қант диабетінің сырқаттанушылығы жыл сайын өсуде",
-    "de": "Die Zahl der Diabeteserkrankungen steigt in Lettland jedes Jahr",
-    "es": "La incidencia de la diabetes aumenta cada año en Letonia"
-   },
-   "text": {
-    "ru": "В Латвии заболеваемость сахарным диабетом растёт каждый год.",
-    "en": "Diabetes incidence in Latvia has been increasing every year.",
-    "kk": "Латвияда қант диабетінің сырқаттанушылығы жыл сайын артуда.",
-    "de": "Die Zahl der Diabeteserkrankungen in Lettland nimmt jedes Jahr zu.",
-    "es": "En Letonia, la incidencia de la diabetes aumenta cada año."
-   },
-   "url": "https://rus.delfi.lv/57860/latvia/120142636/v-latvii-ezhegodno-rastet-zabolevaemost-saharnym-diabetom",
-   "src": "DELFI",
-   "photoQuery": "blood glucose test strips",
-   "local": true,
-   "photo": {
-    "id": "u_bVIpvMDkNKA",
-    "url": "https://images.unsplash.com/photo-1738778151587-032287ae9f90?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTF8fGxhYm9yYXRvcnklMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQ3OTg4NjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Dmytro Vynohradov",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-microscope-sitting-on-top-of-a-table-next-to-a-bottle-bVIpvMDkNKA?utm_source=dia_news&utm_medium=referral",
-    "alt": "A microscope sitting on top of a table next to a bottle"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nkxRT9vYz01",
-   "cat": "research",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "Как сахарный диабет и туберкулёз влияют друг на друга: объяснение врачей",
-    "en": "How diabetes and tuberculosis affect each other: doctors explain",
-    "kk": "Қант диабеті мен туберкулез бір-біріне қалай әсер етеді: дәрігерлер түсіндіреді",
-    "de": "Wie Diabetes und Tuberkulose sich gegenseitig beeinflussen: Ärzte erklären",
-    "es": "Cómo se afectan mutuamente la diabetes y la tuberculosis: explican los médicos"
-   },
-   "text": {
-    "ru": "Врачи объясняют, как сахарный диабет и туберкулёз влияют друг на друга.",
-    "en": "Doctors explain how diabetes and tuberculosis influence each other.",
-    "kk": "Дәрігерлер қант диабеті мен туберкулездің бір-біріне қалай әсер ететінін түсіндіреді.",
-    "de": "Ärzte erklären, wie sich Diabetes und Tuberkulose gegenseitig beeinflussen.",
-    "es": "Los médicos explican cómo se influyen mutuamente la diabetes y la tuberculosis."
-   },
-   "url": "https://kanaldim.tv/ru/kak-saharnyj-diabet-i-tuberkulez-vliyayut-drug-na-druga-obyasnenie-vrachej/",
-   "src": "Телеканал Дім",
-   "photoQuery": "medical laboratory microscope",
-   "photo": {
-    "id": "u_JxoWb7wHqnA",
-    "url": "https://images.unsplash.com/photo-1630959305790-4c956ce6c0b6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8bWVkaWNhbCUyMGxhYm9yYXRvcnklMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQ3OTg4NjZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/scientist-using-microscope-in-laboratory-JxoWb7wHqnA?utm_source=dia_news&utm_medium=referral",
-    "alt": "A person in a white lab coat looking through a microscope in a laboratory"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nUc4P29jPTU",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-15",
-   "added": "2026-11-16T03:14:20.460Z",
-   "title": {
-    "ru": "Заболеваемость диабетом в Ростовской области за год упала на 33,1%",
-    "en": "Diabetes incidence in Rostov Region fell 33.1% over one year",
-    "kk": "Ростов облысында қант диабетінің сырқаттанушылығы бір жылда 33,1%-ға төмендеді",
-    "de": "Die Diabeteserkrankungen in der Region Rostow sind innerhalb eines Jahres um 33,1 % gesunken",
-    "es": "La incidencia de diabetes en la región de Rostov bajó un 33,1 % en un año"
-   },
-   "text": {
-    "ru": "За год заболеваемость диабетом в Ростовской области снизилась на 33,1%.",
-    "en": "Over the past year, diabetes incidence in Rostov Region dropped by 33.1%.",
-    "kk": "Соңғы бір жылда Ростов облысында қант диабетінің сырқаттанушылығы 33,1%-ға төмендеді.",
-    "de": "Im vergangenen Jahr ist die Diabeteserkrankungsrate in der Region Rostow um 33,1 % gesunken.",
-    "es": "En el último año, la incidencia de diabetes en la región de Rostov disminuyó un 33,1 %."
-   },
-   "url": "https://bloknot-rostov.ru/news/zabolevaemost-diabetom-v-rostovskoy-oblasti-upala--2026211",
-   "src": "Блокнот Ростов",
-   "photoQuery": "blood glucose test strips",
-   "local": true,
-   "photo": {
-    "id": "u_YDLlT9DNOI4",
-    "url": "https://images.unsplash.com/photo-1738778228323-f93bba079c7e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTR8fGxhYm9yYXRvcnklMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTQ3OTg4NjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Dmytro Vynohradov",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-microscope-being-used-to-examine-a-substance-YDLlT9DNOI4?utm_source=dia_news&utm_medium=referral",
-    "alt": "A microscope being used to examine a substance"
-   },
-   "body": {
-    "ru": "В Ростовской области за первые десять месяцев 2026 года врачи выявили 353,56 новых случая сахарного диабета на 100 тысяч жителей. Это на 33,1% ниже итогов 2025 года, сообщил «Блокноту Ростов» исполняющий обязанности министра здравоохранения региона Александр Середа. Хотя заголовок говорит о снижении за год, в тексте сравниваются десять месяцев 2026-го с целым 2025 годом.\n\nПо сравнению с 2024 годом, когда фиксировали 580,76 новых случая на 100 тысяч человек, заболеваемость снизилась на 39,1%. В 2025 году этот показатель составлял 528,31 случая.\n\nНесмотря на меньшее число новых диагнозов, общее число людей с диабетом в регионе остается высоким. К 1 октября 2026 года на 100 тысяч жителей приходилось 4 295,6 человека с этой болезнью, то есть более 4,3% населения. По словам Середы, в эту статистику попадают и те, кто живет с диабетом много лет, и недавно заболевшие.\n\nСитуация в городах и районах меняется неравномерно: на нее влияют активность жителей на диспансеризации и скринингах, демография, миграция и образ жизни. Причины снижения в статье не объясняются. Редакция отсылает читателей к отдельному материалу о том, как предотвратить болезнь и кто входит в зону риска.",
-    "en": "In the Rostov region, doctors recorded 353.56 new cases of diabetes per 100,000 residents during the first ten months of 2026. That is 33.1% below the 2025 totals, acting regional health minister Alexander Sereda told Bloknot Rostov. Although the headline refers to a drop over one year, the text compares ten months of 2026 with the full year 2025.\n\nCompared with 2024, when 580.76 new cases per 100,000 people were registered, the rate fell by 39.1%. The 2025 figure stood at 528.31 cases.\n\nDespite fewer new diagnoses, the total number of people living with diabetes in the region remains high. As of October 1, 2026, there were 4,295.6 people with the disease per 100,000 residents, which is more than 4.3% of the population. Sereda explained that these statistics include both people who have lived with diabetes for many years and those diagnosed recently.\n\nThe situation varies unevenly across cities and districts. Local factors include how actively residents take part in medical check-ups and screenings, as well as demographics, migration and lifestyle. The article does not explain what caused the decline. The outlet points readers to a separate piece on how the disease can be prevented and who is at risk.",
-    "kk": "Ростов облысында 2026 жылдың алғашқы он айында дәрігерлер 100 мың тұрғынға шаққанда қант диабетінің 353,56 жаңа жағдайын анықтаған. Бұл 2025 жылдың қорытындысынан 33,1%-ға төмен екен, деп «Блокнот Ростов» басылымына облыстың денсаулық сақтау министрінің міндетін атқарушы Александр Середа мәлім етті. Тақырыпта бір жыл ішіндегі төмендеу айтылғанымен, мәтінде 2026 жылдың он айы толық 2025 жылмен салыстырылған.\n\n2024 жылмен салыстырғанда, сол кезде 100 мың адамға шаққанда 580,76 жаңа жағдай тіркелген, ал ауруshылық 39,1%-ға азайған. 2025 жылы бұл көрсеткіш 528,31 жағдай болған.\n\nЖаңа диагноздар азайғанымен, өңірде қант диабетімен өмір сүретін адамдардың жалпы саны жоғары күйінде қалып отыр. 2026 жылдың 1 қазанына қарай 100 мың тұрғынға 4 295,6 адам осы ауруымен тіркелген, бұл халықтың 4,3%-нан астам. Середаның айтуынша, бұл статистикаға бірнеше жылдан бері диабетпен өмір сүріп жатқандар да, жақын арада ауырғандар да кіреді.\n\nЖағдай қалалар мен аудандарда біркелкі емес. Тұрғындардың диспансеризация мен скринингтерге қатысу белсенділігі, демография, көші-қон және өмір салты әсер етеді. Мақалада төмендеудің себебі түсіндірілмеген. Басылым оқырмандарды ауруды қалай алдын алуға болатыны және кімдердің қауіп тобында тұрғаны туралы бөлек материалға бағыттайды.",
-    "de": "In der Region Rostow wurden in den ersten zehn Monaten des Jahres 2026 je 100.000 Einwohner 353,56 neue Diabetesfälle registriert. Das sind 33,1 % weniger als im Gesamtergebnis für 2025, wie der amtierende Gesundheitsminister der Region, Alexander Sereda, der Zeitung Bloknot Rostow mitteilte. Die Überschrift spricht von einem Rückgang innerhalb eines Jahres, der Text vergleicht jedoch zehn Monate des Jahres 2026 mit dem gesamten Jahr 2025.\n\nGegenüber 2024, als 580,76 neue Fälle je 100.000 Menschen erfasst wurden, sank die Rate um 39,1 %. Für 2025 lag der Wert bei 528,31 Fällen.\n\nTrotz weniger neuer Diagnosen bleibt die Zahl der Menschen mit Diabetes in der Region hoch. Am 1. Oktober 2026 lebten 4.295,6 Betroffene je 100.000 Einwohner mit der Krankheit, also mehr als 4,3 % der Bevölkerung. Sereda erklärte, dass diese Statistik sowohl Menschen einschließt, die seit vielen Jahren mit Diabetes leben, als auch kürzlich Erkrankte.\n\nDie Lage unterscheidet sich zwischen Städten und Bezirken deutlich. Eine Rolle spielen die Teilnahme der Einwohner an Vorsorgeuntersuchungen und Screenings, die Demografie, Migration und der Lebensstil vor Ort. Der Artikel erklärt nicht, was den Rückgang verursacht hat. Die Redaktion verweist am Ende auf einen separaten Beitrag darüber, wie sich die Krankheit verhindern lässt und wer zur Risikogruppe gehört.",
-    "es": "En la región de Rostov se registraron 353,56 nuevos casos de diabetes por cada 100.000 habitantes durante los primeros diez meses de 2026. La cifra es un 33,1 % inferior a los totales de 2025, según informó a Bloknot Rostov el ministro de Salud en funciones, Alexander Sereda. Aunque el titular habla de una caída en un año, el texto compara diez meses de 2026 con el año 2025 completo.\n\nFrente a 2024, cuando se contabilizaron 580,76 casos nuevos por cada 100.000 personas, la tasa bajó un 39,1 %. La cifra de 2025 fue de 528,31 casos.\n\nPese a los menos diagnósticos nuevos, el número total de personas que viven con diabetes en la región sigue siendo alto. A 1 de octubre de 2026 había 4.295,6 personas con la enfermedad por cada 100.000 habitantes, es decir, más del 4,3 % de la población. Según Sereda, esa estadística incluye tanto a quienes conviven con la diabetes desde hace muchos años como a quienes la han desarrollado recientemente.\n\nLa situación varía de forma desigual entre ciudades y distritos. Influyen la participación de los vecinos en chequeos y cribados, la demografía, la migración y el estilo de vida de cada zona. El artículo no explica qué causó la caída. Al final, el medio remite a otro texto sobre cómo prevenir la enfermedad y quién corre riesgo."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Заболеваемость диабетом в Ростовской области, новые случаи на 100 тыс. населения (10 месяцев 2026 года)",
-      "en": "Diabetes incidence in the Rostov region, new cases per 100,000 residents (first 10 months of 2026)",
-      "kk": "Ростов облысындағы қант диабетінің ауруshылығы, 100 мың тұрғынға жаңа жағдайлар (2026 жылдың 10 айы)",
-      "de": "Diabetes-Neuerkrankungen in der Region Rostow je 100.000 Einwohner (erste 10 Monate 2026)",
-      "es": "Incidencia de diabetes en la región de Rostov, nuevos casos por 100.000 habitantes (primeros 10 meses de 2026)"
-     },
-     "v": {
-      "ru": "353,56 (на 33,1% меньше, чем в итогах 2025 года)",
-      "en": "353.56 (33.1% lower than the 2025 totals)",
-      "kk": "353,56 (2025 жылдың қорытындысынан 33,1%-ға төмен)",
-      "de": "353,56 (33,1 % weniger als das Gesamtergebnis für 2025)",
-      "es": "353,56 (un 33,1 % menos que los totales de 2025)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Люди с диабетом в Ростовской области на 100 тыс. жителей (на 1 октября 2026 года)",
-      "en": "People living with diabetes in the Rostov region per 100,000 residents (as of October 1, 2026)",
-      "kk": "Ростов облысында диабетпен өмір сүретіндер, 100 мың тұрғынға (2026 жылдың 1 қазаны)",
-      "de": "Menschen mit Diabetes in der Region Rostow je 100.000 Einwohner (Stand 1. Oktober 2026)",
-      "es": "Personas con diabetes en la región de Rostov por cada 100.000 habitantes (a 1 de octubre de 2026)"
-     },
-     "v": {
-      "ru": "4 295,6 (более 4,3% населения)",
-      "en": "4,295.6 (more than 4.3% of the population)",
-      "kk": "4 295,6 (халықтың 4,3%-нан астам)",
-      "de": "4.295,6 (mehr als 4,3 % der Bevölkerung)",
-      "es": "4.295,6 (más del 4,3 % de la población)"
-     }
-    }
-   ]
-  },
-  {
    "id": "cure-katie-beth-hand",
    "cat": "cure",
    "stage": "results",
@@ -2624,6 +2713,42 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://abcnews.com/Health/clinical-trial-shows-glp-1s-effective-children-young/story?id=138245257",
+  "клиническое исследование показало что препараты glp 1 могут быть эффективны у детей от 6 лет",
+  "clinical trial shows glp 1 drugs could be effective in children as young as 6",
+  "https://m.economictimes.com/news/international/us/mit-scientists-implanted-oxygen-making-devices-with-insulin-producing-cells-into-mice-and-rats-the-cells-stayed-active-and-controlled-blood-sugar-for-90-days/amp_articleshow/135890335.cms",
+  "учёные mit имплантировали мышам и крысам устройства вырабатывающие кислород вместе с клетками производящими инсулин",
+  "mit scientists implant oxygen producing devices with insulin making cells in mice and rats",
+  "https://www.ohio.edu/news/2026/11/those-newly-diagnosed-need-more-support-they-learn-live-type-2-diabetes-study-finds",
+  "людям с недавно диагностированным диабетом 2 типа нужна большая поддержка показало исследование",
+  "newly diagnosed type 2 diabetes patients need more support study finds",
+  "https://pharmmedprom.ru/news/pri-diabete-chastaya-pyatiminutnaya-hodba-poleznee-odnoj-dolgoj-progulki/",
+  "при диабете несколько коротких пятиминутных прогулок полезнее одной долгой",
+  "for diabetes frequent five minute walks beat one long walk",
+  "https://bioengineer.org/high-frailty-rates-identified-in-older-indian-patients-with-diabetes/",
+  "в исследовании выявлена высокая частота старческой немощи у пожилых индийских пациентов с диабетом",
+  "high frailty rates identified in older indian patients with diabetes",
+  "https://bioengineer.org/hong-kong-study-establishes-valuation-function-for-diabetes-quality-of-life-instrument/",
+  "гонконгское исследование определило функцию оценки для инструмента качества жизни при диабете",
+  "hong kong study establishes valuation function for diabetes quality of life instrument",
+  "https://thepharma.media/pacijentu/43856-cukrovii-diabet-yaka-dopomoga-dostupna-za-programoyu-medicnix-garantii-ta-programoyu-dostupni-liki-18112026",
+  "какая помощь доступна при диабете по программе медицинских гарантий и программе доступные лекарства",
+  "what help is available for diabetes under the medical guarantees programme and the affordable medicines programme",
+  "https://top68.ru/news/health/2026-11-18/dopolnitelnye-preparaty-dlya-diabetikov-postupyat-v-apteki-v-blizhayshee-vremya-352105",
+  "дополнительные препараты для диабетиков поступят в аптеки в ближайшее время",
+  "additional diabetes medicines to reach pharmacies soon",
+  "https://badgerherald.com/news/science-news/2026/11/18/uw-researchers-target-cells-at-the-root-of-diabetes/",
+  "исследователи университета висконсина нацелились на клетки лежащие в основе диабета",
+  "uw researchers target cells at the root of diabetes",
+  "https://bioengineer.org/experimental-models-offer-critical-insights-into-multifactorial-diabetes-pathophysiology/",
+  "экспериментальные модели дают важные сведения о многофакторной патофизиологии диабета",
+  "experimental models offer critical insights into multifactorial diabetes pathophysiology",
+  "https://egov-buryatia.ru/minzdrav/press_center/news/detail.php?ID=211105",
+  "в бурятии обсудили вопросы борьбы с диабетом",
+  "buryatia discusses ways to fight diabetes",
+  "https://1tulatv.ru/novosti/300836-endokrinolog-rasskazal-pochemu-diabet-stali-chashche-vyyavlyat-u-yunyh-tulyakov.html",
+  "эндокринолог объяснил почему диабет стали чаще выявлять у юных туляков",
+  "endocrinologist explains why diabetes is being detected more often in young tula residents",
   "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-policy/fda-clears-minimeds-tubeless-insulin-pump",
   "fda разрешило безтрубочную инсулиновую помпу minimed",
   "fda clears minimed s tubeless insulin pump",
@@ -2690,6 +2815,24 @@ const DIA_NEWS={
   "https://www.1tvspb.ru/event/Zhizn_s_diabetom_ne_ostanavlivaetsya_kak_vovremya_diagnostirovat_i_nauchit_rebenka_rebenka_s_nim_zhit/",
   "в петербурге в день борьбы с сахарным диабетом устроили праздник для детей",
   "children s celebration held at st petersburg pediatric university on diabetes day",
+  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
+  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
+  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
+  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
+  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
+  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
+  "https://investors.vrtx.com/node/35101/pdf",
+  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
+  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
+  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
+  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
+  "islet transplants with tegoprubart all 12 participants are living without insulin",
+  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
+  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
+  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
+  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
+  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
+  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://www.tv21.ru/news/2026/11/16/bolee-6-mln-chelovek-v-rossii-rastet-chislo-pacientov-s-saharnym-diabetom",
   "в россии растет число пациентов с сахарным диабетом более 6 млн человек",
   "russia sees rising number of diabetes patients over 6 million people",
@@ -2726,24 +2869,6 @@ const DIA_NEWS={
   "https://bloknot-rostov.ru/news/zabolevaemost-diabetom-v-rostovskoy-oblasti-upala--2026211",
   "заболеваемость диабетом в ростовской области за год упала на 33 1",
   "diabetes incidence in rostov region fell 33 1 over one year",
-  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
-  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
-  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
-  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
-  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
-  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
-  "https://investors.vrtx.com/node/35101/pdf",
-  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
-  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
-  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
-  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
-  "islet transplants with tegoprubart all 12 participants are living without insulin",
-  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
-  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
-  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
-  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
-  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
-  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://ural24.com/news/za_devyat_mesyatsev_diabet_vpervye_vyyavili_u_4513_vzroslykh_zhitelej_sverdlovskoj_oblasti",
   "за девять месяцев диабет впервые выявили у 4513 взрослых жителей свердловской области",
   "in nine months diabetes was first detected in 4 513 adults in sverdlovsk region",
