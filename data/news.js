@@ -7,8 +7,837 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-19T03:06:43.755Z",
+ "updated": "2026-11-20T03:01:06.971Z",
  "items": [
+  {
+   "id": "nNidz9vYz01",
+   "cat": "market",
+   "stage": "launch",
+   "date": "2026-11-20",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Novo Nordisk и AI-компания nference запускают рамки совместного предприятия против ожирения, диабета и болезней сердца",
+    "en": "Novo Nordisk and AI Firm nference Launch Joint Venture Framework to Tackle Obesity, Diabetes and Heart Disease",
+    "kk": "Novo Nordisk және nference AI компаниясы семіздік, диабет және жүрек ауруларына қарсы бірлескен кәсіпорын құру шеңберін іске қосты",
+    "de": "Novo Nordisk und das KI-Unternehmen nference starten Rahmenvereinbarung für ein Joint Venture gegen Adipositas, Diabetes und Herzerkrankungen",
+    "es": "Novo Nordisk y la empresa de IA nference lanzan un marco de empresa conjunta contra la obesidad, la diabetes y las enfermedades cardíacas"
+   },
+   "text": {
+    "ru": "Novo Nordisk и nference объявили о создании рамок совместного предприятия для работы над ожирением, диабетом и заболеваниями сердца.",
+    "en": "Novo Nordisk and nference announced a joint venture framework to work on obesity, diabetes and heart disease.",
+    "kk": "Novo Nordisk және nference семіздік, диабет және жүрек аурулары бойынша бірлескен кәсіпорын құру шеңберін жариялады.",
+    "de": "Novo Nordisk und nference kündigten einen Joint-Venture-Rahmen für Adipositas, Diabetes und Herzerkrankungen an.",
+    "es": "Novo Nordisk y nference anunciaron un marco de empresa conjunta para trabajar en obesidad, diabetes y enfermedades cardíacas."
+   },
+   "url": "https://www.foreignpolicyjournal.com/2026/11/19/novo-nordisk-nyse-nvo-and-ai-firm-nference-launch-joint-venture-framework-to-tackle-obesity-diabetes-and-heart-disease/",
+   "src": "Foreign Policy Journal",
+   "photoQuery": "data science laboratory computer screen",
+   "photo": {
+    "id": "u_XLQuTdktpa8",
+    "url": "https://images.unsplash.com/photo-1766297247924-6638d54e7c89?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8ZGF0YSUyMHNjaWVuY2UlMjBsYWJvcmF0b3J5JTIwY29tcHV0ZXIlMjBzY3JlZW58ZW58MXwwfHx8MTc5NTE0MzY2N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Chidera Faustina Okeke",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/two-scientists-working-on-computers-in-a-laboratory-XLQuTdktpa8?utm_source=dia_news&utm_medium=referral",
+    "alt": "Two scientists working on computers in a laboratory"
+   },
+   "body": {
+    "ru": "18 ноября 2026 года Novo Nordisk (NYSE: NVO) и базирующаяся в Кембридже компания по анализу данных nference объявили о партнерстве, в центре которого стоит рамка для совместного создания компаний в сфере здравоохранения на основе ИИ. Элемент создания предприятий выходит за рамки обычных исследовательских соглашений: его цель — закрыть нерешенные потребности в области кардиометаболических заболеваний и здорового старения через формирование новых стартапов на основе данных.\n\nВ основе партнерства лежит большой массив разнородной медицинской информации: клинические заметки, результаты лабораторных анализов, снимки радиологии и патологии, а также геномные и протеомные данные, полученные из биообразцов с согласия пациентов. Федеративная платформа ИИ компании nference будет обрабатывать эти данные вместе с записями клинических испытаний Novo. Цель — выявить закономерности в том, как ожирение, диабет и сердечно-сосудистые заболевания развиваются со временем.\n\nСреди исследовательских задач, которые назвали обе компании, — прецизионные испытания, отслеживающие снижение веса наряду с более широкими показателями состояния всего организма, а также изучение клинической фармакологии и стратегий комбинированной терапии. По словам участников, это должно помочь сократить давние разрывы в эффективности лечения и долгосрочных результатах для пациентов.\n\nЖакоб Стен Петерсен, вице-президент группы по НИОКР и внешним инновациям Novo, заявил, что компания видит большие возможности в использовании ИИ и данных для более глубокого понимания кардиометаболических болезней и улучшения будущих методов лечения. nference опирается на сеть партнерств с академическими медицинскими центрами, включая Mayo Clinic, Duke Health и Vanderbilt University Medical Center. В Novo работают более 66 500 человек по всему миру, а архив данных клинических испытаний компании основан на столетней истории исследований в метаболической медицине.\n\nКомпании сообщили, что обмен данными будет происходить в рамках определенных механизмов защиты конфиденциальности и управления, которые, по их словам, являются ключевыми для дизайна сотрудничества. Статья отмечает, что сделка делает nference важным инфраструктурным партнером одного из крупнейших фармацевтических игроков в момент высокого коммерческого интереса к поиску лекарств с помощью ИИ. Финансовые условия соглашения в материале не раскрываются.",
+    "en": "On November 18, 2026, Novo Nordisk (NYSE: NVO) and Cambridge-based data firm nference announced a partnership built around a framework for jointly creating AI-driven health companies. The venture-creation side goes further than typical research deals, aiming to address unmet needs in cardiometabolic conditions and healthy ageing by forming new startups based on data.\n\nThe collaboration draws on a large body of mixed health information: clinical notes, lab results, radiology and pathology images, and genomic and proteomic data taken from biospecimens collected with patient consent. nference's federated AI platform will process this material together with Novo's clinical trial records, looking for patterns in how obesity, diabetes and cardiovascular disease progress over time.\n\nAmong the research goals the two companies named are precision trials that track weight loss alongside broader whole-body health measures, as well as studies of clinical pharmacology and combination therapy strategies. According to the companies, the aim is to narrow long-standing gaps in treatment effectiveness and long-term patient outcomes.\n\nJacob Sten Petersen, Group Vice President of R&D External Innovation at Novo, said the company sees major potential in using AI and data to better understand cardiometabolic disease and improve future treatments. nference brings a network of academic medical center partners, including Mayo Clinic, Duke Health and Vanderbilt University Medical Center. Novo, which has more than 66,500 employees worldwide, draws on a century of metabolic medicine research and a deep archive of clinical trial data.\n\nThe companies say all data sharing will happen within defined privacy and governance safeguards, which they describe as central to the collaboration's design. The article notes that the deal makes nference a key infrastructure partner for a major drugmaker at a time of strong commercial interest in AI-driven drug discovery. It does not report the financial terms of the arrangement.",
+    "kk": "2026 жылғы 18 қарашада Novo Nordisk (NYSE: NVO) мен Кембриджде орналасқан деректер компаниясы nference ЖИ негізіндегі денсаулық сақтау компанияларын бірлесіп құруға арналған шеңбер төңірегінде серіктестік туралы жариялады. Венчурлық компанияларды құру бөлігі әдеттегі зерттеу келісімдерінен асып түседі: ол деректерге негізделген жаңа стартаптар құру арқылы кардиометаболикалық аурулар мен салауатты қартаюдағы қанағаттандырылмаған қажеттіліктерді шешуді көздейді.\n\nЫнтымақтастық әртүрлі денсаулық туралы ақпараттың үлкен жиынтығына сүйенеді: клиникалық жазбалар, зертханалық нәтижелер, радиология мен патология суреттері, сондай-ақ пациенттердің келісімімен алынған биоүлгілерден шыққан геномдық және протеомдық деректер. nference компаниясының федеративті ЖИ платформасы бұл материалды Novo-ның клиникалық сынақ жазбаларымен бірге өңдейді, уақыт өте келе семіздік, диабет және жүрек-қан тамырлары аурулары қалай дамитынындағы заңдылықтарды іздейді.\n\nЕкі компания атаған зерттеу мақсаттарының арасында салмақ жоғалтуды кең көлемдегі дене денсаулығының көрсеткіштерімен қатар қадағалайтын дәлдік сынақтары, сондай-ақ клиникалық фармакология мен біріктірілген емдеу стратегияларын зерттеу бар. Компаниялардың айтуынша, мақсат — емнің тиімділігіндегі және пациенттердің ұзақ мерзімді нәтижелериндегі ұзақ уақыт бойы сақталған кемшіліктерді азайту.\n\nNovo компаниясының ҒЗТКК және сыртқы инновациялар жөніндегі топ вице-президенті Жакоб Стен Петерсен компанияның ЖИ мен деректерді кардиометаболикалық ауруларды терең түсіну және болашақ емдеуді жақсарту үшін пайдалануда үлкен мүмкіндік көретінін айтты. nference академиялық медициналық орталықтармен серіктестік желісіне ие, оның ішінде Mayo Clinic, Duke Health және Vanderbilt University Medical Center. Novo дүние жүзі бойынша 66 500-ден астам адам жұмыс істейді, ал оның клиникалық сынақ деректерінің терең архиві метаболикалық медицинадағы жүз жылдық зерттеулерге негізделген.\n\nКомпаниялар барлық деректер алмасуы анықталған құпиялылық және басқару кепілдіктері аясында жүзеге асатынын айтады; олардың пікірінше, бұл ынтымақтастықтың дизайнының негізгі бөлігі. Мақалада айтылғандай, бұл келісім nference компаниясын ЖИ арқылы дәрі-дәрмек табуға үлкен коммерциялық қызығушылық тұсында ірі фармацевтикалық компанияның негізгі инфрақұрылымдық серіктесіне айналдырады. Мәміленің қаржылық шарттары хабарланбаған.",
+    "de": "Am 18. November 2026 kündigten Novo Nordisk (NYSE: NVO) und das in Cambridge ansässige Datenunternehmen nference eine Partnerschaft an, die auf einem Rahmen zur gemeinsamen Gründung KI-basierter Gesundheitsunternehmen beruht. Der Teil zur Unternehmensgründung geht über übliche Forschungsabkommen hinaus: Er soll über neue, auf Daten basierende Start-ups ungedeckte Bedürfnisse bei kardiometabolischen Erkrankungen und gesundem Altern angehen.\n\nDie Zusammenarbeit stützt sich auf einen großen Bestand gemischter Gesundheitsinformationen: klinische Notizen, Laborergebnisse, Radiologie- und Pathologiebilder sowie genomische und proteomische Daten aus Biomaterialien, die mit Einwilligung der Patienten gewonnen wurden. Die föderierte KI-Plattform von nference wird dieses Material zusammen mit den klinischen Studiendaten von Novo verarbeiten, um Muster zu finden, wie sich Adipositas, Diabetes und Herz-Kreislauf-Erkrankungen im Zeitverlauf entwickeln.\n\nZu den Forschungszielen beider Unternehmen gehören präzise Studien, die Gewichtsverlust zusammen mit breiteren Messwerten für den gesamten Körper verfolgen, sowie Untersuchungen zur klinischen Pharmakologie und zu Kombinationstherapie-Strategien. Laut den Unternehmen soll so die seit Langem bestehende Lücke bei der Wirksamkeit von Behandlungen und den langfristigen Ergebnissen für Patienten verringert werden.\n\nJacob Sten Petersen, Group Vice President für F&E und externe Innovation bei Novo, sagte, das Unternehmen sehe große Chancen darin, mit KI und Daten die kardiometabolischen Erkrankungen besser zu verstehen und künftige Behandlungen zu verbessern. nference bringt ein Netzwerk von Partnern aus akademischen Medizinzentren ein, darunter Mayo Clinic, Duke Health und Vanderbilt University Medical Center. Novo beschäftigt weltweit mehr als 66.500 Menschen und stützt sich auf ein Jahrhundert Forschung in der metabolischen Medizin sowie ein umfangreiches Archiv klinischer Studiendaten.\n\nDie Unternehmen erklären, dass sämtlicher Datenaustausch innerhalb definierter Schutzmechanismen für Datenschutz und Governance stattfindet, die sie als zentral für das Design der Zusammenarbeit beschreiben. Der Artikel weist darauf hin, dass die Vereinbarung nference zu einem wichtigen Infrastrukturpartner eines großen Pharmaunternehmens macht, in einer Zeit starken kommerziellen Interesses an KI-gestützter Wirkstoffforschung. Die finanziellen Bedingungen der Vereinbarung werden nicht genannt.",
+    "es": "El 18 de noviembre de 2026, Novo Nordisk (NYSE: NVO) y la empresa de datos con sede en Cambridge nference anunciaron una alianza construida en torno a un marco para crear conjuntamente empresas sanitarias impulsadas por IA. La parte de creación de empresas va más allá de los acuerdos de investigación habituales: busca atender necesidades no cubiertas en enfermedades cardiometabólicas y en el envejecimiento saludable mediante la formación de nuevas startups basadas en datos.\n\nLa colaboración se apoya en un amplio conjunto de información sanitaria de distinto tipo: notas clínicas, resultados de laboratorio, imágenes de radiología y patología, y datos genómicos y proteómicos obtenidos de biomuestras recogidas con el consentimiento de los pacientes. La plataforma federada de IA de nference procesará este material junto con los registros de ensayos clínicos de Novo, buscando patrones en la evolución de la obesidad, la diabetes y las enfermedades cardiovasculares a lo largo del tiempo.\n\nEntre los objetivos de investigación que citan las dos compañías figuran ensayos de precisión que siguen la pérdida de peso junto con indicadores más amplios de salud de todo el organismo, así como estudios de farmacología clínica y de estrategias de terapia combinada. Según las empresas, el propósito es reducir las brechas de larga data en la eficacia de los tratamientos y en los resultados a largo plazo para los pacientes.\n\nJacob Sten Petersen, vicepresidente de grupo de I+D e innovación externa en Novo, afirmó que la compañía ve una gran oportunidad en usar la IA y los datos para comprender mejor las enfermedades cardiometabólicas y mejorar los tratamientos futuros. nference aporta una red de socios de centros médicos académicos, entre ellos Mayo Clinic, Duke Health y Vanderbilt University Medical Center. Novo, que emplea a más de 66.500 personas en todo el mundo, se apoya en un siglo de investigación en medicina metabólica y en un amplio archivo de datos de ensayos clínicos.\n\nLas compañías afirman que todo el intercambio de datos se realizará dentro de salvaguardas definidas de privacidad y gobernanza, que describen como fundamentales para el diseño de la colaboración. El artículo señala que el acuerdo convierte a nference en un socio de infraestructura clave para una gran farmacéutica, en un momento de fuerte interés comercial por el descubrimiento de fármacos basado en IA. No se informan las condiciones económicas del acuerdo."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Сотрудников Novo Nordisk по всему миру",
+      "en": "Novo Nordisk employees worldwide",
+      "kk": "Novo Nordisk компаниясының дүние жүзі бойынша қызметкерлері",
+      "de": "Novo-Nordisk-Mitarbeitende weltweit",
+      "es": "Empleados de Novo Nordisk en todo el mundo"
+     },
+     "v": {
+      "ru": "более 66 500",
+      "en": "more than 66,500",
+      "kk": "66 500-ден астам",
+      "de": "mehr als 66.500",
+      "es": "más de 66.500"
+     }
+    },
+    {
+     "k": {
+      "ru": "Дата объявления партнерства",
+      "en": "Partnership announcement date",
+      "kk": "Серіктестік жарияланған күні",
+      "de": "Datum der Ankündigung der Partnerschaft",
+      "es": "Fecha del anuncio de la alianza"
+     },
+     "v": {
+      "ru": "18 ноября 2026 года",
+      "en": "November 18, 2026",
+      "kk": "2026 жылғы 18 қараша",
+      "de": "18. November 2026",
+      "es": "18 de noviembre de 2026"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVVE_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-20",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Омадациклин не уступает стандартной терапии при инфекциях диабетической стопы",
+    "en": "Omadacycline Matches Standard Care for Diabetic Foot Infections",
+    "kk": "Омадациклин диабеттік табан инфекцияларында стандартты емге тең келеді",
+    "de": "Omadacyclin ist bei diabetischen Fußinfektionen so wirksam wie die Standardbehandlung",
+    "es": "Omadaciclina iguala la atención estándar en infecciones del pie diabético"
+   },
+   "text": {
+    "ru": "Исследование показало, что омадациклин сопоставим по эффективности со стандартным лечением инфекций диабетической стопы.",
+    "en": "A study found omadacycline comparable in effectiveness to standard care for diabetic foot infections.",
+    "kk": "Зерттеу омадациклиннің диабеттік табан инфекцияларын емдеуде стандартты емге ұқсас тиімді екенін көрсетті.",
+    "de": "Eine Studie ergab, dass Omadacyclin bei diabetischen Fußinfektionen vergleichbar wirksam ist wie die Standardbehandlung.",
+    "es": "Un estudio encontró que la omadaciclina es comparable en eficacia a la atención estándar para las infecciones del pie diabético."
+   },
+   "url": "https://bioengineer.org/omadacycline-matches-standard-care-for-diabetic-foot-infections/",
+   "src": "Bioengineer.org",
+   "photoQuery": "diabetic foot care supplies",
+   "photo": {
+    "id": "u_qV9epDlDb_k",
+    "url": "https://images.unsplash.com/photo-1765100479267-9154eab22008?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8ZGlhYmV0aWMlMjBmb290JTIwY2FyZSUyMHN1cHBsaWVzfGVufDF8MHx8fDE3OTUxNDM2Njh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitalii Kyktov",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/close-up-of-a-persons-bare-foot-on-sand-qV9epDlDb_k?utm_source=dia_news&utm_medium=referral",
+    "alt": "Close-up of a person's bare foot on sand"
+   },
+   "body": {
+    "ru": "Небольшое проспективное исследование, опубликованное в журнале Infectious Diseases and Therapy, показывает, что омадациклин, антибиотик широкого спектра действия, может работать примерно так же, как стандартная терапия, у госпитализированных взрослых с умеренными и тяжёлыми инфекциями диабетической стопы. Работа проходила в двух центрах, и в неё включали пациентов с января 2021 по октябрь 2024 года. Основное внимание уделялось людям с высоким риском осложнений от обычных препаратов, например повреждения почек или инфекции C. difficile. Четырнадцати пациентам назначали омадациклин, и их сравнивали с 28 историческими контрольными случаями, получавшими стандартное лечение; группы подбирали по возрасту, полу, типу диабета и другим признакам.\n\nКлиническое выздоровление к концу терапии отметили 90% пациентов, которые прошли курс омадациклином, и 85,7% из контрольной группы. Разница не была статистически значимой (p = 0,999). На визите для контроля излечения успех сохранялся у 60% в группе омадациклина и у 64,3% в контрольной группе. Пациенты, получавшие омадациклин, в первый день получали 200 мг внутривенно, затем 100 мг внутривенно или 300 мг перорально один раз в сутки.\n\nПо безопасности результаты были в пользу омадациклина. В этой группе серьёзных нежелательных явлений, связанных с препаратами, не зафиксировали, тогда как в группе стандартной терапии их было 25%. Все пациенты группы омадациклина смогли перейти на пероральный приём, а из контрольной группы центральный венозный катетер понадобился 20 из 28 человек (p < 0,001 по этому различию).\n\nАвторы указывают на ограничения: небольшая выборка, исторические, а не одновременные контрольные группы и более высокая доля тяжёлого воспалительного состояния в группе омадациклина (50% против 7,1%). Четверо пациентов, получавших омадациклин, прекратили лечение после выявления устойчивых возбудителей. Исследователи называют свои выводы генерирующими гипотезы и считают нужными более крупные многоцентровые исследования с более długим наблюдением.",
+    "en": "A small prospective study published in Infectious Diseases and Therapy suggests that omadacycline, a broad-spectrum antibiotic, may work about as well as standard treatment for hospitalized adults with moderate-to-severe diabetic foot infections. The work was carried out at two centers and enrolled patients between January 2021 and October 2024. It focused on people at high risk of harm from usual drugs, such as kidney injury or C. difficile infection. Fourteen patients received omadacycline, and they were compared with 28 historical controls who got standard care, matched on age, sex, diabetes type and other factors.\n\nClinical success at the end of therapy was reached by 90% of omadacycline patients who completed the course, and by 85.7% of controls. The difference was not statistically significant (p = 0.999). At the test-of-cure visit, success was seen in 60% of the omadacycline group and 64.3% of the controls. Omadacycline patients received 200 mg intravenously on day one, followed by either 100 mg intravenously or 300 mg orally once daily.\n\nSafety results favored omadacycline. No serious adverse drug events were recorded in that group, compared with 25% in the standard-care group. All omadacycline patients could move to oral treatment, while 20 of the 28 controls needed a central venous catheter (p < 0.001 for that difference).\n\nThe authors point to several limitations: a small sample, historical rather than concurrent controls, and a higher share of severe inflammatory illness in the omadacycline group (50% versus 7.1%). Four omadacycline patients stopped therapy after resistant pathogens were identified. The researchers describe their findings as hypothesis-generating and say larger, multicenter studies with longer follow-up are needed.",
+    "kk": "Infectious Diseases and Therapy журналында жарияланған шағын перспективалық зерттеу омадациклиннің, кең спектрлі антибиотиктің, госпитальденген ересектердегі орта және ауыр диабеттік табан инфекцияларында стандартты емдеумен шамамен бірдей нәтиже беруі мүмкін екенін көрсетеді. Жұмыс екі орталықта жүргізілді және 2021 жылдың қаңтарынан 2024 жылдың қазанына дейін пациенттерді қамтыды. Зерттеу бүйрек зақымы немесе C. difficile инфекциясы сияқты әдеттегі дәрілерден асқыну қаупі жоғары адамдарға бағытталды. Он төрт пациент омадациклин алды, оларды стандартты емдеу алған 28 тарихи бақылау тобымен салыстырды; топтар жасы, жынысы, диабет түрі және басқа белгілері бойынша сәйкестендірілді.\n\nЕмдеу курсының соңында клиникалық сәтті нәтижеге курсты аяқтаған омадациклин пациенттерінің 90%-ы, ал бақылау тобының 85,7%-ы жетті. Айырмашылық статистикалық маңызды емес болды (p = 0,999). Емнің нәтижесін бекіту визитінде омадациклин тобында 60%, бақылау тобында 64,3% сәттілік байқалды. Омадациклин алған пациенттер бірінші күні 200 мг венаішілік, содан кейін күніне бір рет 100 мг венаішілік немесе 300 мг ауыз арқылы алды.\n\nҚауіпсіздік нәтижелері омадациклин жағында болды. Бұл топта дәрілерге байланысты ауыр жағымсыз оқиғалар тіркелмеді, ал стандартты емдеу тобында олар 25% болды. Омадациклин тобының барлық пациенттері ауызша емге ауыса алды, ал бақылау тобынан 28 адамның 20-сы орталық венаға катетер қажет етті (бұл айырмашылық үшін p < 0,001).\n\nАвторлар шектеулерді атап өтеді: шағын үлгі, одан басқа бір уақытта емес, тарихи бақылау топтары және омадациклин тобында ауыр қабыну ауруының жоғары үлесі (50% және 7,1%). Омадациклин алған төрт пациент төзімді патогендер анықталғаннан кейін емді тоқтатты. Зерттеушілер нәтижелерді гипотеза туғызатын деп сипаттайды және ұзақ бақылаумен үлкенірек көп орталықты зерттеулер қажет деп санайды.",
+    "de": "Eine kleine prospektive Studie, veröffentlicht in Infectious Diseases and Therapy, legt nahe, dass Omadacyclin, ein Breitspektrum-Antibiotikum, bei hospitalisierten Erwachsenen mit mittelschweren bis schweren diabetischen Fußinfektionen ungefähr so gut wirken könnte wie die Standardtherapie. Die Untersuchung fand an zwei Zentren statt und schloss Patienten zwischen Januar 2021 und Oktober 2024 ein. Im Fokus standen Menschen mit hohem Risiko für Schäden durch übliche Medikamente, etwa Nierenschäden oder eine Infektion mit C. difficile. Vierzehn Patienten erhielten Omadacyclin; sie wurden mit 28 historischen Kontrollen verglichen, die Standardbehandlung erhalten hatten, passend nach Alter, Geschlecht, Diabetestyp und weiteren Faktoren.\n\nEinen klinischen Behandlungserfolg am Therapieende erreichten 90 % der Omadacyclin-Patienten, die den Kurs abschlossen, und 85,7 % der Kontrollgruppe. Der Unterschied war statistisch nicht signifikant (p = 0,999). Beim Kontrollbesuch zum Heilungsnachweis zeigte sich der Erfolg bei 60 % der Omadacyclin-Gruppe und 64,3 % der Kontrollen. Die Omadacyclin-Patienten erhielten am ersten Tag 200 mg intravenös, danach täglich einmal entweder 100 mg intravenös oder 300 mg oral.\n\nDie Sicherheitsergebnisse sprachen für Omadacyclin. In dieser Gruppe wurden keine schwerwiegenden unerwünschten Arzneimittelwirkungen erfasst, in der Standardgruppe waren es 25 %. Alle Omadacyclin-Patienten konnten auf orale Therapie umstellen, während 20 der 28 Kontrollpersonen einen zentralen Venenkatheter benötigten (p < 0,001 für diesen Unterschied).\n\nDie Autoren nennen Einschränkungen: eine kleine Stichprobe, historische statt gleichzeitiger Kontrollen und einen höheren Anteil schwerer entzündlicher Krankheitszustände in der Omadacyclin-Gruppe (50 % gegenüber 7,1 %). Vier Omadacyclin-Patienten brachen die Behandlung ab, nachdem resistente Erreger nachgewiesen worden waren. Die Forschenden bezeichnen ihre Befunde als hypothesengenerierend und halten größere multizentrische Studien mit längerer Nachbeobachtung für nötig.",
+    "es": "Un pequeño estudio prospectivo publicado en Infectious Diseases and Therapy sugiere que la omadaciclina, un antibiótico de amplio espectro, podría funcionar tan bien como el tratamiento estándar en adultos hospitalizados con infecciones moderadas o graves del pie diabético. El trabajo se realizó en dos centros e incluyó a pacientes entre enero de 2021 y octubre de 2024. Se centró en personas con alto riesgo de daño por los fármacos habituales, como la lesión renal o la infección por C. difficile. Catorce pacientes recibieron omadaciclina y se compararon con 28 controles históricos que habían recibido atención estándar, emparejados por edad, sexo, tipo de diabetes y otros factores.\n\nEl éxito clínico al final del tratamiento lo alcanzó el 90 % de los pacientes con omadaciclina que completaron el curso, frente al 85,7 % de los controles. La diferencia no fue estadísticamente significativa (p = 0,999). En la visita de confirmación de curación, el éxito se observó en el 60 % del grupo de omadaciclina y en el 64,3 % de los controles. Los pacientes con omadaciclina recibieron 200 mg por vía intravenosa el primer día, seguidos de 100 mg intravenosos o 300 mg orales una vez al día.\n\nLos resultados de seguridad favorecieron a la omadaciclina. En ese grupo no se registraron eventos adversos graves relacionados con fármacos, frente al 25 % del grupo de atención estándar. Todos los pacientes con omadaciclina pudieron pasar a tratamiento oral, mientras que 20 de los 28 controles necesitaron un catéter venoso central (p < 0,001 para esa diferencia).\n\nLos autores señalan limitaciones: una muestra pequeña, controles históricos en lugar de simultáneos y una mayor proporción de enfermedad inflamatoria grave en el grupo de omadaciclina (50 % frente a 7,1 %). Cuatro pacientes con omadaciclina dejaron el tratamiento tras identificarse patógenos resistentes. Los investigadores describen sus hallazgos como generadores de hipótesis y consideran necesarios estudios multicéntricos más grandes con un seguimiento más prolongado."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Клиническая успешность к концу терапии (омадациклин / стандартная терапия)",
+      "en": "Clinical success at end of therapy (omadacycline / standard care)",
+      "kk": "Емдеу соңындағы клиникалық сәттілік (омадациклин / стандартты ем)",
+      "de": "Klinischer Erfolg am Therapieende (Omadacyclin / Standardtherapie)",
+      "es": "Éxito clínico al final del tratamiento (omadaciclina / atención estándar)"
+     },
+     "v": {
+      "ru": "90% / 85,7% (p = 0,999)",
+      "en": "90% / 85.7% (p = 0.999)",
+      "kk": "90% / 85,7% (p = 0,999)",
+      "de": "90 % / 85,7 % (p = 0,999)",
+      "es": "90 % / 85,7 % (p = 0,999)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Серьёзные нежелательные явления, связанные с препаратами (омадациклин / стандартная терапия)",
+      "en": "Serious adverse drug events (omadacycline / standard care)",
+      "kk": "Дәрілерге байланысты ауыр жағымсыз оқиғалар (омадациклин / стандартты ем)",
+      "de": "Schwerwiegende unerwünschte Arzneimittelwirkungen (Omadacyclin / Standardtherapie)",
+      "es": "Eventos adversos graves relacionados con fármacos (omadaciclina / atención estándar)"
+     },
+     "v": {
+      "ru": "0% / 25%",
+      "en": "0% / 25%",
+      "kk": "0% / 25%",
+      "de": "0 % / 25 %",
+      "es": "0 % / 25 %"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nJ4cj9vYz01",
+   "cat": "cure",
+   "stage": "early",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Стволовые везикулы, успокаивающие иммунный ответ, задержали диабет 1 типа у мышей",
+    "en": "Type 1 Diabetes Delayed in Mice by Stem Cell-Derived Vesicles That Calm Immune Response",
+    "kk": "Иммундық жауапты басатын дің жасушаларынан алынған везикулалар тышқандарда 1 типті диабеттің басталуын кешіктірді",
+    "de": "Stammzell-Vesikel, die die Immunantwort beruhigen, verzögern Typ-1-Diabetes bei Mäusen",
+    "es": "Vesículas derivadas de células madre que calman la respuesta inmune retrasan la diabetes tipo 1 en ratones"
+   },
+   "text": {
+    "ru": "В исследовании на мышах везикулы, полученные из стволовых клеток, смягчали иммунный ответ и задерживали развитие диабета 1 типа.",
+    "en": "In a mouse study, vesicles derived from stem cells calmed the immune response and delayed type 1 diabetes.",
+    "kk": "Тышқандарға жүргізілген зерттеуде дің жасушаларынан алынған везикулалар иммундық жауапты басып, 1 типті диабетті кешіктірді.",
+    "de": "In einer Mausstudie beruhigten aus Stammzellen gewonnene Vesikel die Immunantwort und verzögerten Typ-1-Diabetes.",
+    "es": "En un estudio con ratones, las vesículas derivadas de células madre calmaron la respuesta inmune y retrasaron la diabetes tipo 1."
+   },
+   "url": "https://www.uclahealth.org/news/release/stem-cell-derived-nanoparticles-modulate-immune-cells-and",
+   "src": "Genetic Engineering and Biotechnology News",
+   "photoQuery": "laboratory cell culture petri dish",
+   "photo": {
+    "id": "u_OYlhHhzksuk",
+    "url": "https://images.unsplash.com/photo-1631557676757-fcc7b1160be8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bGFib3JhdG9yeSUyMGNlbGwlMjBjdWx0dXJlJTIwcGV0cmklMjBkaXNofGVufDF8MHx8fDE3OTUxNDM2Njh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/hands-using-tweezers-with-petri-dish-OYlhHhzksuk?utm_source=dia_news&utm_medium=referral",
+    "alt": "Hands using tweezers to manipulate small white particles in a glass petri dish"
+   },
+   "body": {
+    "ru": "Исследователи из UCLA сообщили, что мелкие частицы, которые выделяют некоторые стволовые клетки, могут смягчать иммунную атаку, разрушающую инсулинпродуцирующие клетки при диабете 1 типа, по крайней мере у мышей. Работа под руководством Сун Ли опубликована в журнале Nature Nanotechnology. Эти частицы, называемые внеклеточными везикулами, выделяют почти все типы клеток, и они помогают клеткам обмениваться сигналами.\n\nКоманда сравнила везикулы эмбриональных стволовых клеток и индуцированных плюрипотентных стволовых клеток (iPSC) с везикулами мезенхимальных стволовых клеток. В опытах с иммунными клетками мышей и человека везикулы плюрипотентных клеток сильнее подавляли воспаление и способствовали образованию регуляторных Т-клеток, которые помогают иммунной системе не атаковать собственные ткани организма.\n\nУ мышей исследователи вводили иммунные клетки, атакующие инсулинпродуцирующие клетки, а затем лечили животных везикулами из iPSC. Поскольку везикулы быстро уходят из места введения, команда создала инъекционный гидрогель, который высвобождает их в течение нескольких дней; его вводили под кожу около шеи. Два введения, как самих везикул, так и через гель, значимо задерживали начало диабета по сравнению с необработанной контрольной группой. К концу 90-дневного исследования 55% мышей, получавших везикулы в гидрогеле, оставались без диабета. У этих мышей также было больше регуляторных Т-клеток в лимфоузлах и сохранялось больше инсулинпродуцирующей ткани поджелудочной железы.\n\nЕщё одним препятствием было наращивание производства. Выращивание стволовых клеток в трёхмерных скоплениях в мягко движущейся жидкости повышало выход везикул в 3,4 раза на миллион клеток при сохранении ключевых свойств.\n\nРабота остаётся экспериментальной, и пока неизвестно, будет ли метод безопасным и эффективным для людей. Ли видит наибольший потенциал для пациентов на ранних стадиях, когда часть инсулинпродуцирующих клеток ещё работает; при запущенной болезни подход может помочь предотвратить отторжение пересаженных клеток. Дальнейшие шаги: опыты на крупных животных, изучение дозировки, долгосрочного эффекта и того, не ослабит ли лечение защиту от инфекций.",
+    "en": "Researchers at UCLA report that tiny particles released by certain stem cells can calm the immune attack that destroys insulin-producing cells in type 1 diabetes, at least in mice. The study, led by Song Li, appeared in the journal Nature Nanotechnology. The particles, called extracellular vesicles, are released by nearly all cell types and help cells signal to one another.\n\nThe team compared vesicles from embryonic stem cells and induced pluripotent stem cells (iPSCs) with vesicles from mesenchymal stem cells. In experiments with mouse and human immune cells, the vesicles from pluripotent cells suppressed inflammation more strongly and encouraged the growth of regulatory T cells, which help the immune system avoid attacking the body's own tissues.\n\nIn mice, the researchers introduced immune cells that attack insulin-producing cells, then treated the animals with iPSC-derived vesicles. Because the vesicles leave the injection site quickly, the team built an injectable hydrogel that releases them over several days; it was injected under the skin near the neck. Two treatments, given alone or through the gel, significantly delayed diabetes onset compared with untreated controls. At the end of the 90-day study, 55% of mice receiving vesicles in the hydrogel were still diabetes-free. These mice also had more regulatory T cells in their lymph nodes and retained more insulin-producing pancreatic tissue.\n\nScaling up production was another hurdle. Growing stem cells in three-dimensional clusters in gently moving liquid raised vesicle output 3.4-fold per million cells while preserving key characteristics.\n\nThe work is still experimental, and it is not yet known whether it would be safe and effective in people. Li sees the greatest promise for patients in early stages, when some insulin-producing cells still function; in advanced disease, the approach could potentially help prevent rejection of transplanted cells. Next steps include testing larger animal models, dosing, long-term effects, and whether the treatment could weaken defenses against infection.",
+    "kk": "UCLA зерттеушілері кейбір бағаналы жасушалар бөлетін ұсақ бөлшектердің 1 типті қант диабетінде инсулин өндіретін жасушаларды жоятын иммундық шабуылды басатынын хабарлады — кем дегенде тышқандарда. Зерттеуді Сун Ли басқарды, ол Nature Nanotechnology журналында жарияланды. Жасушаралық везикулалар деп аталатын бұл бөлшектерді дерлік барлық жасушалар бөледі және олар жасушалардың өзара байланысына көмектеседі.\n\nКоманда эмбрионалдық бағаналы жасушалардың және индукцияланған плюрипотентті бағаналы жасушалардың (iPSC) везикулаларын мезенхималдық бағаналы жасушалардың везикулаларымен салыстырды. Тышқан мен адам иммундық жасушаларымен жүргізілген тәжірибелерде плюрипотентті жасушалардың везикулалары қабынуды күштірек басты және иммундық жүйенің өз ұлпаларына шабуыл жасамауына көмектесетін реттеуші Т-жасушалардың пайда болуын ынталандырды.\n\nТышқандарға инсулин өндіретін жасушаларға шабуыл жасайтын иммундық жасушалар енгізіліп, кейін жануарларға iPSC везикулаларымен ем берілді. Везикулалар енгізу орнынан тез кететіндіктен, команда бірнеше күн бойы оларды біртіндеп бөлетін инъекциялық гидрогель жасады; ол мойын маңындағы теріасты қабатына енгізілді. Везикулаларды дербес немесе гель арқылы екі рет енгізу бақыланбаған топпен салыстырғанда диабеттің басталуын айтарлықтай кейінге қалдырды. 90 күндік зерттеу аяқталғанда гельде везикулалар алған тышқандардың 55%-ы диабетсіз қалды. Бұл тышқандардың лимфа түйіндерінде реттеуші Т-жасушалары көбірек болды және ұйқы безінің инсулин өндіретін ұлпасы да көбірек сақталды.\n\nӨндірісті ұлғайту тағы бір кедергі болды. Бағаналы жасушаларды жылжыған сұйықтықта үшөлшемді топтарда өсіру миллион жасушаға шаққанда везикулалар шығымын 3,4 есе арттырды, бірақ негізгі сипаттамаларын сақтады.\n\nЖұмыс әлі эксперименттік сатыда, және оның адамдарға қауіпсіз әрі тиімді болатынын әлі білмейміз. Ли ең зор мүмкіндікті ауруының ерте сатысындағы науқастардан көреді, яғни инсулин өндіретін жасушалардың бір бөлігі әлі жұмыс істеп тұрған кезде; ауру ілгерілегенде бұл тәсіл егілген жасушалардың қабылданбауын болдырмауға көмектесуі мүмкін. Алдағы қадамдар: үлкен жануарларда сынақтар, дозалау, ұзақ мерзімді әсер және емнің инфекцияға қарсы қорғанысты әлсіретуі мүмкін бе, соны зерттеу.",
+    "de": "Forschende der UCLA berichten, dass winzige Partikel, die von bestimmten Stammzellen freigesetzt werden, den Immunangriff dämpfen können, der insulinproduzierende Zellen bei Typ-1-Diabetes zerstört – zumindest bei Mäusen. Die Studie unter Leitung von Song Li erschien in der Fachzeitschrift Nature Nanotechnology. Die sogenannten extrazellulären Vesikel werden von fast allen Zelltypen abgegeben und dienen der Kommunikation zwischen Zellen.\n\nDas Team verglich Vesikel aus embryonalen Stammzellen und induzierten pluripotenten Stammzellen (iPSC) mit Vesikeln aus mesenchymalen Stammzellen. In Versuchen mit Immunzellen von Mäusen und Menschen wirkten die Vesikel aus pluripotenten Zellen stärker entzündungshemmend und förderten die Bildung regulatorischer T-Zellen, die verhindern, dass das Immunsystem körpereigenes Gewebe angreift.\n\nBei Mäusen brachten die Forschenden Immunzellen ein, die insulinproduzierende Zellen angreifen, und behandelten die Tiere anschließend mit iPSC-Vesikeln. Da die Vesikel rasch von der Einstichstelle verschwinden, entwickelte das Team ein injizierbares Hydrogel, das sie über mehrere Tage abgibt; es wurde unter die Haut nahe dem Hals gespritzt. Zwei Behandlungen, allein oder über das Gel, verzögerten den Diabetesbeginn im Vergleich zu unbehandelten Kontrollen deutlich. Am Ende der 90-tägigen Studie blieben 55 % der Mäuse, die Vesikel im Hydrogel erhielten, diabetesfrei. Diese Mäuse hatten außerdem mehr regulatorische T-Zellen in den Lymphknoten und mehr insulinproduzierendes Pankreasgewebe erhalten.\n\nAuch die Herstellung in ausreichender Menge war ein Hindernis. Wurden Stammzellen in dreidimensionalen Zellhaufen in sanft bewegter Flüssigkeit gezüchtet, stieg die Vesikelausbeute pro Million Zellen auf das 3,4-Fache, wobei wichtige Eigenschaften erhalten blieben.\n\nDer Ansatz ist noch experimentell; ob er bei Menschen sicher und wirksam wäre, ist unbekannt. Li sieht das größte Potenzial in frühen Krankheitsstadien, in denen noch einige insulinproduzierende Zellen funktionieren; bei fortgeschrittener Erkrankung könnte die Methode womöglich helfen, die Abstoßung transplantierter Zellen zu verhindern. Als Nächstes sind Tests an größeren Tiermodellen, Dosierung, Langzeitwirkung und die Frage geplant, ob die Behandlung die Abwehr gegen Infektionen schwächen könnte.",
+    "es": "Investigadores de la UCLA informan de que unas diminutas partículas liberadas por ciertas células madre pueden calmar el ataque inmunitario que destruye las células productoras de insulina en la diabetes tipo 1, al menos en ratones. El estudio, dirigido por Song Li, se publicó en la revista Nature Nanotechnology. Estas partículas, llamadas vesículas extracelulares, son liberadas por casi todos los tipos de células y sirven para que se comuniquen entre sí.\n\nEl equipo comparó vesículas de células madre embrionarias y de células madre pluripotentes inducidas (iPSC) con vesículas de células madre mesenquimales. En experimentos con células inmunitarias de ratones y humanos, las vesículas derivadas de células pluripotentes mostraron efectos antiinflamatorios más fuertes e impulsaron la formación de linfocitos T reguladores, que ayudan a que el sistema inmunitario no ataque los tejidos del propio cuerpo.\n\nEn ratones, los investigadores introdujeron células inmunitarias que atacan a las células productoras de insulina y luego trataron a los animales con vesículas derivadas de iPSC. Como las vesículas abandonan rápidamente el lugar de la inyección, el equipo creó un hidrogel inyectable que las libera durante varios días; se inyectó bajo la piel cerca del cuello. Dos tratamientos, solos o mediante el gel, retrasaron de forma significativa el inicio de la diabetes frente a controles sin tratar. Al final del estudio de 90 días, el 55 % de los ratones que recibieron vesículas en el hidrogel seguían sin diabetes. Estos ratones también tenían más linfocitos T reguladores en los ganglios linfáticos y conservaban más tejido pancreático productor de insulina.\n\nEscalar la producción fue otro obstáculo. Cultivar las células madre en agregados tridimensionales en un líquido en movimiento suave aumentó 3,4 veces la producción de vesículas por millón de células, manteniendo sus características clave.\n\nEl trabajo sigue siendo experimental y aún no se sabe si sería seguro y eficaz en personas. Li ve el mayor potencial en las etapas iniciales, cuando todavía funcionan algunas células productoras de insulina; en la enfermedad avanzada, el enfoque podría ayudar a prevenir el rechazo de células trasplantadas. Los próximos pasos incluyen probar modelos animales más grandes, la dosificación, los efectos a largo plazo y si el tratamiento podría debilitar las defensas frente a infecciones."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Доля мышей без диабета к концу 90-дневного опыта (гидрогель)",
+      "en": "Share of mice still diabetes-free at end of 90-day study (hydrogel group)",
+      "kk": "90 күндік зерттеу аяқталғандағы диабетсіз тышқандар үлесі (гидрогель тобы)",
+      "de": "Anteil diabetesfreier Mäuse am Ende der 90-tägigen Studie (Hydrogel-Gruppe)",
+      "es": "Proporción de ratones sin diabetes al final del estudio de 90 días (grupo con hidrogel)"
+     },
+     "v": {
+      "ru": "55%",
+      "en": "55%",
+      "kk": "55%",
+      "de": "55 %",
+      "es": "55 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Увеличение выхода везикул при 3D-культивировании",
+      "en": "Increase in vesicle output with 3D culture",
+      "kk": "3D өсіру кезінде везикулалар шығымының артуы",
+      "de": "Steigerung der Vesikelausbeute bei 3D-Kultur",
+      "es": "Aumento de la producción de vesículas con cultivo 3D"
+     },
+     "v": {
+      "ru": "в 3,4 раза на миллион клеток",
+      "en": "3.4-fold per million cells",
+      "kk": "миллион жасушаға 3,4 есе",
+      "de": "das 3,4-Fache pro Million Zellen",
+      "es": "3,4 veces por millón de células"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nYyYz9vYz01",
+   "cat": "devices",
+   "stage": "early",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Умная зубная нить сможет выявлять диабет и заболевания десен",
+    "en": "Smart Dental Floss Could Detect Diabetes and Gum Disease",
+    "kk": "Ақылды тіс жібі диабетті және ұйық ауруларын анықтай алады",
+    "de": "Smarte Zahnseide könnte Diabetes und Zahnfleischerkrankungen erkennen",
+    "es": "Un hilo dental inteligente podría detectar la diabetes y las enfermedades de las encías"
+   },
+   "text": {
+    "ru": "Сообщается о разработке умной зубной нити, которая может помочь выявлять диабет и заболевания десен.",
+    "en": "Reports describe a smart dental floss that may help detect diabetes and gum disease.",
+    "kk": "Диабет пен ұйық ауруларын анықтауға көмектесе алатын ақылды тіс жібі туралы хабарланды.",
+    "de": "Berichten zufolge könnte eine smarte Zahnseide helfen, Diabetes und Zahnfleischerkrankungen zu erkennen.",
+    "es": "Se informa de un hilo dental inteligente que podría ayudar a detectar la diabetes y las enfermedades de las encías."
+   },
+   "url": "https://incrussia.ru/news/umnaya-zubnaya-nit-smozhet-vyyavlyat-diabet-i-zabolevaniya-desen/",
+   "src": "Inc. Russia",
+   "photoQuery": "dental floss close-up",
+   "photo": {
+    "id": "u_TqS6pLZ0X-8",
+    "url": "https://images.unsplash.com/photo-1574892986284-ec7b6181bf04?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8ZGVudGFsJTIwZmxvc3MlMjBjbG9zZS11cHxlbnwxfDB8fHwxNzk1MTQzNjY5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Joseph Costa",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/person-eating-bubble-gum-TqS6pLZ0X-8?utm_source=dia_news&utm_medium=referral",
+    "alt": "person eating bubble gum"
+   },
+   "body": {
+    "ru": "19 ноября 2026 года журнал «Инк.» рассказал о прототипе зубной нити, созданном учеными Гонконгского университета науки и технологий (HKUST). Устройство способно оценивать уровень глюкозы и мочевой кислоты и замечать признаки воспаления десен, поэтому его могут применять для домашнего контроля здоровья без регулярных анализов крови. Итоги работы опубликованы в журнале Science Advances.\n\nГруппу возглавляет Хнин Инь Инь Ньейн. Прибор анализирует десневую жидкость, которая скапливается в узких бороздках вокруг зубов и содержит метаболиты, белки и маркеры воспаления, частично поступающие из крови. В отличие от обычной нити, в устройстве есть система блоков: она собирает жидкость между зубами и подает ее в микрофлюидную камеру с биосенсорами. Сенсоры фиксируют глюкозу, мочевую кислоту, перекись водорода и pH, а данные по беспроводной связи передаются на смартфон.\n\nВ предварительных испытаниях участвовали здоровые люди и пациенты с диабетом, высоким уровнем мочевой кислоты или болезнями десен. Показатели глюкозы, полученные прибором, почти совпали с результатами анализов крови, а мочевая кислота в десневой жидкости тесно коррелировала с ее уровнем в крови. Замеры pH и перекиси водорода помогли оценить размер десневых карманов, по которому стоматологи диагностируют заболевания пародонта. Авторы напоминают, что в последние годы болезни десен связывают с диабетом, сердечно-сосудистыми заболеваниями и инсультом.\n\nТехнология пока нуждается в доработке. Образцы содержали не только десневую жидкость, но и слюну, а иногда и примеси крови, что может влиять на точность. Сама слюна почти не давала данных о глюкозе, а степень влияния крови на результаты еще предстоит выяснить. Для подтверждения эффективности авторы считают необходимыми дополнительные клинические исследования. Ученые хотят проверить, поможет ли регулярный мониторинг десневой жидкости лучше контролировать диабет и лечить болезни десен.",
+    "en": "On November 19, 2026, the Russian magazine Inc. Russia reported on a prototype dental floss developed by researchers at the Hong Kong University of Science and Technology (HKUST). The device can estimate glucose and uric acid levels and pick up signs of gum inflammation, so it could support home health monitoring without regular blood tests. The results were published in the journal Science Advances.\n\nThe team is led by Hnin Yin Yin Nyein. The device analyzes gingival crevicular fluid, the liquid that collects in the small grooves around the teeth and carries metabolites, proteins and inflammation markers, some of which come from the bloodstream. Unlike ordinary floss, it has a pulley-like system that gathers fluid between the teeth and feeds it into a microfluidic chamber with biosensors. The sensors measure glucose, uric acid, hydrogen peroxide and pH, and send the data wirelessly to a smartphone.\n\nIn preliminary tests, participants included healthy people and patients with diabetes, high uric acid or gum disease. Glucose readings from the device came close to blood test results, and uric acid in the gum fluid closely tracked its level in the blood. The pH and hydrogen peroxide measurements also helped estimate the size of gum pockets, a value dentists use to diagnose periodontal disease. The authors note that in recent years gum disease has been linked to diabetes, cardiovascular disease and stroke.\n\nThe technology still needs refinement. The collected samples contained saliva and sometimes traces of blood, which may affect accuracy. Saliva alone offered almost no glucose information, and how much blood contamination changes the results remains to be determined. The authors say further clinical studies are needed to confirm the device's effectiveness. The researchers want to test whether regular monitoring of gum fluid can improve diabetes control and the treatment of gum disease.",
+    "kk": "2026 жылдың 19 қарашасында Inc. Russia журналы Гонконгтағы Ғылым және технологиялар университетінің (HKUST) зерттеушілері жасаған тіс жіптің прототипі туралы хабарлады. Құрылғы глюкоза мен несеп қышқылының деңгейін бағалап, тіс етінің қабыну белгілерін аңғара алады, сондықтан оны қанды жиі тапсырмай-ақ, үйде денсаулықты бақылау үшін қолдануға болады. Нәтижелер Science Advances журналында жарияланды.\n\nТопты Хнин Инь Инь Ньейн басқарады. Құрылғы тістердің айналасындағы шағын ойықтарда жиналатын, метаболиттерді, ақуыздарды және қабыну маркерлерін тасымалдайтын гингивальды сұйықтықты талдайды; оның кейбірі қан ағысынан келеді. Әдеттегі жіптен айырмашылығы, онда блок тәрізді жүйе бар: ол тістер арасындағы сұйықтықты жинап, биосенсорлары бар микрофлюидті камераға жібереді. Сенсорлар глюкоза, несеп қышқылы, сутек асқын тотығы мен pH өлшейді, ал деректер смартфонға сымсыз жіберіледі.\n\nАлдын ала сынақтарға сау адамдар мен диабеті, жоғары несеп қышқылы немесе тіс ауруы бар пациенттер қатысты. Құрылғы көрсеткен глюкоза мәндері қан анализі нәтижелеріне жақын шықты, ал тіс етіндегі сұйықтықтағы несеп қышқылы қандағы деңгейімен тығыз байланысты болды. pH және сутек асқын тотығын өлшеу тіс етінің қалталарының көлемін бағалауға көмектесті; стоматологтар осы көрсеткіш бойынша пародонт ауруын анықтайды. Авторлар соңғы жылдары тіс етінің ауруы диабетпен, жүрек-қан тамыр ауруларымен және инсультпен байланысты деп атап өтеді.\n\nТехнология әлі де жетілдіруді қажет етеді. Үлгілерде тек гингивальды сұйықтық емес, сілекей, кейде қан ізі де болды, бұл дәлдікке әсер етуі мүмкін. Тек сілекейден глюкоза туралы деректер дерлік алынбаған, ал қанмен ластанудың нәтижеге қаншалықты әсер ететіні әлі анықталуы керек. Авторлар құрылғының тиімділігін растау үшін қосымша клиникалық зерттеулер қажет деп санайды. Зерттеушілер тіс етінің сұйықтығын тұрақты бақылаудың диабетті бақылауды және тіс етінің ауруын емдеуді жақсарта алатынын тексергісі келеді.",
+    "de": "Am 19. November 2026 berichtete das Magazin Inc. Russia über einen Prototyp einer Zahnseide, die Forscher der Hong Kong University of Science and Technology (HKUST) entwickelt haben. Das Gerät kann Glukose- und Harnsäurewerte abschätzen und Anzeichen einer Zahnfleischentzündung erkennen, weshalb es die häusliche Gesundheitskontrolle ohne regelmäßige Blutabnahmen unterstützen könnte. Die Ergebnisse wurden im Fachjournal Science Advances veröffentlicht.\n\nDas Team wird von Hnin Yin Yin Nyein geleitet. Das Gerät untersucht die Gingivalflüssigkeit, die sich in den kleinen Furchen um die Zähne sammelt und Stoffwechselprodukte, Proteine und Entzündungsmarker enthält, von denen einige aus dem Blutkreislauf stammen. Anders als gewöhnliche Zahnseide verfügt es über ein rollenähnliches System, das Flüssigkeit zwischen den Zähnen aufnimmt und in eine mikrofluidische Kammer mit Biosensoren leitet. Die Sensoren messen Glukose, Harnsäure, Wasserstoffperoxid und den pH-Wert und senden die Daten drahtlos an ein Smartphone.\n\nIn Vorversuchen wurden gesunde Menschen sowie Patienten mit Diabetes, erhöhter Harnsäure oder Zahnfleischerkrankungen untersucht. Die Glukosewerte des Geräts lagen nahe an den Ergebnissen von Blutanalysen, und die Harnsäure in der Gingivalflüssigkeit folgte eng dem Blutwert. Die Messungen von pH und Wasserstoffperoxid halfen außerdem, die Größe der Zahnfleischtaschen abzuschätzen, einen Wert, den Zahnärzte zur Diagnose von Parodontalerkrankungen nutzen. Die Autoren weisen darauf hin, dass Zahnfleischerkrankungen in den vergangenen Jahren mit Diabetes, Herz-Kreislauf-Erkrankungen und Schlaganfall in Verbindung gebracht wurden.\n\nDie Technik muss allerdings noch verbessert werden. Die gesammelten Proben enthielten nicht nur Gingivalflüssigkeit, sondern auch Speichel und gelegentlich Blutspuren, was die Genauigkeit beeinträchtigen kann. Speichel allein lieferte kaum Informationen zum Glukosespiegel, und wie stark eine Blutbeimengung die Ergebnisse verändert, ist noch offen. Die Autoren halten weitere klinische Studien für nötig, um die Wirksamkeit zu bestätigen. Die Forscher wollen nun prüfen, ob eine regelmäßige Überwachung der Gingivalflüssigkeit die Diabeteseinstellung und die Behandlung von Zahnfleischerkrankungen verbessern kann.",
+    "es": "El 19 de noviembre de 2026, la revista rusa Inc. Russia informó sobre un prototipo de hilo dental desarrollado por investigadores de la Universidad de Ciencia y Tecnología de Hong Kong (HKUST). El dispositivo puede estimar los niveles de glucosa y ácido úrico y detectar signos de inflamación de las encías, por lo que podría apoyar el seguimiento de la salud en casa sin análisis de sangre periódicos. Los resultados se publicaron en la revista Science Advances.\n\nEl equipo está dirigido por Hnin Yin Yin Nyein. El aparato analiza el fluido gingival, el líquido que se acumula en los pequeños surcos alrededor de los dientes y que transporta metabolitos, proteínas y marcadores de inflamación, algunos procedentes del torrente sanguíneo. A diferencia del hilo convencional, cuenta con un sistema de poleas que recoge el líquido entre los dientes y lo dirige a una cámara microfluídica con biosensores. Estos miden glucosa, ácido úrico, peróxido de hidrógeno y pH, y envían los datos de forma inalámbrica a un teléfono inteligente.\n\nEn las pruebas preliminares participaron personas sanas y pacientes con diabetes, niveles altos de ácido úrico o enfermedad de las encías. Las lecturas de glucosa del dispositivo se aproximaron a los resultados de los análisis de sangre, y el ácido úrico del fluido gingival siguió de cerca su nivel en la sangre. Las mediciones de pH y peróxido de hidrógeno también ayudaron a estimar el tamaño de las bolsas de las encías, un dato que los odontólogos usan para diagnosticar enfermedades periodontales. Los autores señalan que, en los últimos años, la enfermedad de las encías se ha relacionado con la diabetes, las dolencias cardiovasculares y el ictus.\n\nLa tecnología todavía necesita mejoras. Las muestras recogidas contenían saliva y, a veces, trazas de sangre, lo que puede afectar a la precisión. La saliva por sí sola aportaba casi ninguna información sobre la glucosa, y aún falta determinar cuánto altera la contaminación con sangre los resultados. Los autores consideran que hacen falta más estudios clínicos para confirmar la eficacia del dispositivo. Los investigadores quieren comprobar si el seguimiento regular del fluido gingival puede mejorar el control de la diabetes y el tratamiento de la enfermedad de las encías."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Измеряемые показатели",
+      "en": "Measured markers",
+      "kk": "Өлшенетін көрсеткіштер",
+      "de": "Gemessene Werte",
+      "es": "Marcadores medidos"
+     },
+     "v": {
+      "ru": "глюкоза, мочевая кислота, перекись водорода, pH",
+      "en": "glucose, uric acid, hydrogen peroxide, pH",
+      "kk": "глюкоза, несеп қышқылы, сутек асқын тотығы, pH",
+      "de": "Glukose, Harnsäure, Wasserstoffperoxid, pH-Wert",
+      "es": "glucosa, ácido úrico, peróxido de hidrógeno, pH"
+     }
+    },
+    {
+     "k": {
+      "ru": "Группы предварительных испытаний",
+      "en": "Preliminary test groups",
+      "kk": "Алдын ала сынақ топтары",
+      "de": "Gruppen der Vorversuche",
+      "es": "Grupos de las pruebas preliminares"
+     },
+     "v": {
+      "ru": "здоровые люди; пациенты с диабетом, высоким уровнем мочевой кислоты или болезнями десен",
+      "en": "healthy people; patients with diabetes, high uric acid or gum disease",
+      "kk": "сау адамдар; диабеті, жоғары несеп қышқылы немесе тіс ауруы бар пациенттер",
+      "de": "Gesunde Menschen; Patienten mit Diabetes, erhöhter Harnsäure oder Zahnfleischerkrankungen",
+      "es": "personas sanas; pacientes con diabetes, ácido úrico alto o enfermedad de las encías"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nEJ4P29jPTU",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "ВОЗ впервые опубликовала рекомендации по диабету 1 типа для взрослых, в том числе в гуманитарных условиях",
+    "en": "WHO Issues First Guidelines on Type 1 Diabetes for Adults, Including in Humanitarian Settings",
+    "kk": "ДДҰ ересектерге арналған 1 типті қант диабеті бойынша алғашқы нұсқаулықтарын шығарды, соның ішінде гуманитарлық жағдайларда",
+    "de": "WHO veröffentlicht erste Leitlinien zu Typ-1-Diabetes für Erwachsene, auch in humanitären Notlagen",
+    "es": "La OMS publica las primeras directrices sobre diabetes tipo 1 para adultos, incluidos los contextos humanitarios"
+   },
+   "text": {
+    "ru": "Всемирная организация здравоохранения представила первые рекомендации по лечению диабета 1 типа у взрослых, включая условия гуманитарных кризисов.",
+    "en": "The World Health Organization has issued its first guidelines on type 1 diabetes care for adults, including in humanitarian crises.",
+    "kk": "Дүниежүзілік денсаулық сақтау ұйымы гуманитарлық дағдарыс жағдайларын қоса алғанда, ересектердегі 1 типті диабетті емдеу бойынша алғашқы нұсқаулықтарын шығарды.",
+    "de": "Die Weltgesundheitsorganisation hat erste Leitlinien zur Versorgung von Erwachsenen mit Typ-1-Diabetes veröffentlicht, auch für humanitäre Krisen.",
+    "es": "La Organización Mundial de la Salud publicó sus primeras directrices sobre la atención de la diabetes tipo 1 en adultos, incluidas las crisis humanitarias."
+   },
+   "url": "https://healthpolicy-watch.news/first-type-1-diabetes-guidelines-as-burden-rises/",
+   "src": "Health Policy Watch",
+   "photoQuery": "insulin pen close-up",
+   "photo": {
+    "id": "u_NiXMv9iFN1c",
+    "url": "https://images.unsplash.com/photo-1745939912168-cc7333d65327?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTUxNDM2Njl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-blue-insulin-pen-rests-on-a-white-surface-NiXMv9iFN1c?utm_source=dia_news&utm_medium=referral",
+    "alt": "A blue insulin pen rests on a white surface"
+   },
+   "body": {
+    "ru": "19 ноября 2026 года Health Policy Watch сообщил, что Всемирная организация здравоохранения выпустила первые рекомендации, посвящённые диабету 1 типа у взрослых, которые применимы от обычных клиник до гуманитарных кризисов. Публикация приурочена к Всемирному дню диабета, а ВОЗ рассчитывает этим сократить разрыв в качестве помощи между странами и группами населения.\n\nПо оценкам ВОЗ, в 2025 году в мире жили 9,5 миллиона человек с диабетом 1 типа, а за этот год было зафиксировано более 500 000 новых случаев. Хотя болезнь часто связывают с детством и подростковым возрастом, до половины пациентов ставят диагноз во взрослом возрасте. Во многих странах с низким и средним доходом сложно получить инсулин и средства контроля глюкозы, не хватает обученного персонала, а расходы из кармана высоки.\n\nДокумент содержит 14 рекомендаций, из них одна имеет сильную силу: интенсифицированная инсулинотерапия, то есть несколько инъекций в день с корректировкой дозы по показаниям глюкозы в крови. Также рекомендуется регулярный контроль глюкозы: проколы пальца, датчики непрерывного мониторинга или, если анализ крови недоступен, исследование мочи. Пациентов советуют обучать самостоятельно корректировать дозы. Человеческий инсулин может быть предпочтительнее там, где он дешевле, а шприц-ручки рекомендуется рассматривать вместо шприцев, однако эта рекомендация основана на очень неопределённых данных. Гликированный гемоглобин (HbA1c) предлагается проверять не реже чем раз в три месяца, а целевой уровень для большинства взрослых — 7% или ниже.\n\nВ условиях гуманитарных кризисов цепочки поставок, холодильное хранение и опыт персонала могут нарушаться, поэтому врачам советуют заранее планировать временный переход на более простые схемы инсулина. Авторы признают, что большая часть доказательств получена вне чрезвычайных ситуаций, и это оставляет пробелы.\n\nДалее ВОЗ призывает страны включить рекомендации в национальные программы по диабету, перечни жизненно необходимых лекарств и обучение медработников, обещает практические инструменты для отслеживания прогресса и просит привлекать людей с диабетом 1 типа к разработке программ.",
+    "en": "On 19 November 2026, Health Policy Watch reported that the World Health Organization had released its first guidelines devoted to type 1 diabetes in adults, covering settings from routine clinics to humanitarian emergencies. The publication timed with World Diabetes Day, and WHO says the aim is to narrow gaps in care between countries and communities.\n\nThe WHO estimates that 9.5 million people worldwide were living with type 1 diabetes in 2025, and more than 500,000 people received a new diagnosis that year. Although the condition is often linked to childhood, as many as half of those affected receive their diagnosis as adults. Many low- and middle-income countries face limited insulin and glucose monitoring supplies, few trained staff and high out-of-pocket costs.\n\nThe document contains 14 recommendations, and only one is a strong recommendation: intensified insulin therapy, meaning several daily injections with doses adjusted to blood glucose readings. Other advice covers regular glucose monitoring, including finger-prick tests, continuous glucose monitors or urine testing where blood tests are unavailable, and education so patients can adjust their own doses. Human insulin may be preferred where it is cheaper, and insulin pens are suggested over syringes, though that advice rests on very low-certainty evidence. HbA1c testing is advised every three months at most, with a target of 7% or lower for most adults.\n\nIn humanitarian crises, supply chains, refrigeration and staff experience can break down, so WHO advises providers to plan for temporary switches to simpler insulin regimens when needed. The guidelines acknowledge that most of the evidence comes from settings outside emergencies, which leaves gaps.\n\nNext, WHO asks countries to include the recommendations in national diabetes policies, essential medicines lists and health worker training, and says it will provide tools to track progress and encourages involving people with type 1 diabetes in program design.",
+    "kk": "19 қарашада 2026 жылы Health Policy Watch басылымы Дүниежүзілік денсаулық сақтау ұйымы (ДДҰ) ересектердегі 1-типті қант диабетіне арналған алғашқы арнайы нұсқаулықты шығарғанын хабарлады. Нұсқаулық әдеттегі емханалардан бастап гуманитарлық дағдарыс жағдайларына дейінгі орталарды қамтиды. Жарияланым Дүниежүзілік диабет күнімен бір уақытқа сәйкес келді; ДДҰ елдер мен халық топтары арасындағы күтім сапасындағы алшақтықты азайтуды көздейді.\n\nДДҰ бағалауынша, 2025 жылы әлемде 9,5 миллион адам 1-типті диабетпен өмір сүрген, ал сол жылы 500 000-нан астам жаңа диагноз қойылған. Бұл ауру балалық және жасөспірімдік кезеңмен жиі байланыстырылғанымен, зардап шегушілердің ең көбі дегенде жартысы диагнозды ересек жаста алады. Төмен және орташа табысы бар көптеген елдерде инсулин мен глюкозаны бақылау құралдары шектеулі, оқытылған мамандар жетіспейді, ал қалтадан төленетін шығындар жоғары.\n\nҚұжатта 14 ұсыныс бар, олардың тек біреуі ғана күшті ұсыныс: күніне бірнеше инъекциядан тұратын, қан глюкозасының көрсеткіштеріне қарай дозасы түзетілетін интенсификацияланған инсулинотерапия. Сонымен қатар глюкозаны тұрақты бақылау, саусақтан қан алу немесе үзіліссіз датчиктер, ал қан тексеруі болмаған жағдайда зәрді талдау ұсынылады. Науқастарды өз дозаларын өздері реттеуге үйрету де қарастырылған. Инсулин арзан болған жерде адам инсулині артықшылықты болуы мүмкін, ал шприцтің орнына қалам-шприцтерді қарастыру ұсынылады, бірақ бұл ұсыныстың дәлелдері өте әлсіз. HbA1c тексерісі үш айда бір реттен жиі болмауы керек, ал көпшілік ересектер үшін мақсатты деңгей 7% немесе одан төмен.\n\nГуманитарлық дағдарыстарда жеткізу тізбегі, салқындату және мамандардың тәжірибесі бұзылуы мүмкін, сондықтан ДДҰ медицина мекемелеріне қажет болған жағдайда уақытша қарапайым инсулин режиміне көшуді алдын ала жоспарлауды ұсынады. Нұсқаулық авторлары дәлелдердің басым бөлігі төтенше жағдайдан тыс орталардан алынғанын мойындайды, бұл олқылықтар қалдырады.\n\nОдан әрі ДДҰ елдерден ұсыныстарды ұлттық диабет саясатына, маңызды дәрілер тізіміне және денсаулық сақтау қызметкерлерін оқытуға енгізуді сұрайды. Ұйым прогресті бақылауға арналған практикалық құралдар беретінін айтып, 1-типті диабеті бар адамдарды бағдарламаларды жасауға тартуды ұсынады.",
+    "de": "Am 19. November 2026 berichtete Health Policy Watch, dass die Weltgesundheitsorganisation (WHO) erstmals eigenständige Leitlinien zu Typ-1-Diabetes bei Erwachsenen veröffentlicht hat, die auch für humanitäre Einsätze gelten. Die Veröffentlichung fiel auf den Weltdiabetestag; die WHO will damit ungleiche Versorgung zwischen Ländern und Bevölkerungsgruppen verringern.\n\nLaut WHO lebten 2025 weltweit 9,5 Millionen Menschen mit Typ-1-Diabetes, und im selben Jahr kamen mehr als 500.000 neue Diagnosen hinzu. Die Krankheit wird oft mit Kindheit und Jugend verbunden, doch bis zu die Hälfte der Betroffenen erhält die Diagnose erst als Erwachsene. In vielen Ländern mit niedrigem und mittlerem Einkommen sind Insulin und Blutzuckermessung schwer zugänglich, geschultes Personal fehlt und Selbstzahlungen sind hoch.\n\nDie Leitlinien enthalten 14 Empfehlungen, von denen eine stark empfohlen wird: die intensivierte Insulintherapie mit mehreren täglichen Injektionen und an Blutzuckerwerte angepasster Dosis. Außerdem wird eine regelmäßige Glukosekontrolle empfohlen, etwa per Fingerstich oder kontinuierlichem Sensor; wo Blutzuckertests fehlen, kann ein Urintest genutzt werden. Patienten sollen geschult werden, ihre Dosen selbst anzupassen. Humanes Insulin kann dort bevorzugt werden, wo es günstiger ist; Pens sollen statt Spritzen erwogen werden, allerdings auf Grundlage sehr unsicherer Belege. HbA1c-Tests sind höchstens alle drei Monate vorgesehen, für die meisten Erwachsenen gilt ein Zielwert von 7 % oder darunter.\n\nIn Notlagen können Lieferketten, Kühlung und Erfahrung des Personals ausfallen. Deshalb sollen Behandelnde Notfallpläne haben, um bei Bedarf vorübergehend auf einfachere Insulinschemata umzustellen. Die Leitlinien räumen ein, dass der größte Teil der Evidenz außerhalb humanitärer Situationen gewonnen wurde, was Wissenslücken hinterlässt.\n\nDie WHO fordert die Länder auf, die Empfehlungen in nationale Diabetesstrategien, Listen unentbehrlicher Arzneimittel und Schulungen für Gesundheitspersonal aufzunehmen. Sie kündigt praktische Instrumente zur Fortschrittsmessung an und bittet darum, Menschen mit Typ-1-Diabetes in die Gestaltung der Programme einzubeziehen.",
+    "es": "El 19 de noviembre de 2026, Health Policy Watch informó de que la Organización Mundial de la Salud (OMS) publicó sus primeras guías dedicadas a la diabetes tipo 1 en adultos, válidas también para contextos humanitarios. La publicación coincidió con el Día Mundial de la Diabetes, y la OMS busca con ella reducir las desigualdades en la atención entre países y grupos de población.\n\nSegún la OMS, en 2025 había 9,5 millones de personas con diabetes tipo 1 en el mundo, y ese mismo año se diagnosticaron más de 500 000 casos nuevos. Aunque la afección suele asociarse con la infancia y la adolescencia, hasta la mitad de las personas con este tipo recibe el diagnóstico en la edad adulta. En muchos países de ingresos bajos y medios, el acceso a la insulina y a los medidores de glucosa es limitado, faltan profesionales capacitados y los gastos de bolsillo son altos.\n\nLas guías contienen 14 recomendaciones, y solo una tiene fuerza de recomendación fuerte: la terapia de insulina intensificada, con varias inyecciones diarias y dosis ajustadas según los valores de glucosa en sangre. También se aconseja controlar la glucosa con regularidad, mediante pinchazo en el dedo o monitores continuos, y, cuando no hay pruebas de sangre, puede considerarse el análisis de glucosa en orina. Los pacientes deben recibir formación para ajustar sus propias dosis. La insulina humana puede preferirse donde sea más barata, y se sugiere considerar plumas en lugar de jeringas, aunque esa recomendación se basa en evidencia de muy baja certeza. La HbA1c se mide cada tres meses como máximo, y el objetivo para la mayoría de adultos es de 7 % o menos.\n\nEn crisis humanitarias, las cadenas de suministro, la refrigeración y la experiencia del personal pueden fallar, por lo que se pide a los equipos planificar cambios temporales a pautas de insulina más sencillas cuando haga falta. Las guías reconocen que buena parte de la evidencia procede de contextos fuera de emergencias, lo que deja vacíos.\n\nAdemás, la OMS pide a los países incorporar las recomendaciones en sus políticas nacionales de diabetes, en las listas de medicamentos esenciales y en la formación del personal sanitario. Promete herramientas prácticas para seguir el progreso y anima a involucrar a personas con diabetes tipo 1 en el diseño de los programas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Людей с диабетом 1 типа в мире в 2025 году",
+      "en": "People living with type 1 diabetes worldwide in 2025",
+      "kk": "2025 жылы әлемде 1-типті диабеті бар адамдар",
+      "de": "Menschen mit Typ-1-Diabetes weltweit im Jahr 2025",
+      "es": "Personas con diabetes tipo 1 en el mundo en 2025"
+     },
+     "v": {
+      "ru": "9,5 миллиона",
+      "en": "9.5 million",
+      "kk": "9,5 миллион",
+      "de": "9,5 Millionen",
+      "es": "9,5 millones"
+     }
+    },
+    {
+     "k": {
+      "ru": "Рекомендации ВОЗ по диабету 1 типа у взрослых",
+      "en": "WHO recommendations on type 1 diabetes in adults",
+      "kk": "ДДҰ-ның ересектердегі 1-типті диабет бойынша ұсыныстары",
+      "de": "WHO-Empfehlungen zu Typ-1-Diabetes bei Erwachsenen",
+      "es": "Recomendaciones de la OMS sobre diabetes tipo 1 en adultos"
+     },
+     "v": {
+      "ru": "14 рекомендаций, из них одна сильная",
+      "en": "14 recommendations, one of them strong",
+      "kk": "14 ұсыныс, олардың біреуі күшті",
+      "de": "14 Empfehlungen, davon eine starke",
+      "es": "14 recomendaciones, una de ellas fuerte"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nUVFP29jPTU",
+   "cat": "market",
+   "stage": "policy",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "ФАС потребовала от Solopharm выплатить 2 млрд рублей из-за препарата от диабета",
+    "en": "Russia's Antimonopoly Service Demands Solopharm Pay 2 Billion Rubles Over Diabetes Drug",
+    "kk": "ФАС Solopharm компаниясынан қант диабетіне арналған дәрі үшін 2 млрд рубль төлеуді талап етті",
+    "de": "Russlands Kartellbehörde FAS fordert von Solopharm 2 Milliarden Rubel wegen eines Diabetesmedikaments",
+    "es": "El servicio antimonopolio de Rusia exige a Solopharm pagar 2.000 millones de rublos por un medicamento para la diabetes"
+   },
+   "text": {
+    "ru": "Федеральная антимонопольная служба требует от компании Solopharm выплатить 2 млрд рублей в связи с препаратом от диабета.",
+    "en": "The Federal Antimonopoly Service is demanding that Solopharm pay 2 billion rubles in connection with a diabetes drug.",
+    "kk": "Федеральдық монополияға қарсы қызмет Solopharm компаниясынан қант диабетіне арналған дәрімен байланысты 2 млрд рубль төлеуді талап етуде.",
+    "de": "Der Föderale Antimonopoldienst fordert von Solopharm 2 Milliarden Rubel im Zusammenhang mit einem Diabetesmedikament.",
+    "es": "El Servicio Federal Antimonopolio exige a Solopharm pagar 2.000 millones de rublos en relación con un medicamento para la diabetes."
+   },
+   "url": "https://life.ru/p/fas-potrebovala-ot-solopharm-vyplatit-2-mlrd-rubley-iz-za-preparata-ot-diabeta",
+   "src": "Life.ru",
+   "photoQuery": "pharmacy shelves",
+   "local": true,
+   "photo": {
+    "id": "u_p88HDQpapWA",
+    "url": "https://images.unsplash.com/photo-1647512500250-884ff197d769?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTUxNDM2NzB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Valerie Const",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-row-of-empty-shelves-in-a-grocery-store-p88HDQpapWA?utm_source=dia_news&utm_medium=referral",
+    "alt": "a row of empty shelves in a grocery store"
+   },
+   "body": {
+    "ru": "19 ноября 2026 года Федеральная антимонопольная служба (ФАС) потребовала, чтобы петербургская фармацевтическая компания Solopharm перечислила в бюджет 2 млрд рублей. Ведомство пришло к выводу, что действия производителя носят характер недобросовестной конкуренции.\n\nСпорным стал препарат «Эмфорикс», который применяют при диабете. Выпускает его ООО «Гротекс», работающее под брендом Solopharm. По данным службы, компания начала продавать средство с действующим веществом эмпаглифлозин до окончания патента на оригинальный препарат и без разрешения правообладателя.\n\nОригинал называется «Джардинс» и производится немецкой Boehringer Ingelheim; его патентная защита действует до ноября 2029 года. Российский аналог зарегистрировали в 2023 году, а первые партии поступили в продажу в сентябре 2025-го. После обращения немецкого производителя и представителя патентообладателя ФАС в августе начала проверку. Ещё в ноябре прошлого года «Гротекс» пытался через суд добиться принудительной лицензии на 12 патентов, защищающих эмпаглифлозин, однако на прошлой неделе Арбитражный суд Москвы отклонил эти требования.\n\nТеперь ведомство обязало компанию прекратить нарушение и перечислить государству доход, который, по мнению службы, получен незаконно. В материале не указано, как и в какие сроки нужно выплатить эту сумму, а также нет ответа со стороны Solopharm.",
+    "en": "On November 19, 2026, Russia's Federal Antimonopoly Service (FAS) demanded that Solopharm, a drugmaker based in St. Petersburg, pay 2 billion rubles into the state budget. The regulator concluded that the company's conduct amounted to unfair competition.\n\nThe dispute concerns Emforix, a diabetes medicine produced by the company Grotex LLC, which operates under the Solopharm brand. According to the agency, Grotex began selling a product containing empagliflozin before the patent on the original drug had expired, and without the rights holder's permission.\n\nThe original is Jardiance, made by Germany's Boehringer Ingelheim, whose patent protection lasts until November 2029. The Russian version was registered back in 2023, while its first batches reached the market in September 2025. After complaints from the German manufacturer and a representative of the patent holder, FAS opened a review in August. Earlier, in November last year, Grotex had asked a court to grant it a compulsory license covering 12 patents on empagliflozin. Last week the Moscow Arbitration Court rejected those claims.\n\nFAS has now ordered the company to end the violation and to hand over to the state the income it deems was obtained illegally. The article does not say how or when the sum must be paid, and it does not include a response from Solopharm.",
+    "kk": "2026 жылғы 19 қарашада Ресейдің Федералды монополияға қарсы қызметі (ФАС) санкт-петербургтік фармацевтикалық компания Solopharm-нан бюджетке 2 млрд рубль аударуды талап етті. Ведомство өндірушінің әрекетін адал емес бәсекелестік деп таныды.\n\nДау диабетке қолданылатын «Эмфорикс» препаратына қатысты. Оны Solopharm брендімен жұмыс істейтін «Гротекс» ЖШС шығарады. Қызмет деректері бойынша компания эмпаглифлозин әсер ету заты бар дәріні бастапқы препараттың патенті аяқталмай тұрып және патент иесінің рұқсатынсыз сата бастаған.\n\nТүпнұсқа — немістің Boehringer Ingelheim компаниясының «Джардинс» препараты, оның патенттік қорғанысы 2029 жылдың қарашасына дейін жұмыс істейді. Ресейлік аналогы 2023 жылы тіркелген, ал алғашқы партиялары 2025 жылдың қыркүйегінде нарыққа шыққан. Неміс өндірушісі мен патент иесінің өкілі шағымданғаннан кейін ФАС тексеруді тамызда бастаған. Бұған дейін, былтырғы қарашада, «Гротекс» эмпаглифлозинді қорғайтын 12 патентке мәжбүрлі лицензия беруді сот арқылы сұраған, бірақ өткен аптада Мәскеу арбитраж соты бұл талаптарды қанағаттандырмаған.\n\nЕнді ведомство компанияны бұзушылықты тоқтатуға және заңсыз алынған деп есептелген табысты мемлекетке аударуға міндеттеді. Мақалада соманы қалай және қай мерзімде төлеу керектігі көрсетілмеген, Solopharm-ның жауабы да берілмеген.",
+    "de": "Am 19. November 2026 verlangte der russische Kartellbehörde FAS vom Unternehmen Solopharm aus Sankt Petersburg, 2 Milliarden Rubel in den Staatshaushalt zu zahlen. Die Behörde stufte das Vorgehen des Herstellers als unlauteren Wettbewerb ein.\n\nIm Mittelpunkt steht das Medikament Emforix gegen Diabetes. Es wird von der Gesellschaft Grotex LLC hergestellt, die unter der Marke Solopharm auftritt. Nach Angaben der Behörde begann Grotex, ein Präparat mit dem Wirkstoff Empagliflozin zu verkaufen, bevor der Patentschutz des Originals abgelaufen war, und ohne Erlaubnis des Rechteinhabers.\n\nDas Original heißt Jardiance und stammt von Boehringer Ingelheim aus Deutschland; der Patentschutz gilt bis November 2029. Die russische Version wurde bereits 2023 registriert, die ersten Chargen kamen im September 2025 auf den Markt. Nach Beschwerden des deutschen Herstellers und eines Vertreters des Patentinhabers prüfte die FAS den Fall ab August. Schon im November des Vorjahres hatte Grotex vor Gericht versucht, eine Zwangslizenz für 12 Patente auf Empagliflozin zu erhalten. Vergangene Woche wies das Moskauer Schiedsgericht diese Forderungen zurück.\n\nNun hat die Behörde das Unternehmen verpflichtet, den Verstoß zu beenden und die Einnahmen, die sie als illegal erzielt betrachtet, an den Staat abzuführen. Der Bericht nennt weder Zahlungsmodalitäten noch Fristen und enthält keine Stellungnahme von Solopharm.",
+    "es": "El 19 de noviembre de 2026, el Servicio Federal Antimonopolio de Rusia (FAS) exigió a Solopharm, un fabricante de medicamentos con sede en San Petersburgo, que pagara 2 000 millones de rublos al presupuesto estatal. El regulador concluyó que la conducta de la empresa constituía competencia desleal.\n\nEl caso gira en torno a Emforix, un medicamento para la diabetes producido por la compañía Grotex LLC, que opera bajo la marca Solopharm. Según el organismo, Grotex empezó a vender un producto con el principio activo empagliflozina antes de que expirara la patente del fármaco original, y sin el permiso del titular de los derechos.\n\nEl original es Jardiance, fabricado por la alemana Boehringer Ingelheim, cuya protección de patente se extiende hasta noviembre de 2029. La versión rusa se registró ya en 2023, mientras que los primeros lotes llegaron al mercado en septiembre de 2025. Tras las denuncias del fabricante alemán y de un representante del titular de la patente, la FAS abrió una revisión en agosto. Antes, en noviembre del año pasado, Grotex había pedido a un tribunal una licencia obligatoria para 12 patentes sobre la empagliflozina. La semana pasada, el Tribunal Arbitral de Moscú rechazó esas demandas.\n\nAhora el organismo ha ordenado a la empresa poner fin a la infracción y entregar al Estado los ingresos que considera obtenidos de forma ilegal. El artículo no indica cómo ni cuándo debe realizarse el pago, y no incluye una respuesta de Solopharm."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Сумма, которую ФАС потребовала выплатить",
+      "en": "Amount FAS demanded Solopharm pay",
+      "kk": "ФАС Solopharm-нан төлеуді талап еткен сома",
+      "de": "Von der FAS geforderte Zahlung von Solopharm",
+      "es": "Cantidad que la FAS exigió pagar a Solopharm"
+     },
+     "v": {
+      "ru": "2 млрд рублей",
+      "en": "2 billion rubles",
+      "kk": "2 млрд рубль",
+      "de": "2 Milliarden Rubel",
+      "es": "2 000 millones de rublos"
+     }
+    },
+    {
+     "k": {
+      "ru": "Срок действия патента на оригинальный препарат",
+      "en": "Patent protection of the original drug lasts until",
+      "kk": "Түпнұсқа препараттың патенттік қорғанысы мерзімі",
+      "de": "Patentschutz des Originalpräparats gilt bis",
+      "es": "La protección de patente del original dura hasta"
+     },
+     "v": {
+      "ru": "ноябрь 2029 года",
+      "en": "November 2029",
+      "kk": "2029 жылдың қарашасы",
+      "de": "November 2029",
+      "es": "noviembre de 2029"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nUVE_b2M9NQ",
+   "cat": "research",
+   "stage": "early",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Открытие указывает на новый подход к лечению диабета без инсулина",
+    "en": "Discovery Points to New Approach for Treating Diabetes Without Insulin",
+    "kk": "Жаңалық диабетті инсулинсіз емдеудің жаңа тәсіліне меңзейді",
+    "de": "Entdeckung weist auf neuen Ansatz zur Diabetesbehandlung ohne Insulin hin",
+    "es": "Un descubrimiento apunta a un nuevo enfoque para tratar la diabetes sin insulina"
+   },
+   "text": {
+    "ru": "Новое открытие может указывать на подход к лечению диабета, не требующий инсулина. Подробности в исходном материале не приводятся.",
+    "en": "A new discovery may point to a way of treating diabetes without insulin. Details are limited in the source.",
+    "kk": "Жаңа жаңалық диабетті инсулинсіз емдеу жолын көрсетуі мүмкін. Дереккөзде толық мәліметтер жоқ.",
+    "de": "Eine neue Entdeckung könnte auf einen Weg hindeuten, Diabetes ohne Insulin zu behandeln. Details sind in der Quelle begrenzt.",
+    "es": "Un nuevo descubrimiento podría apuntar a una forma de tratar la diabetes sin insulina. Los detalles en la fuente son limitados."
+   },
+   "url": "https://medicalxpress.com/news/2026-11-discovery-approach-diabetes-insulin-required.html",
+   "src": "Medical Xpress",
+   "photoQuery": "laboratory research microscope",
+   "photo": {
+    "id": "u_JxoWb7wHqnA",
+    "url": "https://images.unsplash.com/photo-1630959305790-4c956ce6c0b6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8bGFib3JhdG9yeSUyMHJlc2VhcmNoJTIwbWljcm9zY29wZXxlbnwxfDB8fHwxNzk1MTQzNjcwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "National Cancer Institute",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/scientist-using-microscope-in-laboratory-JxoWb7wHqnA?utm_source=dia_news&utm_medium=referral",
+    "alt": "A person in a white lab coat looking through a microscope in a laboratory"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nnhuP29jPTU",
+   "cat": "research",
+   "stage": "early",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Исследование выявило молекулу, которая может предотвратить потерю зрения при диабете",
+    "en": "Study Identifies Molecule with Potential to Prevent Diabetes-Related Vision Loss",
+    "kk": "Зерттеу диабетке байланысты көру қабілетінің нашарлауын алдын алуға қабілетті молекуланы анықтады",
+    "de": "Studie identifiziert Molekül mit Potenzial, diabetesbedingten Sehverlust zu verhindern",
+    "es": "Un estudio identifica una molécula con potencial para prevenir la pérdida de visión relacionada con la diabetes"
+   },
+   "text": {
+    "ru": "Исследователи нашли молекулу, которая потенциально может предотвратить ухудшение зрения, связанное с диабетом.",
+    "en": "Researchers identified a molecule that could potentially prevent vision loss linked to diabetes.",
+    "kk": "Зерттеушілер диабетпен байланысты көру нашарлауын алдын алуға мүмкін молекуланы анықтады.",
+    "de": "Forschende haben ein Molekül identifiziert, das möglicherweise diabetesbedingten Sehverlust verhindern kann.",
+    "es": "Investigadores identificaron una molécula que podría prevenir la pérdida de visión asociada a la diabetes."
+   },
+   "url": "https://www.eurekalert.org/news-releases/1152699",
+   "src": "EurekAlert!",
+   "photoQuery": "eye examination equipment",
+   "photo": {
+    "id": "u_3USbpwY7vdc",
+    "url": "https://images.unsplash.com/photo-1770221797827-839d22db4a1b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8ZXllJTIwZXhhbWluYXRpb24lMjBlcXVpcG1lbnR8ZW58MXwwfHx8MTc5NTE0MzY3MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Navy Medicine",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-examines-a-womans-eye-with-equipment-3USbpwY7vdc?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor examines a woman's eye with equipment"
+   },
+   "body": {
+    "ru": "Исследование, опубликованное в октябре в журнале Biomedicine & Pharmacotherapy, показало, что молекула, которую организм человека вырабатывает естественным путём, может помочь защитить зрение от повреждений, вызванных высоким уровнем сахара в крови. Диабетическая ретинопатия, при которой высокая глюкоза воспаляет и повреждает нейроны сетчатки и кровеносные сосуды, затрагивает более 22% людей с диабетом во всём мире и может привести к необратимой потере зрения.\n\nРаботу выполнили учёные из Федерального университета Сан-Паулу и Университета штата Сан-Паулу в Бразилии совместно с Университетом Колорадо Anschutz в США; проект поддержал фонд FAPESP. Команда исследовала пептид Ac2-26, фрагмент противовоспалительного белка аннексина A1, на культурах клеток сетчатки и на трёхмерных «мини-сетчатках» (органоидах), выращенных из стволовых клеток пациентов.\n\nВ этих моделях пептид снижал воспаление, уменьшал окислительный стресс и защищал митохондрии, которые вырабатывают энергию для клеток. Вместе эти эффекты предотвращали гибель нейронов, подвергнутых действию высокой концентрации глюкозы. Авторы выяснили, что Ac2-26 связывается с рецептором FPR2, который сдерживает молекулы p38 и NOX4, стимулирующие образование свободных радикалов. Пептид также смягчал реакцию клеток Мюллера, которые под стрессом чрезмерно реагируют и усиливают воспаление.\n\nИсследователи подчёркивают ограничения: работа проведена на лабораторных моделях, а не на животных или людях. Современные методы лечения диабетической ретинопатии воздействуют на образование новых сосудов, то есть на более позднем этапе, и не защищают нейроны, которые не восстанавливаются. Команда планирует исследования на животных и людях; в перспективе — наружные препараты, которые можно будет применять на самых ранних признаках болезни.",
+    "en": "A study published in October in the journal Biomedicine & Pharmacotherapy suggests that a molecule the human body naturally produces may help shield vision from damage caused by high blood sugar. Diabetic retinopathy, in which high glucose inflames and harms the nerve cells and blood vessels of the retina, affects more than 22% of people with diabetes worldwide and can lead to permanent vision loss.\n\nScientists from the Federal University of São Paulo and São Paulo State University in Brazil carried out the work with colleagues at the University of Colorado Anschutz in the United States, with support from FAPESP. The team examined a peptide called Ac2-26, a fragment of the anti-inflammatory protein Annexin A1, using retinal cell cultures and three-dimensional \"mini-retinas\" (organoids) grown from patients' stem cells.\n\nIn these models, the peptide reduced inflammation, eased oxidative stress and protected mitochondria, the structures that supply cells with energy. Combined, these effects stopped nerve cells exposed to high glucose from dying. The researchers found that Ac2-26 attaches to a receptor called FPR2, which restrains the p38 and NOX4 molecules that drive the formation of free radicals. The peptide also calmed Müller cells, which overreact under stress and intensify inflammation.\n\nThe researchers point to clear limits: the work was done in laboratory models, not in animals or people. Current diabetic retinopathy treatments target the growth of new blood vessels, a later stage of the disease, and do not protect neurons, which do not regenerate. The team plans studies in animal models and in humans, with the longer-term aim of topical treatments that could be applied at the very first signs of the condition.",
+    "kk": "Октябрь айында Biomedicine & Pharmacotherapy журналында жарияланған зерттеу адам ағзасында табиғи түрде пайда болатын молекуланың қан қантының жоғары деңгейінен болатын зақымнан көруді қорғауға көмектесуі мүмкін екенін көрсетеді. Диабеттік ретинопатия — глюкоза деңгейінің жоғарылығы торлы қабықтың нерв жасушалары мен қан тамырларын қабындырып, зақымдайтын жағдай — дүние жүзінде диабеті бар адамдардың 22%-дан астам бөлігіне әсер етеді және қайтымсыз көру жоғалтуына әкелуі мүмкін.\n\nЗерттеуді Бразилиядағы Сан-Паулу федералды университеті мен Сан-Паулу штатының университеті ғалымдары, сондай-ақ АҚШ-тағы Колорадо университетінің Anschutz бөлімі әріптестерімен бірлесе жүргізді; жобаны FAPESP қолдады. Топ аннексин A1 қабынуға қарсы ақуызының фрагменті болып табылатын Ac2-26 пептидін көру торы жасушаларының культураларында және пациенттердің бағаналы жасушаларынан өсірілген үш өлшемді «мини-торлы қабықтарда» (органоидтарда) зерттеді.\n\nОсы модельдерде пептид қабынуды азайтып, тотығу стрессін басып, жасушаларға энергия беретін митохондрияны қорғады. Осы әсерлердің жиынтығы жоғары глюкозаға ұшыраған нерв жасушаларының өлуін тоқтатты. Ғалымдар Ac2-26 FPR2 деп аталатын рецепторға жабысатынын, ал бұл бос радикалдардың түзілуін күшейтетін p38 және NOX4 молекулаларын тежейтінін анықтады. Пептид сонымен қатар Мюллер жасушаларының стресс кезіндегі шамадан тыс реакциясын басып, қабынуды күшейтетін әсерін әлсіретті.\n\nЗерттеушілер нақты шектеулерді атап өтеді: жұмыс зертханалық модельдерде жүргізілді, жануарлар немесе адамдарда емес. Қазіргі диабеттік ретинопатияны емдеу әдістері жаңа қан тамырларының өсуіне, яғни аурудың кейінгі кезеңіне әсер етеді және қалпына келмейтін нейрондарды қорғамайды. Топ жануарлар мен адамдарда зерттеулер жоспарлап отыр; ұзақ мерзімді мақсат — аурудың алғашқы белгілерінде қолдануға болатын жергілікті препараттар жасау.",
+    "de": "Eine im Oktober in der Fachzeitschrift Biomedicine & Pharmacotherapy veröffentlichte Studie legt nahe, dass ein Molekül, das der menschliche Körper auf natürliche Weise bildet, das Sehvermögen vor Schäden durch zu hohen Blutzucker schützen könnte. Die diabetische Retinopathie, bei der hohe Glukosewerte die Nervenzellen und Blutgefäße der Netzhaut entzünden und schädigen, betrifft weltweit mehr als 22 Prozent der Menschen mit Diabetes und kann zu dauerhaftem Sehverlust führen.\n\nDie Arbeit entstand durch Forschende der Bundesuniversität São Paulo und der Universität des Bundesstaates São Paulo in Brasilien zusammen mit Kolleginnen und Kollegen der University of Colorado Anschutz in den USA; unterstützt wurde sie von der FAPESP. Das Team untersuchte das Peptid Ac2-26, einen Teil des entzündungshemmenden Proteins Annexin A1, an Netzhautzellkulturen sowie an dreidimensionalen „Mini-Netzhäuten“ (Organoiden), die aus Stammzellen von Patienten gezüchtet wurden.\n\nIn diesen Modellen verringerte das Peptid Entzündungen, dämpfte oxidativen Stress und schützte die Mitochondrien, die den Zellen Energie liefern. Gemeinsam verhinderten diese Effekte, dass Nervenzellen unter hohen Glukosewerten abstarben. Die Forschenden fanden heraus, dass Ac2-26 an den Rezeptor FPR2 bindet, der die Moleküle p38 und NOX4 bremst, welche die Bildung freier Radikale antreiben. Außerdem beruhigte das Peptid die Müller-Zellen, die unter Stress überreagieren und Entzündungen verstärken.\n\nDie Forschenden benennen klare Grenzen: Die Arbeit fand an Labormodellen statt, nicht an Tieren oder Menschen. Heutige Behandlungen der diabetischen Retinopathie setzen am Wachstum neuer Blutgefäße an, also an einem späteren Stadium der Erkrankung, und schützen keine Nervenzellen, die sich nicht regenerieren. Das Team plant Studien an Tiermodellen und am Menschen; langfristig sollen lokal anwendbare Präparate entstehen, die bei den allerersten Anzeichen der Erkrankung eingesetzt werden könnten.",
+    "es": "Un estudio publicado en octubre en la revista Biomedicine & Pharmacotherapy sugiere que una molécula que produce naturalmente el cuerpo humano podría ayudar a proteger la visión del daño causado por niveles altos de azúcar en sangre. La retinopatía diabética, en la que la glucosa elevada inflama y daña las neuronas y los vasos sanguíneos de la retina, afecta a más del 22 % de las personas con diabetes en todo el mundo y puede provocar pérdida permanente de la visión.\n\nLa investigación reunió a científicos de la Universidad Federal de São Paulo y de la Universidad Estatal de São Paulo, en Brasil, junto con colegas de la Universidad de Colorado Anschutz, en Estados Unidos; contó con el apoyo de la FAPESP. El equipo evaluó el péptido Ac2-26, un fragmento de la proteína antiinflamatoria anexina A1, en cultivos de células de la retina y en estructuras tridimensionales de \"mini-retinas\" (organoides) obtenidas a partir de células madre de pacientes.\n\nEn estos modelos, el péptido redujo la inflamación, atenuó el estrés oxidativo y protegió las mitocondrias, que suministran energía a las células. En conjunto, estos efectos impidieron que las neuronas expuestas a niveles altos de glucosa murieran. Los investigadores comprobaron que Ac2-26 se une a un receptor llamado FPR2, que frena las moléculas p38 y NOX4, responsables de impulsar la formación de radicales libres. El péptido también calmó las células de Müller, que reaccionan en exceso bajo estrés y amplifican la inflamación.\n\nLos investigadores señalan límites claros: el trabajo se realizó en modelos de laboratorio, no en animales ni en personas. Los tratamientos actuales para la retinopatía diabética actúan sobre el crecimiento de nuevos vasos sanguíneos, una etapa más avanzada de la enfermedad, y no protegen las neuronas, que no se regeneran. El equipo prevé estudios en modelos animales y en humanos; a más largo plazo, busca crear tratamientos tópicos que puedan aplicarse ante los primeros signos de la afección."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Доля людей с диабетом, у которых развивается диабетическая ретинопатия (в мире)",
+      "en": "Share of people with diabetes who develop diabetic retinopathy (worldwide)",
+      "kk": "Диабеті бар адамдардың диабеттік ретинопатия дамитын үлесі (әлем бойынша)",
+      "de": "Anteil der Menschen mit Diabetes, die eine diabetische Retinopathie entwickeln (weltweit)",
+      "es": "Proporción de personas con diabetes que desarrollan retinopatía diabética (en el mundo)"
+     },
+     "v": {
+      "ru": "более 22%",
+      "en": "more than 22%",
+      "kk": "22%-дан астам",
+      "de": "mehr als 22 Prozent",
+      "es": "más del 22 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Молекула, исследованная на органоидах сетчатки",
+      "en": "Molecule tested on retinal organoids",
+      "kk": "Торлы қабық органоидтарында зерттелген молекула",
+      "de": "In Netzhaut-Organoiden getestetes Molekül",
+      "es": "Molécula probada en organoides de retina"
+     },
+     "v": {
+      "ru": "пептид Ac2-26",
+      "en": "Ac2-26 peptide",
+      "kk": "Ac2-26 пептиді",
+      "de": "Peptid Ac2-26",
+      "es": "péptido Ac2-26"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nZG4_b2M9NQ",
+   "cat": "access",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Терапии диабета 1 и 2 типа многообещающие, но работают только при доступе к лечению",
+    "en": "Type 1 and Type 2 Diabetes Therapies Show Great Promise, But Treatment Works Only If People Can Access It",
+    "kk": "1 және 2 типті диабетті емдеу перспективалы, бірақ ем адамдарға қол жетімді болғанда ғана тиімді",
+    "de": "Therapien für Typ-1- und Typ-2-Diabetes sind vielversprechend, wirken aber nur, wenn Menschen Zugang dazu haben",
+    "es": "Las terapias para la diabetes tipo 1 y tipo 2 son muy prometedoras, pero solo funcionan si las personas pueden acceder a ellas"
+   },
+   "text": {
+    "ru": "Авторы подчеркивают, что новые методы терапии диабета эффективны лишь тогда, когда люди имеют к ним доступ.",
+    "en": "The authors stress that diabetes therapies are effective only when people can actually access them.",
+    "kk": "Авторлар диабетті емдеу әдістері адамдарға қолжетімді болғанда ғана тиімді болатынын атап өтеді.",
+    "de": "Die Autoren betonen, dass Diabetestherapien nur wirken, wenn Menschen tatsächlich Zugang zu ihnen haben.",
+    "es": "Los autores subrayan que las terapias para la diabetes solo son eficaces si las personas realmente pueden acceder a ellas."
+   },
+   "url": "https://theconversation.com/type-1-and-type-2-diabetes-therapies-show-great-promise-but-treatment-is-only-effective-if-people-can-access-it-296795",
+   "src": "The Conversation",
+   "photoQuery": "insulin vials pharmacy shelf",
+   "photo": {
+    "id": "u_FOSgYGDktlE",
+    "url": "https://images.unsplash.com/photo-1765031092161-a9ebe556117e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTUxNDM2NzB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Bernd 📷 Dittrich",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/people-inside-a-well-stocked-pharmacy-with-glass-doors-FOSgYGDktlE?utm_source=dia_news&utm_medium=referral",
+    "alt": "People inside a well-stocked pharmacy with glass doors"
+   },
+   "body": {
+    "ru": "19 ноября 2026 года The Conversation опубликовал статью Джейми Хартманн-Бойс, доцента кафедры продвижения здоровья и политики в области здравоохранения Массачусетского университета в Амхерсте. Автор отмечает, что более 830 миллионов человек в мире живут с диабетом, и это число растёт, хотя излечение, возможно, уже близко. Лекарства помогают, но, по мнению автора, для большинства людей с диабетом 1 типа пожизненный приём иммунодепрессантов несёт риски, которые перевешивают пользу от жизни без этого заболевания.\n\nЕдиной известной причины диабета 1 типа нет, но риск выше, если близкий родственник также болен. В США людей без симптомов можно обследовать, если у родственника есть это заболевание. Раннее выявление позволяет начать препараты, которые могут замедлить прогрессирование болезни, и отсрочить необходимость инсулина до трёх лет. Это время даёт семьям возможность подготовиться, а детям — жить без инсулиновых инъекций и проверок уровня сахара. По данным статьи, скрининг и раннее лечение редко доступны в странах с низким и средним уровнем дохода.\n\nДля диабета 2 типа новые исследования показывают, что препараты GLP-1 не только снижают уровень сахара в крови, но и уменьшают число смертей, госпитализаций и ампутаций у пациентов высокого риска. Другие недавние исследования указывают, что эти препараты могут предотвратить развитие диабета 2 типа у людей с повышенным уровнем сахара.\n\nГлавное препятствие — доступ. Из-за ограниченного тестирования исследователи оценивают, что более 250 миллионов человек в мире не знают о своём диабете 2 типа. Лишь примерно 1 из 2 людей с диабетом 2 типа в мире может получить необходимый инсулин. Лечение GLP-1 сосредоточено в странах с высоким уровнем дохода, где стоимость может быть непосильной. Команда автора выяснила, что пандемия COVID-19 ещё сильнее затруднила получение помощи при диабете. Если появится лекарство, многим, по мнению автора, оно будет недоступно.\n\nГлавная мысль статьи: эти методы лечения работают только тогда, когда люди реально могут их получить.",
+    "en": "On November 19, 2026, The Conversation published an article by Jamie Hartmann-Boyce, an associate professor of health promotion and policy at UMass Amherst. The author notes that more than 830 million people worldwide live with diabetes and that this number keeps growing, although a cure may be within reach. Medications can help, but the author argues that for most people with type 1 diabetes, lifelong use of immunosuppressants carries risks that outweigh the benefits of living without the condition.\n\nType 1 diabetes has no single known cause, but the risk is higher when a close family member has it. In the United States, people without symptoms can be screened if a relative has the disease. Early detection makes it possible to start drugs that can slow the condition's progression, and it can delay the need for insulin by up to three years. That time lets families plan and gives children years without insulin injections and blood sugar checks. According to the article, screening and early treatment are rarely available in low- and middle-income countries.\n\nFor type 2 diabetes, new studies show that GLP-1 medications not only lower blood sugar but also reduce deaths, hospitalizations and amputations among high-risk patients. Other recent studies suggest these drugs can prevent type 2 diabetes from developing in people with elevated blood sugar.\n\nThe main obstacle is access. Because of limited testing, researchers estimate that more than 250 million people worldwide are unaware they have type 2 diabetes. Only about 1 in 2 people with type 2 diabetes globally can get the insulin they need. GLP-1 access is concentrated in high-income countries, where costs can be prohibitive. The author's team found that the COVID-19 pandemic made diabetes care even harder to reach. If a cure arrives, the author warns, many people will not be able to access it.\n\nThe article's central message is that these therapies only work if people can actually get them.",
+    "kk": "2026 жылғы 19 қарашада The Conversation басылымы Массачусетс университетінің (UMass Amherst) денсаулықты нығайту және денсаулық сақтау саясаты кафедрасының доценті Джейми Хартманн-Бойстың мақаласын жариялады. Автор дүние жүзінде 830 миллионнан астам адам қант диабетімен өмір сүретінін және бұл сан өсіп келе жатқанын атап өтеді, бірақ емнің табылуы жақын болуы мүмкін. Дәрілер көмектеседі, бірақ автордың пікірінше, 1-типті диабеті бар адамдардың көпшілігі үшін өмір бойы иммуносупрессанттарды қабылдаудың қаупі диабетсіз өмір сүрудің пайдасынан басым.\n\n1-типті диабеттің бірыңғай белгілі себебі жоқ, бірақ жақын туысында бұл ауру болса, қауіп жоғарылайды. АҚШ-та белгісі жоқ адамдарды туысында ауру болса, тексеруден өткізуге болады. Ерте анықтау ауру барысын баяулата алатын дәрілерді бастауға мүмкіндік береді және инсулинді қажет ету мерзімін үш жылға дейін кейінге қалдыруы мүмкін. Бұл уақыт отбасыға дайындалуға, ал балаларға инсулин инъекцияларынсыз және қан қантын тексерусіз өмір сүруге мүмкіндік береді. Мақалада айтылғандай, төмен және орта кірісті елдерде скрининг пен ерте емдеу сирек қолжетімді.\n\n2-типті диабет үшін жаңа зерттеулер GLP-1 препараттарының қан қантын төмендетіп қана қоймай, жоғары қауіпті пациенттер арасында өлім, ауруханаға жатқызу және ампутация жағдайларын азайтатынын көрсетеді. Басқа соңғы зерттеулер бұл дәрілер қан қанты жоғары адамдарда 2-типті диабеттің дамуын алдын алуы мүмкін екенін көрсетеді.\n\nНегізгі кедергі — қолжетімділік. Тестілеудің шектеулі болуына байланысты зерттеушілер дүние жүзінде 250 миллионнан астам адамның 2-типті диабеті бар екенін білмейтінін бағалайды. Әлемде 2-типті диабеті бар адамдардың шамамен 1-і ғана қажетті инсулинді ала алады. GLP-1 емі жоғары кірісті елдерде шоғырланған, ал оның құны қол жеткісіз болуы мүмкін. Автордың тобы COVID-19 пандемиясы диабет күтіміне қолжетімділікті тіпті қиындатқанын анықтады. Ем табылған жағдайда да, автордың ескертуінше, көптеген адамдар оған қол жеткізе алмайды.\n\nМақаланың негізгі ойы: бұл емдер адамдар оларды нақты ала алғанда ғана жұмыс істейді.",
+    "de": "Am 19. November 2026 veröffentlichte The Conversation einen Beitrag von Jamie Hartmann-Boyce, Associate Professor für Gesundheitsförderung und Gesundheitspolitik an der UMass Amherst. Der Text hält fest, dass weltweit mehr als 830 Millionen Menschen mit Diabetes leben und die Zahl weiter steigt, während eine Heilung möglicherweise in Reichweite ist. Medikamente können helfen, doch für die meisten Menschen mit Typ-1-Diabetes überwiegen laut dem Beitrag die Risiken einer lebenslangen Einnahme von Immunsuppressiva den Nutzen eines Lebens ohne die Krankheit.\n\nTyp-1-Diabetes hat keine einzelne bekannte Ursache, doch das Risiko ist höher, wenn ein enger Familienangehöriger betroffen ist. In den USA können Menschen ohne Symptome untersucht werden, wenn ein Verwandter die Krankheit hat. Eine frühe Erkennung ermöglicht den Beginn von Medikamenten, die das Fortschreiten verlangsamen können, und kann den Insulinbedarf um bis zu drei Jahre hinausschieben. Diese Zeit gibt Familien Raum zur Planung und Kindern Jahre ohne Insulinspritzen und Blutzuckerkontrollen. Laut dem Artikel sind Screening und frühe Behandlung in Ländern mit niedrigem und mittlerem Einkommen selten verfügbar.\n\nBei Typ-2-Diabetes zeigen neue Studien, dass GLP-1-Medikamente den Blutzucker nicht nur senken, sondern auch Todesfälle, Krankenhausaufenthalte und Amputationen bei Hochrisikopatienten verringern. Weitere aktuelle Studien deuten darauf hin, dass diese Medikamente bei erhöhtem Blutzucker die Entstehung von Typ-2-Diabetes verhindern können.\n\nDas zentrale Hindernis ist der Zugang. Wegen eingeschränkter Testmöglichkeiten schätzen Forschende, dass weltweit mehr als 250 Millionen Menschen nichts von ihrem Typ-2-Diabetes wissen. Nur etwa 1 von 2 Menschen mit Typ-2-Diabetes weltweit hat Zugang zu dem Insulin, das sie benötigen. Der Zugang zu GLP-1-Behandlungen konzentriert sich auf Länder mit hohem Einkommen, wo die Kosten unerschwinglich sein können. Das Team des Beitrags stellte fest, dass die COVID-19-Pandemie die Diabetesversorgung zusätzlich erschwert hat. Sollte eine Heilung kommen, werden laut dem Text viele Menschen keinen Zugang dazu haben.\n\nDie Kernbotschaft des Artikels lautet: Diese Therapien wirken nur, wenn Menschen sie tatsächlich erhalten können.",
+    "es": "El 19 de noviembre de 2026, The Conversation publicó un artículo de Jamie Hartmann-Boyce, profesor asociado de promoción de la salud y política sanitaria en la UMass Amherst. El texto señala que más de 830 millones de personas en el mundo viven con diabetes y que la cifra sigue aumentando, aunque una cura podría estar al alcance. Los medicamentos ayudan, pero, según el artículo, para la mayoría de las personas con diabetes tipo 1 los riesgos de tomar inmunosupresores de por vida superan los beneficios de vivir sin la enfermedad.\n\nLa diabetes tipo 1 no tiene una causa única conocida, aunque el riesgo es mayor si un familiar cercano la padece. En Estados Unidos, las personas sin síntomas pueden hacerse un cribado si un familiar tiene la enfermedad. La detección temprana permite empezar fármacos que pueden frenar la progresión y puede retrasar la necesidad de insulina hasta tres años. Ese tiempo da a las familias margen para organizarse y a los niños años sin inyecciones de insulina ni controles de glucosa. Según el artículo, el cribado y el tratamiento temprano rara vez están disponibles en países de ingresos bajos y medios.\n\nEn la diabetes tipo 2, nuevos estudios muestran que los medicamentos GLP-1 no solo reducen el azúcar en sangre, sino que también disminuyen las muertes, las hospitalizaciones y las amputaciones en pacientes de alto riesgo. Otros estudios recientes sugieren que estos fármacos pueden evitar que aparezca la diabetes tipo 2 en personas con niveles elevados de azúcar en sangre.\n\nEl principal obstáculo es el acceso. Por la escasez de pruebas diagnósticas, los investigadores calculan que más de 250 millones de personas en el mundo no saben que tienen diabetes tipo 2. Solo alrededor de 1 de cada 2 personas con diabetes tipo 2 en todo el mundo puede obtener la insulina que necesita. El acceso a los tratamientos GLP-1 se concentra en países de ingresos altos, donde los costes pueden ser prohibitivos. El equipo del autor comprobó que la pandemia de COVID-19 dificultó todavía más la atención a la diabetes. Si llega una cura, advierte el artículo, muchas personas no podrán acceder a ella.\n\nEl mensaje central del artículo es que estas terapias solo funcionan si las personas pueden realmente acceder a ellas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Людей с диабетом в мире",
+      "en": "People living with diabetes worldwide",
+      "kk": "Дүние жүзіндегі диабеті бар адамдар",
+      "de": "Menschen mit Diabetes weltweit",
+      "es": "Personas con diabetes en el mundo"
+     },
+     "v": {
+      "ru": "более 830 миллионов",
+      "en": "more than 830 million",
+      "kk": "830 миллионнан астам",
+      "de": "mehr als 830 Millionen",
+      "es": "más de 830 millones"
+     }
+    },
+    {
+     "k": {
+      "ru": "Людей с диабетом 2 типа, не знающих о своём диагнозе",
+      "en": "People with type 2 diabetes unaware of it",
+      "kk": "2-типті диабеті бар, бірақ мұны білмейтін адамдар",
+      "de": "Menschen mit Typ-2-Diabetes, die nichts davon wissen",
+      "es": "Personas con diabetes tipo 2 que no lo saben"
+     },
+     "v": {
+      "ru": "более 250 миллионов",
+      "en": "more than 250 million",
+      "kk": "250 миллионнан астам",
+      "de": "mehr als 250 Millionen",
+      "es": "más de 250 millones"
+     }
+    },
+    {
+     "k": {
+      "ru": "Доля людей с диабетом 2 типа, имеющих доступ к нужному инсулину",
+      "en": "Share of people with type 2 diabetes who can access the insulin they need",
+      "kk": "Қажетті инсулинге қолжетімділігі бар 2-типті диабеті бар адамдардың үлесі",
+      "de": "Anteil der Menschen mit Typ-2-Diabetes mit Zugang zum benötigten Insulin",
+      "es": "Proporción de personas con diabetes tipo 2 que tienen acceso a la insulina que necesitan"
+     },
+     "v": {
+      "ru": "примерно 1 из 2",
+      "en": "about 1 in 2",
+      "kk": "шамамен 1-і",
+      "de": "etwa 1 von 2",
+      "es": "alrededor de 1 de cada 2"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nWkI_b2M9NQ",
+   "cat": "approval",
+   "stage": "policy",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "FDA добавило предупреждение о редком заболевании глаз в популярные препараты GLP-1",
+    "en": "FDA Adds Rare Eye Condition Warning to Popular GLP-1 Medications",
+    "kk": "FDA танымал GLP-1 препараттарына сирек кездесетін көз ауруы туралы ескертуді қосты",
+    "de": "FDA ergänzt Warnhinweis zu einer seltenen Augenerkrankung bei beliebten GLP-1-Medikamenten",
+    "es": "La FDA añade una advertencia sobre una enfermedad ocular rara en medicamentos GLP-1 populares"
+   },
+   "text": {
+    "ru": "Управление по контролю за продуктами и лекарствами США добавило предупреждение о редком заболевании глаз в инструкции к популярным препаратам GLP-1.",
+    "en": "The US Food and Drug Administration has added a warning about a rare eye condition to popular GLP-1 medications.",
+    "kk": "АҚШ Азық-түлік және дәрі-дәрмек басқармасы танымал GLP-1 препараттарының нұсқаулығына сирек көз ауруы туралы ескертуді қосты.",
+    "de": "Die US-Arzneimittelbehörde FDA hat einen Warnhinweis zu einer seltenen Augenerkrankung bei beliebten GLP-1-Medikamenten ergänzt.",
+    "es": "La Administración de Alimentos y Medicamentos de EE. UU. añadió una advertencia sobre una enfermedad ocular rara a medicamentos GLP-1 populares."
+   },
+   "url": "https://www.news-medical.net/news/20261119/FDA-adds-rare-eye-condition-warning-to-popular-GLP-1-medications.aspx",
+   "src": "News-Medical",
+   "photoQuery": "medication injector pen",
+   "photo": {
+    "id": "u_TzKc7FGaL7Y",
+    "url": "https://images.unsplash.com/photo-1745939921744-ba8ef27940bf?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNhdGlvbiUyMGluamVjdG9yJTIwcGVufGVufDF8MHx8fDE3OTUxNDM2NzJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=dia_news&utm_medium=referral",
+    "alt": "A semaglutide injection pen is shown"
+   },
+   "body": {
+    "ru": "9 ноября Управление США по контролю за продуктами и лекарствами (FDA) объявило, что производители препаратов GLP-1, включая Ozempic, Wegovy, Mounjaro и Zepbound, должны добавить предупреждение о редком заболевании глаз, которое называется неартериитная передняя ишемическая оптическая нейропатия (NAION). Поводом стали несколько исследований, которые выявили связь между этими препаратами и NAION, хотя напрямую доказать, что лекарства вызывают это состояние, они не смогли.\n\nNAION возникает, когда к зрительному нерву поступает меньше крови и кислорода. Болезнь проявляется внезапной и безболезненной потерей зрения, которая иногда бывает необратимой; её также называют «инсультом глаза». Нейроофтальмолог Инь Эллисон Лю из UC Davis, которая изучала это заболевание и лечила пациентов с ним, подчёркивает, что оно остаётся очень редким: примерно 2,3–10,3 случая на 100 000 человек в возрасте 50 лет и старше в год, или около 6 000 новых случаев в год в США.\n\nСобственный анализ FDA сравнивал частоту NAION у пациентов, принимавших GLP-1, с пациентами, получавшими плацебо или другие препараты для снижения глюкозы. У группы GLP-1 показатель составил 6,4 случая на 100 000 человеко-лет против 3,8 в группе сравнения. Другое исследование FDA показало, что при приёме GLP-1 заболеваемость выше, чем при приёме ингибиторов DPP-4, а по сравнению с ингибиторами SGLT-2 она схожа. Ранее статья 2024 года в JAMA Ophthalmology тоже указала на возможную связь.\n\nПо словам Лю, индивидуальный риск NAION остаётся небольшим, а людям с диабетом, ожирением или серьёзным сердечно-сосудистым риском лечение может принести пользу. Прекращать приём из страха не стоит; лучше обсудить свои риски с лечащим врачом. Неизвестно, меняется ли риск в зависимости от длительности лечения. Плановые осмотры глаз могут выявить «тесный» зрительный нерв, но такие признаки не позволяют надёжно предсказать, у кого разовьётся NAION. При внезапной потере зрения нужно срочно обратиться к специалисту или в отделение экстренной помощи. Сейчас нет лечения, которое восстанавливает зрение при NAION; UC Davis участвует в испытании цененгермина, экспериментального назального спрея, эффективность которого пока не установлена.",
+    "en": "On November 9, the U.S. Food and Drug Administration said it will require makers of GLP-1 medicines, including Ozempic, Wegovy, Mounjaro and Zepbound, to add a warning about a rare eye disorder called non-arteritic anterior ischemic optic neuropathy (NAION). The move follows several studies that linked these drugs to the condition, although the studies did not prove that the drugs directly cause it.\n\nNAION occurs when the optic nerve receives too little blood and oxygen. It brings a sudden, painless drop in vision that can sometimes be permanent, and it is sometimes called an \"eye stroke.\" Yin Allison Liu, a neuro-ophthalmologist at UC Davis who has studied and treated the condition, stresses that it remains very rare: about 2.3 to 10.3 cases per 100,000 people aged 50 and older each year, or roughly 6,000 new U.S. cases annually.\n\nThe FDA's own analysis compared NAION rates among patients on GLP-1 drugs with those receiving placebo or other glucose-lowering medicines. The GLP-1 group had 6.4 cases per 100,000 person-years, versus 3.8 in the comparison group. A separate FDA study found a higher rate with GLP-1 drugs than with DPP-4 inhibitors, and a similar rate compared with SGLT-2 inhibitors. An earlier 2024 paper in JAMA Ophthalmology had also flagged a possible link.\n\nLiu emphasizes that an individual's chance of NAION is low, and that people with diabetes, obesity or significant cardiovascular risk may still benefit from treatment. Those worried about the eyes should not quit their medication out of fear; instead, they should talk through their personal risks with a prescriber. It is not yet known whether the risk changes with how long someone is treated. Routine eye exams can check for a crowded optic nerve, but these findings cannot reliably predict who will develop NAION. Anyone with sudden vision loss should seek urgent evaluation. At present, no medical or surgical treatment reverses NAION-related vision loss, and UC Davis is part of a trial of cenegermin, an investigational nasal spray whose effectiveness has not been established.",
+    "kk": "2026 жылдың 9 қарашасында АҚШ-тың Азық-түлік және дәрі-дәрмек басқармасы (FDA) Ozempic, Wegovy, Mounjaro және Zepbound сияқты GLP-1 препараттарын шығаратын компаниялар осы дәрілерге артериитсіз алдыңғы ишемиялық оптикалық нейропатия (NAION) деп аталатын сирек көз ауруы туралы ескерту қосуы керектігін мәлімдеді. Бұл шешім бірнеше зерттеуден кейін қабылданды; зерттеулер дәрілер мен аурудың арасында байланыс табылғанын көрсетті, бірақ дәрілердің ауруды тікелей тудыратынын дәлелдеген жоқ.\n\nNAION кезінде көру жүйкесіне қан мен оттегі аз жетеді. Бұл ауру көрудің кенеттен, ауырсынусыз төмендеуіне әкеледі; кейде ол қайтымсыз болады, сондықтан оны «көздің инсульты» деп те атайды. UC Davis клиникасының нейроофтальмологы Инь Эллисон Лю бұл ауруды зерттеп, науқастарды емдеген. Ол аурудың өте сирек екенін атап өтеді: 50 жас және одан үлкен 100 000 адамға жылына шамамен 2,3–10,3 жағдай келеді, ал АҚШ-та жылына шамамен 6 000 жаңа жағдай тіркеледі.\n\nFDA-ның өз талдауында GLP-1 препараттарын қабылдаған науқастардағы NAION жиілігі плацебо немесе глюкозаны төмендететін басқа дәрілер алған топпен салыстырылды. GLP-1 тобында 100 000 адам-жылға 6,4 жағдай болды, салыстыру тобында — 3,8. Басқа FDA зерттеуі GLP-1 препараттарында жиілік DPP-4 ингибиторларына қарағанда жоғары екенін, ал SGLT-2 ингибиторларымен салыстырғанда ұқсас екенін көрсетті. Бұдан бұрын 2024 жылғы JAMA Ophthalmology жарияланымы да мүмкін байланысқа назар аударған болатын.\n\nЛю NAION қаупі жеке адамда төмен екенін атап өтеді, ал диабеті, семіздігі немесе айтарлықтай жүрек-қан тамыры қаупі бар адамдарға емдеу әлі де пайдалы болуы мүмкін. Көзіне қауіп төнеді деп қорқып, дәрісін өз бетімен тастамаған жөн; оның орнына жеке қауіп-қатерлерді дәрігермен талқылау керек. Қаупінің емдеу ұзақтығына байланысты өзгеретінін әлі білмейді. Көзді тексеру кезінде көру жүйкесінің тығыз орналасуын анықтауға болады, бірақ мұндай белгілер NAION кімде дамитынын сенімді болжай алмайды. Кенеттен көру нашарласа, шұғыл түрде дәрігерге қаралу керек. Қазір NAION салдарынан нашарлаған көруді қалпына келтіретін медициналық немесе хирургиялық емдеу жоқ; UC Davis клиникасы әлі зерттелуде жатқан цененгермин назальді спрейінің сынағына қатысады, оның тиімділігі әлі дәлелденбеген.",
+    "de": "Am 9. November kündigte die US-Arzneimittelbehörde FDA an, dass Hersteller von GLP-1-Medikamenten, darunter Ozempic, Wegovy, Mounjaro und Zepbound, einen Warnhinweis zu einer seltenen Augenerkrankung aufnehmen müssen, die als nicht-arteriitische anteriore ischämische Optikusneuropathie (NAION) bezeichnet wird. Auslöser sind mehrere Studien, die einen Zusammenhang zwischen diesen Präparaten und der Erkrankung festgestellt haben; direkt bewiesen ist eine Verursachung dadurch jedoch nicht.\n\nNAION entsteht, wenn der Sehnerv zu wenig Blut und Sauerstoff erhält. Die Krankheit führt zu einem plötzlichen, schmerzlosen Sehverlust, der manchmal dauerhaft bleibt; sie wird deshalb mitunter als „Augenschlaganfall“ bezeichnet. Die Neuroophthalmologin Yin Allison Liu von der UC Davis, die diese Erkrankung untersucht und Betroffene behandelt hat, betont, dass sie sehr selten bleibt: etwa 2,3 bis 10,3 Fälle pro 100.000 Menschen ab 50 Jahren pro Jahr, also rund 6.000 neue Fälle jährlich in den USA.\n\nEine eigene Auswertung der FDA verglich die NAION-Raten bei Patienten unter GLP-1-Medikamenten mit denen unter Placebo oder anderen blutzuckersenkenden Mitteln. In der GLP-1-Gruppe traten 6,4 Fälle pro 100.000 Personenjahre auf, in der Vergleichsgruppe 3,8. Eine weitere FDA-Studie ergab eine höhere Rate bei GLP-1-Präparaten als bei DPP-4-Hemmern und eine ähnliche Rate im Vergleich zu SGLT-2-Hemmern. Bereits eine Arbeit aus dem Jahr 2024 im JAMA Ophthalmology hatte einen möglichen Zusammenhang aufgezeigt.\n\nLiu betont, dass das individuelle Risiko für NAION gering ist und Menschen mit Diabetes, Adipositas oder erheblichem kardiovaskulärem Risiko von einer Behandlung dennoch profitieren können. Wer sich um die Augen sorgt, sollte das Medikament nicht aus Angst absetzen, sondern die persönlichen Risiken mit der verschreibenden Fachkraft besprechen. Ob das Risiko von der Behandlungsdauer abhängt, ist noch unklar. Routineuntersuchungen der Augen können einen engen Sehnerv erkennen, doch solche Befunde lassen nicht verlässlich vorhersagen, wer an NAION erkrankt. Wer plötzlich schlechter sieht, sollte sich umgehend untersuchen lassen. Derzeit gibt es keine medizinische oder chirurgische Behandlung, die den durch NAION verursachten Sehverlust rückgängig macht. Die UC Davis beteiligt sich an einer Studie zu Cenegermin, einem Nasenspray in der Erprobung, dessen Wirksamkeit noch nicht belegt ist.",
+    "es": "El 9 de noviembre, la Administración de Alimentos y Medicamentos de EE. UU. (FDA) anunció que los fabricantes de medicamentos GLP-1, entre ellos Ozempic, Wegovy, Mounjaro y Zepbound, deberán incluir una advertencia sobre una enfermedad ocular poco frecuente llamada neuropatía óptica isquémica anterior no arterítica (NAION). La decisión se basa en varios estudios que hallaron una asociación entre estos fármacos y la afección, aunque no demostraron que los medicamentos la causen directamente.\n\nLa NAION se produce cuando el nervio óptico recibe poca sangre y oxígeno. Provoca una pérdida de visión repentina e indolora que a veces es permanente, por lo que a veces se la llama \"infarto del ojo\". La neuroftalmóloga Yin Allison Liu, de la UC Davis, que ha estudiado y tratado esta afección, subraya que sigue siendo muy rara: alrededor de 2,3 a 10,3 casos por cada 100 000 personas de 50 años o más al año, es decir, unos 6000 casos nuevos anuales en EE. UU.\n\nEl propio análisis de la FDA comparó las tasas de NAION en pacientes que tomaban GLP-1 con las de quienes recibían placebo u otros medicamentos para reducir la glucosa. El grupo con GLP-1 registró 6,4 casos por cada 100 000 personas-año, frente a 3,8 en el grupo de comparación. Otro estudio de la FDA halló una tasa mayor con los GLP-1 que con los inhibidores de DPP-4, y una tasa similar frente a los inhibidores de SGLT-2. Un artículo de 2024 en JAMA Ophthalmology ya había señalado una posible relación.\n\nLiu destaca que la probabilidad individual de sufrir NAION es baja y que las personas con diabetes, obesidad o un riesgo cardiovascular importante pueden seguir beneficiándose del tratamiento. Quienes se preocupen por sus ojos no deberían dejar la medicación por miedo, sino comentar sus riesgos personales con quien les receta. Aún no se sabe si el riesgo cambia según la duración del tratamiento. Los exámenes oculares de rutina pueden detectar un nervio óptico estrecho, pero estos hallazgos no permiten predecir con fiabilidad quién desarrollará NAION. Cualquier persona con pérdida súbita de visión debe acudir cuanto antes a evaluación médica. Actualmente no existe ningún tratamiento médico ni quirúrgico que revierta la pérdida de visión causada por la NAION; la UC Davis participa en un ensayo con cenegermina, un espray nasal en investigación cuya eficacia aún no está establecida."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Частота NAION в группе GLP-1 (на 100 000 человеко-лет)",
+      "en": "NAION rate in the GLP-1 group (per 100,000 person-years)",
+      "kk": "GLP-1 тобындағы NAION жиілігі (100 000 адам-жылға)",
+      "de": "NAION-Rate in der GLP-1-Gruppe (pro 100.000 Personenjahre)",
+      "es": "Tasa de NAION en el grupo GLP-1 (por 100 000 personas-año)"
+     },
+     "v": {
+      "ru": "6,4 против 3,8 в группе плацебо и других препаратов",
+      "en": "6.4 vs 3.8 in the placebo and other medications group",
+      "kk": "6,4 қарсы 3,8 плацебо және басқа дәрілер тобында",
+      "de": "6,4 gegenüber 3,8 in der Placebo- und Vergleichsgruppe",
+      "es": "6,4 frente a 3,8 en el grupo de placebo y otros medicamentos"
+     }
+    },
+    {
+     "k": {
+      "ru": "Частота NAION в популяции 50+ (в год, на 100 000 человек)",
+      "en": "NAION prevalence in people aged 50+ (per year, per 100,000)",
+      "kk": "50 жастан асқандардағы NAION жиілігі (жылына, 100 000 адамға)",
+      "de": "NAION-Häufigkeit bei Menschen ab 50 (pro Jahr, pro 100.000)",
+      "es": "Frecuencia de NAION en mayores de 50 años (al año, por 100 000)"
+     },
+     "v": {
+      "ru": "2,3–10,3",
+      "en": "2.3–10.3",
+      "kk": "2,3–10,3",
+      "de": "2,3–10,3",
+      "es": "2,3–10,3"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nFpRP29jPTU",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Распространённая оценка диабета 1 типа пропускает более половины частичных ремиссий у молодёжи с избыточным весом или ожирением",
+    "en": "Common Type 1 Diabetes Score Misses Over Half of Partial Remissions in Youth with Overweight or Obesity",
+    "kk": "1 типті диабеттің жалпы бағалау шкаласы артық салмақты немесе семіздігі бар жастардағы бөлшектік ремиссиялардың жартысынан көбін өткізіп жібереді",
+    "de": "Gängiger Score für Typ-1-Diabetes übersieht mehr als die Hälfte der Teilremissionen bei übergewichtigen Jugendlichen",
+    "es": "Una puntuación habitual para la diabetes tipo 1 pasa por alto más de la mitad de las remisiones parciales en jóvenes con sobrepeso u obesidad"
+   },
+   "text": {
+    "ru": "Исследование показало, что распространённая оценка для диабета 1 типа не выявляет более половины частичных ремиссий у молодых людей с избыточным весом или ожирением.",
+    "en": "A study found that a common type 1 diabetes score fails to identify more than half of partial remissions in young people with overweight or obesity.",
+    "kk": "Зерттеу 1 типті диабеттің жалпы бағалау шкаласы артық салмағы немесе семіздігі бар жастардағы бөлшектік ремиссиялардың жартысынан көбін анықтамайтынын көрсетті.",
+    "de": "Eine Studie zeigt, dass ein gängiger Score für Typ-1-Diabetes mehr als die Hälfte der Teilremissionen bei jungen Menschen mit Übergewicht oder Adipositas nicht erkennt.",
+    "es": "Un estudio encontró que una puntuación habitual para la diabetes tipo 1 no identifica más de la mitad de las remisiones parciales en jóvenes con sobrepeso u obesidad."
+   },
+   "url": "https://medicalxpress.com/news/2026-11-common-diabetes-score-partial-remissions.html",
+   "src": "Medical Xpress",
+   "photoQuery": "glucose meter blood test",
+   "photo": {
+    "id": "u_bPRZiasA8SM",
+    "url": "https://images.unsplash.com/photo-1684157127180-f7ffd7b67db9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTB8fGdsdWNvc2UlMjBtZXRlciUyMGJsb29kJTIwdGVzdHxlbnwxfDB8fHwxNzk1MTQzNjczfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-testing-blood-sugar-bPRZiasA8SM?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person testing blood sugar"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nc3o_b2M9NQ",
+   "cat": "community",
+   "stage": "report",
+   "date": "2026-11-19",
+   "added": "2026-11-20T03:01:06.971Z",
+   "title": {
+    "ru": "Более 18,4 тыс. жителей Волгоградской области обучились в школах диабета",
+    "en": "More Than 18,400 Residents of Volgograd Region Have Trained in Diabetes Schools",
+    "kk": "Волгоград облысының 18,4 мыңнан астам тұрғыны қант диабеті мектептерінен оқыды",
+    "de": "Mehr als 18.400 Einwohner der Region Wolgograd haben Diabetesschulen besucht",
+    "es": "Más de 18.400 residentes de la región de Volgogrado se han formado en escuelas de diabetes"
+   },
+   "text": {
+    "ru": "В Волгоградской области более 18,4 тысячи жителей прошли обучение в школах диабета.",
+    "en": "In Volgograd region, more than 18,400 residents have completed training at diabetes schools.",
+    "kk": "Волгоград облысында 18,4 мыңнан астам тұрғын қант диабеті мектептерінде оқуды аяқтады.",
+    "de": "In der Region Wolgograd haben mehr als 18.400 Einwohner Schulungen an Diabetesschulen absolviert.",
+    "es": "En la región de Volgogrado, más de 18.400 residentes han completado la formación en escuelas de diabetes."
+   },
+   "url": "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/bolee-18-4-tys-zhiteley-volgogradskoy-oblasti-obuchilis-v-shkolakh-diabeta/",
+   "src": "Национальные проекты России",
+   "photoQuery": "empty classroom whiteboard",
+   "local": true,
+   "photo": {
+    "id": "u_djpFyD7rZnU",
+    "url": "https://images.unsplash.com/photo-1784989966384-d802a16be6f8?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8ZW1wdHklMjBjbGFzc3Jvb20lMjB3aGl0ZWJvYXJkfGVufDF8MHx8fDE3OTUxNDM2NzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Brecht Corbeel",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/empty-classroom-with-desks-chairs-computers-and-a-screen-djpFyD7rZnU?utm_source=dia_news&utm_medium=referral",
+    "alt": "Empty classroom with desks, chairs, computers, and a screen"
+   },
+   "body": {
+    "ru": "Комитет здравоохранения Волгоградской области сообщил, что более 18,4 тыс. жителей региона прошли обучение в «Школах сахарного диабета». Занятия проводятся в рамках нацпроекта «Продолжительная и активная жизнь».\n\nПо словам ведомства, обучение входит в обязательную часть диспансерного наблюдения. Пациентов учат самостоятельно контролировать уровень сахара в крови, придерживаться сбалансированного питания и здорового образа жизни, а также рассказывают о лекарственных препаратах.\n\nСейчас в регионе работают 50 таких школ: 44 для взрослых и 6 для детей. Чтобы записаться на программу или подключиться к дистанционному наблюдению, можно обратиться в поликлинику по месту жительства.\n\nОтдельно отмечено внимание к современным системам мониторинга глюкозы и новому диагностическому оборудованию. В этом году в регионе впервые внедрили дистанционное наблюдение за состоянием диабетиков, которое включает суточное мониторирование и регулярную проверку сахара в крови. К этой системе уже подключены 1799 человек.\n\nГлавная цель нацпроекта — рост продолжительности жизни граждан: к 2030 году планируется довести её до 78 лет, а к 2036 году — до 81 года. Обновлённые нацпроекты реализуются по решению Президента России с 2025 года. В публикации не уточняется, за какой период подсчитано число 18,4 тыс. обученных.",
+    "en": "The regional health committee of Volgograd Oblast reports that more than 18.4 thousand residents have completed training at the area's diabetes schools. The sessions are held under the \"Long and Active Life\" national project.\n\nAccording to the regional health department, the courses are a required part of dispensary follow-up. Participants are taught to check their blood sugar on their own, to keep to balanced meals and a healthy routine, and they receive information about medicines.\n\nThe region currently operates 50 such schools: 44 for adults and 6 for children. People who want to join the programme or be placed under remote monitoring can contact the clinic near their home.\n\nParticular attention is paid to modern glucose monitoring systems and new diagnostic equipment. This year the region introduced remote supervision of people with diabetes for the first time, covering 24-hour monitoring and regular blood sugar checks. So far 1,799 people are connected to the system.\n\nThe main goal of the national project is to lengthen residents' lives: life expectancy is planned to reach 78 years by 2030 and 81 years by 2036. The updated national projects have been carried out under a decision by President Vladimir Putin since 2025. The report does not specify the time period covered by the figure of 18.4 thousand trained people.",
+    "kk": "Волгоград облысының денсаулық сақтау комитеті облыс тұрғындарының 18,4 мыңнан астамы қант диабеті мектептерінен оқудан өткенін хабарлады. Сабақтар «Ұзақ және белсенді өмір» ұлттық жобасы аясында жүргізіледі.\n\nОблыстық денсаулық сақтау басқармасының мәліметінше, бұл оқу диспансерлік бақылаудың міндетті бөлігі болып табылады. Пациенттерге қандағы қант деңгейін өз бетінше бақылауды, теңгерімді тамақтануды және салауатты өмір салтын ұстануды үйретеді, сондай-ақ дәрілік препараттар туралы түсіндіреді.\n\nҚазіргі уақытта аймақта мұндай 50 мектеп жұмыс істейді: оның 44-i ересектерге, 6-sы балаларға арналған. Бағдарламаға жазылу немесе қашықтан бақылауға қосылу үшін тұрғылықты жердегі емханаға жүгінуге болады.\n\nГлюкоза деңгейін бақылаудың заманауи жүйелеріне және жаңа диагностикалық жабдықтарға ерекше назар аударылады. Биыл аймақта диабеті бар адамдарды қашықтан бақылау алғаш рет енгізілді; ол тәулік бойы мониторингті және қан қантын тұрақты тексеруді қамтиды. Бұл жүйеге қазірдің өзінде 1799 адам қосылған.\n\nҰлттық жобаның басты мақсаты — азаматтардың өмір сүру ұзақтығын арттыру: 2030 жылға қарай күтілетін өмір сүру ұзақтығын 78 жасқа, 2036 жылға қарай 81 жасқа жеткізу жоспарланған. Жаңартылған ұлттық жобалар Ресей Президентінің шешімімен 2025 жылдан бастап іске асырылуда. Хабарламада 18,4 мың адамның қай кезең ішінде оқығаны нақтыланбаған.",
+    "de": "Der Gesundheitsausschuss des Gebiets Wolgograd meldet, dass mehr als 18,4 Tausend Einwohner der Region an den Diabetes-Schulen teilgenommen haben. Die Kurse finden im Rahmen des Nationalprojekts „Langes und aktives Leben“ statt.\n\nLaut dem regionalen Gesundheitsressort gehört die Schulung zum verpflichtenden Teil der fachärztlichen Betreuung. Die Patienten lernen, ihren Blutzucker selbst zu überwachen, sich ausgewogen zu ernähren und gesund zu leben; außerdem werden sie über Medikamente informiert.\n\nDerzeit gibt es in der Region 50 solcher Schulen, davon 44 für Erwachsene und 6 für Kinder. Wer am Programm teilnehmen oder in die Fernüberwachung aufgenommen werden möchte, kann sich an die Poliklinik am Wohnort wenden.\n\nBesonderes Augenmerk gilt modernen Systemen zur Glukoseüberwachung und neuer Diagnosetechnik. In diesem Jahr wurde in der Region erstmals eine Fernüberwachung für Diabetiker eingeführt, die tägliche Langzeitmessungen und regelmäßige Blutzuckerkontrollen umfasst. Daran sind bereits 1799 Menschen angeschlossen.\n\nDas übergeordnete Ziel des Nationalprojekts ist eine längere Lebenserwartung der Bürger: Bis 2030 soll sie auf 78 Jahre steigen, bis 2036 auf 81 Jahre. Die aktualisierten Nationalprojekte werden seit 2025 auf Beschluss von Präsident Wladimir Putin umgesetzt. Der Bericht nennt jedoch keinen Zeitraum, auf den sich die Zahl von 18,4 Tausend geschulten Personen bezieht.",
+    "es": "El comité de salud de la región de Volgogrado informó de que más de 18,4 mil residentes han completado la formación en las escuelas de diabetes de la zona. Las sesiones se desarrollan en el marco del proyecto nacional «Vida larga y activa».\n\nSegún el departamento regional de salud, estos cursos forman parte obligatoria del seguimiento en los dispensarios. A los pacientes se les enseña a controlar por sí mismos el azúcar en sangre, a mantener una alimentación equilibrada y un estilo de vida saludable, y también reciben información sobre medicamentos.\n\nActualmente la región cuenta con 50 de estas escuelas: 44 para adultos y 6 para niños. Quienes quieran sumarse al programa o recibir vigilancia a distancia pueden acudir a la policlínica de su localidad.\n\nSe presta especial atención a los sistemas modernos de monitorización de glucosa y al nuevo equipo de diagnóstico. Este año la región introdujo por primera vez la vigilancia remota de personas con diabetes, que incluye monitorización de 24 horas y controles periódicos del azúcar en sangre. Ya hay 1799 personas conectadas a este sistema.\n\nEl objetivo principal del proyecto nacional es aumentar la esperanza de vida de la población: se prevé llegar a 78 años en 2030 y a 81 años en 2036. Los proyectos nacionales actualizados se aplican desde 2025 por decisión del presidente Vladímir Putin. El texto no precisa el periodo al que corresponde la cifra de 18,4 mil personas formadas."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Прошли обучение в школах диабета",
+      "en": "Completed training at diabetes schools",
+      "kk": "Қант диабеті мектептерінен оқудан өтті",
+      "de": "An Diabetes-Schulen geschult",
+      "es": "Han completado la formación en escuelas de diabetes"
+     },
+     "v": {
+      "ru": "более 18,4 тыс. жителей",
+      "en": "more than 18.4 thousand residents",
+      "kk": "18,4 мыңнан астам тұрғын",
+      "de": "mehr als 18,4 Tausend Einwohner",
+      "es": "más de 18,4 mil residentes"
+     }
+    },
+    {
+     "k": {
+      "ru": "Школы сахарного диабета в регионе",
+      "en": "Diabetes schools in the region",
+      "kk": "Облystағы қант диабеті мектептері",
+      "de": "Diabetes-Schulen in der Region",
+      "es": "Escuelas de diabetes en la región"
+     },
+     "v": {
+      "ru": "50 (44 для взрослых, 6 для детей)",
+      "en": "50 (44 for adults, 6 for children)",
+      "kk": "50 (44 ересектерге, 6 балаларға)",
+      "de": "50 (44 für Erwachsene, 6 für Kinder)",
+      "es": "50 (44 para adultos, 6 para niños)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Подключены к дистанционному наблюдению",
+      "en": "Connected to remote monitoring",
+      "kk": "Қашықтан бақылауға қосылған",
+      "de": "An die Fernüberwachung angeschlossen",
+      "es": "Conectadas a la vigilancia remota"
+     },
+     "v": {
+      "ru": "1799 человек",
+      "en": "1,799 people",
+      "kk": "1799 адам",
+      "de": "1799 Menschen",
+      "es": "1799 personas"
+     }
+    }
+   ]
+  },
   {
    "id": "nWnc_b2M9NQ",
    "cat": "drugs",
@@ -1548,690 +2377,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nZCMz9vYz01",
-   "cat": "research",
-   "stage": "survey",
-   "date": "2026-11-17",
-   "added": "2026-11-18T03:05:23.470Z",
-   "title": {
-    "ru": "Палестинское исследование выявило пробелы в знаниях о скрининге гестационного диабета",
-    "en": "Palestinian study identifies knowledge gaps on gestational diabetes screening",
-    "kk": "Палестинадағы зерттеу гестациялық қант диабетін скринингтеу туралы білім олқылықтарын анықтады",
-    "de": "Palästinensische Studie deckt Wissenslücken beim Screening auf Schwangerschaftsdiabetes auf",
-    "es": "Un estudio palestino detecta lagunas de conocimiento sobre el cribado de la diabetes gestacional"
-   },
-   "text": {
-    "ru": "Исследование в Палестине показало пробелы в знаниях о скрининге гестационного диабета и рисках после родов.",
-    "en": "A study in Palestine has identified gaps in knowledge about gestational diabetes screening and postpartum risks.",
-    "kk": "Палестинадағы зерттеу гестациялық қант диабетін скринингтеу және босанғаннан кейінгі қауіптер туралы білімдегі олқылықтарды анықтады.",
-    "de": "Eine Studie aus Palästina zeigt Wissenslücken beim Screening auf Schwangerschaftsdiabetes und bei den Risiken nach der Geburt.",
-    "es": "Un estudio en Palestina ha detectado lagunas de conocimiento sobre el cribado de la diabetes gestacional y los riesgos posparto."
-   },
-   "url": "https://bioengineer.org/palestinian-study-identifies-knowledge-gaps-regarding-gestational-diabetes-screening-and-postpartum-risks/",
-   "src": "Bioengineer.org",
-   "photoQuery": "clinic examination room",
-   "local": true,
-   "photo": {
-    "id": "u_I_tiqvkfVq8",
-    "url": "https://images.unsplash.com/photo-1758812821349-1d2a4a96eecd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8Y2xpbmljJTIwZXhhbWluYXRpb24lMjByb29tfGVufDF8MHx8fDE3OTQ5NzExMjd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sergio Guardiola Herrador",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/vintage-dental-clinic-interior-with-old-equipment-I_tiqvkfVq8?utm_source=dia_news&utm_medium=referral",
-    "alt": "Vintage dental clinic interior with old equipment"
-   },
-   "body": {
-    "ru": "Перекрёстное исследование в Палестине показало, что женщины там относятся к гестационному диабету (ГСД) с одобрением и сообщают о хороших практиках самоконтроля, однако их понимание клинического ведения болезни лишь умеренное. В опросе, проведённом между октябрём 2025 года и мартом 2026 года на Западном берегу и в секторе Газа, участвовали 508 женщин. Почти половина показала хорошие общие знания, но заметные пробелы остались в сроках диагностики и в долгосрочных метаболических рисках.\n\nУчастницами были женщины от 18 до 49 лет, набранные через академические, общинные и медицинские сети; 85,1% имели как минимум степень бакалавра. Большинство знало общие положения: 85,6% связывали профилактику с здоровым питанием и физической активностью, а 81,1% назвали ожирение крупным фактором риска. Конкретные вопросы давались заметно хуже: только 64,2% назвали стандартный срок скрининга, 24–28 недель, а 38,6% знали, что ГСД не всегда проходит сразу после родов.\n\nПрактики и отношение, которые женщины описывали сами, оценивались выше, чем знания: 84,6% женщин, бывших хотя бы раз беременными, продемонстрировали хорошие практики, а 81,3% всех участниц имели позитивное отношение к скринингу и лечению. Авторы предупреждают, что эти данные основаны на самоотчётах и могут быть искажены стремлением отвечать социально одобряемо. Более низкие показатели были связаны с низким доходом, статусом незамужней женщины или студентки, а также с образованием не выше среднего.\n\nАвторы призывают сделать дородовое и репродуктивное просвещение более конкретным: объяснять сроки скрининга, сохраняющийся после беременности риск и связь с будущим диабетом. Дизайн исследования («срез» в одной точке) не позволяет установить причинно-следственные связи, а онлайн-набор участниц по принципу удобной выборки, вероятно, перепредставил женщин с доступом к интернету. Поэтому авторы рекомендуют в будущем проверить адаптированные программы обучения в реальных клинических условиях.",
-    "en": "A cross-sectional study from Palestine found that women there hold favorable attitudes toward gestational diabetes (GDM) and report good self-care habits, yet their understanding of clinical management is only moderate. The survey covered 508 women in the West Bank and Gaza Strip, conducted between October 2025 and March 2026. Nearly half showed good overall knowledge, but significant gaps remained on diagnostic timing and long-term metabolic risk.\n\nParticipants were women aged 18 to 49 recruited through academic, community and healthcare networks, and 85.1% held at least a bachelor's degree. Most recognized broad points: 85.6% linked healthy diet and physical activity to prevention, and 81.1% named obesity as a major risk factor. Fewer knew specifics: only 64.2% identified the standard screening window of 24 to 28 weeks, and 38.6% recognized that GDM does not always resolve right after delivery.\n\nSelf-reported practices and attitudes scored higher than knowledge. About 84.6% of women who had been pregnant showed good practice, and 81.3% of all participants had good attitudes toward screening and treatment. The authors warn these self-reports may be inflated by a tendency to give socially desirable answers. Lower income, being unmarried or a student, and secondary-level education were linked to weaker scores.\n\nThe authors call for antenatal education that more clearly covers screening timing, persistent risk after pregnancy and the link to future diabetes. The cross-sectional design cannot establish cause and effect, and online convenience sampling likely overrepresented women with internet access. The researchers therefore recommend testing tailored education programs in real clinical settings.",
-    "kk": "Палестинадағы көлденең зерттеу бұл елдегі әйелдердің гестациялық диабетке (ГСД) оң көзқарас ұстайтынын және өз денсаулығына қатысты жақсы әдеттерін айтатынын анықтады. Алайда олардың клиникалық емді түсінуі тек орташа деңгейде. Батыс жағалау мен Газа секторында 2025 жылдың қазан айынан 2026 жылдың наурыз айына дейін жүргізілген сауалнамаға 508 әйел қатысты. Қатысушылардың шамамен жартысы жалпы білімі жақсы екенін көрсетті, бірақ диагностика мерзімі мен ұзақмерзімді метаболизм қаупі бойынша елеулі олқылықтар сақталған.\n\nҚатысушылар 18-ден 49 жасқа дейінгі әйелдер болды, оларды академиялық, қоғамдық және медициналық желілер арқылы тартқан; 85,1% кемінде бакалавр дәрежесіне ие болды. Көпшілігі жалпы ережелерді біледі: 85,6% алдын алуды сау тамақтану мен дене белсенділігімен байланыстырды, ал 81,1% семіздікті басты қауіп факторы деп атады. Нақты сұрақтарда нәтиже нашарырақ: тек 64,2% стандартты скрининг мерзімін, яғни жүктіліктің 24–28 аптасын атады, ал 38,6% ГСД туылғаннан бірден кейін міндетті түрде өтпейтінін білді.\n\nҚатысушылар өздері хабарлаған практика мен көзқарас білімнен жоғары бағаланды: бір рет болса да жүкті болған әйелдердің 84,6% жақсы практика көрсетті, ал барлық қатысушылардың 81,3% скрининг пен емге оң көзқараспен қарады. Авторлар бұл деректер өздерінің айтуына негізделгенін және әлеуметтік қолайлы жауап беру бейімділігінен асып кетуі мүмкін екенін ескертеді. Төмен табыс, күйеуге тимегендік немесе студент болу және тек орта білім төмен балл алуымен байланысты болды.\n\nАвторлар антенаталдық білімді нақтырақ етуге шақырады: скрининг мерзімдерін, жүктіліктен кейінгі сақталатын қауіпті және болашақ диабетпен байланысты түсіндіру қажет. Зерттеудің көлденең дизайны себеп-салдарлық байланысты анықтай алмайды, ал интернет арқылы ыңғайлы іріктеу интернетке қолжетімді әйелдерді артық көрсеткен болуы мүмкін. Сондықтан зерттеушілер бейімделген оқыту бағдарламаларын нақты клиникалық жағдайда сынауды ұсынады.",
-    "de": "Eine Querschnittsstudie aus Palästina zeigt, dass Frauen dort eine positive Haltung gegenüber Gestationsdiabetes (GDM) haben und von guten Selbstfürsorgegewohnheiten berichten, ihr Verständnis des klinischen Managements jedoch nur mäßig ist. An der Befragung im Westjordanland und im Gazastreifen, die zwischen Oktober 2025 und März 2026 stattfand, nahmen 508 Frauen teil. Knapp die Hälfte zeigte insgesamt gutes Wissen, doch bei den Diagnosezeitpunkten und den langfristigen metabolischen Risiken bestanden erhebliche Lücken.\n\nDie Teilnehmerinnen waren zwischen 18 und 49 Jahre alt und wurden über akademische, gemeinschaftliche und medizinische Netzwerke gewonnen; 85,1 % hatten mindestens einen Bachelorabschluss. Die allgemeinen Aussagen kannten die meisten: 85,6 % verbanden Vorbeugung mit gesunder Ernährung und körperlicher Aktivität, 81,1 % nannten Adipositas als wichtigen Risikofaktor. Bei konkreten Fragen fiel das Ergebnis schwächer aus: Nur 64,2 % nannten das übliche Screening-Fenster von 24 bis 28 Schwangerschaftswochen, und 38,6 % wussten, dass GDM nach der Geburt nicht immer sofort verschwindet.\n\nDie selbst berichteten Praktiken und Einstellungen fielen besser aus als das Wissen: Etwa 84,6 % der Frauen, die schon einmal schwanger waren, zeigten gute Praktiken, und 81,3 % aller Teilnehmerinnen hatten eine positive Haltung zu Screening und Behandlung. Die Autorinnen und Autoren warnen, dass diese Angaben auf Selbstauskünften beruhen und durch den Wunsch nach sozial erwünschten Antworten verzerrt sein könnten. Geringeres Einkommen, Unverheiratetsein oder Studierendenstatus sowie ein Bildungsabschluss nur auf Sekundarstufe gingen mit schwächeren Werten einher.\n\nDie Studie plädiert für eine vorgeburtliche Aufklärung, die Screening-Zeitpunkte, das fortbestehende Risiko nach der Schwangerschaft und den Zusammenhang mit künftigem Diabetes klarer vermittelt. Das Querschnittsdesign kann keine Ursache-Wirkung-Beziehungen belegen, und die Online-Gelegenheitsstichprobe hat wahrscheinlich Frauen mit Internetzugang überrepräsentiert. Daher empfehlen die Forschenden, zugeschnittene Schulungsprogramme künftig in realen klinischen Settings zu testen.",
-    "es": "Un estudio transversal realizado en Palestina encontró que las mujeres de allí tienen actitudes favorables hacia la diabetes gestacional (DMG) y declaran buenos hábitos de autocuidado, aunque su comprensión del manejo clínico es solo moderada. La encuesta, realizada entre octubre de 2025 y marzo de 2026 en Cisjordania y la Franja de Gaza, incluyó a 508 mujeres. Casi la mitad mostró buenos conocimientos generales, pero persistían lagunas importantes sobre el momento del diagnóstico y el riesgo metabólico a largo plazo.\n\nLas participantes tenían entre 18 y 49 años y fueron reclutadas a través de redes académicas, comunitarias y sanitarias; el 85,1 % tenía al menos un título de grado. La mayoría conocía los puntos generales: el 85,6 % relacionó la prevención con la dieta saludable y la actividad física, y el 81,1 % citó la obesidad como factor de riesgo importante. En preguntas más concretas, los resultados fueron peores: solo el 64,2 % identificó el periodo habitual de cribado, de 24 a 28 semanas de gestación, y el 38,6 % sabía que la DMG no siempre desaparece justo después del parto.\n\nLas prácticas y actitudes declaradas por las propias mujeres puntuaron más alto que los conocimientos: alrededor del 84,6 % de las mujeres que habían estado embarazadas mostró buenas prácticas, y el 81,3 % de todas las participantes tenía actitudes positivas hacia el cribado y el tratamiento. Los autores advierten de que estas cifras se basan en autoinformes y podrían estar infladas por el sesgo de deseabilidad social. Un ingreso más bajo, estar soltera o ser estudiante, y tener solo educación secundaria se asociaron con puntuaciones más débiles.\n\nLos autores piden que la educación prenatal explique con más claridad el momento del cribado, el riesgo que persiste tras el embarazo y su relación con la diabetes futura. El diseño transversal no permite establecer causa y efecto, y el muestreo por conveniencia en línea probablemente sobrerrepresentó a mujeres con acceso a internet. Por ello, los investigadores recomiendan probar programas educativos adaptados en entornos clínicos reales."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Участницы исследования",
-      "en": "Study participants",
-      "kk": "Зерттеуге қатысушылар",
-      "de": "Studienteilnehmerinnen",
-      "es": "Participantes del estudio"
-     },
-     "v": {
-      "ru": "508 женщин, Западный берег и сектор Газа, октябрь 2025 – март 2026",
-      "en": "508 women, West Bank and Gaza Strip, October 2025 – March 2026",
-      "kk": "508 әйел, Батыс жағалау және Газа секторы, 2025 жылдың қазаны – 2026 жылдың наурызы",
-      "de": "508 Frauen, Westjordanland und Gazastreifen, Oktober 2025 – März 2026",
-      "es": "508 mujeres, Cisjordania y Franja de Gaza, octubre de 2025 – marzo de 2026"
-     }
-    },
-    {
-     "k": {
-      "ru": "Знают стандартный срок скрининга ГСД (24–28 недель)",
-      "en": "Correctly identify the standard GDM screening window (24–28 weeks)",
-      "kk": "ГСД стандартты скрининг мерзімін (24–28 апта) дұрыс атайды",
-      "de": "Nennen das übliche GDM-Screening-Fenster (24–28 Wochen) richtig",
-      "es": "Identifican correctamente el periodo habitual de cribado de DMG (24–28 semanas)"
-     },
-     "v": {
-      "ru": "64,2%",
-      "en": "64.2%",
-      "kk": "64,2%",
-      "de": "64,2 %",
-      "es": "64,2 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nNSUj9vYz01",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-17",
-   "added": "2026-11-18T03:05:23.470Z",
-   "title": {
-    "ru": "Тип 1 диабета: ежедневная борьба за каждую дозу инсулина",
-    "en": "Type 1 diabetes: the daily struggle behind every insulin dose",
-    "kk": "1 типті қант диабеті: әр инсулин дозасының артындағы күнделікті күрес",
-    "de": "Typ-1-Diabetes: Der tägliche Kampf hinter jeder Insulindosis",
-    "es": "Diabetes tipo 1: la lucha diaria detrás de cada dosis de insulina"
-   },
-   "text": {
-    "ru": "Материал рассказывает о повседневных трудностях жизни с диабетом 1 типа, связанных с каждой дозой инсулина.",
-    "en": "A feature on the everyday challenges of living with type 1 diabetes and managing every insulin dose.",
-    "kk": "Материал 1 типті қант диабетімен өмір сүрудің күнделікті қиындықтары және әр инсулин дозасын бақылау туралы.",
-    "de": "Ein Beitrag über die alltäglichen Herausforderungen des Lebens mit Typ-1-Diabetes und jede einzelne Insulindosis.",
-    "es": "Un reportaje sobre los retos diarios de vivir con diabetes tipo 1 y de gestionar cada dosis de insulina."
-   },
-   "url": "https://nation.africa/kenya/health/type-1-diabetes-the-daily-struggle-behind-every-insulin-dose-5672786",
-   "src": "Daily Nation",
-   "photoQuery": "insulin pen close-up",
-   "photo": {
-    "id": "u_TzKc7FGaL7Y",
-    "url": "https://images.unsplash.com/photo-1745939921744-ba8ef27940bf?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQ5NzExMjh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Haberdoedas",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=dia_news&utm_medium=referral",
-    "alt": "A semaglutide injection pen is shown"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nFZRP29jPTU",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-17",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "Диабет 2 типа повышает риск болезни Альцгеймера на 53%",
-    "en": "Type 2 diabetes raises Alzheimer's risk by 53%",
-    "kk": "2-типті қант диабеті Альцгеймер ауруы қаупін 53%-ға арттырады",
-    "de": "Typ-2-Diabetes erhöht das Alzheimer-Risiko um 53 %",
-    "es": "La diabetes tipo 2 aumenta el riesgo de Alzheimer en un 53 %"
-   },
-   "text": {
-    "ru": "Согласно сообщению, диабет 2 типа увеличивает риск развития болезни Альцгеймера на 53%.",
-    "en": "According to the report, type 2 diabetes increases the risk of developing Alzheimer's disease by 53%.",
-    "kk": "Хабарламаға сәйкес, 2-типті қант диабеті Альцгеймер ауруының даму қаупін 53%-ға арттырады.",
-    "de": "Laut Bericht erhöht Typ-2-Diabetes das Risiko, an Alzheimer zu erkranken, um 53 %.",
-    "es": "Según el informe, la diabetes tipo 2 aumenta el riesgo de desarrollar la enfermedad de Alzheimer en un 53 %."
-   },
-   "url": "https://www.vietnam.vn/ru/tieu-duong-type-2-lam-tang-53-nguy-co-mac-alzheimer",
-   "src": "Vietnam.vn",
-   "photoQuery": "brain scan medical imaging",
-   "photo": {
-    "id": "u_AB0r9z7eRYg",
-    "url": "https://images.unsplash.com/photo-1758691463110-697a814b2033?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8YnJhaW4lMjBzY2FuJTIwbWVkaWNhbCUyMGltYWdpbmd8ZW58MXwwfHx8MTc5NDg4NDU3Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/two-doctors-examining-a-brain-mri-scan-together-AB0r9z7eRYg?utm_source=dia_news&utm_medium=referral",
-    "alt": "Two doctors examining a brain mri scan together"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nkZSP29jPTU",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-17",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "Микро-РНК связаны с тяжестью диабетических язв стопы",
-    "en": "MicroRNA axis linked to severity of diabetic foot ulcers",
-    "kk": "Микро-РНҚ осі диабеттік табан жараларының ауырлығымен байланысты",
-    "de": "MicroRNA-Achse hängt mit dem Schweregrad diabetischer Fußulzera zusammen",
-    "es": "Eje de microARN relacionado con la gravedad de las úlceras del pie diabético"
-   },
-   "text": {
-    "ru": "Клиническое исследование выявило связь между состоянием оси микроРНК и тяжестью диабетических язв стопы.",
-    "en": "A clinical study found that a microRNA axis correlates with the severity of diabetic foot ulcers.",
-    "kk": "Клиникалық зерттеу микро-РНҚ осінің диабеттік табан жараларының ауырлығымен байланысын анықтады.",
-    "de": "Eine klinische Studie fand einen Zusammenhang zwischen einer MicroRNA-Achse und dem Schweregrad diabetischer Fußulzera.",
-    "es": "Un estudio clínico encontró una correlación entre un eje de microARN y la gravedad de las úlceras del pie diabético."
-   },
-   "url": "https://bioengineer.org/microrna-axis-correlates-with-diabetic-foot-ulcer-severity-in-clinical-study/",
-   "src": "Bioengineer.org",
-   "photoQuery": "laboratory test tubes",
-   "photo": {
-    "id": "u_egT3xtDu9DQ",
-    "url": "https://images.unsplash.com/photo-1579154341184-22069e4614d2?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8bGFib3JhdG9yeSUyMHRlc3QlMjB0dWJlc3xlbnwxfDB8fHwxNzk0ODg0NTc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/clear-glass-test-tubes-egT3xtDu9DQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "clear glass test tubes"
-   },
-   "body": {
-    "ru": "Исследователи, результаты которых опубликованы в журнале Journal of Orthopaedic Surgery and Research, обнаружили, что уровень молекулы микро-РНК miR-324-3p в крови растёт по мере утяжеления диабетических язв стопы, а активность фермента GPX4 в сыворотке падает.\n\nРабота опиралась на более ранние анализы транскриптома, которые выделили miR-324-3p среди ключевых нарушенных микро-РНК в очагах язв. Компьютерные прогнозы также указывали, что эта микро-РНК может воздействовать на GPX4 — важный регулятор ферроптоза, формы клеточной гибели.\n\nВ поперечное исследование вошли 320 человек, разделённых на три группы: 100 здоровых добровольцев, 100 пациентов с неосложнённым диабетом 2 типа и 120 пациентов с активными диабетическими язвами стопы. Содержание miR-324-3p последовательно увеличивалось от первой группы к третьей и было максимальным у пациентов с язвами, тогда как активность GPX4 снижалась. Среди пациентов с язвами высокий уровень miR-324-3p был связан с более высокими стадиями по Вагнеру, с обычными маркерами глюкозы и воспаления, а также с большим риском незаживления к 28-му дню наблюдения.\n\nОпыты на культуре эндотелиальных клеток пупочной вены человека, находившихся в условиях высокой концентрации глюкозы, показали похожую картину. Подавление miR-324-3p восстанавливало пролиферацию и миграцию клеток, улучшало редокс-баланс и заметно снижало выработку провоспалительных цитокинов IL-6 и TNF-альфа. Однако при подавлении GPX4 все эти защитные эффекты исчезали, что говорит о важности GPX4 для этого процесса.\n\nАвторы подчёркивают, что клинические данные носят корреляционный характер и не доказывают причинно-следственной связи. По их мнению, эндотелиальный путь может частично участвовать в развитии язв, но его нужно независимо подтвердить до окончательных выводов.",
-    "en": "Researchers publishing in the Journal of Orthopaedic Surgery and Research found that blood levels of a small RNA molecule, miR-324-3p, climb as diabetic foot ulcers become more severe, while the activity of the enzyme GPX4 in serum falls.\n\nThe work built on earlier transcriptomic analyses that flagged miR-324-3p as a key misregulated microRNA within ulcer lesions. Computer-based predictions also suggested that this microRNA might act on GPX4, a central regulator of ferroptosis, a form of cell death.\n\nThe cross-sectional study enrolled 320 people in three groups: 100 healthy controls, 100 patients with uncomplicated type 2 diabetes, and 120 patients with active diabetic foot ulcers. Levels of miR-324-3p rose from the first group to the third, peaking in ulcer patients, while GPX4 activity declined. Within the ulcer group, higher miR-324-3p was linked to more advanced Wagner grades, to routine glucose and inflammation markers, and to a greater risk of failing to heal by the 28-day follow-up.\n\nLaboratory experiments on human umbilical vein endothelial cells kept under high glucose showed a similar pattern. Blocking miR-324-3p restored cell growth and movement, improved redox balance, and markedly reduced secretion of the inflammatory signals IL-6 and TNF-alpha. However, when GPX4 was suppressed, all of these protective effects disappeared, pointing to GPX4 as essential to the process.\n\nThe authors stress that the clinical findings are correlational and do not establish cause and effect. They suggest the endothelial pathway may partly contribute to ulcer development, but say it needs independent validation before firm conclusions can be drawn.",
-    "kk": "Journal of Orthopaedic Surgery and Research журналында жарияланған зерттеушілер miR-324-3p микро-РНҚ молекуласының қандағы деңгейі диабеттік аяқ жарасы ауырлаған сайын өсетінін, ал сывороткадағы GPX4 ферментінің белсенділігі төмендейтінін анықтаған.\n\nЖұмыс бұрынғы транскриптомдық талдауларға негізделді, онда miR-324-3p жара ошақтарында реттелуі бұзылған негізгі микро-РНҚ ретінде көрсетілген болатын. Компьютерлік болжамдар бұл микро-РНҚ ферроптозды реттейтін маңызды ақуыз GPX4-ке әсер етуі мүмкін екенін де көрсетті.\n\nКөлденең зерттеуге 320 адам қатысты: 100 сау еріктілер, 100 асқынусыз 2 типті диабеті бар пациент және 120 белсенді диабеттік аяқ жарасы бар пациент. miR-324-3p деңгейі бірінші топтан үшінші топқа қарай біртіндеп өсіп, жара пациенттерінде ең жоғары болды, ал GPX4 белсенділігі төмендеді. Жара тобында miR-324-3p жоғары болуы Вагнер бойынша күрделірек дәрежелермен, әдеттегі қант және қабыну көрсеткіштерімен, сондай-ақ 28 күндік бақылауда жараның жазылмау қаупінің артуымен байланысты болды.\n\nЖоғары глюкозада ұсталған адам кіндік венасының эндотелий жасушаларындағы тәжірибелер де осындай үлгіні көрсетті. miR-324-3p-ті тежеу жасушалардың көбеюін және қозғалысын қалпына келтірді, редокс-тепе-теңдікті жақсартты және IL-6 мен TNF-альфа қабыну сигналдарының бөлінуін айтарлықтай азайтты. GPX4 деңгейі төмендетілгенде, бұл қорғаныштық әсерлердің барлығы жоғалды, бұл GPX4-тің процесс үшін маңызды екенін көрсетеді.\n\nАвторлар клиникалық нәтижелердің корреляциялық сипатта екенін және себеп-салдарлық байланысты дәлелдемейтінін атап өтеді. Олардың пайымдауынша, эндотелий жолы жара пайда болуына ішінара қатысуы мүмкін, бірақ нақты қорытынды жасау үшін оны тәуелсіз түрде растау қажет.",
-    "de": "Forscher, die im Journal of Orthopaedic Surgery and Research berichten, fanden heraus, dass der Blutspiegel des kleinen RNA-Moleküls miR-324-3p mit zunehmendem Schweregrad diabetischer Fußgeschwüre steigt, während die Aktivität des Enzyms GPX4 im Serum sinkt.\n\nDie Arbeit baute auf früheren transkriptomischen Analysen auf, die miR-324-3p als zentrale fehlregulierte Mikro-RNA innerhalb der Geschwürläsionen identifiziert hatten. Computergestützte Vorhersagen legten zudem nahe, dass diese Mikro-RNA auf GPX4 wirken könnte, einen zentralen Regulator der Ferroptose, einer Form des Zelltods.\n\nAn der Querschnittsstudie nahmen 320 Personen in drei Gruppen teil: 100 gesunde Kontrollpersonen, 100 Patienten mit unkompliziertem Typ-2-Diabetes und 120 Patienten mit aktiven diabetischen Fußgeschwüren. Die miR-324-3p-Werte stiegen von der ersten bis zur dritten Gruppe und erreichten bei Geschwürpatienten den Höchststand, während die GPX4-Aktivität abnahm. Innerhalb der Geschwürgruppe ging ein höherer miR-324-3p-Wert mit fortgeschritteneren Wagner-Stadien, mit routinemäßigen Glukose- und Entzündungsmarkern sowie mit einem höheren Risiko einer ausbleibenden Heilung bis zur Nachuntersuchung nach 28 Tagen einher.\n\nLaborversuche an humanen Nabelschnurvenen-Endothelzellen unter hoher Glukosebelastung zeigten ein ähnliches Muster. Die Hemmung von miR-324-3p stellte Zellproliferation und Zellwanderung wieder her, verbesserte die Redox-Balance und verringerte die Freisetzung der entzündungsfördernden Botenstoffe IL-6 und TNF-alpha deutlich. Wurde GPX4 unterdrückt, verschwanden jedoch alle diese schützenden Effekte, was GPX4 als unverzichtbar für den Prozess erscheinen lässt.\n\nDie Autoren betonen, dass die klinischen Befunde korrelativer Natur sind und keine Ursache-Wirkung-Beziehung belegen. Sie halten es für möglich, dass der endotheliale Signalweg zur Entstehung der Geschwüre teilweise beiträgt, verlangen jedoch eine unabhängige Bestätigung, bevor endgültige Schlüsse gezogen werden können.",
-    "es": "Investigadores que publican en el Journal of Orthopaedic Surgery and Research hallaron que los niveles en sangre de la pequeña molécula de ARN miR-324-3p aumentan a medida que las úlceras del pie diabético se agravan, mientras que la actividad de la enzima GPX4 en el suero disminuye.\n\nEl trabajo partió de análisis transcriptómicos previos que señalaban a miR-324-3p como una micro-ARN desregulada clave dentro de las lesiones de úlcera. Además, predicciones computacionales sugerían que esta micro-ARN podría actuar sobre GPX4, un regulador central de la ferroptosis, una forma de muerte celular.\n\nEl estudio transversal incluyó a 320 personas en tres grupos: 100 controles sanos, 100 pacientes con diabetes tipo 2 no complicada y 120 pacientes con úlceras activas del pie diabético. Los niveles de miR-324-3p subieron del primer grupo al tercero, con el máximo en los pacientes con úlcera, mientras que la actividad de GPX4 descendió. Dentro del grupo con úlcera, un miR-324-3p más alto se relacionó con grados de Wagner más avanzados, con marcadores rutinarios de glucosa e inflamación, y con un mayor riesgo de no cicatrizar en el seguimiento a los 28 días.\n\nExperimentos de laboratorio con células endoteliales de vena umbilical humana expuestas a alta glucosa mostraron un patrón parecido. Inhibir miR-324-3p restauró la proliferación y la migración celular, mejoró el equilibrio redox y redujo de forma notable la secreción de las citocinas proinflamatorias IL-6 y TNF-alfa. Sin embargo, al suprimir GPX4 desaparecieron todos esos efectos protectores, lo que apunta a que GPX4 es indispensable en el proceso.\n\nLos autores subrayan que los hallazgos clínicos son correlativos y no demuestran causa y efecto. Sugieren que la vía centrada en el endotelio podría contribuir en parte al desarrollo de las úlceras, pero señalan que necesita validación independiente antes de extraer conclusiones firmes."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Участники исследования",
-      "en": "Study participants",
-      "kk": "Зерттеу қатысушылары",
-      "de": "Studienteilnehmer",
-      "es": "Participantes del estudio"
-     },
-     "v": {
-      "ru": "320 человек: 100 здоровых, 100 с диабетом 2 типа, 120 с язвами стопы",
-      "en": "320 people: 100 healthy, 100 with type 2 diabetes, 120 with foot ulcers",
-      "kk": "320 адам: 100 сау, 100 2 типті диабеті бар, 120 аяқ жарасы бар",
-      "de": "320 Personen: 100 gesund, 100 mit Typ-2-Diabetes, 120 mit Fußgeschwüren",
-      "es": "320 personas: 100 sanas, 100 con diabetes tipo 2 y 120 con úlceras del pie"
-     }
-    },
-    {
-     "k": {
-      "ru": "Срок наблюдения за заживлением",
-      "en": "Healing follow-up point",
-      "kk": "Жараның жазылуын бақылау мерзімі",
-      "de": "Nachuntersuchung zur Heilung",
-      "es": "Seguimiento de la cicatrización"
-     },
-     "v": {
-      "ru": "28 дней",
-      "en": "28 days",
-      "kk": "28 күн",
-      "de": "28 Tage",
-      "es": "28 días"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nVWRT9vYz01",
-   "cat": "events",
-   "stage": "conference",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "ADA-2026: новые препараты для снижения веса и лечения диабета",
-    "en": "ADA 2026: new drugs for weight loss and diabetes treatment",
-    "kk": "ADA-2026: салмақты азайтуға және диабетті емдеуге арналған жаңа препараттар",
-    "de": "ADA 2026: neue Medikamente zur Gewichtsabnahme und Diabetesbehandlung",
-    "es": "ADA 2026: nuevos fármacos para bajar de peso y tratar la diabetes"
-   },
-   "text": {
-    "ru": "Обзор новых препаратов для снижения веса и лечения сахарного диабета, представленных в рамках ADA-2026.",
-    "en": "An overview of new drugs for weight loss and diabetes treatment presented at ADA 2026.",
-    "kk": "ADA-2026 шеңберінде ұсынылған салмақты азайтуға және қант диабетін емдеуге арналған жаңа препараттарға шолу.",
-    "de": "Überblick über neue Medikamente zur Gewichtsabnahme und Behandlung von Diabetes, die auf der ADA 2026 vorgestellt wurden.",
-    "es": "Resumen de los nuevos fármacos para bajar de peso y tratar la diabetes presentados en ADA 2026."
-   },
-   "url": "https://medvestnik.ru/content/articles/ada-2026-novye-preparaty-dlya-snijeniya-vesa-i-lecheniya-saharnogo-diabeta.html",
-   "src": "Medvestnik",
-   "photoQuery": "conference hall stage",
-   "photo": {
-    "id": "u_BfqRSrbFHDY",
-    "url": "https://images.unsplash.com/photo-1759477274012-263d469f0e16?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8Y29uZmVyZW5jZSUyMGhhbGwlMjBzdGFnZXxlbnwxfDB8fHwxNzk0ODg0NTc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "SR Engineers and Consultants",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/empty-auditorium-with-rows-of-red-seats-and-stage-BfqRSrbFHDY?utm_source=dia_news&utm_medium=referral",
-    "alt": "Empty auditorium with rows of red seats and stage"
-   },
-   "body": {
-    "ru": "На завершении ежегодного конгресса Американской диабетической ассоциации ADA-2026 в Новом Орлеане «Медвестник» обобщил самые заметные данные о препаратах для снижения веса, дополнительной терапии диабета и ингаляционном инсулине при гестационном диабете.\n\nБольше всего внимания привлёк ретатрутид, экспериментальный тройной агонист рецепторов. В исследовании III фазы TRIUMPH-1 у взрослых с ожирением к 80-й неделе средняя потеря веса составила 19% при дозе 4 мг, 25,9% при 9 мг и 28,3% при 12 мг, против 2,2% на плацебо. При максимальной дозе это 31,9 кг, что сопоставимо с результатом бариатрической хирургии. У участников двух наибольших доз боль при остеоартрите коленей снизилась на 70%, а апноэ сна улучшилось примерно на 60%. Серьёзных нежелательных явлений на препарате было больше, чем на плацебо; чаще всего — тошнота, диарея, запор и рвота.\n\nУ пациентов с диабетом 2 типа исследование III фазы TRANSCEND-T2D-1 показало, что ретатрутид снижал гликированный гемоглобин на 1,69–1,94% к 40-й неделе, против 0,81% на плацебо; тяжёлой гипогликемии не зафиксировано. Орфорглипрон, принимаемый ежедневно, в исследовании III фазы ACHIEVE-5 как дополнение к базальному инсулину гларгин снижал гликированный гемоглобин на 1,58–1,88% против 0,79% на плацебо. Петрелинтид, амилиновый аналог для еженедельных инъекций, в исследовании II фазы ZUPREME-1 у людей без диабета обеспечил снижение веса на 8,7–10,7% за 42 недели против 1,7% на плацебо.\n\nИнгаляционный инсулин (технология Technosphere) сравнивали с инсулином быстрого действия у 23 женщин с гестационным диабетом в орегонском исследовании. Показатели глюкозы через 1, 2 и 3 часа были ниже при ингаляционной форме, а гипогликемия была у одной пациентки против шести на аналоге. Чаще всего жаловались на кашель, который длился не больше одного дня.\n\nЭто данные, представленные на конгрессе, а несколько исследований были небольшими, от 23 до 546 участников. В статье не говорится о сроках регуляторного рассмотрения или дальнейших шагах, поэтому доступность препаратов остаётся неясной.",
-    "en": "At the close of the American Diabetes Association's ADA-2026 annual meeting in New Orleans, Medvestnik reviewed the most notable reports on weight-loss drugs, add-on diabetes treatments and inhaled insulin in gestational diabetes.\n\nThe most attention went to retatrutide, an experimental triple hormone-receptor agonist. In the phase III TRIUMPH-1 trial in adults with obesity, average weight loss by week 80 was 19% at 4 mg, 25.9% at 9 mg and 28.3% at 12 mg, versus 2.2% on placebo. At the top dose this equalled 31.9 kg, similar to what bariatric surgery achieves. In the two highest-dose groups, knee osteoarthritis pain fell by 70% and sleep apnea improved by roughly 60%. Serious adverse events were more frequent on the drug than on placebo, mainly nausea, diarrhoea, constipation and vomiting.\n\nIn type 2 diabetes, the phase III TRANSCEND-T2D-1 study showed retatrutide reduced HbA1c by 1.69–1.94% at week 40, against 0.81% with placebo, and no severe hypoglycaemia was recorded. Once-daily orforglipron, tested in the phase III ACHIEVE-5 trial as an add-on to basal insulin glargine, lowered HbA1c by 1.58–1.88% versus 0.79% on placebo. Petrelintide, a weekly amylin analogue, produced 8.7–10.7% weight loss over 42 weeks in the phase II ZUPREME-1 trial in people without diabetes, compared with 1.7% on placebo.\n\nInhaled insulin (Technosphere) was compared with a rapid-acting insulin analogue in 23 women with gestational diabetes in an Oregon study. Glucose readings at one, two and three hours were lower with the inhaled form, and one patient had hypoglycaemia versus six on the analogue. Cough was the most common complaint, lasting no more than a day.\n\nThese are conference presentations, and several trials were small, with 23 to 546 participants. The article does not mention regulatory timelines or next steps, so when these drugs might become available remains unclear.",
-    "kk": "Американ диабет қауымдастығының ADA-2026 жылдық конгрессі Жаңа Орлеанда аяқталғаннан кейін, «Medvestnik» салмақ азайтуға арналған препараттар, диабетке қосымша емдеу және гестациялық диабетте ингаляциялық инсулин туралы ең маңызды деректерге шолу жасады.\n\nЕң көп назар экспериментальды үш агонист ретатрутидке аударылды. Семіздігі бар ересектерге арналған III фаза TRIUMPH-1 зерттеуінде 80-ші аптаға орташа салмақ азаюы 4 мг дозада 19%, 9 мг дозада 25,9%, 12 мг дозада 28,3% болды, плацебода — 2,2%. Ең жоғары дозада бұл 31,9 кг, бариатриялық хирургияға ұқсас нәтиже. Ең жоғары дозаны алған екі топта тізе остеоартриті ауыруы 70%-ға, ұйқы апноэсы шамамен 60%-ға жақсарды. Препаратта ауыр жағымсыз құбылыстар плацебоға қарағанда жиі тіркелді, негізінен жүрек айну, диарея, құрысу және құсу.\n\n2 типті диабеті бар адамдарда III фаза TRANSCEND-T2D-1 зерттеуі ретатрутидтің 40-ші аптаға гликирленген гемоглобинді 1,69–1,94% төмендеткенін көрсетті, плацебода — 0,81%; ауыр гипогликемия тіркелмеген. Күніне бір рет қабылданатын орфоглипрон III фаза ACHIEVE-5 зерттеуінде базальды инсулин гларгинге қосымша ретінде гликирленген гемоглобинді 1,58–1,88% төмендетті, плацебода — 0,79%. Аптасына бір рет енгізілетін петрелинтид, II фаза ZUPREME-1 зерттеуінде диабеті жоқ адамдарда 42 аптада салмақтың 8,7–10,7% азайуын қамтамасыз етті, плацебода — 1,7%.\n\nИнгаляциялық инсулин (Technosphere технологиясы) Орегондағы зерттеуде гестациялық диабеті бар 23 әйелде жылдам әсер ететін инсулин аналогімен салыстырылды. 1, 2 және 3 сағаттағы глюкоза көрсеткіштері ингаляциялық түрде төмен болды; гипогликемия бір науқаста, аналогта алты науқаста байқалды. Ең жиі шағым — бір күннен аспайтын жөтел.\n\nБұл конгресте ұсынылған деректер, ал бірқатар зерттеулер шағын болды: қатысушылары 23-тен 546-ға дейін. Мақалада реттеушілік мерзімдер немесе келесі қадамдар туралы айтылмағандықтан, бұл препараттардың қашан қолжетімді болатыны әлі белгісіз.",
-    "de": "Am Ende des jährlichen Kongresses der American Diabetes Association, ADA-2026, in New Orleans fasste Medvestnik die wichtigsten Befunde zu Abnehmmitteln, zusätzlichen Diabetestherapien und inhalativem Insulin bei Gestationsdiabetes zusammen.\n\nAm meisten Aufmerksamkeit erhielt Retatrutid, ein experimenteller dreifacher Hormonrezeptor-Agonist. In der Phase-III-Studie TRIUMPH-1 bei Erwachsenen mit Adipositas lag der mittlere Gewichtsverlust bis Woche 80 bei 19 % mit 4 mg, 25,9 % mit 9 mg und 28,3 % mit 12 mg, unter Placebo bei 2,2 %. In der höchsten Dosis entsprach das 31,9 kg, vergleichbar mit bariatrischen Eingriffen. In den beiden Gruppen mit der höchsten Dosis sank der Knieschmerz bei Arthrose um 70 %, und die Schlafapnoe besserte sich um etwa 60 %. Schwerwiegende unerwünschte Ereignisse traten unter dem Wirkstoff häufiger auf als unter Placebo, vor allem Übelkeit, Durchfall, Verstopfung und Erbrechen.\n\nBei Typ-2-Diabetes senkte Retatrutid in der Phase-III-Studie TRANSCEND-T2D-1 das HbA1c in Woche 40 um 1,69–1,94 %, unter Placebo um 0,81 %; schwere Hypoglykämien wurden nicht registriert. Orforglipron, täglich eingenommen, senkte in der Phase-III-Studie ACHIEVE-5 als Zusatz zu Insulin glargin das HbA1c um 1,58–1,88 % gegenüber 0,79 % unter Placebo. Petrelintid, ein Amylin-Analogon zur wöchentlichen Injektion, führte in der Phase-II-Studie ZUPREME-1 bei Menschen ohne Diabetes über 42 Wochen zu 8,7–10,7 % Gewichtsverlust, unter Placebo 1,7 %.\n\nInhalatives Insulin (Technosphere) wurde in einer Studie aus Oregon bei 23 Patientinnen mit Gestationsdiabetes mit einem schnellwirkenden Insulinanalogon verglichen. Die Glukosewerte nach 1, 2 und 3 Stunden lagen mit der inhalativen Form niedriger; eine Hypoglykämie trat bei einer Patientin auf, unter dem Analogon bei sechs. Am häufigsten klagten die Patientinnen über Husten, der nicht länger als einen Tag anhielt.\n\nEs handelt sich um auf dem Kongress vorgestellte Daten, und mehrere Studien waren klein, mit 23 bis 546 Teilnehmenden. Der Artikel nennt keine Zulassungszeiträume oder nächsten Schritte, daher bleibt unklar, wann diese Mittel verfügbar sein könnten.",
-    "es": "Al cierre del congreso anual de la Asociación Americana de Diabetes, ADA-2026, celebrado en Nueva Orleans, Medvestnik repasó los hallazgos más destacados sobre fármacos para bajar de peso, terapias complementarias para la diabetes e insulina inhalada en la diabetes gestacional.\n\nLa mayor atención recayó en retatrutida, un agonista triple de receptores hormonales en fase experimental. En el estudio de fase III TRIUMPH-1, en adultos con obesidad, la pérdida media de peso en la semana 80 fue del 19 % con 4 mg, del 25,9 % con 9 mg y del 28,3 % con 12 mg, frente al 2,2 % con placebo. Con la dosis máxima, eso equivalió a 31,9 kg, una cifra comparable a la de la cirugía bariátrica. En los dos grupos de mayor dosis, el dolor por artrosis de rodilla bajó un 70 % y la apnea del sueño mejoró alrededor de un 60 %. Los eventos adversos graves fueron más frecuentes con el fármaco que con placebo, sobre todo náuseas, diarrea, estreñimiento y vómitos.\n\nEn diabetes tipo 2, el estudio de fase III TRANSCEND-T2D-1 mostró que retatrutida redujo la HbA1c entre 1,69 y 1,94 % en la semana 40, frente al 0,81 % con placebo, y no se registraron hipoglucemias graves. Orforglipron, de administración diaria, probado en el estudio de fase III ACHIEVE-5 como complemento a la insulina glargina basal, redujo la HbA1c entre 1,58 y 1,88 %, frente al 0,79 % con placebo. Petrelintida, un análogo de amilina de inyección semanal, logró en el estudio de fase II ZUPREME-1, en personas sin diabetes, una pérdida de peso del 8,7–10,7 % en 42 semanas, frente al 1,7 % con placebo.\n\nLa insulina inhalada (tecnología Technosphere) se comparó con un análogo de insulina de acción rápida en 23 mujeres con diabetes gestacional en un estudio de Oregón. Las glucemias a 1, 2 y 3 horas fueron más bajas con la forma inhalada, y una paciente tuvo hipoglucemia frente a seis con el análogo. La queja más frecuente fue la tos, que no duró más de un día.\n\nSon datos presentados en el congreso, y varios estudios fueron pequeños, con entre 23 y 546 participantes. El artículo no menciona plazos regulatorios ni próximos pasos, por lo que sigue sin estar claro cuándo podrían estar disponibles estos fármacos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Ретатрутид 12 мг: снижение веса к 80-й неделе (TRIUMPH-1)",
-      "en": "Retatrutide 12 mg: weight loss by week 80 (TRIUMPH-1)",
-      "kk": "Ретатрутид 12 мг: 80-ші аптаға салмақ азаюы (TRIUMPH-1)",
-      "de": "Retatrutid 12 mg: Gewichtsverlust bis Woche 80 (TRIUMPH-1)",
-      "es": "Retatrutida 12 mg: pérdida de peso en la semana 80 (TRIUMPH-1)"
-     },
-     "v": {
-      "ru": "28,3%",
-      "en": "28.3%",
-      "kk": "28,3%",
-      "de": "28,3 %",
-      "es": "28,3 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Петрелинтид: снижение веса за 42 недели (ZUPREME-1)",
-      "en": "Petrelintide: weight loss over 42 weeks (ZUPREME-1)",
-      "kk": "Петрелинтид: 42 аптадағы салмақ азаюы (ZUPREME-1)",
-      "de": "Petrelintid: Gewichtsverlust über 42 Wochen (ZUPREME-1)",
-      "es": "Petrelintida: pérdida de peso en 42 semanas (ZUPREME-1)"
-     },
-     "v": {
-      "ru": "8,7–10,7%",
-      "en": "8.7–10.7%",
-      "kk": "8,7–10,7%",
-      "de": "8,7–10,7 %",
-      "es": "8,7–10,7 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nF6QT9vYz01",
-   "cat": "market",
-   "stage": "report",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "Продажи препаратов от диабета в Ростовской области за девять месяцев выросли на треть",
-    "en": "Diabetes drug sales in the Rostov region rose by a third over nine months",
-    "kk": "Ростов облысында тоғыз айда қант диабетіне арналған дәрілердің сатылымы үштен бірге өсті",
-    "de": "Verkauf von Diabetesmedikamenten in der Region Rostow stieg in neun Monaten um ein Drittel",
-    "es": "Las ventas de fármacos para la diabetes en la región de Rostov subieron un tercio en nueve meses"
-   },
-   "text": {
-    "ru": "По данным за девять месяцев, продажи препаратов от диабета в Ростовской области выросли примерно на треть.",
-    "en": "Data for nine months show diabetes drug sales in the Rostov region rose by about a third.",
-    "kk": "Тоғыз айлық деректер бойынша Ростов облысында қант диабетіне қарсы дәрілердің сатылымы шамамен үштен бірге өсті.",
-    "de": "Den Daten für neun Monate zufolge stiegen die Verkäufe von Diabetesmedikamenten in der Region Rostow um etwa ein Drittel.",
-    "es": "Según los datos de nueve meses, las ventas de medicamentos para la diabetes en la región de Rostov crecieron alrededor de un tercio."
-   },
-   "url": "https://south.vedomosti.ru/south/news/2026/11/16/1254804-prodazhi",
-   "src": "Ведомости. ЮГ",
-   "photoQuery": "pharmacy shelves",
-   "local": true,
-   "photo": {
-    "id": "u_747NDboAWNY",
-    "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTQ4ODQ1Nzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Nathaniel Yeo",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/stationery-store-interior-with-greeting-cards-747NDboAWNY?utm_source=dia_news&utm_medium=referral",
-    "alt": "A bright stationery store interior with shelves of greeting cards and office supplies"
-   },
-   "body": {
-    "ru": "Аптеки Ростовской области за январь–сентябрь 2026 года продали заметно больше препаратов от сахарного диабета. По данным аналитиков DSM Group, которые передал местному изданию «Блокнот Ростов», рост составил 35,5% к тому же периоду 2025 года.\n\nЗа девять месяцев реализовали примерно 1,5 млн упаковок, тогда как годом ранее — почти 1,2 млн. Одна упаковка при этом подорожала на 73,3%: с 1282 до 2222 рублей. В итоге денежный объём продаж вырос на 135% и достиг 3,37 млрд рублей против 1,42 млрд.\n\nЧаще всего жители региона покупали «Тирзетту», «Семавик», «Сержаро», «Форсигу», «Велгию», «Квинсенту», «Глюкофаж», «Галвус», «Джардинс» и «Семуглин».\n\nРост продаж идёт параллельно со снижением числа впервые выявленных случаев. По словам и. о. министра здравоохранения области Александра Середы, за десять месяцев 2026 года зарегистрировано 353 новых случая на 100 тысяч населения, что на 33,1% ниже показателя 2025 года. На 1 октября 2026 года распространённость диабета составляла 4295 человек на 100 тысяч жителей; в эту цифру входят и пациенты с ранее установленным диагнозом.\n\nОграничения: данные о продажах получены от частной аналитической компании, а не из официальной статистики. В материале не объясняется, почему выросла цена упаковки. Дальнейших шагов в статье не описано.",
-    "en": "Pharmacies in the Rostov region sold considerably more diabetes medicines in the first nine months of 2026. According to analysts at DSM Group, whose figures were passed on by the local outlet Bloknot Rostov, the increase was 35.5% compared with the same period of 2025.\n\nRoughly 1.5 million packs were sold over the nine months, against almost 1.2 million a year earlier. The price of a single pack, however, rose by 73.3%, from 1,282 to 2,222 rubles. As a result, the value of sales grew by 135%, reaching 3.37 billion rubles compared with 1.42 billion rubles.\n\nThe most popular products among residents were Tirzetta, Semavik, Sergaro, Forsiga, Velgia, Kvinsenta, Glucophage, Galvus, Jardins and Semuglin.\n\nSales are rising even as fewer people are newly diagnosed. Acting regional health minister Alexander Sereda said 353 new cases per 100,000 people were registered over the first ten months of 2026, 33.1% below the 2025 figure. As of October 1, 2026, diabetes prevalence stood at 4,295 people per 100,000 residents, a count that also includes patients with a previously established diagnosis.\n\nCaveats: the sales data come from a private analytics firm, not official statistics. The article does not explain why the price per pack rose. It does not describe any next steps.",
-    "kk": "Ростов облысындағы дәріханалар 2026 жылдың қаңтар–қыркүйегінде қант диабетіне арналған дәрілерді едәуір көбірек сатты. «Блокнот Ростов» басылымына жеткізілген DSM Group талдаушыларының деректері бойынша өсім өткен жылдың осы кезеңімен салыстырғанда 35,5% болды.\n\nТоғыз ай ішінде шамамен 1,5 млн орам сатылды, ал бір жыл бұрын — шамамен 1,2 млн орам. Бірақ бір орамның бағасы 73,3%-ға өсіп, 1282 рубльден 2222 рубльге жетті. Нәтижесінде сатылымның ақшалай көлемі 135%-ға артып, бір жыл бұрынғы 1,42 млрд рубльден 3,37 млрд рубльге көтерілді.\n\nТұрғындар арасында ең сұранысқа ие болғандар: Тирзетта, Семавик, Сержаро, Форсига, Велгия, Квинсента, Глюкофаж, Галвус, Джардинс және Семуглин.\n\nСатылым өсіп жатқанымен, жаңадан анықталатын адамдар азайып келеді. Облыстың денсаулық сақтау министрінің міндетін атқарушы Александр Середа 2026 жылдың алғашқы он айында 100 000 адамға шаққанда 353 жаңа жағдай тіркелгенін, бұл 2025 жылғы көрсеткіштен 33,1%-ға төмен екенін айтты. 2026 жылдың 1 қазанына қарай қант диабетінің таралуы 100 000 тұрғынға 4295 адам болды; бұл санаққа бұрын диагноз қойылған пациенттер де кіреді.\n\nШектеулер: сатылым деректерін жеке талдау компаниясы берген, ресми статистика емес. Мақалада бағаның неге өскені түсіндірілмеген. Алда қандай қадамдар жасалатыны туралы ақпарат жоқ.",
-    "de": "In den Apotheken der Region Rostow wurden in den ersten neun Monaten 2026 deutlich mehr Diabetesmedikamente verkauft. Laut Analysten der DSM Group, deren Zahlen das Lokalmedium Bloknot Rostow weitergab, betrug das Plus 35,5 % gegenüber demselben Zeitraum 2025.\n\nIn den neun Monaten wurden rund 1,5 Millionen Packungen abgegeben, im Jahr zuvor knapp 1,2 Millionen. Der Preis einer einzelnen Packung kletterte dagegen um 73,3 %, von 1.282 auf 2.222 Rubel. Dadurch stieg der Umsatz wertmäßig um 135 % auf 3,37 Milliarden Rubel, nach 1,42 Milliarden Rubel zuvor.\n\nBesonders gefragt waren Tirzetta, Semavik, Sergaro, Forsiga, Velgia, Kvinsenta, Glucophage, Galvus, Jardins und Semuglin.\n\nDer Absatz wächst, obwohl weniger Menschen neu erkranken. Der amtierende Gesundheitsminister der Region, Alexander Sereda, nannte für die ersten zehn Monate 2026 353 neu registrierte Fälle je 100.000 Einwohner, 33,1 % weniger als 2025. Am 1. Oktober 2026 lag die Verbreitung von Diabetes bei 4.295 Menschen je 100.000 Einwohner; die Zählung umfasst auch Patienten mit bereits früher gestellter Diagnose.\n\nEinschränkungen: Die Verkaufszahlen stammen von einer privaten Analysefirma und nicht aus amtlicher Statistik. Der Artikel erklärt nicht, warum der Preis je Packung stieg. Weitere Schritte werden nicht beschrieben.",
-    "es": "Las farmacias de la región de Rostov vendieron bastantes más medicamentos para la diabetes en los primeros nueve meses de 2026. Según analistas de DSM Group, cuyas cifras difundió el medio local Bloknot Rostov, el aumento fue del 35,5 % frente al mismo periodo de 2025.\n\nEntre enero y septiembre se despacharon unos 1,5 millones de envases, frente a casi 1,2 millones un año antes. El precio de cada envase, en cambio, subió un 73,3 %, de 1282 a 2222 rublos. Así, el valor de las ventas creció un 135 %, hasta 3370 millones de rublos desde 1420 millones.\n\nLos productos más demandados por los residentes fueron Tirzetta, Semavik, Sergaro, Forsiga, Velgia, Kvinsenta, Glucofage, Galvus, Jardins y Semuglin.\n\nLas ventas crecen aunque se detectan menos casos nuevos. El ministro regional de Sanidad en funciones, Alexander Sereda, indicó que en los diez primeros meses de 2026 se registraron 353 casos nuevos por cada 100 000 habitantes, un 33,1 % menos que en 2025. A 1 de octubre de 2026, la prevalencia de la diabetes era de 4295 personas por cada 100 000 habitantes, recuento que incluye también a pacientes con un diagnóstico previo.\n\nLimitaciones: las cifras de ventas proceden de una consultora privada, no de estadísticas oficiales. El artículo no explica por qué subió el precio por envase ni describe próximos pasos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Рост продаж препаратов от диабета в Ростовской области, январь–сентябрь 2026 к 2025",
-      "en": "Growth in diabetes medicine sales in the Rostov region, Jan–Sep 2026 vs 2025",
-      "kk": "Ростов облысында қант диабеті дәрілерін сатудың өсуі, 2026 жылғы қаңтар–қыркүйек, 2025 жылмен салыстырғанда",
-      "de": "Umsatzwachstum bei Diabetesmedikamenten in der Region Rostow, Jan.–Sep. 2026 gegenüber 2025",
-      "es": "Crecimiento de las ventas de medicamentos para la diabetes en la región de Rostov, enero–septiembre 2026 frente a 2025"
-     },
-     "v": {
-      "ru": "+35,5%",
-      "en": "+35.5%",
-      "kk": "+35,5%",
-      "de": "+35,5 %",
-      "es": "+35,5 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Рост средней цены упаковки препаратов от диабета, январь–сентябрь 2026 к 2025",
-      "en": "Increase in average pack price of diabetes medicines, Jan–Sep 2026 vs 2025",
-      "kk": "Қант диабеті дәрілерінің бір орамының орташа бағасының өсуі, 2026 жылғы қаңтар–қыркүйек, 2025 жылмен салыстырғанда",
-      "de": "Anstieg des durchschnittlichen Packungspreises von Diabetesmedikamenten, Jan.–Sep. 2026 gegenüber 2025",
-      "es": "Aumento del precio medio por envase de medicamentos para la diabetes, enero–septiembre 2026 frente a 2025"
-     },
-     "v": {
-      "ru": "+73,3%",
-      "en": "+73.3%",
-      "kk": "+73,3%",
-      "de": "+73,3 %",
-      "es": "+73,3 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nQxYz9vYz01",
-   "cat": "events",
-   "stage": "conference",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "Круглый стол в Петербурге: как остановить рост заболеваемости диабетом",
-    "en": "St Petersburg roundtable: how to halt rising diabetes incidence",
-    "kk": "Санкт-Петербургтегі дөңгелек үстел: қант диабетімен ауырудың өсуін қалай тоқтатуға болады",
-    "de": "Runder Tisch in St. Petersburg: wie der Anstieg der Diabetes-Erkrankungen gestoppt werden kann",
-    "es": "Mesa redonda en San Petersburgo: cómo frenar el aumento de la diabetes"
-   },
-   "text": {
-    "ru": "На круглом столе в Петербурге обсудили, как остановить рост заболеваемости диабетом.",
-    "en": "A roundtable in St Petersburg discussed how to stop the rise in diabetes cases.",
-    "kk": "Санкт-Петербургте өткен дөңгелек үстелде қант диабетімен ауырудың өсуін қалай тоқтатуға болатыны талқыланды.",
-    "de": "Bei einem Runden Tisch in St. Petersburg wurde diskutiert, wie der Anstieg der Diabetesfälle gestoppt werden kann.",
-    "es": "En una mesa redonda en San Petersburgo se debatió cómo frenar el aumento de casos de diabetes."
-   },
-   "url": "https://spbvedomosti.ru/news/health/kruglyy-stol-v-peterburge-kak-ostanovit-rost-zabolevaemosti-diabetom/",
-   "src": "Санкт-Петербургские ведомости",
-   "photoQuery": "round table conference room",
-   "local": true,
-   "photo": {
-    "id": "u_rEu0jqvPXE0",
-    "url": "https://images.unsplash.com/photo-1789654499247-67ddedd251cc?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8cm91bmQlMjB0YWJsZSUyMGNvbmZlcmVuY2UlMjByb29tfGVufDF8MHx8fDE3OTQ4ODQ1Nzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Barney Goodman",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/round-tables-and-chairs-in-university-rEu0jqvPXE0?utm_source=dia_news&utm_medium=referral",
-    "alt": "Rows of round white tables and swivel chairs in a bright university common room"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nVGbj9vYz01",
-   "cat": "events",
-   "stage": "conference",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "В Барнауле прошла научно-практическая конференция «Жить, побеждая диабет»",
-    "en": "Scientific-practical conference 'Living, Overcoming Diabetes' held in Barnaul",
-    "kk": "Барнаулда «Диабетті жеңіп өмір сүру» ғылыми-практикалық конференциясы өтті",
-    "de": "Wissenschaftlich-praktische Konferenz „Leben und Diabetes besiegen“ in Barnaul",
-    "es": "En Barnaul se celebró la conferencia científico-práctica «Vivir venciendo la diabetes»"
-   },
-   "text": {
-    "ru": "В Барнауле прошла научно-практическая конференция «Жить, побеждая диабет».",
-    "en": "A scientific-practical conference, 'Living, Overcoming Diabetes', took place in Barnaul.",
-    "kk": "Барнаулда «Диабетті жеңіп өмір сүру» ғылыми-практикалық конференциясы өтті.",
-    "de": "In Barnaul fand die wissenschaftlich-praktische Konferenz „Leben und Diabetes besiegen“ statt.",
-    "es": "En Barnaul tuvo lugar la conferencia científico-práctica «Vivir venciendo la diabetes»."
-   },
-   "url": "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-barnaule-proshla-nauchno-prakticheskaya-konferentsiya-zhit-pobezhdaya-diabet/",
-   "src": "Национальные проекты России",
-   "photoQuery": "conference hall podium",
-   "local": true,
-   "photo": {
-    "id": "u_6rLqAxjR_Ew",
-    "url": "https://images.unsplash.com/photo-1543959106-6a907a6b50cf?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y29uZmVyZW5jZSUyMGhhbGwlMjBwb2RpdW18ZW58MXwwfHx8MTc5NDg4NDU3OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Jan Antonin Kolar",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/empty-seats-6rLqAxjR_Ew?utm_source=dia_news&utm_medium=referral",
-    "alt": "empty seats"
-   },
-   "body": {
-    "ru": "13–14 ноября в Барнауле прошла научно-практическая конференция «Жить, побеждая диабет». Её приурочили ко Всемирному дню борьбы с диабетом, а организатором выступило министерство здравоохранения Алтайского края в рамках нацпроекта «Продолжительная и активная жизнь». Мероприятие проходило в смешанном формате: участники собрались очно и подключались онлайн.\n\nНа площадке встретились специалисты из Барнаула, Новосибирска, Томска и Москвы. Они представили доклады о диагностике, терапии и организации помощи пациентам с сахарным диабетом.\n\nДетский эндокринолог Евгения Тайлакова, главный внештатный специалист краевого Минздрава, рассказала, что у детей диабет первого типа нередко выявляют только на третьей стадии. Перспективным шагом названо внедрение методик ранней диагностики, которые планируют запустить на базе Консультативно-диагностического центра Алтайского края.\n\nИрина Ковалева, начальник отдела организации помощи взрослому населению, отметила рост числа выявленных случаев. По численности больных диабет в ближайшее время может приблизиться к сердечно-сосудистым заболеваниям. В крае зарегистрировано свыше 110 тысяч случаев диабета второго типа, и более 88 тысяч из них выявлены у людей с избыточной массой тела.\n\nГлавная цель нацпроекта — рост продолжительности жизни: к 2030 году её планируют довести до 78 лет, а к 2036 году — до 81 года. Обновлённые нацпроекты реализуются с 2025 года по решению Президента. В материале не говорится о выводах конференции и сроках запуска новых методик диагностики.",
-    "en": "From 13 to 14 November, the scientific and practical conference \"Living by Defeating Diabetes\" was held in Barnaul. It was timed to World Diabetes Day and organized by the Altai Krai Ministry of Health within the national project \"Long and Active Life.\" The event took place in a mixed format, with participants attending in person and joining online.\n\nSpecialists from Barnaul, Novosibirsk, Tomsk and Moscow took part. They presented reports on diagnosis, treatment and how care is organized for patients with diabetes mellitus.\n\nEvgenia Taylakova, a pediatric endocrinologist and the region's chief external specialist, said that type 1 diabetes in children is often detected only at the third stage. A promising step is introducing early-diagnosis methods, which are planned to be launched at the Altai Krai Consultative and Diagnostic Center.\n\nIrina Kovaleva, head of the department that organizes medical care for adults, noted that the number of detected cases is rising. In terms of patient numbers, diabetes may soon approach cardiovascular disease. More than 110 thousand cases of type 2 diabetes are registered in the region, and over 88 thousand of them were found in people with excess body weight.\n\nThe main goal of the national project is longer lives: life expectancy is to reach 78 years by 2030 and 81 years by 2036. The updated national projects have been implemented since 2025 on the decision of the President. The article does not report the conference's conclusions or a timeline for launching the new diagnostic methods.",
-    "kk": "2026 жылдың 13–14 қарашасында Барнаулда «Жить, побеждая диабет» («Диабетті жеңе отырып өмір сүру») ғылыми-практикалық конференциясы өтті. Ол Дүниежүзілік диабет күніне орай ұйымдастырылды, ал оны Алтай өлкесінің денсаулық сақтау министрлігі «Ұзақ әрі белсенді өмір» ұлттық жобасы аясында өткізді. Іс-шара аралас форматта өтті: қатысушылар бетпе-бет жиналып, онлайн да қосылды.\n\nКонференцияда Барнаул, Новосибирск, Томск және Мәскеу мамандары қатысты. Олар диагностика, емдеу және сахарлы диабеті бар науқастарға көмек ұйымдастыру мәселелері бойынша баяндамалар жасады.\n\nБалалар эндокринологы, өлкенің бас сырттай маманы Евгения Тайлакова балалардағы 1-типті диабетті көбіне тек үшінші сатысында анықтайтынын атап өтті. Перспективалы қадам ретінде Алтай өлкесінің Консультациялық-диагностикалық орталығы негізінде іске қосуды жоспарлап отырған ерте диагностика әдістерін енгізу аталды.\n\nЕресектерге медициналық көмекті ұйымдастыру бөлімінің бастығы Ирина Ковалева анықталған жағдайлар саны өсіп келе жатқанын айтты. Науқас саны бойынша диабет жақын арада жүрек-қан тамырлары ауруларына жақындауы мүмкін. Өлкеде 2-типті диабеттің 110 мыңнан astam жағдайы тіркелген, оның 88 мыңнан астамы артық салмағы бар адамдардан табылған.\n\nҰлттық жобаның басты мақсаты — азаматтардың өмір сүру ұзақтығын арттыру: 2030 жылға қарай күтілетін өмір сүру ұзақтығын 78 жасқа, 2036 жылға қарай 81 жасқа жеткізу жоспарланған. Жаңартылған ұлттық жобалар 2025 жылдан бастап Президенттің шешімімен жүзеге асырылуда. Мақалада конференцияның қорытындылары мен жаңа диагностика әдістерін іске қосу мерзімдері туралы айтылмайды.",
-    "de": "Vom 13. bis 14. November fand in Barnaul die wissenschaftlich-praktische Konferenz „Жить, побеждая диабет“ („Leben, indem man Diabetes besiegt“) statt. Sie war dem Weltdiabetestag gewidmet und wurde vom Gesundheitsministerium der Region Altai im Rahmen des Nationalprojekts „Langes und aktives Leben“ organisiert. Die Veranstaltung fand gemischt statt, also vor Ort und online.\n\nFachleute aus Barnaul, Nowosibirsk, Tomsk und Moskau waren dabei. Sie stellten Vorträge zu Diagnostik, Therapie und der Organisation der Versorgung von Menschen mit Diabetes mellitus vor.\n\nDie Kinderendokrinologin Jewgenija Tailakowa, die regionale Hauptfachärztin, berichtete, dass Typ-1-Diabetes bei Kindern oft erst im dritten Stadium erkannt wird. Als vielversprechender Schritt gilt die Einführung spezieller Methoden zur frühen Diagnose, die am Beratungs- und Diagnosezentrum der Region Altai starten sollen.\n\nIrina Kowaljowa, Leiterin der Abteilung für die medizinische Versorgung Erwachsener, wies darauf hin, dass die Zahl der erkannten Fälle steigt. Bei den Patientenzahlen könnte Diabetes bald an Herz-Kreislauf-Erkrankungen heranreichen. In der Region sind über 110.000 Fälle von Typ-2-Diabetes registriert, mehr als 88.000 davon bei Menschen mit Übergewicht.\n\nZiel des Nationalprojekts ist ein längeres Leben: Die Lebenserwartung soll bis 2030 auf 78 Jahre und bis 2036 auf 81 Jahre steigen. Die aktualisierten Nationalprojekte werden seit 2025 auf Beschluss des Präsidenten umgesetzt. Der Artikel nennt weder Ergebnisse der Konferenz noch einen Zeitplan für die neuen Diagnosemethoden.",
-    "es": "Los días 13 y 14 de noviembre se celebró en Barnaúl la conferencia científico-práctica «Vivir venciendo la diabetes». Coincidió con el Día Mundial de la Diabetes y la organizó el Ministerio de Salud de la región de Altái, en el marco del proyecto nacional «Vida larga y activa». El evento fue de formato mixto, con asistentes presenciales y conexiones en línea.\n\nParticiparon especialistas de Barnaúl, Novosibirsk, Tomsk y Moscú. Presentaron ponencias sobre diagnóstico, tratamiento y organización de la atención a pacientes con diabetes mellitus.\n\nLa endocrinóloga pediátrica Evgenia Taylakova, principal especialista externa del Ministerio regional, explicó que la diabetes tipo 1 en niños suele detectarse solo en la tercera etapa. Un paso prometedor es introducir métodos especializados de diagnóstico temprano, que se planea poner en marcha en el Centro Consultivo y de Diagnóstico de la región de Altái.\n\nIrina Kovaleva, jefa del departamento de organización de la atención médica a adultos, señaló que aumenta el número de casos detectados. Por número de pacientes, la diabetes podría acercarse pronto a las enfermedades cardiovasculares. En la región hay registrados más de 110 000 casos de diabetes tipo 2, y más de 88 000 se identificaron en personas con exceso de peso.\n\nEl objetivo principal del proyecto nacional es vivir más y mejor: la esperanza de vida debe llegar a 78 años en 2030 y a 81 años en 2036. Los proyectos nacionales actualizados se aplican desde 2025 por decisión del presidente. El artículo no informa sobre las conclusiones de la conferencia ni sobre el calendario para poner en marcha los nuevos métodos de diagnóstico."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Случаи диабета второго типа в Алтайском крае",
-      "en": "Type 2 diabetes cases in Altai Krai",
-      "kk": "Алтай өлкесіндегі 2-типті диабет жағдайлары",
-      "de": "Typ-2-Diabetes-Fälle in der Region Altai",
-      "es": "Casos de diabetes tipo 2 en la región de Altái"
-     },
-     "v": {
-      "ru": "свыше 110 тысяч",
-      "en": "over 110 thousand",
-      "kk": "110 мыңнан астам",
-      "de": "über 110.000",
-      "es": "más de 110 000"
-     }
-    },
-    {
-     "k": {
-      "ru": "Цель по ожидаемой продолжительности жизни к 2030 году",
-      "en": "Life expectancy target for 2030",
-      "kk": "2030 жылға күтілетін өмір сүру ұзақтығының мақсаты",
-      "de": "Ziel der Lebenserwartung bis 2030",
-      "es": "Meta de esperanza de vida para 2030"
-     },
-     "v": {
-      "ru": "78 лет",
-      "en": "78 years",
-      "kk": "78 жас",
-      "de": "78 Jahre",
-      "es": "78 años"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nT1E_b2M9NQ",
-   "cat": "access",
-   "stage": "report",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "Лекарства от диабета в Ростовской области подорожали на 73%",
-    "en": "Diabetes medicines in Rostov region up 73% in price",
-    "kk": "Ростов облысында қант диабетіне арналған дәрілердің бағасы 73%-ға қымбаттады",
-    "de": "Diabetesmedikamente in der Region Rostow um 73 % teurer",
-    "es": "Los medicamentos para la diabetes en la región de Rostov subieron un 73 %"
-   },
-   "text": {
-    "ru": "По сообщению СМИ, цены на лекарства от диабета в Ростовской области выросли на 73%.",
-    "en": "Media reports say diabetes medicine prices in the Rostov region rose by 73%.",
-    "kk": "БАҚ хабарлауынша, Ростов облысында қант диабетіне арналған дәрілердің бағасы 73%-ға өсті.",
-    "de": "Medienberichten zufolge stiegen die Preise für Diabetesmedikamente in der Region Rostow um 73 %.",
-    "es": "Según los medios, los precios de los medicamentos para la diabetes en la región de Rostov subieron un 73 %."
-   },
-   "url": "https://privet-rostov.ru/gorod/135692-lekarstva-ot-diabeta-v-rostovskoj-oblasti-podorozhali-na-73.html",
-   "src": "Privet-Rostov.ru",
-   "photoQuery": "insulin pen close-up",
-   "local": true,
-   "photo": {
-    "id": "u_S5y5jdRCCsk",
-    "url": "https://images.unsplash.com/photo-1745939931505-da371555a603?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTQ4ODQ1Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Haberdoedas",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/insulin-pen-and-its-packaging-are-shown-S5y5jdRCCsk?utm_source=dia_news&utm_medium=referral",
-    "alt": "Insulin pen and its packaging are shown"
-   },
-   "body": {
-    "ru": "В Ростовской области заметно подорожали препараты для людей с диабетом. По данным компании DSM-Group, которые передал портал donnews, средняя цена одной упаковки таких лекарств в регионе выросла с 1282 до 2222 рублей, то есть на 73,3%. Региональное издание Privet-Rostov.ru опубликовало эту историю 16 ноября 2026 года.\n\nПри этом жители региона покупали такие средства чаще. За девять месяцев 2026 года аптеки продали 1,5 млн упаковок, что на 35,5% больше, чем за тот же период прошлого года. Выручка аптек тоже выросла: с 1,42 млрд до 3,37 млрд рублей, то есть на 135%.\n\nВ материале названы популярные препараты: «Тирзетта», «Семавик», «Форсига», «Глюкофаж», «Галвус» и «Джардинс».\n\nОграничения данных: в публикации не указано, за какой период сравнивались цены, и не объяснены причины роста. Цифры опираются на данные DSM-Group, а не на официальную статистику. Дальнейших мер или прогнозов в тексте нет.",
-    "en": "Medicines for diabetes have become noticeably more expensive in the Rostov region of Russia. According to DSM-Group, as relayed by the donnews portal, the average price of one pack of these drugs in the region rose from 1,282 to 2,222 rubles, an increase of 73.3%. The regional outlet Privet-Rostov.ru published the story on 16 November 2026.\n\nResidents also bought these products more often. In the first nine months of 2026, pharmacies sold 1.5 million packs, 35.5% more than in the same period a year earlier. Pharmacy revenue grew as well, from 1.42 billion to 3.37 billion rubles, a rise of 135%.\n\nThe article names several popular products: Tirzeta, Semavik, Forsiga, Glucophage, Galvus and Jardiance (spelled as in the Russian original: Тирзетта, Семавик, Форсига, Глюкофаж, Галвус, Джардинс).\n\nLimitations: the report does not say which period the price comparison covers, and it does not explain the causes of the increase. The figures rest on DSM-Group data rather than official statistics. The text describes no further measures or forecasts.",
-    "kk": "Ростов облысында диабетке арналған дәрілердің бағасы едәуір қымбаттаған. Donnews порталы хабарлаған DSM-Group компаниясының деректеріне сүйенсек, аймақта осы дәрілердің бір қаптамасының орташа бағасы 1282-ден 2222 рубльге дейін өскен, яғни 73,3%. Privet-Rostov.ru жергілікті басылымы бұл хабарды 2026 жылдың 16 қарашасында жариялады.\n\nАймақ тұрғындары бұл препараттарды жиі сатып алған. 2026 жылдың алғашқы тоғыз айында дәріханалар 1,5 млн қаптама сатты, бұл өткен жылдың осы кезеңіне қарағанда 35,5%-ға көп. Дәріханалардың табысы да өсіп, 1,42 млрд рубльден 3,37 млрд рубльге жетіп, 135%-ға артқан.\n\nМатериалда танымал препараттар аталған: Тирзетта, Семавик, Форсига, Глюкофаж, Галвус және Джардинс.\n\nДеректердің шектеулері: мақалада бағалар қай кезеңмен салыстырылғаны көрсетілмеген, өсудің себептері де түсіндірілмеген. Сандар DSM-Group деректеріне сүйенеді, ресми статистикаға емес. Мәтінде одан әрі шаралар немесе болжамдар жоқ.",
-    "de": "Diabetesmedikamente sind in der russischen Region Rostow deutlich teurer geworden. Laut der Firma DSM-Group, über die das Portal donnews berichtete, stieg der durchschnittliche Preis einer Packung dieser Präparate in der Region von 1.282 auf 2.222 Rubel, also um 73,3 Prozent. Das Regionalmedium Privet-Rostov.ru veröffentlichte die Meldung am 16. November 2026.\n\nDie Einwohner kauften die Mittel außerdem häufiger. In den ersten neun Monaten des Jahres 2026 verkauften Apotheken 1,5 Millionen Packungen, 35,5 Prozent mehr als im gleichen Zeitraum des Vorjahres. Auch die Einnahmen der Apotheken wuchsen, von 1,42 Milliarden auf 3,37 Milliarden Rubel, ein Plus von 135 Prozent.\n\nDer Bericht nennt beliebte Präparate: Tirzetta, Semavik, Forsiga, Glucophage, Galvus und Jardiance.\n\nEinschränkungen: Der Artikel nennt weder den Zeitraum, auf den sich der Preisvergleich bezieht, noch erklärt er die Ursachen des Anstiegs. Die Zahlen stützen sich auf Daten der DSM-Group und nicht auf amtliche Statistiken. Weitere Maßnahmen oder Prognosen enthält der Text nicht.",
-    "es": "Los medicamentos para la diabetes se han encarecido de forma notable en la región rusa de Rostov. Según la empresa DSM-Group, citada por el portal donnews, el precio medio de un envase de estos fármacos en la región subió de 1.282 a 2.222 rublos, es decir, un 73,3 %. El medio regional Privet-Rostov.ru publicó la noticia el 16 de noviembre de 2026.\n\nLos residentes también compraron estos productos con más frecuencia. En los primeros nueve meses de 2026, las farmacias vendieron 1,5 millones de envases, un 35,5 % más que en el mismo periodo del año anterior. Los ingresos de las farmacias también crecieron, de 1.420 millones a 3.370 millones de rublos, un aumento del 135 %.\n\nEl texto menciona como productos populares Tirzeta, Semavik, Forsiga, Glucofage, Galvus y Jardiance.\n\nLimitaciones: el artículo no indica el periodo en que se comparan los precios ni explica las causas del aumento. Las cifras se basan en datos de DSM-Group y no en estadísticas oficiales. Tampoco describe medidas posteriores ni previsiones."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Средняя цена одной упаковки препаратов от диабета",
-      "en": "Average price of one pack of diabetes drugs",
-      "kk": "Диабетке арналған дәрілердің бір қаптамасының орташа бағасы",
-      "de": "Durchschnittspreis einer Packung diabetesmedikamente",
-      "es": "Precio medio de un envase de medicamentos para la diabetes"
-     },
-     "v": {
-      "ru": "с 1282 до 2222 рублей (+73,3%)",
-      "en": "from 1,282 to 2,222 rubles (+73.3%)",
-      "kk": "1282-ден 2222 рубльге дейін (+73,3%)",
-      "de": "von 1.282 auf 2.222 Rubel (+73,3 %)",
-      "es": "de 1.282 a 2.222 rublos (+73,3 %)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Продано упаковок за девять месяцев 2026 года",
-      "en": "Packs sold in the first nine months of 2026",
-      "kk": "2026 жылдың алғашқы тоғыз айында сатылған қаптамалар",
-      "de": "Verkaufte Packungen in den ersten neun Monaten 2026",
-      "es": "Envases vendidos en los primeros nueve meses de 2026"
-     },
-     "v": {
-      "ru": "1,5 млн упаковок (+35,5%)",
-      "en": "1.5 million packs (+35.5%)",
-      "kk": "1,5 млн қаптама (+35,5%)",
-      "de": "1,5 Millionen Packungen (+35,5 %)",
-      "es": "1,5 millones de envases (+35,5 %)"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nQTU_b2M9NQ",
-   "cat": "community",
-   "stage": "campaign",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "В Серпухове прошла профилактическая акция «Стоп, диабет!»",
-    "en": "Preventive campaign 'Stop, Diabetes!' held in Serpukhov",
-    "kk": "Серпуховта «Стоп, диабет!» профилактикалық акциясы өтті",
-    "de": "Präventionsaktion „Stopp, Diabetes!“ in Serpuchow",
-    "es": "En Serpujov se celebró la campaña preventiva «¡Alto, diabetes!»"
-   },
-   "text": {
-    "ru": "В Серпухове состоялась профилактическая акция «Стоп, диабет!».",
-    "en": "A preventive campaign, 'Stop, Diabetes!', took place in Serpukhov.",
-    "kk": "Серпуховта «Стоп, диабет!» профилактикалық акциясы өтті.",
-    "de": "In Serpuchow fand die Präventionsaktion „Stopp, Diabetes!“ statt.",
-    "es": "En Serpujov tuvo lugar la campaña preventiva «¡Alto, diabetes!»."
-   },
-   "url": "http://otv-media.ru/news/meditsina/v-serpukhove-sostoyalas-profilakticheskaya-aktsiya-stop-diabet-/",
-   "src": "ОТВ-Серпухов",
-   "photoQuery": "blood glucose meter",
-   "local": true,
-   "photo": {
-    "id": "u_KUZnfk-2DSQ",
-    "url": "https://images.unsplash.com/photo-1518843875459-f738682238a6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8aGVhbHRoeSUyMGJyZWFrZmFzdCUyMHZlZ2V0YWJsZXN8ZW58MXwwfHx8MTc5NDg4NDU4MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sharon Pittaway",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/assorted-vegetables-KUZnfk-2DSQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "assorted vegetables"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nUkI_b2M9NQ",
-   "cat": "research",
-   "stage": "report",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "Диабет 2-го типа все чаще выявляют у казахстанских детей",
-    "en": "Type 2 diabetes increasingly detected in Kazakhstani children",
-    "kk": "2-типті қант диабеті қазақстандық балаларда жиірек анықталуда",
-    "de": "Typ-2-Diabetes wird bei kasachischen Kindern immer häufiger festgestellt",
-    "es": "La diabetes tipo 2 se detecta cada vez más en niños kazajos"
-   },
-   "text": {
-    "ru": "В Казахстане диабет 2-го типа все чаще выявляют у детей.",
-    "en": "Type 2 diabetes is being diagnosed more often in children in Kazakhstan.",
-    "kk": "Қазақстанда балаларда 2-типті қант диабеті жиірек анықталып жатыр.",
-    "de": "In Kasachstan wird Typ-2-Diabetes bei Kindern zunehmend diagnostiziert.",
-    "es": "En Kazajistán se diagnostica cada vez con más frecuencia la diabetes tipo 2 en niños."
-   },
-   "url": "https://www.inform.kz/amp/diabet-vtorogo-tipa-vse-chashe-viyavlyayut-ukazahstanskih-detey-c5c5a38b",
-   "src": "Казинформ",
-   "photoQuery": "healthy vegetables on table",
-   "local": true,
-   "photo": {
-    "id": "u_ewXGkFeh2FI",
-    "url": "https://images.unsplash.com/photo-1760445530338-d5cb6c5b2e74?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8aGVhbHRoeSUyMHZlZ2V0YWJsZXMlMjBvbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQ4ODQ1ODF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Ahmet Koç",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/fresh-fruits-and-vegetables-arranged-on-a-table-ewXGkFeh2FI?utm_source=dia_news&utm_medium=referral",
-    "alt": "Fresh fruits and vegetables arranged on a table"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "npSbj9vYz01",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-16",
-   "added": "2026-11-17T03:02:56.187Z",
-   "title": {
-    "ru": "В Петербурге в День борьбы с сахарным диабетом устроили праздник для детей",
-    "en": "Children's celebration held at St Petersburg Pediatric University on Diabetes Day",
-    "kk": "Санкт-Петербургтегі Педиатриялық университетте қант диабетімен күрес күнінде балаларға мереке ұйымдастырылды",
-    "de": "Am Tag im Kampf gegen Diabetes gab es an der Pädiatrischen Universität St. Petersburg ein Fest für Kinder",
-    "es": "En el Día de la lucha contra la diabetes, la Universidad Pediátrica de San Petersburgo organizó una fiesta para niños"
-   },
-   "text": {
-    "ru": "В Педиатрическом университете Петербурга в День борьбы с сахарным диабетом устроили праздник для детей и рассказали, как улучшить качество их жизни.",
-    "en": "On Diabetes Day, the St Petersburg Pediatric University held a celebration for children and explained how to improve their quality of life.",
-    "kk": "Қант диабетімен күрес күні Санкт-Петербург педиатриялық университетінде балаларға мереке ұйымдастырып, олардың өмір сапасын қалай жақсартуға болатынын түсіндірді.",
-    "de": "Am Tag im Kampf gegen Diabetes veranstaltete die Pädiatrische Universität St. Petersburg ein Fest für Kinder und erklärte, wie sich ihre Lebensqualität verbessern lässt.",
-    "es": "Por el Día de la lucha contra la diabetes, la Universidad Pediátrica de San Petersburgo organizó una fiesta para niños y explicó cómo mejorar su calidad de vida."
-   },
-   "url": "https://www.1tvspb.ru/event/Zhizn_s_diabetom_ne_ostanavlivaetsya_kak_vovremya_diagnostirovat_i_nauchit_rebenka_rebenka_s_nim_zhit/",
-   "src": "Первый Канал - Санкт-Петербург",
-   "photoQuery": "birthday party balloons table",
-   "local": true,
-   "photo": {
-    "id": "u_WTzhzt-5SMw",
-    "url": "https://images.unsplash.com/photo-1770804351780-071225cd3889?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8YmlydGhkYXklMjBwYXJ0eSUyMGJhbGxvb25zJTIwdGFibGV8ZW58MXwwfHx8MTc5NDg4NDU4Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Tumble House",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/lion-themed-birthday-party-decorations-with-balloons-and-balloons-WTzhzt-5SMw?utm_source=dia_news&utm_medium=referral",
-    "alt": "Lion-themed birthday party decorations with balloons and balloons"
-   },
-   "body": {
-    "ru": "Первый канал — Санкт-Петербург сообщил, что в Педиатрическом университете в День борьбы с сахарным диабетом устроили праздник для детей. Материал опубликован 16 ноября 2026 года. Всемирный день борьбы с диабетом отмечается ежегодно 14 ноября, в день рождения одного из первооткрывателей инсулина.\n\nВо вступлении к сюжету говорится, что для лечения сегодня применяется тот же инсулин, но более современный. По своему действию он максимально приближен к работе поджелудочной железы. Сегодня врачи также ставят пациентам инсулиновые помпы, которые названы одним из самых современных методов терапии.\n\nТекст публикации ограничивается этим вступлением. В нём обещано рассказать, как распознать первые признаки заболевания и как проходит лечение, но подробностей самого праздника, количества участников и выступавших в тексте нет. Видеосюжет длится 300 секунд, то есть пять минут. Комментариев под материалом пока нет.\n\nАвторами материала указаны Анастасия Шахова, Олег Подъячев, Линда Черкасова и Алина Галанцева. Сведения о самом мероприятии и полном содержании разговора с детьми и родителями можно уточнить в видеоверсии на сайте телеканала. Описанные методы лечения приведены только как общая информация и не являются медицинскими рекомендациями.",
-    "en": "First Channel Saint Petersburg reported that a holiday for children was held at the Pediatric University on World Diabetes Day. The item was published on 16 November 2026. World Diabetes Day is marked every year on 14 November, the birthday of one of the scientists who discovered insulin.\n\nThe introduction to the segment says that the same insulin is still used today, but a more modern version. In its action it comes as close as possible to the work of the natural pancreas. Doctors also now fit patients with insulin pumps, which are described as one of the most modern treatment methods.\n\nThe published text stops at this introduction. It promises to explain how to recognise the first signs of the condition and how treatment proceeds, but it gives no details about the event itself, the number of children taking part, or who spoke. The video segment runs 300 seconds, or five minutes. No comments had been posted under the item yet.\n\nThe piece is credited to Anastasia Shakhova, Oleg Podyachev, Linda Cherkasova and Alina Galantseva. Details of the event and the full content of the talks with children and parents can be checked in the video version on the broadcaster's website. The treatment methods mentioned are presented only as general information and are not medical recommendations.",
-    "kk": "Первый канал — Санкт-Петербург Педиатриялық университетте Қант диабетімен күресу күніне балаларға арналған мереке өткізілгенін хабарлады. Материал 2026 жылғы 16 қарашада жарияланды. Дүниежүзілік диабетпен күресу күні жыл сайын 14 қарашада атап өтіледі — бұл инсулиннің ашушыларының бірінің туған күні.\n\nСюжеттің кіріспесінде бүгінде емдеу үшін сол инсулин қолданылатыны, бірақ ол заманауи нұсқа екендігі айтылады. Әрекеті бойынша ол ішкі без ұйқы безінің табиғи жұмысына мүмкіндігінше жақын. Бүгінде дәрігерлер пациенттерге инсулин помпаларын орнатады, ол емдеудің ең заманауи әдістерінің бірі ретінде сипатталады.\n\nЖарияланған мәтін осы кіріспемен шектеледі. Онда аурудың алғашқы белгілерін қалай тануға болатыны және емдеудің қалай жүретіні туралы айтылуы уәде етілген, бірақ мереке туралы, қатысқан балалар саны немесе сөйлеген адамдар туралы мәлімет жоқ. Бейнесюжеттің ұзақтығы 300 секунд, яғни бес минут. Материал астында пікірлер әзірге жоқ.\n\nМатериалдың авторлары ретінде Анастасия Шахова, Олег Подъячев, Линда Черкасова және Алина Галанцева көрсетілген. Мереке туралы мәліметтер мен балалар мен ата-аналармен әңгіменің толық мазмұнын телеарнаның сайтындағы бейненұсқасынан тексеруге болады. Аталған емдеу әдістері тек жалпы ақпарат ретінде берілген және медициналық ұсыныстар емес.",
-    "de": "Der Sender Erster Kanal – Sankt Petersburg berichtete, dass am Pädiatrischen Universitätsklinikum anlässlich des Weltdiabetestags ein Fest für Kinder veranstaltet wurde. Der Beitrag wurde am 16. November 2026 veröffentlicht. Der Weltdiabetestag wird jährlich am 14. November begangen, dem Geburtstag eines der Entdecker des Insulins.\n\nDie Einleitung des Beitrags besagt, dass heute dasselbe Insulin verwendet wird, allerdings in einer moderneren Form. Seine Wirkung kommt der natürlichen Arbeit der Bauchspeicheldrüse möglichst nahe. Außerdem setzen Ärztinnen und Ärzte heute bei Patienten Insulinpumpen ein, die als eine der modernsten Behandlungsmethoden gelten.\n\nDer veröffentlichte Text beschränkt sich auf diese Einleitung. Angekündigt wird, zu erklären, wie sich die ersten Anzeichen der Erkrankung erkennen lassen und wie die Behandlung verläuft. Details zur Veranstaltung selbst, zur Zahl der teilnehmenden Kinder oder zu den Rednerinnen und Rednern enthält der Text jedoch nicht. Der Videobeitrag dauert 300 Sekunden, also fünf Minuten. Unter dem Beitrag gab es zunächst noch keine Kommentare.\n\nAls Autorinnen und Autoren sind Anastasia Schachowa, Oleg Podjatschew, Linda Tscherkassowa und Alina Galanzewa angegeben. Angaben zur Veranstaltung und zum vollständigen Inhalt der Gespräche mit Kindern und Eltern lassen sich in der Videofassung auf der Website des Senders überprüfen. Die genannten Behandlungsmethoden werden nur als allgemeine Information dargestellt und sind keine medizinischen Empfehlungen.",
-    "es": "El canal Primer Canal – San Petersburgo informó de que en la Universidad Pediátrica se organizó una fiesta para niños con motivo del Día Mundial de la Diabetes. El material se publicó el 16 de noviembre de 2026. El Día Mundial de la Diabetes se celebra cada año el 14 de noviembre, el día del nacimiento de uno de los descubridores de la insulina.\n\nLa introducción del reportaje explica que hoy se sigue utilizando la misma insulina, pero en una versión más moderna. Por su acción, se aproxima al máximo al funcionamiento natural del páncreas. Además, los médicos colocan actualmente a los pacientes bombas de insulina, que se presentan como uno de los métodos de tratamiento más modernos.\n\nEl texto publicado se limita a esta introducción. Anuncia que se explicará cómo reconocer los primeros signos de la enfermedad y cómo transcurre el tratamiento, pero no ofrece detalles sobre el evento en sí, el número de niños participantes ni quiénes intervinieron. El segmento en vídeo dura 300 segundos, es decir, cinco minutos. Por el momento no había comentarios bajo la noticia.\n\nFiguran como autores Anastasia Shájova, Oleg Podiachev, Linda Cherkásova y Alina Galántseva. Los detalles del evento y el contenido completo de las conversaciones con niños y padres pueden consultarse en la versión en vídeo del sitio del canal. Los métodos de tratamiento mencionados se presentan solo como información general y no son recomendaciones médicas."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Всемирный день борьбы с диабетом отмечается",
-      "en": "World Diabetes Day is observed",
-      "kk": "Дүниежүзілік диабетпен күресу күні аталады",
-      "de": "Weltdiabetestag wird begangen",
-      "es": "El Día Mundial de la Diabetes se celebra"
-     },
-     "v": {
-      "ru": "ежегодно 14 ноября",
-      "en": "every year on 14 November",
-      "kk": "жыл сайын 14 қарашада",
-      "de": "jährlich am 14. November",
-      "es": "cada año el 14 de noviembre"
-     }
-    },
-    {
-     "k": {
-      "ru": "Длительность видеосюжета",
-      "en": "Length of the video segment",
-      "kk": "Бейнесюжеттің ұзақтығы",
-      "de": "Länge des Videobeitrags",
-      "es": "Duración del segmento en vídeo"
-     },
-     "v": {
-      "ru": "300 секунд (пять минут)",
-      "en": "300 seconds (five minutes)",
-      "kk": "300 секунд (бес минут)",
-      "de": "300 Sekunden (fünf Minuten)",
-      "es": "300 segundos (cinco minutos)"
-     }
-    }
-   ]
-  },
-  {
    "id": "cure-katie-beth-hand",
    "cat": "cure",
    "stage": "results",
@@ -2713,6 +2858,42 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://www.foreignpolicyjournal.com/2026/11/19/novo-nordisk-nyse-nvo-and-ai-firm-nference-launch-joint-venture-framework-to-tackle-obesity-diabetes-and-heart-disease/",
+  "novo nordisk и ai компания nference запускают рамки совместного предприятия против ожирения диабета и болезней сердца",
+  "novo nordisk and ai firm nference launch joint venture framework to tackle obesity diabetes and heart disease",
+  "https://bioengineer.org/omadacycline-matches-standard-care-for-diabetic-foot-infections/",
+  "омадациклин не уступает стандартной терапии при инфекциях диабетической стопы",
+  "omadacycline matches standard care for diabetic foot infections",
+  "https://www.uclahealth.org/news/release/stem-cell-derived-nanoparticles-modulate-immune-cells-and",
+  "стволовые везикулы успокаивающие иммунный ответ задержали диабет 1 типа у мышей",
+  "type 1 diabetes delayed in mice by stem cell derived vesicles that calm immune response",
+  "https://incrussia.ru/news/umnaya-zubnaya-nit-smozhet-vyyavlyat-diabet-i-zabolevaniya-desen/",
+  "умная зубная нить сможет выявлять диабет и заболевания десен",
+  "smart dental floss could detect diabetes and gum disease",
+  "https://healthpolicy-watch.news/first-type-1-diabetes-guidelines-as-burden-rises/",
+  "воз впервые опубликовала рекомендации по диабету 1 типа для взрослых в том числе в гуманитарных условиях",
+  "who issues first guidelines on type 1 diabetes for adults including in humanitarian settings",
+  "https://life.ru/p/fas-potrebovala-ot-solopharm-vyplatit-2-mlrd-rubley-iz-za-preparata-ot-diabeta",
+  "фас потребовала от solopharm выплатить 2 млрд рублей из за препарата от диабета",
+  "russia s antimonopoly service demands solopharm pay 2 billion rubles over diabetes drug",
+  "https://medicalxpress.com/news/2026-11-discovery-approach-diabetes-insulin-required.html",
+  "открытие указывает на новый подход к лечению диабета без инсулина",
+  "discovery points to new approach for treating diabetes without insulin",
+  "https://www.eurekalert.org/news-releases/1152699",
+  "исследование выявило молекулу которая может предотвратить потерю зрения при диабете",
+  "study identifies molecule with potential to prevent diabetes related vision loss",
+  "https://theconversation.com/type-1-and-type-2-diabetes-therapies-show-great-promise-but-treatment-is-only-effective-if-people-can-access-it-296795",
+  "терапии диабета 1 и 2 типа многообещающие но работают только при доступе к лечению",
+  "type 1 and type 2 diabetes therapies show great promise but treatment works only if people can access it",
+  "https://www.news-medical.net/news/20261119/FDA-adds-rare-eye-condition-warning-to-popular-GLP-1-medications.aspx",
+  "fda добавило предупреждение о редком заболевании глаз в популярные препараты glp 1",
+  "fda adds rare eye condition warning to popular glp 1 medications",
+  "https://medicalxpress.com/news/2026-11-common-diabetes-score-partial-remissions.html",
+  "распространённая оценка диабета 1 типа пропускает более половины частичных ремиссий у молодёжи с избыточным весом или ожирением",
+  "common type 1 diabetes score misses over half of partial remissions in youth with overweight or obesity",
+  "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/bolee-18-4-tys-zhiteley-volgogradskoy-oblasti-obuchilis-v-shkolakh-diabeta/",
+  "более 18 4 тыс жителей волгоградской области обучились в школах диабета",
+  "more than 18 400 residents of volgograd region have trained in diabetes schools",
   "https://abcnews.com/Health/clinical-trial-shows-glp-1s-effective-children-young/story?id=138245257",
   "клиническое исследование показало что препараты glp 1 могут быть эффективны у детей от 6 лет",
   "clinical trial shows glp 1 drugs could be effective in children as young as 6",
@@ -2779,6 +2960,24 @@ const DIA_NEWS={
   "https://bioengineer.org/diabetes-linked-to-chronic-kidney-disease-in-western-sri-lanka-study/",
   "исследование в западной шри ланке связало диабет с хронической болезнью почек",
   "western sri lanka study links diabetes to chronic kidney disease",
+  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
+  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
+  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
+  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
+  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
+  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
+  "https://investors.vrtx.com/node/35101/pdf",
+  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
+  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
+  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
+  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
+  "islet transplants with tegoprubart all 12 participants are living without insulin",
+  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
+  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
+  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
+  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
+  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
+  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://bioengineer.org/palestinian-study-identifies-knowledge-gaps-regarding-gestational-diabetes-screening-and-postpartum-risks/",
   "палестинское исследование выявило пробелы в знаниях о скрининге гестационного диабета",
   "palestinian study identifies knowledge gaps on gestational diabetes screening",
@@ -2815,24 +3014,6 @@ const DIA_NEWS={
   "https://www.1tvspb.ru/event/Zhizn_s_diabetom_ne_ostanavlivaetsya_kak_vovremya_diagnostirovat_i_nauchit_rebenka_rebenka_s_nim_zhit/",
   "в петербурге в день борьбы с сахарным диабетом устроили праздник для детей",
   "children s celebration held at st petersburg pediatric university on diabetes day",
-  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
-  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
-  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
-  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
-  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
-  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
-  "https://investors.vrtx.com/node/35101/pdf",
-  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
-  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
-  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
-  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
-  "islet transplants with tegoprubart all 12 participants are living without insulin",
-  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
-  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
-  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
-  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
-  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
-  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://www.tv21.ru/news/2026/11/16/bolee-6-mln-chelovek-v-rossii-rastet-chislo-pacientov-s-saharnym-diabetom",
   "в россии растет число пациентов с сахарным диабетом более 6 млн человек",
   "russia sees rising number of diabetes patients over 6 million people",
