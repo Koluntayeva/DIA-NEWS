@@ -7,8 +7,758 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-26T03:13:05.042Z",
+ "updated": "2026-11-27T03:16:48.563Z",
  "items": [
+  {
+   "id": "n1IZz9vYz01",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Центр исследований диабета 1 типа при Оксфордском университете отмечает первый год работы",
+    "en": "Oxford University's type 1 diabetes research centre marks its first year",
+    "kk": "Оксфорд университетіндегі 1-типті қант диабеті зерттеу орталығы жұмысының бірінші жылын атап өтеді",
+    "de": "Forschungszentrum für Typ-1-Diabetes der Universität Oxford feiert sein erstes Jahr",
+    "es": "El centro de investigación de diabetes tipo 1 de la Universidad de Oxford cumple su primer año"
+   },
+   "text": {
+    "ru": "Исследовательский центр по диабету 1 типа при Оксфордском университете подводит итоги своего первого года работы.",
+    "en": "The type 1 diabetes research centre at the University of Oxford is marking its first year of work.",
+    "kk": "Оксфорд университетіндегі 1-типті қант диабеті зерттеу орталығы жұмысының бірінші жылын қорытындылайды.",
+    "de": "Das Forschungszentrum für Typ-1-Diabetes an der Universität Oxford blickt auf sein erstes Arbeitsjahr zurück.",
+    "es": "El centro de investigación de diabetes tipo 1 de la Universidad de Oxford hace balance de su primer año de trabajo."
+   },
+   "url": "https://diabetestimes.co.uk/type-1-diabetes-research-centre-at-university-of-oxford-marks-its-first-year/",
+   "src": "The Diabetes Times",
+   "photoQuery": "university laboratory microscope",
+   "local": true,
+   "photo": {
+    "id": "u_YDLlT9DNOI4",
+    "url": "https://images.unsplash.com/photo-1738778228323-f93bba079c7e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTN8fGxhYm9yYXRvcnklMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTU3NDk0MDl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Dmytro Vynohradov",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-microscope-being-used-to-examine-a-substance-YDLlT9DNOI4?utm_source=dia_news&utm_medium=referral",
+    "alt": "A microscope being used to examine a substance"
+   },
+   "body": {
+    "ru": "Центр передовых исследований диабета 1 типа Бухмана при Оксфордском университете отметил первый год работы, сообщил The Diabetes Times 26 ноября 2026 года. Центр, созданный в 2025 году на средства пожертвования от Bukhman Foundation, занимается предотвращением, лечением и ведением диабета 1 типа и объединяет учёных, клинических исследователей и медицинских специалистов из Оксфорда.\n\nЗа первый год центр запустил несколько исследовательских программ, наладил новые научные партнёрства и подготовил почву для клинических испытаний. Один из проектов изучает, как воздействовать на иммунные клетки, разрушающие инсулинпродуцирующие клетки, не подавляя всю иммунную систему. Учёные создали пептиды на основе белков слюны клещей, способные блокировать сигналы, которые привлекают вредные иммунные клетки; сейчас команда проверяет способ доставки, направляющий их к воспалённым участкам поджелудочной железы. Работа находится на ранней стадии. Оксфорд также выбран площадкой для новых испытаний заместительной терапии островковыми клетками, полученными из стволовых клеток.\n\nЦентр впервые распределил финансирование между тремя ранними проектами: один направлен на предотвращение проникновения вредных иммунных клеток в поджелудочную железу, второй сравнивает клетки, полученные из стволовых, с клетками от доноров органов, третий разрабатывает крошечные частицы, которые временно защищали бы пересаженные клетки от иммунной атаки. Исследователи центра также участвовали в работах по непрерывному мониторингу глюкозы, инсулиновым помпам и снижению гипогликемии, а молодые люди участвовали через программу Diabetes UK Together Type 1 Youth Programme.\n\nДолгосрочная цель центра — обратить диабет 1 типа у детей вскоре после постановки диагноза, однако статья подчеркивает, что для превращения этих проектов в лечение нужны дополнительные исследования. Профессор Дэвид Ходсон, исполняющий обязанности директора центра, назвал год захватывающим и отметил, что перевод открытий в методы лечения требует времени.",
+    "en": "The Bukhman Centre for Research Excellence in Type 1 Diabetes at the University of Oxford has reached its first anniversary, The Diabetes Times reported on 26 November 2026. Set up in 2025 with a philanthropic donation from the Bukhman Foundation, the centre works on preventing, treating and managing type 1 diabetes, and brings together scientists, clinical researchers and healthcare professionals from across Oxford.\n\nDuring its first year, the centre launched several research programmes, formed new scientific partnerships and laid groundwork for clinical trials. One project is studying how to target the immune response that destroys insulin-producing cells without suppressing the whole immune system. Scientists have built peptides from tick-saliva proteins that can block signals drawing harmful immune cells in, and the team is now testing a delivery method to guide them to inflamed areas of the pancreas. This work is at an early stage. Oxford was also chosen as a site for new trials of stem-cell-derived islet replacement therapy.\n\nThe centre awarded its first funding round to three early-stage projects: one aims to keep harmful immune cells away from the pancreas, one compares stem-cell-derived cells with cells from organ donors, and one develops tiny particles to shield transplanted cells from immune attack. Its researchers have also contributed to studies on glucose monitoring, insulin pumps and reducing hypoglycaemia, and young people have taken part through Diabetes UK's Together Type 1 Youth Programme.\n\nThe centre's long-term goal is to reverse type 1 diabetes in children soon after diagnosis, but the article stresses that further research is needed before any of these projects could become treatments. Professor David Hodson, interim director of the centre, called the year exciting and said that turning discoveries into treatments takes time.",
+    "kk": "Оксфорд университетіндегі Бухман 1 типті қант диабеті бойынша ғылыми зерттеу орталығы бірінші жылдығын атап өтті, бұл туралы The Diabetes Times 2026 жылғы 26 қарашада хабарлады. 2025 жылы Bukhman Foundation қайырымдылық сыйлығының арқасында құрылған орталық 1 типті диабетті алдын алумен, емдеумен және бақылаумен айналысады, Оксфорд бойынша ғалымдарды, клиникалық зерттеушілерді және денсаулық сақтау мамандарын біріктіреді.\n\nБірінші жылы орталық бірнеше зерттеу бағдарламасын іске қосты, жаңа ғылыми серіктестіктер орнатты және клиникалық сынақтарға негіз қалады. Бір жоба инсулин өндіретін жасушаларды бұзатын иммундық жауапқа бүкіл иммундық жүйені басмай, қалай нысана бола алатынын зерттейді. Ғалымдар кене сілекейі ақуыздарына негізделген пептидтер жасап шығарды; олар зиянды иммундық жасушаларды тартатын сигналдарды бөгей алады. Қазір топ бұл жасушаларды ұйқы безінің қабынған аймақтарына бағыттайтын жеткізу тәсілін сынауда. Бұл жұмыс әлі ерте сатыда. Оксфорд діңгек жасушалардан алынған аралшық жасушаларымен алмастыру терапиясының жаңа сынақтары үшін алаң ретінде таңдалды.\n\nОрталық алғашқы қаржыландыру раундын үш ерте сатыдағы жобаға бөлді: біреуі зиянды иммундық жасушалардың ұйқы безіне жетуін болдырмауға, екіншісі діңгек жасушалардан алынған жасушаларды донор жасушаларымен салыстыруға, үшіншісі көшірілген жасушаларды иммундық шабуылдан уақытша қорғайтын ұсақ бөлшектер жасауға бағытталған. Орталықпен байланысты зерттеушілер үздіксіз глюкоза мониторингі, инсулин помпалары және гипогликемияны азайту бойынша зерттеулерге үлес қосты; жастар Diabetes UK Together Type 1 Youth Programme бағдарламасы арқылы қатысты.\n\nОрталықтың ұзақ мерзімді мақсаты — 1 типті диабетті диагноз қойылғаннан кейін көп ұзамай балаларда кері қайтару, бірақ мақалада бұл жобалардың емге айналуына дейін қосымша зерттеулер қажет екені атап өтілген. Орталықтың уақытша директоры, профессор Дэвид Ходсон жылды қызықты деп атап, ғылыми жаңалықтарды емге айналдыру уақыт алатынын айтты.",
+    "de": "Das Bukhman Centre for Research Excellence in Type 1 Diabetes an der Universität Oxford hat sein erstes Jahr gefeiert, berichtete The Diabetes Times am 26. November 2026. Das 2025 mit einer philanthropischen Spende der Bukhman Foundation gegründete Zentrum befasst sich mit Vorbeugung, Behandlung und Management von Typ-1-Diabetes und bringt Forschende, klinische Wissenschaftler und Fachkräfte aus ganz Oxford zusammen.\n\nIm ersten Jahr hat das Zentrum mehrere Forschungsprogramme gestartet, neue wissenschaftliche Partnerschaften aufgebaut und die Grundlagen für klinische Studien gelegt. Ein Projekt untersucht, wie sich die Immunantwort, die insulinproduzierende Zellen zerstört, gezielt beeinflussen lässt, ohne das gesamte Immunsystem zu unterdrücken. Forschende haben Peptide aus Proteinen des Zeckenspeichels entwickelt, die Signale blockieren können, welche schädliche Immunzellen anlocken. Das Team erprobt nun eine Methode, sie zu entzündeten Bereichen der Bauchspeicheldrüse zu lenken. Die Arbeit steht noch am Anfang. Oxford wurde außerdem als Standort für neue klinische Studien zur Ersatztherapie mit aus Stammzellen gewonnenen Inselzellen ausgewählt.\n\nDas Zentrum vergab seine erste Förderrunde an drei Frühphasenprojekte: eines soll verhindern, dass schädliche Immunzellen die Bauchspeicheldrüse erreichen, eines vergleicht aus Stammzellen gewonnene Zellen mit Zellen von Organspendern, und eines entwickelt winzige Partikel, die transplantierte Zellen vorübergehend vor Immunangriffen schützen sollen. Forschende des Zentrums haben außerdem zu Studien über kontinuierliche Glukosemessung, Insulinpumpen und die Verringerung von Hypoglykämien beigetragen; junge Menschen wurden über das Together Type 1 Youth Programme von Diabetes UK eingebunden.\n\nLangfristiges Ziel ist es, Typ-1-Diabetes bei Kindern kurz nach der Diagnose rückgängig zu machen. Der Artikel betont jedoch, dass vor einer Behandlung aus diesen Projekten weitere Forschung nötig ist. Professor David Hodson, Interimsdirektor des Zentrums, nannte das Jahr außergewöhnlich spannend und sagte, die Umsetzung wissenschaftlicher Entdeckungen in neue Therapien brauche Zeit.",
+    "es": "El Centro Bukhman de Excelencia en Investigación de la Diabetes Tipo 1, de la Universidad de Oxford, celebra su primer año, informó The Diabetes Times el 26 de noviembre de 2026. Creado en 2025 gracias a una donación filantrópica de la Bukhman Foundation, el centro se dedica a la prevención, el tratamiento y el manejo de la diabetes tipo 1 y reúne a científicos, investigadores clínicos y profesionales sanitarios de toda Oxford.\n\nDurante su primer año, el centro puso en marcha varios programas de investigación, estableció nuevas colaboraciones científicas y sentó las bases para ensayos clínicos. Un proyecto estudia cómo dirigir la respuesta inmune que destruye las células productoras de insulina sin suprimir todo el sistema inmunitario. Los científicos han desarrollado péptidos basados en proteínas de la saliva de garrapatas, capaces de bloquear las señales que atraen a células inmunes dañinas, y ahora prueban un método de administración que las dirija a zonas inflamadas del páncreas. El trabajo se encuentra en una fase temprana. Oxford también fue elegida como sede de nuevos ensayos clínicos de terapia de reemplazo de islotes derivados de células madre.\n\nEl centro concedió su primera ronda de financiación a tres proyectos en fase inicial: uno busca impedir que las células inmunes dañinas lleguen al páncreas, otro compara células derivadas de células madre con las de donantes de órganos, y un tercero desarrolla partículas diminutas que protegerían temporalmente las células trasplantadas del ataque inmunitario. Sus investigadores también han contribuido a estudios sobre monitorización continua de glucosa, bombas de insulina y la reducción de la hipoglucemia, y jóvenes han participado a través del Together Type 1 Youth Programme de Diabetes UK.\n\nLa meta a largo plazo del centro es revertir la diabetes tipo 1 en niños poco después del diagnóstico, pero el artículo subraya que se necesita más investigación antes de que cualquiera de estos proyectos pueda convertirse en tratamiento. El profesor David Hodson, director interino del centro, calificó el año de muy emocionante y afirmó que convertir los descubrimientos en tratamientos requiere tiempo."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Год основания центра",
+      "en": "Year the centre was established",
+      "kk": "Орталық құрылған жыл",
+      "de": "Gründungsjahr des Zentrums",
+      "es": "Año de creación del centro"
+     },
+     "v": {
+      "ru": "2025",
+      "en": "2025",
+      "kk": "2025",
+      "de": "2025",
+      "es": "2025"
+     }
+    },
+    {
+     "k": {
+      "ru": "Проекты в первом раунде финансирования",
+      "en": "Projects in the first funding round",
+      "kk": "Бірінші қаржыландыру раундындағы жобалар",
+      "de": "Projekte der ersten Förderrunde",
+      "es": "Proyectos de la primera ronda de financiación"
+     },
+     "v": {
+      "ru": "3",
+      "en": "3",
+      "kk": "3",
+      "de": "3",
+      "es": "3"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nUVE_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Предиабет и риск когнитивных нарушений: данные 30-летнего исследования",
+    "en": "Prediabetes and cognitive decline risk: 30-year study data",
+    "kk": "Преддиабет және танымдық бұзылыстар қаупі: 30 жылдық зерттеу деректері",
+    "de": "Prädiabetes und kognitive Beeinträchtigungen: Daten aus einer 30-jährigen Studie",
+    "es": "Prediabetes y riesgo de deterioro cognitivo: datos de un estudio de 30 años"
+   },
+   "text": {
+    "ru": "Данные 30-летнего исследования о связи предиабета с риском когнитивных нарушений.",
+    "en": "Data from a 30-year study on the link between prediabetes and cognitive impairment risk.",
+    "kk": "Преддиабет мен танымдық бұзылыстар қаупінің байланысы туралы 30 жылдық зерттеу деректері.",
+    "de": "Daten einer 30-jährigen Studie zum Zusammenhang zwischen Prädiabetes und dem Risiko kognitiver Beeinträchtigungen.",
+    "es": "Datos de un estudio de 30 años sobre la relación entre el prediabetes y el riesgo de deterioro cognitivo."
+   },
+   "url": "https://medvestnik.ru/content/articles/prediabet-i-risk-kognitivnyh-narushenii-dannye-30-letnego-issledovaniya.html",
+   "src": "Medvestnik",
+   "photoQuery": "blood glucose test tubes",
+   "photo": {
+    "id": "u_KWb_41kG0GE",
+    "url": "https://images.unsplash.com/photo-1599556147783-7edf67c327e0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8Ymxvb2QlMjBnbHVjb3NlJTIwdGVzdCUyMHR1YmVzfGVufDF8MHx8fDE3OTU3NDk0MDl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Testalize.me",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-orange-plastic-tube-KWb_41kG0GE?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and orange plastic tube"
+   },
+   "body": {
+    "ru": "Медвестник 26 ноября 2026 года сообщил о независимом исследовании, опубликованном в Journal of the American Heart Association. Его авторы выяснили, что рост глюкозы натощак на протяжении примерно 30 лет, начиная с молодого возраста, а также развитие диабета 2 типа связаны с худшими когнитивными функциями в среднем возрасте.\n\nАнализ основан на проекте CARDIA. В 1985–1986 годах в четырёх городах США в него включили темнокожих и белых взрослых в возрасте от 18 до 30 лет. В итоговую выборку попали 2 808 участников: 56% женщин и 44% темнокожих; средний возраст на 30-м году наблюдения составил 55 лет. Глюкозу измеряли на старте, а затем через 7, 10, 15, 20, 25 и 30 лет. Выделили три траектории: низкий стабильный уровень, умеренный стабильный и повышающийся. Среди 2 463 участников без диабета 2 типа повышающийся уровень был у 5,6%: он рос примерно от 85 до 110–115 мг/дл.\n\nЛюди с растущей глюкозой и 345 участников, у которых за время наблюдения развился диабет 2 типа, хуже справлялись с тестами на память, скорость обработки информации, исполнительные функции и по общему когнитивному показателю, чем группа с низким стабильным уровнем. У участников с диабетом 2 типа МРТ показала меньший объём серого вещества и больше патологически изменённой ткани белого вещества. Данные МРТ были только у 605 человек.\n\nАвторы указывают на ограничения: когнитивные функции оценивали лишь однажды, на 30-м году, поэтому снижение со временем измерить не удалось, а небольшая подгруппа для МРТ ограничивает статистическую мощность анализа. Старший автор Кристин Яффе считает, что в будущих работах нужно проверить, помогут ли отслеживание и контроль растущего уровня глюкозы в раннем взрослом возрасте предотвратить или отсрочить когнитивное снижение.",
+    "en": "On 26 November 2026, Medvestnik reported on an independent study published in the Journal of the American Heart Association. Its authors found that fasting blood glucose rising over roughly 30 years, beginning in youth, together with the development of type 2 diabetes, was linked to poorer cognitive function in middle age.\n\nThe analysis drew on the CARDIA project. In 1985–1986, Black and white adults aged 18 to 30 were enrolled in four US cities. The final sample included 2,808 participants, 56% women and 44% Black adults; their average age at the 30-year visit was 55. Glucose was measured at baseline and at 7, 10, 15, 20, 25 and 30 years. Three trajectories emerged: low stable, moderate stable and rising. Among 2,463 participants without type 2 diabetes, 5.6% had rising glucose, which climbed from about 85 to 110–115 mg/dL.\n\nParticipants with rising glucose, and the 345 who developed type 2 diabetes during follow-up, scored lower than the low-stable group on memory, processing speed, executive function and a combined cognitive score. In the type 2 diabetes group, brain MRI showed less grey matter and more abnormal white matter tissue. MRI data were available for only 605 participants.\n\nThe authors acknowledge limitations: cognition was assessed only once, at year 30, so decline over time could not be measured, and the small MRI subgroup limited statistical power. Senior author Kristine Yaffe said future work should test whether monitoring and controlling rising glucose in early adulthood can prevent or delay cognitive decline.",
+    "kk": "2026 жылғы 26 қарашада Medvestnik журналы Journal of the American Heart Association басылымында жарияланған тәуелсіз зерттеу туралы хабарлады. Авторлар жастық шағынан басталып, шамамен 30 жыл бойы ашқарсыздағы қан глюкозасының өсуі мен 2 типті қант диабетінің дамуы ортаң жастағы танымдық қызметтің нашарлауымен байланысты екенін анықтады.\n\nТалдау CARDIA жобасына негізделген. 1985–1986 жылдары АҚШ-тың төрт қаласында 18-ден 30-ға дейінгі қара және ақ нәсілді ересектер жобаға қосылды. Соңғы іріктемеге 2 808 қатысушы кірді: олардың 56%-ы әйелдер, 44%-ы қара нәсілділер; 30-жылдық тексеруде олардың орташа жасы 55 болды. Глюкоза бастапқыда, сондай-ақ 7, 10, 15, 20, 25 және 30 жылдан кейін өлшенді. Үш траектория анықталды: төмен тұрақты, орташа тұрақты және өсетін деңгей. 2 type қант диабеті жоқ 2 463 қатысушының арасында глюкозасы өсетіндер 5,6% болды; оның деңгейі шамамен 85-тен 110–115 мг/дл-ге дейін көтерілді.\n\nГлюкозасы өскен қатысушылар мен бақылау кезінде 2 типті қант диабеті дамыған 345 адам есте сақтау, ақпаратты өңдеу жылдамдығы, атқарушы функциялар және жалпы танымдық көрсеткіш бойынша төмен деңгейде көрсетті. 2 типті қант диабеті бар топта МРТ ми заты көлемінің азаюын және ақ зат тінінің патологиялық өзгерген аймақтарының көбеюін көрсетті. МРТ деректері тек 605 адамда болды.\n\nАвторлар шектеулерді атап өтеді: танымдық қызмет 30-жылда бір рет бағаланды, сондықтан уақыт өте келе төмендеуді өлшеу мүмкін болмады, ал МРТ-ның шағын топшасы статистикалық қуатты шектеді. Аға автор Кристин Яффе болашақ жұмыстарда ерте ересектік шақта өсетін глюкозаны бақылау мен бақылауда ұстау танымдық төмендеуді алдын алуы немесе кейінге қалдыруы мүмкін бе, соны тексеру қажет деп санайды.",
+    "de": "Am 26. November 2026 berichtete Medvestnik über eine unabhängige Studie, die im Journal of the American Heart Association veröffentlicht wurde. Die Autorinnen und Autoren stellten fest, dass ein über etwa 30 Jahre, beginnend im jungen Alter, steigender Nüchternblutzucker zusammen mit der Entwicklung eines Typ-2-Diabetes mit schlechterer kognitiver Leistungsfähigkeit im mittleren Lebensalter verbunden war.\n\nDie Analyse stützte sich auf das Projekt CARDIA. Zwischen 1985 und 1986 wurden in vier US-Städten schwarze und weiße Erwachsene im Alter von 18 bis 30 Jahren aufgenommen. In die Endauswertung gingen 2.808 Teilnehmende ein, 56 % Frauen und 44 % Schwarze; ihr Durchschnittsalter beim 30-Jahres-Termin betrug 55 Jahre. Der Blutzucker wurde zu Studienbeginn sowie nach 7, 10, 15, 20, 25 und 30 Jahren gemessen. Es ergaben sich drei Verläufe: niedrig stabil, moderat stabil und ansteigend. Unter 2.463 Teilnehmenden ohne Typ-2-Diabetes hatten 5,6 % einen ansteigenden Verlauf, bei dem der Wert von etwa 85 auf 110–115 mg/dl stieg.\n\nTeilnehmende mit steigendem Blutzucker sowie die 345 Personen, bei denen während der Beobachtung ein Typ-2-Diabetes diagnostiziert wurde, schnitten bei Tests zu Gedächtnis, Verarbeitungsgeschwindigkeit, exekutiven Funktionen und im kombinierten kognitiven Wert schlechter ab als die Gruppe mit niedrigem stabilem Verlauf. In der Typ-2-Diabetes-Gruppe zeigten MRT-Aufnahmen weniger graue Substanz und mehr krankhaft veränderte weiße Substanz. MRT-Daten lagen nur für 605 Personen vor.\n\nDie Autorinnen und Autoren nennen Einschränkungen: Die Kognition wurde nur einmal, im 30. Jahr, erfasst, sodass ein Rückgang im Zeitverlauf nicht gemessen werden konnte; zudem begrenzte die kleine MRT-Untergruppe die statistische Aussagekraft. Die Seniorautorin Kristine Yaffe sagte, künftige Studien sollten prüfen, ob die Beobachtung und Kontrolle eines steigenden Blutzuckers im frühen Erwachsenenalter kognitive Einbußen verhindern oder verzögern kann.",
+    "es": "El 26 de noviembre de 2026, Medvestnik informó sobre un estudio independiente publicado en el Journal of the American Heart Association. Sus autores hallaron que una glucosa en ayunas en aumento durante unos 30 años, desde la juventud, junto con el desarrollo de diabetes tipo 2, se asociaba con un peor funcionamiento cognitivo en la mediana edad.\n\nEl análisis se basó en el proyecto CARDIA. En 1985 y 1986, se incluyó en cuatro ciudades de EE. UU. a adultos negros y blancos de entre 18 y 30 años. La muestra final fue de 2.808 participantes: el 56 % eran mujeres y el 44 % adultos negros; su edad media en la visita de los 30 años fue de 55 años. La glucosa se midió al inicio y a los 7, 10, 15, 20, 25 y 30 años. Surgieron tres trayectorias: estable baja, estable moderada y en aumento. Entre 2.463 personas sin diabetes tipo 2, el 5,6 % tenía una glucosa en aumento, que subió de unos 85 a 110–115 mg/dL.\n\nLos participantes con glucosa en ascenso, así como las 345 personas que desarrollaron diabetes tipo 2 durante el seguimiento, obtuvieron peores resultados que el grupo de trayectoria estable baja en memoria, velocidad de procesamiento, funciones ejecutivas y en una puntuación cognitiva combinada. En el grupo con diabetes tipo 2, las resonancias magnéticas mostraron menos sustancia gris y más tejido de sustancia blanca alterado patológicamente. Los datos de resonancia solo estaban disponibles para 605 participantes.\n\nLos autores señalan limitaciones: la función cognitiva se evaluó una sola vez, a los 30 años, por lo que no se pudo medir el deterioro a lo largo del tiempo, y el pequeño subgrupo de resonancias limitó la potencia estadística. La autora principal, Kristine Yaffe, dijo que los estudios futuros deberían comprobar si vigilar y controlar una glucosa en aumento en la adultez temprana puede prevenir o retrasar el deterioro cognitivo."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Участники исследования CARDIA",
+      "en": "CARDIA study participants",
+      "kk": "CARDIA зерттеуіне қатысушылар",
+      "de": "Teilnehmende der CARDIA-Studie",
+      "es": "Participantes del estudio CARDIA"
+     },
+     "v": {
+      "ru": "2 808",
+      "en": "2,808",
+      "kk": "2 808",
+      "de": "2.808",
+      "es": "2.808"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участники с диабетом 2 типа, развившимся за время наблюдения",
+      "en": "Participants who developed type 2 diabetes during follow-up",
+      "kk": "Бақылау кезінде 2 типті қант диабеті дамыған қатысушылар",
+      "de": "Teilnehmende, die im Beobachtungszeitraum Typ-2-Diabetes entwickelten",
+      "es": "Participantes que desarrollaron diabetes tipo 2 durante el seguimiento"
+     },
+     "v": {
+      "ru": "345",
+      "en": "345",
+      "kk": "345",
+      "de": "345",
+      "es": "345"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участники с повышающимся уровнем глюкозы натощак среди людей без диабета 2 типа",
+      "en": "Participants with rising fasting glucose among those without type 2 diabetes",
+      "kk": "2 типті қант диабеті жоқ адамдар арасында ашқарсыздағы глюкозасы өсетін қатысушылар",
+      "de": "Teilnehmende mit steigendem Nüchternblutzucker unter Personen ohne Typ-2-Diabetes",
+      "es": "Participantes con glucosa en ayunas en aumento entre quienes no tenían diabetes tipo 2"
+     },
+     "v": {
+      "ru": "5,6%",
+      "en": "5.6%",
+      "kk": "5,6%",
+      "de": "5,6 %",
+      "es": "5,6 %"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVms_b2M9NQ",
+   "cat": "access",
+   "stage": "survey",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "В Израиле каждый четвертый больной диабетом отказывался от лечения из-за высокой цены",
+    "en": "In Israel, one in four people with diabetes has skipped treatment because of high prices",
+    "kk": "Израильде қант диабетімен ауыратын әрбір төртінші адам қымбаттығына байланысты емделуден бас тартқан",
+    "de": "In Israel verzichtete jeder vierte Diabetespatient wegen hoher Preise auf Behandlung",
+    "es": "En Israel, uno de cada cuatro pacientes con diabetes renunció al tratamiento por su alto precio"
+   },
+   "text": {
+    "ru": "По данным опроса, каждый четвертый пациент с диабетом в Израиле отказывался от лечения из-за высокой стоимости.",
+    "en": "According to the report, one in four people with diabetes in Israel has refused treatment due to its high cost.",
+    "kk": "Есепке сәйкес, Израильде қант диабетімен ауыратын әрбір төртінші адам емнің жоғары бағасына байланысты бас тартқан.",
+    "de": "Laut Bericht hat in Israel jeder vierte Mensch mit Diabetes eine Behandlung wegen der hohen Kosten abgelehnt.",
+    "es": "Según el informe, en Israel uno de cada cuatro pacientes con diabetes ha rechazado el tratamiento por su alto coste."
+   },
+   "url": "https://www.vesty.co.il/main/article/bkt2wuv17g",
+   "src": "Vesty.co.il",
+   "photoQuery": "pharmacy shelves medicine boxes",
+   "local": true,
+   "photo": {
+    "id": "u_747NDboAWNY",
+    "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTU3NDk0MTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Nathaniel Yeo",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/stationery-store-interior-with-greeting-cards-747NDboAWNY?utm_source=dia_news&utm_medium=referral",
+    "alt": "A bright stationery store interior with shelves of greeting cards and office supplies"
+   },
+   "body": {
+    "ru": "Новый опрос 500 израильтян с диабетом, проведенный компанией «Гефен-Медикал» в рамках Международного месяца борьбы с диабетом, который отмечают в ноябре, показал: 27% участников хотя бы раз отказывались от лечения из-за его цены. Это примерно каждый четвертый.\n\nФинансовые трудности — не единственная проблема. 76% пациентов признались, что боятся будущих осложнений, а 57% сказали, что им непросто стабильно соблюдать подходящую диету и заниматься физической активностью. Почти половина (47%) оценивает свой контроль над уровнем сахара как средний или низкий.\n\nНа вопрос, что помогло бы чувствовать себя увереннее, 53% ответили, что хотели бы знать, как разные продукты влияют на сахар в крови, а 45% хотели бы получать уведомления о слишком высоком или низком уровне глюкозы. При этом лишь 15% пациентов используют датчик непрерывного мониторинга глюкозы, который отслеживает колебания днем и ночью.\n\nПо данным Национальной программы оценки качества медпомощи в амбулаторных учреждениях за 2025 год, в Израиле живут около 677 000 человек с диабетом. Важное ограничение: опрос охватил 500 пациентов и проводился компанией, а в статье не описано, как отбирались участники.\n\nПрофессор Хулио Вайнштейн, вице-президент Израильской диабетической ассоциации, заявил, что результаты показывают разрыв между страхом осложнений и возможностью держать болезнь под контролем и получать нужное лечение. По его словам, особенно тревожно, что пациенты отказываются от терапии из-за стоимости, ведь правильное лечение и наблюдение помогают предотвращать осложнения. Он призвал расширять доступ к таким технологиям, как датчики глюкозы.",
+    "en": "A new survey of 500 people with diabetes in Israel, conducted by the company Gefen-Medical as part of International Diabetes Month, which is marked in November, found that 27% of respondents had at least once turned down treatment because of its cost. That is roughly one in four.\n\nFinancial hardship is not the only problem. Seventy-six percent of patients said they fear future complications, and 57% said it is hard for them to consistently follow a suitable diet and stay physically active. Nearly half (47%) rate their control over blood sugar as only moderate or low.\n\nAsked what would help them feel more confident, 53% said they would like to know how different foods affect blood sugar, and 45% want alerts when glucose is too high or too low. Yet only 15% of patients use a continuous glucose monitoring sensor, which tracks fluctuations day and night.\n\nAccording to the 2025 data of Israel's National Program for assessing quality indicators in outpatient care, about 677,000 people with diabetes live in the country. An important caveat: the survey covered 500 patients and was run by a company, and the article does not explain how participants were selected.\n\nProfessor Julio Weinstein, vice president of the Israel Diabetes Association, said the results point to a gap between patients' fear of complications and their ability to keep the disease under control and get the right treatment. He said it is especially worrying that patients are giving up therapy because of its price, since proper treatment and monitoring help prevent complications. He called for wider access to technologies such as glucose sensors.",
+    "kk": "Израильдегі диабеті бар 500 адамның арасында «Гефен-Медикал» компаниясы қараша айында аталып өтетін Халықаралық диабет айы аясында жүргізген жаңа сауалнама көрсеткендей, қатысушылардың 27%-ы емнің бағасына байланысты оны кем дегенде бір рет тастаған. Бұл шамамен әрбір төртіншісі.\n\nҚаржылық қиындық жалғыз мәселе емес. Пациенттердің 76%-ы болашақта асқынулардан қорқатынын айтты, ал 57%-ы тиісті диетаны тұрақты ұстап, дене белсенділігін сақтау қиын екенін атап өтті. Жартысына жуығы (47%) қант деңгейін бақылауын орташа немесе төмен деп бағалайды.\n\nӨзін сенімдірек сезінуге не көмектесер еді деген сұраққа 53% әртүрлі өнімдердің қанның қант деңгейіне қалай әсер ететінін білгілері келетінін, ал 45%-ы қант деңгейі тым жоғары немесе төмен болғанда хабарлама алғылары келетінін жауап берді. Алайда пациенттердің тек 15%-ы тәулік бойы глюкоза деңгейінің өзгерісін бақылайтын үздіксіз мониторинг датчигін пайдаланады.\n\n2025 жылғы амбулаториялық мекемелердегі медициналық көмек сапасын бағалаудың Ұлттық бағдарламасының деректері бойынша, Израильде шамамен 677 000 диабеті бар адам тұрады. Маңызды шектеу: сауалнамаға 500 пациент қатысты және оны компания жүргізді, ал мақалада қатысушылардың қалай таңдалғаны түсіндірілмеген.\n\nИзраиль диабет қауымдастығының вице-президенті профессор Хулио Вайнштейн нәтижелер пациенттердің асқынудан қорқуы мен аурууды бақылау және лайықты емді алу мүмкіндігі арасында алшақтық бар екенін көрсетеді деп мәлімдеді. Оның айтуынша, бағасына байланысты емнен бас тарту ерекше алаңдатады, өйткені дұрыс ем мен бақылау асқынуды алдын алуға көмектеседі. Ол глюкоза датчиктері сияқты технологияларға қолжетімділікті кеңейтуге шақырды.",
+    "de": "Eine neue Umfrage unter 500 Menschen mit Diabetes in Israel, durchgeführt vom Unternehmen Gefen-Medical im Rahmen des Internationalen Diabetes-Monats, der im November begangen wird, ergab: 27 Prozent der Befragten hatten schon mindestens einmal eine Behandlung wegen ihrer Kosten abgelehnt. Das entspricht etwa jedem Vierten.\n\nFinanzielle Hürden sind nicht das einzige Problem. 76 Prozent der Patienten gaben an, künftige Komplikationen zu fürchten, und 57 Prozent fällt es schwer, dauerhaft eine angepasste Ernährung einzuhalten und sich regelmäßig zu bewegen. Knapp die Hälfte (47 Prozent) schätzt ihre Kontrolle über den Blutzucker nur als mittelmäßig oder gering ein.\n\nAuf die Frage, was ihnen mehr Sicherheit geben würde, antworteten 53 Prozent, sie wollten wissen, wie sich verschiedene Lebensmittel auf den Blutzucker auswirken; 45 Prozent wünschten sich Benachrichtigungen bei zu hohen oder zu niedrigen Werten. Doch nur 15 Prozent der Patienten nutzen einen Sensor zur kontinuierlichen Glukosemessung, der Schwankungen tagsüber und nachts verfolgt.\n\nLaut Daten des Nationalen Programms zur Bewertung von Qualitätsindikatoren in der ambulanten Versorgung aus dem Jahr 2025 leben in Israel rund 677.000 Menschen mit Diabetes. Einschränkend ist zu beachten: Die Umfrage umfasste 500 Patienten und wurde von einem Unternehmen durchgeführt; der Artikel erklärt nicht, wie die Teilnehmer ausgewählt wurden.\n\nProfessor Julio Weinstein, Vizepräsident der Israelischen Diabetes-Gesellschaft, sagte, die Ergebnisse zeigten eine Lücke zwischen der Angst der Patienten vor Komplikationen und ihrer Fähigkeit, die Krankheit unter Kontrolle zu halten und die richtige Behandlung zu erhalten. Besonders beunruhigend sei, dass Patienten wegen des Preises auf Therapie verzichten, denn richtige Behandlung und Überwachung helfen, Komplikationen zu verhindern. Er forderte, den Zugang zu Technologien wie Glukosesensoren weiter auszubauen.",
+    "es": "Una nueva encuesta a 500 personas con diabetes en Israel, realizada por la empresa Gefen-Medical en el marco del Mes Internacional de la Diabetes, que se celebra en noviembre, reveló que el 27 % de los participantes había rechazado al menos una vez un tratamiento por su precio. Es decir, aproximadamente uno de cada cuatro.\n\nLas dificultades económicas no son el único problema. El 76 % de los pacientes dijo temer complicaciones en el futuro, y el 57 % señaló que le cuesta seguir de forma constante una dieta adecuada y mantenerse físicamente activo. Casi la mitad (47 %) considera que controla su nivel de azúcar solo en grado medio o bajo.\n\nAnte la pregunta de qué les daría más seguridad, el 53 % respondió que quería saber cómo afectan distintos alimentos a la glucemia, y el 45 % quería recibir alertas cuando el azúcar estuviera demasiado alta o baja. Sin embargo, solo el 15 % de los pacientes usa un sensor de monitoreo continuo de glucosa, que sigue las variaciones durante el día y la noche.\n\nSegún datos de 2025 del Programa Nacional de evaluación de indicadores de calidad de la atención ambulatoria, en Israel viven unas 677.000 personas con diabetes. Una limitación importante: la encuesta incluyó a 500 pacientes y fue realizada por una empresa; el artículo no explica cómo se seleccionaron los participantes.\n\nEl profesor Julio Weinstein, vicepresidente de la Asociación Israelí de Diabetes, afirmó que los resultados muestran una brecha entre el temor de los pacientes a las complicaciones y su capacidad para mantener la enfermedad bajo control y recibir el tratamiento adecuado. Le preocupa especialmente que algunos renuncien a la terapia por su costo, ya que el tratamiento correcto y el seguimiento ayudan a prevenir complicaciones. Pidió ampliar el acceso a tecnologías como los sensores de glucosa."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Доля пациентов, отказывавшихся от лечения из-за его цены",
+      "en": "Share of patients who at least once refused treatment because of its cost",
+      "kk": "Ем бағасына байланысты оны бір рет болса да тастаған пациенттер үлесі",
+      "de": "Anteil der Patienten, die wegen der Kosten eine Behandlung abgelehnt haben",
+      "es": "Proporción de pacientes que rechazaron un tratamiento por su costo"
+     },
+     "v": {
+      "ru": "27%",
+      "en": "27%",
+      "kk": "27%",
+      "de": "27 Prozent",
+      "es": "27 %"
+     }
+    },
+    {
+     "k": {
+      "ru": "Людей с диабетом в Израиле (данные 2025 года)",
+      "en": "People with diabetes in Israel (2025 data)",
+      "kk": "Израильдегі диабеті бар адамдар (2025 жылғы деректер)",
+      "de": "Menschen mit Diabetes in Israel (Daten 2025)",
+      "es": "Personas con diabetes en Israel (datos de 2025)"
+     },
+     "v": {
+      "ru": "около 677 000",
+      "en": "about 677,000",
+      "kk": "шамамен 677 000",
+      "de": "rund 677.000",
+      "es": "unas 677.000"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVGUj9vYz01",
+   "cat": "access",
+   "stage": "community",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Нижегородские диабетики пожаловались на замену британского препарата российским",
+    "en": "Nizhny Novgorod diabetes patients complain about switch from a British drug to a Russian one",
+    "kk": "Нижний Новгород қант диабеті науқастары британдық дәрінің ресейлікпен ауыстырылуына шағымданды",
+    "de": "Diabetiker in Nischni Nowgorod beklagen den Ersatz eines britischen Medikaments durch ein russisches",
+    "es": "Diabéticos de Nizhni Nóvgorod se quejan de que sustituyeron un medicamento británico por uno ruso"
+   },
+   "text": {
+    "ru": "Пациенты сообщают о резком ухудшении состояния после перехода с британского препарата на российский аналог.",
+    "en": "Patients report a sharp deterioration in their condition after switching from a British drug to a Russian one.",
+    "kk": "Науқастар британдық дәрі ресейлік аналогқа ауыстырылғаннан кейін жағдайының нашарлағанын айтады.",
+    "de": "Patienten berichten von einer deutlichen Verschlechterung ihres Zustands nach dem Wechsel von einem britischen Präparat zu einem russischen Analogon.",
+    "es": "Los pacientes describen un fuerte empeoramiento de su estado tras cambiar de un fármaco británico a un análogo ruso."
+   },
+   "url": "https://www.nn.ru/text/health/2026/11/26/76791387/",
+   "src": "Новости Нижнего Новгорода",
+   "photoQuery": "insulin pen pharmacy counter",
+   "local": true,
+   "photo": {
+    "id": "u_NiXMv9iFN1c",
+    "url": "https://images.unsplash.com/photo-1745939912168-cc7333d65327?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8aW5zdWxpbiUyMHBlbiUyMHBoYXJtYWN5JTIwY291bnRlcnxlbnwxfDB8fHwxNzk1NzQ5NDEwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-blue-insulin-pen-rests-on-a-white-surface-NiXMv9iFN1c?utm_source=dia_news&utm_medium=referral",
+    "alt": "A blue insulin pen rests on a white surface"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nEhjP29jPTU",
+   "cat": "access",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Суд взыскал с больницы в Таштаголе деньги за тест-полоски, которые диабетик покупал сам",
+    "en": "Court orders Tashtagol hospital to pay for test strips a diabetic bought himself",
+    "kk": "Таштагол ауруханасы науқас өзі сатып алған тест-жолақтар үшін ақша төлеуге сотпен міндеттелді",
+    "de": "Gericht verpflichtet Klinik in Taschtagol zur Erstattung von Teststreifen, die ein Diabetiker selbst gekauft hatte",
+    "es": "Un tribunal ordena a un hospital de Tashtagol pagar las tiras reactivas que un diabético compró por su cuenta"
+   },
+   "text": {
+    "ru": "Суд взыскал с больницы несколько тысяч рублей за тест-полоски, которые пациент с диабетом вынужден был покупать сам.",
+    "en": "A court ordered the hospital to pay several thousand rubles for test strips that a diabetic patient had to buy himself.",
+    "kk": "Сот ауруханаға қант диабеті науқасы өзі сатып алуға мәжбүр болған тест-жолақтар үшін бірнеше мың рубль өтеуді бұйырды.",
+    "de": "Ein Gericht verpflichtete das Krankenhaus, mehrere tausend Rubel für Teststreifen zu erstatten, die der Diabetiker selbst kaufen musste.",
+    "es": "Un tribunal ordenó al hospital pagar varios miles de rublos por las tiras reactivas que el paciente con diabetes tuvo que comprar por su cuenta."
+   },
+   "url": "https://gazeta.a42.ru/lenta/news/237052-v-kuzbasse-diabetiku-prislos-pokupat-test-poloski-s-bolnicy-vzyskali",
+   "src": "gazeta@a42",
+   "photoQuery": "glucose test strips box",
+   "local": true,
+   "photo": {
+    "id": "u_JZpJ6fIfvos",
+    "url": "https://images.unsplash.com/photo-1646956140349-b5fa41bcc410?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTR8fHBoYXJtYWN5JTIwc2hlbHZlc3xlbnwxfDB8fHwxNzk1NzQ5NDEwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Adam Bezer",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/shelves-are-filled-with-various-chemical-bottles-JZpJ6fIfvos?utm_source=dia_news&utm_medium=referral",
+    "alt": "Shelves are filled with various chemical bottles"
+   },
+   "body": {
+    "ru": "Таштагольский городской суд (Кемеровская область) взыскал с местной больницы деньги, которые пациент-диабетик потратил на тест-полоски для глюкометра. Об этом сообщил Объединённый пресс-центр судов региона. По словам ведомства, мужчина состоит на диспансерном учёте в ГБУЗ «Таштагольская районная больница» и нуждается в ежедневном контроле уровня глюкозы в крови. Льготные рецепты на полоски ему оформляли в промежутке с ноября 2025 года по январь 2026-го, а также с августа по сентябрь 2026 года, однако получить их не удалось из-за отсутствия медицинских изделий.\n\nВсе расходы пациент оплатил сам — 5 135 рублей 10 копеек. Городской прокурор обратился в суд с требованием признать действия медиков бездействием и возместить затраты. Региональный минздрав и сама больница с такой трактовкой не согласились: они сослались на задержки поставок по госконтрактам и на то, что полосок не было на складе.\n\nСуд отклонил эти возражения, сочтя, что учреждение обязано было вовремя обеспечить пациента всем необходимым. В итоге с больницы в его пользу взыскали 4 333 рубля 10 копеек. Оставшаяся часть затрат не покрыта, так как не подтверждена льготными рецептами.\n\nВ публикации не говорится, будет ли решение обжаловано сторонами.",
+    "en": "The Tashtagol City Court in Kemerovo Region has ordered a local hospital to repay a diabetic patient for test strips he had to buy himself for his glucose meter. The regional court press center reported the ruling. According to the court, the man is registered for outpatient follow-up at the Tashtagol district hospital and needs to check his blood glucose every day. Prescriptions entitling him to free strips were issued from November 2025 to January 2026, and again from August to September 2026, but the strips could not be dispensed because the medical products were unavailable.\n\nThe patient paid 5,135 rubles 10 kopecks out of pocket. The city prosecutor went to court demanding that the medical staff's conduct be recognised as inaction and that the costs be compensated. The regional health ministry and the hospital disagreed, citing delays in deliveries under state contracts and an empty warehouse shelf for strips.\n\nThe court rejected the hospital's objection, holding that the institution had been obliged to provide the patient with everything he needed on time. As a result, the hospital was ordered to pay the patient 4,333 rubles 10 kopecks. The rest of the expenses were not covered, because they were not confirmed by the preferential prescriptions.\n\nThe report does not say whether either side will appeal the decision.",
+    "kk": "Таштағол қалалық соты Кемерово облысындағы жергілікті ауруханаға қант диабетімен ауыратын пациенттің глюкометрге арналған тест-жолақтарға өз қаражатына сатып алған ақшасын өтеуді бұйырды. Бұл туралы облыстық соттардың біріккен баспасөз орталығы хабарлады. Ведомство мәліметінше, ер адам Таштағол аудандық ауруханасында диспансерлік есепте тұр және қандағы глюкоза деңгейін күн сайын бақылауы керек. Оған тегін жолақтарға арналған жеңілдікті рецепттер 2025 жылдың қарашасынан 2026 жылдың қаңтарына дейін, сондай-ақ 2026 жылдың тамыз бен қыркүйегінде жазылған, бірақ медициналық бұйымдар жоқтығынан оларды алу мүмкін болмаған.\n\nПациент барлық шығынын өз қаражатынан төлеген — 5 135 рубль 10 тиын. Қала прокуроры сотқа медицина қызметкерлерінің іс-әрекетсіздігін мойындауды және шығындарды өтеуді талап етіп жүгінді. Облыстық денсаулық сақтау министрлігі мен аурухана бұл пікірмен келіспеді: олар мемлекеттік келісімшарттар бойынша жеткізілімнің кешігуін және қоймада жолақтар жоқ екенін алға тартты.\n\nСот ауруханаға түскен бұл қарсылықты қабылдамады, себебі мекеме пациентті қажетті барлық құралмен уақытылы қамтамасыз етуге міндетті болған деп есептеді. Нәтижесінде ауруханадан пациенттің пайдасына 4 333 рубль 10 тиын өндіріп алынды. Шығынның қалған бөлігі өтелмеді, өйткені ол жеңілдікті рецепттермен расталмаған.\n\nХабарламада тараптардың шешімге шағым беретіні туралы айтылмаған.",
+    "de": "Das Stadtgericht Taschtagol im Gebiet Kemerowo hat ein örtliches Krankenhaus verpflichtet, einem diabeteskranken Patienten das Geld für Teststreifen zu erstatten, die er für sein Blutzuckermessgerät selbst kaufen musste. Das gemeinsame Pressezentrum der Gerichte der Region berichtete über das Urteil. Demnach ist der Mann beim Bezirkskrankenhaus Taschtagol in ambulanter Nachsorge registriert und muss seinen Blutzucker täglich kontrollieren. Vergünstigte Rezepte für die Streifen wurden ihm von November 2025 bis Januar 2026 sowie von August bis September 2026 ausgestellt, doch konnten sie nicht eingelöst werden, weil die Medizinprodukte fehlten.\n\nDen gesamten Betrag von 5.135 Rubel und 10 Kopeken zahlte der Patient aus eigener Tasche. Der Stadtstaatsanwalt klagte darauf, das Verhalten des medizinischen Personals als Untätigkeit anzuerkennen und die Kosten zu ersetzen. Das regionale Gesundheitsministerium und das Krankenhaus widersprachen dieser Sichtweise und verwiesen auf Lieferverzögerungen bei staatlichen Verträgen sowie auf fehlende Streifen im Lager.\n\nDas Gericht wies diesen Einwand zurück und befand, die Klinik habe den Patienten rechtzeitig mit allem Notwendigen versorgen müssen. Daher muss das Krankenhaus dem Mann 4.333 Rubel und 10 Kopeken zahlen. Der übrige Teil der Ausgaben blieb unberücksichtigt, da er nicht durch die Vergünstigungsrezepte belegt war.\n\nDer Bericht lässt offen, ob eine der Parteien das Urteil anfechten wird.",
+    "es": "El Tribunal Municipal de Tashtagol, en la región de Kemerovo, ordenó a un hospital local devolver el dinero que un paciente con diabetes gastó en tiras reactivas para su glucómetro. La oficina de prensa conjunta de los tribunales regionales informó del fallo. Según el tribunal, el hombre está registrado en el seguimiento ambulatorio del hospital de distrito de Tashtagol y necesita controlar su glucosa en sangre a diario. Le emitieron recetas preferenciales para obtener las tiras entre noviembre de 2025 y enero de 2026, y también entre agosto y septiembre de 2026, pero no pudieron dispensarse porque faltaban los productos médicos.\n\nEl paciente pagó de su bolsillo 5.135 rublos con 10 kopeks. El fiscal de la ciudad acudió a la justicia pidiendo que se considerara inacción la conducta del personal médico y que se compensaran los gastos. El Ministerio de Salud regional y el hospital no estuvieron de acuerdo y alegaron retrasos en los suministros por contratos estatales y la falta de tiras en el almacén.\n\nEl tribunal municipal desestimó esa objeción, al considerar que la institución debía proporcionar al paciente todo lo necesario a tiempo. Por ello, se ordenó al hospital pagarle 4.333 rublos con 10 kopeks. El resto de los gastos no fue reconocido, porque no estaba respaldado por las recetas preferenciales.\n\nLa información no indica si alguna de las partes recurrirá la decisión."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Сумма расходов пациента на тест-полоски",
+      "en": "Amount the patient spent on test strips",
+      "kk": "Пациенттің тест-жолақтарға жұмсаған сомасы",
+      "de": "Vom Patienten für Teststreifen ausgegebener Betrag",
+      "es": "Importe que el paciente gastó en tiras reactivas"
+     },
+     "v": {
+      "ru": "5 135 рублей 10 копеек",
+      "en": "5,135 rubles 10 kopecks",
+      "kk": "5 135 рубль 10 тиын",
+      "de": "5.135 Rubel und 10 Kopeken",
+      "es": "5.135 rublos con 10 kopeks"
+     }
+    },
+    {
+     "k": {
+      "ru": "Сумма, взысканная с больницы в пользу пациента",
+      "en": "Amount the hospital was ordered to pay the patient",
+      "kk": "Ауруханадан пациент пайдасына өндіріліп алынған сома",
+      "de": "Vom Krankenhaus an den Patienten zu zahlender Betrag",
+      "es": "Importe que el hospital debe pagar al paciente"
+     },
+     "v": {
+      "ru": "4 333 рубля 10 копеек",
+      "en": "4,333 rubles 10 kopecks",
+      "kk": "4 333 рубль 10 тиын",
+      "de": "4.333 Rubel und 10 Kopeken",
+      "es": "4.333 rublos con 10 kopeks"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nMWc_b2M9NQ",
+   "cat": "devices",
+   "stage": "launch",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "В Краснощёковской ЦРБ запустили дистанционный контроль диабета",
+    "en": "Krasnoshchekovo district hospital launches remote diabetes monitoring",
+    "kk": "Краснощёков аудандық ауруханасында қант диабетін қашықтан бақылау іске қосылды",
+    "de": "Kreisklinik Krasnoschtschokowo startet Fernüberwachung bei Diabetes",
+    "es": "El hospital distrital de Krasnoshchekovo pone en marcha el control remoto de la diabetes"
+   },
+   "text": {
+    "ru": "Краснощёковская центральная районная больница запустила дистанционный контроль пациентов с диабетом.",
+    "en": "The Krasnoshchekovo district hospital has started remote monitoring of patients with diabetes.",
+    "kk": "Краснощёков аудандық орталық ауруханасы қант диабеті науқастарын қашықтан бақылауды бастады.",
+    "de": "Die Kreisklinik Krasnoschtschokowo hat die Fernüberwachung von Diabetespatienten gestartet.",
+    "es": "El hospital central del distrito de Krasnoshchekovo ha iniciado el seguimiento remoto de pacientes con diabetes."
+   },
+   "url": "https://barnaul-altai.ru/2026/11/26/357169-v-krasnoshhyokovskoj-czrb-zapustili-distanczionnyj-kontrol-diabeta.html",
+   "src": "barnaul-altai.ru",
+   "photoQuery": "glucose monitor smartphone app",
+   "local": true,
+   "photo": {
+    "id": "u_edZXf9oAtxg",
+    "url": "https://images.unsplash.com/photo-1617608408920-cedf61782cbb?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8Z2x1Y29zZSUyMG1vbml0b3IlMjBzbWFydHBob25lJTIwYXBwfGVufDF8MHx8fDE3OTU3NDk0MTF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Markus Spiske",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-android-smartphone-displaying-google-search-edZXf9oAtxg?utm_source=dia_news&utm_medium=referral",
+    "alt": "black android smartphone displaying google search"
+   },
+   "body": {
+    "ru": "В Краснощёковской центральной районной больнице Алтайского края начали дистанционное наблюдение за людьми с сахарным диабетом. Об этом 26 ноября 2026 года сообщило издание «Барнаул/Алтай». Подключиться можно через лечащего врача.\n\nПосле подключения результаты измерения глюкозы поступают в специальную информационную систему без участия пациента. Специалисты отслеживают динамику и оценивают, работает ли назначенное лечение. Если показатели выходят за целевые пределы, медработник звонит пациенту, выясняет самочувствие и при необходимости меняет тактику наблюдения и терапии.\n\nФормат призван сократить число визитов в медучреждение: достаточно измерять глюкозу по рекомендации врача, остальное берёт на себя система. Решение о возможности подключения принимает медспециалист с учётом состояния здоровья.\n\nВ первую очередь программа адресована тем, у кого диабет выявлен недавно, кому подбирают или корректируют сахароснижающие препараты, кто не может достичь целевых значений, а также всем, кто хочет постоянно контролировать показатели.\n\nДля подключения нужно обратиться к лечащему врачу: он расскажет о возможностях, поможет установить мобильное приложение на смартфон, зарегистрироваться и подключиться, объяснит, как передавать данные. Программа входит в региональный проект «Борьба с сахарным диабетом» национального проекта «Продолжительная и активная жизнь» и бесплатна для пациентов.",
+    "en": "Krasnoshchekovsk Central District Hospital in Altai Krai has started remote monitoring for people with diabetes, the regional outlet Barnaul/Altai reported on November 26, 2026. Patients can get enrolled through their treating physician.\n\nOnce a patient is connected, glucose readings are sent to a dedicated information system without the patient having to forward them. Specialists track how levels change over time and judge whether the prescribed treatment is working. If values fall outside target ranges, a staff member phones the patient, asks how they feel, and, where needed, changes the monitoring approach and therapy.\n\nThe format is meant to reduce the number of visits to the medical facility: a patient only needs to measure glucose when the doctor advises it, and the system handles the rest. Whether a person can join is decided by a medical specialist, who takes their health condition into account.\n\nThe programme is aimed first at people recently diagnosed, those whose blood-sugar-lowering medicines are being selected or adjusted, people who struggle to reach target values, and anyone who wants constant oversight of their readings.\n\nTo join, residents should contact their treating doctor at the hospital. The doctor explains the options, helps install a mobile app on a smartphone, register and connect, and shows how to submit readings correctly. The programme is part of the regional project \"Fighting Diabetes,\" which sits within the national project \"Long and Active Life,\" and it is free for patients.",
+    "kk": "Алтай өлкесіндегі Краснощеков аудандық орталық ауруханасында қант диабетімен ауыратын адамдарға арналған қашықтан бақылау іске қосылды. Бұл туралы 2026 жылғы 26 қарашада «Барнаул/Алтай» басылымы хабарлады. Қосылу үшін емдеуші дәрігерге жүгіну қажет.\n\nҚосылған соң глюкоза көрсеткіштері арнайы ақпараттық жүйеге науқастың өзінің қатысуынсыз түседі. Мамандар өзгерісті уақыт бойынша қадағалайды және тағайындалған емнің нәтижелі екенін бағалайды. Көрсеткіштер мақсатты шектен шықса, медқызметкер науқасқа хабарласып, оның жағдайын сұрайды және қажет болса бақылау тәсілін немесе емді өзгертеді.\n\nБұл тәсіл медицина мекемесіне баруды азайтуға арналған: науқас тек дәрігердің ұсынысы бойынша глюкозаны өлшесе жеткілікті, қалғанын жүйе атқарады. Қосылу мүмкіндігін медицина маманы науқастың денсаулық жағдайын ескере отырып шешеді.\n\nБағдарлама ең алдымен жақында диагноз қойылғандарға, қант мөлшерін төмендететін дәрі таңдалып немесе түзетіліп жатқандарға, мақсатты көрсеткішке жету қиын болғандарға және көрсеткіштерін үнемі бақылағысы келетін барлық адамға арналған.\n\nҚосылу үшін емдеуші дәрігерге жүгіну керек. Дәрігер мүмкіндіктерді түсіндіреді, смартфонға мобильді қосымшаны орнатуға, тіркелуге және жүйеге қосылуға көмектеседі, сондай-ақ көрсеткіштерді дұрыс жіберу жолын үйретеді. Бағдарлама «Қант диабетімен күрес» өңірлік жобасының және «Ұзақ әрі белсенді өмір» ұлттық жобасының құрамына кіреді, науқастар үшін тегін.",
+    "de": "Die Krankenhausabteilung der Stadt Krasnoschtschokowo (Zentralkrankenhaus des Bezirks Krasnoschtschokowskaja) in der Region Altai hat eine Fernüberwachung für Menschen mit Diabetes gestartet. Darüber berichtete das regionale Portal „Barnaul/Altai“ am 26. November 2026. Der Zugang läuft über die behandelnde Ärztin oder den behandelnden Arzt.\n\nNach der Anbindung gelangen die Glukosewerte automatisch in ein spezielles Informationssystem. Fachkräfte verfolgen, wie sich die Werte im Zeitverlauf verändern, und prüfen, ob die verordnete Behandlung wirkt. Liegen die Werte außerhalb der Zielbereiche, meldet sich eine Mitarbeiterin oder ein Mitarbeiter bei der Person, fragt nach dem Befinden und passt bei Bedarf die Überwachung oder die Therapie an.\n\nDas Modell soll die Zahl der Besuche in der Klinik verringern. Die Patientin oder der Patient muss Glukose nur dann messen, wenn es die Ärztin oder der Arzt empfiehlt; den Rest übernimmt das System. Ob eine Anbindung möglich ist, entscheidet eine Fachkraft unter Berücksichtigung des Gesundheitszustands.\n\nDas Angebot richtet sich vor allem an Menschen, bei denen die Erkrankung erst kürzlich festgestellt wurde, an Personen, deren blutzuckersenkende Medikamente neu gewählt oder angepasst werden, an alle, die Zielwerte nur schwer erreichen, sowie an alle, die ihre Werte dauerhaft im Blick behalten möchten.\n\nWer teilnehmen will, wendet sich an die behandelnde Ärztin oder den behandelnden Arzt im Krankenhaus. Dort werden die Möglichkeiten erklärt, eine mobile App auf dem Smartphone installiert, die Registrierung und die Verbindung eingerichtet und gezeigt, wie die Messwerte korrekt übermittelt werden. Das Programm gehört zum regionalen Projekt „Kampf gegen Diabetes“ im Rahmen des nationalen Projekts „Langes und aktives Leben“ und ist für Patientinnen und Patienten kostenlos.",
+    "es": "El hospital central de distrito de Krasnoshchókovo, en la región de Altái, puso en marcha la vigilancia a distancia para personas con diabetes, según informó el medio regional «Barnaul/Altái» el 26 de noviembre de 2026. Para sumarse hay que acudir al médico que lleva el tratamiento.\n\nUna vez conectados, los resultados de glucosa llegan a un sistema informático específico sin que el paciente tenga que enviarlos. Los especialistas siguen cómo evolucionan las cifras y valoran si el tratamiento prescrito funciona. Si los valores salen de los rangos objetivo, un miembro del personal llama al paciente, pregunta cómo se siente y, cuando hace falta, ajusta el seguimiento o la terapia.\n\nEl formato busca reducir el número de visitas al centro médico: basta con medir la glucosa cuando el médico lo recomiende, y el sistema se encarga del resto. Si una persona puede incorporarse lo decide un especialista médico, teniendo en cuenta su estado de salud.\n\nEl programa va dirigido, en primer lugar, a quienes tienen un diagnóstico reciente, a quienes se les está eligiendo o ajustando un fármaco para bajar el azúcar, a quienes tienen dificultades para alcanzar los valores objetivo y a cualquiera que quiera un control constante de sus cifras.\n\nPara incorporarse, los interesados deben contactar con su médico de cabecera en el hospital. Este explica las opciones, ayuda a instalar una aplicación móvil en el teléfono inteligente, a registrarse y a conectarse, y muestra cómo enviar correctamente las lecturas. El programa forma parte del proyecto regional «Lucha contra la diabetes», dentro del proyecto nacional «Vida larga y activa», y es gratuito para los pacientes."
+   }
+  },
+  {
+   "id": "nVGbz9vYz01",
+   "cat": "events",
+   "stage": "community",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Омичей приглашают в «Школы здоровья» учиться жить с диабетом и болезнями сердца",
+    "en": "Omsk residents invited to health schools to learn to live with diabetes and heart disease",
+    "kk": "Омск тұрғындары қант диабеті мен жүрек ауруымен өмір сүруді үйрену үшін «Денсаулық мектептеріне» шақырылады",
+    "de": "Einwohner Omsks sind eingeladen, in „Gesundheitsschulen“ den Umgang mit Diabetes und Herzerkrankungen zu lernen",
+    "es": "Se invita a los vecinos de Omsk a las «Escuelas de salud» para aprender a vivir con diabetes y enfermedades cardíacas"
+   },
+   "text": {
+    "ru": "В Омске открывают «Школы здоровья» для людей с диабетом и болезнями сердца.",
+    "en": "Health schools for people with diabetes and heart disease are being offered in Omsk.",
+    "kk": "Омскіде қант диабеті мен жүрек аурулары бар адамдарға арналған «Денсаулық мектептері» ұйымдастырылуда.",
+    "de": "In Omsk werden Gesundheitsschulen für Menschen mit Diabetes und Herzerkrankungen angeboten.",
+    "es": "En Omsk se ofrecen escuelas de salud para personas con diabetes y enfermedades cardíacas."
+   },
+   "url": "https://omskgazzeta.ru/all-news/omichej-priglashajut-v-shkoly-zdorovja-uchitsja-zhit-s-diabetom-i-boleznjami-serdca/",
+   "src": "Вечерний Омск",
+   "photoQuery": "classroom health education whiteboard",
+   "local": true,
+   "photo": {
+    "id": "u_C5GeaRZp2D4",
+    "url": "https://images.unsplash.com/photo-1676276374803-36e48196d5ac?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y2xhc3Nyb29tJTIwaGVhbHRoJTIwZWR1Y2F0aW9uJTIwd2hpdGVib2FyZHxlbnwxfDB8fHwxNzk1NzQ5NDExfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Walls.io",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-white-board-with-a-bunch-of-stickers-on-it-C5GeaRZp2D4?utm_source=dia_news&utm_medium=referral",
+    "alt": "a white board with a bunch of stickers on it"
+   },
+   "body": {
+    "ru": "В Омске набирают участников в «Школы здоровья» — групповые занятия, где пациентов учат контролировать свое состояние и предупреждать осложнения хронических болезней. О растущей популярности таких школ рассказали эксперты на пресс-конференции в Доме журналистов. Специалисты объясняют слушателям пошаговый порядок действий при управлении собственным самочувствием.\n\nДиабет входит в число таких заболеваний. В рамках направления «Борьба с сахарным диабетом» национального проекта «Продолжительная и активная жизнь» омские больницы получают современное оборудование для диагностики и лечения. Эндокринолог Городской поликлиники № 13 Марина Ступак сообщила, что школы по диабету работают каждую неделю с 2024 года. По её данным, в 2025 году такую программу прошли 670 омичей, а к ноябрю текущего года — 616.\n\nВ Школе здоровья при Клиническом кардиологическом диспансере занимаются профилактикой сердечно-сосудистых болезней. Адресована она людям, перенесшим инфаркт миокарда и другие опасные для жизни состояния. Заведующая дневным стационаром, кардиолог Юлия Юхина, отметила, что на каждое занятие приходят 20–30 человек: они осваивают теорию, учатся измерять давление и выполнять дыхательную гимнастику. Записываться заранее не нужно. В диспансере скоро откроются ещё две школы — об отказе от курения и о работе со стрессом.\n\nДля пациентов с бронхиальной астмой и ХОБЛ действует школа в Городской поликлинике № 4: там учат пользоваться ингаляторами и контролировать свое состояние. В материале не указано, как записаться в этих школах и во сколько они обходятся.",
+    "en": "Omsk residents are being invited to \"Health Schools\" — group classes where patients learn to keep track of their condition and prevent complications of chronic illnesses. Experts described the growing popularity of these classes at a press conference held at the House of Journalists in Omsk. Specialists walk participants through a step-by-step routine for managing their own well-being.\n\nDiabetes is one of the conditions covered. Under the \"Fight against diabetes\" component of the national project \"Long and Active Life,\" Omsk hospitals are receiving modern diagnostic and treatment equipment. Marina Stupak, an endocrinologist at City Polyclinic No. 13, said diabetes schools have run every week since 2024. She reported that 670 Omsk residents completed one in 2025, and 616 had done so as of November this year.\n\nAt the Clinical Cardiology Dispensary, the Health School focuses on preventing cardiovascular disease and is aimed at people who have already had a heart attack or another life-threatening event. Yulia Yukhina, head of the day ward and a cardiologist, said 20–30 people attend each session, where they learn the theory and practise measuring blood pressure and doing breathing exercises. No advance registration is needed. Two more schools are due to open at the dispensary soon, on quitting smoking and on managing stress.\n\nFor patients with bronchial asthma and COPD, City Polyclinic No. 4 runs its own school, teaching inhaler technique and self-monitoring. The article does not say how to enrol in these schools or what they cost.",
+    "kk": "Омбы тұрғындарын «Денсаулық мектептеріне» шақырады — бұл топтық сабақтар, онда науқастар өз жай-күйін бақылауды және созылмалы аурулардың асқынуын алдын алуды үйренеді. Танымал бола бастаған мұндай мектептер туралы сарапшылар Омбы журналистер үйінде өткен баспасөз конференциясында айтты. Мамандар қатысушыларға өз денсаулығын басқарудың қадамдық тәртібін түсіндіреді.\n\nДиабет — осындай аурулардың бірі. «Ұзақ және белсенді өмір» ұлттық жобасының «Қант диабетімен күрес» бағыты аясында омбы ауруханаларына диагностика мен емдеуге арналған заманауи жабдық беріліп жатыр. №13 Қалалық емхананың эндокринологы Марина Ступак 2024 жылдан бері диабет мектептерінің апта сайын өтіп келе жатқанын хабарлады. Оның мәліметінше, 2025 жылы мұндай мектептен 670 омбылық өтсе, биылғы қарашаға қарай бұл көрсеткіш 616 адамға жетті.\n\nКлиникалық кардиологиялық диспансердегі «Денсаулық мектебі» жүрек-қан тамыр ауруларының алдын алумен айналысады. Ол миокард инфарктісін және өмірге қауіп төндіретін басқа жағдайды бастан кешірген адамдарға арналған. Күндізгі стационар меңгерушісі, кардиолог Юлия Юхина әр сабаққа 20–30 адам келетінін айтты: олар теориямен танысып қана қоймай, қан қысымын өлшеуді және тыныс алу жаттығуларын үйренеді. Алдын ала жазылу қажет емес. Диспансерде жақын арада темекіден бас тарту және стресспен жұмыс істеу туралы тағы екі мектеп ашылмақ.\n\nБронхиалды астма және ӨСОА бар науқастар үшін №4 Қалалық емханада өз мектебі жұмыс істейді: мұнда ингаляторды дұрыс қолдануды және өз жағдайын бақылауды үйретеді. Материалда бұл мектептерге қалай жазылуға болатыны және олардың оқу ақысы туралы ақпарат жоқ.",
+    "de": "In Omsk werden Einwohner in die „Gesundheitsschulen“ eingeladen – Gruppenkurse, in denen Patientinnen und Patienten lernen, ihren Zustand im Blick zu behalten und Komplikationen chronischer Krankheiten vorzubeugen. Bei einer Pressekonferenz im Haus der Journalisten berichteten Fachleute, dass diese Schulen immer beliebter werden. Die Spezialisten führen die Teilnehmenden Schritt für Schritt durch das Vorgehen, mit dem sie ihr eigenes Wohlbefinden steuern können.\n\nDiabetes gehört zu diesen Erkrankungen. Im Rahmen des Programms „Kampf gegen Diabetes“ des Nationalprojekts „Langes und aktives Leben“ werden Omsker Krankenhäuser mit moderner Diagnose- und Behandlungstechnik ausgestattet. Die Endokrinologin Marina Stupak von der Stadtpoliklinik Nr. 13 erklärte, dass Diabetesschulen seit 2024 wöchentlich stattfinden. Laut ihren Angaben haben 2025 670 Omsker eine solche Schule besucht, Stand November dieses Jahres waren es 616.\n\nDie Gesundheitsschule des Klinischen Kardiologischen Dispensars widmet sich der Vorbeugung von Herz-Kreislauf-Erkrankungen. Sie richtet sich an Menschen, die bereits einen Herzinfarkt oder ein anderes lebensbedrohliches Ereignis erlebt haben. Die Leiterin der Tagesklinik, Kardiologin Julia Juchina, berichtete, dass zu jeder Sitzung 20 bis 30 Personen kommen; sie lernen Theorie, üben das Messen des Blutdrucks und Atemgymnastik. Eine Anmeldung ist nicht nötig. Im Dispensar sollen bald zwei weitere Schulen öffnen – zum Rauchstopp und zum Umgang mit Stress.\n\nFür Patienten mit Asthma bronchiale und COPD gibt es eine Schule in der Stadtpoliklinik Nr. 4. Dort wird der richtige Umgang mit Inhalatoren und die Selbstkontrolle geübt. Der Artikel nennt keine Angaben dazu, wie man sich anmeldet oder was die Kurse kosten.",
+    "es": "En Omsk se invita a los vecinos a las «Escuelas de salud»: clases grupales en las que los pacientes aprenden a vigilar su estado y a prevenir complicaciones de enfermedades crónicas. Expertos explicaron en una rueda de prensa en la Casa de los Periodistas que estas escuelas son cada vez más populares. Los especialistas guían a los participantes, paso a paso, en la forma de manejar su propio bienestar.\n\nLa diabetes es una de esas enfermedades. Dentro del programa «Lucha contra la diabetes», del proyecto nacional «Vida larga y activa», los hospitales de Omsk reciben equipos modernos para diagnóstico y tratamiento. La endocrinóloga Marina Stupak, de la Policlínica Municipal n.º 13, indicó que las escuelas de diabetes funcionan cada semana desde 2024. Según sus datos, 670 habitantes de Omsk completaron una en 2025, y 616 lo habían hecho hasta noviembre de este año.\n\nLa Escuela de salud del Dispensario Clínico Cardiológico se dedica a prevenir enfermedades cardiovasculares y está dirigida a quienes ya han sufrido un infarto de miocardio u otro evento que pone en riesgo la vida. La jefa del hospital de día, la cardióloga Yulia Yujina, explicó que a cada sesión acuden entre 20 y 30 personas, que aprenden teoría y practican cómo medir la presión arterial y hacer gimnasia respiratoria. No hace falta cita previa. Pronto se abrirán en el dispensario otras dos escuelas, sobre cómo dejar de fumar y sobre el manejo del estrés.\n\nPara pacientes con asma bronquial y EPOC, la Policlínica Municipal n.º 4 tiene su propia escuela, donde se enseña la técnica de los inhaladores y el autocontrol. El artículo no informa sobre cómo inscribirse ni sobre el coste de los cursos."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Прошли школу здоровья по диабету в 2025 году (Омск)",
+      "en": "Completed a diabetes health school in 2025 (Omsk)",
+      "kk": "2025 жылы диабет денсаулық мектебінен өткендер (Омбы)",
+      "de": "Diabetes-Gesundheitsschule abgeschlossen im Jahr 2025 (Omsk)",
+      "es": "Completaron una escuela de salud de diabetes en 2025 (Omsk)"
+     },
+     "v": {
+      "ru": "670 человек",
+      "en": "670 people",
+      "kk": "670 адам",
+      "de": "670 Personen",
+      "es": "670 personas"
+     }
+    },
+    {
+     "k": {
+      "ru": "Прошли школу здоровья по диабету к ноябрю 2026 года (Омск)",
+      "en": "Completed a diabetes health school by November 2026 (Omsk)",
+      "kk": "2026 жылдың қарашасына дейін диабет денсаулық мектебінен өткендер (Омбы)",
+      "de": "Diabetes-Gesundheitsschule abgeschlossen bis November 2026 (Omsk)",
+      "es": "Completaron una escuela de salud de diabetes hasta noviembre de 2026 (Omsk)"
+     },
+     "v": {
+      "ru": "616 человек",
+      "en": "616 people",
+      "kk": "616 адам",
+      "de": "616 Personen",
+      "es": "616 personas"
+     }
+    },
+    {
+     "k": {
+      "ru": "Участников на одном занятии кардиошколы",
+      "en": "Participants per session at the cardiology school",
+      "kk": "Кардиомектептегі бір сабаққа қатысушылар",
+      "de": "Teilnehmende pro Sitzung der Kardiologieschule",
+      "es": "Participantes por sesión en la escuela de cardiología"
+     },
+     "v": {
+      "ru": "20–30 человек",
+      "en": "20–30 people",
+      "kk": "20–30 адам",
+      "de": "20–30 Personen",
+      "es": "20–30 personas"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nNXUT9vYz01",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "В Алматы за три месяца выявили почти 5,5 тыс. случаев диабета",
+    "en": "Almaty identifies nearly 5,500 diabetes cases in three months",
+    "kk": "Алматыда үш айда қант диабетінің 5,5 мыңға жуық жағдайы анықталды",
+    "de": "In Almaty wurden in drei Monaten fast 5.500 Diabetesfälle festgestellt",
+    "es": "En Almaty se detectaron casi 5.500 casos de diabetes en tres meses"
+   },
+   "text": {
+    "ru": "В Алматы за три месяца выявлено почти 5,5 тысячи случаев диабета.",
+    "en": "Almaty has detected almost 5,500 diabetes cases over three months.",
+    "kk": "Алматыда үш ай ішінде қант диабетінің 5,5 мыңға жуық жағдайы анықталды.",
+    "de": "In Almaty wurden innerhalb von drei Monaten knapp 5.500 Diabetesfälle entdeckt.",
+    "es": "En Almaty se han detectado casi 5.500 casos de diabetes en tres meses."
+   },
+   "url": "https://kz.kursiv.media/2026-11-26/lsbs-pochti-55-tys-sluchaev-diabeta-vyyavili-v-almaty-za-tri-mesyacza/",
+   "src": "Kursiv Media",
+   "photoQuery": "modern city skyline",
+   "local": true,
+   "photo": {
+    "id": "u_VLW2GjQHlgE",
+    "url": "https://images.unsplash.com/photo-1502228362178-086346ac6862?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8bW9kZXJuJTIwY2l0eSUyMHNreWxpbmV8ZW58MXwwfHx8MTc5NTc0OTQxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Spencer  Watson",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/city-skyline-near-water-VLW2GjQHlgE?utm_source=dia_news&utm_medium=referral",
+    "alt": "city skyline near water"
+   },
+   "body": {
+    "ru": "По итогам третьего квартала 2026 года в Алматы профилактическим скринингом на диабет охватили 164 496 жителей города. У 5 455 из них болезнь подтвердилась, сообщило городское управление здравоохранения. Каждого человека с подтверждённым диагнозом внесли в диспансерный реестр.\n\nТакие пациенты теперь получают постоянную помощь в поликлиниках по месту жительства: врачи отслеживают их состояние, назначают плановые обследования и необходимое лечение.\n\nМедики предупреждают, что диабет может долго развиваться почти незаметно. Ранними тревожными признаками считаются сильная жажда, сухость во рту, частое мочеиспускание и постоянная слабость, поэтому специалисты советуют проверяться регулярно, не дожидаясь явного недомогания.\n\nЭндокринолог поликлиники Алматы №36 Балауса Айтуар отметила, что раннее выявление диабета или преддиабета позволяет вовремя начать терапию и снизить риск осложнений. По её словам, в Казахстане скрининг доступен гражданам от 40 до 76 лет и проводится раз в два года. При поликлиниках работают «Школы диабета», где учат правильному питанию и контролю глюкозы в крови, а лекарства пациенты получают бесплатно в рамках ГОБМП и ОСМС.\n\nВ материале уточняется, что сам диагноз не даёт автоматического права на инвалидность: при медико-социальной экспертизе учитывают степень нарушений в работе организма, осложнения и влияние болезни на повседневную жизнь. Айтуар добавила, что при регулярном наблюдении и правильном лечении люди с диабетом сохраняют полноценное качество жизни. Ранее Минздрав сообщал о снижении заболеваемости диабетом в Казахстане. В статье не сказано, сколько из выявленных случаев были ранее неизвестны.",
+    "en": "Between July and September 2026, a preventive diabetes screening in Almaty reached 164 496 residents, and 5 455 of them received a confirmed diagnosis, the city's health department reported. Everyone with a confirmed diagnosis has been entered into the dispensary register.\n\nThese patients now receive ongoing care at their neighborhood polyclinics, where doctors track their condition, schedule routine tests and arrange the necessary treatment.\n\nMedical staff warn that diabetes can develop for a long time with few noticeable signs. Early warning signs include intense thirst, dry mouth, frequent urination and constant weakness, so specialists advise regular checkups rather than waiting until someone feels clearly unwell.\n\nBalausa Aituar, an endocrinologist at Almaty city polyclinic No. 36, stressed that catching diabetes or prediabetes early allows therapy to start in time and lowers the risk of complications. She said that in Kazakhstan screening is available to citizens aged 40 to 76 and is carried out once every two years. Polyclinics also run \"Diabetes Schools,\" where people learn healthy eating and blood glucose control, and medications are provided free under the GOBMP and OSMS systems.\n\nThe article notes that a diabetes diagnosis alone does not automatically qualify a person for disability; medico-social assessment looks at the degree of bodily impairment, complications and the effect of the illness on daily life. Aituar added that with regular follow-up and proper treatment, people with diabetes can maintain a full quality of life. The Ministry of Health had earlier reported a decline in diabetes incidence in Kazakhstan. The article does not say how many of the detected cases were previously unknown.",
+    "kk": "2026 жылдың үшінші тоқсанының қорытындысы бойынша Алматыда қант диабетіне профилактикалық скринингтен 164 496 тұрғын өтті. Олардың 5 455-інде бұл ауру расталды, деп хабарлады қаланың денсаулық сақтау басқармасы. Диагнозы расталған әрбір адам диспансерлік тізімге енгізілді.\n\nЕнді мұндай науқастар тұратын жері бойынша емханаларда үздіксіз көмек алады: дәрігерлер олардың жағдайын бақылап, жоспарлы тексерулер мен қажетті емді тағайындайды.\n\nМедиктердің айтуынша, қант диабеті ұзақ уақыт білінбей дамуы мүмкін. Алғашқы алаңдатарлық белгілер — қатты шөлдеу, ауыз құрғауы, жиі зәр шығару және үнемі әлсіреу. Сондықтан мамандар жағдай нашарлағанша күтпей, денсаулықты үнемі тексеріп тұруға кеңес береді.\n\nАлматы қалалық емханасы №36-ның эндокринологы Балауса Айтуар қант диабеті немесе преддиабетті ерте анықтау уақтылы емді бастауға мүмкіндік беріп, асқыну қаупін азайтатынын атап өтті. Оның айтуынша, Қазақстанда скрининг 40-тан 76 жасқа дейінгі азаматтарға қолжетімді және екі жылда бір рет өткізіледі. Емханалар жанында «Диабет мектептері» жұмыс істейді, онда дұрыс тамақтану мен қандағы глюкозаны бақылауды үйретеді; дәрі-дәрмектер ГОБМП және ӘМС аясында тегін беріледі.\n\nМатериалда диагноз өздігінен мүгедектік мәртебесіне құқық бermейтіні айтылады: медициналық-әлеуметтік сараптамада ағзаның бұзылу дәрежесі, асқынулар және ауруның күнделікті өмірге әсері ескеріледі. Айтуар тұрақты бақылау мен дұрыс емдеу кезінде диабеті бар адамдар толық өмір сапасын сақтай алатынын қосты. Бұған дейін Денсаулық сақтау министрлігі Қазақстанда диабет ауруының азайғанын хабарлаған болатын. Мақалада анықталған жағдайлардың қанша бөлігі бұрын белгісіз болғаны айтылмаған.",
+    "de": "Im dritten Quartal 2026 erreichte ein präventives Diabetes-Screening in Almaty 164 496 Einwohner; bei 5 455 von ihnen wurde die Krankheit bestätigt, wie die städtische Gesundheitsbehörde mitteilte. Jede Person mit bestätigter Diagnose wurde in das dispensäre Register aufgenommen.\n\nDiese Patientinnen und Patienten werden nun dauerhaft in den Polikliniken ihres Wohnorts betreut: Ärzte verfolgen ihren Zustand, planen regelmäßige Untersuchungen und sorgen für die nötige Behandlung.\n\nMedizinisches Personal warnt, dass sich Diabetes lange Zeit mit kaum spürbaren Anzeichen entwickeln kann. Erste Warnsignale sind starker Durst, trockener Mund, häufiges Wasserlassen und anhaltende Schwäche. Deshalb raten Fachleute zu regelmäßigen Checks, statt bis zu einer deutlichen Verschlechterung zu warten.\n\nBalausa Aituar, Endokrinologin an der städtischen Poliklinik Nr. 36 in Almaty, betonte, dass eine frühe Erkennung von Diabetes oder Prädiabetes einen rechtzeitigen Behandlungsbeginn ermöglicht und das Risiko von Komplikationen senkt. Laut ihr steht das Screening in Kasachstan Bürgern im Alter von 40 bis 76 Jahren offen und wird alle zwei Jahre angeboten. An den Polikliniken gibt es außerdem „Diabetesschulen“, in denen Menschen gesunde Ernährung und die Kontrolle des Blutzuckers lernen; Medikamente erhalten Patienten im Rahmen von GOBMP und OSMS kostenlos.\n\nDer Artikel stellt klar, dass die Diagnose Diabetes allein keinen automatischen Anspruch auf eine Behinderung begründet: Bei der medizinisch-sozialen Begutachtung werden das Ausmaß der Funktionsstörungen, Komplikationen und die Auswirkungen auf den Alltag berücksichtigt. Aituar fügte hinzu, dass Menschen mit Diabetes bei regelmäßiger Betreuung und richtiger Behandlung eine volle Lebensqualität bewahren können. Das Gesundheitsministerium hatte zuvor einen Rückgang der Diabetes-Erkrankungen in Kasachstan gemeldet. Der Bericht nennt nicht, wie viele der festgestellten Fälle vorher unbekannt waren.",
+    "es": "Entre julio y septiembre de 2026, un cribado preventivo de diabetes en Almaty alcanzó a 164 496 residentes; en 5 455 de ellos se confirmó la enfermedad, informó el departamento de salud de la ciudad. Todas las personas con diagnóstico confirmado fueron incluidas en el registro de dispensario.\n\nEstos pacientes reciben ahora atención continua en las policlínicas de su barrio, donde los médicos siguen su estado, programan revisiones periódicas y organizan el tratamiento necesario.\n\nLos profesionales advierten de que la diabetes puede desarrollarse durante mucho tiempo con pocos signos visibles. Las primeras señales de alarma son sed intensa, boca seca, micción frecuente y debilidad constante, por lo que los especialistas recomiendan hacerse controles periódicos en lugar de esperar a encontrarse claramente mal.\n\nBalausa Aituar, endocrinóloga de la policlínica municipal n.º 36 de Almaty, subrayó que detectar a tiempo la diabetes o el prediabetes permite iniciar la terapia a tiempo y reduce el riesgo de complicaciones. Según explicó, en Kazajistán el cribado está disponible para ciudadanos de 40 a 76 años y se realiza cada dos años. Las policlínicas también cuentan con «Escuelas de diabetes», donde se enseña alimentación saludable y control de la glucosa en sangre; los medicamentos se entregan gratuitamente dentro del GOBMP y el OSMS.\n\nEl texto aclara que el diagnóstico de diabetes, por sí solo, no da derecho automático a la discapacidad: la evaluación médico-social considera el grado de alteración del organismo, las complicaciones y el efecto de la enfermedad en la vida diaria. Aituar añadió que, con un seguimiento regular y un tratamiento adecuado, las personas con diabetes pueden mantener una calidad de vida plena. El Ministerio de Salud había informado antes de un descenso de los casos de diabetes en Kazajistán. La información no indica cuántos de los casos detectados eran desconocidos hasta ahora."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Охвачено профилактическим скринингом на диабет в Алматы (3 квартал 2026)",
+      "en": "Residents screened for diabetes in Almaty (Q3 2026)",
+      "kk": "Алматыда қант диабетіне скринингтен өткен тұрғындар (2026, 3 тоқсан)",
+      "de": "Im Diabetes-Screening erfasste Einwohner in Almaty (3. Quartal 2026)",
+      "es": "Residentes evaluados en el cribado de diabetes en Almaty (3.er trimestre de 2026)"
+     },
+     "v": {
+      "ru": "164 496",
+      "en": "164 496",
+      "kk": "164 496",
+      "de": "164 496",
+      "es": "164 496"
+     }
+    },
+    {
+     "k": {
+      "ru": "У скольких жителей подтвердился диагноз диабета",
+      "en": "Residents with a confirmed diabetes diagnosis",
+      "kk": "Диабет диагнозы расталған тұрғындар саны",
+      "de": "Einwohner mit bestätigter Diabetes-Diagnose",
+      "es": "Residentes con diagnóstico confirmado de diabetes"
+     },
+     "v": {
+      "ru": "5 455",
+      "en": "5 455",
+      "kk": "5 455",
+      "de": "5 455",
+      "es": "5 455"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст и периодичность скрининга в Казахстане",
+      "en": "Screening age range and frequency in Kazakhstan",
+      "kk": "Қазақстандағы скринингтің жас ауқымы және жиілігі",
+      "de": "Altersspanne und Häufigkeit des Screenings in Kasachstan",
+      "es": "Franja de edad y frecuencia del cribado en Kazajistán"
+     },
+     "v": {
+      "ru": "от 40 до 76 лет, раз в два года",
+      "en": "ages 40 to 76, once every two years",
+      "kk": "40-тан 76 жасқа дейін, екі жылда бір рет",
+      "de": "40 bis 76 Jahre, alle zwei Jahre",
+      "es": "de 40 a 76 años, cada dos años"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nakk_b2M9NQ",
+   "cat": "access",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "У правозащитника Бахрома Хамроева, страдающего диабетом, в колонии изъяли лекарства",
+    "en": "Medicines confiscated in prison from rights defender Bakhrom Khamroev, who has diabetes",
+    "kk": "Қант диабетімен ауыратын құқық қорғаушы Бахром Хамроевтен колонияда дәрілер алынып қойылған",
+    "de": "Bei dem an Diabetes erkrankten Menschenrechtler Bachrom Chamroew wurden in einer Strafkolonie Medikamente beschlagnahmt",
+    "es": "Se confiscaron medicamentos al defensor de derechos humanos Bakhrom Jamroev, que padece diabetes, en una colonia penal"
+   },
+   "text": {
+    "ru": "В колонии у правозащитника с диабетом изъяли лекарства, необходимые для лечения.",
+    "en": "Medicines needed to treat his diabetes were taken from a human rights defender in a penal colony.",
+    "kk": "Колонияда қант диабеті бар құқық қорғаушыдан емдеуге қажетті дәрілер алынған.",
+    "de": "In einer Strafkolonie wurden einem Menschenrechtler mit Diabetes die zur Behandlung nötigen Medikamente abgenommen.",
+    "es": "En una colonia penal se retiraron al defensor de derechos humanos, que tiene diabetes, los medicamentos necesarios para su tratamiento."
+   },
+   "url": "https://ovd.info/express-news/2026/11/26/u-pravozashchitnika-bakhroma-khamroeva-stradayushchego-diabetom-v-kolonii",
+   "src": "ОВД-Инфо",
+   "photoQuery": "medicine pills bottle",
+   "photo": {
+    "id": "u_w8p9cQDLX7I",
+    "url": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8bWVkaWNpbmUlMjBwaWxscyUyMGJvdHRsZXxlbnwxfDB8fHwxNzk1NzQ5NDEyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Towfiqu barbhuiya",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/colorful-pills-spilling-from-orange-bottle-w8p9cQDLX7I?utm_source=dia_news&utm_medium=referral",
+    "alt": "colorful pills spilling from orange bottle"
+   },
+   "body": {
+    "ru": "26 ноября ОВД-Инфо сообщил, что сотрудники ИК-18 «Полярная сова» в поселке Харп изъяли лекарства у правозащитника Бахрома Хамроева, у которого диабет. Это произошло во время обыска в его камере. Сведения передал математик Азат Мифтахов, отбывающий срок в той же колонии: он рассказал об этом перед заседанием суда Ямало-Ненецкого автономного округа, подключившись по видеосвязи. Сразу после его слов сотрудник суда отключил трансляцию.\n\nЗа несколько дней до этого, 22 ноября, Хамроев обнаружил, что из его Корана вырвана страница. Он содержится в камерном помещении в одиночестве, поэтому, по данным издания, другие заключенные не могли попасть в его камеру. Администрация сначала заявила, что по записям камер никто не заходил, а позже сказала, что, возможно, хотели проверить его реакцию. На следующий день страницу вклеили обратно и вернули книгу.\n\nВо время обыска Хамроева заперли в душевой, хотя заключенный должен присутствовать при такой проверке. У него забрали еду и письменные принадлежности, которые по состоянию здоровья ему разрешено держать при себе. Помимо диабета, у правозащитника повышенное давление. Ранее колония не выдавала ему личные глюкометр и тонометр и не передавала лекарства от родственников.\n\nВ июне Хамроева на 15 суток отправили в ШИЗО после одиночного пикета, в ходе которого он требовал показать ему Мифтахова, рассказывавшего о пытках в колонии. В мае 2023 года его осудили на 14 лет, в апелляции срок сократили до 13 лет и девяти месяцев. Более 30 лет он помогал трудовым мигрантам; по данным издания, его преследование связано с публикациями в соцсетях и помощью фигурантам дел «Хизб ут-Тахрир». «Мемориал» признал его политзаключенным. В материале не сказано, как колония ответила на изъятие лекарств и что будет дальше; сведения основаны на словах Мифтахова, переданных SOTAvision.",
+    "en": "On 26 November, OVD-Info reported that staff at penal colony IK-18 \"Polar Owl\" in the settlement of Kharp had confiscated medicines from human rights defender Bahrom Khamroev, who has diabetes, during a search of his cell. The account came from mathematician Azat Miftakhov, who is serving his sentence in the same colony. He spoke before a court hearing in the Yamal-Nenets Autonomous Okrug, joining by video link, and a court employee disconnected the broadcast right after he mentioned the incident.\n\nA few days earlier, on 22 November, Khamroev found that a page had been torn out of his Quran. He is held alone in a cell-type unit, so, according to the outlet, other prisoners could not have reached his cell. Staff first said surveillance footage showed no one had entered, then said he may simply have been tested to see how he would react. The next day, the page was glued back in and the book returned to him.\n\nDuring the search, Khamroev was locked in a shower, although a prisoner is supposed to be present at such inspections. His food and writing materials, which he is allowed to keep with him for health reasons, were taken. Besides diabetes, he has high blood pressure. The colony had earlier not issued him his personal glucose meter and blood pressure monitor, and had not passed on medicines sent by relatives.\n\nIn June, Khamroev was sent to a punishment isolation cell (ШИЗО) for 15 days after a solo picket in which he demanded to see Miftakhov, who had reported torture in the colony. In May 2023 he was sentenced to 14 years; on appeal the term was cut to 13 years and nine months. For more than 30 years he helped migrant workers. The outlet says his prosecution is linked to social media posts and to legal aid for defendants in Hizb ut-Tahrir cases. Memorial recognizes him as a political prisoner. The article does not say how the colony responded to the seizure or what comes next, and its account rests on Miftakhov's words as relayed by SOTAvision.",
+    "kk": "2026 жылғы 26 қарашада ОВД-Інфо Харп кентіндегі «Полярная сова» ИК-18 колониясының қызметкерлері құқық қорғаушы Бахром Хамроевтің дәрі-дәрмектерін камерасын тінту кезінде алып қойғанын хабарлады. Бұл мәліметті сол колонияда жазасын өтеп жатқан математик Азат Мифтахов айтты; ол Ямал-Ненец автономиялық округінің сотындағы отырыс алдында бейнебайланыс арқылы қосылып сөйледі. Ол оқиға туралы айтқаннан кейін сот қызметкері трансляцияны бірден өшірді.\n\nОсыдан бірнеше күн бұрын, 22 қарашада, Хамроев серуеннен оралғанда Құранынан бір бет жұлынып алынғанын байқаған. Ол камералық типтегі бөлімде жалғыз отырғандықтан, басылымның хабарлауынша, басқа сотталушылар оның камерасына кіре алмаған. Әкімшілік алдымен бейне бақылау жазбаларында ешкімнің кірмегені көрінеді деді, кейін оның әрекетін тексергісі келген болуы мүмкін деп түсіндірді. Келесі күні бетті қайта желімдеп, кітапты оған қайтарған.\n\nТінту кезінде Хамроевты душқа қамап тастаған, ал сотталушы мұндай тексеруде міндетті түрде болуы керек. Денсаулығына байланысты өзімен бірге ұстауға рұқсат етілген тамақ пен жазу құралдарын алып қойған. Диабеттен бөлек, оның қан қысымы да жоғары. Бұған дейін колония оған жеке глюкометр мен тонометр бермеген, туыстары жіберген дәрілерді де тапсырмаған.\n\nМаусымда Хамроев Мифтаховты көруді талап етіп жеке пикет өткізгеннен кейін, 15 тәулікке ШІЗО-ға жіберілген; Мифтахов колониядағы азаптау туралы хабарлаған болатын. 2023 жылдың мамырында оған 14 жыл берілген, апелляцияда мерзім 13 жыл 9 айға қысқартылған. Ол 30 жылдан astam уақыт еңбек мигранттарына көмектескен. Басылымның айтуынша, оның қудалануы әлеуметтік желідегі жазбаларымен және «Хизб ут-Тахрир» істері бойынша сотталушыларға заңдық көмегімен байланысты. «Мемориал» оны саяси тұтқын деп таныған. Мәтінде колонияның алып қоюға қалай жауап бергені және одан әрі не болатыны айтылмайды; деректер Мифтаховтың SOTAvision арқылы таратылған сөзіне сүйенеді.",
+    "de": "Am 26. November meldete OVD-Info, dass Mitarbeiter der Strafkolonie IK-18 „Polarische Eule“ im Ort Charp dem Menschenrechtler Bahrom Chamroew, der an Diabetes leidet, bei einer Durchsuchung seiner Zelle Medikamente abgenommen haben. Die Angaben stammen vom Mathematiker Asat Miftachow, der in derselben Kolonie seine Strafe verbüßt. Er äußerte sich kurz vor einer Gerichtsverhandlung im Autonomen Kreis der Jamal-Nenzen, zu der er per Video zugeschaltet war. Unmittelbar nachdem er den Vorfall erwähnt hatte, unterbrach ein Gerichtsmitarbeiter die Übertragung.\n\nEinige Tage zuvor, am 22. November, bemerkte Chamroew nach seinem Morgenspaziergang, dass eine Seite aus seinem Koran herausgerissen worden war. Da er allein in einem Zellentrakt untergebracht ist, konnten laut dem Bericht andere Häftlinge seine Zelle nicht betreten. Die Verwaltung erklärte zunächst, Überwachungsaufnahmen zeigten, dass niemand hineingegangen sei; später hieß es, man habe womöglich nur seine Reaktion prüfen wollen. Am folgenden Tag klebten Mitarbeiter die Seite wieder ein und gaben ihm das Buch zurück.\n\nWährend der Durchsuchung sperrte man Chamroew in eine Dusche, obwohl ein Häftling bei solchen Kontrollen anwesend sein muss. Man nahm ihm Lebensmittel und Schreibmaterial ab, die er aus gesundheitlichen Gründen ständig bei sich behalten darf. Neben Diabetes hat er einen hohen Blutdruck. Zuvor hatte ihm die Kolonie weder ein eigenes Blutzuckermessgerät und Blutdruckmessgerät ausgehändigt noch Medikamente weitergeleitet, die Angehörige geschickt hatten.\n\nIm Juni wurde Chamroew nach einem Einzelpicket, bei dem er verlangte, Miftachow zu sehen, der über Folter in der Kolonie berichtet hatte, für 15 Tage in einen Strafisolator (ШИЗО) gebracht. Im Mai 2023 wurde er zu 14 Jahren verurteilt; in der Berufung wurde die Strafe auf 13 Jahre und neun Monate verkürzt. Über 30 Jahre lang unterstützte er Arbeitsmigranten. Laut dem Bericht hängt seine Verfolgung mit Beiträgen in sozialen Netzwerken und rechtlicher Hilfe für Angeklagte in „Hizb ut-Tahrir“-Verfahren zusammen. Die Organisation Memorial erkennt ihn als politischen Gefangenen an. Der Text sagt nicht, wie die Kolonie auf die Beschlagnahme reagiert hat oder welche Schritte folgen; die Angaben beruhen auf Miftachows Schilderung, die SOTAvision verbreitete.",
+    "es": "El 26 de noviembre, OVD-Info informó de que funcionarios de la colonia penal IK-18 «Polyarnaya Sova», en el poblado de Kharp, confiscaron medicamentos al defensor de derechos humanos Bahrom Jamroev, que padece diabetes, durante el registro de su celda. El relato lo dio el matemático Azat Miftakhov, que cumple condena en la misma colonia, antes de una audiencia judicial en el Okrug Autónomo de Yamalo-Nenets. Miftakhov participó por videoconferencia y, justo después de mencionar lo ocurrido, un empleado del tribunal desconectó la transmisión.\n\nUnos días antes, el 22 de noviembre, Jamroev notó al volver de su paseo matutino que le habían arrancado una página del Corán. Como está alojado solo en una unidad de régimen celular, según el medio otros presos no podían acceder a su celda. Primero, la administración dijo que las cámaras no mostraban a nadie entrando; después sostuvo que quizá solo quisieron ver cómo reaccionaba. Al día siguiente, el personal volvió a pegar la página y le devolvió el libro.\n\nDurante el registro, encerraron a Jamroev en una ducha, aunque el preso debe estar presente en estas inspecciones. Le quitaron comida y material de escritura, que por motivos de salud tiene permitido conservar consigo. Además de la diabetes, sufre hipertensión. Antes, la colonia no le había entregado su glucómetro y tensiómetro personales ni le había pasado medicamentos enviados por sus familiares.\n\nEn junio, tras un piquete individual en el que exigió ver a Miftakhov, quien había denunciado torturas en la colonia, fue enviado durante 15 días a un aislamiento disciplinario (ШИЗО). En mayo de 2023 fue condenado a 14 años; en apelación la pena se redujo a 13 años y nueve meses. Durante más de 30 años ayudó a trabajadores migrantes. Según el medio, su persecución se relaciona con publicaciones en redes sociales y con asistencia legal a acusados en casos de Hizb ut-Tahrir. Memorial lo reconoce como preso político. El texto no informa de la respuesta de la colonia a la confiscación ni de los próximos pasos; la información se basa en el relato de Miftakhov difundido por SOTAvision."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Срок после апелляции",
+      "en": "Sentence after appeal",
+      "kk": "Апелляциядан кейінгі мерзім",
+      "de": "Strafe nach der Berufung",
+      "es": "Condena tras la apelación"
+     },
+     "v": {
+      "ru": "13 лет 9 месяцев",
+      "en": "13 years 9 months",
+      "kk": "13 жыл 9 ай",
+      "de": "13 Jahre und 9 Monate",
+      "es": "13 años y 9 meses"
+     }
+    },
+    {
+     "k": {
+      "ru": "Срок в ШИЗО в июне",
+      "en": "Punishment cell term in June",
+      "kk": "Маусымдағы ШІЗО мерзімі",
+      "de": "Strafisolationshaft im Juni",
+      "es": "Aislamiento disciplinario en junio"
+     },
+     "v": {
+      "ru": "15 суток",
+      "en": "15 days",
+      "kk": "15 тәулік",
+      "de": "15 Tage",
+      "es": "15 días"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nRjM_b2M9NQ",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Фастфуд, энергетики и диабет: тревожные цифры по Казахстану",
+    "en": "Fast food, energy drinks and diabetes: alarming figures for Kazakhstan",
+    "kk": "Фастфуд, энергетикалық сусындар және қант диабеті: Қазақстан бойынша алаңдатарлық көрсеткіштер",
+    "de": "Fast Food, Energy Drinks und Diabetes: alarmierende Zahlen für Kasachstan",
+    "es": "Comida rápida, bebidas energéticas y diabetes: cifras preocupantes en Kazajistán"
+   },
+   "text": {
+    "ru": "Публикация приводит статистику о связи фастфуда и энергетиков с диабетом в Казахстане.",
+    "en": "A report presents figures on the link between fast food, energy drinks and diabetes in Kazakhstan.",
+    "kk": "Жарияланымда фастфуд пен энергетикалық сусындардың қант диабетімен байланысы туралы Қазақстан бойынша деректер берілген.",
+    "de": "Ein Bericht nennt Zahlen zum Zusammenhang zwischen Fast Food, Energy Drinks und Diabetes in Kasachstan.",
+    "es": "Un informe presenta cifras sobre la relación entre la comida rápida, las bebidas energéticas y la diabetes en Kazajistán."
+   },
+   "url": "https://dknews.kz/ru/ekonomika/411709-fastfud-energetiki-i-diabet-trevozhnye-cifry-po",
+   "src": "DKNews.kz",
+   "photoQuery": "energy drink cans and burger",
+   "local": true,
+   "photo": {
+    "id": "u_siNtCOsj2iI",
+    "url": "https://images.unsplash.com/photo-1578619918896-128ac25d1a86?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8ZW5lcmd5JTIwZHJpbmslMjBjYW5zJTIwYW5kJTIwYnVyZ2VyfGVufDF8MHx8fDE3OTU3NDk0MTN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Erik Mclean",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/monster-energy-drink-can-siNtCOsj2iI?utm_source=dia_news&utm_medium=referral",
+    "alt": "Monster Energy drink can"
+   },
+   "body": {
+    "ru": "Казахстан готовится ужесточить меры против нездорового питания на фоне роста детского диабета. Общественники хотят полностью запретить энергетики, а Минздрав намерен ограничить рекламу фастфуда и сладких напитков. По данным ведомства, 23,2% детей в возрасте от 5 до 9 лет имеют избыточный вес.\n\nВ ноябре общественное объединение «Союз отцов» запустило петицию о полном запрете энергетиков: речь о производстве, коммерческом ввозе и продаже вне зависимости от возраста покупателя. Продажа энергетиков лицам младше 21 года запрещена с 1 января 2025 года, но авторы инициативы считают эту норму недостаточной. По поручению президента Минздрав подготовил законопроекты, которые ограничат продвижение продуктов с высоким содержанием сахара, соли, насыщенных жиров и трансжиров на ТВ, радио, в соцсетях и наружной рекламе. Запрет на продажу самого фастфуда пока не обсуждается.\n\nЗаболеваемость сахарным диабетом среди детей до 14 лет за пять лет выросла с 15 до 22,9 случая на 100 тыс. населения; среди подростков 15–17 лет — с 24,8 в 2021 году до 37,1 в 2025-м. В 2025 году у 1 104 несовершеннолетних до 18 лет зафиксирован диабет 2-го типа, у 237 — впервые. В материале отмечается, что общий рост нельзя объяснить только питанием, ведь диабет 1-го типа имеет аутоиммунную природу.\n\nРазрыв между городом и селом заметен: ожирение у подростков — 100,6 случая на 100 тыс. в городах и 52,5 в сельской местности. Лидирует Шымкент (310), а в Туркестанской области — 18,9, то есть разница более чем в 16 раз. Статья предупреждает, что городские цифры могут отчасти отражать лучшую диагностику, а такие контрасты ставят вопросы к охвату профосмотрами. По концепции «Дети Казахстана» на 2026–2030 годы энергетики употребляют 42,6% подростков.\n\nДетское ожирение несёт долгосрочные расходы для системы здравоохранения, а производителям напитков и ресторанным сетям, возможно, придётся менять рекламу и ассортимент, если меры примут. Итоговый эффект, по тексту, будет зависеть не только от новых законов, но и от соблюдения уже действующих правил.",
+    "en": "Kazakhstan is preparing stricter steps against unhealthy eating amid rising childhood diabetes. Public activists want energy drinks fully banned, while the Ministry of Health plans to limit advertising of fast food and sweet drinks. Ministry data show 23.2% of children aged 5 to 9 are overweight.\n\nIn November, the public association \"Union of Fathers\" launched a petition for a complete ban on energy drinks, covering production, commercial import and sale regardless of buyer age. Sales to under-21s have been prohibited since 1 January 2025, but the petition's authors consider that rule insufficient. Following a presidential instruction, the Health Ministry drafted bills restricting promotion of foods high in sugar, salt, saturated fats and trans fats on TV, radio, social media and outdoor advertising. A ban on selling fast food itself is not currently under discussion.\n\nDiabetes incidence among children under 14 rose from 15 to 22.9 cases per 100,000 people over five years; among 15–17-year-olds it climbed from 24.8 in 2021 to 37.1 in 2025. In 2025, 1,104 under-18s were registered with type 2 diabetes, 237 of them for the first time. The article notes that the overall rise cannot be explained by diet alone, since type 1 diabetes has an autoimmune origin.\n\nUrban-rural gaps stand out. Teen obesity stood at 100.6 cases per 100,000 in cities versus 52.5 in rural areas. Shymkent leads with 310, while Turkestan region recorded 18.9, a difference of more than 16 times. The article cautions that urban figures may partly reflect better diagnostics, and that such contrasts raise questions about screening coverage. According to the \"Children of Kazakhstan\" concept for 2026–2030, 42.6% of teens consume energy drinks.\n\nChildhood obesity carries long-term costs for the health system, and beverage makers and restaurant chains may have to change their advertising and product ranges if the measures pass. According to the text, the outcome will depend as much on enforcing existing rules as on the new legislation.",
+    "kk": "Қазақстан бала арасындағы қант диабетінің өсуі аясында зиянды тамақтануға қарсы қатаң шараларды дайындап жатыр. Қоғам белсенділері энергетик сусындарға толық тыйым салуды ұсынып отыр, ал Денсаулық сақтау министрлігі фастфуд пен тәтті сусындардың жарнамасын шектегісі келеді. Министрлік деректері бойынша 5–9 жас аралығындағы балалардың 23,2%-ында артық салмақ бар.\n\nҚараша айында \"Әкелер одағы\" қоғамдық бірлестігі энергетиктерге толық тыйым салуды талап ететін петиция бастады: бұл өндіруге, коммерциялық әкелуге және сатуға қатысты, сатып алушының жасына қарамастан. Энергетиктерді 21 жасқа толмағандарға сатуға 2025 жылғы 1 қаңтардан бастап тыйым салынған, бірақ петиция авторлары бұл ережені жеткіліксіз деп санайды. Президенттің тапсырмасына сәйкес, Денсаулық сақтау министрлігі қант, тұз, қаныққан майлар мен транс-майлар көп өнімдердің жарнамасын теледидар, радио, әлеуметтік желілер және сыртқы жарнамада шектейтін заң жобаларын дайындады. Фастфуд сатуға тыйым салу мәселесі әзірге талқыланбайды.\n\n14 жасқа дейінгі балалар арасында қант диабетінің жағдайлары бес жылда 100 мың адамға шаққанда 15-тен 22,9-ға дейін өсті; 15–17 жас аралығындағы жасөспірімдерде ол 2021 жылы 24,8 болса, 2025 жылы 37,1 болды. 2025 жылы 18 жасқа дейінгі 1 104 адамда 2-түрдегі диабет тіркелді, оның 237-і алғаш рет анықталды. Материалда жалпы өсімді тек тамақтанумен түсіндіру мүмкін еместігі айтылады, өйткені 1-түрдегі диабеттің табиғаты аутоиммундық.\n\nҚала мен ауыл арасындағы айырмашылық байқалады: жасөспірімдердегі семіздік қалада 100,6, ауылда 52,5 жағдай (100 мың адамға). Шымкент көш бастайды (310), ал Түркістан облысында — 18,9, яғни айырмашылық 16 реттен асады. Материалда қалалық көрсеткіштердің бір бөлігі диагностиканың жақсаруына байланысты болуы мүмкін екені ескертіледі, ал мұндай контраст тексеру қамтуына қатысты сұрақтар туғызады. \"Қазақстан балалары\" тұжырымдамасы бойынша (2026–2030) жасөспірімдердің 42,6%-ы энергетик ішеді.\n\nБалалар семіздігі денсаулық сақтау жүйесіне ұзақмерзімді шығын әкеледі, ал сусын өндірушілер мен мейрамхана желілері шаралар қабылданса, жарнамасы мен ассортиментін өзгертуі мүмкін. Материалдың айтуынша, нәтиже жаңа заңдармен қатар, қолданыстағы ережелердің орындалуына да байланысты болады.",
+    "de": "Kasachstan bereitet strengere Maßnahmen gegen ungesunde Ernährung vor, während Diabetes bei Kindern zunimmt. Gesellschaftliche Aktivisten fordern ein vollständiges Verbot von Energydrinks, und das Gesundheitsministerium will die Werbung für Fast Food und süße Getränke einschränken. Laut Ministerium sind 23,2 % der Kinder im Alter von 5 bis 9 Jahren übergewichtig.\n\nIm November startete der öffentliche Verband „Union der Väter“ eine Petition für ein komplettes Verbot von Energydrinks, das Herstellung, kommerzielle Einfuhr und Verkauf unabhängig vom Alter der Käufer umfasst. Der Verkauf an unter 21-Jährige ist seit dem 1. Januar 2025 bereits verboten, doch die Initiatoren halten diese Regel für unzureichend. Auf Anweisung von Präsident Kassym-Jomart Tokajew erarbeitete das Gesundheitsministerium Gesetzentwürfe, die die Bewerbung von Produkten mit viel Zucker, Salz, gesättigten Fettsäuren und Transfetten in Fernsehen, Radio, sozialen Netzwerken und Außenwerbung begrenzen sollen. Ein Verbot des Fast-Food-Verkaufs selbst steht derzeit nicht zur Debatte.\n\nBei Kindern unter 14 Jahren stieg die Diabetes-Erkrankungsrate in fünf Jahren von 15 auf 22,9 Fälle je 100.000 Einwohner; bei 15- bis 17-Jährigen kletterte sie von 24,8 im Jahr 2021 auf 37,1 im Jahr 2025. 2025 wurden 1.104 Minderjährige unter 18 mit Typ-2-Diabetes registriert, 237 davon erstmals. Der Bericht betont, dass der Gesamtanstieg nicht allein durch Ernährung erklärt werden kann, da Typ-1-Diabetes autoimmun bedingt ist.\n\nAuffällig sind Stadt-Land- und Regionalunterschiede: Adipositas bei Jugendlichen lag in Städten bei 100,6 und auf dem Land bei 52,5 Fällen je 100.000. Spitzenreiter ist Schymkent mit 310, während die Region Turkestan 18,9 verzeichnete – ein Unterschied von mehr als dem 16-fachen. Der Artikel warnt, dass urbane Zahlen teilweise auf bessere Diagnostik zurückgehen könnten, und solche Kontraste werfen Fragen zur Reichweite von Vorsorgeuntersuchungen auf. Laut dem Konzept „Kinder Kasachstans“ für 2026–2030 konsumieren 42,6 % der Jugendlichen Energydrinks.\n\nKindliches Übergewicht verursacht langfristige Kosten für das Gesundheitssystem; Getränkehersteller und Restaurantketten müssten bei Annahme der Maßnahmen womöglich Werbung und Sortiment anpassen. Der Erfolg, so der Text, hängt nicht nur von neuen Gesetzen ab, sondern auch davon, ob bestehende Regeln eingehalten werden.",
+    "es": "Kazajistán se prepara para endurecer las medidas contra la alimentación poco saludable, en medio del aumento de la diabetes infantil. Activistas sociales piden prohibir por completo las bebidas energéticas, mientras que el Ministerio de Salud planea limitar la publicidad de comida rápida y bebidas azucaradas. Según el ministerio, el 23,2 % de los niños de 5 a 9 años tiene sobrepeso.\n\nEn noviembre, la asociación pública «Unión de Padres» lanzó una petición para prohibir totalmente las bebidas energéticas, incluida su producción, importación comercial y venta, sin importar la edad del comprador. La venta a menores de 21 años ya está prohibida desde el 1 de enero de 2025, pero los impulsores de la iniciativa consideran insuficiente esa norma. Siguiendo una instrucción del presidente Kasym-Yomart Tokáyev, el Ministerio de Salud elaboró proyectos de ley que limitarían la promoción de alimentos con alto contenido de azúcar, sal, grasas saturadas y grasas trans en televisión, radio, redes sociales y publicidad exterior. Por ahora no se plantea prohibir la venta de comida rápida en sí.\n\nEntre los niños menores de 14 años, la incidencia de diabetes subió de 15 a 22,9 casos por cada 100 000 habitantes en cinco años; entre los de 15 a 17 años pasó de 24,8 en 2021 a 37,1 en 2025. En 2025 se registraron 1 104 casos de diabetes tipo 2 en menores de 18 años, de los cuales 237 se detectaron por primera vez. El texto señala que el aumento general no puede explicarse solo por la alimentación, ya que la diabetes tipo 1 tiene origen autoinmune.\n\nLas diferencias entre ciudad y campo y entre regiones son marcadas: la obesidad adolescente fue de 100,6 por cada 100 000 en las ciudades frente a 52,5 en zonas rurales. Shymkent encabeza la lista con 310, mientras que la región de Turkestán registró 18,9, una diferencia de más de 16 veces. El artículo advierte que las cifras urbanas podrían reflejar en parte un mejor diagnóstico, y que estos contrastes plantean dudas sobre la cobertura de los chequeos preventivos. Según el concepto «Niños de Kazajistán» para 2026–2030, el 42,6 % de los adolescentes consume bebidas energéticas.\n\nLa obesidad infantil supone costes a largo plazo para el sistema de salud, y los fabricantes de bebidas y las cadenas de restaurantes podrían tener que cambiar su publicidad y su oferta si se aprueban las medidas. Según el texto, el resultado dependerá tanto de las nuevas leyes como del cumplimiento de las normas ya vigentes."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Заболеваемость диабетом у детей до 14 лет за пять лет",
+      "en": "Diabetes incidence among children under 14 over five years",
+      "kk": "14 жасқа дейінгі балалардағы диабет (бес жыл ішінде)",
+      "de": "Diabetes-Erkrankungsrate bei Kindern unter 14 Jahren in fünf Jahren",
+      "es": "Incidencia de diabetes en menores de 14 años en cinco años"
+     },
+     "v": {
+      "ru": "с 15 до 22,9 случая на 100 тыс. населения",
+      "en": "from 15 to 22.9 cases per 100,000 people",
+      "kk": "100 мың адамға шаққанда 15-тен 22,9-ға дейін",
+      "de": "von 15 auf 22,9 Fälle je 100.000 Einwohner",
+      "es": "de 15 a 22,9 casos por cada 100 000 habitantes"
+     }
+    },
+    {
+     "k": {
+      "ru": "Подростки, употребляющие энергетические напитки",
+      "en": "Teens who consume energy drinks",
+      "kk": "Энергетик ішетін жасөспірімдер",
+      "de": "Jugendliche, die Energydrinks konsumieren",
+      "es": "Adolescentes que consumen bebidas energéticas"
+     },
+     "v": {
+      "ru": "42,6%",
+      "en": "42.6%",
+      "kk": "42,6%",
+      "de": "42,6 %",
+      "es": "42,6 %"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nMUc_b2M9NQ",
+   "cat": "devices",
+   "stage": "launch",
+   "date": "2026-11-26",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Жителям Коми рассказали о создании приложения для людей с диабетом",
+    "en": "Komi residents told about a new app for people with diabetes",
+    "kk": "Коми тұрғындарына қант диабеті бар адамдарға арналған қосымша жасалғаны туралы айтылды",
+    "de": "Einwohner der Republik Komi wurden über eine neue App für Menschen mit Diabetes informiert",
+    "es": "Se informó a los habitantes de Komi sobre la creación de una aplicación para personas con diabetes"
+   },
+   "text": {
+    "ru": "В Коми рассказали о разработке приложения для людей с диабетом.",
+    "en": "Residents of the Komi Republic have been told about the development of an app for people with diabetes.",
+    "kk": "Коми Республикасында қант диабеті бар адамдарға арналған қосымшаны әзірлеу туралы айтылды.",
+    "de": "Die Bewohner der Republik Komi wurden über die Entwicklung einer App für Menschen mit Diabetes informiert.",
+    "es": "Se ha informado a los habitantes de la República de Komi sobre el desarrollo de una aplicación para personas con diabetes."
+   },
+   "url": "https://eia.media/article/society/zhitelyam-komi-rasskazali-o-sozdanii-prilozheniya-dlya-diabetikov",
+   "src": "eia.media",
+   "photoQuery": "smartphone health app screen",
+   "local": true,
+   "photo": {
+    "id": "u_hOGKh5qHNAE",
+    "url": "https://images.unsplash.com/photo-1603539947678-cd3954ed515d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8c21hcnRwaG9uZSUyMGhlYWx0aCUyMGFwcCUyMHNjcmVlbnxlbnwxfDB8fHwxNzk1NzQ5NDEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "CARTIST",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-smartphone-showing-white-medication-pill-hOGKh5qHNAE?utm_source=dia_news&utm_medium=referral",
+    "alt": "black smartphone showing white medication pill"
+   },
+   "body": {
+    "ru": "Жителям Коми сообщили о предложении депутатов создать единое государственное мобильное приложение для людей с сахарным диабетом. Информация появилась 26 ноября 2026 года.\n\nСейчас пациенты пользуются разными программами, которые, по данным публикации, не всегда надежно защищают персональную информацию. Новый сервис должен объединить дневник самоконтроля, показатели глюкозы и переписку с врачом в одном месте.\n\nОнлайн-формат позволит оформлять рецепты без очного визита в больницу, что, как отмечается, сбережет время и пациентов, и медицинских работников. Люди, которым назначен инсулин, нередко вынуждены ездить к врачу только ради бумажного рецепта.\n\nКроме того, приложение откроет специалистам доступ к данным между приемами и поможет жителям удаленных поселков получать рекомендации и рецепты на расстоянии.\n\nМатериал описывает идею как предложение депутатов. В нем не указаны сроки запуска, стоимость или этапы разработки, поэтому пока неясно, когда и будет ли приложение создано.",
+    "en": "Residents of Komi have been told about a proposal from local deputies to create a single state mobile app for people with diabetes. The report was published on 26 November 2026.\n\nPatients currently use a variety of separate programs, and according to the article these do not always keep personal information securely protected. The proposed app would bring together a self-monitoring diary, glucose readings and messages with a doctor in one place.\n\nAn online format would allow prescriptions to be issued without an in-person visit to the hospital, which the authors say would save time for both patients and medical workers. Insulin users, the article notes, often have to travel to a clinic only to collect a paper prescription.\n\nThe app would also give physicians access to data between appointments, and would help people in remote villages obtain recommendations and prescriptions from a distance.\n\nThe article presents this as a suggestion from deputies. It gives no launch date, budget, or timeline for implementation, so it is unclear when or whether the app will be developed.",
+    "kk": "Коми тұрғындарына диабеті бар адамдарға арналған бірыңғай мемлекеттік мобильді қосымша жасау туралы депутаттардың ұсынысы жөнінде хабарланды. Бұл ақпарат 2026 жылғы 26 қарашада жарияланды.\n\nҚазір пациенттер әртүрлі бөлек бағдарламаларды пайдаланады, ал мақала бойынша олар жеке деректерді әрдайым сенімді қорғамайды. Жаңа қосымша өзін-өзі бақылау күнделігін, глюкоза көрсеткіштерін және дәрігермен хат алмасуды бір жерге біріктіруі тиіс.\n\nОнлайн форматы рецепттерді ауруханаға жеке баруынсыз жазуға мүмкіндік береді; бұл пациенттер мен медицина қызметкерлерінің уақытын үнемдейтіні айтылады. Инсулин қажет адамдар көбіне қағазға басылған рецепт алу үшін ғана дәрігерге баруға мәжбүр болады.\n\nСонымен қатар қосымша дәрігерлерге қабылдаулар арасындағы деректерге қол жеткізуге беріп, алыс ауылдардың тұрғындарына қашықтан ұсыныстар мен рецепттер алуға көмектеседі.\n\nМақалада бұл депутаттардың ұсынысы ретінде сипатталған. Іске қосу мерзімі, құны немесе әзірлеу кезеңдері көрсетілмеген, сондықтан қосымша қашан және құрыла ма, ол әлі белгісіз.",
+    "de": "Den Einwohnern der Republik Komi wurde ein Vorschlag von Abgeordneten vorgestellt, eine einheitliche staatliche mobile App für Menschen mit Diabetes zu entwickeln. Die Meldung erschien am 26. November 2026.\n\nPatienten nutzen derzeit verschiedene getrennte Programme, die laut dem Bericht persönliche Daten nicht immer zuverlässig schützen. Die geplante App soll ein Selbstkontrolltagebuch, Glukosewerte und den Schriftverkehr mit dem Arzt an einem Ort zusammenführen.\n\nEin Online-Format würde es ermöglichen, Rezepte ohne Besuch in der Klinik auszustellen, was nach Angaben der Initiatoren Zeit sowohl für Patienten als auch für medizinisches Personal sparen würde. Menschen, die Insulin benötigen, müssen laut dem Artikel häufig nur für ein Papierrezept zum Arzt fahren.\n\nZudem soll die App Ärzten zwischen den Terminen Zugang zu Daten geben und Bewohnern abgelegener Dörfer helfen, Empfehlungen und Rezepte aus der Ferne zu erhalten.\n\nDer Beitrag beschreibt dies als Vorschlag der Abgeordneten. Angaben zu Starttermin, Kosten oder Entwicklungsphasen fehlen, daher ist offen, wann und ob die App entsteht.",
+    "es": "A los habitantes de Komi se les informó de una propuesta de diputados para crear una aplicación móvil estatal única para personas con diabetes. La noticia se publicó el 26 de noviembre de 2026.\n\nActualmente los pacientes usan distintos programas que, según el artículo, no siempre protegen de forma fiable los datos personales. La nueva aplicación reuniría en un solo lugar el diario de autocontrol, la información sobre glucosa y la correspondencia con el médico.\n\nEl formato en línea permitiría emitir recetas sin acudir en persona al hospital, lo que, según se indica, ahorraría tiempo tanto a los pacientes como al personal sanitario. Quienes necesitan insulina, señala el texto, a menudo tienen que desplazarse a la consulta solo para obtener una receta en papel.\n\nAdemás, la aplicación daría a los médicos acceso a los datos entre citas y ayudaría a los habitantes de pueblos alejados a recibir recomendaciones y recetas a distancia.\n\nEl texto presenta la idea como una sugerencia de los diputados. No ofrece fecha de lanzamiento, presupuesto ni plazos de desarrollo, así que no está claro cuándo o si se creará la aplicación."
+   }
+  },
   {
    "id": "nGN3P29jPTU",
    "cat": "market",
@@ -224,6 +974,79 @@ const DIA_NEWS={
       "kk": "12 апта",
       "de": "12 Wochen",
       "es": "12 semanas"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nTm4_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-25",
+   "added": "2026-11-27T03:16:48.563Z",
+   "title": {
+    "ru": "Диабет 2 типа повышает риск болезни Альцгеймера на 53%",
+    "en": "Type 2 diabetes raises Alzheimer's risk by 53%",
+    "kk": "2-типті қант диабеті Альцгеймер ауруы қаупін 53%-ға арттырады",
+    "de": "Typ-2-Diabetes erhöht das Alzheimer-Risiko um 53 Prozent",
+    "es": "La diabetes tipo 2 aumenta el riesgo de Alzheimer en un 53 %"
+   },
+   "text": {
+    "ru": "Исследование связало диабет 2 типа с повышением риска болезни Альцгеймера на 53%.",
+    "en": "A study links type 2 diabetes to a 53% higher risk of Alzheimer's disease.",
+    "kk": "Зерттеу 2-типті қант диабеті мен Альцгеймер ауруы қаупінің 53%-ға артуын байланыстырды.",
+    "de": "Eine Studie verbindet Typ-2-Diabetes mit einem um 53 Prozent erhöhten Risiko für Alzheimer.",
+    "es": "Un estudio relaciona la diabetes tipo 2 con un riesgo de Alzheimer un 53 % mayor."
+   },
+   "url": "https://gxpnews.net/2026/11/issledovanie-saharnyj-diabet-2-go-tipa-povyshaet-risk-razvitiya-bolezni-alczgejmera-na-53/",
+   "src": "Новости GxP",
+   "photoQuery": "brain scan monitor",
+   "photo": {
+    "id": "u_Wl3hAbxMF80",
+    "url": "https://images.unsplash.com/photo-1758691462668-046fd85ceac9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OHx8YnJhaW4lMjBzY2FuJTIwbW9uaXRvcnxlbnwxfDB8fHwxNzk1NzQ5NDEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Vitaly Gariev",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/doctor-examining-brain-scan-on-tablet-at-desk-Wl3hAbxMF80?utm_source=dia_news&utm_medium=referral",
+    "alt": "Doctor examining brain scan on tablet at desk"
+   },
+   "body": {
+    "ru": "25 ноября 2026 года GxP News сообщил о работе международной группы учёных из Австралии, Великобритании и Нигерии. Согласно исследованию, опубликованному в журнале Alzheimer's Research & Therapy, у людей с диабетом 2-го типа скорректированный относительный риск болезни Альцгеймера в среднем примерно на 53% выше, чем у тех, у кого этого диабета нет.\n\nИсследователи провели систематический обзор и метаанализ. Они просмотрели базы MEDLINE, CINAHL, Embase и Scopus, из 9431 найденной статьи отобрали 40 ключевых работ, которые в сумме охватывают более 27,1 млн точек данных.\n\nПо расчётам авторов, совокупная заболеваемость болезнью Альцгеймера при диабете 2-го типа составляет 4,71 случая на 1000 человеко-лет, то есть около пяти случаев. В работах на административных базах данных показатель равнялся 4,00, а при клинических данных достигал 10,24. У женщин абсолютная заболеваемость выше, чем у мужчин (3,62 против 2,76 на 1000 человеко-лет), однако относительный риск почти одинаков: 1,73 и 1,76 соответственно.\n\nАвторы заключили, что полученные оценки бремени болезни подтверждают целесообразность включения мер профилактики когнитивных нарушений в стандартное ведение пациентов с диабетом 2-го типа. Дальнейших шагов в тексте статьи не описано.",
+    "en": "On November 25, 2026, GxP News reported on work by an international team of scientists from Australia, the United Kingdom and Nigeria. According to the study, published in the journal Alzheimer's Research & Therapy, people with type 2 diabetes have an adjusted relative risk of Alzheimer's disease that is on average about 53% higher than in people without the condition.\n\nThe researchers carried out a systematic review and meta-analysis. They searched the MEDLINE, CINAHL, Embase and Scopus databases and, from 9,431 articles found, selected 40 key studies that together cover more than 27.1 million data points.\n\nBy the authors' calculations, the combined incidence of Alzheimer's disease among people with type 2 diabetes is 4.71 cases per 1,000 person-years, roughly five cases. In studies based on administrative databases the figure was 4.00, while clinical data reached 10.24. Women have higher absolute incidence than men (3.62 versus 2.76 per 1,000 person-years), but the relative risk is almost identical for both sexes: 1.73 and 1.76 respectively.\n\nThe authors concluded that these estimates of the disease burden support including measures to prevent cognitive impairment in the routine care of patients with type 2 diabetes. The article does not describe any further steps.",
+    "kk": "2026 жылғы 25 қарашада GxP News Австралия, Ұлыбритания және Нигерия ғалымдарынан құралған халықаралық топтың жұмысы туралы хабарлады. Alzheimer's Research & Therapy журналында жарияланған зерттеуге сәйкес, 2-типті қант диабеті бар адамдарда Альцгеймер ауруының түзетілген салыстырмалы қаупі орта есеппен шамамен 53%-ға жоғары, осы диабеті жоқтарға қарағанда.\n\nЗерттеушілер жүйелі шолу мен метаталдау жүргізді. Олар MEDLINE, CINAHL, Embase және Scopus деректер базаларын қарап шықты, табылған 9431 мақаladan 40 негізгі жұмысты іріктеп алды; олар жиынтығында 27,1 млн-нан астам деректер нүктесін қамтиды.\n\nАвторлардың есебі бойынша, 2-типті қант диабеті бар адамдарда Альцгеймер ауруының жиынтық аурушаңдығы 1000 адам-жылға 4,71 жағдай, яғни шамамен бес жағдай. Әкімшілік деректер базасына негізделген жұмыстарда көрсеткіш 4,00 болды, ал клиникалық деректер бойынша 10,24-ке жетті. Әйелдерде абсолюттік аурушаңдық ерлерге қарағанда жоғары (1000 адам-жылға 3,62 және 2,76), бірақ салыстырмалы қауіп екі жыныста да дерлік бірдей: сәйкесінше 1,73 және 1,76.\n\nАвторлар бұл ауыр салмақ бағалаулары 2-типті қант диабеті бар пациенттерді күнделікті емдеуге танымдық бұзылыстың алдын алу шараларын енгізуді негіздейді деп қорытындылады. Мақалада одан әрі жасалатын қадамдар сипатталмаған.",
+    "de": "Am 25. November 2026 berichtete GxP News über eine Arbeit eines internationalen Forscherteams aus Australien, Großbritannien und Nigeria. Der im Fachjournal Alzheimer's Research & Therapy veröffentlichten Studie zufolge liegt das bereinigte relative Risiko für die Alzheimer-Krankheit bei Menschen mit Typ-2-Diabetes im Schnitt um etwa 53 % über dem Wert bei Menschen ohne diese Erkrankung.\n\nDas Team führte ein systematisches Review mit Metaanalyse durch. Es durchsuchte die Datenbanken MEDLINE, CINAHL, Embase und Scopus, wählte aus 9.431 gefundenen Artikeln 40 zentrale Studien aus, die zusammen mehr als 27,1 Mio. Datenpunkte umfassen.\n\nLaut den Berechnungen der Autoren beträgt die gemeinsame Erkrankungsrate für Alzheimer bei Typ-2-Diabetes 4,71 Fälle pro 1.000 Personenjahre, also rund fünf Fälle. In Studien auf Basis administrativer Datenbanken lag der Wert bei 4,00, bei klinischen Daten erreichte er 10,24. Frauen weisen eine höhere absolute Erkrankungsrate auf als Männer (3,62 gegenüber 2,76 pro 1.000 Personenjahre), das relative Risiko ist für beide Geschlechter jedoch nahezu gleich: 1,73 bzw. 1,76.\n\nDie Autoren folgern, dass diese Schätzungen zur Krankheitslast es rechtfertigen, Maßnahmen zur Vorbeugung kognitiver Beeinträchtigungen in die übliche Versorgung von Patientinnen und Patienten mit Typ-2-Diabetes aufzunehmen. Weitere Schritte beschreibt der Artikel nicht.",
+    "es": "El 25 de noviembre de 2026, GxP News informó sobre un trabajo de un equipo internacional de investigadores de Australia, Reino Unido y Nigeria. Según el estudio, publicado en la revista Alzheimer's Research & Therapy, las personas con diabetes tipo 2 presentan un riesgo relativo ajustado de enfermedad de Alzheimer que, en promedio, es alrededor de un 53 % mayor que el de quienes no tienen esta enfermedad.\n\nLos investigadores realizaron una revisión sistemática y un metanálisis. Consultaron las bases MEDLINE, CINAHL, Embase y Scopus y, de 9.431 artículos encontrados, seleccionaron 40 estudios clave que en conjunto abarcan más de 27,1 millones de puntos de datos.\n\nSegún los cálculos de los autores, la incidencia combinada de Alzheimer entre personas con diabetes tipo 2 es de 4,71 casos por cada 1.000 personas-año, es decir, unos cinco casos. En los trabajos basados en bases administrativas la cifra fue de 4,00, mientras que con datos clínicos llegó a 10,24. La incidencia absoluta es mayor en mujeres que en hombres (3,62 frente a 2,76 por cada 1.000 personas-año), pero el riesgo relativo es casi idéntico en ambos sexos: 1,73 y 1,76, respectivamente.\n\nLos autores concluyeron que estas estimaciones de la carga de la enfermedad respaldan incluir medidas para prevenir el deterioro cognitivo en la atención habitual de los pacientes con diabetes tipo 2. El artículo no describe pasos posteriores."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Скорректированный относительный риск болезни Альцгеймера при диабете 2-го типа",
+      "en": "Adjusted relative risk of Alzheimer's disease in type 2 diabetes",
+      "kk": "2-типті қант диабетіндегі Альцгеймер ауруының түзетілген салыстырмалы қаупі",
+      "de": "Bereinigtes relatives Risiko für Alzheimer bei Typ-2-Diabetes",
+      "es": "Riesgo relativo ajustado de Alzheimer en diabetes tipo 2"
+     },
+     "v": {
+      "ru": "В среднем на 53% выше",
+      "en": "On average 53% higher",
+      "kk": "Орта есеппен 53%-ға жоғары",
+      "de": "Im Schnitt 53 % höher",
+      "es": "En promedio un 53 % mayor"
+     }
+    },
+    {
+     "k": {
+      "ru": "Совокупная заболеваемость болезнью Альцгеймера при диабете 2-го типа",
+      "en": "Pooled incidence of Alzheimer's disease in type 2 diabetes",
+      "kk": "2-типті қант диабетіндегі Альцгеймер ауруының жиынтық аурушаңдығы",
+      "de": "Gepoolte Erkrankungsrate für Alzheimer bei Typ-2-Diabetes",
+      "es": "Incidencia combinada de Alzheimer en diabetes tipo 2"
+     },
+     "v": {
+      "ru": "4,71 случая на 1000 человеко-лет",
+      "en": "4.71 cases per 1,000 person-years",
+      "kk": "1000 адам-жылға 4,71 жағдай",
+      "de": "4,71 Fälle pro 1.000 Personenjahre",
+      "es": "4,71 casos por cada 1.000 personas-año"
      }
     }
    ]
@@ -1546,766 +2369,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nHAzP29jPTU",
-   "cat": "events",
-   "stage": "campaign",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "В Новокуйбышевске Самарской области прошла Неделя борьбы с диабетом",
-    "en": "Diabetes awareness week held in Novokuybyshevsk, Samara region",
-    "kk": "Самара облысының Новокуйбышевскісінде қант диабетіне қарсы апта өтті",
-    "de": "Woche gegen Diabetes in Nowokuibyschewsk in der Region Samara",
-    "es": "Semana contra la diabetes en Novokuibyshevsk, región de Samara"
-   },
-   "text": {
-    "ru": "В Новокуйбышевске прошла Неделя борьбы с диабетом, направленная на информирование жителей о заболевании.",
-    "en": "A diabetes awareness week was held in Novokuybyshevsk to inform residents about the disease.",
-    "kk": "Новокуйбышевскіде тұрғындарды ауру туралы хабардар ету мақсатында қант диабетіне қарсы апта өтті.",
-    "de": "In Nowokuibyschewsk fand eine Woche gegen Diabetes statt, die die Bewohner über die Krankheit informieren sollte.",
-    "es": "En Novokuibyshevsk se celebró una semana contra la diabetes para informar a los residentes sobre la enfermedad."
-   },
-   "url": "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-novokuybyshevske-samarskoy-oblasti-proshla-nedelya-borby-s-diabetom/",
-   "src": "Национальные проекты России",
-   "photoQuery": "healthy vegetables on wooden table",
-   "local": true,
-   "photo": {
-    "id": "u_vpiPVLozjbM",
-    "url": "https://images.unsplash.com/photo-1610348718584-07f43528231d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHZlZ2V0YWJsZXMlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTU1NzY1MTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "engin akyurt",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/orange-and-green-vegetables-on-brown-wooden-table-vpiPVLozjbM?utm_source=dia_news&utm_medium=referral",
-    "alt": "orange and green vegetables on brown wooden table"
-   },
-   "body": {
-    "ru": "С 9 по 15 ноября в Новокуйбышевске Самарской области провели Неделю борьбы с диабетом. Городская администрация сообщила, что акция проходила в рамках задач национального проекта «Продолжительная и активная жизнь».\n\nСпециалисты новокуйбышевского отдела Самарского областного центра общественного здоровья и медицинской профилактики провели профилактические занятия для студентов третьего и четвертого курсов гуманитарно-технологического колледжа. Цель встреч заключалась в том, чтобы молодые люди лучше понимали, что такое диабет, каковы его причины и первые признаки.\n\nВ центральной библиотеке имени Пушкина жители могли пройти экспресс-анализы без предварительной записи и получить консультации медиков. Кроме того, прошла открытая лекция о современных подходах к лечению диабета, правильном питании и здоровом образе жизни.\n\nЭти мероприятия связаны с главной задачей нацпроекта: продлить жизнь граждан. К 2030 году ожидаемую продолжительность жизни планируют довести до 78 лет, а к 2036 году — до 81 года. Обновленные нацпроекты, по данным статьи, реализуются с 2025 года по решению Президента Владимира Путина; они предусматривают обновление медицинских учреждений, развитие реабилитации и цифровизацию здравоохранения.\n\nВ публикации не сказано, сколько человек приняло участие в мероприятиях, каковы были результаты экспресс-анализов и планируются ли новые акции.",
-    "en": "Between 9 and 15 November, Novokuybyshevsk in Samara Region held a Diabetes Awareness Week. The city district administration said the initiative was carried out in line with the goals of the \"Long and Active Life\" national project.\n\nSpecialists from the Novokuybyshevsk branch of the Samara Regional Centre for Public Health and Medical Prevention ran prevention classes for third- and fourth-year students at a humanitarian-technological college. The sessions aimed to help young people better understand the disease, its causes and its early signs.\n\nAt the central Pushkin library, residents could take express tests without booking ahead and receive advice from medical staff. An open lecture also covered current approaches to treating diabetes, proper nutrition and a healthy lifestyle.\n\nThese activities tie into the national project's core objective of extending citizens' lives. The target is a life expectancy of 78 years by 2030 and 81 years by 2036. According to the article, the updated national projects have been running since 2025 on the decision of President Vladimir Putin and cover upgrading medical facilities, expanding rehabilitation and digitising healthcare.\n\nThe report does not say how many people took part, what the express test results showed, or whether further events are planned.",
-    "kk": "9–15 қараша аралығында Самара облысының Новокуйбышевск қаласында диабетпен күрес аптасы өтті. Қала әкімдігінің хабарлауынша, іс-шара «Ұзақ және белсенді өмір» ұлттық жобасының міндеттеріне сай ұйымдастырылған.\n\nСамара облыстық қоғамдық денсаулық және медициналық профилактика орталығының Новокуйбышевск бөлімінің мамандары гуманитарлық-технологиялық колледждің үшінші және төртінші курс студенттеріне профилактикалық сабақтар өткізді. Кездесулердің мақсаты — жастардың аурудың не екенін, оның себептері мен алғашқы белгілерін жақсырақ түсінуіне көмектесу болды.\n\nПушкин атындағы орталық кітапханада тұрғындар алдын ала жазылмай-ақ экспресс-талдаудан өтіп, медицина қызметкерлерінен кеңес ала алды. Сонымен қатар диабетті емдеудің қазіргі тәсілдері, дұрыс тамақтану және салауатты өмір салты туралы ашық дәріс оқылды.\n\nБұл шаралар ұлттық жобаның негізгі міндетімен — азаматтардың өмір сүру ұзақтығын арттырумен байланысты. Мақсат — 2030 жылға дейін күтілетін өмір сүру жасын 78 жасқа, 2036 жылға дейін 81 жасқа жеткізу. Мақалаға сәйкес, жаңартылған ұлттық жобалар 2025 жылдан бері Ресей Президенті Владимир Путиннің шешімімен жүзеге асырылып келеді; олар медициналық мекемелерді жаңартуды, реабилитацияны дамытуды және денсаулық сақтауды цифрландыруды көздейді.\n\nХабарламада іс-шараларға қанша адам қатысқаны, экспресс-талдау нәтижелері қандай болғаны және жаңа шаралар жоспарланып жатқан-жатпағаны айтылмаған.",
-    "de": "Vom 9. bis 15. November fand in Nowokuibyschewsk im Gebiet Samara eine Woche zum Kampf gegen Diabetes statt. Die Verwaltung des städtischen Bezirks teilte mit, die Aktion sei im Sinne der Ziele des Nationalprojekts „Langes und aktives Leben“ durchgeführt worden.\n\nFachleute der Nowokuibyschewsker Abteilung des Samaraer regionalen Zentrums für öffentliche Gesundheit und medizinische Prävention hielten Präventionskurse für Studierende des dritten und vierten Studienjahres eines humanitär-technologischen Colleges ab. Ziel der Treffen war, junge Menschen besser über die Krankheit, ihre Ursachen und frühen Anzeichen zu informieren.\n\nIn der zentralen Puschkin-Bibliothek konnten Interessierte ohne vorherige Anmeldung Express-Tests machen lassen und sich von medizinischem Personal beraten lassen. Außerdem gab es einen offenen Vortrag über aktuelle Behandlungsansätze bei Diabetes, richtige Ernährung und einen gesunden Lebensstil.\n\nDiese Aktivitäten knüpfen an das zentrale Anliegen des Nationalprojekts an, die Lebensspanne der Bürger zu verlängern. Angestrebt werden eine Lebenserwartung von 78 Jahren bis 2030 und von 81 Jahren bis 2036. Laut Artikel laufen die aktualisierten Nationalprojekte seit 2025 auf Beschluss von Präsident Wladimir Putin und umfassen die Modernisierung medizinischer Einrichtungen, den Ausbau der Rehabilitation und die Digitalisierung des Gesundheitswesens.\n\nDer Bericht nennt weder die Zahl der Teilnehmenden noch die Ergebnisse der Express-Tests oder ob weitere Veranstaltungen geplant sind.",
-    "es": "Del 9 al 15 de noviembre se celebró en Novokuibishevsk, en la región de Samara, una Semana de lucha contra la diabetes. Según la administración del distrito urbano, la actividad se llevó a cabo en línea con los objetivos del proyecto nacional «Vida larga y activa».\n\nEspecialistas de la sección de Novokuibishevsk del Centro regional de salud pública y prevención médica de Samara impartieron clases preventivas a estudiantes de tercer y cuarto curso de un colegio humanitario-tecnológico. Las sesiones buscaban que los jóvenes comprendieran mejor la enfermedad, sus causas y sus primeras señales.\n\nEn la biblioteca central Pushkin, los vecinos podían hacerse pruebas express sin reservar cita previa y recibir orientación del personal sanitario. Además, hubo una conferencia abierta sobre los enfoques actuales para tratar la diabetes, la alimentación adecuada y un estilo de vida saludable.\n\nEstas actividades se vinculan con el objetivo central del proyecto nacional: alargar la vida de los ciudadanos. La meta es una esperanza de vida de 78 años para 2030 y de 81 años para 2036. Según el artículo, los proyectos nacionales actualizados se aplican desde 2025 por decisión del presidente Vladímir Putin e incluyen la modernización de centros médicos, la ampliación de la rehabilitación y la digitalización de la sanidad.\n\nLa información no indica cuántas personas participaron, qué resultados arrojaron las pruebas express ni si habrá nuevos eventos."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Даты проведения Недели борьбы с диабетом",
-      "en": "Dates of the Diabetes Awareness Week",
-      "kk": "Диабетпен күрес аптасының өткізілген мерзімі",
-      "de": "Zeitraum der Woche zum Kampf gegen Diabetes",
-      "es": "Fechas de la Semana de lucha contra la diabetes"
-     },
-     "v": {
-      "ru": "с 9 по 15 ноября",
-      "en": "9–15 November",
-      "kk": "9–15 қараша",
-      "de": "9.–15. November",
-      "es": "del 9 al 15 de noviembre"
-     }
-    },
-    {
-     "k": {
-      "ru": "Целевая ожидаемая продолжительность жизни к 2030 году",
-      "en": "Target life expectancy by 2030",
-      "kk": "2030 жылға арналған күтілетін өмір сүру ұзақтығының мақсаты",
-      "de": "Ziel-Lebenserwartung bis 2030",
-      "es": "Esperanza de vida objetivo para 2030"
-     },
-     "v": {
-      "ru": "78 лет",
-      "en": "78 years",
-      "kk": "78 жас",
-      "de": "78 Jahre",
-      "es": "78 años"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nVhZP29jPTU",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "Храп во время беременности связали с повышенным риском предиабета",
-    "en": "Snoring during pregnancy linked to higher risk of prediabetes",
-    "kk": "Жүктілік кезіндегі қорылдау преддиабет қаупінің жоғарылауымен байланыстырылды",
-    "de": "Schnarchen in der Schwangerschaft mit höherem Prädiabetes-Risiko verbunden",
-    "es": "Roncar durante el embarazo relacionado con un mayor riesgo de prediabetes"
-   },
-   "text": {
-    "ru": "Исследование связывает храп во время беременности с повышенным риском предиабета. Подробности в кратком описании не раскрыты.",
-    "en": "A study links snoring during pregnancy with a higher risk of prediabetes. Details are not given in the brief summary.",
-    "kk": "Зерттеу жүктілік кезіндегі қорылдауды преддиабет қаупінің жоғарылауымен байланыстырады. Толық мәліметтер қысқаша сипаттамада жоқ.",
-    "de": "Eine Studie verbindet Schnarchen in der Schwangerschaft mit einem höheren Prädiabetes-Risiko. Details fehlen in der kurzen Zusammenfassung.",
-    "es": "Un estudio relaciona roncar durante el embarazo con un mayor riesgo de prediabetes. La breve descripción no ofrece más detalles."
-   },
-   "url": "https://medportal.ru/mednovosti/hrap-vo-vremya-beremennosti-svyazali-s-povyshennym-riskom-predi/",
-   "src": "MedPortal.ru",
-   "photoQuery": "pregnant woman bedroom pillow",
-   "photo": {
-    "id": "u_wUY-mg4O_7s",
-    "url": "https://images.unsplash.com/photo-1758273239410-1c5b9e17679b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8cHJlZ25hbnQlMjB3b21hbiUyMGJlZHJvb20lMjBwaWxsb3d8ZW58MXwwfHx8MTc5NTU3NjUxOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Vitaly Gariev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/young-woman-lying-in-bed-with-pillow-wUY-mg4O_7s?utm_source=dia_news&utm_medium=referral",
-    "alt": "Young woman lying in bed with pillow"
-   },
-   "body": {
-    "ru": "24 ноября 2026 года портал MedPortal.ru сообщил об исследовании специалистов Университета Брауна, которое связывает храп во время беременности с повышенным риском предиабета. Гестационный диабет обычно выявляют во втором или третьем триместре, однако авторы считают, что инсулинорезистентность, главный предвестник болезни, можно обнаружить уже в первом триместре или даже до зачатия.\n\nРечь идет о синдроме обструктивного апноэ во сне: он проявляется частыми остановками дыхания во время сна и громким храпом. Из-за этих пауз организм получает меньше кислорода, хуже выводится углекислый газ, а мозг вынужден ненадолго будить человека, чтобы восстановить проходимость дыхательных путей, и качество сна заметно падает.\n\nВ исследование вошли 192 женщины на ранних сроках беременности с факторами риска апноэ: постоянным храпом и избыточным весом. Из работы намеренно исключали тех, у кого раньше был диагностирован гестационный диабет или кто уже лечился от апноэ. Качество сна оценивали в домашних условиях, а индекс инсулинорезистентности HOMA определяли по анализу крови. После корректировки данных синдром апноэ выявили у 61 женщины (32%); у них также были выше индекс инсулинорезистентности и уровень глюкозы. В среднем эти участницы были старше, имели более высокий индекс массы тела и были беременны во второй или третий раз.\n\nИсследователи отметили, что нарушения обмена глюкозы иногда встречаются и у женщин без этих факторов риска, поэтому всем будущим матерям стоит контролировать глюкозу и инсулин и следить за качеством сна. По словам ученых, скрининг на апноэ лучше проводить до зачатия, обращая внимание на повышенный ИМТ, сильный храп и дневную сонливость. Терапия, начатая поздно, в конце беременности, по их словам, будет менее эффективна для снижения риска инсулинорезистентности и диабета.\n\nСтатья описывает эти выводы как результаты одного исследования и не упоминает дальнейших исследований или планов наблюдения.",
-    "en": "On 24 November 2026, the Russian outlet MedPortal.ru reported on a study by researchers from Brown University that links snoring during pregnancy to a higher risk of prediabetes. Gestational diabetes is usually diagnosed in the second or third trimester, but the authors believe insulin resistance, the key precursor, can be detected in the first trimester or even before conception.\n\nThe condition at issue is obstructive sleep apnea syndrome, which causes frequent breathing pauses during sleep and loud snoring. These pauses reduce the oxygen the body receives and slow the removal of carbon dioxide. To reopen the airway, the brain briefly wakes the person, which markedly worsens sleep quality.\n\nThe study enrolled 192 women in early pregnancy who had risk factors for sleep apnea: persistent snoring and excess weight. Women with previously diagnosed gestational diabetes or who were already being treated for sleep apnea were deliberately excluded. Sleep quality was assessed at home, and the HOMA insulin resistance index was measured from blood tests. After adjusting the data, sleep apnea was identified in 61 women (32%), who also had higher insulin resistance and blood glucose. On average, these participants were older, had a higher body mass index, and were pregnant for the second or third time.\n\nThe researchers noted that glucose metabolism disorders sometimes occur in women without these risk factors, so all expectant mothers should monitor glucose and insulin and pay attention to sleep quality. According to the scientists, screening for sleep apnea is best done before conception, watching for signs such as high BMI, heavy snoring and daytime sleepiness. They added that treatment started late in pregnancy would be less effective at reducing the risk of insulin resistance and diabetes.\n\nThe article presents these findings as the results of a single study and does not mention further research or follow-up plans.",
-    "kk": "2026 жылғы 24 қарашада MedPortal.ru порталы Браун университетінің мамандары жүргізген зерттеу туралы хабарлады. Оның нәтижесі бойынша жүктілік кезінде ұйқыда қорылдау преддиабет қаупінің жоғарылауымен байланысты. Гестациялық диабет әдетте жүктіліктің екінші немесе үшінші триместрінде анықталады, ал авторлардың пікірінше, аурудың негізгі алдын ала белгісі — инсулинорезистенттілікті бірінші триместрде немесе тіпті жүктілікке дейін байқауға болады.\n\nМұнда ұйқының обструктивті апноэ синдромы туралы айтылады; ол ұйқыда жиі тыныс алудың тоқтауымен және қатты қорылдаумен сипатталады. Осы үзілістер ағзаға түсетін оттегінің мөлшерін азайтып, көмірқышқыл газының шығуын баяулатады. Тыныс жолдарын ашу үшін ми адамды қысқа уақытқа оятады, сондықтан ұйқының сапасы едәуір нашарлайды.\n\nЗерттеуге ерте жүктілік кезеңіндегі, апноэ қаупі бар 192 әйел қатысты: олардың қорылдауы тұрақты болған және салмағы артық болған. Бұрын гестациялық диабеті анықталған немесе апноэге емделіп жатқан әйелдер зерттеуден әдейі алынып тасталды. Ұйқы сапасы үйде бағаланды, ал HOMA инсулинорезистенттілік индексі қан талдауы арқылы өлшенді. Деректерді түзеткеннен кейін 61 әйелде (32%) ұйқының апноэ синдромы табылды; олардың инсулинорезистенттілік индексі мен қан глюкозасы да жоғары болды. Орта есеппен бұл қатысушылар басқаларға қарағанда үлкенірек, дене салмағы индексі жоғарырақ және екінші немесе үшінші рет жүкті болған.\n\nЗерттеушілер глюкоза алмасуының бұзылысы осы қауіп факторлары жоқ әйелдерде де кездесетінін атап өтті, сондықтан барлық болашақ аналар глюкоза мен инсулин деңгейін бақылап, ұйқы сапасына назар аударғаны жөн. Ғалымдардың айтуынша, апноэге скрининг жүктілікке дейін жасалғаны дұрыс; назар аударатын белгілер — жоғары дене салмағы индексі, қатты қорылдау және күндіз ұйқышылдық. Олардың ескертуінше, жүктіліктің соңында басталған ем инсулинорезистенттілік пен диабет қаупін азайтуда онша тиімді болмайды.\n\nМақалада бұл қорытындылар бір зерттеудің нәтижесі ретінде сипатталған, ал одан кейінгі зерттеулер немесе бақылау жоспарлары туралы айтылмайды.",
-    "de": "Am 24. November 2026 berichtete das russische Portal MedPortal.ru über eine Studie von Forschern der Brown University, die Schnarchen während der Schwangerschaft mit einem erhöhten Prädiabetes-Risiko in Verbindung bringt. Gestationsdiabetes wird meist im zweiten oder dritten Trimester diagnostiziert. Die Autoren halten es jedoch für möglich, die Insulinresistenz – den wichtigsten Vorboten – bereits im ersten Trimester oder sogar vor der Empfängnis zu erkennen.\n\nGemeint ist das obstruktive Schlafapnoe-Syndrom, das durch häufige Atemaussetzer im Schlaf und lautes Schnarchen gekennzeichnet ist. Die Pausen verringern die Sauerstoffzufuhr und erschweren den Abtransport von Kohlendioxid. Um die Atemwege wieder zu öffnen, weckt das Gehirn den Schlafenden kurz auf, was die Schlafqualität deutlich verschlechtert.\n\nAn der Untersuchung nahmen 192 Frauen in frühen Schwangerschaftswochen teil, die Risikofaktoren für eine Schlafapnoe aufwiesen: anhaltendes Schnarchen und Übergewicht. Frauen mit bereits diagnostiziertem Gestationsdiabetes oder mit laufender Schlafapnoe-Behandlung wurden bewusst ausgeschlossen. Die Schlafqualität wurde zu Hause erfasst, der HOMA-Index zur Insulinresistenz per Bluttest bestimmt. Nach Korrektur der Daten zeigte sich bei 61 Frauen (32 %) ein obstruktives Schlafapnoe-Syndrom; bei ihnen waren Insulinresistenz und Blutzucker ebenfalls erhöht. Diese Frauen waren im Durchschnitt älter, hatten einen höheren Body-Mass-Index und waren zum zweiten oder dritten Mal schwanger.\n\nDie Forscher betonen, dass Störungen des Glukosestoffwechsels auch bei Frauen ohne diese Risikofaktoren vorkommen. Alle werdenden Mütter sollten daher Glukose- und Insulinwerte im Blick behalten und auf ihre Schlafqualität achten. Ein Screening auf Schlafapnoe sollte idealerweise vor der Empfängnis erfolgen; zu achten ist auf Anzeichen wie hohen BMI, starkes Schnarchen und Tagesmüdigkeit. Eine erst später in der Schwangerschaft begonnene Behandlung wäre laut den Wissenschaftlern weniger wirksam, um das Risiko für Insulinresistenz und Diabetes zu senken.\n\nDer Artikel stellt diese Ergebnisse als Befunde einer einzelnen Studie dar und nennt keine weiteren Untersuchungen oder Nachbeobachtungspläne.",
-    "es": "El 24 de noviembre de 2026, el portal ruso MedPortal.ru informó sobre un estudio de investigadores de la Universidad Brown que vincula los ronquidos durante el embarazo con un mayor riesgo de prediabetes. La diabetes gestacional suele diagnosticarse en el segundo o tercer trimestre, pero los autores creen que la resistencia a la insulina, el principal precursor, puede detectarse ya en el primer trimestre o incluso antes de la concepción.\n\nSe trata del síndrome de apnea obstructiva del sueño, que provoca pausas frecuentes en la respiración durante el sueño y ronquido intenso. Esas pausas reducen el oxígeno que recibe el organismo y dificultan la eliminación del dióxido de carbono. Para reabrir las vías respiratorias, el cerebro despierta brevemente a la persona, lo que empeora notablemente la calidad del sueño.\n\nEl estudio incluyó a 192 mujeres en las primeras semanas de embarazo con factores de riesgo de apnea: ronquido persistente y exceso de peso. Se excluyó deliberadamente a quienes tenían diabetes gestacional diagnosticada previamente o recibían tratamiento para la apnea. La calidad del sueño se evaluó en casa, y el índice de resistencia a la insulina HOMA se obtuvo mediante análisis de sangre. Tras ajustar los datos, se detectó síndrome de apnea obstructiva del sueño en 61 mujeres (32 %), que también presentaban mayor resistencia a la insulina y glucemia más alta. En promedio, estas participantes eran mayores, tenían un índice de masa corporal más elevado y estaban embarazadas por segunda o tercera vez.\n\nLos investigadores señalan que las alteraciones del metabolismo de la glucosa también aparecen en mujeres sin estos factores de riesgo, por lo que todas las futuras madres deberían vigilar sus niveles de glucosa e insulina y prestar atención a la calidad de su sueño. Según los científicos, lo ideal es hacer el cribado de apnea antes de la concepción, atendiendo a señales como el IMC alto, el ronquido intenso y la somnolencia diurna. Advierten de que un tratamiento iniciado más tarde en el embarazo sería menos eficaz para reducir el riesgo de resistencia a la insulina y diabetes.\n\nEl artículo presenta estos hallazgos como resultados de un único estudio y no menciona nuevas investigaciones ni planes de seguimiento."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Участницы исследования",
-      "en": "Study participants",
-      "kk": "Зерттеу қатысушылары",
-      "de": "Studienteilnehmerinnen",
-      "es": "Participantes del estudio"
-     },
-     "v": {
-      "ru": "192 женщины на ранних сроках беременности",
-      "en": "192 women in early pregnancy",
-      "kk": "ерте жүктілік кезеңіндегі 192 әйел",
-      "de": "192 Frauen in frühen Schwangerschaftswochen",
-      "es": "192 mujeres en las primeras semanas de embarazo"
-     }
-    },
-    {
-     "k": {
-      "ru": "Выявлен синдром обструктивного апноэ во сне",
-      "en": "Obstructive sleep apnea identified",
-      "kk": "Ұйқының обструктивті апноэ синдромы анықталды",
-      "de": "Obstruktives Schlafapnoe-Syndrom festgestellt",
-      "es": "Síndrome de apnea obstructiva del sueño detectado"
-     },
-     "v": {
-      "ru": "61 женщина (32%)",
-      "en": "61 women (32%)",
-      "kk": "61 әйел (32%)",
-      "de": "61 Frauen (32 %)",
-      "es": "61 mujeres (32 %)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Обычный срок диагностики гестационного диабета",
-      "en": "Usual time for gestational diabetes diagnosis",
-      "kk": "Гестациялық диабетті әдетте анықтау мерзімі",
-      "de": "Übliche Diagnosezeit des Gestationsdiabetes",
-      "es": "Momento habitual del diagnóstico de diabetes gestacional"
-     },
-     "v": {
-      "ru": "второй или третий триместр",
-      "en": "second or third trimester",
-      "kk": "екінші немесе үшінші триместр",
-      "de": "zweites oder drittes Trimester",
-      "es": "segundo o tercer trimestre"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nBOUD9vYz01",
-   "cat": "access",
-   "stage": "report",
-   "date": "2026-11-24",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "Португалия сталкивается с нехваткой дженериков для лечения диабета",
-    "en": "Portugal faces a shortage of generic diabetes medicines",
-    "kk": "Португалияда диабетті емдеуге арналған генериктердің тапшылығы байқалуда",
-    "de": "Portugal kämpft mit einem Engpass bei Generika für Diabetes-Medikamente",
-    "es": "Portugal se enfrenta a la escasez de genéricos para tratar la diabetes"
-   },
-   "text": {
-    "ru": "Сообщается о нехватке дженериков для лечения диабета в Португалии.",
-    "en": "Reports describe a shortage of generic medicines for diabetes treatment in Portugal.",
-    "kk": "Португалияда диабетті емдеуге арналған генерик дәрілердің тапшылығы туралы хабарланады.",
-    "de": "Berichten zufolge gibt es in Portugal einen Mangel an Generika zur Behandlung von Diabetes.",
-    "es": "Se informa de una escasez de medicamentos genéricos para tratar la diabetes en Portugal."
-   },
-   "url": "https://www.theportugalnews.com/ru/ru-news/2026-11-24/portugal-faces-shortage-of-generic-diabetes-medications/1120886",
-   "src": "The Portugal News",
-   "photoQuery": "pharmacy shelves medicine boxes",
-   "local": true,
-   "photo": {
-    "id": "u_747NDboAWNY",
-    "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBzaGVsdmVzfGVufDF8MHx8fDE3OTU0ODk2NDB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Nathaniel Yeo",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/stationery-store-interior-with-greeting-cards-747NDboAWNY?utm_source=dia_news&utm_medium=referral",
-    "alt": "A bright stationery store interior with shelves of greeting cards and office supplies"
-   },
-   "body": {
-    "ru": "23 ноября 2026 года Ассоциация потребителей дженериков UMG подняла тревогу из-за затянувшейся нехватки препаратов с дапаглифлозином, действующим веществом лекарства для лечения диабета 2-го типа. Организация призвала власти Португалии немедленно вмешаться.\n\nПо словам UMG, владелец патента AstraZeneca добивается судебных запретов, которые не дали бы производителям дженериков выйти на португальский рынок. Ассоциация считает недопустимым, что рассмотрение этих дел тянется почти девять месяцев. Председатель её генеральной ассамблеи Антониу Оливейра де Андраде заявил, что задержки бьют по гражданам и госбюджету: пока дела не решены, дешевых аналогов нет, конкуренция ослаблена, а пациенты лишены более доступного варианта.\n\nСитуацию усугубляет то, что в Португалии работает только один поставщик дженерика дапаглифлозина, Teva/Ratiopharm, и его национальные запасы уже исчерпаны. Чтобы закрыть брешь, Infarmed разрешило ввоз и выдачу препаратов из Великобритании: на упаковках есть английские надписи, а для пациентов приложен листок на португальском языке. UMG одобрила этот экстренный шаг.\n\nАссоциация направила обращения регуляторам, парламентским фракциям и омбудсмену, попросив учесть последствия для устойчивости Национальной службы здравоохранения (SNS) и нагрузку на налогоплательщиков. Она намерена подключиться к делам AstraZeneca как заинтересованная сторона. По словам UMG, благоприятное решение суда увеличит число поставщиков дженериков с одного до трёх, снизит зависимость от единственной компании и усилит ценовую конкуренцию. Организация выступает от имени более 930 000 человек с диабетом, состоявших на учёте в первичной медицинской помощи Португалии к концу 2024 года.",
-    "en": "On 23 November 2026, the Generic Medicines Consumers Association (UMG) raised the alarm over a prolonged shortage of products containing dapagliflozin, the active substance in a type 2 diabetes medicine, and urged Portuguese authorities to step in immediately.\n\nAccording to UMG, AstraZeneca, which holds the patent, is seeking court injunctions that would stop generic manufacturers from entering the Portuguese market. The association considers it unacceptable that these cases have been pending for almost nine months. Its general assembly chair, António Oliveira de Andrade, said the delays hit citizens and the state budget alike: while the cases remain open, no cheaper versions are available, competition is weakened and patients lack a more affordable option.\n\nThe situation is compounded by the fact that only one dapagliflozin generic supplier operates in Portugal, Teva/Ratiopharm, and its national stock has already run out. To fill the gap, Infarmed approved importing and dispensing products from the United Kingdom, with English labelling and a Portuguese-language leaflet for patients. UMG welcomed this emergency measure.\n\nThe association has written to regulators, parliamentary groups and the ombudsman, asking them to consider the impact on the sustainability of the National Health Service (SNS) and the burden on taxpayers. It intends to join the AstraZeneca cases as an interested party. UMG argues that a favourable court ruling would raise the number of generic suppliers from one to three, reduce reliance on a single company and strengthen price competition. The group speaks on behalf of more than 930,000 people with diabetes registered in Portugal's primary care at the end of 2024.",
-    "kk": "2026 жылдың 23 қарашасында Дженериктерді тұтынушылар қауымдастығы (UMG) 2-типті диабетке арналған дәрінің белсенді заты дапаглифлозині бар препараттардың ұзаққа созылған тапшылығына алаңдаушылық білдірді және Португалия билігін бірден араласуға шақырды.\n\nUMG мәліметінше, патент иесі AstraZeneca дженерик өндірушілердің португал нарығына кіруіне жол бермейтін соттық тыйым салуларға ұмтылып жатыр. Қауымдастық бұл істердің қарастырылуы шамамен тоғыз айға созылғанын қолайсыз деп санайды. Оның бас жиналыс төрағасы Антониу Оливейра де Андраде кідірістер азаматтарға да, мемлекеттік бюджетке де соқтығатынын айтты: іс шешілмегенше арзан нұсқалар жоқ, бәсеке әлсірейді, ал пациенттердің қолжетімді таңдауы болмайды.\n\nЖағдайды күрделендіретін нәрсе — Португалияда дапаглифлозин дженериғін беретін жалғыз жеткізуші, Teva/Ratiopharm бар, ал оның ұлттық қоры қазірдің өзінде таусылған. Осы олқылықты толтыру үшін Infarmed Ұлыбританиядан препараттарды импорттауға және босатуға рұқсат берді: қаптамада ағылшын жазуы бар, пациенттерге арналған португал тіліндегі парақша қоса беріледі. UMG бұл төтенше шараны қолдады.\n\nҚауымдастық реттеушілерге, парламент фракцияларына және омбудсменге хат жолдап, Ұлттық денсаулық сақтау қызметінің (SNS) тұрақтылығына және салық төлеушілерге түсетін жүкке назар аударуды сұрады. Ол AstraZeneca істеріне мүдделі тарап ретінде қосылуды жоспарлап отыр. UMG пікірінше, соттың оң шешімі дженерик жеткізушілер санын біреуден үшке көбейтіп, бір компанияға тәуелділікті азайтады және баға бәсекесін күшейтеді. Топ 2024 жылдың соңында Португалияның бастапқы медициналық көмегінде тіркелген 930 000-нан астам диабетпен ауыратын адамның атынан сөйлейді.",
-    "de": "Am 23. November 2026 schlug die Verbrauchervereinigung für Generika (UMG) Alarm wegen eines anhaltenden Mangels an Präparaten mit Dapagliflozin, dem Wirkstoff eines Medikaments gegen Typ-2-Diabetes, und forderte die portugiesischen Behörden auf, sofort einzugreifen.\n\nLaut UMG versucht AstraZeneca als Patentinhaber, gerichtliche Verbote zu erwirken, die Generikahersteller am Eintritt in den portugiesischen Markt hindern würden. Die Vereinigung hält es für inakzeptabel, dass die Verfahren seit fast neun Monaten anhängig sind. Der Vorsitzende ihrer Generalversammlung, António Oliveira de Andrade, erklärte, die Verzögerungen träfen Bürger und Staatshaushalt gleichermaßen: Solange die Fälle offen sind, gibt es keine günstigeren Varianten, der Wettbewerb ist geschwächt, und Patienten fehlt eine erschwinglichere Option.\n\nVerschärft wird die Lage dadurch, dass in Portugal nur ein Anbieter von Dapagliflozin-Generika tätig ist, Teva/Ratiopharm, dessen nationale Bestände bereits erschöpft sind. Um die Lücke zu schließen, genehmigte Infarmed die Einfuhr und Abgabe von Präparaten aus dem Vereinigten Königreich, mit englischer Verpackungsbeschriftung und einem portugiesischsprachigen Beipackzettel für Patienten. Die UMG begrüßte diese Notfallmaßnahme.\n\nDie Vereinigung hat sich an Regulierungsbehörden, Parlamentsfraktionen und den Ombudsmann gewandt und gebeten, die Folgen für die Tragfähigkeit des Nationalen Gesundheitsdienstes (SNS) sowie die Belastung der Steuerzahler zu berücksichtigen. Sie beabsichtigt, den Verfahren von AstraZeneca als Beteiligte beizutreten. Ein günstiges Gerichtsurteil würde nach Ansicht der UMG die Zahl der Generikaanbieter von eins auf drei erhöhen, die Abhängigkeit von einem einzigen Unternehmen verringern und den Preiswettbewerb stärken. Die Organisation vertritt mehr als 930.000 Menschen mit Diabetes, die Ende 2024 in der hausärztlichen Versorgung Portugals erfasst waren.",
-    "es": "El 23 de noviembre de 2026, la Asociación de Consumidores de Medicamentos Genéricos (UMG) dio la voz de alarma por una escasez prolongada de productos con dapagliflozina, el principio activo de un medicamento para la diabetes tipo 2, y pidió a las autoridades portuguesas que intervengan de inmediato.\n\nSegún la UMG, AstraZeneca, titular de la patente, busca medidas cautelares judiciales que impidan a los fabricantes de genéricos entrar en el mercado portugués. La asociación considera inaceptable que estos casos lleven casi nueve meses pendientes. Su presidente de la asamblea general, António Oliveira de Andrade, afirmó que las demoras perjudican por igual a los ciudadanos y al presupuesto del Estado: mientras los casos sigan abiertos, no hay versiones más baratas, la competencia se debilita y los pacientes carecen de una opción más asequible.\n\nLa situación se agrava porque en Portugal solo opera un proveedor de genérico de dapagliflozina, Teva/Ratiopharm, cuyas existencias nacionales ya se han agotado. Para cubrir el hueco, Infarmed autorizó la importación y dispensación de productos procedentes del Reino Unido, con etiquetado en inglés y un prospecto para pacientes en portugués. La UMG acogió con satisfacción esta medida de emergencia.\n\nLa asociación ha enviado escritos a los reguladores, a los grupos parlamentarios y al defensor del pueblo, pidiendo que se tenga en cuenta el efecto sobre la sostenibilidad del Sistema Nacional de Salud (SNS) y la carga para los contribuyentes. Pretende sumarse a los procesos de AstraZeneca como parte interesada. Según la UMG, una sentencia favorable elevaría de uno a tres el número de proveedores de genéricos, reduciría la dependencia de una sola empresa y reforzaría la competencia en precios. La entidad habla en nombre de más de 930 000 personas con diabetes registradas en la atención primaria de Portugal a finales de 2024."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Поставщики дженерика дапаглифлозина в Португалии",
-      "en": "Dapagliflozin generic suppliers in Portugal",
-      "kk": "Португалиядағы дапаглифлозин дженеригінің жеткізушілері",
-      "de": "Anbieter von Dapagliflozin-Generika in Portugal",
-      "es": "Proveedores de genérico de dapagliflozina en Portugal"
-     },
-     "v": {
-      "ru": "один (Teva/Ratiopharm), национальные запасы исчерпаны",
-      "en": "one (Teva/Ratiopharm), national stock exhausted",
-      "kk": "біреу (Teva/Ratiopharm), ұлттық қор таусылған",
-      "de": "einer (Teva/Ratiopharm), nationale Bestände erschöpft",
-      "es": "uno (Teva/Ratiopharm), existencias nacionales agotadas"
-     }
-    },
-    {
-     "k": {
-      "ru": "Люди с диабетом, зарегистрированные в первичной помощи (конец 2024)",
-      "en": "People with diabetes registered in primary care (end of 2024)",
-      "kk": "Бастапқы медициналық көмекте тіркелген диабетпен ауыратын адамдар (2024 жылдың соңы)",
-      "de": "Menschen mit Diabetes in der hausärztlichen Versorgung (Ende 2024)",
-      "es": "Personas con diabetes registradas en atención primaria (finales de 2024)"
-     },
-     "v": {
-      "ru": "более 930 000",
-      "en": "more than 930,000",
-      "kk": "930 000-нан астам",
-      "de": "mehr als 930.000",
-      "es": "más de 930 000"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nhSQT9vYz01",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-24",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "Исследование выявило пробелы в планировании беременности у чернокожих и латиноамериканок с диабетом и гипертонией",
-    "en": "Study finds gaps in pregnancy planning care for Black and Latina women with diabetes and hypertension",
-    "kk": "Зерттеу қант диабеті мен гипертониясы бар қара нәсілді және латын американдық әйелдерге жүктілікті жоспарлау көмегінде олқылықтар бар екенін анықтады",
-    "de": "Studie zeigt Lücken in der Schwangerschaftsplanung für Schwarze und lateinamerikanische Frauen mit Diabetes und Bluthochdruck",
-    "es": "Un estudio detecta lagunas en la atención a la planificación del embarazo en mujeres negras y latinas con diabetes e hipertensión"
-   },
-   "text": {
-    "ru": "Исследование показало пробелы в медицинской помощи при планировании беременности у женщин с диабетом и гипертонией.",
-    "en": "The study shows gaps in care for pregnancy planning among women with diabetes and hypertension.",
-    "kk": "Зерттеу қант диабеті мен гипертониясы бар әйелдерге жүктілікті жоспарлау кезіндегі медициналық көмектегі олқылықтарды көрсетті.",
-    "de": "Die Studie zeigt Lücken in der medizinischen Betreuung bei der Schwangerschaftsplanung von Frauen mit Diabetes und Hypertonie.",
-    "es": "El estudio muestra lagunas en la atención médica para planificar el embarazo en mujeres con diabetes e hipertensión."
-   },
-   "url": "https://www.news-medical.net/news/20261123/Study-reveals-gaps-in-pregnancy-planning-care-for-Black-Latina-women-with-diabetes-and-hypertension.aspx",
-   "src": "News-Medical",
-   "photoQuery": "clipboard stethoscope on desk",
-   "photo": {
-    "id": "u_Y2NR5WmOPDA",
-    "url": "https://images.unsplash.com/photo-1762341112870-1eb70d45b23e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Y2xpcGJvYXJkJTIwc3RldGhvc2NvcGUlMjBvbiUyMGRlc2t8ZW58MXwwfHx8MTc5NTQ4OTY0MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Zulfugar Karimov",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/person-writing-on-clipboard-at-desk-with-laptop-Y2NR5WmOPDA?utm_source=dia_news&utm_medium=referral",
-    "alt": "Person writing on clipboard at desk with laptop"
-   },
-   "body": {
-    "ru": "Исследователи из Калифорнийского университета в Беркли провели качественное исследование, которое вышло в The Annals of Family Medicine. Оно изучает, как чернокожие и латиноамериканки с диабетом 2 типа и/или высоким давлением проходят консультирование перед беременностью и по контрацепции. Сообщение News-Medical об этих результатах появилось 23 ноября 2026 года. По данным статьи, оба состояния повышают риск осложнений беременности и непропорционально часто затрагивают чернокожих и испаноязычных женщин.\n\nКоманда опросила 32 пациентки. Согласно статье, врачи редко спрашивали их о планах на беременность, и разговор обычно возникал только тогда, когда сами женщины поднимали эту тему. Лишь одна участница с диабетом вспомнила, что обсуждала, как уровень сахара в крови может повлиять на беременность.\n\nМногие узнавали о рисках на собственном опыте: 75% тех, кто уже рожал, сообщили об осложнении беременности, например преэклампсии или гестационном диабете. Многие женщины также говорили, что испытывали давление, чтобы пользоваться контрацепцией. Женщины с высоким давлением рассказывали, что после повышенного показателя им отказывали в предпочитаемом методе, часто почти без объяснений.\n\nЖенщины, которые доверяли своим врачам, охотнее обсуждали планирование семьи и описывали более позитивное консультирование по контрацепции.\n\nКак сказано в статье, результаты указывают на необходимость подходов, ориентированных на пациента, например инструментов поддержки решений. Такие инструменты должны учитывать информационные потребности пациенток, сложность подготовки к беременности и контрацепции, а также предвзятость и дискриминацию, о которых сообщают чернокожие и латиноамериканские женщины в системе здравоохранения. Работа опубликована в The Annals of Family Medicine (2026, т. 24, № 6, с. 480–486).",
-    "en": "Researchers at the University of California, Berkeley, conducted a qualitative study published in the Annals of Family Medicine. It examines how Black and Latina women with type 2 diabetes and/or high blood pressure experience counseling before pregnancy and on contraception. News-Medical reported on the findings on November 23, 2026. According to the article, both conditions raise the risk of pregnancy complications and affect Black and Hispanic women disproportionately.\n\nThe team interviewed 32 patients. According to the article, clinicians rarely asked participants about their pregnancy goals, and these conversations usually happened only when the women raised the subject themselves. Only one participant with diabetes recalled discussing how blood sugar could affect a pregnancy.\n\nMany women learned about the risks from their own experience: 75% of those who had given birth reported a pregnancy complication, such as preeclampsia or gestational diabetes. Many also said they felt pressured to use birth control. Women with high blood pressure described being denied their preferred method after an elevated reading, often with little explanation.\n\nWomen who trusted their clinicians were more open to discussing family planning and described more positive contraceptive counseling.\n\nAs the article notes, the findings point to a need for patient-centered approaches, such as decision support tools. These tools should address patients' information needs, reflect the complexity of pre-pregnancy and contraceptive care, and take into account the bias and discrimination that Black and Latina women report in health care. The study appeared in the Annals of Family Medicine (2026, vol. 24, no. 6, pp. 480–486).",
-    "kk": "Беркли қаласындағы Калифорния университетінің зерттеушілері The Annals of Family Medicine журналында жарияланған сапалық зерттеу жүргізді. Ол диабет 2 типі және/немесе жоғары қан қысымы бар қара нәсілді және латын американдық әйелдердің жүктілікке дейінгі және контрацепция бойынша кеңес алу тәжірибесін зерттейді. News-Medical бұл нәтижелер туралы 2026 жылғы 23 қарашада хабарлады. Мақалаға сәйкес, екі ауру да жүктілік асқынуларының қаупін арттырады және қара нәсілді және испан тілді әйелдерге пропорционалды түрде жиі әсер етеді.\n\nЗерттеу 32 науқасты сұхбаттады. Мақалада айтылғанындай, дәрігерлер қатысушылардан жүктілік жоспарлары туралы сирек сұрайды, әңгіме көбіне әйелдер бұл тақырыпты өздері көтергенде ғана басталады. Диабеті бар тек бір қатысушы қан қантының жүктілікке қалай әсер етуі мүмкін екенін талқылағанын есіне түсірді.\n\nКөптеген әйелдер қауіптерді өз тәжірибесінен біледі: босанған қатысушылардың 75%-ы преэклампсия немесе гестациялық диабет сияқты жүктілік асқынуын атап өтті. Көптеген әйелдер контрацепция қолдануға қысым көрсетілгенін де айтты. Жоғары қан қысымы бар әйелдер жоғарылаған көрсеткіштен кейін өздері қалаған әдіске тыйым салынғанын, көбіне түсіндірмесіз, сипаттады.\n\nДәрігеріне сенетін әйелдер отбасын жоспарлау туралы сөйлесуге ашық болды және контрацепция бойынша кеңесті оңтайлы бағалады.\n\nМақалада атап өтілгендей, нәтижелер пациентке бағытталған тәсілдердің қажеттілігін көрсетеді, мысалы, шешім қабылдауды қолдайтын құралдар. Бұл құралдар пациенттердің ақпаратқа деген қажеттілігін қанағаттандырып, жүктілікке дейінгі және контрацепциялық күтімнің күрделілігін ескеруі керек, сондай-ақ қара нәсілді және латын американдық әйелдердің денсаулық сақтау саласындағы жеке көзқарасқа және кемсітушілікке қатысты шағымдарын ескеруі тиіс. Жұмыс The Annals of Family Medicine журналында 2026 жылы, 24-том, 6-нөмірде, 480–486 беттерде жарияланған.",
-    "de": "Forschende der University of California, Berkeley haben eine qualitative Studie durchgeführt, die in den Annals of Family Medicine erschienen ist. Sie untersucht, wie Schwarze und lateinamerikanische Frauen mit Typ-2-Diabetes und/oder Bluthochdruck Beratung vor einer Schwangerschaft und zur Empfängnisverhütung erleben. News-Medical berichtete am 23. November 2026 über die Ergebnisse. Laut Artikel erhöhen beide Erkrankungen das Risiko für Schwangerschaftskomplikationen und betreffen Schwarze und hispanische Frauen überproportional häufig.\n\nDas Team befragte 32 Patientinnen. Dem Bericht zufolge fragten Ärztinnen und Ärzte die Teilnehmerinnen selten nach ihren Schwangerschaftsplänen; Gespräche kamen meist nur zustande, wenn die Frauen das Thema selbst ansprachen. Nur eine Teilnehmerin mit Diabetes erinnerte sich, besprochen zu haben, wie sich der Blutzucker auf eine Schwangerschaft auswirken kann.\n\nViele erfuhren die Risiken aus eigener Erfahrung: 75 % derjenigen, die bereits geboren hatten, berichteten von einer Schwangerschaftskomplikation, etwa Präeklampsie oder Gestationsdiabetes. Zahlreiche Frauen gaben an, sich unter Druck gesetzt gefühlt zu haben, eine Verhütungsmethode zu nutzen. Frauen mit Bluthochdruck schilderten, dass ihnen nach einem erhöhten Messwert die bevorzugte Methode verweigert wurde, häufig ohne viel Erklärung.\n\nFrauen, die ihren Ärztinnen und Ärzten vertrauten, sprachen offener über Familienplanung und beschrieben die Verhütungsberatung positiver.\n\nLaut Artikel weisen die Ergebnisse auf den Bedarf an patientenzentrierten Ansätzen hin, etwa Entscheidungshilfe-Tools. Diese sollten den Informationsbedarf der Patientinnen berücksichtigen, die Komplexität der Beratung vor der Schwangerschaft und zur Verhütung anerkennen sowie Voreingenommenheit und Diskriminierung einbeziehen, über die Schwarze und lateinamerikanische Frauen im Gesundheitswesen berichten. Die Studie erschien in den Annals of Family Medicine (2026, Bd. 24, Nr. 6, S. 480–486).",
-    "es": "Investigadores de la Universidad de California en Berkeley realizaron un estudio cualitativo publicado en Annals of Family Medicine. Analiza cómo viven mujeres negras y latinas con diabetes tipo 2 y/o hipertensión el asesoramiento previo al embarazo y sobre anticoncepción. News-Medical informó de los resultados el 23 de noviembre de 2026. Según el artículo, ambas afecciones elevan el riesgo de complicaciones del embarazo y afectan de forma desproporcionada a mujeres negras e hispanas.\n\nEl equipo entrevistó a 32 pacientes. Según el texto, los profesionales sanitarios rara vez preguntaban por los planes de embarazo, y las conversaciones solían surgir solo cuando las propias mujeres lo mencionaban. Solo una participante con diabetes recordaba haber hablado de cómo la glucemia puede afectar a un embarazo.\n\nMuchas supieron de los riesgos por experiencia propia: el 75 % de las que habían dado a luz informó de alguna complicación del embarazo, como preeclampsia o diabetes gestacional. Numerosas mujeres dijeron sentir presión para usar anticonceptivos. Las que tenían hipertensión describieron que, tras una lectura elevada, se les negó el método que preferían, a menudo con poca explicación.\n\nLas mujeres que confiaban en sus profesionales se mostraban más abiertas a hablar de planificación familiar y describían un asesoramiento anticonceptivo más positivo.\n\nSegún el artículo, los hallazgos señalan la necesidad de enfoques centrados en la paciente, como herramientas de apoyo a la decisión, que atiendan las necesidades de información de las pacientes y reconozcan la complejidad de la atención previa al embarazo y anticonceptiva, así como el sesgo y la discriminación que las mujeres negras y latinas denuncian en la atención sanitaria. El estudio apareció en Annals of Family Medicine (2026, vol. 24, n.º 6, pp. 480–486)."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Участников исследования",
-      "en": "Participants interviewed",
-      "kk": "Сұхбат берген қатысушылар",
-      "de": "Befragte Teilnehmerinnen",
-      "es": "Pacientes entrevistadas"
-     },
-     "v": {
-      "ru": "32 чернокожие и латиноамериканские пациентки",
-      "en": "32 Black and Latina patients",
-      "kk": "32 қара нәсілді және латын американдық науқас",
-      "de": "32 Schwarze und lateinamerikanische Patientinnen",
-      "es": "32 pacientes negras y latinas"
-     }
-    },
-    {
-     "k": {
-      "ru": "Осложнение беременности у родивших участниц",
-      "en": "Pregnancy complication among those who had given birth",
-      "kk": "Босанған қатысушылардағы жүктілік асқынуы",
-      "de": "Schwangerschaftskomplikation unter den Geburten",
-      "es": "Complicación del embarazo entre las que habían dado a luz"
-     },
-     "v": {
-      "ru": "75%",
-      "en": "75%",
-      "kk": "75%",
-      "de": "75 %",
-      "es": "75 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nk9BP29jPTU",
-   "cat": "devices",
-   "stage": "cleared",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "MiniMed Fit получил разрешение FDA: рынок помп без трубки",
-    "en": "MiniMed Fit receives FDA clearance and the tubeless pump market",
-    "kk": "MiniMed Fit FDA рұқсатын алды: түтіксіз помпалар нарығы",
-    "de": "MiniMed Fit erhält FDA-Zulassung und der Markt für schlauchlose Pumpen",
-    "es": "MiniMed Fit obtiene la autorización de la FDA y el mercado de bombas sin tubo"
-   },
-   "text": {
-    "ru": "Обсуждается одобрение FDA для MiniMed Fit и место помп без трубки на рынке инсулиновых помп.",
-    "en": "A discussion of FDA clearance for MiniMed Fit and the place of tubeless pumps in the insulin pump market.",
-    "kk": "MiniMed Fit құрылғысына FDA рұқсаты және түтіксіз помпалардың инсулин помпалары нарығындағы орны талқыланады.",
-    "de": "Diskutiert wird die FDA-Zulassung des MiniMed Fit und die Rolle schlauchloser Pumpen auf dem Insulinpumpenmarkt.",
-    "es": "Se analiza la autorización de la FDA para MiniMed Fit y el lugar de las bombas sin tubo en el mercado de bombas de insulina."
-   },
-   "url": "https://www.hcplive.com/view/diabetes-dialogue-minimed-fit-fda-clearance-and-the-tubeless-pump-landscape",
-   "src": "HCPLive",
-   "photoQuery": "insulin pump device close-up",
-   "photo": {
-    "id": "u_s204VT6pNxU",
-    "url": "https://images.unsplash.com/photo-1754821305530-8e3c7b8deda2?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHB1bXAlMjBkZXZpY2UlMjBjbG9zZS11cHxlbnwxfDB8fHwxNzk1NDg5NjQxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Andrey Matveev",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/hand-holding-a-small-black-electronic-device-s204VT6pNxU?utm_source=dia_news&utm_medium=referral",
-    "alt": "Hand holding a small black electronic device"
-   },
-   "body": {
-    "ru": "23 ноября 2026 года HCPLive опубликовал обсуждение из подкаста Diabetes Dialogue, в котором фармацевт Диана Айзекс и Натали Беллини, DNP, разобрали одобрение FDA для помпы без трубки MiniMed Fit. Производитель объявил об этом 16 ноября 2026 года.\n\nВ Fit помещается 300 единиц инсулина, тогда как у других моделей без трубки — 200, а носить его можно до 7 дней. Устройство разрешено для людей с диабетом 1 и 2 типа в возрасте от 7 лет и работает на алгоритме SmartGuard, который уже используется в системах MiniMed 780G и Flex. По данным производителя, семидневный режим применим при общей суточной дозе менее 42 единиц.\n\nВедущие считают, что основное влияние на результаты оказывают настройки алгоритма. При целевом уровне глюкозы 100 мг/дл и времени действия инсулина 2 часа главной остается корректировка углеводного коэффициента; исключения сделаны для пожилых людей с выраженной хрупкостью и высоким риском гипогликемии. Айзекс также упомянула применение вне официальных показаний у беременных: показание для беременности есть в Европе, но не в США.\n\nУчастники связали более простые устройства с ростом использования помп при диабете 2 типа и сослались на обновленные рекомендации ADA, которые поддерживают переход от базального инсулина сразу к помповой терапии после оптимизации других препаратов. Конкуренты различаются: Omnipod — единственная полностью одноразовая система с ношением 3 дня, а Omnipod 6 ожидается в 2027 году; Tandem Mobi позволяет заменять картридж в течение 7 дней; помпы MiniMed работают только с датчиками Simplera и Instinct.\n\nПланируемое покрытие через аптечную программу может избавить пациентов от циклов замены оборудования длиной 4–5 лет. Однако ведущие опасаются, что PBM могут ограничить выбор помпы, как уже делают с CGM и быстродействующим инсулином. По их мнению, доступ через формуляры в итоге может определить, получат ли пациенты пользу от расширившегося выбора.",
-    "en": "HCPLive published a discussion on November 23, 2026 from its Diabetes Dialogue podcast, in which pharmacist Diana Isaacs and Natalie Bellini, DNP, examined the US FDA clearance of the tubeless insulin pump MiniMed Fit. The manufacturer announced the clearance on November 16, 2026.\n\nThe Fit holds 300 units of insulin, compared with 200 for other tubeless models, and can be worn for up to seven days. It is cleared for type 1 and type 2 diabetes in people aged 7 and older and runs the SmartGuard algorithm already used in the MiniMed 780G and Flex systems. According to the manufacturer, the seven-day wear applies when the total daily dose stays below 42 units.\n\nThe speakers said algorithm settings are the main driver of outcomes. With a glucose target of 100 mg/dL and an active insulin time of 2 hours, the carbohydrate ratio remains the main adjustment, with exceptions for frail older adults at high risk of hypoglycemia. Isaacs also mentioned off-label use in pregnant patients, since a pregnancy indication exists in Europe but not in the US.\n\nThe participants linked simpler devices to growing pump use in type 2 diabetes, citing updated ADA guidance that supports moving straight from basal insulin to pump therapy once other medications are optimized. Competitors differ: Omnipod is the only fully disposable option, with 3-day wear and Omnipod 6 expected in 2027; Tandem Mobi allows cartridge refills within 7 days; MiniMed pumps pair only with Simplera and Instinct sensors.\n\nPlanned pharmacy-benefit coverage could free patients from 4- to 5-year equipment replacement cycles. However, the hosts worry that pharmacy benefit managers could limit pump choice, as they already do with CGMs and rapid-acting insulin. Formulary access may ultimately determine whether patients benefit from the wider choice.",
-    "kk": "2026 жылдың 23 қарашасында HCPLive Diabetes Dialogue подкастындағы талқылауды жариялады; онда фармацевт Диана Айзекс пен Натали Беллини, DNP, АҚШ FDA-ның түтіксіз MiniMed Fit инсулин помпасына рұқсатын талдады. Өндіруші бұл туралы 2026 жылдың 16 қарашасында хабарлады.\n\nFit-ке 300 бірлік инсулин сыяды, ал басқа түтіксіз модельдерде бұл 200; оны 7 күнге дейін тағуға болады. Құрылғыға 1 және 2 типті қант диабеті бар 7 жас және одан үлкен адамдар үшін рұқсат етілген, ол MiniMed 780G және Flex жүйелерінде бұрыннан қолданылатын SmartGuard алгоритмімен жұмыс істейді. Өндіруші мәліметінше, жеті күндік режим жалпы тәуліктік доза 42 бірліктен аз болғанда қолданылады.\n\nТалқылаушылар нәтижеге ең көп әсерді алгоритм параметрлері тигізетінін айтты. Глюкоза мақсаты 100 мг/дл, белсенді инсулин уақыты 2 сағат болғанда, негізгі түзету көмірсу коэффициентінде қалады; гипогликемия қаупі жоғары әлсіз, қартайған адамдар үшін ерекшелік бар. Айзекс жүкті пациенттерде оффлейбл қолдану туралы да айтты: жүктілік көрсеткіші Еуропада бар, АҚШ-та жоқ.\n\nҚарапайым құрылғыларды талқылаушылар 2 типті диабетте помпалардың кеңею үрдісімен байланыстырды және ADA-ның жаңартылған ұсынымдарына сілтеме жасады; онда басқа дәрілер оңтайландырылғаннан кейін базальды инсулиннен бірден помпа терапиясына өту қолдау табады. Бәсекелестер әртүрлі: Omnipod — толық бір рет қолданылатын жалғыз жүйе, ол 3 күн тағылады, Omnipod 6 2027 жылы күтілуде; Tandem Mobi картридждерді 7 күн ішінде толтыруға мүмкіндік береді; MiniMed помпалары тек Simplera және Instinct сенсорларымен жұмыс істейді.\n\nЖоспарланған фармацевтикалық жабдықтау жамылғысы пациенттерді 4–5 жылдық жабдық ауыстыру циклдерінен босатуы мүмкін. Алайда талқылаушылар дәрі-дәрмектік жоспар басқарушылары (PBM) помпаны таңдауды шектеуі мүмкін деп алаңдайды, бұл олардың CGM және жылдам әсер ететін инсулинмен қазірдің өзінде жасап жатқаны сияқты. Формуляр арқылы қолжетімділік пациенттер кеңейген таңдаудан пайда көре ала ма, соны ақыр соңында анықтауы мүмкін.",
-    "de": "Am 23. November 2026 veröffentlichte HCPLive eine Diskussion aus dem Podcast Diabetes Dialogue, in der die Pharmazeutin Diana Isaacs und Natalie Bellini, DNP, die Zulassung der schlauchlosen Insulinpumpe MiniMed Fit durch die US-Behörde FDA besprachen. Der Hersteller hatte die Zulassung am 16. November 2026 bekanntgegeben.\n\nDie Fit fasst 300 Einheiten Insulin, während andere schlauchlose Modelle 200 Einheiten haben, und kann bis zu sieben Tage getragen werden. Sie ist für Typ-1- und Typ-2-Diabetes bei Menschen ab 7 Jahren zugelassen und nutzt den SmartGuard-Algorithmus, der auch in den Systemen MiniMed 780G und Flex läuft. Laut Hersteller gilt die siebentägige Tragedauer, wenn die tägliche Gesamtdosis unter 42 Einheiten bleibt.\n\nDie Sprecher sahen in den Algorithmus-Einstellungen den wichtigsten Einflussfaktor für die Ergebnisse. Bei einem Glukoseziel von 100 mg/dL und einer aktiven Insulinwirkzeit von 2 Stunden bleibt das Kohlenhydratverhältnis die wichtigste verbleibende Anpassung, mit Ausnahmen für gebrechliche ältere Menschen mit hohem Unterzuckerungsrisiko. Isaacs berichtete außerdem von Off-Label-Anwendung bei Schwangeren; eine Indikation für Schwangerschaft gibt es in Europa, in den USA jedoch nicht.\n\nDie Teilnehmer verbanden einfachere Geräte mit dem wachsenden Pumpeneinsatz bei Typ-2-Diabetes und verwiesen auf die aktualisierte ADA-Leitlinie, die den direkten Wechsel von Basalinsulin zur Pumpentherapie unterstützt, sobald andere Medikamente optimiert sind. Die Konkurrenz unterscheidet sich: Omnipod ist die einzige vollständig als Einweg-System konzipierte Option mit 3 Tagen Tragedauer, Omnipod 6 wird für 2027 erwartet; Tandem Mobi erlaubt Kartuschennachfüllung innerhalb von 7 Tagen; MiniMed-Pumpen koppeln nur mit den Sensoren Simplera und Instinct.\n\nGeplante Erstattung über Apothekenleistungen könnte Patienten von 4- bis 5-jährigen Zyklen für Medizinprodukte befreien. Die Moderatoren befürchten jedoch, dass Pharmacy Benefit Manager die Pumpenwahl einschränken könnten, wie sie es bereits bei CGM und schnellwirkendem Insulin tun. Ob Patienten von der größeren Auswahl profitieren, könnte letztlich vom Zugang über Formularlisten abhängen.",
-    "es": "El 23 de noviembre de 2026, HCPLive publicó un debate de su podcast Diabetes Dialogue en el que la farmacéutica Diana Isaacs y Natalie Bellini, DNP, analizaron la autorización de la FDA estadounidense para la bomba de insulina sin tubo MiniMed Fit. El fabricante había anunciado la autorización el 16 de noviembre de 2026.\n\nLa Fit contiene 300 unidades de insulina, frente a 200 en otras opciones sin tubo, y puede llevarse hasta 7 días. Está autorizada para diabetes tipo 1 y tipo 2 en personas de 7 años o más, y utiliza el algoritmo SmartGuard, que ya se usa en los sistemas MiniMed 780G y Flex. Según el fabricante, el uso de 7 días corresponde a una dosis diaria total inferior a 42 unidades.\n\nLos participantes señalaron que la configuración del algoritmo es el principal factor de los resultados. Con un objetivo de glucosa de 100 mg/dL y un tiempo de insulina activa de 2 horas, la relación de carbohidratos sigue siendo el principal ajuste, con excepciones para adultos mayores frágiles con alto riesgo de hipoglucemia. Isaacs comentó el uso fuera de indicación en pacientes embarazadas; la indicación en embarazo existe en Europa, pero no en EE. UU.\n\nLos invitados vincularon los dispositivos de bajo mantenimiento con el mayor uso de bombas en diabetes tipo 2 y citaron la guía actualizada de la ADA, que respalda pasar de insulina basal directamente a bomba una vez optimizados otros fármacos. La competencia es diversa: Omnipod es la única opción totalmente desechable, con uso de 3 días, y se espera Omnipod 6 en 2027; Tandem Mobi permite recargar el cartucho dentro de 7 días; las bombas MiniMed solo se emparejan con los sensores Simplera e Instinct.\n\nLa cobertura planeada a través de la farmacia podría liberar a los pacientes de ciclos de 4 a 5 años de equipos médicos duraderos. Sin embargo, los presentadores temen que los gestores de beneficios farmacéuticos limiten la elección de bomba, como ya hacen con los CGM y la insulina de acción rápida. El acceso mediante formularios podría terminar decidiendo si los pacientes se benefician de esa elección más amplia."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Объём инсулина в MiniMed Fit",
-      "en": "MiniMed Fit insulin capacity",
-      "kk": "MiniMed Fit инсулин сыйымдылығы",
-      "de": "Insulinfassungsvermögen der MiniMed Fit",
-      "es": "Capacidad de insulina de MiniMed Fit"
-     },
-     "v": {
-      "ru": "300 единиц (у других моделей без трубки — 200)",
-      "en": "300 units (other tubeless options: 200)",
-      "kk": "300 бірлік (басқа түтіксіз модельдерде — 200)",
-      "de": "300 Einheiten (andere schlauchlose Optionen: 200)",
-      "es": "300 unidades (otras opciones sin tubo: 200)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Срок ношения по данным производителя",
-      "en": "Wear time per manufacturer",
-      "kk": "Өндіруші бойынша тағу мерзімі",
-      "de": "Tragedauer laut Hersteller",
-      "es": "Duración de uso según el fabricante"
-     },
-     "v": {
-      "ru": "до 7 дней",
-      "en": "up to 7 days",
-      "kk": "7 күнге дейін",
-      "de": "bis zu 7 Tage",
-      "es": "hasta 7 días"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nhlQT9vYz01",
-   "cat": "community",
-   "stage": "policy",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "В Калужской области поручили проверять уровень глюкозы у школьников",
-    "en": "Kaluga Region orders blood glucose checks for schoolchildren",
-    "kk": "Калуга облысында мектеп оқушыларының қан глюкозасын тексеру тапсырылды",
-    "de": "Region Kaluga ordnet Blutzuckerkontrollen bei Schulkindern an",
-    "es": "La región de Kaluga ordena controles de glucosa en escolares"
-   },
-   "text": {
-    "ru": "Региональные власти поручили организовать проверки уровня глюкозы в крови у школьников.",
-    "en": "Regional authorities have ordered blood glucose checks for schoolchildren.",
-    "kk": "Аймақтық билік мектеп оқушыларының қан глюкозасын тексеруді ұйымдастыруды тапсырды.",
-    "de": "Die regionalen Behörden haben Blutzuckerkontrollen bei Schulkindern angeordnet.",
-    "es": "Las autoridades regionales han ordenado controles de glucosa en sangre para escolares."
-   },
-   "url": "https://nedelya40.ru/vladislav-shapsha-dal-poruchenie-organizovat-proverki-urovnya-glyukozy-v-krovi-u-shkolnikov_291404/",
-   "src": "Газета «Калужская неделя»",
-   "photoQuery": "school classroom desks",
-   "local": true,
-   "photo": {
-    "id": "u_Qw6wa96IvvQ",
-    "url": "https://images.unsplash.com/photo-1740635341299-3b8e3490f546?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c2Nob29sJTIwY2xhc3Nyb29tJTIwZGVza3N8ZW58MXwwfHx8MTc5NTQ4OTY0MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Nathan Cima",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-classroom-filled-with-lots-of-desks-and-chairs-Qw6wa96IvvQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "A classroom filled with lots of desks and chairs"
-   },
-   "body": {
-    "ru": "23 ноября 2026 года газета «Калужская неделя» сообщила, что губернатор Калужской области Владислав Шапша поручил главе областного Минздрава Анне Черновой проработать возможность регулярной проверки уровня глюкозы в крови у школьников. Распоряжение прозвучало на заседании областного правительства.\n\nПо словам губернатора, сахарный диабет коварен: при стандартных медосмотрах его удается обнаружить не всегда, и он может долго развиваться незаметно. Чтобы не пропустить скрытые признаки, по его мнению, нужен систематический контроль сахара у детей школьного возраста. Важно понимать, что поручение касается только изучения такой возможности: сроки запуска и порядок проверок в материале не названы.\n\nМинздрав сообщил, что в регионе сейчас более 460 детей с сахарным диабетом. Им и их родителям помогают четыре школы диабета. На базе областной детской больницы работает Центр детской эндокринологии. Мобильные бригады с детским эндокринологом регулярно выезжают в муниципалитеты, а для маленьких пациентов внедрена система дистанционного мониторинга. Инсулин и глюкометры для них обеспечиваются за счет областного бюджета.\n\nДальнейший шаг — оценка Минздравом того, можно ли организовать такие проверки в школах. Подробностей о стоимости, сроках и исполнителях анализов в статье нет.",
-    "en": "On 23 November 2026, the regional newspaper Kaluzhskaya Nedelya reported that Vladislav Shapsha, governor of the Kaluga Region, has asked Anna Chernova, head of the regional health ministry, to examine whether blood glucose checks could be carried out routinely in schoolchildren. The instruction was given at a session of the regional government.\n\nAccording to the governor, diabetes is a treacherous condition: it is not always caught during standard medical check-ups and can develop unnoticed for a long time. To avoid missing hidden warning signs, he believes schoolchildren need regular monitoring of their blood sugar. It is important to note that the instruction only concerns studying this possibility; the article does not specify a start date or how the checks would work.\n\nThe ministry reports that more than 460 children with diabetes currently live in the region. Four diabetes schools support these children and their parents. A children's endocrinology center operates at the regional children's hospital. Mobile teams that include a pediatric endocrinologist travel regularly to the municipalities, and a remote monitoring system has been introduced for young patients. Insulin and glucose meters for them are funded by the regional budget.\n\nThe next step is for the ministry to assess whether such screening can be organized in schools. The article gives no details on costs, timing, or who would carry out the tests.",
-    "kk": "2026 жылдың 23 қарашасында «Калужская неделя» газеті Калуга облысының губернаторы Владислав Шапшаның облыстық денсаулық сақтау министрлігінің басшысы Анна Черноваға мектеп оқушыларында қан глюкозасының деңгейін тұрақты тексеру мүмкіндігін пысықтауды тапсырғанын хабарлады. Тапсырма облыстық үкімет отырысында берілді.\n\nГубернатордың айтуынша, қант диабеті — айлакер ауру: оны стандартты медициналық тексеруде әрдайым анықтау мүмкін емес, ол байқалмай ұзақ уақыт дамуы мүмкін. Губернатордың пікірінше, жасырын белгілерді байқамау үшін мектеп жасындағы балаларда қант деңгейін жүйелі бақылау қажет. Маңызды жайт: тапсырма тек осы мүмкіндікті зерттеуге қатысты, тексерулердің іске қосылу мерзімі мен тәртібі материалда көрсетілмеген.\n\nДенсаулық сақтау министрлігінің мәлімдеуінше, өңірде қазір 460-тан астам қант диабеті бар бала тұрады. Оларға және ата-аналарына төрт диабет мектебі көмектеседі. Облыстық балалар ауруханасында Балалар эндокринологиясы орталығы жұмыс істейді. Дәрігер-эндокринологі бар мобильді топтар аудандарға үнемі барады, ал кішкентай науқастар үшін қашықтан бақылау жүйесі енгізілген. Олардың инсулині мен глюкометрлері облыстық бюджет есебінен қамтамасыз етіледі.\n\nКелесі қадам — министрліктің мектептерде мұндай тексерулерді ұйымдастыруға бола ма, соны бағалауы. Материалда құны, мерзімі және талдауды кімнің жүргізетіні туралы мәліметтер жоқ.",
-    "de": "Am 23. November 2026 berichtete die Zeitung „Kaluzhskaya Nedelya“, dass Wladislaw Schapscha, Gouverneur des Gebiets Kaluga, die Leiterin des regionalen Gesundheitsministeriums, Anna Tschernowa, gebeten hat zu prüfen, ob Blutzuckerkontrollen bei Schulkindern routinemäßig durchgeführt werden könnten. Die Anweisung fiel bei einer Sitzung der regionalen Regierung.\n\nNach Ansicht des Gouverneurs ist Diabetes eine heimtückische Erkrankung: Er wird bei üblichen medizinischen Untersuchungen nicht immer entdeckt und kann lange unbemerkt voranschreiten. Um versteckte Warnzeichen nicht zu übersehen, hält er regelmäßige Blutzuckerkontrollen bei Schulkindern für nötig. Wichtig ist: Der Auftrag betrifft nur die Prüfung dieser Möglichkeit; ein Starttermin oder der Ablauf der Kontrollen wird im Artikel nicht genannt.\n\nDas Ministerium teilt mit, dass in der Region derzeit mehr als 460 Kinder mit Diabetes leben. Vier Diabetesschulen unterstützen diese Kinder und ihre Eltern. An dem regionalen Kinderkrankenhaus arbeitet ein Zentrum für Kinderendokrinologie. Mobile Teams mit einem Kinderendokrinologen fahren regelmäßig in die Gemeinden, und für die kleinen Patienten wurde ein System zur Fernüberwachung eingeführt. Insulin und Blutzuckermessgeräte werden für sie aus dem regionalen Haushalt finanziert.\n\nAls Nächstes soll das Ministerium einschätzen, ob solche Untersuchungen an Schulen organisiert werden können. Zu Kosten, Terminen und den Durchführenden macht der Artikel keine Angaben.",
-    "es": "El 23 de noviembre de 2026, el periódico regional «Kaluzhskaya Nedelya» informó de que Vladislav Shapsha, gobernador de la región de Kaluga, pidió a Anna Chernova, jefa del ministerio regional de Sanidad, estudiar si los controles periódicos de glucosa en sangre podrían hacerse de forma rutinaria a los escolares. La instrucción se dio en una sesión del gobierno regional.\n\nSegún el gobernador, la diabetes es una enfermedad traicionera: no siempre se detecta en los exámenes médicos habituales y puede avanzar sin ser notada durante mucho tiempo. Para no pasar por alto señales ocultas, considera necesario un seguimiento regular del azúcar en sangre en los niños en edad escolar. Conviene señalar que la orden solo se refiere a estudiar esa posibilidad; el artículo no indica una fecha de inicio ni cómo funcionarían los controles.\n\nEl ministerio informa de que en la región viven actualmente más de 460 niños con diabetes. Cuatro escuelas de diabetes apoyan a estos niños y a sus padres. En el hospital infantil regional funciona un centro de endocrinología infantil. Equipos móviles con un endocrinólogo pediátrico viajan periódicamente a los municipios, y se ha implantado un sistema de seguimiento a distancia para los pacientes más jóvenes. La insulina y los glucómetros para ellos se financian con el presupuesto regional.\n\nEl siguiente paso será que el ministerio evalúe si esas pruebas pueden organizarse en los colegios. El artículo no ofrece detalles sobre costes, calendario ni quién realizaría los análisis."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Дети с сахарным диабетом в Калужской области",
-      "en": "Children with diabetes in the Kaluga Region",
-      "kk": "Калуга облысындағы қант диабеті бар балалар",
-      "de": "Kinder mit Diabetes in der Region Kaluga",
-      "es": "Niños con diabetes en la región de Kaluga"
-     },
-     "v": {
-      "ru": "более 460",
-      "en": "more than 460",
-      "kk": "460-тан астам",
-      "de": "mehr als 460",
-      "es": "más de 460"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nRkc_b2M9NQ",
-   "cat": "access",
-   "stage": "report",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "Диабетикам Ярославской области выдали бесплатные лекарства",
-    "en": "Diabetes patients in Yaroslavl Region receive free medicines",
-    "kk": "Ярославль облысындағы диабеттік науқастарға тегін дәрілер берілді",
-    "de": "Diabetiker in der Region Jaroslawl erhalten kostenlose Medikamente",
-    "es": "Pacientes con diabetes de la región de Yaroslavl reciben medicamentos gratuitos"
-   },
-   "text": {
-    "ru": "Пациенты с диабетом в Ярославской области получили бесплатные лекарства.",
-    "en": "Patients with diabetes in Yaroslavl Region have received free medicines.",
-    "kk": "Ярославль облысындағы диабеттік науқастар тегін дәрілер алды.",
-    "de": "Diabetespatienten in der Region Jaroslawl haben kostenlose Medikamente erhalten.",
-    "es": "Pacientes con diabetes de la región de Yaroslavl han recibido medicamentos gratuitos."
-   },
-   "url": "https://www.yarnews.net/news/101378-diabetikam-iz-yaroslavskoj-oblasti-vydali-besplatnye-lekarstva/",
-   "src": "YarNews",
-   "photoQuery": "pill bottles on table",
-   "local": true,
-   "photo": {
-    "id": "u_zQwi4swbBUA",
-    "url": "https://images.unsplash.com/photo-1621006503266-0dab1a9083f5?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8cGlsbCUyMGJvdHRsZXMlMjBvbiUyMHRhYmxlfGVufDF8MHx8fDE3OTU0ODk2NDJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Dieter K",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/grayscale-photo-of-clear-glass-bottle-on-table-zQwi4swbBUA?utm_source=dia_news&utm_medium=referral",
-    "alt": "grayscale photo of clear glass bottle on table"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nUVE_b2M9NQ",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "Агонист ядерных рецепторов снизил риск стеатогепатита у пациентов с диабетом 2 типа",
-    "en": "Nuclear receptor agonist reduced steatohepatitis risk in type 2 diabetes patients",
-    "kk": "Ядролық рецептор агонисті 2 типті қант диабеті бар науқастарда стеатогепатит қаупін төмендетті",
-    "de": "Kernrezeptor-Agonist senkte das Risiko einer Steatohepatitis bei Typ-2-Diabetes",
-    "es": "Un agonista de receptores nucleares redujo el riesgo de esteatohepatitis en pacientes con diabetes tipo 2"
-   },
-   "text": {
-    "ru": "Исследование показало снижение риска стеатогепатита у пациентов с диабетом 2 типа на фоне приёма агониста ядерных рецепторов.",
-    "en": "A study reports reduced risk of steatohepatitis in type 2 diabetes patients taking a nuclear receptor agonist.",
-    "kk": "Зерттеу 2 типті қант диабеті бар науқастарда ядролық рецептор агонистін қабылдау стеатогепатит қаупін азайтатынын көрсетті.",
-    "de": "Eine Studie berichtet über ein geringeres Risiko für Steatohepatitis bei Typ-2-Diabetes-Patienten unter einem Kernrezeptor-Agonisten.",
-    "es": "Un estudio informa de un menor riesgo de esteatohepatitis en pacientes con diabetes tipo 2 que toman un agonista de receptores nucleares."
-   },
-   "url": "https://nplus1.ru/news/2026/11/23/chiglitazar-masld",
-   "src": "N+1",
-   "photoQuery": "laboratory test tubes",
-   "photo": {
-    "id": "u_egT3xtDu9DQ",
-    "url": "https://images.unsplash.com/photo-1579154341184-22069e4614d2?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8bGFib3JhdG9yeSUyMHRlc3QlMjB0dWJlc3xlbnwxfDB8fHwxNzk1NDg5NjQyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/clear-glass-test-tubes-egT3xtDu9DQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "clear glass test tubes"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nljdz9vYz01",
-   "cat": "devices",
-   "stage": "results",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "Системы НМГ за год увеличили время в целевом диапазоне глюкозы почти на 12%",
-    "en": "CGM systems increased time in glucose target range by nearly 12% over a year",
-    "kk": "ҮМГ жүйелері бір жыл ішінде глюкозаның мақсатты диапазонында болу уақытын шамамен 12%-ға арттырды",
-    "de": "CGM-Systeme erhöhten die Zeit im Zielbereich der Glukose innerhalb eines Jahres um fast 12 %",
-    "es": "Los sistemas de MCG aumentaron el tiempo en rango objetivo de glucosa casi un 12 % en un año"
-   },
-   "text": {
-    "ru": "Учёные сообщили, что использование систем непрерывного мониторинга глюкозы увеличило время в целевом диапазоне почти на 12% за год.",
-    "en": "Scientists report that continuous glucose monitoring increased time in target range by almost 12% over one year.",
-    "kk": "Ғалымдар үздіксіз глюкоза мониторингі бір жылда мақсатты диапазонда болу уақытын шамамен 12%-ға арттырғанын хабарлайды.",
-    "de": "Wissenschaftler berichten, dass kontinuierliche Glukosemessung die Zeit im Zielbereich innerhalb eines Jahres um fast 12 % erhöht hat.",
-    "es": "Científicos informan de que la monitorización continua de glucosa aumentó el tiempo en rango objetivo casi un 12 % en un año."
-   },
-   "url": "https://www.vademec.ru/news/2026/11/23/uchenye-primenenie-sistem-nmg-pozvolilo-uvelichit-vremya-v-tselevom-diapazone-glyukozy-pochti-na-12-/",
-   "src": "Vademec.ru",
-   "photoQuery": "continuous glucose monitor sensor",
-   "photo": {
-    "id": "u_pqtd9ZB_NR8",
-    "url": "https://images.unsplash.com/photo-1683028866998-dd7aed8c4980?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8Y29udGludW91cyUyMGdsdWNvc2UlMjBtb25pdG9yJTIwc2Vuc29yfGVufDF8MHx8fDE3OTU0ODk2NDJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-person-looks-at-high-blood-glucose-results-on-smart-phone-pqtd9ZB_NR8?utm_source=dia_news&utm_medium=referral",
-    "alt": "a person looks at high blood glucose results on smart phone"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nT0E_b2M9NQ",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "Короткие прогулки при диабете полезнее долгих походов, показало исследование",
-    "en": "Short walks are better than long hikes for people with diabetes, study finds",
-    "kk": "Зерттеу қант диабеті кезінде қысқа серуендердің ұзақ жүрістерге қарағанда пайдалырақ екенін көрсетті",
-    "de": "Kurze Spaziergänge sind bei Diabetes nützlicher als lange Wanderungen, zeigt eine Studie",
-    "es": "Un estudio señala que los paseos cortos son más beneficiosos que las caminatas largas en la diabetes"
-   },
-   "text": {
-    "ru": "Учёные выяснили, что при диабете короткие прогулки оказываются полезнее долгих походов.",
-    "en": "Researchers found that short walks are more beneficial than long walks for people with diabetes.",
-    "kk": "Ғалымдар қант диабеті кезінде қысқа серуендер ұзақ жүрістерге қарағанда пайдалырақ екенін анықтады.",
-    "de": "Forscher stellten fest, dass kurze Spaziergänge bei Diabetes vorteilhafter sind als lange Wanderungen.",
-    "es": "Investigadores concluyeron que los paseos cortos son más beneficiosos que las caminatas largas para personas con diabetes."
-   },
-   "url": "https://belta.by/amp/socium/view/uchenye-vyjasnili-chto-pri-diabete-korotkie-progulki-poleznee-dolgih-pohodov-812110-2026/",
-   "src": "Новости Беларуси | БелТА",
-   "photoQuery": "walking path through park trees",
-   "photo": {
-    "id": "u_UYxQC9VTgEM",
-    "url": "https://images.unsplash.com/photo-1792221754267-5a77dc4e04bd?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8OXx8d2Fsa2luZyUyMHBhdGglMjB0aHJvdWdoJTIwcGFyayUyMHRyZWVzfGVufDF8MHx8fDE3OTU0ODk2NDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Weijia Di",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/people-walking-on-winding-forest-path-UYxQC9VTgEM?utm_source=dia_news&utm_medium=referral",
-    "alt": "People walking along a winding paved path through a sunlit forest with tall trees"
-   },
-   "body": {
-    "ru": "Американские и австралийские учёные выяснили, что короткие, но частые прогулки эффективнее длительных снижают уровень сахара в крови и повышают чувствительность клеток к инсулину у людей с диабетом. О результатах сообщило ТАСС со ссылкой на новое исследование, опубликованное в журнале Obesity. Материал вышел 23 ноября 2026 года.\n\nПо словам специалистов, результаты клинических испытаний говорят о том, что значение имеет не только общий объём нагрузок, но и их распределение в течение дня. Людям с диабетом, в частности, советуют чаще вставать и несколько минут идти быстрым шагом вместо одного продолжительного занятия.\n\nВрачам давно известно, что интенсивная физическая активность повышает чувствительность мышц к инсулину, понижает сахар в крови и помогает предупредить многие другие метаболические нарушения при диабете 2 типа. По данным материала, у людей с ожирением прогулки могут снизить уровень инсулина на 23%, а сахара в крови — на 27%.\n\nКороткая новостная заметка не сообщает ни количества участников, ни продолжительности исследования, ни точных схем прогулок, поэтому эти детали по тексту проверить нельзя. Дальнейших шагов или планов новых исследований в материале не упоминается.",
-    "en": "Researchers from the United States and Australia have found that short, frequent walks lower blood sugar and improve insulin sensitivity in people with diabetes more effectively than long walks. The findings, reported by the TASS news agency, come from a new study published in the journal Obesity. The report was published on 23 November 2026.\n\nAccording to the scientists, clinical trials indicate that the total amount of physical activity is not the only factor that matters; the way it is spread across the day also plays a role. In particular, people with diabetes are advised to stand up often and walk at a brisk pace for several minutes at a time, rather than doing one long session of activity.\n\nSpecialists have long known that intense physical exertion raises muscle sensitivity to insulin, lowers blood sugar, and helps prevent many other metabolic changes linked to type 2 diabetes. According to the material, in people with obesity, walking can reduce insulin levels by 23% and blood sugar levels by 27%.\n\nThis short news item does not state the number of participants, the length of the study, or the exact walking routines tested, so these details cannot be checked from the text. The article does not mention any next steps or plans for further research.",
-    "kk": "АҚШ пен Аустралиядағы ғалымдар қысқа, бірақ жиі серуендердің диабеті бар адамдардың қан қантын ұзақ серуендерге қарағанда тиімдірек төмендететінін және инсулинге жасушалардың сезімталдығын арттыратынын анықтаған. Бұл туралы ТАСС Obesity журналында жарияланған жаңа зерттеуге сілтеме жасап хабарлады. Материал 2026 жылғы 23 қарашада жарық көрді.\n\nМамандардың айтуынша, клиникалық сынақтар тек жалпы жүктеменің көлемі емес, оның күн бойы қалай бөлінгені де маңызды екенін көрсетеді. Атап айтқанда, диабеті бар адамдарға ұзақ бір сабақтың орнына жиі орнынан тұрып, бірнеше минут бойы жылдам жүріп серуендеу ұсынылады.\n\nДәрігерлер қарқынды дене жаттығуының бұлшықеттің инсулинге сезімталдығын арттыратынын, қан қантын төмендетіп, 2 типті диабетпен байланысты басқа да метаболизм бұзылыстарының алдын алуға көмектесетінін ұзақ уақыттан бері білген. Материалда семіздігі бар адамдарда серуендеу инсулин деңгейін 23%-ға, қан қантының деңгейін 27%-ға төмендетуі мүмкін деп жазылған.\n\nБұл қысқа жаңалық хабар зерттелушілердің санын, зерттеу ұзақтығын немесе сыналған серуен кестелерін көрсетпейді, сондықтан бұл деректерді мәтіннен растау мүмкін емес. Материалда одан әрі қандай қадамдар жасалатыны немесе жаңа зерттеу жоспарлары туралы айтылмаған.",
-    "de": "Forscher aus den USA und Australien haben herausgefunden, dass häufige, kurze Spaziergänge den Blutzucker bei Menschen mit Diabetes wirksamer senken und die Insulinempfindlichkeit der Zellen stärker verbessern als lange Spaziergänge. Darüber berichtete die Nachrichtenagentur TASS unter Verweis auf eine neue Studie im Fachjournal Obesity; der Beitrag erschien am 23. November 2026.\n\nDen Angaben der Wissenschaftler zufolge zeigen klinische Versuche, dass nicht nur die Gesamtmenge der Bewegung zählt, sondern auch, wie sie über den Tag verteilt ist. Menschen mit Diabetes sollten demnach häufig aufstehen und einige Minuten lang zügig gehen, statt eine einzige lange Belastungsphase einzulegen.\n\nExperten wissen seit Längerem, dass intensive körperliche Belastung die Insulinempfindlichkeit der Muskeln erhöht, den Blutzucker senkt und viele weitere Stoffwechselveränderungen bei Typ-2-Diabetes verhindern kann. Bei Menschen mit Adipositas könnten Spaziergänge laut dem Bericht den Insulinspiegel um 23 % und den Blutzucker um 27 % senken.\n\nDie kurze Meldung nennt weder die Zahl der Teilnehmenden noch die Dauer der Untersuchung oder die genau getesteten Gehroutinen, daher lassen sich diese Details aus dem Text nicht überprüfen. Weitere Schritte oder geplante Folgestudien werden im Beitrag nicht erwähnt.",
-    "es": "Investigadores de Estados Unidos y Australia concluyeron que las caminatas cortas y frecuentes reducen la glucemia y mejoran la sensibilidad a la insulina en personas con diabetes con más eficacia que las caminatas largas. Lo informó la agencia TASS, citando un nuevo estudio publicado en la revista Obesity; la noticia apareció el 23 de noviembre de 2026.\n\nSegún los científicos, los ensayos clínicos indican que importa no solo el volumen total de actividad física, sino también cómo se reparte a lo largo del día. En concreto, se recomienda a las personas con diabetes levantarse con frecuencia y caminar a paso rápido durante varios minutos, en lugar de hacer un único período prolongado de ejercicio.\n\nLos especialistas llevan tiempo observando que el ejercicio intenso aumenta la sensibilidad de los músculos a la insulina, baja el azúcar en sangre y ayuda a prevenir muchos otros cambios metabólicos asociados a la diabetes tipo 2. En personas con obesidad, según el texto, caminar puede reducir la insulina en un 23 % y el azúcar en sangre en un 27 %.\n\nEsta breve nota no indica el número de participantes, la duración del estudio ni las rutinas de caminata probadas, por lo que estos datos no pueden verificarse a partir del texto. Tampoco menciona próximos pasos ni planes de nuevas investigaciones."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Снижение уровня инсулина у людей с ожирением при прогулках",
-      "en": "Reduction in insulin levels in people with obesity from walking",
-      "kk": "Семіздігі бар адамдарда серуендеуден инсулин деңгейінің төмендеуі",
-      "de": "Senkung des Insulinspiegels bei Menschen mit Adipositas durch Spaziergänge",
-      "es": "Reducción de la insulina en personas con obesidad al caminar"
-     },
-     "v": {
-      "ru": "на 23%",
-      "en": "23%",
-      "kk": "23%-ға",
-      "de": "23 %",
-      "es": "23 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Снижение уровня сахара в крови у людей с ожирением при прогулках",
-      "en": "Reduction in blood sugar in people with obesity from walking",
-      "kk": "Семіздігі бар адамдарда серуендеуден қан қантының төмендеуі",
-      "de": "Senkung des Blutzuckers bei Menschen mit Adipositas durch Spaziergänge",
-      "es": "Reducción del azúcar en sangre en personas con obesidad al caminar"
-     },
-     "v": {
-      "ru": "на 27%",
-      "en": "27%",
-      "kk": "27%-ға",
-      "de": "27 %",
-      "es": "27 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nVUU_b2M9NQ",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "При синдроме поликистозных яичников выявлены повышенная дислипидемия и диабет",
-    "en": "Women with PCOS show higher dyslipidemia and diabetes in matched study",
-    "kk": "Поликистозды аналық без синдромы бар әйелдерде дислипидемия мен қант диабетінің жоғары деңгейі анықталды",
-    "de": "Frauen mit PCOS zeigen in einer Vergleichsstudie erhöhte Dyslipidämie und Diabetes",
-    "es": "Mujeres con SOP presentan más dislipidemia y diabetes en un estudio con grupos emparejados"
-   },
-   "text": {
-    "ru": "Сопоставленное исследование показало повышенные уровни дислипидемии и диабета у женщин с синдромом поликистозных яичников.",
-    "en": "A matched study shows elevated dyslipidemia and diabetes among women with polycystic ovary syndrome.",
-    "kk": "Сәйкестендірілген зерттеу поликистозды аналық без синдромы бар әйелдерде дислипидемия мен қант диабетінің жоғары екенін көрсетті.",
-    "de": "Eine Vergleichsstudie zeigt erhöhte Dyslipidämie und Diabetes bei Frauen mit polyzystischem Ovarialsyndrom.",
-    "es": "Un estudio con grupos emparejados muestra más dislipidemia y diabetes en mujeres con síndrome de ovario poliquístico."
-   },
-   "url": "https://bioengineer.org/women-with-pmos-exhibit-elevated-dyslipidemia-and-diabetes-in-matched-study/",
-   "src": "Bioengineer.org",
-   "photoQuery": "laboratory blood sample tubes",
-   "photo": {
-    "id": "u_sZO8ILzGKcg",
-    "url": "https://images.unsplash.com/photo-1697192156499-d85cfe1452c0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8bGFib3JhdG9yeSUyMGJsb29kJTIwc2FtcGxlJTIwdHViZXN8ZW58MXwwfHx8MTc5NTQ4OTY0M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Adrian Sulyok",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-gloved-hand-holding-a-test-tube-filled-with-blood-sZO8ILzGKcg?utm_source=dia_news&utm_medium=referral",
-    "alt": "a gloved hand holding a test tube filled with blood"
-   },
-   "body": {
-    "ru": "Исследование, опубликованное в журнале BMC Endocrine Disorders и описанное Bioengineer.org 23 ноября 2026 года, сравнивало женщин репродуктивного возраста с полиэндокринным метаболическим синдромом яичников (PMOS) и здоровых женщин того же возраста. У женщин с PMOS заметно чаще встречались дислипидемия (нарушение уровня жиров в крови) и диабет, а также отличались гормональные и гликемические показатели.\n\nРабота проходила в городе Дебремаркос: в ней участвовали 184 женщины с PMOS и 184 подобранные по возрасту участницы контрольной группы, набранные с 10 марта 2024 года по 20 мая 2025 года. Исследователи сочетали анкетирование, физические измерения и анализы крови, а статистические модели учитывали парный подбор групп.\n\nЛютеинизирующий и фолликулостимулирующий гормоны были выше в группе с PMOS, а эстроген и прогестерон — ниже; все различия при p < 0,001. Глюкоза натощак также была выше у женщин с PMOS.\n\nДислипидемия в целом наблюдалась у 45,1% женщин с PMOS (95% ДИ: 37,5–52,7) против 22,8% в контрольной группе (16,8–29,3). Низкий HDL был самым частым отдельным нарушением — 31,0% случаев. Диабет был у 40,2% женщин с PMOS (33,2–47,3) против 23,9% в контроле (17,9–29,9).\n\nРегрессионные модели связали дислипидемию с высоким лютеинизирующим гормоном, повышенным давлением, ожирением, высоким соотношением талии и бёдер и приёмом гормональных контрацептивов, а диабет — с лютеинизирующим гормоном, соотношением талии и бёдер, систолическим давлением и курением. Поскольку это наблюдательное исследование, оно показывает связи, но не причину. Авторы рассматривают результаты как основание для раннего выявления и профилактики хронических неинфекционных заболеваний, однако в статье не описаны конкретные планы дальнейших наблюдений.",
-    "en": "A community-based study published in BMC Endocrine Disorders, and reported by Bioengineer.org on November 23, 2026, compared women of reproductive age who have polyendocrine metabolic ovarian syndrome (PMOS) with healthy women of similar age. Women with PMOS had markedly higher rates of dyslipidemia (abnormal blood fats) and diabetes, and their hormone and blood-sugar markers also differed.\n\nThe work took place in the town of Debremarkos and enrolled 184 women with PMOS and 184 age-matched controls, recruited between March 10, 2024 and May 20, 2025. Researchers combined questionnaires, physical measurements and blood tests, and their statistical models accounted for the matched pairs.\n\nLuteinizing and follicle-stimulating hormones were higher in the PMOS group, while estrogen and progesterone were lower, all with p below 0.001. Fasting glucose was also higher among women with PMOS.\n\nOverall dyslipidemia affected 45.1 percent of women with PMOS (95% CI 37.5 to 52.7) versus 22.8 percent of controls (16.8 to 29.3). Low HDL was the most common single problem, at 31.0 percent of cases. Diabetes was present in 40.2 percent of women with PMOS (33.2 to 47.3) versus 23.9 percent of controls (17.9 to 29.9).\n\nRegression models linked dyslipidemia to high luteinizing hormone, high blood pressure, obesity, a high waist-to-hip ratio and hormonal contraceptive use, and linked diabetes to luteinizing hormone, waist-to-hip ratio, systolic pressure and smoking. As an observational study, it shows associations rather than cause. The authors frame the results as support for early detection and prevention of chronic noncommunicable diseases, but the article does not describe specific follow-up plans.",
-    "kk": "Репродуктивтік жастағы, PMOS деп аталатын полиэндокриндік метаболикалық аналық без синдромы бар әйелдерді сол жастағы сау әйелдермен салыстырған бұл зерттеу BMC Endocrine Disorders журналында жарияланды, оны Bioengineer.org 2026 жылғы 23 қарашада хабарлады. PMOS бар әйелдерде дислипидемия (қандағы майлар деңгейінің бұзылуы) мен диабет айтарлықтай жиі кездесті, сонымен қатар гормондық және глюкоза көрсеткіштері де өзгеше болды.\n\nЖұмыс Дебремаркос қаласында өтті: оған 2024 жылғы 10 наурыздан 2025 жылғы 20 мамырға дейін іріктелген 184 PMOS бар әйел және жасы бойынша сәйкестендірілген 184 бақылау тобының қатысушысы кірді. Зерттеушілер сауалнаманы, физикалық өлшемдерді және қан талдауларын біріктірді, ал статистикалық модельдер жұп топтауын ескерді.\n\nЛютеинизациялаушы және фолликуланы ынталандырушы гормондар PMOS тобында жоғары, ал эстроген мен прогестерон төмен болды; барлығы p < 0,001. Бос қарындағы глюкоза да PMOS бар әйелдерде жоғары болды.\n\nЖалпы дислипидемия PMOS бар әйелдердің 45,1%-ында (95% СИ: 37,5–52,7) анықталды, бақылау тобында — 22,8% (16,8–29,3). Жеке бұзылыстардың ішінде ең жиісі — төмен HDL, жағдайлардың 31,0%-ы. Диабет PMOS бар әйелдердің 40,2%-ында (33,2–47,3), бақылау тобында 23,9%-ында (17,9–29,9) кездесті.\n\nРегрессиялық модельдер дислипидемияны жоғары лютеинизациялаушы гормонмен, қан қысымының жоғарылауымен, семіздікпен, жоғары бел-жамбас қатынасымен және гормондық контрацепция қолданумен; диабетті лютеинизациялаушы гормонмен, бел-жамбас қатынасымен, систолалық қысыммен және темекі шегумен байланыстырды. Бұл бақылау зерттеуі болғандықтан, ол себепті емес, байланысты көрсетеді. Авторлар нәтижелерді созылмалы жұқпалы емес аурулардың ерте анықталуы мен алдын алуын қолдау ретінде қарастырады, бірақ мақалада нақты кейінгі жоспарлар сипатталмаған.",
-    "de": "Eine community-basierte Studie, die in BMC Endocrine Disorders veröffentlicht und am 23. November 2026 von Bioengineer.org vorgestellt wurde, verglich Frauen im reproduktiven Alter mit polyendokrinem metabolischem Ovarialsyndrom (PMOS) mit gesunden Frauen gleichen Alters. Frauen mit PMOS hatten deutlich häufiger Dyslipidämie (eine Störung der Blutfette) und Diabetes; auch Hormon- und Blutzuckerwerte unterschieden sich.\n\nDie Untersuchung fand in der Stadt Debremarkos statt und schloss 184 Frauen mit PMOS sowie 184 altersgleiche Kontrollpersonen ein, die zwischen dem 10. März 2024 und dem 20. Mai 2025 rekrutiert wurden. Die Forschenden kombinierten Fragebögen, körperliche Messungen und Bluttests; die statistischen Modelle berücksichtigten die gematchten Paare.\n\nLuteinisierendes und follikelstimulierendes Hormon waren in der PMOS-Gruppe erhöht, Östrogen und Progesteron dagegen erniedrigt, jeweils mit p < 0,001. Auch der Nüchternblutzucker lag bei Frauen mit PMOS höher.\n\nEine Dyslipidämie betraf insgesamt 45,1 Prozent der Frauen mit PMOS (95%-KI: 37,5 bis 52,7) gegenüber 22,8 Prozent der Kontrollen (16,8 bis 29,3). Ein niedriges HDL war mit 31,0 Prozent der Fälle die häufigste einzelne Störung. Diabetes lag bei 40,2 Prozent der Frauen mit PMOS vor (33,2 bis 47,3) gegenüber 23,9 Prozent der Kontrollen (17,9 bis 29,9).\n\nRegressionsmodelle verknüpften Dyslipidämie mit erhöhtem luteinisierendem Hormon, hohem Blutdruck, Adipositas, einem hohen Taille-Hüft-Verhältnis und der Einnahme hormoneller Kontrazeptiva; Diabetes mit luteinisierendem Hormon, Taille-Hüft-Verhältnis, systolischem Blutdruck und Rauchen. Da es sich um eine Beobachtungsstudie handelt, zeigen die Ergebnisse Zusammenhänge, aber keine Ursachen. Die Forschenden sehen in den Befunden eine Grundlage für die frühe Erkennung und Prävention nichtübertragbarer chronischer Erkrankungen, konkrete Folgepläne nennt der Artikel jedoch nicht.",
-    "es": "Un estudio comunitario publicado en BMC Endocrine Disorders y difundido por Bioengineer.org el 23 de noviembre de 2026 comparó a mujeres en edad reproductiva con síndrome ovárico metabólico poliendocrino (PMOS) con mujeres sanas de edad similar. Las mujeres con PMOS presentaban con mucha más frecuencia dislipidemia (alteración de los lípidos en sangre) y diabetes, y también diferían sus marcadores hormonales y de glucosa.\n\nEl trabajo se realizó en la localidad de Debremarkos e incluyó a 184 mujeres con PMOS y 184 controles emparejados por edad, reclutadas entre el 10 de marzo de 2024 y el 20 de mayo de 2025. Los investigadores combinaron cuestionarios, mediciones físicas y análisis de sangre, y sus modelos estadísticos tuvieron en cuenta las parejas emparejadas.\n\nLa hormona luteinizante y la foliculoestimulante estaban elevadas en el grupo con PMOS, mientras que el estrógeno y la progesterona estaban reducidos, todos con p < 0,001. La glucosa en ayunas también fue mayor en las mujeres con PMOS.\n\nLa dislipidemia afectó en conjunto al 45,1 % de las mujeres con PMOS (IC 95 %: 37,5 a 52,7) frente al 22,8 % de los controles (16,8 a 29,3). El HDL bajo fue la alteración individual más común, en el 31,0 % de los casos. La diabetes se registró en el 40,2 % de las mujeres con PMOS (33,2 a 47,3) frente al 23,9 % de los controles (17,9 a 29,9).\n\nLos modelos de regresión vincularon la dislipidemia con la hormona luteinizante elevada, la presión arterial alta, la obesidad, un alto cociente cintura-cadera y el uso de anticonceptivos hormonales; la diabetes, con la hormona luteinizante, el cociente cintura-cadera, la presión sistólica y el tabaquismo. Al tratarse de un estudio observacional, muestra asociaciones, no causas. Los autores presentan los resultados como respaldo para la detección temprana y la prevención de enfermedades crónicas no transmisibles, aunque el artículo no describe planes concretos de seguimiento."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Дислипидемия (PMOS / контроль)",
-      "en": "Dyslipidemia (PMOS / controls)",
-      "kk": "Дислипидемия (PMOS / бақылау)",
-      "de": "Dyslipidämie (PMOS / Kontrolle)",
-      "es": "Dislipidemia (PMOS / control)"
-     },
-     "v": {
-      "ru": "45,1% / 22,8%",
-      "en": "45.1% / 22.8%",
-      "kk": "45,1% / 22,8%",
-      "de": "45,1 % / 22,8 %",
-      "es": "45,1 % / 22,8 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Диабет (PMOS / контроль)",
-      "en": "Diabetes (PMOS / controls)",
-      "kk": "Диабет (PMOS / бақылау)",
-      "de": "Diabetes (PMOS / Kontrolle)",
-      "es": "Diabetes (PMOS / control)"
-     },
-     "v": {
-      "ru": "40,2% / 23,9%",
-      "en": "40.2% / 23.9%",
-      "kk": "40,2% / 23,9%",
-      "de": "40,2 % / 23,9 %",
-      "es": "40,2 % / 23,9 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "n1JSP29jPTU",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-23",
-   "added": "2026-11-24T03:07:20.285Z",
-   "title": {
-    "ru": "Влияет ли диабет донора на исходы операции DMEK?",
-    "en": "Does donor diabetes affect DMEK outcomes?",
-    "kk": "Донордағы қант диабеті DMEK нәтижелеріне әсер ете ме?",
-    "de": "Beeinflusst Diabetes des Spenders die DMEK-Ergebnisse?",
-    "es": "¿La diabetes del donante afecta a los resultados de la DMEK?"
-   },
-   "text": {
-    "ru": "Рассматривается, влияет ли наличие диабета у донора на результаты пересадки роговицы методом DMEK.",
-    "en": "Examines whether a donor's diabetes affects outcomes of DMEK corneal transplantation.",
-    "kk": "Донорда қант диабетінің DMEK көз қабығын трансплантациялау нәтижелеріне әсерін қарастырады.",
-    "de": "Untersucht wird, ob Diabetes beim Spender die Ergebnisse einer DMEK-Hornhauttransplantation beeinflusst.",
-    "es": "Analiza si la diabetes del donante influye en los resultados del trasplante de córnea DMEK."
-   },
-   "url": "https://www.ophthalmologytimes.com/view/the-residency-report-does-donor-diabetes-affect-dmek-outcomes",
-   "src": "Ophthalmology Times",
-   "photoQuery": "eye examination microscope",
-   "photo": {
-    "id": "u_aWiUrTr16S4",
-    "url": "https://images.unsplash.com/photo-1682663946978-48c2c9f8ffe9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8ZXllJTIwZXhhbWluYXRpb24lMjBtaWNyb3Njb3BlfGVufDF8MHx8fDE3OTU0ODk2NDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "EYES on St Albans",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/an-eye-exam-room-with-a-microscope-and-a-monitor-aWiUrTr16S4?utm_source=dia_news&utm_medium=referral",
-    "alt": "an eye exam room with a microscope and a monitor"
-   },
-   "body": {
-    "ru": "23 ноября 2026 года Ophthalmology Times опубликовал выпуск цикла «The Residency Report», в котором обсуждается, влияет ли диабет донора на результаты DMEK, то есть пересадки задней роговицы. Модератором выступила резидентка NYU Langone Кейси Чжан, MD, вместе с ней вёл беседу Андреа Блитцер, MD, а гостем был Марк А. Грейнер, MD, из Университета Айовы.\n\nРазговор опирается на две сопутствующие публикации исследования Diabetes Endothelial Keratoplasty Study (DEKS), рандомизированного клинического испытания. Практическая проблема в том, что ткань доноров с диабетом чаще рвалась при подготовке, из-за чего трансплантаты пропадали. В испытании участвовали 1421 глаз в 28 клинических центрах; роговицы поступали из 13 банков глазных тканей, распределение было примерно 2:1 в пользу доноров без диабета. Поскольку сведения о болезни со слов родственников сочли ненадёжными, использовали посмертный гемоглобин A1c 6,5% и выше как маркер, и часть доноров переклассифицировали.\n\nЧерез год успешность трансплантата составила 96.3% при ткани доноров без диабета и 97.1% при ткани доноров с диабетом; тяжесть диабета донора, судя по всему, на успех не влияла. Средняя потеря эндотелиальных клеток составила 28.3% и 28.0%, а морфометрия клеток не различалась. Участники обсуждения назвали эти результаты неожиданными на фоне доклинических данных и отметили, что основная потеря клеток происходит на ранней стадии.\n\nЕсть и оговорки. Неудачная подготовка трансплантата встречалась чаще при ткани доноров с диабетом; по мнению участников, причина в более сильном сцеплении задней стромы и десцеметовой мембраны, а не в кривой обучения. Успешно подготовленная ткань, вероятно, работает так же, как от доноров без диабета, а если одна роговица из пары рвётся, вторую можно направить на другой метод.\n\nИсследование продлили до 3- и 5-летнего наблюдения при продолжающемся финансировании Национального института глаза. Открытым остаётся вопрос, будут ли потери клеток со временем расходиться между группами. Вспомогательное исследование показало частоту экспансии повтора TCF4, фактора риска дистрофии Фукса, близкую к общей популяции.",
-    "en": "On November 23, 2026, Ophthalmology Times published an episode of its \"The Residency Report\" series asking whether a donor's diabetes affects outcomes of Descemet membrane endothelial keratoplasty (DMEK), a corneal transplant. NYU Langone resident Casey Zhang, MD, moderated, joined by Andrea Blitzer, MD, with Mark A. Greiner, MD, of the University of Iowa as guest.\n\nThe discussion focuses on two companion papers from the Diabetes Endothelial Keratoplasty Study (DEKS), a randomized clinical trial. The practical worry is that tissue from donors with diabetes tore more often during preparation, which wastes grafts. The trial enrolled 1421 eyes at 28 clinical sites, using corneas from 13 eye banks, in an approximate 2:1 ratio of donors without diabetes to donors with diabetes. Because family-reported histories were considered unreliable, researchers used a postmortem hemoglobin A1c of 6.5% or greater as a marker, reclassifying some donors.\n\nAfter one year, graft success was 96.3% with tissue from donors without diabetes and 97.1% with tissue from donors with diabetes, and donor diabetes severity did not appear to matter. Mean endothelial cell loss was 28.3% and 28.0%, with no difference in cell morphometry. The hosts called these findings surprising given preclinical evidence, and noted that most cell loss happens early.\n\nCaveats remain. Failed graft preparation occurred more often with diabetic-donor tissue, which the hosts attribute to stronger adhesion between the posterior stroma and Descemet membrane rather than a learning curve. Successfully prepared tissue may perform like tissue from non-diabetic donors, and if one cornea of a pair tears, the other can go to a different technique.\n\nDEKS has been extended to 3- and 5-year follow-up with continued National Eye Institute funding. A key open question is whether cell loss diverges between groups over time. An ancillary study found TCF4 repeat expansion rates similar to the general population; TCF4 is a genetic risk factor for Fuchs endothelial dystrophy.",
-    "kk": "2026 жылдың 23 қарашасында Ophthalmology Times «The Residency Report» сериясының бір шығарылымын жариялады. Онда донордың қант диабеті DMEK операциясының нәтижесіне әсер ете ме, соны талқылайды; бұл — мүйізқабықты ауыстыру түрі. Модератор — NYU Langone резиденті Кейси Чжан, MD, оның қасында Андреа Блитцер, MD, жүргізуші болды, ал қонақ — Айова университетінің Марк А. Грейнер, MD.\n\nӘңгіме рандомизацияланған клиникалық сынақ Diabetes Endothelial Keratoplasty Study (DEKS) зерттеуінің екі серіктес мақаласына негізделген. Практикалық мәселе — диабеті бар донорлардың ұлпасы дайындау кезінде жиі жыртылып, трансплантаттар жоғалады. Сынаққа 28 клиникалық орталықтағы 1421 көз қатысты; мүйізқабықтар 13 көз банкінен келді, бөлу шамамен 2:1 қатынасымен жүрді (диабеті жоқ донорлар пайдасына). Туыстарынан алынған анамнез сенімсіз саналғандықтан, маркер ретінде өлгеннен кейінгі гемоглобин A1c 6,5% және одан жоғары мәні қолданылды, кейбір донорлар қайта жіктелді.\n\nБір жылдан кейін трансплантаттың сәттілігі диабеті жоқ донор ұлпасында 96.3%, диабеті бар донор ұлпасында 97.1% болды; донор диабетінің ауырлығы сәттілікке әсер етпеді. Эндотелий жасушаларының орташа жоғалуы 28.3% және 28.0% болды, жасуша морфометриясы айырмашылық көрсетпеді. Талқылаушылар бұл нәтижелерді алдын ала деректерге қарағанда таңқаларлық деп атады және жасушалардың көбі ерте жоғалатынын айтты.\n\nЕскертпелер де бар. Диабеті бар донор ұлпасында дайындықтың сәтсіз болуы жиірек кездесті; жүргізушілер мұны оқу қисығына емес, строма мен Descemet мембранасы арасындағы күштірек адгезияға байланыстырады. Сәтті дайындалған ұлпа диабеті жоқ донорлардікіндей жұмыс істеуі мүмкін, ал жұптың бір мүйізқабығы жыртылса, екіншісін басқа әдіске жіберуге болады.\n\nDEKS 3 және 5 жылдық бақылауға ұзартылды, оны Ұлттық көз институты қаржыландыруын жалғастыруда. Ашық сұрақ — уақыт өте келе топтар арасында жасуша жоғалуы ажырай ма, соны бақылау. Қосымша зерттеуде TCF4 қайталану экспансиясының жиілігі жалпы популяциядағыға ұқсас табылды; TCF4 — Фукс эндотелий дистрофиясының генетикалық қауіп факторы.",
-    "de": "Am 23. November 2026 veröffentlichte Ophthalmology Times eine Folge der Reihe „The Residency Report“, in der es um die Frage geht, ob der Diabetes eines Spenders die Ergebnisse einer DMEK beeinflusst, also einer Transplantation der hinteren Hornhautschicht. Moderiert wurde die Sendung von der NYU-Langone-Residentin Casey Zhang, MD; Andrea Blitzer, MD, führte ebenfalls durch das Gespräch, Gast war Mark A. Greiner, MD, von der Universität Iowa.\n\nDie Diskussion stützt sich auf zwei begleitende Publikationen der Diabetes Endothelial Keratoplasty Study (DEKS), einer randomisierten klinischen Studie. Die praktische Sorge: Gewebe von Spendern mit Diabetes riss bei der Präparation häufiger, wodurch Transplantate verloren gehen. An der Studie nahmen 1421 Augen an 28 klinischen Standorten teil, die Hornhäute stammten von 13 Augenbanken, die Zuteilung erfolgte etwa im Verhältnis 2:1 zu Spendern ohne Diabetes. Da Krankengeschichten aus dem Familienkreis als unzuverlässig gelten, nutzte man ein postmortales Hämoglobin A1c von 6,5 % oder mehr als Marker, wodurch einige Spender neu eingestuft wurden.\n\nNach einem Jahr lag die Transplantat-Erfolgsrate bei 96.3 % mit Gewebe von Spendern ohne Diabetes und bei 97.1 % mit Gewebe von Spendern mit Diabetes; der Schweregrad des Spenderdiabetes schien keinen Einfluss zu haben. Der mittlere Endothelzellverlust betrug 28.3 % bzw. 28.0 %, die Zellmorphometrie unterschied sich nicht. Die Beteiligten bezeichneten die Befunde angesichts präklinischer Daten als überraschend und stellten fest, dass der größte Zellverlust früh auftritt.\n\nEs bleiben Vorbehalte. Fehlgeschlagene Gewebepräparationen traten bei Gewebe von Spendern mit Diabetes häufiger auf; das wird laut Diskussion eher einer stärkeren Haftung zwischen hinterem Stroma und Descemet-Membran zugeschrieben als einer Lernkurve. Erfolgreich präpariertes Gewebe könnte ähnlich funktionieren wie das von Spendern ohne Diabetes; reißt eine Hornhaut eines Paares, kann die andere einer anderen Technik zugeführt werden.\n\nDie DEKS wurde auf eine Nachbeobachtung von 3 und 5 Jahren verlängert, weiterhin gefördert vom National Eye Institute. Offen bleibt, ob sich der Zellverlust zwischen den Gruppen mit der Zeit auseinanderentwickelt. Eine Nebenstudie fand Häufigkeiten der TCF4-Repeat-Expansion, einem genetischen Risikofaktor für die Fuchs-Endotheldystrophie, die denen der Allgemeinbevölkerung ähnelten.",
-    "es": "El 23 de noviembre de 2026, Ophthalmology Times publicó un episodio de su serie «The Residency Report» sobre si la diabetes del donante afecta los resultados de la DMEK, una cirugía de trasplante de córnea. La residente de NYU Langone Casey Zhang, MD, moderó el programa junto con Andrea Blitzer, MD, y el invitado fue Mark A. Greiner, MD, de la Universidad de Iowa.\n\nLa charla se basa en dos artículos complementarios del Diabetes Endothelial Keratoplasty Study (DEKS), un ensayo clínico aleatorizado. La preocupación práctica es que el tejido de donantes con diabetes se desgarraba con más frecuencia durante su preparación, lo que desperdicia injertos. El estudio incluyó 1421 ojos en 28 centros clínicos, con córneas de 13 bancos de ojos, en una proporción aproximada de 2:1 a favor de donantes sin diabetes. Como los antecedentes aportados por familiares se consideraron poco fiables, se utilizó como marcador una hemoglobina A1c postmortem de 6,5 % o más, y algunos donantes fueron reclasificados.\n\nAl año, el éxito del injerto fue de 96.3 % con tejido de donantes sin diabetes y de 97.1 % con tejido de donantes con diabetes; la gravedad de la diabetes del donante no pareció influir. La pérdida media de células endoteliales fue de 28.3 % y 28.0 %, sin diferencias en la morfometría celular. Los participantes calificaron los resultados de sorprendentes frente a la evidencia preclínica y señalaron que la mayor parte de la pérdida celular ocurre temprano.\n\nHay matices. La preparación fallida del injerto fue más frecuente con tejido de donantes con diabetes; según la discusión, se debe a una mayor adhesión entre el estroma posterior y la membrana de Descemet, no a una curva de aprendizaje. El tejido preparado con éxito podría funcionar como el de donantes sin diabetes, y si una córnea de un par se rompe, la otra puede destinarse a otra técnica.\n\nEl DEKS se ha ampliado a seguimientos de 3 y 5 años, con financiación continuada del National Eye Institute. Una pregunta abierta es si la pérdida celular se separa entre los grupos con el tiempo. Un estudio complementario halló frecuencias de expansión de repetición de TCF4, un factor de riesgo genético de la distrofia endotelial de Fuchs, similares a las de la población general."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Успешность трансплантата через 1 год (донор без диабета / с диабетом)",
-      "en": "Graft success at 1 year (donor without / with diabetes)",
-      "kk": "Трансплантаттың 1 жылдағы сәттілігі (донорда диабет жоқ / бар)",
-      "de": "Transplantatserfolg nach 1 Jahr (ohne / mit Spenderdiabetes)",
-      "es": "Éxito del injerto al año (sin / con diabetes del donante)"
-     },
-     "v": {
-      "ru": "96.3% / 97.1%",
-      "en": "96.3% / 97.1%",
-      "kk": "96.3% / 97.1%",
-      "de": "96.3 % / 97.1 %",
-      "es": "96.3 % / 97.1 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Средняя потеря эндотелиальных клеток через 1 год (без диабета / с диабетом)",
-      "en": "Mean endothelial cell loss at 1 year (without / with donor diabetes)",
-      "kk": "Бір жылдағы эндотелий жасушаларының орташа жоғалуы (диабетсіз / диабетпен)",
-      "de": "Mittlerer Endothelzellverlust nach 1 Jahr (ohne / mit Spenderdiabetes)",
-      "es": "Pérdida media de células endoteliales al año (sin / con diabetes del donante)"
-     },
-     "v": {
-      "ru": "28.3% / 28.0%",
-      "en": "28.3% / 28.0%",
-      "kk": "28.3% / 28.0%",
-      "de": "28.3 % / 28.0 %",
-      "es": "28.3 % / 28.0 %"
-     }
-    }
-   ]
-  },
-  {
    "id": "cure-katie-beth-hand",
    "cat": "cure",
    "stage": "results",
@@ -2787,6 +2850,39 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://diabetestimes.co.uk/type-1-diabetes-research-centre-at-university-of-oxford-marks-its-first-year/",
+  "центр исследований диабета 1 типа при оксфордском университете отмечает первый год работы",
+  "oxford university s type 1 diabetes research centre marks its first year",
+  "https://medvestnik.ru/content/articles/prediabet-i-risk-kognitivnyh-narushenii-dannye-30-letnego-issledovaniya.html",
+  "предиабет и риск когнитивных нарушений данные 30 летнего исследования",
+  "prediabetes and cognitive decline risk 30 year study data",
+  "https://www.vesty.co.il/main/article/bkt2wuv17g",
+  "в израиле каждый четвертый больной диабетом отказывался от лечения из за высокой цены",
+  "in israel one in four people with diabetes has skipped treatment because of high prices",
+  "https://www.nn.ru/text/health/2026/11/26/76791387/",
+  "нижегородские диабетики пожаловались на замену британского препарата российским",
+  "nizhny novgorod diabetes patients complain about switch from a british drug to a russian one",
+  "https://gazeta.a42.ru/lenta/news/237052-v-kuzbasse-diabetiku-prislos-pokupat-test-poloski-s-bolnicy-vzyskali",
+  "суд взыскал с больницы в таштаголе деньги за тест полоски которые диабетик покупал сам",
+  "court orders tashtagol hospital to pay for test strips a diabetic bought himself",
+  "https://barnaul-altai.ru/2026/11/26/357169-v-krasnoshhyokovskoj-czrb-zapustili-distanczionnyj-kontrol-diabeta.html",
+  "в краснощёковской црб запустили дистанционный контроль диабета",
+  "krasnoshchekovo district hospital launches remote diabetes monitoring",
+  "https://omskgazzeta.ru/all-news/omichej-priglashajut-v-shkoly-zdorovja-uchitsja-zhit-s-diabetom-i-boleznjami-serdca/",
+  "омичей приглашают в школы здоровья учиться жить с диабетом и болезнями сердца",
+  "omsk residents invited to health schools to learn to live with diabetes and heart disease",
+  "https://kz.kursiv.media/2026-11-26/lsbs-pochti-55-tys-sluchaev-diabeta-vyyavili-v-almaty-za-tri-mesyacza/",
+  "в алматы за три месяца выявили почти 5 5 тыс случаев диабета",
+  "almaty identifies nearly 5 500 diabetes cases in three months",
+  "https://ovd.info/express-news/2026/11/26/u-pravozashchitnika-bakhroma-khamroeva-stradayushchego-diabetom-v-kolonii",
+  "у правозащитника бахрома хамроева страдающего диабетом в колонии изъяли лекарства",
+  "medicines confiscated in prison from rights defender bakhrom khamroev who has diabetes",
+  "https://dknews.kz/ru/ekonomika/411709-fastfud-energetiki-i-diabet-trevozhnye-cifry-po",
+  "фастфуд энергетики и диабет тревожные цифры по казахстану",
+  "fast food energy drinks and diabetes alarming figures for kazakhstan",
+  "https://eia.media/article/society/zhitelyam-komi-rasskazali-o-sozdanii-prilozheniya-dlya-diabetikov",
+  "жителям коми рассказали о создании приложения для людей с диабетом",
+  "komi residents told about a new app for people with diabetes",
   "https://spbdnevnik.ru/news/2026-11-26/crpt-spros-na-rossiiskie-preparaty-dlia-leceniia-diabeta-utroilsia",
   "црпт спрос на российские препараты для лечения диабета утроился",
   "crpt demand for russian diabetes medicines has tripled",
@@ -2796,6 +2892,9 @@ const DIA_NEWS={
   "https://www.techtimes.com/articles/331542/20261125/diabetic-foot-ulcer-treatment-bioxheal-first-sentinel-patient-finishes-no-healing-data-released.htm",
   "bioxheal первый сентинельный пациент завершил исследование лечения диабетической язвы стопы данные о заживлении не опубликованы",
   "bioxheal diabetic foot ulcer treatment first sentinel patient finishes no healing data released",
+  "https://gxpnews.net/2026/11/issledovanie-saharnyj-diabet-2-go-tipa-povyshaet-risk-razvitiya-bolezni-alczgejmera-na-53/",
+  "диабет 2 типа повышает риск болезни альцгеймера на 53",
+  "type 2 diabetes raises alzheimer s risk by 53",
   "https://news.un.org/ru/story/2026/11/1469181",
   "украина доступ к лечению диабета расширяется но каждый третий украинец может не знать о диагнозе",
   "ukraine access to diabetes care is expanding but one in three ukrainians may not know their diagnosis",
@@ -2853,6 +2952,24 @@ const DIA_NEWS={
   "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-shkole-sakharnogo-diabeta-v-kaluzhskoy-oblasti-proshel-obuchenie-31-rebenok/",
   "в школе сахарного диабета в калужской области прошли обучение 31 ребёнок",
   "31 children complete training at a diabetes school in kaluga region",
+  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
+  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
+  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
+  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
+  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
+  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
+  "https://investors.vrtx.com/node/35101/pdf",
+  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
+  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
+  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
+  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
+  "islet transplants with tegoprubart all 12 participants are living without insulin",
+  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
+  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
+  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
+  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
+  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
+  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-novokuybyshevske-samarskoy-oblasti-proshla-nedelya-borby-s-diabetom/",
   "в новокуйбышевске самарской области прошла неделя борьбы с диабетом",
   "diabetes awareness week held in novokuybyshevsk samara region",
@@ -2889,24 +3006,6 @@ const DIA_NEWS={
   "https://www.ophthalmologytimes.com/view/the-residency-report-does-donor-diabetes-affect-dmek-outcomes",
   "влияет ли диабет донора на исходы операции dmek",
   "does donor diabetes affect dmek outcomes",
-  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
-  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
-  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
-  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
-  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
-  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
-  "https://investors.vrtx.com/node/35101/pdf",
-  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
-  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
-  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
-  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
-  "islet transplants with tegoprubart all 12 participants are living without insulin",
-  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
-  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
-  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
-  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
-  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
-  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://www.breakthrought1d.org/news-and-updates/see-people-behind-clinical-trials/",
   "see t1d люди стоящие за клиническими исследованиями",
   "see t1d the people behind clinical trials",
@@ -3127,8 +3226,6 @@ const DIA_NEWS={
   "тип 1 диабета ежедневная борьба за каждую дозу инсулина",
   "type 1 diabetes the daily struggle behind every insulin dose",
   "https://www.vietnam.vn/ru/tieu-duong-type-2-lam-tang-53-nguy-co-mac-alzheimer",
-  "диабет 2 типа повышает риск болезни альцгеймера на 53",
-  "type 2 diabetes raises alzheimer s risk by 53",
   "https://bioengineer.org/microrna-axis-correlates-with-diabetic-foot-ulcer-severity-in-clinical-study/",
   "микро рнк связаны с тяжестью диабетических язв стопы",
   "microrna axis linked to severity of diabetic foot ulcers",
