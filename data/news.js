@@ -7,8 +7,679 @@
    events[]: {name, start, end?, place?, url?}: the conference calendar. Empty hides it. */
 const DIA_NEWS={
  "demo": false,
- "updated": "2026-11-27T03:16:48.563Z",
+ "updated": "2026-11-28T03:09:39.125Z",
  "items": [
+  {
+   "id": "nMUU_b2M9NQ",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "Zepbound может снизить потребность в инсулине при диабете 1 типа: исследование",
+    "en": "Zepbound may help lower insulin needs in type 1 diabetes: study",
+    "kk": "Zepbound 1 типті қант диабеті бар адамдарда инсулин қажеттілігін азайтуға көмектесуі мүмкін: зерттеу",
+    "de": "Zepbound könnte den Insulinbedarf bei Typ-1-Diabetes senken: Studie",
+    "es": "Zepbound podría ayudar a reducir las necesidades de insulina en la diabetes tipo 1: estudio"
+   },
+   "text": {
+    "ru": "Исследование указывает, что препарат Zepbound может помочь снизить потребность в инсулине у людей с диабетом 1 типа.",
+    "en": "A study suggests the drug Zepbound may help reduce insulin requirements in people with type 1 diabetes.",
+    "kk": "Зерттеу Zepbound препаратының 1 типті қант диабеті бар адамдарда инсулинге қажеттілікті азайтуға көмектесуі мүмкін екенін көрсетеді.",
+    "de": "Eine Studie deutet darauf hin, dass das Medikament Zepbound den Insulinbedarf bei Menschen mit Typ-1-Diabetes senken könnte.",
+    "es": "Un estudio sugiere que el medicamento Zepbound podría ayudar a reducir las necesidades de insulina en personas con diabetes tipo 1."
+   },
+   "url": "https://www.newsnationnow.com/health/zepbound-lower-insulin-type1-diabetes-study/",
+   "src": "NewsNation",
+   "photoQuery": "insulin pen close-up",
+   "photo": {
+    "id": "u_S5y5jdRCCsk",
+    "url": "https://images.unsplash.com/photo-1745939931505-da371555a603?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8aW5zdWxpbiUyMHBlbiUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTU4MzUzNzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/insulin-pen-and-its-packaging-are-shown-S5y5jdRCCsk?utm_source=dia_news&utm_medium=referral",
+    "alt": "Insulin pen and its packaging are shown"
+   },
+   "body": {
+    "ru": "27 ноября 2026 года NewsNation сообщил о новом систематическом обзоре, согласно которому препарат для снижения веса Zepbound, действующее вещество которого — тирзепатид, может уменьшить потребность взрослых с диабетом 1 типа в инсулине. Авторы опирались на данные рандомизированных исследований и наблюдательных исследований в реальной практике.\n\nДиабет 1 типа — аутоиммунное заболевание, которое разрушает способность организма вырабатывать инсулин, без которого выжить невозможно, поэтому пациентам нужны ежедневные инъекции инсулина. По данным статьи, примерно 2,1 млн человек в США получили такой диагноз. Обзор касался взрослых, у которых также есть избыточный вес или ожирение. У тех, кто принимал тирзепатид, суточные дозы инсулина снижались сильнее, чем можно было бы ожидать только от потери веса.\n\nЧаще всего отмечались побочные эффекты со стороны желудочно-кишечного тракта. При диабете 1 типа тошнота и рвота могут мешать контролю инсулина и создавать дополнительные риски.\n\nАвторы подчеркивают, что тирзепатид не следует считать обычным средством для снижения глюкозы при диабете 1 типа. Любые изменения дозировки инсулина требуют тщательного врачебного контроля и мониторинга. В статье не сказано, планируются ли более крупные исследования.",
+    "en": "On November 27, 2026, NewsNation reported on a new systematic review suggesting that Zepbound, the weight-loss drug whose active ingredient is tirzepatide, could reduce how much insulin adults with type 1 diabetes need. The authors drew on data from randomized trials and from observational studies of real-world patients.\n\nType 1 diabetes is an autoimmune disorder that destroys the body's ability to make insulin, which is needed for survival, so patients depend on daily insulin injections. According to the article, roughly 2.1 million people in the U.S. have received this diagnosis. The review focused on adults who are also overweight or living with obesity. Among those taking tirzepatide, daily insulin doses fell more than weight loss alone would have predicted.\n\nThe most frequently reported side effects were gastrointestinal. In type 1 diabetes, nausea and vomiting can complicate insulin management and add risk.\n\nThe authors stress that tirzepatide should not be regarded as a routine way to lower blood glucose in type 1 diabetes. Any change to insulin dosing needs careful clinical oversight and monitoring. The article does not say whether larger studies are planned.",
+    "kk": "2026 жылдың 27 қарашасында NewsNation басылымы салмақ тастауға арналған Zepbound препаратының, оның белсенді заты — тирзепатид, 1 типті қант диабеті бар ересектердің инсулинге деген қажеттілігін азайтуы мүмкін екенін көрсеткен жаңа жүйелі шолу туралы хабарлады. Авторлар рандомизацияланған зерттеулердің және нақты өмірдегі бақылау зерттеулерінің деректеріне сүйенген.\n\n1 типті қант диабеті — иммундық жүйенің бұзылуынан туындайтын ауру, ол ағзаның инсулин өндіру қабілетін жояды, ал инсулин өмір сүру үшін қажет. Сондықтан науқастарға күн сайын инсулин енгізу керек. Мақалада АҚШ-та шамамен 2,1 миллион адамға мұндай диагноз қойылғаны айтылған. Шолу артық салмағы немесе семіздігі бар ересектерге арналған. Тирзепатид қабылдағандарда күнделікті инсулин дозасы тек салмақ түсуден күткеннен көбірек азайған.\n\nЕң жиі байқалған жанама әсерлер асқазан-ішек жолдарына қатысты болған. 1 типті диабетте жүрек айну мен құсу инсулинді бақылауға кедергі келтіріп, қауіпті арттыруы мүмкін.\n\nАвторлар тирзепатидті 1 типті диабетте қандағы глюкозаны төмендетудің әдеттегі құралы ретінде қарастыруға болмайтынын ескертеді. Инсулин дозасын өзгерту мұқият дәрігерлік бақылауды және мониторингті талап етеді. Мақалада үлкенірек зерттеулер жоспарланып жатқаны туралы айтылмаған.",
+    "de": "Am 27. November 2026 berichtete NewsNation über eine neue systematische Übersichtsarbeit, nach der das Abnehmmittel Zepbound, dessen Wirkstoff Tirzepatid ist, den Insulinbedarf von Erwachsenen mit Typ-1-Diabetes senken könnte. Die Auswertung stützte sich auf randomisierte Studien und Beobachtungsdaten aus dem Praxisalltag.\n\nTyp-1-Diabetes ist eine Autoimmunerkrankung, die die Fähigkeit des Körpers zerstört, Insulin zu bilden, das zum Überleben notwendig ist. Betroffene sind deshalb auf tägliche Insulininjektionen angewiesen. Laut Artikel wurden in den USA rund 2,1 Millionen Menschen mit dieser Diagnose erfasst. Die Übersicht betraf Erwachsene, die zusätzlich übergewichtig sind oder an Adipositas leiden. Bei Teilnehmenden, die Tirzepatid einnahmen, sanken die täglichen Insulindosen stärker, als es allein durch Gewichtsverlust zu erwarten gewesen wäre.\n\nAm häufigsten traten Nebenwirkungen des Magen-Darm-Trakts auf. Bei Typ-1-Diabetes können Übelkeit und Erbrechen die Insulintherapie erschweren und zusätzliche Risiken bergen.\n\nDie Autoren betonen, dass Tirzepatid bei Typ-1-Diabetes nicht als routinemäßiges Mittel zur Blutzuckersenkung gelten sollte. Jede Änderung der Insulindosis braucht sorgfältige ärztliche Kontrolle und Überwachung. Der Artikel nennt keine geplanten größeren Studien.",
+    "es": "El 27 de noviembre de 2026, NewsNation informó sobre una nueva revisión sistemática según la cual Zepbound, el medicamento para bajar de peso cuyo principio activo es la tirzepatida, podría reducir la cantidad de insulina que necesitan los adultos con diabetes tipo 1. El análisis reunió datos de ensayos aleatorizados y de estudios observacionales con pacientes reales.\n\nLa diabetes tipo 1 es una enfermedad autoinmune que destruye la capacidad del cuerpo de producir insulina, necesaria para sobrevivir, por lo que los pacientes dependen de inyecciones diarias. Según el artículo, en EE. UU. han recibido este diagnóstico unas 2,1 millones de personas. La revisión se centró en adultos que además tienen sobrepeso u obesidad. En quienes tomaban tirzepatida, las dosis diarias de insulina bajaron más de lo que cabría esperar solo por la pérdida de peso.\n\nLos efectos secundarios más comunes fueron digestivos. En la diabetes tipo 1, las náuseas y los vómitos pueden complicar el manejo de la insulina y aumentar los riesgos.\n\nLos autores advierten que la tirzepatida no debe considerarse un tratamiento habitual para bajar la glucosa en la diabetes tipo 1. Cualquier cambio en la dosis de insulina requiere supervisión y seguimiento médico cuidadosos. El artículo no indica si se planean estudios más grandes."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Диагноз диабет 1 типа в США",
+      "en": "People diagnosed with type 1 diabetes in the U.S.",
+      "kk": "АҚШ-та 1 типті қант диабетімен диагноз қойылғандар",
+      "de": "In den USA mit Typ-1-Diabetes diagnostizierte Menschen",
+      "es": "Personas diagnosticadas con diabetes tipo 1 en EE. UU."
+     },
+     "v": {
+      "ru": "около 2,1 млн",
+      "en": "roughly 2.1 million",
+      "kk": "шамамен 2,1 миллион",
+      "de": "rund 2,1 Millionen",
+      "es": "unos 2,1 millones"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nRGWT9vYz01",
+   "cat": "drugs",
+   "stage": "results",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "CagriSema от Novo Nordisk: снижение веса почти на 17% и улучшение гликемии",
+    "en": "Novo Nordisk's CagriSema: almost 17% weight loss and better glycemic control",
+    "kk": "Novo Nordisk компаниясының CagriSema препараты: салмақтың шамамен 17% төмендеуі және глюкоза көрсеткішінің жақсаруы",
+    "de": "CagriSema von Novo Nordisk: fast 17 % Gewichtsverlust und bessere Blutzuckerwerte",
+    "es": "CagriSema de Novo Nordisk: pérdida de peso de casi el 17 % y mejor control glucémico"
+   },
+   "text": {
+    "ru": "Препарат CagriSema показал снижение веса почти на 17% и улучшение показателя гликемии.",
+    "en": "CagriSema showed almost 17% weight reduction and improved glycemic measures.",
+    "kk": "CagriSema препараты салмақтың шамамен 17% төмендегенін және глюкоза көрсеткішінің жақсарғанын көрсетті.",
+    "de": "CagriSema zeigte einen Gewichtsverlust von fast 17 % und eine Verbesserung der Blutzuckerwerte.",
+    "es": "CagriSema mostró una reducción de peso de casi el 17 % y una mejora de los indicadores glucémicos."
+   },
+   "url": "https://vademec.ru/news/2026/11/27/cagrisema-ot-novo-nordisk-pokazal-snizhenie-vesa-pochti-na-17-i-uluchshenie-pokazatelya-glikemii/",
+   "src": "Vademec.ru",
+   "photoQuery": "injection pen medication",
+   "photo": {
+    "id": "u_TzKc7FGaL7Y",
+    "url": "https://images.unsplash.com/photo-1745939921744-ba8ef27940bf?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5qZWN0aW9uJTIwcGVuJTIwbWVkaWNhdGlvbnxlbnwxfDB8fHwxNzk1ODM1MzgwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Haberdoedas",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=dia_news&utm_medium=referral",
+    "alt": "A semaglutide injection pen is shown"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nVZrP29jPTU",
+   "cat": "approval",
+   "stage": "approved",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "Lupin получила одобрение FDA на таблетки ситаглиптина и метформина для диабета 2 типа",
+    "en": "Lupin receives FDA approval for sitagliptin and metformin tablets for type 2 diabetes",
+    "kk": "Lupin компаниясы 2 типті қант диабетіне арналған ситаглиптин және метформин таблеткаларына FDA мақұлдауын алды",
+    "de": "Lupin erhält FDA-Zulassung für Sitagliptin- und Metformin-Tabletten gegen Typ-2-Diabetes",
+    "es": "Lupin obtiene la aprobación de la FDA para tabletas de sitagliptina y metformina para la diabetes tipo 2"
+   },
+   "text": {
+    "ru": "Индийская компания Lupin получила одобрение FDA на таблетки с ситаглиптином и метформином для лечения диабета 2 типа.",
+    "en": "Indian company Lupin received FDA approval for tablets combining sitagliptin and metformin for type 2 diabetes.",
+    "kk": "Үндістанның Lupin компаниясы 2 типті қант диабетін емдеуге арналған ситаглиптин мен метформинді біріктірген таблеткаларға FDA мақұлдауын алды.",
+    "de": "Das indische Unternehmen Lupin hat die FDA-Zulassung für Tabletten mit Sitagliptin und Metformin zur Behandlung von Typ-2-Diabetes erhalten.",
+    "es": "La empresa india Lupin recibió la aprobación de la FDA para tabletas con sitagliptina y metformina para tratar la diabetes tipo 2."
+   },
+   "url": "https://www.indianpharmapost.com/regulatory/lupin-receives-us-fda-approval-for-for-sitagliptin-and-metformin-type-2-diabetes-tablets-22480",
+   "src": "Indian Pharma Post",
+   "photoQuery": "pharmacy tablets bottle",
+   "photo": {
+    "id": "u_2Y8ol_OBS1I",
+    "url": "https://images.unsplash.com/photo-1544991875-5dc1b05f607d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8cGhhcm1hY3klMjB0YWJsZXRzJTIwYm90dGxlfGVufDF8MHx8fDE3OTU4MzUzODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Pawel Czerwinski",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/blue-and-white-tablet-in-container-2Y8ol_OBS1I?utm_source=dia_news&utm_medium=referral",
+    "alt": "blue and white tablet in container"
+   },
+   "body": {
+    "ru": "Индийская фармкомпания Lupin, которую издание называет крупным глобальным игроком отрасли, 27 ноября 2026 года сообщила, что регулятор США одобрил её заявку на дженерик — таблетки ситаглиптина и метформина гидрохлорида. Препарат выпускается в двух дозировках: 50 мг/500 мг и 50 мг/1000 мг.\n\nПо словам компании, эти таблетки биоэквивалентны препарату-референсу Janumet, который производит Merck Sharp & Dohme LLC. В США их предназначают как дополнение к диете и физической нагрузке для улучшения контроля уровня сахара в крови у взрослых с сахарным диабетом 2 типа.\n\nЧтобы показать масштаб рынка, компания привела оценку годовых продаж Janumet в США — 439,2 млн долларов США; данные IQVIA относятся к периоду, завершившемуся в сентябре 2026 года.\n\nМатериал основан на объявлении самой компании и не содержит данных о сроках выхода препарата на рынок, ценах или сведениях о безопасности. Не описаны и дальнейшие регуляторные шаги. Тем, у кого есть вопросы о лечении, стоит обратиться к своему врачу или фармацевту.",
+    "en": "The Indian pharmaceutical company Lupin, which the outlet describes as a major global player, reported on November 27, 2026 that the U.S. regulator has cleared its generic application for sitagliptin and metformin hydrochloride tablets. The product comes in two strengths: 50 mg/500 mg and 50 mg/1,000 mg.\n\nAccording to the company, these tablets are bioequivalent to the reference product Janumet, made by Merck Sharp & Dohme LLC. In the United States they are intended as an add-on to diet and exercise to improve blood sugar control in adults with type 2 diabetes.\n\nTo illustrate the size of the market, the company pointed to estimated annual U.S. sales of Janumet of USD 439.2 million, based on IQVIA data for the period ending September 2026.\n\nThe report is based on the company's own announcement and contains no information on launch timing, pricing, or safety. It also does not describe any further regulatory steps. People with questions about their treatment should speak with their doctor or pharmacist.",
+    "kk": "Үндістанның Lupin фармацевтика компаниясы 2026 жылдың 27 қарашасында АҚШ реттеушісі ситагліптин мен метформин гидрохлорид таблеткаларына арналған дженерик өтінішін мақұлдағанын хабарлады. Препарат екі дозада шығарылады: 50 мг/500 мг және 50 мг/1000 мг.\n\nКомпанияның айтуынша, бұл таблеткалар Merck Sharp & Dohme LLC шығаратын Janumet салыстырмалы препаратына биоэквивалентті. АҚШ-та оларды 2 типті қант диабеті бар ересектерде қан қантының бақылауын жақсарту үшін диета мен дене жаттығуына қосымша ретінде қолдану көзделген.\n\nНарық көлемін көрсету үшін компания Janumet-тің АҚШ-тағы жылдық сатылымын 439,2 миллион АҚШ доллары деп бағалағанын айтты; IQVIA деректері 2026 жылдың қыркүйегімен аяқталатын кезеңге қатысты.\n\nМатериал компанияның өз хабарламасына негізделген, онда препаратты нарыққа шығару мерзімі, бағасы немесе қауіпсіздік туралы мәліметтер жоқ. Алдағы реттеуші қадамдар да сипатталмаған. Емдеу туралы сұрақтары бар адамдар дәрігеріне немесе фармацевтіне жүгінуі керек.",
+    "de": "Der indische Pharmakonzern Lupin meldete am 27. November 2026, dass die US-Arzneimittelbehörde seinen Generika-Antrag für Sitagliptin- und Metforminhydrochlorid-Tabletten genehmigt hat. Das Präparat gibt es in zwei Stärken: 50 mg/500 mg und 50 mg/1.000 mg.\n\nLaut Unternehmen sind die Tabletten bioäquivalent zum Referenzpräparat Janumet des Herstellers Merck Sharp & Dohme LLC. In den USA sind sie als Ergänzung zu Ernährung und Bewegung vorgesehen, um die Blutzuckerkontrolle bei Erwachsenen mit Typ-2-Diabetes zu verbessern.\n\nZur Einordnung des Marktes nannte Lupin geschätzte Jahresumsätze von Janumet in den USA in Höhe von 439,2 Millionen US-Dollar; die Angaben von IQVIA beziehen sich auf den Zeitraum bis September 2026.\n\nDer Bericht stützt sich auf die Mitteilung des Unternehmens und enthält keine Angaben zu Markteinführung, Preis oder Sicherheitsdaten. Auch weitere behördliche Schritte werden nicht beschrieben. Patientinnen und Patienten mit Fragen zu ihrer Behandlung sollten sich an ihre Ärztin, ihren Arzt oder an die Apotheke wenden.",
+    "es": "La farmacéutica india Lupin informó el 27 de noviembre de 2026 de que la agencia reguladora de Estados Unidos aprobó su solicitud de genérico para comprimidos de sitagliptina y clorhidrato de metformina. El producto se presenta en dos concentraciones: 50 mg/500 mg y 50 mg/1000 mg.\n\nSegún la compañía, estos comprimidos son bioequivalentes al producto de referencia Janumet, fabricado por Merck Sharp & Dohme LLC. En Estados Unidos están indicados como complemento de la dieta y el ejercicio para mejorar el control de la glucemia en adultos con diabetes tipo 2.\n\nPara dimensionar el mercado, Lupin citó unas ventas anuales estimadas de Janumet en EE. UU. de 439,2 millones de dólares, según datos de IQVIA con corte en septiembre de 2026.\n\nLa información procede del anuncio de la propia empresa y no incluye fechas de lanzamiento, precios ni datos de seguridad. Tampoco describe los pasos regulatorios que quedan pendientes. Quienes tengan dudas sobre su tratamiento deben consultar con su profesional sanitario."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Дозировки",
+      "en": "Strengths",
+      "kk": "Дозалар",
+      "de": "Stärken",
+      "es": "Concentraciones"
+     },
+     "v": {
+      "ru": "50 мг/500 мг и 50 мг/1000 мг",
+      "en": "50 mg/500 mg and 50 mg/1,000 mg",
+      "kk": "50 мг/500 мг және 50 мг/1000 мг",
+      "de": "50 mg/500 mg und 50 mg/1.000 mg",
+      "es": "50 mg/500 mg y 50 mg/1000 mg"
+     }
+    },
+    {
+     "k": {
+      "ru": "Годовые продажи Janumet в США (оценка)",
+      "en": "Estimated annual U.S. sales of Janumet",
+      "kk": "Janumet-тің АҚШ-тағы жылдық сатылымы (бағалау)",
+      "de": "Geschätzte Jahresumsätze von Janumet in den USA",
+      "es": "Ventas anuales estimadas de Janumet en EE. UU."
+     },
+     "v": {
+      "ru": "439,2 млн долларов США (данные IQVIA, сентябрь 2026)",
+      "en": "USD 439.2 million (IQVIA, September 2026)",
+      "kk": "439,2 миллион АҚШ доллары (IQVIA, 2026 жылдың қыркүйегі)",
+      "de": "439,2 Millionen US-Dollar (IQVIA, September 2026)",
+      "es": "439,2 millones de dólares (IQVIA, septiembre de 2026)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nSE0_b2M9NQ",
+   "cat": "market",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "AstraZeneca отказалась от иска о запрете препарата «Акрихин» от диабета",
+    "en": "AstraZeneca drops lawsuit seeking ban on diabetes drug Akrikhin",
+    "kk": "AstraZeneca қант диабетіне арналған «Акрихин» препаратына тыйым салу туралы талаптан бас тартты",
+    "de": "AstraZeneca zieht Klage auf Verbot des Diabetesmedikaments Akrikhin zurück",
+    "es": "AstraZeneca retira la demanda para prohibir el medicamento contra la diabetes Akrikhin"
+   },
+   "text": {
+    "ru": "Компания AstraZeneca отозвала иск о запрете препарата «Акрихин», который применяют при диабете.",
+    "en": "AstraZeneca withdrew its lawsuit seeking to ban Akrikhin, a drug used for diabetes.",
+    "kk": "AstraZeneca қант диабетінде қолданылатын «Акрихин» препаратына тыйым салуды талап ететін арызын қайтарып алды.",
+    "de": "AstraZeneca hat seine Klage auf Verbot von Akrikhin, einem Mittel gegen Diabetes, zurückgezogen.",
+    "es": "AstraZeneca retiró la demanda para prohibir Akrikhin, un medicamento usado para la diabetes."
+   },
+   "url": "https://life.ru/p/astrazeneca-otkazalas-ot-iska-o-zaprete-preparata-akrihina-ot-diabeta",
+   "src": "Life.ru",
+   "photoQuery": "pharmacy shelves medicine boxes",
+   "local": true,
+   "photo": {
+    "id": "u_4BO_MSTEmL8",
+    "url": "https://images.unsplash.com/photo-1655655314398-c40c8dc6fb75?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTh8fG1lZGljYWwlMjB0ZWNobm9sb2d5JTIwZGV2aWNlfGVufDF8MHx8fDE3OTU4MzUzODF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sam Moghadam",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-medical-device-with-a-screen-4BO_MSTEmL8?utm_source=dia_news&utm_medium=referral",
+    "alt": "a medical device with a screen"
+   },
+   "body": {
+    "ru": "Компания AstraZeneca AB сняла иск, в котором требовала запретить продажу препарата от диабета «Фордиглиф», который на российский рынок выводит «Акрихин». Десятый арбитражный апелляционный суд прекратил производство по делу. Об этом 27 ноября сообщило РИА «Новости» со ссылкой на материалы суда.\n\nШведская компания утверждала, что при выпуске дженерика незаконно используется её запатентованная разработка: дапаглифлозин, действующее вещество оригинального «Форсига». Кроме запрета на продажу аналога, она требовала уничтожить имеющиеся у «Акрихина» партии препарата.\n\nВ марте Арбитражный суд Московской области полностью отклонил эти требования. AstraZeneca обжаловала решение, но позже отказалась от иска. Причины этого шага не раскрываются. В начале октября Суд по интеллектуальным правам также признал недействительными решение и предписание ФАС, которая ранее сочла, что вывод «Фордиглифа» на рынок нарушает законодательство.\n\nОтдельно: 19 ноября ФАС потребовала от петербургской компании Solopharm перечислить в бюджет 2 млрд рублей. Ведомство признало недобросовестной конкуренцией вывод препарата «Эмфорикс» до окончания срока патента на оригинальный «Джардинс» немецкой Boehringer Ingelheim. Патентная защита оригинала действует до ноября 2029 года. Это отдельное дело, с другой компанией.",
+    "en": "AstraZeneca AB has withdrawn its lawsuit seeking to stop sales of the diabetes medicine Fordiglif, which Akrikhin is bringing to the Russian market. The Tenth Arbitrazh Court of Appeal ended the case, RIA Novosti reported on 27 November, citing court records.\n\nThe Swedish company had argued that the generic version unlawfully used its patented development: dapagliflozin, the active ingredient of the original Forsiga. Besides seeking a ban on the copy, it had demanded the destruction of Akrikhin's existing batches of the drug.\n\nIn March, the Moscow Region Arbitrazh Court rejected these demands in full. AstraZeneca appealed but later dropped the claim, and the reasons for that move have not been disclosed. In early October, the Intellectual Property Rights Court also declared invalid a decision and order of the Federal Antimonopoly Service (FAS), which had earlier judged the launch of Fordiglif to breach the law.\n\nSeparately, on 19 November the FAS demanded that the St Petersburg company Solopharm pay 2 billion rubles into the budget. The agency deemed unfair competition the launch of the diabetes drug Emforix before the patent on the original Jardiance, made by Germany's Boehringer Ingelheim, had expired. Patent protection for the original runs until November 2029. This is a separate case involving a different company.",
+    "kk": "AstraZeneca AB компаниясы Ресейде «Акрихин» шығаратын «Фордиглиф» диабетке қарсы препаратын сатуға тыйым салуды талап еткен шағымынан бас тартты. Оныншы арбитраждық апелляциялық соты істі тоқтатты. Бұл туралы 27 қарашада РИА «Новости» сот материалдарына сілтеме жасап хабарлады.\n\nШвеция компаниясы дженериктің жасалуында оның патенттелген әзірлемесі, яғни түпнұсқалы «Форсига» препаратының белсенді заты дапаглифлозин заңсыз пайдаланылған деп дәлелдеді. Аналогты сатуға тыйым салумен қатар, ол «Акрихин»-дегі препараттың бар партияларын жоюды да талап еткен.\n\nНаурызда Мәскеу облысының арбитраждық соты бұл талаптарды толық қабылдамады. AstraZeneca шешімге шағым түсірді, бірақ кейін талаптан бас тартты. Мұндай қадамның себептері ашылмаған. Қазан айының басында Интеллектуалдық құқықтар соты ФАС-тың шешімі мен нұсқамасын да жарамсыз деп таныды; ФАС бұрын «Фордиглифтің» нарыққа шығарылуы заңды бұзды деп санаған еді.\n\nБөлек, 19 қарашада ФАС санкт-петербургтік Solopharm компаниясынан 2 млрд рубль бюджетке аударуды талап етті. Ведомство «Эмфорикс» препаратын Germany's Boehringer Ingelheim компаниясының түпнұсқалы «Джардинс» патентінің мерзімі аяқталмай тұрып нарыққа шығаруды адал емес бәсекелестік деп таныды. Түпнұсқаның патенттік қорғанысы 2029 жылдың қарашасына дейін жұмыс істейді. Бұл басқа компаниямен байланысты бөлek іс.",
+    "de": "Der Pharmakonzern AstraZeneca AB hat seine Klage zurückgezogen, mit der er ein Verkaufsverbot für das Diabetesmedikament „Fordiglif“ erreichen wollte. Das Präparat bringt das Unternehmen Akrichin auf den russischen Markt. Das Zehnte Arbitragegericht für Berufungen beendete das Verfahren, wie RIA Novosti am 27. November unter Berufung auf die Gerichtsakten meldete.\n\nDas schwedische Unternehmen hatte argumentiert, das Generikum nutze unrechtmäßig eine patentierte Entwicklung: Dapagliflozin, den Wirkstoff des Originalpräparats Forsiga. Neben dem Verbot des Nachahmerprodukts hatte es verlangt, die vorhandenen Chargen des Medikaments bei Akrichin zu vernichten.\n\nIm März wies das Schiedsgericht des Moskauer Gebiets diese Forderungen vollständig ab. AstraZeneca legte Berufung ein, zog die Klage später aber zurück. Die Gründe dafür wurden nicht genannt. Anfang Oktober erklärte zudem das Gericht für geistiges Eigentum eine Entscheidung und eine Anordnung des Föderalen Antimonopoldienstes (FAS) für ungültig, der zuvor einen Gesetzesverstoß beim Markteintritt von Fordiglif gesehen hatte.\n\nGesondert forderte der FAS am 19. November vom St. Petersburger Pharmaunternehmen Solopharm 2 Milliarden Rubel an den Staatshaushalt. Die Behörde stufte den Markteintritt des Diabetespräparats Emforix vor Ablauf des Patents auf das Originalpräparat Jardiance des deutschen Unternehmens Boehringer Ingelheim als unlauteren Wettbewerb ein. Der Patentschutz für das Original gilt bis November 2029. Dies ist ein eigener Fall mit einem anderen Unternehmen.",
+    "es": "La farmacéutica AstraZeneca AB retiró la demanda con la que pedía prohibir la venta del medicamento para la diabetes «Fordiglif», que la empresa Akrikhin lleva al mercado ruso. El Tribunal de Apelación Arbitral número 10 puso fin al proceso, según informó RIA Novosti el 27 de noviembre citando los documentos judiciales.\n\nLa compañía sueca sostenía que el genérico utilizaba de forma ilegal un desarrollo patentado suyo: la dapagliflozina, principio activo del original Forsiga. Además de pedir la prohibición de la copia, exigía destruir los lotes del fármaco que Akrikhin tenía en su poder.\n\nEn marzo, el Tribunal Arbitral de la región de Moscú rechazó por completo esas peticiones. AstraZeneca recurrió, pero después desistió de la demanda, y no se han revelado los motivos de esa decisión. A principios de octubre, el Tribunal de Derechos de Propiedad Intelectual también declaró nulos una resolución y una orden del Servicio Federal Antimonopolio (FAS), que antes había considerado que la salida de Fordiglif al mercado vulneraba la ley.\n\nPor separado, el 19 de noviembre el FAS exigió a la farmacéutica Solopharm, de San Petersburgo, pagar 2 mil millones de rublos al presupuesto. El organismo calificó como competencia desleal el lanzamiento del medicamento para la diabetes Emforix antes de que expirara la patente del original Jardiance, de la alemana Boehringer Ingelheim. La protección de la patente del original se extiende hasta noviembre de 2029. Se trata de un caso aparte, con otra empresa."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Сумма, которую ФАС потребовала от Solopharm",
+      "en": "Amount the FAS demanded from Solopharm",
+      "kk": "ФАС Solopharm-нан талап еткен сома",
+      "de": "Betrag, den der FAS von Solopharm forderte",
+      "es": "Cantidad que el FAS exigió a Solopharm"
+     },
+     "v": {
+      "ru": "2 млрд рублей",
+      "en": "2 billion rubles",
+      "kk": "2 млрд рубль",
+      "de": "2 Milliarden Rubel",
+      "es": "2 mil millones de rublos"
+     }
+    },
+    {
+     "k": {
+      "ru": "Срок патентной защиты оригинального «Джардинса»",
+      "en": "Patent protection for the original Jardiance",
+      "kk": "Түпнұсқалы «Джардинс» патенттік қорғанысының мерзімі",
+      "de": "Patentschutz für das Original Jardiance",
+      "es": "Protección de patente del original Jardiance"
+     },
+     "v": {
+      "ru": "до ноября 2029 года",
+      "en": "until November 2029",
+      "kk": "2029 жылдың қарашасына дейін",
+      "de": "bis November 2029",
+      "es": "hasta noviembre de 2029"
+     }
+    }
+   ]
+  },
+  {
+   "id": "neEI_b2M9NQ",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "Минздрав хочет обновить перечень медизделий для пациентов с сахарным диабетом",
+    "en": "Health ministry plans to update list of medical devices for diabetes patients",
+    "kk": "Денсаулық сақтау министрлігі қант диабеті бар пациенттерге арналған медициналық бұйымдар тізімін жаңартуды көздеп отыр",
+    "de": "Gesundheitsministerium will Liste der Medizinprodukte für Diabetespatienten aktualisieren",
+    "es": "El Ministerio de Salud quiere actualizar la lista de productos sanitarios para pacientes con diabetes"
+   },
+   "text": {
+    "ru": "Минздрав планирует пересмотреть перечень медицинских изделий, которые помогают пациентам с сахарным диабетом.",
+    "en": "The health ministry plans to revise the list of medical devices that help patients with diabetes.",
+    "kk": "Денсаулық сақтау министрлігі қант диабеті бар пациенттерге көмектесетін медициналық бұйымдар тізімін қайта қарауды жоспарлап отыр.",
+    "de": "Das Gesundheitsministerium plant, die Liste der Medizinprodukte zu überarbeiten, die Diabetespatienten helfen.",
+    "es": "El ministerio de salud planea revisar la lista de productos sanitarios que ayudan a los pacientes con diabetes."
+   },
+   "url": "https://discover24.ru/2026/11/minzdrav-khochet-obnovit-perechen-medizdelii-dlia-patsientov-s-sakharnym-diabetom/",
+   "src": "http://discover24.ru",
+   "photoQuery": "glucose meter test strips",
+   "local": true,
+   "photo": {
+    "id": "u_ZJaK9jQXeDA",
+    "url": "https://images.unsplash.com/photo-1624454002429-40ed87a5ec04?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Z2x1Y29zZSUyMG1ldGVyJTIwdGVzdCUyMHN0cmlwc3xlbnwxfDB8fHwxNzk1ODM1MzgyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Towfiqu barbhuiya",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=dia_news&utm_medium=referral",
+    "alt": "white digital device beside white pen"
+   },
+   "body": {
+    "ru": "Минздрав России подготовил поправки к перечню медицинского оборудования для помощи пациентам с сахарным диабетом и нарушениями углеводного обмена. Об этом 27 ноября 2026 года написал Discover24, ссылаясь на издание «Гарант».\n\nОбновление коснётся оснащения медицинских центров, которые подчиняются региональным властям. Доработанный проект ведомственного приказа от 20 октября 2026 года призван заменить стандарт, применяющийся с 2025 года.\n\nОсобое внимание уделили приборам для диагностики осложнений диабета, прежде всего поражений глаз. В перечень добавили гониоскоп — универсальную трёхзеркальную линзу Гольдмана — и офтальмоскоп для обратной офтальмоскопии.\n\nНовые требования адресованы региональным органам здравоохранения, которые будут закупать оборудование для подведомственных учреждений: региональных, межрайонных и районных медицинских центров. Кроме того, уточнены номенклатурные коды ряда изделий, что должно упростить госзакупки для больниц.\n\nРечь идёт о проекте. В публикации не сказано, когда приказ будет утверждён.",
+    "en": "Russia's Ministry of Health has prepared changes to the list of medical equipment used to help patients with diabetes and carbohydrate metabolism disorders. Discover24 reported this on 27 November 2026, citing the Garant publication.\n\nThe update will affect the equipment of medical centers that answer to regional authorities. A revised draft of a departmental order dated 20 October 2026 is meant to replace the standard that has applied since 2025.\n\nSpecial attention went to devices for diagnosing diabetes complications, especially eye problems. The list adds a gonioscope, a universal three-mirror Goldmann lens, and an ophthalmoscope for so-called reverse ophthalmoscopy.\n\nThe new requirements are aimed at regional health bodies that will buy equipment for their subordinate institutions: regional, interdistrict and district medical centers. The ministry has also clarified the nomenclature codes of several products, which should simplify state procurement for hospitals.\n\nThis is still a draft. The publication does not say when the order will be approved.",
+    "kk": "Ресей Денсаулық сақтау министрлігі қант диабеті және көмірсу алмасуының бұзылыстары бар пациенттерге көмектесетін медициналық жабдықтар тізіміне өзгерістер дайындады. Бұл туралы Discover24 2026 жылғы 27 қарашада «Гарант» басылымына сілтеме жасап хабарлады.\n\nЖаңарту аймақтық билікке бағынатын медициналық орталықтардың жабдықтауына әсер етеді. 2026 жылғы 20 қазандағы ведомстволық бұйрықтың пысықталған жобасы 2025 жылдан бері қолданылып келген стандартты ауыстыруға арналған.\n\nЕрекше назар диабет асқынуларын диагностикалауға арналған құрылғыларға, әсіресе көз ауруларына аударылған. Тізімге гониоскоп — Гольдманның үш айналы әмбебап линзасы — және «кері офтальмоскопия» деп аталатын офтальмоскоп қосылды.\n\nЖаңа талаптар өз мекемелеріне жабдық сатып алатын аймақтық денсаулық сақтау органдарына бағытталған: аймақтық, аралық және аудандық медициналық орталықтар. Министрлік сонымен қатар бірқатар бұйымдардың номенклатуралық кодтарын нақтылады, бұл ауруханалар үшін мемлекеттік сатып алуды жеңілдетуі тиіс.\n\nБұл әлі жоба. Басылымда бұйрық қашан бекітілетіні айтылмаған.",
+    "de": "Das russische Gesundheitsministerium hat Änderungen an der Liste medizinischer Geräte vorbereitet, die der Versorgung von Patienten mit Diabetes und Störungen des Kohlenhydratstoffwechsels dienen. Discover24 berichtete darüber am 27. November 2026 unter Berufung auf die Publikation Garant.\n\nDie Aktualisierung betrifft die Ausstattung medizinischer Zentren, die regionalen Behörden unterstehen. Ein überarbeiteter Entwurf einer Ressortverordnung vom 20. Oktober 2026 soll den Standard ersetzen, der seit 2025 gilt.\n\nBesonderes Augenmerk galt Geräten zur Diagnose von Diabetes-Folgeerkrankungen, vor allem an den Augen. Die Liste ergänzt ein Goniskop, eine universelle Dreispiegel-Linse nach Goldmann, sowie ein Ophthalmoskop für die sogenannte umgekehrte Ophthalmoskopie.\n\nDie neuen Vorgaben richten sich an regionale Gesundheitsbehörden, die Geräte für nachgeordnete Einrichtungen beschaffen: regionale, interbezirkliche und Bezirks-Medizinzentren. Außerdem wurden die Nomenklaturcodes mehrerer Produkte präzisiert, was staatliche Beschaffungen für Krankenhäuser vereinfachen soll.\n\nEs handelt sich noch um einen Entwurf. Die Veröffentlichung nennt keinen Termin, zu dem die Verordnung genehmigt werden soll.",
+    "es": "El Ministerio de Salud de Rusia ha preparado cambios en la lista de equipos médicos destinados a atender a pacientes con diabetes y trastornos del metabolismo de los carbohidratos. Discover24 informó de ello el 27 de noviembre de 2026, citando a la publicación Garant.\n\nLa actualización afectará al equipamiento de los centros médicos que dependen de las autoridades regionales. Un proyecto revisado de orden departamental, fechado el 20 de octubre de 2026, debe sustituir el estándar vigente desde 2025.\n\nSe prestó especial atención a los dispositivos para diagnosticar complicaciones de la diabetes, sobre todo las de la vista. La lista incorpora un goniscopio, una lente universal de tres espejos de Goldmann, y un oftalmoscopio para la llamada oftalmoscopia inversa.\n\nLos nuevos requisitos se dirigen a los organismos regionales de salud que comprarán equipos para sus centros subordinados: regionales, interdistritales y distritales. Además, se precisaron los códigos de nomenclatura de varios productos, lo que debería simplificar las compras estatales para los hospitales.\n\nSe trata de un proyecto. La publicación no indica cuándo se aprobará la orden."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Дата проекта приказа",
+      "en": "Draft order date",
+      "kk": "Бұйрық жобасының күні",
+      "de": "Datum des Verordnungsentwurfs",
+      "es": "Fecha del proyecto de orden"
+     },
+     "v": {
+      "ru": "20 октября 2026 года",
+      "en": "20 October 2026",
+      "kk": "2026 жылғы 20 қазан",
+      "de": "20. Oktober 2026",
+      "es": "20 de octubre de 2026"
+     }
+    },
+    {
+     "k": {
+      "ru": "Действующий стандарт",
+      "en": "Standard currently in force",
+      "kk": "Қазіргі қолданыстағы стандарт",
+      "de": "Derzeit geltender Standard",
+      "es": "Estándar vigente"
+     },
+     "v": {
+      "ru": "С 2025 года",
+      "en": "In force since 2025",
+      "kk": "2025 жылдан бері",
+      "de": "Seit 2025 in Kraft",
+      "es": "Vigente desde 2025"
+     }
+    }
+   ]
+  },
+  {
+   "id": "n1OND9vYz01",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "Инсулиновые помпы: найдёт ли новое правительство деньги?",
+    "en": "Insulin pumps: will the new government find the money?",
+    "kk": "Инсулин сораптары: жаңа үкімет қаражат таба ма?",
+    "de": "Insulinpumpen: Wird die neue Regierung das Geld finden?",
+    "es": "Bombas de insulina: ¿encontrará dinero el nuevo gobierno?"
+   },
+   "text": {
+    "ru": "Обсуждается, найдёт ли новое правительство средства на инсулиновые помпы для людей с диабетом.",
+    "en": "It is being debated whether the new government will find funding for insulin pumps for people with diabetes.",
+    "kk": "Жаңа үкімет қант диабеті бар адамдарға арналған инсулин сораптарына қаражат таба ала ма, соны талқылап жатыр.",
+    "de": "Diskutiert wird, ob die neue Regierung Mittel für Insulinpumpen für Menschen mit Diabetes findet.",
+    "es": "Se debate si el nuevo gobierno encontrará fondos para las bombas de insulina de las personas con diabetes."
+   },
+   "url": "https://rus.lsm.lv/statja/novosti/obschestvo/27.11.2026-insulinovye-pompy-naidet-li-dengi-novoe-pravitelstvo.a673673/",
+   "src": "LSM",
+   "photoQuery": "insulin pump device on table",
+   "local": true,
+   "photo": {
+    "id": "u_JkTjjxYLjPU",
+    "url": "https://images.unsplash.com/photo-1760840163528-8421b8f5fc79?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHB1bXAlMjBkZXZpY2UlMjBvbiUyMHRhYmxlfGVufDF8MHx8fDE3OTU4MzUzODJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Avesta",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-pen-and-a-disassembled-phone-on-a-wooden-table-JkTjjxYLjPU?utm_source=dia_news&utm_medium=referral",
+    "alt": "A pen and a disassembled phone on a wooden table"
+   },
+   "body": {
+    "ru": "Латвийская общественная служба LSM на русском языке спрашивает, найдёт ли новое правительство деньги на инсулиновые помпы. Речь идёт о пациентах с диабетом первого типа, которые до сих пор ждут обещанной частичной компенсации из госбюджета на глюкозные сенсоры и помпы.\n\nЛатвия остаётся одной из последних стран ЕС, где взрослым не оплачивают эти приборы. В Минздраве заявляют, что вопрос включён в список приоритетов ведомства на следующий год, однако материал спрашивает, перейдёт ли правительство от слов к делу. Сейчас государство оплачивает глюкозные сенсоры до 18 лет, а помпы — до 24. Обсуждалась идея компенсировать помпы в размере 75% всем, кто в них нуждается.\n\nАйва Виксна, председатель бюджетной комиссии Сейма от «Объединённого списка», сказала, что ответа нынешнего министра здравоохранения пока не знает. По её словам, речь идёт о сумме 6,8 млн (валюта не указана), и по этому вопросу Сейм тоже принял полностью положительное решение. Она заявила, что будет его поддерживать и внесёт предложения, где найти деньги, когда бюджет будет представлен.\n\nИтог пока открыт: бюджет ещё не внесён, поэтому неясно, профинансирует ли меру новое правительство.",
+    "en": "The Russian-language service of Latvia's public broadcaster LSM asks whether the new government will find money for insulin pumps. The issue concerns patients with type 1 diabetes, who are still waiting for a promised partial state-budget contribution toward glucose sensors and pumps.\n\nLatvia remains one of the last EU countries where adult patients do not have these devices paid for. The Health Ministry says the issue is on its priority list for next year, but the report asks whether the government will move from words to action. The state currently pays for glucose sensors up to age 18 and for insulin pumps up to age 24. One idea discussed was to compensate pumps at 75% for everyone who needs them.\n\nIeva Viksna, chair of the Saeima budget and finance committee from the United List, said she does not yet know the current health minister's answer. She said the amount in question is 6.8 million (currency not specified), and that the Saeima had also taken a fully positive decision on the matter. She stated she will support it and will submit proposals on where to find the money once the budget is tabled.\n\nThe outcome remains open: the budget has not yet been submitted, so it is unclear whether the new government will fund the measure.",
+    "kk": "Латвияның LSM қоғамдық медиасының орыс тіліндегі бөлімі жаңа үкімет инсулин помпаларына ақша таба ала ма деген сұрақ қояды. Бұл 1-типті қант диабетімен ауыратын пациенттерге қатысты: олар глюкоза сенсорлары мен помпаларға мемлекеттік бюджеттен ішінара өтемақы берілетінін әлі күтуде.\n\nЛатвия ЕО-ның ересек пациенттерге бұл құрылғыларды төлемейтін соңғы елдерінің бірі болып қала береді. Денсаулық сақтау министрлігі мәселе келесі жылға арналған басым ұсыныстар тізімінде тұрғанын айтады, бірақ материал үкімет сөзден іске көше ала ма деп сұрайды. Қазір мемлекет глюкоза сенсорларын 18 жасқа дейін, ал инсулин помпаларын 24 жасқа дейін төлейді. Талқыланған идея — помпаларға мұқтаж барлық адамға 75% өтемақы беру.\n\n«Біріккен тізім» фракциясынан Сейм бюджет және қаржы комиссиясының төрағасы Айва Виксна қазіргі денсаулық сақтау министрінің жауабын әлі білмейтінін айтты. Оның сөзінше, сөз 6,8 миллион туралы болып тұр (валюта көрсетілмеген), және бұл мәселе бойынша Сейм де толық оң шешім қабылдаған. Ол бұл шараны қолдайтынын және бюджет ұсынылған кезде ақшаны қайдан табуға болатыны туралы ұсыныстар енгізетінін мәлімдеді.\n\nНәтиже әлі ашық: бюджет әлі ұсынылмаған, сондықтан жаңа үкімет бұл шараны қаржыландыра ма, жоқ па — ол белгісіз.",
+    "de": "Der russischsprachige Dienst des lettischen öffentlich-rechtlichen Senders LSM fragt, ob die neue Regierung Geld für Insulinpumpen finden wird. Es geht um Patienten mit Typ-1-Diabetes, die noch immer auf die versprochene teilweise Kostenübernahme aus dem Staatshaushalt für Glukosesensoren und Pumpen warten.\n\nLettland gehört weiterhin zu den letzten EU-Ländern, in denen erwachsene Patienten diese Geräte nicht bezahlt bekommen. Das Gesundheitsministerium erklärt, das Thema stehe auf der Prioritätenliste für das kommende Jahr; der Beitrag fragt jedoch, ob die Regierung den Worten Taten folgen lässt. Derzeit übernimmt der Staat Glukosesensoren bis zum Alter von 18 Jahren und Insulinpumpen bis 24. Diskutiert wurde, Pumpen allen Bedürftigen zu 75 % zu erstatten.\n\nIeva Vikšna, Vorsitzende des Haushalts- und Finanzausschusses des Saeima (Fraktion „Vereinigte Liste“), sagt, sie kenne die Antwort des amtierenden Gesundheitsministers noch nicht. Es gehe um 6,8 Millionen (Währung nicht angegeben), und auch das Parlament habe in dieser Frage vollständig positiv entschieden. Sie werde das Vorhaben unterstützen und Vorschläge zur Finanzierung einbringen, sobald der Haushalt vorgelegt ist.\n\nOb die neue Regierung die Maßnahme finanziert, bleibt offen, da der Haushaltsentwurf noch nicht vorliegt.",
+    "es": "El servicio en ruso de la radiotelevisión pública letona LSM pregunta si el nuevo gobierno encontrará dinero para las bombas de insulina. El tema afecta a pacientes con diabetes tipo 1, que todavía esperan la prometida compensación parcial, con cargo al presupuesto estatal, de los sensores de glucosa y las bombas.\n\nLetonia sigue siendo uno de los últimos países de la UE donde los pacientes adultos no tienen pagados estos dispositivos. El Ministerio de Sanidad afirma que la cuestión figura en su lista de prioridades para el próximo año, pero el artículo se pregunta si el gobierno pasará de las palabras a los hechos. Actualmente el Estado paga los sensores de glucosa hasta los 18 años y las bombas hasta los 24. Se ha debatido compensar las bombas en un 75 % a todas las personas que las necesiten.\n\nIeva Vikšna, presidenta de la comisión de presupuesto y finanzas del Saeima (Lista Unida), dijo que todavía no conoce la respuesta del actual ministro de Sanidad. Indicó que la cifra en juego es de 6,8 millones (moneda no especificada) y que el Saeima también había tomado una decisión totalmente favorable sobre el asunto. Afirmó que la apoyará y que presentará propuestas sobre de dónde obtener el dinero cuando se presente el presupuesto.\n\nEl desenlace sigue abierto, ya que el presupuesto aún no se ha presentado, por lo que no está claro si el nuevo gobierno financiará la medida."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Сумма, названная в статье",
+      "en": "Amount named in the article",
+      "kk": "Мақалада аталған сома",
+      "de": "Im Artikel genannter Betrag",
+      "es": "Cantidad mencionada en el artículo"
+     },
+     "v": {
+      "ru": "6,8 млн (валюта не указана)",
+      "en": "6.8 million (currency not specified)",
+      "kk": "6,8 миллион (валюта көрсетілмеген)",
+      "de": "6,8 Millionen (Währung nicht angegeben)",
+      "es": "6,8 millones (moneda no especificada)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Возраст, до которого государство оплачивает",
+      "en": "Age up to which the state pays",
+      "kk": "Мемлекет төлейтін жас шегі",
+      "de": "Alter, bis zu dem der Staat zahlt",
+      "es": "Edad hasta la que paga el Estado"
+     },
+     "v": {
+      "ru": "сенсоры — до 18 лет, помпы — до 24",
+      "en": "sensors up to 18, pumps up to 24",
+      "kk": "сенсорлар — 18 жасқа дейін, помпалар — 24 жасқа дейін",
+      "de": "Sensoren bis 18, Pumpen bis 24",
+      "es": "sensores hasta los 18, bombas hasta los 24"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nU9BP29jPTU",
+   "cat": "research",
+   "stage": "results",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "OPTIMAL-DIABETES проверяет целевое систолическое давление ниже 120 при диабете 2 типа",
+    "en": "OPTIMAL-DIABETES tests systolic target below 120 in type 2 diabetes",
+    "kk": "OPTIMAL-DIABETES 2 типті қант диабетінде систолалық қысымның 120-дан төмен мақсатты деңгейін зерттейді",
+    "de": "OPTIMAL-DIABETES prüft systolischen Zielwert unter 120 bei Typ-2-Diabetes",
+    "es": "OPTIMAL-DIABETES evalúa un objetivo de presión sistólica por debajo de 120 en la diabetes tipo 2"
+   },
+   "text": {
+    "ru": "Исследование OPTIMAL-DIABETES изучает целевой уровень систолического давления ниже 120 мм рт. ст. у людей с диабетом 2 типа.",
+    "en": "The OPTIMAL-DIABETES study examines a systolic blood pressure target below 120 mm Hg in people with type 2 diabetes.",
+    "kk": "OPTIMAL-DIABETES зерттеуі 2 типті қант диабеті бар адамдарда систолалық қан қысымының 120 мм сын.бағ.-дан төмен мақсатты деңгейін зерттейді.",
+    "de": "Die Studie OPTIMAL-DIABETES untersucht einen systolischen Blutdruckzielwert unter 120 mm Hg bei Menschen mit Typ-2-Diabetes.",
+    "es": "El estudio OPTIMAL-DIABETES analiza un objetivo de presión arterial sistólica por debajo de 120 mm Hg en personas con diabetes tipo 2."
+   },
+   "url": "https://www.hcplive.com/view/optimal-diabetes-tests-sbp-below-120-in-type-2-diabetes",
+   "src": "HCPLive",
+   "photoQuery": "blood pressure monitor cuff",
+   "photo": {
+    "id": "u_i1iqQRLULlg",
+    "url": "https://images.unsplash.com/photo-1615486511484-92e172cc4fe0?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBwcmVzc3VyZSUyMG1vbml0b3IlMjBjdWZmfGVufDF8MHx8fDE3OTU4MzUzODN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Mockup Graphics",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/blood-pressure-monitor-with-grey-cuff-i1iqQRLULlg?utm_source=dia_news&utm_medium=referral",
+    "alt": "A person using a digital blood pressure monitor with a grey cuff on their arm"
+   },
+   "body": {
+    "ru": "Исследование OPTIMAL-DIABETES представили на Научных сессиях Американской ассоциации кардиологов 2026 года, и одновременно его опубликовал журнал The New England Journal of Medicine. В нём проверяли более строгую цель по артериальному давлению у взрослых с диабетом 2 типа. Два клинициста обсудили результаты в недавнем выпуске подкаста Diabetes Dialogue, о котором HCPLive сообщил 27 ноября 2026 года.\n\nОткрытое исследование случайным образом распределило 9,476 взрослых старше 50 лет с диабетом 2 типа, повышенным артериальным давлением и высоким сердечно-сосудистым риском на 33 участках в Бразилии. Одна группа стремилась к систолическому давлению ниже 120 мм рт. ст., другая — ниже 140 мм рт. ст. Средние достигнутые значения составили 121.8 и 135.4 мм рт. ст. соответственно.\n\nПосле медианы наблюдения в четыре года основная составная конечная точка (сердечно-сосудистая смерть, нефатальный инфаркт миокарда, нефатальный инсульт или госпитализация по поводу нестабильной стенокардии или сердечной недостаточности) наступила у 6.0% участников интенсивной группы и у 6.7% в группе стандартного лечения. Эта разница не была статистически значимой (HR 0.90; 95% CI 0.77-1.06; P = .2). Интенсивное лечение увеличило составной показатель по почкам (5.7% против 3.7%) и требовало в среднем 3.2 гипотензивных препарата.\n\nРезультат расходится с исследованием BPROAD, где цель ниже 120 мм рт. ст. у китайской популяции с большей исходной частотой инсультов сократила сердечно-сосудистые события. Предварительно заданный метаанализ, объединивший OPTIMAL-DIABETES, BPROAD и ACCORD BP, всё же показал снижение относительного риска крупных сердечно-сосудистых событий на 16% при интенсивном снижении давления (HR 0.84; 95% CI 0.77-0.93). Руководство AHA/ACC 2025 года рекомендует давление ниже 130/80 мм рт. ст. и поощряет целевое систолическое значение ниже 120 для пациентов с повышенным риском.\n\nКомментаторы считают, что OPTIMAL-DIABETES поддерживает целевое значение 130/80 мм рт. ст. для большинства пациентов с диабетом, а более низкую цель стоит оставлять тщательно отобранным людям с учётом хрупкости, риска падений и количества принимаемых препаратов. По их мнению, результаты могут побудить комитеты по рекомендациям сузить круг тех, кому нужна цель ниже 120, однако необходимы анализы подгрупп и подтверждение на других популяциях.",
+    "en": "Researchers presented the OPTIMAL-DIABETES trial at the American Heart Association Scientific Sessions 2026, and it was published at the same time in The New England Journal of Medicine. The study tested a stricter blood pressure goal in adults with type 2 diabetes. Two clinicians discussed it on a recent Diabetes Dialogue podcast episode, reported by HCPLive on November 27, 2026.\n\nThe open-label trial randomly assigned 9,476 adults aged 50 and older, all with type 2 diabetes, elevated blood pressure and high cardiovascular risk, at 33 sites in Brazil. One group aimed for a systolic pressure below 120 mm Hg, the other below 140 mm Hg. Average readings reached 121.8 and 135.4 mm Hg, respectively.\n\nAfter a median follow-up of four years, the main composite endpoint (cardiovascular death, nonfatal heart attack, nonfatal stroke, or hospitalization for unstable angina or heart failure) occurred in 6.0% of the intensive group and 6.7% of the standard group. That gap was not statistically significant (HR 0.90; 95% CI 0.77-1.06; P = .2). Intensive treatment raised a composite kidney outcome (5.7% vs 3.7%) and required an average of 3.2 antihypertensive agents.\n\nThe result differs from the BPROAD trial, which tested a below-120 target in a Chinese population with more baseline stroke and did reduce cardiovascular events. A prespecified meta-analysis combining OPTIMAL-DIABETES, BPROAD and ACCORD BP still showed a 16% relative reduction in major cardiovascular events with intensive lowering (HR 0.84; 95% CI 0.77-0.93). The 2025 AHA/ACC guideline advises blood pressure below 130/80 mm Hg and encourages a systolic goal below 120 for people at elevated risk.\n\nThe commentators read OPTIMAL-DIABETES as supporting 130/80 mm Hg for most patients with diabetes, with the lower target reserved for carefully selected people, weighing factors such as frailty, fall risk and medication burden. They suggest the findings may lead guideline committees to narrow who should pursue a below-120 goal, but say subgroup analyses and replication in other populations are still needed.",
+    "kk": "OPTIMAL-DIABETES зерттеуі 2026 жылғы Американдық жүрек қауымдастығының ғылыми сессиясында ұсынылды және сол уақытта The New England Journal of Medicine журналында жарияланды. Зерттеуде 2-тип қант диабеті бар ересектерде қан қысымының қатаңырақ мақсаты сыналды. Екі дәрігер бұл нәтижелерді Diabetes Dialogue подкастының соңғы бөлімінде талқылады; оны HCPLive 2026 жылғы 27 қарашада жариялады.\n\nАшық зерттеуге Бразилиядағы 33 орталықта 50 жас және одан үлкен, 2-тип қант диабеті, жоғары қан қысымы және жоғары жүрек-қан тамыр қаупі бар 9,476 ересек кездейсоқ тағайындалды. Бір топ систолалық қысымды 120 мм сын. бағ.-нан төмен, екіншісі 140 мм сын. бағ.-нан төмен ұстауды мақсат етті. Орташа қол жеткен көрсеткіштер сәйкесінше 121.8 және 135.4 мм сын. бағ. болды.\n\nОрташа төрт жыл бақылаудан кейін негізгі біріктірілген нәтиже (жүрек-қан тамыр себебінен өлім, өлімге әкелмеген миокард инфаркты, өлімге әкелмеген инсульт немесе тұрақсыз стенокардия немесе жүрек жетіспеушілігі себебінен ауруханаға түсу) қарқынды топтың 6.0%-ында, стандартты топтың 6.7%-ында болды. Бұл айырмашылық статистикалық маңызды емес болды (HR 0.90; 95% CI 0.77-1.06; P = .2). Қарқынды ем бүйрекке қатысты біріктірілген көрсеткішті арттырды (5.7% және 3.7%) және орта есеппен 3.2 қан қысымын төмендететін дәрі-дәрмекті қажет етті.\n\nНәтиже BPROAD зерттеуінен ерекшеленеді; онда Қытай халқында 120 мм сын. бағ.-нан төмен мақсат жүрек-қан тамыр оқиғаларын азайтты, бірақ бастапқыда инсульт жиілігі жоғары болған. Алдын ала жоспарланған метаталдау OPTIMAL-DIABETES, BPROAD және ACCORD BP зерттеулерін біріктіріп, қарқынды төмендетуде негізгі жүрек-қан тамыр оқиғаларының салыстырмалы түрде 16% азайғанын көрсетті (HR 0.84; 95% CI 0.77-0.93). 2025 жылғы AHA/ACC нұсқаулығы 130/80 мм сын. бағ.-нан төмен қан қысымын ұсынады және жоғары қаупі бар науқастар үшін систолалық мақсатты 120-дан төмен ұстауды ұсынады.\n\nКомментаторлардың пікірінше, OPTIMAL-DIABETES қант диабеті бар науқастардың көпшілігі үшін 130/80 мм сын. бағ. мақсатын қолдайды, ал төменгі мақсат әлсіздік, құлау қаупі және дәрі-дәрмек жүктемесі сияқты факторлар ескеріле отырып, мұқият таңдалған адамдарға қалдырылады. Олардың айтуынша, нәтижелер нұсқаулық комитеттерін 120-дан төмен мақсатты кімдер ұстануы керек екенін тарылтуға итермелеуі мүмкін, бірақ ішкі топтық талдаулар мен басқа популяцияларда қайталау әлі қажет.",
+    "de": "Die Studie OPTIMAL-DIABETES wurde auf den Scientific Sessions der American Heart Association 2026 vorgestellt und zeitgleich im New England Journal of Medicine veröffentlicht. Untersucht wurde ein strengeres Blutdruckziel bei Erwachsenen mit Typ-2-Diabetes. Zwei Fachleute besprachen die Ergebnisse in einer aktuellen Folge des Podcasts Diabetes Dialogue, über die HCPLive am 27. November 2026 berichtete.\n\nDie offene Studie teilte 9,476 Erwachsene ab 50 Jahren mit Typ-2-Diabetes, erhöhtem Blutdruck und hohem kardiovaskulärem Risiko per Zufall auf 33 Zentren in Brasilien auf. Eine Gruppe strebte einen systolischen Wert unter 120 mm Hg an, die andere unter 140 mm Hg. Die erreichten Mittelwerte lagen bei 121.8 bzw. 135.4 mm Hg.\n\nNach einer medianen Nachbeobachtungszeit von vier Jahren trat der kombinierte Hauptendpunkt (kardiovaskulärer Tod, nicht tödlicher Herzinfarkt, nicht tödlicher Schlaganfall oder Krankenhausaufenthalt wegen instabiler Angina oder Herzinsuffizienz) bei 6.0% der intensiv behandelten und 6.7% der Standardgruppe auf. Der Unterschied war nicht statistisch signifikant (HR 0.90; 95% CI 0.77-1.06; P = .2). Die intensive Behandlung erhöhte einen kombinierten Nierenendpunkt (5.7% gegenüber 3.7%) und erforderte im Mittel 3.2 blutdrucksenkende Wirkstoffe.\n\nDas Ergebnis weicht von der BPROAD-Studie ab, in der ein Ziel unter 120 mm Hg bei einer chinesischen Population mit mehr Schlaganfällen zu Studienbeginn kardiovaskuläre Ereignisse verringerte. Eine vorab festgelegte Metaanalyse, die OPTIMAL-DIABETES, BPROAD und ACCORD BP zusammenfasst, ergab dennoch eine relative Reduktion schwerer kardiovaskulärer Ereignisse um 16% bei intensiver Senkung (HR 0.84; 95% CI 0.77-0.93). Die AHA/ACC-Leitlinie von 2025 empfiehlt Werte unter 130/80 mm Hg und ermutigt bei erhöhtem Risiko zu einem systolischen Ziel unter 120.\n\nDie Kommentatoren sehen in OPTIMAL-DIABETES eine Stütze für 130/80 mm Hg als vernünftiges Ziel für die meisten Menschen mit Diabetes; das niedrigere Ziel sei sorgfältig ausgewählten Patienten vorbehalten, wobei Faktoren wie Gebrechlichkeit, Sturzrisiko und Medikamentenlast einbezogen werden. Die Befunde könnten Leitliniengremien veranlassen, den Kreis derer einzugrenzen, die ein Ziel unter 120 anstreben sollten. Subgruppenanalysen und Bestätigung in weiteren Populationen bleiben jedoch nötig.",
+    "es": "El ensayo OPTIMAL-DIABETES se presentó en las Sesiones Científicas de la American Heart Association 2026 y se publicó al mismo tiempo en The New England Journal of Medicine. El estudio evaluó una meta de presión arterial más estricta en adultos con diabetes tipo 2. Dos especialistas analizaron los resultados en un episodio reciente del podcast Diabetes Dialogue, reseñado por HCPLive el 27 de noviembre de 2026.\n\nEl ensayo abierto asignó aleatoriamente a 9,476 adultos de 50 años o más, todos con diabetes tipo 2, presión arterial elevada y alto riesgo cardiovascular, en 33 centros de Brasil. Un grupo buscaba una presión sistólica por debajo de 120 mm Hg y el otro por debajo de 140 mm Hg. Las presiones medias alcanzadas fueron de 121.8 y 135.4 mm Hg, respectivamente.\n\nTras un seguimiento mediano de cuatro años, el criterio combinado principal (muerte cardiovascular, infarto de miocardio no fatal, ictus no fatal u hospitalización por angina inestable o insuficiencia cardíaca) se produjo en el 6.0% del grupo intensivo y en el 6.7% del grupo estándar. La diferencia no fue estadísticamente significativa (HR 0.90; IC 95% 0.77-1.06; P = .2). El tratamiento intensivo aumentó un resultado renal combinado (5.7% frente a 3.7%) y requirió en promedio 3.2 fármacos antihipertensivos.\n\nEl resultado difiere del ensayo BPROAD, en el que una meta por debajo de 120 mm Hg en una población china con mayor carga basal de ictus sí redujo los eventos cardiovasculares. Un metaanálisis prespecificado que combina OPTIMAL-DIABETES, BPROAD y ACCORD BP mostró, aun así, una reducción relativa del 16% en eventos cardiovasculares mayores con la reducción intensiva (HR 0.84; IC 95% 0.77-0.93). La guía AHA/ACC de 2025 recomienda una presión inferior a 130/80 mm Hg y alienta una meta sistólica por debajo de 120 en personas con riesgo elevado.\n\nLos comentaristas consideran que OPTIMAL-DIABETES respalda 130/80 mm Hg como meta razonable para la mayoría de los pacientes con diabetes, reservando la meta más baja para personas seleccionadas con cuidado, teniendo en cuenta factores como la fragilidad, el riesgo de caídas y la carga de medicamentos. Creen que los resultados podrían llevar a los comités de guías a acotar quién debería perseguir una meta por debajo de 120, aunque aún hacen falta análisis de subgrupos y réplicas en otras poblaciones."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Участники исследования (взрослые старше 50 лет)",
+      "en": "Trial participants (adults aged 50 and older)",
+      "kk": "Зерттеу қатысушылары (50 жас және одан үлкен ересектер)",
+      "de": "Studienteilnehmer (Erwachsene ab 50 Jahren)",
+      "es": "Participantes del ensayo (adultos de 50 años o más)"
+     },
+     "v": {
+      "ru": "9,476",
+      "en": "9,476",
+      "kk": "9,476",
+      "de": "9,476",
+      "es": "9,476"
+     }
+    },
+    {
+     "k": {
+      "ru": "Основная составная конечная точка: интенсивная группа / стандартная группа",
+      "en": "Primary composite endpoint: intensive group / standard group",
+      "kk": "Негізгі біріктірілген нәтиже: қарқынды топ / стандартты топ",
+      "de": "Primärer kombinierter Endpunkt: intensive Gruppe / Standardgruppe",
+      "es": "Criterio combinado principal: grupo intensivo / grupo estándar"
+     },
+     "v": {
+      "ru": "6.0% / 6.7% (HR 0.90; 95% CI 0.77-1.06; P = .2)",
+      "en": "6.0% / 6.7% (HR 0.90; 95% CI 0.77-1.06; P = .2)",
+      "kk": "6.0% / 6.7% (HR 0.90; 95% CI 0.77-1.06; P = .2)",
+      "de": "6.0% / 6.7% (HR 0.90; 95% CI 0.77-1.06; P = .2)",
+      "es": "6.0% / 6.7% (HR 0.90; 95% CI 0.77-1.06; P = .2)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nUmc_b2M9NQ",
+   "cat": "devices",
+   "stage": "results",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "Автоматизированная доставка инсулина у беременных с диабетом 1 типа: обновлённый метаанализ",
+    "en": "Automated insulin delivery in pregnant women with type 1 diabetes: updated meta-analysis",
+    "kk": "1 типті қант диабеті бар жүкті әйелдерде инсулинді автоматты жеткізу: жаңартылған метаталдау",
+    "de": "Automatisierte Insulinabgabe bei schwangeren Frauen mit Typ-1-Diabetes: aktualisierte Metaanalyse",
+    "es": "Administración automatizada de insulina en embarazadas con diabetes tipo 1: metaanálisis actualizado"
+   },
+   "text": {
+    "ru": "Обновлённый систематический обзор и метаанализ рандомизированных исследований автоматизированной доставки инсулина у беременных с диабетом 1 типа.",
+    "en": "An updated systematic review and meta-analysis of randomized trials of automated insulin delivery in pregnant women with type 1 diabetes.",
+    "kk": "1 типті қант диабеті бар жүкті әйелдерде инсулинді автоматты жеткізуді зерттеген рандомизацияланған сынақтардың жаңартылған жүйелі шолуы мен метаталдауы.",
+    "de": "Eine aktualisierte systematische Übersichtsarbeit und Metaanalyse randomisierter Studien zur automatisierten Insulinabgabe bei schwangeren Frauen mit Typ-1-Diabetes.",
+    "es": "Una revisión sistemática actualizada y metaanálisis de ensayos aleatorizados sobre la administración automatizada de insulina en embarazadas con diabetes tipo 1."
+   },
+   "url": "https://www.cureus.com/articles/548319-automated-insulin-delivery-in-pregnant-women-with-type-1-diabetes-an-updated-systematic-review-and-meta-analysis-of-randomized-controlled-trials",
+   "src": "Cureus",
+   "photoQuery": "insulin pump sensor",
+   "photo": {
+    "id": "u_0rXHOonM9Ug",
+    "url": "https://images.unsplash.com/photo-1683027611367-055941a0380d?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8aW5zdWxpbiUyMHB1bXAlMjBzZW5zb3J8ZW58MXwwfHx8MTc5NTgzNTM4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Sweet Life",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-person-holding-an-insulin-injection-0rXHOonM9Ug?utm_source=dia_news&utm_medium=referral",
+    "alt": "a person holding an insulin injection"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nmhCP29jPTU",
+   "cat": "research",
+   "stage": "report",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "Социальное неблагополучие связано с более высоким использованием инсулина и меньшим — препаратов ГПП-1",
+    "en": "Social disadvantage linked to higher insulin and lower GLP-1 use in diabetes",
+    "kk": "Әлеуметтік қиындықтар инсулинді жиі қолдануға және ГПП-1 препараттарын аз қолдануға байланысты",
+    "de": "Soziale Benachteiligung hängt mit höherem Insulin- und geringerem GLP-1-Einsatz bei Diabetes zusammen",
+    "es": "La desventaja social se asocia con mayor uso de insulina y menor uso de GLP-1 en la diabetes"
+   },
+   "text": {
+    "ru": "Исследование связывает социальное неблагополучие с более частым применением инсулина и более редким применением препаратов ГПП-1 у людей с диабетом.",
+    "en": "A study links social disadvantage with more frequent insulin use and less frequent GLP-1 use among people with diabetes.",
+    "kk": "Зерттеу әлеуметтік қиындықтар қант диабеті бар адамдарда инсулинді жиі, ал ГПП-1 препараттарын сирек қолдануымен байланысты екенін көрсетеді.",
+    "de": "Eine Studie verbindet soziale Benachteiligung mit häufigerem Insulin- und seltenerem GLP-1-Einsatz bei Menschen mit Diabetes.",
+    "es": "Un estudio relaciona la desventaja social con un mayor uso de insulina y un menor uso de fármacos GLP-1 en personas con diabetes."
+   },
+   "url": "https://bioengineer.org/social-disadvantage-linked-to-higher-insulin-and-lower-glp-1-use-in-diabetes/",
+   "src": "Bioengineer.org",
+   "photoQuery": "medication packs on table",
+   "photo": {
+    "id": "u_jwWtZrm67VI",
+    "url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bWVkaWNhdGlvbiUyMHBhY2tzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk1ODM1Mzg0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Christine Sandu",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/white-and-blue-medication-pill-blister-pack-jwWtZrm67VI?utm_source=dia_news&utm_medium=referral",
+    "alt": "white and blue medication pill blister pack"
+   },
+   "body": {
+    "ru": "Исследование типа «поперечного среза», опубликованное в журнале BMC Endocrine Disorders и описанное 27 ноября 2026 года, показало: у взрослых американцев с диабетом накопленная социальная неблагополучность связана с более частым применением инсулина и реже — инъекционных препаратов ГПП-1. Исследователи изучили, как социальные условия в нескольких сферах соотносятся со схемами использования основных средств лечения диабета.\n\nВ анализ вошли данные 3 261 взрослого американца с диабетом из Национального опроса о состоянии здоровья за 2024 год. Каждому участнику присвоили оценку по 21 показателю социальных детерминант здоровья, сгруппированных в шесть областей, после чего людей разделили на три группы: благоприятная, средняя и неблагоприятная. Статистические модели с учётом весов опроса сравнивали эти группы по пероральным сахароснижающим препаратам, инсулину и инъекционным ГПП-1.\n\nПо сравнению с благоприятной группой, участники неблагоприятной группы имели значимо более высокие шансы использовать инсулин (скорректированное отношение шансов 1,33; 95% доверительный интервал от 1,01 до 1,76) и более низкие шансы применять инъекционные ГПП-1 (скорректированное отношение шансов 0,69; 95% ДИ от 0,53 до 0,91). Значимой общей связи с пероральными препаратами не выявлено. Отдельные факторы показали похожую картину: никогда не работавшие или ранее работавшие (кроме пенсионеров), продовольственная небезопасность и нестабильное жильё были связаны с большим использованием инсулина, а низкий доход, ограниченное образование и ограниченный доступ к цифровым сервисам здравоохранения — с меньшим использованием инъекционных ГПП-1.\n\nЧасть закономерностей различалась по группам. Связь неблагополучности с меньшим применением пероральных препаратов проявилась только у мужчин, а связь с более частым использованием инсулина оказалась значимой лишь у людей в возрасте 45–64 лет. Авторы подчеркнули, что связь между социальными рисками и схемами лечения различается в зависимости от класса препаратов.\n\nПо мнению исследователей, многомерный скрининг социальных рисков мог бы помочь выявлять пациентов с накопленной неблагополучностью и послужить основой для будущих усилий по снижению неравенства в помощи при диабете. Поскольку это поперечное исследование, оно описывает связи на один момент времени.",
+    "en": "A cross-sectional study published in BMC Endocrine Disorders and reported on November 27, 2026, found that cumulative social disadvantage among US adults with diabetes goes along with more frequent insulin use and less frequent use of GLP-1 injectable medicines. The researchers looked at how social conditions in several areas relate to patterns of use of the main diabetes treatments.\n\nThe analysis drew on data from 3,261 US adults with diabetes in the 2024 National Health Interview Survey. Each participant was scored on 21 indicators of social determinants of health, grouped into six domains, and then sorted into three groups: favorable, medium, and unfavorable. Statistical models that accounted for survey weights compared these groups for oral glucose-lowering drugs, insulin, and GLP-1 injectables.\n\nCompared with the favorable group, participants in the unfavorable group had significantly higher odds of using insulin (adjusted odds ratio 1.33; 95% confidence interval 1.01 to 1.76) and significantly lower odds of using GLP-1 injectables (adjusted odds ratio 0.69; 95% CI 0.53 to 0.91). No statistically significant overall link with oral agents was found. Individual factors showed a similar picture: never having worked or having been previously employed (excluding retirees), food insecurity, and housing instability were tied to more insulin use, while low income, limited education, and restricted digital health access were tied to less GLP-1 injectable use.\n\nSome patterns differed between groups. The link to lower use of oral agents appeared only in men, and the link to higher insulin use was significant only among adults aged 45 to 64. The authors stressed that the relationship between social risk and treatment patterns varies depending on the medication class.\n\nThe researchers suggested that screening for multiple social risks could help identify patients facing cumulative disadvantage and could inform future efforts to address disparities in diabetes care. Because the study is cross-sectional, it describes associations at a single point in time.",
+    "kk": "Бұл зерттеу BMC Endocrine Disorders журналында жарияланған, 2026 жылғы 27 қарашада хабарланған көлденең кесінді (кросс-секциялық) жұмыс. АҚШ-та диабеті бар ересектерде жинақталған әлеуметтік қиындықтар инсулинді жиірек қолданумен және инъекциялық GLP-1 препараттарын сирегірек қолданумен бірге жүретіні анықталды. Зерттеушілер бірнеше саладағы әлеуметтік жағдайлардың диабетті емдеудегі негізгі құралдарды қолдану үлгілерімен қалай байланысатынын қарастырды.\n\nТалдауға 2024 жылғы Ұлттық денсаулық сұрауының деректері бойынша диабеті бар 3 261 американдық ересек кірді. Әр қатысушыға алты салаға топтастырылған денсаулықтың әлеуметтік детерминанттарының 21 көрсеткіші бойынша баға берілді, содан кейін адамдар қолайлы, орташа және қолайсыз топтарға бөлінді. Сауалнама салмақтарын ескерген статистикалық модельдер бұл топтарды ауызша қант деңгейін төмендететін препараттар, инсулин және инъекциялық GLP-1 бойынша салыстырды.\n\nҚолайлы топпен салыстырғанда, қолайсыз топтағы қатысушылардың инсулинді қолдану мүмкіндігі елеулі жоғары болды (түзетілген шансқатынас 1,33; 95% сенім аралығы 1,01–1,76), ал инъекциялық GLP-1 қолдану мүмкіндігі елеулі төмен болды (түзетілген шансқатынас 0,69; 95% СА 0,53–0,91). Ауызша препараттармен жалпы статистикалық маңызды байланыс табылмады. Жеке факторлар да ұқсас көрініс берді: ешқашан жұмыс істемеген немесе бұрын жұмыс істеген адамдар (зейнеткерлерден басқа), азық-түлік тапшылығы және тұрақсыз тұрғын жай инсулинді жиірек қолданумен байланысты болды, ал төмен табыс, шектеулі білім және цифрлық денсаулық сақтау қызметіне шектеулі қолжетімділік инъекциялық GLP-1 азырақ қолданумен байланысты болды.\n\nКейбір заңдылықтар топтар арасында әртүрлі болды. Ауызша препараттарды азырақ қолданумен байланыс тек ерлерде байқалды, ал инсулинді жиірек қолданумен байланыс тек 45–64 жас аралығындағы ересектерде маңызды болды. Авторлар әлеуметтік қауіп пен емдеу үлгілерінің арасындағы байланыстың препарат класына қарай өзгеретінін атап өтті.\n\nЗерттеушілердің пікірінше, бірнеше әлеуметтік қауіпті скринингтеу жинақталған қиындығы бар пациенттерді анықтауға көмектесуі және диабетті емдеудегі теңсіздікті азайтуға бағытталған болашақ күш-жігерге негіз бола алады. Бұл көлденең кесінді зерттеу болғандықтан, ол байланыстарды бір уақыт нүктесінде сипаттайды.",
+    "de": "Eine im Fachjournal BMC Endocrine Disorders veröffentlichte Querschnittsstudie, über die am 27. November 2026 berichtet wurde, ergab, dass eine kumulative soziale Benachteiligung bei erwachsenen US-Amerikanern mit Diabetes mit häufigerem Insulineinsatz und seltenerer Anwendung injizierbarer GLP-1-Medikamente einhergeht. Die Forschenden untersuchten, wie soziale Lebensbedingungen in mehreren Bereichen mit den Mustern bei den wichtigsten Diabetes-Therapien zusammenhängen.\n\nDie Analyse stützte sich auf Daten von 3.261 erwachsenen US-Amerikanern mit Diabetes aus der National Health Interview Survey 2024. Jede Person wurde anhand von 21 Indikatoren sozialer Gesundheitsdeterminanten bewertet, die sechs Bereichen zugeordnet waren, und anschließend in drei Gruppen eingeteilt: günstig, mittel und ungünstig. Statistische Modelle, die Befragungsgewichte berücksichtigten, verglichen diese Gruppen bei oralen blutzuckersenkenden Mitteln, Insulin und injizierbaren GLP-1-Präparaten.\n\nIm Vergleich zur günstigen Gruppe hatten Teilnehmende der ungünstigen Gruppe deutlich höhere Chancen auf Insulinverwendung (adjustiertes Odds Ratio 1,33; 95-%-Konfidenzintervall 1,01 bis 1,76) und deutlich geringere Chancen auf injizierbare GLP-1-Medikamente (adjustiertes Odds Ratio 0,69; 95-%-KI 0,53 bis 0,91). Ein insgesamt statistisch signifikanter Zusammenhang mit oralen Mitteln zeigte sich nicht. Einzelne Faktoren ergaben ein ähnliches Bild: noch nie oder früher erwerbstätig gewesen (Rentner ausgenommen), Ernährungsunsicherheit und instabile Wohnverhältnisse gingen mit mehr Insulin einher, während niedriges Einkommen, geringe Bildung und eingeschränkter digitaler Gesundheitszugang mit weniger GLP-1-Injektionen verbunden waren.\n\nEinige Muster unterschieden sich zwischen den Gruppen. Der Zusammenhang mit geringerer Nutzung oraler Mittel trat nur bei Männern auf, und der Zusammenhang mit mehr Insulin war nur bei Erwachsenen im Alter von 45 bis 64 Jahren signifikant. Die Autorinnen und Autoren betonten, dass sich die Beziehung zwischen sozialem Risiko und Behandlungsmustern je nach Medikamentenklasse unterscheidet.\n\nDie Forschenden halten ein mehrdimensionales Screening auf soziale Risiken für hilfreich, um Menschen mit kumulativer Benachteiligung zu erkennen und künftige Anstrengungen gegen Unterschiede in der Diabetesversorgung zu unterstützen. Als Querschnittsstudie beschreibt die Arbeit Zusammenhänge zu einem einzigen Zeitpunkt.",
+    "es": "Un estudio transversal publicado en BMC Endocrine Disorders y dado a conocer el 27 de noviembre de 2026 encontró que la desventaja social acumulada entre los adultos estadounidenses con diabetes va acompañada de un mayor uso de insulina y de un menor uso de inyectables GLP-1. Los investigadores analizaron cómo las condiciones sociales en varios ámbitos se relacionan con los patrones de uso de los principales tratamientos para la diabetes.\n\nEl análisis se basó en datos de 3.261 adultos estadounidenses con diabetes de la Encuesta Nacional de Entrevistas de Salud de 2024. Cada participante fue evaluado con 21 indicadores de determinantes sociales de la salud, agrupados en seis dominios, y luego clasificado en tres grupos: favorable, medio y desfavorable. Modelos estadísticos que tuvieron en cuenta los pesos de la encuesta compararon estos grupos según los fármacos orales para reducir la glucosa, la insulina y los inyectables GLP-1.\n\nEn comparación con el grupo favorable, los participantes del grupo desfavorable tuvieron probabilidades significativamente mayores de usar insulina (odds ratio ajustado de 1,33; intervalo de confianza del 95 % de 1,01 a 1,76) y probabilidades significativamente menores de usar inyectables GLP-1 (odds ratio ajustado de 0,69; IC del 95 % de 0,53 a 0,91). No se encontró una asociación global estadísticamente significativa con los agentes orales. Los factores individuales mostraron un panorama parecido: nunca haber trabajado o haber tenido empleo previo (sin contar a los jubilados), la inseguridad alimentaria y la inestabilidad de la vivienda se vincularon con más insulina, mientras que los ingresos bajos, la escasa educación y el acceso digital limitado a la salud se vincularon con menos uso de inyectables GLP-1.\n\nAlgunos patrones variaron entre grupos. La relación con un menor uso de orales apareció solo en hombres, y la asociación con más insulina fue significativa únicamente en adultos de 45 a 64 años. Los autores subrayaron que la relación entre el riesgo social y los patrones de tratamiento varía según la clase de medicamento.\n\nLos investigadores sugirieron que el cribado de múltiples riesgos sociales podría ayudar a identificar a los pacientes con desventaja acumulada y orientar futuros esfuerzos para reducir las desigualdades en la atención de la diabetes. Al tratarse de un estudio transversal, describe asociaciones en un único momento."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Скорректированное отношение шансов использования инсулина (неблагоприятная группа против благоприятной)",
+      "en": "Adjusted odds ratio for insulin use (unfavorable vs favorable group)",
+      "kk": "Инсулинді қолдану үшін түзетілген шансқатынас (қолайсыз топ пен қолайлы топ салыстырғанда)",
+      "de": "Adjustiertes Odds Ratio für Insulinverwendung (ungünstige vs. günstige Gruppe)",
+      "es": "Odds ratio ajustado de uso de insulina (grupo desfavorable frente a favorable)"
+     },
+     "v": {
+      "ru": "1,33 (95% ДИ от 1,01 до 1,76)",
+      "en": "1.33 (95% CI 1.01 to 1.76)",
+      "kk": "1,33 (95% СА 1,01–1,76)",
+      "de": "1,33 (95-%-KI 1,01 bis 1,76)",
+      "es": "1,33 (IC del 95 %: 1,01 a 1,76)"
+     }
+    },
+    {
+     "k": {
+      "ru": "Скорректированное отношение шансов использования инъекционных ГПП-1 (неблагоприятная группа против благоприятной)",
+      "en": "Adjusted odds ratio for GLP-1 injectable use (unfavorable vs favorable group)",
+      "kk": "Инъекциялық GLP-1 қолдану үшін түзетілген шансқатынас (қолайсыз топ пен қолайлы топ салыстырғанда)",
+      "de": "Adjustiertes Odds Ratio für GLP-1-Injektabilien (ungünstige vs. günstige Gruppe)",
+      "es": "Odds ratio ajustado de uso de inyectables GLP-1 (grupo desfavorable frente a favorable)"
+     },
+     "v": {
+      "ru": "0,69 (95% ДИ от 0,53 до 0,91)",
+      "en": "0.69 (95% CI 0.53 to 0.91)",
+      "kk": "0,69 (95% СА 0,53–0,91)",
+      "de": "0,69 (95-%-KI 0,53 bis 0,91)",
+      "es": "0,69 (IC del 95 %: 0,53 a 0,91)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nVdjP29jPTU",
+   "cat": "research",
+   "stage": "launch",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "В Индии открыли первую камеру для изучения обмена веществ: калории, ожирение и диабет",
+    "en": "India opens its first human metabolic chamber to study calories, obesity and diabetes",
+    "kk": "Үндістанда калория, семіздік және қант диабетін зерттеуге арналған алғашқы адам метаболизм камерасы ашылды",
+    "de": "Indien eröffnet erste menschliche Stoffwechselkammer zur Untersuchung von Kalorien, Adipositas und Diabetes",
+    "es": "India inaugura su primera cámara metabólica humana para estudiar calorías, obesidad y diabetes"
+   },
+   "text": {
+    "ru": "В Индии открылась первая камера для исследования обмена веществ человека, которая будет изучать калории, ожирение и диабет.",
+    "en": "India has opened its first human metabolic chamber, which will study calories, obesity and diabetes.",
+    "kk": "Үндістанда калорияны, семіздікті және қант диабетін зерттейтін алғашқы адам метаболизм камерасы ашылды.",
+    "de": "In Indien wurde die erste menschliche Stoffwechselkammer eröffnet, die Kalorien, Adipositas und Diabetes untersuchen soll.",
+    "es": "En India se ha inaugurado la primera cámara metabólica humana, que estudiará calorías, obesidad y diabetes."
+   },
+   "url": "https://www.timesnownews.com/health/indias-first-human-metabolic-chamber-opens-to-study-calories-obesity-and-diabetes-article-156576255",
+   "src": "Times Now",
+   "photoQuery": "laboratory research equipment",
+   "local": true,
+   "photo": {
+    "id": "u_oJnENqfM_H0",
+    "url": "https://images.unsplash.com/photo-1646956141271-05281b4ef472?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Nnx8bGFib3JhdG9yeSUyMHJlc2VhcmNoJTIwZXF1aXBtZW50fGVufDF8MHx8fDE3OTU4MzUzODV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Adam Bezer",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/a-laboratory-bench-is-full-of-scientific-equipment-oJnENqfM_H0?utm_source=dia_news&utm_medium=referral",
+    "alt": "A laboratory bench is full of scientific equipment"
+   },
+   "bodyTried": true
+  },
+  {
+   "id": "nGpBP29jPTU",
+   "cat": "access",
+   "stage": "policy",
+   "date": "2026-11-27",
+   "added": "2026-11-28T03:09:39.125Z",
+   "title": {
+    "ru": "Диабетиков ждут новые обследования и дистанционное наблюдение: что изменится с 2027 года",
+    "en": "Diabetes patients to get new check-ups and remote monitoring: what changes from 2027",
+    "kk": "Қант диабеті бар адамдарды жаңа тексерулер мен қашықтан бақылау күтуде: 2027 жылдан бастап не өзгереді",
+    "de": "Neue Untersuchungen und Fernüberwachung für Diabetespatienten: Was sich ab 2027 ändert",
+    "es": "Nuevos chequeos y seguimiento a distancia para pacientes con diabetes: qué cambia desde 2027"
+   },
+   "text": {
+    "ru": "С 2027 года для диабетиков планируют новые обследования и дистанционное наблюдение.",
+    "en": "From 2027, new examinations and remote monitoring are planned for people with diabetes.",
+    "kk": "2027 жылдан бастап қант диабеті бар адамдар үшін жаңа тексерулер мен қашықтан бақылау жоспарлануда.",
+    "de": "Ab 2027 sind neue Untersuchungen und Fernüberwachung für Menschen mit Diabetes geplant.",
+    "es": "A partir de 2027 se planean nuevos exámenes y seguimiento a distancia para las personas con diabetes."
+   },
+   "url": "https://pnz.ru/health/diabetikov-zhdut-novye-obsledovaniya-i-distanczionnoe-nablyudenie-chto-izmenitsya-s-2027-goda/",
+   "src": "PNZ.RU",
+   "photoQuery": "laptop medical screen",
+   "local": true,
+   "photo": {
+    "id": "u_p0UwQ-Wd8TM",
+    "url": "https://images.unsplash.com/photo-1597672996375-4d21cad0cbb9?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NXx8bGFwdG9wJTIwbWVkaWNhbCUyMHNjcmVlbnxlbnwxfDB8fHwxNzk1ODM1Mzg1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "credit": "Devin Pickell",
+    "license": "Unsplash",
+    "link": "https://unsplash.com/photos/black-and-gray-laptop-computer-p0UwQ-Wd8TM?utm_source=dia_news&utm_medium=referral",
+    "alt": "black and gray laptop computer"
+   },
+   "body": {
+    "ru": "27 ноября 2026 года PNZ.RU сообщил, что Минздрав России подготовил обновлённый перечень медицинских изделий и оборудования для региональных и межрайонных центров, которые помогают пациентам с сахарным диабетом и другими нарушениями углеводного обмена. По этому перечню регионы будут оснащать такие центры в рамках федерального проекта «Борьба с сахарным диабетом» госпрограммы «Развитие здравоохранения».\n\nВ октябрьской редакции 2026 года большая часть прежнего оборудования сохранена, часть позиций поменяли, а несколько добавили. Среди новинок — две линзы для гониоскопии (четырёхзеркальная широкоугольная линза Ван-Бойнингена и трёхзеркальная линза Гольдмана), отдельный офтальмоскоп, автоматический проектор знаков и манипуляционный стол. Ряд позиций из приказа от 24 марта 2025 года № 146н, например эндотелиальный микроскоп и аберрометр, больше не перечислены отдельно, а бинокулярный офтальмоскоп заменён монокулярным без электропитания.\n\nНа 2027 год Минздрав предлагает разрешить дистанционное наблюдение за людьми с диабетом и артериальной гипертензией в рамках порядка оказания терапевтической помощи — через поправки к приказу № 923н от 15 ноября 2012 года. Поликлиники смогут оснащаться изделиями, которые передают данные на расстояние, а их число будет зависеть от количества пациентов, которым это нужно. Глюкометры и подобные приборы будут передавать показатели в медицинскую информационную систему, и врач сможет отслеживать динамику, замечать отклонения и связываться с пациентом удалённо.\n\nДистанционный контроль дополнит, а не заменит очные приёмы; терапевт сможет продолжать наблюдение и лечение удалённо по рекомендации профильного специалиста. Правила планируется ввести с 1 января 2027 года. Однако поликлиники не обязаны закупать приборы повсеместно: проект разрешает оснащение, но не гарантирует, что каждый пациент получит глюкометр. Реальный охват будет зависеть от оснащения медорганизаций и финансирования регионов.",
+    "en": "On 27 November 2026, PNZ.RU reported that Russia's Ministry of Health has drafted an updated list of medical equipment for regional and interdistrict centres that treat patients with diabetes and other carbohydrate metabolism disorders. Regions will use the list when equipping these centres under the federal project \"Fighting Diabetes,\" part of the \"Healthcare Development\" state programme.\n\nThe October 2026 revision keeps most current items, changes some and adds others. New additions include two gonioscopy lenses (a four-mirror wide-angle Van Boeningen lens and a three-mirror Goldmann lens), a separate ophthalmoscope, an automatic vision-test chart projector and a manipulation table. Several items from the 24 March 2025 order No. 146n, such as the endothelial microscope and the aberrometer, are no longer listed separately, and a monocular ophthalmoscope without power supply replaces the binocular version.\n\nFor 2027, the ministry proposes allowing remote monitoring of people with diabetes and arterial hypertension within the rules for therapeutic care, through amendments to order No. 923n of 15 November 2012. Polyclinics could install devices that transmit data remotely, with the number depending on how many patients need this monitoring. Glucometers and similar tools would send readings to the medical information system, so doctors could follow trends, notice deviations and contact patients at a distance.\n\nRemote follow-up would supplement, not replace, in-person visits, and therapists could continue monitoring and treating patients remotely on a specialist's advice. The rules are planned to take effect on 1 January 2027. Clinics, however, would not be obliged to buy such devices everywhere: the draft allows equipping them but does not guarantee that every person with diabetes receives a glucometer. Actual coverage will depend on the equipment of medical organisations and regional funding.",
+    "kk": "2026 жылдың 27 қарашасында PNZ.RU Ресей Денсаулық сақтау министрлігі қант диабеті және көмірсу алмасуының басқа бұзылыстары бар пациенттерге көмек көрсететін аймақтық және аудандық аралық орталықтарға арналған медициналық жабдықтың жаңартылған тізбесін дайындағанын хабарлады. Аймақтар бұл орталықтарды «Қант диабетімен күрес» федералдық жобасы аясында, «Денсаулық сақтауды дамыту» мемлекеттік бағдарламасының бөлігі ретінде жабдықтау кезінде осы тізбеге сүйенеді.\n\n2026 жылдың қазан айындағы редакцияда жабдықтың көпшілігі сақталған, кейбір позициялар өзгертілген, ал бірнешеуі қосылған. Жаңалықтарға гониоскопияға арналған екі линза (Ван-Бойнинген төрт айналы кең бұрышты линзасы және Гольдман үш айналы линзасы), бөлек офтальмоскоп, автоматты көру сынағы белгілерінің проекторы және манипуляциялық үстел кіреді. 2025 жылғы 24 наурыздағы № 146н бұйрықтағы кейбір позициялар, мысалы эндотелиалдық микроскоп пен аберрометр, енді бөлек аталмайды, ал бинокулярлық офтальмоскопты электр қуатынсыз монокулярлық офтальмоскоп алмастырады.\n\n2027 жылға Денсаулық сақтау министрлігі қант диабеті және артериялық гипертензиясы бар адамдарды терапиялық көмек көрсету ережелері аясында қашықтан бақылауға рұқсат беруді ұсынады; бұл 2012 жылғы 15 қарашадағы № 923н бұйрыққа түзетулер арқылы жүзеге асады. Емханалар деректерді қашықтан беретін құрылғылармен жабдықтала алады, олардың саны осыны қажет ететін пациенттер санына байланысты болады. Глюкометрлер және ұқсас құрылғылар көрсеткіштерді медициналық ақпараттық жүйеге жібереді, сондықтан дәрігер динамиканы бақылап, ауытқуларды байқап, пациентпен қашықтан байланыса алады.\n\nҚашықтан бақылау жүзбе-жүз қабылдауды толықтырады, бірақ оны алмастырмайды; терапевт маманның ұсынымы бойынша пациентті қашықтан бақылауды және емдеуді жалғастыра алады. Ережелерді 2027 жылғы 1 қаңтардан енгізу жоспарланған. Алайда емханалар мұндай құрылғыларды барлық жерде сатып алуға міндетті емес: жоба жабдықтауға мүмкіндік береді, бірақ әр диабеті бар адамның глюкометр алатынына кепілдік бермейді. Нақты қамту медициналық ұйымдардың жабдығына және аймақтық қаржыландыруға байланысты болады.",
+    "de": "Am 27. November 2026 berichtete PNZ.RU, dass das russische Gesundheitsministerium eine aktualisierte Liste medizinischer Geräte und Ausstattung für regionale und überregionale Zentren entworfen hat, die Patienten mit Diabetes und anderen Störungen des Kohlenhydratstoffwechsels versorgen. Die Regionen sollen sich bei der Ausstattung dieser Zentren im Rahmen des Bundesprojekts „Kampf gegen Diabetes“ aus dem Staatsprogramm „Entwicklung des Gesundheitswesens“ an dieser Liste orientieren.\n\nDie Fassung vom Oktober 2026 behält den größten Teil der bisherigen Ausstattung bei, ändert einige Positionen und ergänzt andere. Neu hinzu kommen zwei Linsen für die Gonioskopie (eine vierspiegelige Weitwinkellinse nach Van Boeningen und eine dreispiegelige Goldmann-Linse), ein separates Ophthalmoskop, ein automatischer Sehzeichenprojektor und ein Manipulationstisch. Einige Positionen aus dem Erlass vom 24. März 2025 Nr. 146n, etwa das Endothelmikroskop und das Aberrometer, werden nicht mehr separat aufgeführt, und das binokulare Ophthalmoskop wird durch ein monokulares Gerät ohne Stromversorgung ersetzt.\n\nFür 2027 schlägt das Ministerium vor, die Fernüberwachung von Menschen mit Diabetes und arterieller Hypertonie in die Regeln der therapeutischen Versorgung aufzunehmen; dies soll über Änderungen des Erlasses Nr. 923n vom 15. November 2012 geschehen. Polikliniken könnten Geräte installieren, die Daten übertragen; deren Zahl richtet sich nach der Zahl der Patienten, die eine solche Betreuung benötigen. Glukometer und ähnliche Geräte würden Messwerte an das medizinische Informationssystem senden, sodass Ärzte Verläufe verfolgen, Abweichungen erkennen und Patienten aus der Ferne kontaktieren können.\n\nDie Fernbetreuung soll Präsenztermine ergänzen, nicht ersetzen; Therapeuten dürfen Beobachtung und Behandlung auf Empfehlung eines Fachspezialisten weiterhin aus der Ferne fortführen. Die neuen Regeln sind ab dem 1. Januar 2027 vorgesehen. Die Kliniken müssen solche Geräte jedoch nicht flächendeckend anschaffen: Der Entwurf sieht die Möglichkeit der Ausstattung vor, garantiert aber nicht, dass jeder Mensch mit Diabetes ein Glukometer erhält. Der tatsächliche Umfang hängt von der Ausstattung der Einrichtungen und der regionalen Finanzierung ab.",
+    "es": "El 27 de noviembre de 2026, PNZ.RU informó de que el Ministerio de Salud de Rusia ha preparado una lista actualizada de equipos médicos para los centros regionales e interdistritales que atienden a pacientes con diabetes y otros trastornos del metabolismo de los hidratos de carbono. Las regiones se guiarán por ella al equipar esos centros dentro del proyecto federal «Lucha contra la diabetes», incluido en el programa estatal «Desarrollo de la sanidad».\n\nLa revisión de octubre de 2026 mantiene la mayor parte del equipamiento actual, modifica algunas posiciones y añade otras. Entre las novedades figuran dos lentes para gonioscopia (una lente de cuatro espejos de gran angular de Van Boeningen y una lente universal de tres espejos de Goldmann), un oftalmoscopio independiente, un proyector automático de optotipos y una mesa de manipulación. Algunos elementos de la orden n.º 146n del 24 de marzo de 2025, como el microscopio endotelial y el aberrómetro, ya no aparecen por separado, y el oftalmoscopio binocular se sustituye por uno monocular sin alimentación eléctrica.\n\nPara 2027, el ministerio propone permitir el seguimiento a distancia de personas con diabetes e hipertensión arterial dentro de las normas de atención terapéutica, mediante modificaciones de la orden n.º 923n del 15 de noviembre de 2012. Las policlínicas podrían equiparse con dispositivos que transmitan datos a distancia, y su número dependería de cuántos pacientes necesiten este seguimiento. Los glucómetros y otros aparatos similares enviarían sus lecturas al sistema de información médica, de modo que los médicos podrían seguir la evolución, detectar desviaciones y contactar a distancia con el paciente.\n\nEl seguimiento remoto complementaría, y no sustituiría, las consultas presenciales, y el terapeuta podría seguir vigilando y tratando al paciente a distancia siguiendo la recomendación del especialista. Las nuevas normas están previstas desde el 1 de enero de 2027. Sin embargo, las policlínicas no están obligadas a comprar estos aparatos en todas partes: el proyecto prevé la posibilidad de equiparlos, pero no garantiza que cada persona con diabetes reciba un glucómetro. El alcance real dependerá del equipamiento de las organizaciones médicas y de la financiación regional."
+   },
+   "facts": [
+    {
+     "k": {
+      "ru": "Срок введения дистанционного наблюдения",
+      "en": "Planned start of remote monitoring rules",
+      "kk": "Қашықтан бақылау ережелерін енгізу мерзімі",
+      "de": "Geplanter Start der Regeln zur Fernüberwachung",
+      "es": "Inicio previsto de las normas de seguimiento a distancia"
+     },
+     "v": {
+      "ru": "1 января 2027 года",
+      "en": "1 January 2027",
+      "kk": "2027 жылғы 1 қаңтар",
+      "de": "1. Januar 2027",
+      "es": "1 de enero de 2027"
+     }
+    },
+    {
+     "k": {
+      "ru": "Дата приказа Минздрава, в который вносятся поправки",
+      "en": "Date of the Health Ministry order being amended",
+      "kk": "Түзетілетін Денсаулық сақтау министрлігі бұйрығының күні",
+      "de": "Datum des zu ändernden Erlasses des Gesundheitsministeriums",
+      "es": "Fecha de la orden del Ministerio de Salud que se modifica"
+     },
+     "v": {
+      "ru": "15 ноября 2012 года, № 923н",
+      "en": "15 November 2012, No. 923n",
+      "kk": "2012 жылғы 15 қараша, № 923н",
+      "de": "15. November 2012, Nr. 923n",
+      "es": "15 de noviembre de 2012, n.º 923n"
+     }
+    }
+   ]
+  },
   {
    "id": "n1IZz9vYz01",
    "cat": "research",
@@ -1585,790 +2256,6 @@ const DIA_NEWS={
    ]
   },
   {
-   "id": "nVEE_b2M9NQ",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-25",
-   "added": "2026-11-26T03:13:05.042Z",
-   "title": {
-    "ru": "«Не первоочередная проблема!»: что на самом деле нужно российским диабетикам",
-    "en": "'Not a priority problem!': what Russian people with diabetes really need",
-    "kk": "«Басты мәселе емес!»: ресейлік қант диабеті бар адамдарға шынында не керек",
-    "de": "„Kein vorrangiges Problem!“: Was russische Menschen mit Diabetes wirklich brauchen",
-    "es": "«¡No es un problema prioritario!»: lo que realmente necesitan los diabéticos rusos"
-   },
-   "text": {
-    "ru": "Материал о потребностях пациентов с диабетом в России, которые остаются без должного внимания.",
-    "en": "An article on the needs of people with diabetes in Russia that remain overlooked.",
-    "kk": "Ресейдегі қант диабеті бар пациенттердің назардан тыс қалған қажеттіліктері туралы материал.",
-    "de": "Ein Beitrag über die Bedürfnisse von Menschen mit Diabetes in Russland, die zu wenig Beachtung finden.",
-    "es": "Un artículo sobre las necesidades de las personas con diabetes en Rusia que siguen sin recibir atención."
-   },
-   "url": "https://nsn.fm/zdorovie/ne-pervoocherednaya-problema-chto-na-samom-dele-nuzhno-rossiiskim-diabetikam",
-   "src": "Национальная Служба Новостей",
-   "photoQuery": "notebook and glucose meter on table",
-   "local": true,
-   "photo": {
-    "id": "u_sxOEkZnZlxU",
-    "url": "https://images.unsplash.com/photo-1657040298696-282743ad6406?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8NHx8bm90ZWJvb2slMjBhbmQlMjBnbHVjb3NlJTIwbWV0ZXIlMjBvbiUyMHRhYmxlfGVufDF8MHx8fDE3OTU2NjI3OTF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "2H Media",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-few-pens-and-notebooks-on-a-table-sxOEkZnZlxU?utm_source=dia_news&utm_medium=referral",
-    "alt": "a few pens and notebooks on a table"
-   },
-   "body": {
-    "ru": "25 ноября 2026 года Национальная Служба Новостей (НСН) опубликовала интервью с президентом Московской диабетической ассоциации Элвирой Густовой. По её мнению, людям с диабетом нужны не приложение, а системы непрерывного мониторинга для взрослых от 18 лет.\n\nПоводом стало предложение в Госдуме создать специализированное федеральное приложение для больных диабетом. Авторы инициативы считают, что оно упростит лечение и разгрузит врачей первичного звена. Председатель думского комитета по охране здоровья Владимир Сысоев, которого цитирует ТАСС, сообщил, что официально зарегистрировано более 6,1 млн человек с диабетом, а врачи оценивают реальное число в 10–12 млн. Фракция ЛДПР выступает за единое приложение, связанное с Единой государственной информационной системой здравоохранения.\n\nПо словам Густовой, приложение — не самая срочная задача. Главные проблемы, по её мнению, — своевременное обеспечение лекарствами и изделиями медицинского назначения. Взрослые пациенты старше 18 лет не получают систем мониторинга из-за недостатка финансирования и вынуждены обращаться в прокуратуру и суды. Она спросила, сколько стоила бы разработка приложения, и предложила направить деньги на закупку самих систем в соответствии с клиническими рекомендациями.\n\nГустова также призвала пересмотреть правила выписки рецептов: сейчас они выписываются максимум на три месяца. По её словам, их можно выписывать на полгода или год, как разрешал Минздрав в прошлом. Однако закупки препаратов затягиваются, и поставки приходят с опозданием. Отдельно она упомянула инициативу депутатов ввести уголовную ответственность для медработников, которые затягивают закупки и не проводят тендеры, и считает, что это может дать больший эффект.\n\nЭксперт прокомментировала оценку в 6–12 млн больных и назвала группы риска: люди с избыточным весом или ожирением, малоподвижным образом жизни, нерациональным питанием, старше 40–45 лет, с наследственной предрасположенностью и артериальной гипертензией. Людям с хроническими заболеваниями она рекомендовала проходить диспансеризацию минимум раз в год. В материале нет комментариев Госдумы или Минздрава.",
-    "en": "On November 25, 2026, the National News Service (NSN) published an interview with Elvira Gustova, president of the Moscow Diabetes Association. In her view, people with diabetes need continuous glucose monitoring systems for adults aged 18 and over, not a smartphone app.\n\nThe debate was prompted by a proposal in the State Duma to create a dedicated federal app for people with diabetes. Its authors argue it would simplify treatment and ease the workload of primary-care doctors. Vladimir Sysoev, chair of the Duma health committee, told TASS that more than 6.1 million people are officially registered with diabetes, while doctors estimate the real figure at 10–12 million. The LDPR faction backs a single app linked to the Unified State Health Information System.\n\nAccording to Gustova, the app is not the most urgent task. The main problems, in her view, are the timely supply of medicines and medical devices. Adult patients over 18 do not receive monitoring systems because of underfunding, and some have had to go to prosecutors and courts. She asked how much an app would cost and suggested spending that money on the systems themselves, in line with clinical guidelines.\n\nGustova also called for changes to prescription rules: they are currently issued for three months at most. She said they could cover six months or a year, as the Health Ministry once allowed. However, drug purchases are being delayed and supplies arrive late. She also pointed to a separate deputies' proposal to impose criminal liability on medical workers who delay procurement or skip tenders, which she thinks could have a greater effect.\n\nThe expert commented on the 6–12 million estimate and listed risk groups: people with overweight or obesity, low physical activity, poor diet, those over 40–45, people with hereditary predisposition, and those with arterial hypertension. She recommended that people with chronic conditions undergo a medical check-up at least once a year. The article includes no comment from the Duma or the Health Ministry.",
-    "kk": "2026 жылғы 25 қарашада Ұлттық жаңалықтар қызметі (НСН) Мәскеу диабет қауымдастығының президенті Эльвира Густованың сұхбатын жариялады. Оның пікірінше, диабеті бар адамдарға қолданба емес, 18 жастан асқан ересектерге арналған үздіксіз мониторинг жүйелері қажет.\n\nБұл пікірталасқа Мемлекеттік Думада диабеті бар адамдарға арнайы федералдық қолданба жасау ұсынысы себеп болды. Ұсыныс авторлары бұл емдеуді жеңілдетіп, бастапқы буын дәрігерлерінің жүгін азайтады деп санайды. Думаның денсаулық сақтау комитетінің төрағасы Владимир Сысоев ТАСС-қа ресми тіркелген диабеттілердің саны 6,1 миллионнан асатынын, ал дәрігерлердің бағалауынша нақты көрсеткіш 10–12 миллион екенін айтты. ЛДПР фракциясы Денсаулық сақтаудың бірыңғай мемлекеттік ақпараттық жүйесімен байланысқан бірыңғай қолданбаны қолдайды.\n\nГустованың айтуынша, қолданба ең шұғыл міндет емес. Оның пікірінше, басты мәселе — дәрі-дәрмектер мен медициналық бұйымдардың уақытында жеткізілуі. 18 жастан асқан ересек пациенттерге қаржы жетіспеушілігіне байланысты мониторинг жүйелері берілмейді, кейбіреулері прокуратураға және сотқа жүгінуге мәжбүр болады. Ол қолданбаның қанша тұратынын сұрап, сол қаражатты клиникалық ұсынымдарға сәйкес жүйелерді сатып алуға жұмсауды ұсынды.\n\nГустова рецепт жазу ережелерін қайта қарауды да талап етті: қазір олар ең көбі үш айға жазылады. Оның айтуынша, оларды Денсаулық сақтау министрлігі бір кезде рұқсат еткендей, жарты жылға немесе бір жылға жазуға болады. Алайда дәрі сатып алу кешігіп, жеткізілім уақтылы келмейді. Ол сонымен қатар сатып алуды кешіктіретін немесе тендер өткізбейтін медицина қызметкерлеріне қылмыстық жауапкершілік енгізу туралы депутаттардың бөлек ұсынысын атап өтті, оның әсері көбірек болуы мүмкін деп санайды.\n\nСарапшы 6–12 миллион диабеттілер туралы бағалауға пікір білдіріп, қауіп топтарын атады: артық салмағы немесе семіздігі бар, қозғалысы аз, тамақтануы дұрыс емес, 40–45 жастан асқан адамдар, тұқым қуалаушылығы немесе артериялық гипертензиясы бар адамдар. Созылмалы аурулары бар адамдарға кем дегенде жылына бір рет медициналық тексерістен өту ұсынылды. Материалда Дума немесе Денсаулық сақтау министрлігінің пікірі жоқ.",
-    "de": "Am 25. November 2026 veröffentlichte der Nachrichtendienst NSN ein Interview mit Elvira Gustowa, der Präsidentin der Moskauer Diabetes-Gesellschaft. Ihrer Ansicht nach brauchen Menschen mit Diabetes keine App, sondern Systeme zur kontinuierlichen Glukosemessung für Erwachsene ab 18 Jahren.\n\nAnlass war ein Vorschlag in der Staatsduma, eine eigene föderale App für Menschen mit Diabetes zu schaffen. Die Initiatoren erwarten davon eine Vereinfachung der Behandlung und eine Entlastung der Hausärzte. Wladimir Sysojew, Vorsitzender des Gesundheitsausschusses der Duma, sagte gegenüber TASS, dass offiziell mehr als 6,1 Millionen Menschen mit Diabetes registriert seien, Ärzte die tatsächliche Zahl aber auf 10 bis 12 Millionen schätzen. Die LDPR-Fraktion unterstützt eine einheitliche App, die an das staatliche Gesundheitsinformationssystem angebunden ist.\n\nLaut Gustowa ist die App nicht die dringendste Aufgabe. Die größten Probleme seien aus ihrer Sicht die rechtzeitige Versorgung mit Medikamenten und medizinischen Produkten. Erwachsene Patienten ab 18 Jahren erhielten wegen fehlender Finanzierung keine Überwachungssysteme, manche müssten deshalb Staatsanwaltschaften und Gerichte einschalten. Sie fragte, was eine App kosten würde, und schlug vor, das Geld direkt für die Systeme gemäß klinischen Leitlinien auszugeben.\n\nGustowa fordert zudem Änderungen bei den Rezeptregeln: Derzeit werden Rezepte höchstens für drei Monate ausgestellt. Sie könnten nach ihrer Ansicht für sechs Monate oder ein Jahr gelten, wie es das Gesundheitsministerium einst erlaubt habe. Doch die Beschaffung von Arzneimitteln ziehe sich hin, Lieferungen kämen zu spät. Außerdem verwies sie auf eine separate Initiative von Abgeordneten, medizinisches Personal strafrechtlich zur Verantwortung zu ziehen, wenn es Einkäufe verzögert oder keine Ausschreibungen durchführt; das könnte ihrer Einschätzung nach mehr bewirken.\n\nDie Expertin kommentierte die Schätzung von 6 bis 12 Millionen Diabetikern und nannte Risikogruppen: Menschen mit Übergewicht oder Adipositas, wenig Bewegung, ungesunder Ernährung, über 40 bis 45 Jahre alt, mit erblicher Vorbelastung oder arterieller Hypertonie. Menschen mit chronischen Erkrankungen sollten laut ihr mindestens einmal im Jahr an einer Vorsorgeuntersuchung teilnehmen. Der Artikel enthält keine Stellungnahme der Duma oder des Gesundheitsministeriums.",
-    "es": "El 25 de noviembre de 2026, el medio ruso NSN publicó una entrevista con Elvira Gustova, presidenta de la Asociación de Diabetes de Moscú. En su opinión, las personas con diabetes necesitan sistemas de monitorización continua para adultos de 18 años en adelante, y no una aplicación.\n\nEl debate surgió a raíz de una propuesta en la Duma Estatal para crear una aplicación federal específica para personas con diabetes. Sus impulsores sostienen que simplificaría el tratamiento y aliviaría la carga de los médicos de atención primaria. Vladímir Sísoev, presidente de la comisión de salud de la Duma, dijo a TASS que más de 6,1 millones de personas están oficialmente registradas con diabetes, mientras los médicos estiman la cifra real entre 10 y 12 millones. La facción LDPR respalda una aplicación única vinculada al Sistema Estatal Unificado de Información Sanitaria.\n\nSegún Gustova, la aplicación no es la tarea más urgente. Los problemas principales, a su juicio, son el suministro oportuno de medicamentos y productos sanitarios. Los pacientes adultos mayores de 18 años no reciben sistemas de monitorización por falta de financiación, y algunos han tenido que acudir a fiscalías y tribunales. Preguntó cuánto costaría la aplicación y propuso destinar ese dinero a comprar los propios sistemas, conforme a las guías clínicas.\n\nGustova también pidió cambiar las normas de las recetas: actualmente se emiten como máximo por tres meses. Según ella, podrían cubrir seis meses o un año, como el Ministerio de Salud permitió en el pasado. Sin embargo, las compras de medicamentos se retrasan y los suministros llegan tarde. Además, mencionó una iniciativa aparte de diputados para imponer responsabilidad penal a los trabajadores sanitarios que demoren las compras o no convoquen concursos, lo que, en su opinión, podría tener un efecto mayor.\n\nLa experta comentó la estimación de entre 6 y 12 millones de diabéticos y enumeró los grupos de riesgo: personas con sobrepeso u obesidad, con poca actividad física, alimentación inadecuada, mayores de 40 a 45 años, con antecedentes hereditarios o hipertensión arterial. Recomendó que las personas con enfermedades crónicas se hagan un chequeo médico al menos una vez al año. El artículo no incluye comentarios de la Duma ni del Ministerio de Salud."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Официально зарегистрированы с диабетом в России",
-      "en": "Officially registered with diabetes in Russia",
-      "kk": "Ресми тіркелген диабеттілер",
-      "de": "Offiziell mit Diabetes registriert in Russland",
-      "es": "Oficialmente registrados con diabetes en Rusia"
-     },
-     "v": {
-      "ru": "более 6,1 млн человек",
-      "en": "more than 6.1 million people",
-      "kk": "6,1 миллионнан астам адам",
-      "de": "mehr als 6,1 Millionen Menschen",
-      "es": "más de 6,1 millones de personas"
-     }
-    },
-    {
-     "k": {
-      "ru": "Оценка врачей реального числа больных диабетом",
-      "en": "Doctors' estimate of the actual number of people with diabetes",
-      "kk": "Дәрігерлердің нақты диабеттілер санына бағасы",
-      "de": "Schätzung der Ärzte zur tatsächlichen Zahl von Menschen mit Diabetes",
-      "es": "Estimación de los médicos sobre el número real de personas con diabetes"
-     },
-     "v": {
-      "ru": "10–12 млн",
-      "en": "10–12 million",
-      "kk": "10–12 миллион",
-      "de": "10 bis 12 Millionen",
-      "es": "entre 10 y 12 millones"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nFaQz9vYz01",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-25",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "В Госдуме предложили создать федеральное приложение для людей с диабетом",
-    "en": "State Duma proposes a federal app for people with diabetes",
-    "kk": "Мемлекеттік Дума қант диабеті бар адамдарға арналған федералды қолданба құруды ұсынды",
-    "de": "Staatsduma schlägt eine föderale App für Menschen mit Diabetes vor",
-    "es": "La Duma estatal propone crear una aplicación federal para personas con diabetes"
-   },
-   "text": {
-    "ru": "Депутаты предложили создать федеральное приложение для людей с диабетом. Предложение пока находится на стадии обсуждения.",
-    "en": "Deputies have proposed creating a federal app for people with diabetes. The proposal is still at the discussion stage.",
-    "kk": "Депутаттар қант диабеті бар адамдарға арналған федералды қолданба құру ұсынысын айтты. Ұсыныс әлі талқылау сатысында.",
-    "de": "Abgeordnete haben die Schaffung einer föderalen App für Menschen mit Diabetes vorgeschlagen. Der Vorschlag befindet sich noch in der Diskussion.",
-    "es": "Los diputados han propuesto crear una aplicación federal para personas con diabetes. La propuesta aún está en fase de debate."
-   },
-   "url": "https://newsroom24.ru/moskva/news/zhizn/2026/news_380808/",
-   "src": "Newsroom24",
-   "photoQuery": "smartphone diabetes app screen",
-   "local": true,
-   "photo": {
-    "id": "u_fAdhzcL2tiM",
-    "url": "https://images.unsplash.com/photo-1573542544971-1b42ce07cf1e?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8c21hcnRwaG9uZSUyMGRpYWJldGVzJTIwYXBwJTIwc2NyZWVufGVufDF8MHx8fDE3OTU1NzY1MTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Patrick Loonstra",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/black-android-smartphone-fAdhzcL2tiM?utm_source=dia_news&utm_medium=referral",
-    "alt": "black Android smartphone"
-   },
-   "body": {
-    "ru": "25 ноября 2026 года «Ньюсрум24» сообщил, что в Госдуме, нижней палате парламента России, выдвинули идею создать федеральное приложение для людей с диабетом. Публикация ссылается на информагентство ТАСС. По версии издания, такой сервис мог бы собрать в одном месте несколько задач, связанных с болезнью. Материал вышел в 03:47.\n\nВ статье названы три направления, которые покрыл бы сервис: контроль уровня глюкозы, медицинские записи пациента и связь с лечащим врачом.\n\nМатериал короткий, и ряд ключевых вопросов остаётся без ответа. Не сказано, кто будет разрабатывать и вести сервис, когда он может появиться, сколько будет стоить и как защитят персональные данные пациентов. Бесплатность тоже не упоминается. Реакции органов здравоохранения в тексте нет, дополнительных цифр и дат тоже.\n\nПока это только предложение: решения, законопроекта или сроков в тексте нет, поэтому дальнейшие шаги неизвестны. Тем, кто хочет следить за темой, стоит ждать новых публикаций об этой инициативе.",
-    "en": "On 25 November 2026, Newsroom24 reported that an idea has been put forward in Russia's State Duma, the lower house of parliament, for a federal app aimed at people with diabetes. The report credits the TASS news agency as its source. According to the outlet, such a service could bring several tasks linked to the condition into one place. The item was published at 03:47 on that date.\n\nThe article names three areas the service would cover: monitoring of blood glucose levels, the patient's medical records, and communication with the treating doctor.\n\nThe piece is brief, and several key questions remain open. It does not say who would develop or run the service, when it might appear, what it would cost, or how patients' personal health data would be protected. It also does not say whether the service would be free. There is no reaction from health authorities, and no additional figures or dates are given.\n\nFor now this is a proposal only. The article mentions no decision, draft law, or timetable, so the next steps are unknown. Readers who want to follow the topic should watch for new reporting on this initiative.",
-    "kk": "2026 жылғы 25 қарашада «Ньюсрум24» Ресей парламентінің төменгі палатасы — Мемлекеттік думада диабеті бар адамдарға арналған федералдық қосымшаны құру идеясы ұсынылғанын хабарлады. Материал ТАСС ақпарат агенттігіне сілтеме жасайды. Басылымның айтуынша, мұндай сервис ауруға байланысты бірнеше міндетті бір жерге жинай алады. Материал сағат 03:47-де жарияланған.\n\nМақалада сервистің қамтитын үш бағыт аталған: қандағы глюкоза деңгейін бақылау, пациенттің медициналық жазбалары және емдеуші дәрігермен байланыс.\n\nМатериал қысқа, және бірқатар негізгі сұрақтар ашық күйінде қалады. Сервисті кім әзірлеп, басқаратыны, ол қашан пайда болуы мүмкін, қанша тұратыны және пациенттердің жеке деректері қалай қорғалатыны айтылмаған. Сонымен қатар, ол тегін бола ма, соны да мәтін нақтылап бермейді. Денсаулық сақтау органдарының пікірі жоқ, қосымша сандар мен күндер де берілмеген.\n\nҚазіргі уақытта бұл тек ұсыныс: мәтінде шешім, заң жобасы немесе мерзім туралы айтылмаған, сондықтан келесі қадамдар белгісіз. Бұл бастама бойынша жаңа хабарламаларды бақылап отыру ұсынылады.",
-    "de": "Am 25. November 2026 berichtete Newsroom24, dass in der Staatsduma, der unteren Parlamentskammer Russlands, die Idee einer föderalen App für Menschen mit Diabetes vorgebracht wurde. Der Beitrag beruft sich auf die Nachrichtenagentur TASS. Dem Medium zufolge könnte ein solcher Dienst mehrere Aufgaben rund um die Krankheit an einem Ort bündeln. Der Beitrag erschien um 03:47 Uhr.\n\nDer Artikel nennt drei Bereiche, die der Dienst abdecken würde: die Kontrolle des Blutzuckerspiegels, die medizinischen Unterlagen der Patientin oder des Patienten und die Verbindung zur behandelnden Ärztin oder zum behandelnden Arzt.\n\nDer Text ist knapp, und mehrere zentrale Fragen bleiben offen. Nicht genannt werden die Entwickler und Betreiber des Dienstes, ein möglicher Starttermin, die Kosten sowie der Schutz persönlicher Gesundheitsdaten. Ob die Nutzung kostenlos wäre, geht aus dem Beitrag ebenfalls nicht hervor. Eine Stellungnahme von Gesundheitsbehörden fehlt, weitere Zahlen oder Daten enthält er nicht.\n\nBislang handelt es sich nur um einen Vorschlag: Eine Entscheidung, ein Gesetzentwurf oder ein Zeitplan wird nicht erwähnt, daher sind die nächsten Schritte unbekannt. Wer die Entwicklung verfolgen möchte, sollte auf weitere Berichte zu dieser Initiative achten.",
-    "es": "El 25 de noviembre de 2026, Newsroom24 informó de que en la Duma Estatal, la cámara baja del parlamento ruso, se planteó la idea de crear una aplicación federal para personas con diabetes. La publicación cita a la agencia de noticias TASS. Según el medio, un servicio así podría reunir en un solo lugar varias tareas relacionadas con la enfermedad. El texto se publicó a las 03:47.\n\nEl artículo menciona tres ámbitos que cubriría el servicio: el control del nivel de glucosa en sangre, los registros médicos del paciente y la comunicación con el médico que lo atiende.\n\nLa noticia es breve y deja abiertas varias preguntas clave. No indica quién desarrollaría y gestionaría el servicio, cuándo podría estar disponible, cuánto costaría ni cómo se protegerían los datos de salud personales. Tampoco aclara si sería gratuito. No incluye reacciones de las autoridades sanitarias ni otras cifras o fechas.\n\nPor ahora es solo una propuesta: el texto no menciona decisiones, proyectos de ley ni plazos, así que los próximos pasos son desconocidos. Quienes quieran seguir el tema deberán estar atentos a nuevas informaciones sobre esta iniciativa."
-   }
-  },
-  {
-   "id": "nZVND9vYz01",
-   "cat": "research",
-   "stage": "results",
-   "date": "2026-11-25",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "Исследование у детей связало уровень магния в крови с лучшим временем в целевом диапазоне глюкозы",
-    "en": "Pediatric study links serum magnesium to better time in glucose range",
-    "kk": "Балаларда жүргізілген зерттеу қандағы магний деңгейін глюкозаның мақсатты диапазондағы уақытымен байланыстырды",
-    "de": "Studie an Kindern verbindet Serum-Magnesium mit besserer Zeit im Glukose-Zielbereich",
-    "es": "Un estudio pediátrico relaciona el magnesio sérico con un mejor tiempo en el rango de glucosa"
-   },
-   "text": {
-    "ru": "Исследование с участием детей с диабетом показало связь между уровнем магния в сыворотке крови и временем в целевом диапазоне глюкозы.",
-    "en": "A study of children with diabetes found a link between serum magnesium levels and time in the target glucose range.",
-    "kk": "Қант диабеті бар балалар қатысқан зерттеу қан сарысуындағы магний деңгейі мен глюкозаның мақсатты диапазондағы уақыты арасындағы байланысты көрсетті.",
-    "de": "Eine Studie mit Kindern mit Diabetes fand einen Zusammenhang zwischen Serum-Magnesium und der Zeit im Glukose-Zielbereich.",
-    "es": "Un estudio con niños con diabetes encontró una relación entre el magnesio sérico y el tiempo en el rango objetivo de glucosa."
-   },
-   "url": "https://bioengineer.org/pediatric-diabetes-study-links-serum-magnesium-to-improved-glucose-time-in-range/",
-   "src": "Bioengineer.org",
-   "photoQuery": "blood test tubes laboratory",
-   "photo": {
-    "id": "u_0jE8ynV4mis",
-    "url": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjB0ZXN0JTIwdHViZXMlMjBsYWJvcmF0b3J5fGVufDF8MHx8fDE3OTU1NzY1MTN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Testalize.me",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/blood-collection-tubes-in-laboratory-rack-0jE8ynV4mis?utm_source=dia_news&utm_medium=referral",
-    "alt": "Rows of medical blood collection tubes with colorful caps in a laboratory rack"
-   },
-   "body": {
-    "ru": "Исследователи из Словакии сообщили, что у детей и подростков с диабетом 1 типа более высокий уровень магния в крови обычно сочетается с большей долей времени, проведённого в целевом диапазоне глюкозы. Работа выполнена на детском отделении медицинского факультета Университета Комениуса имени Йесениуса и университетской больницы в городе Мартин; публикация вышла в журнале Frontiers in Pediatrics в 2026 году.\n\nВ исследование вошли 112 пациентов. Из 119 детей и подростков, пришедших на плановые осмотры с февраля по апрель 2026 года, пять отказались носить датчик непрерывного мониторинга глюкозы, а двое подходящих не согласились участвовать. Медианный возраст участников составил 13,0 года, мальчики составляли 57,1 процента группы. Около половины получали инсулин через помповые системы с гибридным замкнутым циклом, остальные делали инъекции несколько раз в день.\n\nПо данным датчиков, собранным за 14 дней, медианное время в целевом диапазоне составило 74 процента: 77 процентов у пользователей помп и 65 процентов у тех, кто делал инъекции. После поправки на возраст, пол, индекс массы тела, скорость клубочковой фильтрации, длительность диабета и способ введения инсулина каждое увеличение магния на одно стандартное отклонение (0,073 ммоль/л) соответствовало росту времени в диапазоне примерно на 3,60 процентного пункта. Связи натрия, хлора, калия и кальция с гликированным гемоглобином исчезли после учёта уровня глюкозы, а связь с магнием сохранилась.\n\nНизкий уровень магния (ниже 0,77 ммоль/л) выявлен у 19 детей, что составляет 16,9 процента участников.\n\nАвторы подчёркивают ограничения: это наблюдательное исследование в одном центре, оно не доказывает причинно-следственной связи и не исключает влияния неучтённых факторов. По их мнению, результаты не дают клинического основания для рутинного приёма добавок магния без рецепта. Для проверки нужны проспективные когортные исследования и контролируемые испытания.",
-    "en": "Researchers in Slovakia report that children and teenagers with type 1 diabetes who have higher blood magnesium levels tend to spend a larger share of their time inside their target glucose range. The work was carried out in the pediatric department of Comenius University's Jessenius Faculty of Medicine and University Hospital Martin, and it was published in Frontiers in Pediatrics in 2026.\n\nThe analysis included 112 young patients. Of 119 consecutive patients who attended routine follow-up visits between February and April 2026, five declined to wear a continuous glucose sensor and two eligible patients chose not to enroll. The median age of participants was 13.0 years, and boys made up 57.1 percent of the group. About half used insulin pumps with hybrid closed-loop systems, while the rest took multiple daily injections.\n\nBased on sensor readings collected over 14 days, the median time in range was 74 percent. Pump users reached 77 percent, compared with 65 percent among children on injections. After adjusting for age, sex, body mass index, kidney filtration rate, diabetes duration and insulin delivery method, each one-standard-deviation rise in magnesium (0.073 mmol/L) corresponded to about 3.60 more percentage points of time in range. Links between sodium, chloride, potassium and calcium and glycated hemoglobin faded once blood glucose was taken into account, while the magnesium link held.\n\nLow magnesium, below 0.77 mmol/L, was found in 19 children, or 16.9 percent of participants.\n\nThe authors stress several limitations. The study is observational, comes from a single center and cannot prove cause and effect, and unmeasured factors may still play a role. They say the results give no clinical basis for routine over-the-counter magnesium supplements. Prospective cohort studies and controlled trials are needed to test the findings.",
-    "kk": "Словакиядағы зерттеушілер 1 типті қант диабеті бар балалар мен жасөспірімдерде қандағы магний деңгейі жоғары болған сайын, глюкоза мақсатты диапазонында өткізетін уақыттың үлесі де көбірек болатынын хабарлады. Жұмыс Комениус университетінің Йесениус атындағы медицина факультетінің балалар бөлімінде және Мартин қалалық университеттік ауруханасында жүргізілді; нәтижелер 2026 жылы Frontiers in Pediatrics журналында жарық көрді.\n\nЗерттеуге 112 науқас қатысты. 2026 жылдың ақпаны мен сәуірі аралығында жоспарлы тексеруге келген 119 науқастың бесеуі глюкозаны үздіксіз өлшейтін датчикті тағуға келіспеді, ал екі лайықты науқас қатысудан бас тартты. Қатысушылардың медианалық жасы 13,0 жас болды, топтың 57,1 пайызын ұлдар құрады. Шамамен жартысы гибридті жабық цикл жүйесі бар инсулин помпасын пайдаланды, қалғандары күніне бірнеше рет инъекция жасады.\n\n14 күн бойы жиналған датчик көрсеткіштері бойынша мақсатты диапазондағы уақыттың медианасы 74 пайыз болды. Помпа пайдаланушыларда бұл 77 пайыз, инъекция алатын балаларда 65 пайыз болды. Жас, жыныс, дене массасы индексі, бүйрек сүзу жылдамдығы, диабет ұзақтығы және инсулин енгізу тәсілі ескерілгеннен кейін магнийдің бір стандартты ауытқуға (0,073 ммоль/л) көтерілуі мақсатты диапазондағы уақыттың шамамен 3,60 пайыздық бөлігіне сәйкес келді. Натрий, хлор, калий және кальций мен гликирленген гемоглобин арасындағы байланыс қандағы глюкоза ескерілгеннен кейін жоғалды, ал магниймен байланыс сақталды.\n\nМагнийдің төмен деңгейі (0,77 ммоль/л-ден төмен) 19 балада, яғни қатысушылардың 16,9 пайызында анықталды.\n\nАвторлар бірнеше шектеуді атап өтеді. Зерттеу бақылауға негізделген, бір орталықта жүргізілді, себеп-салдарлық байланысты дәлелдей алмайды, сондай-ақ ескерілмеген факторлардың әсері болуы мүмкін. Олардың айтуынша, нәтижелер дәрі-дәрмексіз сатылатын магний қоспаларын үнемі қабылдау үшін клиникалық негіз бермейді. Нәтижелерді тексеру үшін болжамды когорталық зерттеулер мен бақыланатын сынақтар қажет.",
-    "de": "Forschende aus der Slowakei berichten, dass Kinder und Jugendliche mit Typ-1-Diabetes, die höhere Magnesiumwerte im Blut haben, tendenziell einen größeren Anteil ihrer Zeit im Zielbereich der Glukose verbringen. Die Arbeit entstand in der Kinderabteilung der Medizinischen Fakultät Jessenius der Comenius-Universität und des Universitätsklinikums Martin und wurde 2026 in der Zeitschrift Frontiers in Pediatrics veröffentlicht.\n\nIn die Analyse flossen 112 junge Patientinnen und Patienten ein. Von 119 Kindern und Jugendlichen, die zwischen Februar und April 2026 zu den routinemäßigen Nachuntersuchungen kamen, lehnten fünf das Tragen eines kontinuierlichen Glukosesensors ab, und zwei infrage kommende Teilnehmer entschieden sich gegen eine Aufnahme. Das mediane Alter lag bei 13,0 Jahren, und 57,1 Prozent der Gruppe waren Jungen. Etwa die Hälfte nutzte Insulinpumpen mit hybridem geschlossenem Kreislauf, die übrigen spritzten mehrmals täglich.\n\nAuf Grundlage der Sensordaten über 14 Tage lag die mediane Zeit im Zielbereich bei 74 Prozent. Bei Pumpennutzern waren es 77 Prozent, bei Kindern mit Injektionstherapie 65 Prozent. Nach Berücksichtigung von Alter, Geschlecht, BMI-Standardwert, glomerulärer Filtrationsrate, Diabetesdauer und Insulinabgabeform entsprach jede Zunahme des Magnesiums um eine Standardabweichung (0,073 mmol/l) etwa 3,60 Prozentpunkten mehr Zeit im Zielbereich. Zusammenhänge von Natrium, Chlorid, Kalium und Kalzium mit dem HbA1c verschwanden, sobald der Blutzucker einbezogen wurde; der Zusammenhang mit Magnesium blieb bestehen.\n\nEin niedriger Magnesiumwert unter 0,77 mmol/l wurde bei 19 Kindern festgestellt, das entspricht 16,9 Prozent der Teilnehmenden.\n\nDie Autorinnen und Autoren betonen Einschränkungen: Es handelt sich um eine Beobachtungsstudie an einem einzigen Zentrum, die keinen Ursache-Wirkung-Zusammenhang belegen kann; nicht erfasste Faktoren könnten ebenfalls eine Rolle spielen. Laut ihrer Einschätzung liefern die Ergebnisse keine klinische Grundlage für die routinemäßige Einnahme rezeptfrei erhältlicher Magnesiumpräparate. Prospektive Kohortenstudien und kontrollierte Studien seien nötig, um die Befunde zu prüfen.",
-    "es": "Investigadores de Eslovaquia informan de que los niños y adolescentes con diabetes tipo 1 que tienen niveles más altos de magnesio en sangre tienden a pasar una mayor proporción de tiempo dentro de su rango objetivo de glucosa. El trabajo se llevó a cabo en el departamento de pediatría de la Facultad de Medicina Jessenius de la Universidad Comenius y del Hospital Universitario de Martin, y se publicó en Frontiers in Pediatrics en 2026.\n\nEl análisis incluyó a 112 jóvenes pacientes. De 119 pacientes consecutivos que acudieron a revisiones de seguimiento rutinarias entre febrero y abril de 2026, cinco rechazaron llevar un sensor de glucosa continuo y dos candidatos elegibles no quisieron participar. La mediana de edad fue de 13,0 años y los varones representaron el 57,1 por ciento del grupo. Cerca de la mitad usaba bombas de insulina con sistema de circuito cerrado híbrido, y el resto se ponía inyecciones varias veces al día.\n\nCon las lecturas del sensor recogidas durante 14 días, la mediana del tiempo en rango fue del 74 por ciento. Los usuarios de bomba alcanzaron el 77 por ciento, frente al 65 por ciento de los niños con inyecciones. Tras ajustar por edad, sexo, índice de masa corporal, tasa de filtrado glomerular, duración de la diabetes y forma de administración de insulina, cada aumento de una desviación estándar en el magnesio (0,073 mmol/l) se asoció con unos 3,60 puntos porcentuales más de tiempo en rango. Las asociaciones del sodio, el cloro, el potasio y el calcio con la hemoglobina glicada se desvanecieron al tener en cuenta la glucosa en sangre, mientras que la del magnesio se mantuvo.\n\nSe detectó magnesio bajo, por debajo de 0,77 mmol/l, en 19 niños, es decir, el 16,9 por ciento de los participantes.\n\nLos autores subrayan varias limitaciones. Se trata de un estudio observacional de un solo centro que no puede demostrar causalidad y en el que pueden influir factores no medidos. Afirman que los resultados no justifican clínicamente tomar suplementos de magnesio de venta libre de forma rutinaria. Para comprobar los hallazgos se necesitan estudios de cohortes prospectivos y ensayos controlados."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Медианное время в целевом диапазоне глюкозы (датчик, 14 дней)",
-      "en": "Median time in glucose target range (sensor, 14 days)",
-      "kk": "Глюкоза мақсатты диапазонындағы уақыттың медианасы (датчик, 14 күн)",
-      "de": "Mediane Zeit im Glukose-Zielbereich (Sensor, 14 Tage)",
-      "es": "Mediana del tiempo en rango de glucosa (sensor, 14 días)"
-     },
-     "v": {
-      "ru": "74 %",
-      "en": "74%",
-      "kk": "74 %",
-      "de": "74 %",
-      "es": "74 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Прирост времени в диапазоне на одно стандартное отклонение магния",
-      "en": "Gain in time in range per one standard deviation of magnesium",
-      "kk": "Магнийдің бір стандартты ауытқуына сәйкес мақсатты диапазондағы уақыттың өсімі",
-      "de": "Zuwachs der Zeit im Zielbereich je Standardabweichung Magnesium",
-      "es": "Aumento del tiempo en rango por una desviación estándar de magnesio"
-     },
-     "v": {
-      "ru": "примерно 3,60 процентного пункта",
-      "en": "about 3.60 percentage points",
-      "kk": "шамамен 3,60 пайыздық пункт",
-      "de": "etwa 3,60 Prozentpunkte",
-      "es": "unos 3,60 puntos porcentuales"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nE4zP29jPTU",
-   "cat": "cure",
-   "stage": "early",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "Частицы стволовых клеток замедлили развитие диабета 1-го типа у мышей",
-    "en": "Stem cell particles slowed type 1 diabetes development in mice",
-    "kk": "Бағаналы жасуша бөлшектері тышқандарда 1-типті қант диабетінің дамуын баяулатты",
-    "de": "Stammzellpartikel verlangsamten die Entwicklung von Typ-1-Diabetes bei Mäusen",
-    "es": "Partículas de células madre ralentizaron el desarrollo de la diabetes tipo 1 en ratones"
-   },
-   "text": {
-    "ru": "В исследовании на мышах частицы стволовых клеток замедлили развитие диабета 1 типа. Это доклинический результат, до применения у людей ещё далеко.",
-    "en": "In a mouse study, stem cell particles slowed the development of type 1 diabetes. This is a preclinical result, far from use in people.",
-    "kk": "Тышқандарда жүргізілген зерттеуде бағаналы жасуша бөлшектері 1-типті қант диабетінің дамуын баяулатты. Бұл адамдарға қолдануға дейінгі доклиникалық нәтиже.",
-    "de": "In einer Studie an Mäusen verlangsamten Stammzellpartikel die Entwicklung von Typ-1-Diabetes. Es handelt sich um ein präklinisches Ergebnis, die Anwendung am Menschen liegt noch in weiter Ferne.",
-    "es": "En un estudio con ratones, las partículas de células madre ralentizaron el desarrollo de la diabetes tipo 1. Es un resultado preclínico, todavía lejos de su uso en personas."
-   },
-   "url": "https://samaraonline24.ru/science/view/casticy-stvolovyh-kletok-zamedlili-razvitie-diabeta-1-go-tipa-u-mysej",
-   "src": "Самара онлайн 24",
-   "photoQuery": "laboratory research microscope",
-   "photo": {
-    "id": "u_JxoWb7wHqnA",
-    "url": "https://images.unsplash.com/photo-1630959305790-4c956ce6c0b6?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8N3x8bGFib3JhdG9yeSUyMHJlc2VhcmNoJTIwbWljcm9zY29wZXxlbnwxfDB8fHwxNzk1NTc2NTE0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "National Cancer Institute",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/scientist-using-microscope-in-laboratory-JxoWb7wHqnA?utm_source=dia_news&utm_medium=referral",
-    "alt": "A person in a white lab coat looking through a microscope in a laboratory"
-   },
-   "body": {
-    "ru": "Экспериментальная терапия на основе микроскопических частиц, полученных из стволовых клеток, отсрочила появление диабета 1-го типа у мышей. Результаты опубликовал журнал Nature Nanotechnology, исследование провели учёные Калифорнийского университета в Лос-Анджелесе (UCLA). Людей в испытаниях пока не лечили. Пятьдесят пять процентов животных, которым частицы вводили с помощью геля замедленного высвобождения, не показывали признаков болезни в течение девяноста дней.\n\nАвторы сосредоточились не на уровне сахара, а на иммунном ответе, который разрушает бета-клетки поджелудочной железы, вырабатывающие инсулин. Идея пришла из наблюдений за беременностью: иммунитет матери обычно не атакует развивающийся эмбрион. Учёные изучали внеклеточные везикулы, переносящие белки, липиды и генетический материал между клетками. Везикулы из плюрипотентных стволовых клеток заметно сильнее снижали воспаление, чем частицы из мезенхимальных клеток, и помогали образованию регуляторных Т-клеток.\n\nМышам пересаживали иммунные клетки, способные повреждать клетки, производящие инсулин, а затем вводили везикулы. Поскольку частицы быстро уходят из места укола, команда создала гидрогель под кожей, который высвобождает их несколько дней. Оба варианта лечения, с гелем и без него, заметно замедлили болезнь; у мышей с гелем было больше регуляторных Т-клеток и сохранённой ткани поджелудочной железы.\n\nВыход везикул вырос в 3,4 раза на миллион клеток благодаря выращиванию клеток в трёхмерных скоплениях в перемешиваемой жидкости.\n\nПодход может быть полезен на ранних стадиях диабета и для защиты пересаженных инсулин-продуцирующих клеток. Далее учёные планируют испытания на более крупных животных, изучение дозировок, долгосрочных эффектов и влияния на защиту от инфекций.",
-    "en": "An experimental therapy based on tiny particles derived from stem cells delayed the onset of type 1 diabetes in mice. The study was carried out by researchers at the University of California, Los Angeles (UCLA) and published in Nature Nanotechnology. No human trials have been conducted so far. Fifty-five percent of the animals that received the particles through a slow-release gel showed no signs of the disease over 90 days.\n\nRather than tracking blood sugar, the team focused on the immune response that destroys the insulin-producing beta cells of the pancreas. The concept grew out of pregnancy, where a mother's immune system normally does not attack the developing embryo despite genetic differences. The scientists examined extracellular vesicles, small packets that carry proteins, lipids and genetic material between cells. Vesicles from pluripotent stem cells cut inflammatory reactions far more than those from mesenchymal stem cells, and they encouraged the formation of regulatory T cells.\n\nIn mice, the researchers first transferred immune cells capable of damaging insulin-producing cells, then gave the vesicles. Because the particles vanish quickly at an injection site, the team designed a hydrogel placed under the skin that releases them over several days. The gel was applied near the neck so the vesicles could reach nearby lymph nodes. Both approaches, with and without the gel, significantly slowed the disease, and gel-treated mice had more regulatory T cells and preserved pancreatic tissue.\n\nTo increase output, the cells were grown as three-dimensional clusters in a stirred liquid. This raised the yield by 3.4 times per million cells while keeping key characteristics intact.\n\nThe authors say the approach could help in early-stage diabetes and protect transplanted insulin-producing cells. Planned next steps include testing in larger animals, studying doses and long-term effects, and assessing whether the therapy helps protect against infections.",
-    "kk": "Бөлшектер түріндегі бұл эксперименттік емдеу 1-типті қант диабетінің басталуын тышқандарда кейінге шегеруге көмектесті. Нәтижелерді Nature Nanotechnology журналы жариялады, зерттеуді Лос-Анджелестегі Калифорния университетінің (UCLA) ғалымдары жүргізді. Адамдарда клиникалық сынақтар әзірге өткізілмеген. Бөлшектерді баяу бөлінетін гель арқылы енгізілген жануарлардың елу бес пайызында 90 күн ішінде ауру белгілері байқалмады.\n\nТоп қан қантының деңгейіне емес, ұйқы безіндегі инсулин өндіретін бета-жасушаларды бұзатын иммундық реакцияға назар аударды. Идея жүктілік байқауларынан туындады: ана иммун жүйесі генетикалық айырмашылыққа қарамастан дамып келе жатқан эмбрионға әдетте шабуыл жасамайды. Ғалымдар жасушалар арасында ақуыздарды, липидтерді және генетикалық материалды тасымалдайтын сыртқы везикулаларды зерттеді. Плюрипотентті бағаналы жасушалардан алынған везикулалар мезенхималды жасушалардікіне қарағанда қабынуды едәуір азайтып, реттеуші Т-жасушалардың түзілуіне ықпал етті.\n\nТышқандарға алдымен инсулин өндіретін жасушаларды зақымдай алатын иммундық жасушалар егілді, сосын везикулалар енгізілді. Бөлшектер инъекция орнында тез жойылатындықтан, команда терінің астына салынатын және бірнеше күн бойы оларды бөлетін гидрогель жасады. Гельді көмекші лимфа түйіндеріне жетуі үшін мойын аймағына салды. Гельмен де, онсыз да қолданылған екі әдіс те ауруды айтарлықтай баяулатты; гель алған тышқандарда реттеуші Т-жасушалар көбірек, ұйқы безінің ұлпасы сақталған болып шықты.\n\nӨнімді арттыру үшін жасушалар аралассыз сұйықтықта үш өлшемді шоғырлар түрінде өсірілді. Бұл миллион жасушаға шаққанда бөлшек шығымын 3,4 есеге арттырды, маңызды сипаттамалары сақталды.\n\nАвторлардың айтуынша, тәсіл диабеттің ерте сатысында және трансплантацияланған инсулин өндіретін жасушаларды қорғауға көмектесуі мүмкін. Алдағы қадамдар — үлкенірек жануарларда сынау, дозаларды және ұзақ мерзімді әсерлерді зерттеу, сондай-ақ инфекциядан қорғауға әсерін бағалау.",
-    "de": "Eine experimentelle Therapie mit winzigen Partikeln aus Stammzellen hat bei Mäusen den Beginn von Typ-1-Diabetes hinausgezögert. Die Studie stammt von Forschenden der Universität von Kalifornien in Los Angeles (UCLA) und wurde in der Zeitschrift Nature Nanotechnology veröffentlicht. Versuche am Menschen wurden bisher nicht durchgeführt. Fünfundfünfzig Prozent der Tiere, denen die Partikel über ein Gel mit verzögerter Freisetzung verabreicht wurden, zeigten innerhalb von 90 Tagen keine Krankheitszeichen.\n\nStatt den Blutzucker zu beobachten, konzentrierte sich das Team auf die Immunreaktion, die die insulinbildenden Beta-Zellen der Bauchspeicheldrüse zerstört. Die Idee stammte aus der Schwangerschaft, in der das Immunsystem der Mutter den sich entwickelnden Embryo trotz genetischer Unterschiede normalerweise nicht angreift. Die Wissenschaftler untersuchten extrazelluläre Vesikel, kleine Pakete, die Proteine, Lipide und genetisches Material zwischen Zellen transportieren. Vesikel aus pluripotenten Stammzellen verringerten Entzündungsreaktionen deutlich stärker als solche aus mesenchymalen Stammzellen und förderten die Bildung regulatorischer T-Zellen.\n\nBei den Mäusen übertrugen die Forschenden zunächst Immunzellen, die insulinbildende Zellen schädigen können, und verabreichten danach die Vesikel. Da die Partikel an der Injektionsstelle schnell verschwinden, entwickelte das Team ein Hydrogel, das unter die Haut gespritzt wird und die Partikel über mehrere Tage freisetzt. Es wurde im Halsbereich platziert, damit die Vesikel die nahe gelegenen Lymphknoten erreichen. Beide Varianten, mit und ohne Gel, verlangsamten die Krankheit deutlich; Mäuse mit Gel hatten zudem mehr regulatorische T-Zellen und erhaltenes Gewebe der Bauchspeicheldrüse.\n\nUm die Ausbeute zu steigern, wurden die Zellen in dreidimensionalen Zellverbänden in einer bewegten Flüssigkeit kultiviert. Dadurch stieg die Menge der Partikel um das 3,4-Fache pro Million Zellen, wobei wichtige Eigenschaften erhalten blieben.\n\nDie Autoren sehen Potenzial für frühe Diabetesstadien und den Schutz transplantierter insulinbildender Zellen. Als Nächstes sind Tests an größeren Tieren sowie Untersuchungen zu Dosierungen, Langzeitwirkungen und dem Schutz vor Infektionen geplant.",
-    "es": "Una terapia experimental basada en partículas diminutas derivadas de células madre retrasó la aparición de la diabetes tipo 1 en ratones. El estudio fue realizado por investigadores de la Universidad de California en Los Ángeles (UCLA) y publicado en la revista Nature Nanotechnology. Hasta ahora no se han realizado ensayos en personas. El 55 % de los animales que recibieron las partículas mediante un gel de liberación lenta no mostró signos de la enfermedad durante 90 días.\n\nEn lugar de controlar el nivel de azúcar, el equipo se centró en la respuesta inmunitaria que destruye las células beta del páncreas, encargadas de producir insulina. La idea surgió de la observación del embarazo, en el que el sistema inmunitario de la madre normalmente no ataca al embrión en desarrollo, pese a las diferencias genéticas. Los científicos estudiaron vesículas extracelulares, pequeños paquetes que transportan proteínas, lípidos y material genético entre células. Las vesículas procedentes de células madre pluripotentes redujeron las reacciones inflamatorias mucho más que las de células madre mesenquimales y favorecieron la formación de linfocitos T reguladores.\n\nEn ratones, los investigadores trasplantaron primero células inmunitarias capaces de dañar las células productoras de insulina y después les administraron las vesículas. Como las partículas desaparecen rápidamente en el lugar de la inyección, el equipo diseñó un hidrogel que se aplica bajo la piel y las libera durante varios días. Se colocó cerca del cuello para que las vesículas llegaran a los ganglios linfáticos cercanos. Ambos enfoques, con y sin gel, ralentizaron de forma significativa la enfermedad; los ratones con gel tenían además más linfocitos T reguladores y más tejido pancreático conservado.\n\nPara aumentar la producción, las células se cultivaron en agregados tridimensionales en un líquido agitado. Así, el rendimiento de partículas aumentó 3,4 veces por millón de células, manteniendo sus características importantes.\n\nLos autores consideran que el método podría ser útil en las fases tempranas de la diabetes y para proteger las células productoras de insulina trasplantadas. Los próximos pasos previstos incluyen probar la terapia en animales más grandes, estudiar dosis y efectos a largo plazo, y evaluar su efecto en la protección frente a infecciones."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Доля мышей без признаков диабета за 90 дней (с гелем замедленного высвобождения)",
-      "en": "Share of mice with no signs of disease over 90 days (slow-release gel)",
-      "kk": "90 күн ішінде ауру белгісі байқалмаған тышқандар үлесі (баяу бөлінетін гель)",
-      "de": "Anteil der Mäuse ohne Krankheitszeichen über 90 Tage (Gel mit verzögerter Freisetzung)",
-      "es": "Proporción de ratones sin signos de enfermedad durante 90 días (gel de liberación lenta)"
-     },
-     "v": {
-      "ru": "55%",
-      "en": "55%",
-      "kk": "55%",
-      "de": "55 %",
-      "es": "55 %"
-     }
-    },
-    {
-     "k": {
-      "ru": "Увеличение выхода везикул на миллион клеток при выращивании в трёхмерных скоплениях",
-      "en": "Increase in vesicle yield per million cells with 3D cell clusters",
-      "kk": "Үш өлшемді шоғырларда өсіру кезінде миллион жасушаға везикула шығымының артуы",
-      "de": "Steigerung der Vesikelausbeute pro Million Zellen bei dreidimensionalen Zellverbänden",
-      "es": "Aumento del rendimiento de vesículas por millón de células con agregados tridimensionales"
-     },
-     "v": {
-      "ru": "в 3,4 раза",
-      "en": "3.4 times",
-      "kk": "3,4 есе",
-      "de": "3,4-fach",
-      "es": "3,4 veces"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nRubz9vYz01",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "NHS стоит вновь рассмотреть глюкозные датчики для людей с диабетом 2 типа",
-    "en": "Glucose sensors for type 2 diabetes deserve a second look from NHS",
-    "kk": "NHS 2-типті қант диабеті бар адамдар үшін глюкоза датчиктерін қайта қарауы керек",
-    "de": "Glukosesensoren für Typ-2-Diabetes sollten vom NHS neu geprüft werden",
-    "es": "El NHS debería reconsiderar los sensores de glucosa para la diabetes tipo 2"
-   },
-   "text": {
-    "ru": "Публикация призывает Национальную службу здравоохранения Великобритании вновь оценить использование датчиков глюкозы при диабете 2 типа.",
-    "en": "A report calls on the UK's NHS to take a fresh look at glucose sensors for type 2 diabetes.",
-    "kk": "Жарияланымда Ұлыбритания NHS-ке 2-типті қант диабетінде глюкоза датчиктерін қайта бағалау ұсынылады.",
-    "de": "Ein Bericht fordert den britischen NHS auf, Glukosesensoren bei Typ-2-Diabetes erneut zu prüfen.",
-    "es": "Un artículo pide al NHS británico volver a evaluar los sensores de glucosa para la diabetes tipo 2."
-   },
-   "url": "https://www.manchester.ac.uk/about/news/glucose-sensors-for-type-2-diabetes-deserve-second-look-from-nhs/",
-   "src": "Medical Xpress",
-   "photoQuery": "glucose monitor device close-up",
-   "local": true,
-   "photo": {
-    "id": "u_ZJaK9jQXeDA",
-    "url": "https://images.unsplash.com/photo-1624454002429-40ed87a5ec04?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8Z2x1Y29zZSUyMG1vbml0b3IlMjBkZXZpY2UlMjBjbG9zZS11cHxlbnwxfDB8fHwxNzk1NTc2NTE0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Towfiqu barbhuiya",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=dia_news&utm_medium=referral",
-    "alt": "white digital device beside white pen"
-   },
-   "body": {
-    "ru": "Исследователи под руководством Манчестерского университета считают, что носимые датчики глюкозы могут быть выгодны для NHS у взрослых с диабетом 2 типа, которые принимают инсулин. Работа опубликована в журнале Diabetes, Obesity and Metabolism и сравнивает непрерывный мониторинг глюкозы в реальном времени с обычным тестом уколом пальца. В 2022 году Национальный институт здравоохранения и совершенствования медицинской помощи (NICE) пришёл к выводу, что такие датчики не являются экономически эффективными для этой группы. Авторы полагают, что это заключение, возможно, устарело.\n\nПо оценкам Diabetes UK, в Великобритании с диабетом живут около 5,8 миллиона человек, и примерно 90% диагнозов приходятся на 2 тип. В 2021/22 году диабет обошёлся стране примерно в £8,8 млрд, и 64% этой суммы связаны с осложнениями, такими как болезни сердца, почечная недостаточность, потеря зрения и ампутации.\n\nИсследователи использовали данные испытания FreeDM2. В нём 303 взрослых в 24 британских центрах были случайным образом распределены между датчиками FreeStyle Libre 3 и тестированием уколом пальца на 32 недели. У всех участников уровень глюкозы был выше целевого, несмотря на инсулин и другие препараты. У тех, кто пользовался датчиком, показатели улучшились значительнее. Результаты затем внесли в установленную компьютерную модель, чтобы спрогнозировать исходы и затраты за всю жизнь.\n\nМодель показала, что датчики стоят на £4,341 больше на человека, но добавляют 0,73 QALY, то есть £5,943 на один QALY. Это ниже порога £25,000–£35,000, который обычно используют в Англии. Расходы на осложнения, по прогнозу, снизятся на £2,437 на человека. Чтобы датчики стали экономически эффективными, улучшение контроля глюкозы должно сохраняться не менее четырёх лет, а долгосрочные выводы предполагают, что люди продолжат пользоваться датчиками. За 32 недели самого испытания значимых различий в затратах или качестве жизни не было, что исследователи связывают с тем, что выгода накапливается со временем.\n\nИсследование финансировало подразделение Abbott, которое выпускает систему FreeStyle Libre. Финансирующая сторона не участвовала в планировании экономической оценки, анализе данных и написании статьи. В материале не указаны сроки пересмотра рекомендаций NICE.",
-    "en": "Researchers led by the University of Manchester argue that wearable glucose sensors could offer good value for the NHS in adults with type 2 diabetes who take insulin. The study, published in Diabetes, Obesity and Metabolism, compares real-time continuous glucose monitoring with the usual finger-prick testing. In 2022, the National Institute for Health and Care Excellence (NICE) concluded that these sensors were not cost-effective for this group. The authors say that advice may now be outdated.\n\nAccording to Diabetes UK, around 5.8 million people in the UK live with diabetes, and about 90% of those diagnosed have type 2. Type 2 diabetes cost the UK an estimated £8.8bn in 2021/22, and 64% of that spending was linked to complications such as heart disease, kidney failure, sight loss and amputations.\n\nThe team drew on data from the FreeDM2 trial. In it, 303 adults at 24 UK centres were randomly assigned to either FreeStyle Libre 3 sensors or finger-prick testing for 32 weeks. All participants had glucose levels above target despite taking insulin and other diabetes medicines. Those who used the sensor improved more. The researchers entered these results into an established computer model to project health outcomes and costs over a lifetime.\n\nThe model projected that sensors would cost £4,341 more per person but add 0.73 quality-adjusted life years. That works out to £5,943 per QALY, below the £25,000–£35,000 threshold typically used in England. Spending on complications was projected to fall by £2,437 per person. To be cost-effective, improved glucose control would need to last at least four years, and the long-term findings assume people keep using the sensors. During the 32-week trial itself, there were no significant differences in costs or quality of life, which the researchers attribute to benefits building over time.\n\nThe study was funded by Abbott's diabetes care business, which makes the FreeStyle Libre system. The funder had no role in designing the economic evaluation, analysing the data or writing the paper. The article gives no timetable for reviewing NICE's guidance.",
-    "kk": "Манчестер университеті бастаған зерттеушілер инсулин қабылдайтын 2-типті қант диабеті бар ересектер үшін шынайы уақыттағы глюкоза датчиктері NHS-ке тиімді болуы мүмкін деп санайды. Diabetes, Obesity and Metabolism журналында жарияланған жұмыста глюкозаны үздіксіз өлшеу әдеті саусақты тесіп тексеруге салыстырылған. 2022 жылы NICE (Ұлттық денсаулық сақтау және медициналық көмек институты) бұл топ үшін мұндай датчиктер шығын-тиімді емес деп қорытынды шығарған болатын. Авторлар бұл пікір қазір ескірген болуы мүмкін деп санайды.\n\nDiabetes UK деректері бойынша Ұлыбританияда шамамен 5,8 миллион адам диабетпен өмір сүреді, ал диагноз қойылғандардың шамамен 90%-ы 2-тип. 2021/22 жылы диабет елге шамамен £8,8 млрд шығын әкелген, бұл соманың 64%-ы жүрек ауруы, бүйрек жетіспеушілігі, көру қабілетінің нашарлауы және ампутация сияқты асқынулармен байланысты.\n\nЗерттеушілер FreeDM2 сынағының деректерін пайдаланды. Оған Ұлыбританияның 24 орталығындағы 303 ересек кездейсоқ түрде FreeStyle Libre 3 датчиктеріне немесе саусақты тесіп тексеруге бөлінді, сынақ 32 апта жалғасты. Барлық қатысушыларда инсулин мен басқа диабет дәрілеріне қарамастан глюкоза деңгейі мақсатты деңгейден жоғары болды. Датчикті қолданғандардың көрсеткіші едәуір жақсарды. Нәтижелер денсаулық пен шығынды өмір бойына болжау үшін таныс компьютерлік модельге енгізілді.\n\nМодель бойынша датчиктер адам басына £4,341 қосымша тұрады, бірақ 0.73 QALY қосады. Бұл бір QALY үшін £5,943 дегенді білдіреді, ол Англияда әдетте қолданылатын £25,000–£35,000 шегінен төмен. Асқынулар шығыны адам басына £2,437 азаяды деп болжанған. Датчиктер шығын-тиімді болуы үшін глюкоза бақылауының жақсаруы кемінде төрт жыл сақталуы керек, ал ұзақ мерзімді қорытындылар адамдардың датчикті пайдалануды жалғастыратынын болжайды. 32 апталық сынақ кезінде шығында немесе өмір сапасында елеулі айырма болмады; зерттеушілер бұны пайданың уақыт өте келе жинақталуымен түсіндіреді.\n\nЗерттеуді FreeStyle Libre жүйесін шығаратын Abbott компаниясының диабет күтімі бөлімшесі қаржыландырған. Қаржыландырушы экономикалық бағалауды жобалауға, деректерді талдауға немесе мақаланы жазуға қатыспаған. Мақалада NICE нұсқаулығын қайта қарау мерзімі көрсетілмеген.",
-    "de": "Forschende unter Leitung der University of Manchester halten tragbare Glukosesensoren für erwachsene Menschen mit Typ-2-Diabetes, die Insulin spritzen, für den NHS möglicherweise für ein gutes Preis-Leistungs-Verhältnis geeignet. Die Studie erschien in Diabetes, Obesity and Metabolism und vergleicht die kontinuierliche Glukosemessung in Echtzeit mit der üblichen Fingerstich-Messung. Das National Institute for Health and Care Excellence (NICE) hatte 2022 entschieden, dass diese Sensoren für diese Gruppe nicht kosteneffektiv sind. Die Autoren meinen, dass diese Empfehlung inzwischen veraltet sein könnte.\n\nLaut Diabetes UK leben in Großbritannien schätzungsweise 5,8 Millionen Menschen mit Diabetes, und rund 90 % der Diagnosen betreffen Typ 2. Typ-2-Diabetes verursachte dem Vereinigten Königreich 2021/22 geschätzte Kosten von £8,8 Mrd.; 64 % davon hingen mit Folgeerkrankungen wie Herzerkrankungen, Nierenversagen, Sehverlust und Amputationen zusammen.\n\nDas Team nutzte Daten der FreeDM2-Studie. Dabei wurden 303 Erwachsene an 24 britischen Zentren über 32 Wochen zufällig entweder den FreeStyle-Libre-3-Sensoren oder der Fingerstich-Messung zugeteilt. Alle hatten trotz Insulin und anderer Diabetesmedikamente Glukosewerte über dem Zielbereich. Wer den Sensor nutzte, verbesserte sich stärker. Die Ergebnisse wurden in ein etabliertes Computermodell eingespeist, das Gesundheitsergebnisse und Kosten über die gesamte Lebenszeit hochrechnet.\n\nDas Modell ergab, dass die Sensoren pro Person £4,341 mehr kosten, aber 0.73 qualitätsbereinigte Lebensjahre (QALYs) hinzufügen. Das entspricht £5,943 pro QALY und liegt unter der in England üblichen Schwelle von £25,000–£35,000. Die Ausgaben für Komplikationen sollen zudem um £2,437 pro Person sinken. Damit die Sensoren kosteneffektiv sind, müssten die besseren Glukosewerte mindestens vier Jahre anhalten; die Langzeitergebnisse setzen voraus, dass die Menschen die Sensoren weiter nutzen. Während der 32-wöchigen Studie selbst gab es keine signifikanten Unterschiede bei Kosten oder Lebensqualität, was die Forschenden darauf zurückführen, dass sich der Nutzen erst mit der Zeit aufbaut.\n\nDie Studie wurde vom Diabetes-Geschäftsbereich von Abbott finanziert, dem Hersteller des FreeStyle-Libre-Systems. Der Geldgeber war weder an der Gestaltung der Wirtschaftlichkeitsbewertung, der Datenauswertung noch am Verfassen des Artikels beteiligt. Der Artikel nennt keinen Zeitplan für eine Überprüfung der NICE-Empfehlung.",
-    "es": "Investigadores liderados por la Universidad de Manchester sostienen que los sensores de glucosa portátiles podrían resultar una buena inversión para el NHS en adultos con diabetes tipo 2 que usan insulina. El estudio, publicado en Diabetes, Obesity and Metabolism, compara la monitorización continua de glucosa en tiempo real con la prueba habitual de pinchazo en el dedo. En 2022, el Instituto Nacional para la Excelencia en Salud y Atención (NICE) concluyó que estos sensores no eran rentables para este grupo. Los autores creen que ese dictamen podría estar desactualizado.\n\nSegún Diabetes UK, unos 5,8 millones de personas en el Reino Unido viven con diabetes, y alrededor del 90 % de los diagnósticos corresponden al tipo 2. En 2021/22, la diabetes tipo 2 costó al país unos £8,8 mil millones, y el 64 % de ese gasto se vincula a complicaciones como enfermedades cardíacas, insuficiencia renal, pérdida de visión y amputaciones.\n\nLos investigadores utilizaron datos del ensayo FreeDM2, en el que 303 adultos de 24 centros británicos fueron asignados al azar a sensores FreeStyle Libre 3 o a las pruebas con pinchazo en el dedo durante 32 semanas. Todos tenían niveles de glucosa por encima del objetivo pese a tomar insulina y otros medicamentos para la diabetes. Quienes usaron el sensor mejoraron más. Los resultados se introdujeron en un modelo informático establecido para proyectar los resultados de salud y los costes a lo largo de la vida.\n\nEl modelo calculó que los sensores costarían £4,341 más por persona, pero añadirían 0.73 años de vida ajustados por calidad (AVAC), lo que equivale a £5,943 por AVAC, por debajo del umbral de £25,000–£35,000 que se usa habitualmente en Inglaterra. También se proyectó un descenso de £2,437 por persona en el gasto en complicaciones. Para que los sensores sean rentables, la mejora del control de la glucosa debe mantenerse al menos cuatro años, y las conclusiones a largo plazo suponen que las personas seguirán usando los sensores. Durante las 32 semanas del ensayo no hubo diferencias significativas en costes ni en calidad de vida, algo que los investigadores atribuyen a que los beneficios se acumulan con el tiempo.\n\nEl estudio fue financiado por la división de atención a la diabetes de Abbott, que fabrica el sistema FreeStyle Libre. El financiador no participó en el diseño de la evaluación económica, en el análisis de los datos ni en la redacción del artículo. El texto no indica un calendario para revisar la recomendación de NICE."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Стоимость на один QALY",
-      "en": "Cost per QALY gained",
-      "kk": "Бір QALY құны",
-      "de": "Kosten pro QALY",
-      "es": "Coste por AVAC"
-     },
-     "v": {
-      "ru": "£5,943 (порог в Англии: £25,000–£35,000)",
-      "en": "£5,943 (England threshold: £25,000–£35,000)",
-      "kk": "£5,943 (Англиядағы шек: £25,000–£35,000)",
-      "de": "£5,943 (Schwelle in England: £25,000–£35,000)",
-      "es": "£5,943 (umbral en Inglaterra: £25,000–£35,000)"
-     }
-    },
-    {
-     "k": {
-      "ru": "Срок, нужный для окупаемости",
-      "en": "Time needed for sensors to be cost-effective",
-      "kk": "Датчиктердің тиімді болуы үшін қажетті мерзім",
-      "de": "Zeit bis zur Kosteneffektivität",
-      "es": "Tiempo necesario para que sean rentables"
-     },
-     "v": {
-      "ru": "не менее четырёх лет",
-      "en": "at least four years",
-      "kk": "кемінде төрт жыл",
-      "de": "mindestens vier Jahre",
-      "es": "al menos cuatro años"
-     }
-    },
-    {
-     "k": {
-      "ru": "Участники испытания FreeDM2",
-      "en": "Participants in the FreeDM2 trial",
-      "kk": "FreeDM2 сынағының қатысушылары",
-      "de": "Teilnehmende der FreeDM2-Studie",
-      "es": "Participantes del ensayo FreeDM2"
-     },
-     "v": {
-      "ru": "303 взрослых в 24 центрах Великобритании, 32 недели",
-      "en": "303 adults at 24 UK centres, 32 weeks",
-      "kk": "Ұлыбританияның 24 орталығындағы 303 ересек, 32 апта",
-      "de": "303 Erwachsene an 24 britischen Zentren, 32 Wochen",
-      "es": "303 adultos en 24 centros británicos, 32 semanas"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nV1E_b2M9NQ",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "В Госдуме предложили включить скрининг на диабет первого типа у детей в ОМС",
-    "en": "State Duma proposes including type 1 diabetes screening for children in compulsory health insurance",
-    "kk": "Мемлекеттік Дума балалардағы 1-типті қант диабетіне скринингті міндетті медициналық сақтандыруға енгізуді ұсынды",
-    "de": "Staatsduma schlägt vor, Typ-1-Diabetes-Screening für Kinder in die Pflichtversicherung aufzunehmen",
-    "es": "La Duma estatal propone incluir el cribado de diabetes tipo 1 en niños en el seguro obligatorio"
-   },
-   "text": {
-    "ru": "Законодатели предложили покрывать скрининг на диабет первого типа у детей за счёт обязательного медицинского страхования. Это пока предложение.",
-    "en": "Lawmakers propose covering type 1 diabetes screening for children through compulsory health insurance. It is so far only a proposal.",
-    "kk": "Заң шығарушылар балалардағы 1-типті қант диабетіне скринингті міндетті медициналық сақтандыру есебінен төлеуді ұсынды. Бұл әзірге ұсыныс ғана.",
-    "de": "Gesetzgeber schlagen vor, das Screening auf Typ-1-Diabetes bei Kindern über die Pflichtversicherung abzudecken. Bisher handelt es sich nur um einen Vorschlag.",
-    "es": "Los legisladores proponen cubrir el cribado de diabetes tipo 1 en niños mediante el seguro médico obligatorio. Por ahora es solo una propuesta."
-   },
-   "url": "https://life.ru/p/v-gosdume-predlozhili-vklyuchit-skrining-na-diabet-pervogo-tipa-u-detey-v-oms",
-   "src": "Life.ru",
-   "photoQuery": "blood glucose test strips",
-   "local": true,
-   "photo": {
-    "id": "u_lile4HrTcvQ",
-    "url": "https://images.unsplash.com/photo-1789108978116-2763682414a4?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTh8fHBoYXJtYWN5JTIwc2hlbHZlc3xlbnwxfDB8fHwxNzk1NTc2NTE1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Cheung Yin",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/pharmacy-interior-with-stocked-product-shelves-lile4HrTcvQ?utm_source=dia_news&utm_medium=referral",
-    "alt": "A brightly lit pharmacy interior with shelves stocked with various health and beauty products"
-   },
-   "body": {
-    "ru": "24 ноября 2026 года Life.ru сообщил, что депутат Госдумы от ЛДПР Каплан Панеш, первый заместитель председателя Комитета по бюджету и налогам, предложил сделать бесплатным для детей обследование, которое выявляет диабет первого типа до появления симптомов. Речь идёт об анализе крови на островковые аутоантитела. Депутат хочет включить это исследование в программу государственных гарантий, которая работает через ОМС.\n\nПо словам Панеша, диабет первого типа развивается постепенно: иммунная система начинает атаковать клетки поджелудочной железы, вырабатывающие инсулин, задолго до первых признаков. Сейчас такой скрининг доступен немногим семьям: родители либо платят за частную лабораторию, либо ждут, пока болезнь проявится полностью.\n\nДепутат предлагает начать с детей из группы повышенного риска: у кого диабет первого типа есть у родителей, братьев или сестёр, а также у несовершеннолетних с другими аутоиммунными заболеваниями. Направлять на обследование смогут педиатры и детские эндокринологи. Он ссылается на российские клинические рекомендации 2025 года, по которым два и более типа островковых аутоантител могут указывать на доклинический диабет первого типа даже без симптомов.\n\nКроме того, Панеш предлагает добавить анализ в профилактические осмотры несовершеннолетних и создать единый федеральный регистр детей с выявленными аутоантителами, чтобы наблюдение не зависело от региона. В пример он привёл Саратовскую область, где таких детей наблюдают раз в срок от трёх месяцев до года. Финансировать программу депутат предлагает из федерального бюджета. По его мнению, раннее выявление может обойтись дешевле лечения тяжёлых осложнений, например диабетического кетоацидоза, который может потребовать реанимации.\n\nВ материале не сообщается о решении властей или сроках его принятия: пока это предложение одного депутата.",
-    "en": "On 24 November 2026, Life.ru reported that Kaplan Panesh, a State Duma deputy from the LDPR party and first deputy chair of the Budget and Taxes Committee, has proposed making free for children a test that can reveal type 1 diabetes before symptoms appear. The test is a blood analysis for islet autoantibodies. The deputy wants it added to the state guaranteed care program that operates through compulsory health insurance (OMS).\n\nPanesh says type 1 diabetes develops gradually, as the immune system begins attacking the insulin-producing cells of the pancreas long before any signs show. At present, he notes, few families can access this screening: parents either pay for a private laboratory or wait until the illness fully declares itself.\n\nHe proposes starting with children at higher risk, namely those whose parents, brothers or sisters have type 1 diabetes, and minors with other autoimmune conditions. Pediatricians and pediatric endocrinologists would be able to refer patients for testing. He cites Russian clinical guidelines from 2025, which state that two or more types of islet autoantibodies may indicate preclinical type 1 diabetes even without symptoms.\n\nPanesh also suggests adding the test to preventive checkups for minors and creating a single federal register of children in whom autoantibodies are found, so that monitoring does not depend on region. As an example, he pointed to Saratov Region, where such children are observed at intervals from three months to a year. He proposes funding the programme from the federal budget. In his view, early detection could cost less than treating serious complications such as diabetic ketoacidosis, which may require intensive care.\n\nThe article does not report any decision by authorities or a timeline for one; for now, it is a proposal from a single deputy.",
-    "kk": "2026 жылдың 24 қарашасында Life.ru хабарлағандай, ЛДПР партиясынан Мемлекеттік Думаның депутаты, Бюджет және салық комитетінің бірінші орынбасары Каплан Панеш симптомдар пайда болғанға дейін 1-типті қант диабетін анықтай алатын тексеruді балаларға тегін ету ұсынысын айтқан. Бұл – аралшық аутоантиденелерге арналған қан анализі. Депутат оны ОМС арқылы жұмыс істейтін мемлекеттік кепілдікті медициналық көмек бағдарламасына енгізгісі келеді.\n\nПанештің айтуынша, 1-типті қант диабеті бірте-бірте дамиды: иммундық жүйе инсулин өндіретін ұйқы безі жасушаларына белгілер көрінгенге дейін ұзақ уақыт шабуыл жасай бастайды. Қазір мұндай скринингке бірнеше отбасы ғана қол жеткізе алады: ата-аналар не жеке зертханаға төлейді, не ауру толық білінгенше күтеді.\n\nОл алдымен жоғары қауіп тобындағы балалардан бастауды ұсынады: ата-анасында, ағасында немесе қарындасында 1-типті қант диабеті бар балалар, сондай-ақ басқа аутоиммундық аурулары бар кәмелетке толмағандар. Тексеруге педиатрлар мен балалар эндокринологтары жолдама бере алады. Ол 2025 жылғы ресейлік клиникалық ұсынымдарға сілтеме жасайды; олар бойынша аралшық аутоантиденелердің екі және одан көп түрі симптомсыз-ақ клиникаға дейінгі 1-типті қант диабетін көрсетуі мүмкін.\n\nСондай-ақ Панеш бұл анализді кәмелетке толмағандардың профилактикалық тексерулеріне қосуды және аутоантиденелер табылған балалардың бірыңғай федералдық тізілімін құруды ұсынады; сонда бақылау тұрған өңірге тәуелді болмайды. Мысал ретінде Саратов облысын атаған, онда мұндай балалар үш айдан бір жылға дейінгі аралықпен бақыланады. Бағдарламаны федералдық бюджеттен қаржыландыруды ұсынады. Оның пікірінше, ерте анықтау диабеттік кетоацидоз сияқты ауыр асқынуларды емдеуден арзанға түсуі мүмкін; ол реанимациялық көмекті қажет етуі мүмкін.\n\nМақалада билік шешімі немесе оның мерзімі туралы хабарланбайды; қазірге бұл – бір депутаттың ұсынысы.",
-    "de": "Am 24. November 2026 berichtete Life.ru, dass Kaplan Panesh, Abgeordneter der Staatsduma von der LDPR und erster stellvertretender Vorsitzender des Haushalts- und Steuerausschusses, vorgeschlagen hat, einen Test für Kinder kostenlos zu machen, der Typ-1-Diabetes vor dem Auftreten von Symptomen erkennen kann. Dabei handelt es sich um eine Blutuntersuchung auf Inselautoantikörper. Der Abgeordnete möchte diese Untersuchung in das staatliche Garantieprogramm aufnehmen, das über die obligatorische Krankenversicherung (OMS) läuft.\n\nLaut Panesh entwickelt sich Typ-1-Diabetes allmählich: Das Immunsystem beginnt, die insulinproduzierenden Zellen der Bauchspeicheldrüse anzugreifen, lange bevor erste Anzeichen auftreten. Derzeit können sich nur wenige Familien dieses Screening leisten; Eltern zahlen entweder ein Privatlabor oder warten, bis sich die Krankheit vollständig zeigt.\n\nDer Abgeordnete schlägt vor, mit Kindern in der Hochrisikogruppe zu beginnen, also mit denjenigen, bei deren Eltern, Geschwistern ein Typ-1-Diabetes besteht, sowie mit Minderjährigen mit anderen Autoimmunerkrankungen. Kinderärzte und Kinderendokrinologen könnten zur Untersuchung überweisen. Er beruft sich auf russische klinische Leitlinien aus dem Jahr 2025, wonach zwei oder mehr Typen von Inselautoantikörpern auf einen präklinischen Typ-1-Diabetes hindeuten können, auch ohne Symptome.\n\nPanesh schlägt außerdem vor, den Test in die Vorsorgeuntersuchungen für Minderjährige aufzunehmen und ein einheitliches föderales Register für Kinder mit nachgewiesenen Autoantikörpern einzurichten, damit die Betreuung nicht vom Wohnort abhängt. Als Beispiel nannte er die Region Saratow, wo solche Kinder in Abständen von drei Monaten bis zu einem Jahr beobachtet werden. Er schlägt vor, das Programm aus dem Bundeshaushalt zu finanzieren. Seiner Ansicht nach könnte eine frühe Erkennung weniger kosten als die Behandlung schwerer Komplikationen wie einer diabetischen Ketoazidose, die intensivmedizinische Versorgung erfordern kann.\n\nDer Artikel berichtet weder über eine Entscheidung der Behörden noch über einen Zeitplan dafür; bislang handelt es sich um den Vorschlag eines einzelnen Abgeordneten.",
-    "es": "El 24 de noviembre de 2026, Life.ru informó de que Kaplan Panesh, diputado de la Duma Estatal por el partido LDPR y primer vicepresidente del Comité de Presupuesto e Impuestos, ha propuesto que sea gratuita para los niños una prueba capaz de detectar la diabetes tipo 1 antes de que aparezcan los síntomas. Se trata de un análisis de sangre para detectar autoanticuerpos de los islotes. El diputado quiere que este estudio se incluya en el programa estatal de garantías de atención, que funciona a través del seguro médico obligatorio (OMS).\n\nSegún Panesh, la diabetes tipo 1 se desarrolla de forma gradual: el sistema inmunitario empieza a atacar las células del páncreas que producen insulina mucho antes de que aparezcan los primeros signos. Actualmente, señala, pocas familias pueden acceder a este cribado: los padres pagan un laboratorio privado o esperan a que la enfermedad se manifieste por completo.\n\nPropone empezar por los niños con mayor riesgo, es decir, aquellos cuyos padres, hermanos o hermanas tienen diabetes tipo 1, y los menores con otras enfermedades autoinmunes. Los pediatras y los endocrinólogos infantiles podrían derivarlos para la prueba. Se apoya en las recomendaciones clínicas rusas de 2025, que establecen que dos o más tipos de autoanticuerpos de los islotes pueden indicar una diabetes tipo 1 preclínica, incluso sin síntomas.\n\nPanesh también sugiere añadir la prueba a los controles preventivos de los menores y crear un registro federal único de los niños en los que se detecten autoanticuerpos, para que el seguimiento no dependa de la región de residencia. Como ejemplo citó la región de Sarátov, donde estos niños son observados con intervalos de entre tres meses y un año. Propone financiar el programa con el presupuesto federal. En su opinión, la detección temprana podría costar menos que tratar complicaciones graves como la cetoacidosis diabética, que puede requerir cuidados intensivos.\n\nEl artículo no informa de ninguna decisión de las autoridades ni de un calendario; por ahora, se trata de una propuesta de un solo diputado."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Наблюдение детей с выявленными аутоантителами в Саратовской области",
-      "en": "Monitoring of children with detected autoantibodies in Saratov Region",
-      "kk": "Саратов облысында аутоантиденелері анықталған балаларды бақылау",
-      "de": "Überwachung von Kindern mit nachgewiesenen Autoantikörpern in der Region Saratow",
-      "es": "Seguimiento de niños con autoanticuerpos detectados en la región de Sarátov"
-     },
-     "v": {
-      "ru": "от трёх месяцев до года",
-      "en": "from three months to a year",
-      "kk": "үш айдан бір жылға дейін",
-      "de": "von drei Monaten bis zu einem Jahr",
-      "es": "de tres meses a un año"
-     }
-    },
-    {
-     "k": {
-      "ru": "Количество типов островковых аутоантител, указывающее на доклинический диабет первого типа",
-      "en": "Number of islet autoantibody types suggesting preclinical type 1 diabetes",
-      "kk": "Клиникаға дейінгі 1-типті қант диабетін көрсететін аралшық аутоантиденелерінің түрлер саны",
-      "de": "Anzahl der Inselautoantikörper-Typen, die auf präklinischen Typ-1-Diabetes hindeuten",
-      "es": "Número de tipos de autoanticuerpos de los islotes que indican diabetes tipo 1 preclínica"
-     },
-     "v": {
-      "ru": "два и более типов",
-      "en": "two or more types",
-      "kk": "екі және одan көп түр",
-      "de": "zwei oder mehr Typen",
-      "es": "dos o más tipos"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nbk0_b2M9NQ",
-   "cat": "research",
-   "stage": "early",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "Кормление через день вернуло мышам с диабетом нормальный уровень глюкозы",
-    "en": "Every-other-day feeding restored normal glucose levels in diabetic mice",
-    "kk": "Күні бойы емес, күнде тастап тамақтандыру диабетті тышқандарда глюкоза деңгейін қалыпқа келтірді",
-    "de": "Fütterung every second day normalisierte den Glukosespiegel bei diabetischen Mäusen",
-    "es": "La alimentación en días alternos devolvió niveles normales de glucosa a ratones con diabetes"
-   },
-   "text": {
-    "ru": "В опыте на мышах питание через день восстановило нормальный уровень глюкозы. Результаты получены на животных и требуют проверки на людях.",
-    "en": "In a mouse experiment, every-other-day feeding restored normal glucose levels. The results come from animals and need testing in people.",
-    "kk": "Тышқандарда жүргізілген тәжірибеде күнде тастап тамақтану қалыпты глюкоза деңгейін қалпына келтірді. Нәтижелер жануарларда алынған және адамдарда тексерілуі керек.",
-    "de": "In einem Mausversuch normalisierte die Fütterung jeden zweiten Tag den Glukosespiegel. Die Ergebnisse stammen von Tieren und müssen am Menschen überprüft werden.",
-    "es": "En un experimento con ratones, la alimentación en días alternos devolvió los niveles normales de glucosa. Los resultados provienen de animales y deben probarse en personas."
-   },
-   "url": "https://vfokuse.mail.ru/articles/69652951-uchenyie-rasskazali-o-vliyanii-intervalnogo-golodaniya-na-diabet/",
-   "src": "ВФокусе Mail",
-   "photoQuery": "laboratory mice cage",
-   "photo": {
-    "id": "u_gKUC4TMhOiY",
-    "url": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8M3x8bGFib3JhdG9yeSUyMG1pY3Jvc2NvcGV8ZW58MXwwfHx8MTc5NTU3NjUxNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Ousa Chea",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_source=dia_news&utm_medium=referral",
-    "alt": "white microscope on top of black table"
-   },
-   "body": {
-    "ru": "24 ноября 2026 года ВФокусе Mail сообщил об опыте на мышах: кормление через день вернуло уровень сахара в крови у животных с диабетом 2 типа к норме. Подробности сначала привёл журналистам «Известия». Через пять недель мыши не теряли вес, а в дни кормления продолжали получать жирный рацион, однако их поджелудочная железа стала лучше вырабатывать и выделять инсулин.\n\nВ работе использовали самцов мышей с генетической особенностью: часть молекул проинсулина у них имела неправильную форму. На жирном корме такие животные быстро набирали массу и через шесть недель заболевали диабетом. Две основные группы по 15 мышей сравнили между собой. Одна получала менее калорийный корм без ограничений, другая ела прежний жирный корм через день, а в дни без еды имела свободный доступ к воде. Ещё пять мышей ежедневно получали жирный корм: их вес рос, показатели диабета ухудшались.\n\nОбе основные группы в итоге потребляли примерно одинаковое количество калорий, и чувствительность тканей к инсулину улучшилась у них в равной степени. Через десять дней тест на переносимость глюкозы различий не выявил. Только к пятой неделе уровень глюкозы натощак вернулся к норме, и произошло это лишь у мышей, которых кормили через день. Группы отличались также долей жиров и белков в корме, поэтому авторы не могут точно определить, какая часть эффекта связана именно с перерывами в питании.\n\nВ дни без корма глюкоза и инсулин в крови снижались, но запасы инсулина в поджелудочной сохранялись. При возобновлении кормления бета-клетки выделяли больше гормона в ответ на рост глюкозы, а под микроскопом в них нашли больше зрелых гранул инсулина. Исследователи предполагают, что меньшая потребность в выбросе гормона в дни голодания позволяла клеткам пополнять запасы. Проверить, сработает ли режим при более тяжёлом диабете и сохранится ли эффект после его отмены, предстоит.\n\nДанные по людям иные. В шестимесячном исследовании JAMA Network Open участвовали 75 взрослых с диабетом 2 типа. Группы с восьмичасовым окном приёма пищи и с сокращением калорий снизили гликированный гемоглобин примерно на 0,9 процентного пункта относительно контроля. По статье, ремиссию отмечают при гликированном гемоглобине ниже 6,5%, измеренном не раньше чем через три месяца после отмены препаратов, а выводы из опытов на мышах требуют клинических испытаний. Американская диабетическая ассоциация предупреждает, что людям на инсулине или препаратах, стимулирующих его выработку, при голодании нужно медицинское наблюдение из-за риска гипогликемии.",
-    "en": "On 24 November 2026, the Russian outlet VFokuse Mail reported on a mouse experiment in which feeding every other day brought blood sugar back to normal in animals with type 2 diabetes. The details were first laid out by the newspaper Izvestia. After five weeks, the mice did not lose weight, and on feeding days they still received a high-fat diet, yet their pancreas began producing and releasing insulin more effectively.\n\nThe team used male mice with a genetic trait that made some insulin precursor molecules misshapen. On fatty food, these animals gained weight quickly and developed diabetes after six weeks. Two main groups of 15 mice were compared. One ate a less calorie-dense diet without restriction; the other ate the usual fatty diet every other day and had free access to water on the days without food. Five more mice ate fatty food daily, and they grew heavier while their diabetes markers worsened.\n\nThe two main groups ended up eating roughly the same number of calories, and their tissues became equally more sensitive to insulin. A glucose tolerance test after ten days showed no difference between them. Only by week five did fasting glucose return to normal, and this happened solely in the every-other-day group. The groups also differed in the fat and protein content of their food, so the authors cannot say exactly how much of the effect came from the feeding pauses.\n\nOn days without food, blood glucose and insulin fell, but insulin reserves in the pancreas were preserved. When feeding resumed, beta cells released more hormone as glucose rose, and microscopy revealed more mature insulin granules. The researchers suggest that a lower need to release hormone on fasting days let the cells rebuild their stores. Whether the approach works in more severe diabetes, and whether the effect lasts after stopping it, remains to be tested.\n\nHuman data differ. A six-month study in JAMA Network Open involved 75 adults with type 2 diabetes. Groups following an eight-hour eating window and groups reducing calories lowered glycated haemoglobin by about 0.9 percentage points compared with controls. According to the article, remission is described at glycated haemoglobin below 6.5%, measured at least three months after stopping medication, and conclusions from mouse studies require clinical trials. The American Diabetes Association warns that people taking insulin or drugs that stimulate its production need medical supervision when fasting because of the risk of hypoglycaemia.",
-    "kk": "2026 жылдың 24 қарашасында ВФокусе Mail басылымы тышқандарда жүргізілген тәжірибе туралы жазды: күн аралатып тамақтандыру 2-типті диабеті бар жануарлардың қан қантын қалыпты деңгейге қайтарған. Мәліметтерді алғаш рет «Известия» газеті ашты. Бес аптадан кейін тышқандардың салмағы түспеді, ал тамақтану күндерінде олар майлы рацион жей берді, бірақ ұйқы безі инсулинді жақсырақ өндіріп, бөлe бастады.\n\nТәжірибеге генетикалық ерекшелігі бар ер тышқандар алынды: олардың кейбір проинсулин молекулаларының пішіні дұрыс емес болған. Майлы азықта мұндай жануарлар тез салмақ жинап, алты аптадан кейін диабетпен ауырған. Негізгі екі топта әрқайсысында 15 тышқан болды. Біреуі калориясы азырақ азықты шектеусіз жеді; екіншісі әдеттегі майлы азықты күн аралатып алды, ал тамақсыз күндері суға еркін қол жеткізе алды. Тағы бес тышқан күн сайын майлы азық жеп, салмағы артып, диабет көрсеткіштері нашарлады.\n\nЕкі негізгі топ шамамен бірдей калория тұтынды, және олардың тіндері инсулинге бірдей сезімтал болды. Он күннен кейін глюкозаға төзімділік сынағы арасында айырмашылық көрсетпеді. Тек бесінші аптада ғана ашқарынға глюкоза қалыпқа оралды, және бұл тек күн аралатып тамақтанған топта болды. Топтар азықтағы май мен ақуыз үлесімен де ерекшеленді, сондықтан авторлар әсердің қандай бөлігі тамақтану үзілістеріне байланысты екенін нақты айта алмайды.\n\nТамақсыз күндері қандағы глюкоза мен инсулин төмендеді, бірақ ұйқы безіндегі инсулин қорлары сақталды. Тамақ қайта берілгенде бета-жасушалар глюкоза өскен сайын көбірек гормон бөлді, ал микроскоппен қарағанда піскен инсулин түйіршіктері көбірек табылды. Зерттеушілер тамақсыз күндері гормон бөлу қажеттілігінің азаюы жасушаларға қорларын толықтыруға мүмкіндік берді деп болжайды. Бұл тәсілдің ауыр диабетте жұмыс істейтінін және тоқтатқаннан кейін әсері сақталатынын әлі тексеру керек.\n\nАдамдарға қатысты деректер басқаша. JAMA Network Open журналындағы алты айлық зерттеуге 2-типті диабеті бар 75 ересек қатысты. Сегіз сағаттық тамақтану терезесі бар топ пен калорияны азайтқан топ бақылау тобымен салыстырғанда гликирленген гемоглобинді шамамен 0,9 пайыздық пунктке төмендетті. Мақалаға сәйкес, ремиссия гликирленген гемоглобин 6,5%-дан төмен болғанда айтылады және препараттарды тоқтатқаннан кейін кемінде үш ай өткен соң өлшенеді, ал тышқандар тәжірибесінен қорытынды жасау үшін клиникалық сынақтар қажет. Американдық диабет қауымдастығы инсулин немесе оның өндірісін ынталандыратын препараттар алатын адамдарға, гипогликемия қаупіне байланысты, тамақтанудан үзілістер кезінде медициналық бақылау қажет екенін ескертеді.",
-    "de": "Am 24. November 2026 berichtete das russische Portal VFokuse Mail über einen Mausversuch, bei dem Fütterung an jedem zweiten Tag den Blutzucker bei Tieren mit Typ-2-Diabetes wieder auf normale Werte brachte. Die Einzelheiten nannte zuerst die Zeitung Izvestia. Nach fünf Wochen nahmen die Mäuse nicht ab; an Fütterungstagen bekamen sie weiterhin fettreiches Futter, doch die Bauchspeicheldrüse begann, Insulin wirksamer zu produzieren und abzugeben.\n\nDie Forschenden setzten männliche Mäuse ein, deren genetische Besonderheit dazu führte, dass manche Insulin-Vorläufermoleküle fehlerhaft geformt waren. Bei fettreichem Futter nahmen diese Tiere schnell zu und erkrankten nach sechs Wochen an Diabetes. Verglichen wurden zwei Hauptgruppen mit je 15 Mäusen. Eine bekam kalorienärmeres Futter ohne Einschränkung; die andere erhielt das übliche fettreiche Futter an jedem zweiten Tag und hatte an den Tagen ohne Futter freien Zugang zu Wasser. Fünf weitere Mäuse fraßen täglich fettreiches Futter; sie wurden schwerer, und ihre Diabetes-Werte verschlechterten sich.\n\nDie beiden Hauptgruppen nahmen insgesamt etwa gleich viele Kalorien auf, und ihr Gewebe wurde gleichermaßen empfindlicher für Insulin. Ein Glukosetoleranztest nach zehn Tagen zeigte keinen Unterschied. Erst nach fünf Wochen normalisierte sich der Nüchternblutzucker, und zwar allein in der Gruppe mit Fütterung an jedem zweiten Tag. Die Gruppen unterschieden sich außerdem im Fett- und Eiweißanteil des Futters, daher können die Autoren nicht genau sagen, wie viel des Effekts auf die Essenspausen zurückgeht.\n\nAn den Tagen ohne Futter sanken Glukose und Insulin im Blut, die Insulinreserven in der Bauchspeicheldrüse blieben jedoch erhalten. Beim Wiederbeginn der Fütterung gaben die Beta-Zellen bei steigender Glukose mehr Hormon ab; unter dem Mikroskop fanden sich mehr reife Insulingranula. Die Forschenden vermuten, dass der geringere Bedarf an Hormonabgabe an Fastentagen den Zellen erlaubte, ihre Speicher aufzufüllen. Ob der Ansatz bei schwererem Diabetes wirkt und ob der Effekt nach dem Ende anhält, muss noch geprüft werden.\n\nFür Menschen liegen andere Daten vor. In einer sechsmonatigen Studie in JAMA Network Open nahmen 75 Erwachsene mit Typ-2-Diabetes teil. Gruppen mit einem Essensfenster von acht Stunden sowie mit reduzierter Kalorienzufuhr senkten das glykierte Hämoglobin gegenüber der Kontrollgruppe um rund 0,9 Prozentpunkte. Laut dem Artikel spricht man von Remission bei einem HbA1c unter 6,5 %, gemessen frühestens drei Monate nach dem Absetzen blutzuckersenkender Medikamente, und Schlüsse aus Mausversuchen erfordern klinische Studien. Die American Diabetes Association warnt, dass Menschen mit Insulin oder insulinfördernden Präparaten beim Fasten medizinisch begleitet werden sollten, wegen des Risikos einer Hypoglykämie.",
-    "es": "El 24 de noviembre de 2026, el medio ruso VFokuse Mail informó de un experimento con ratones en el que comer en días alternos devolvió el azúcar en sangre a niveles normales en animales con diabetes tipo 2. Los detalles los publicó primero el diario Izvestia. Tras cinco semanas, los ratones no perdieron peso; en los días de alimentación seguían recibiendo una dieta rica en grasas, pero su páncreas empezó a producir y liberar insulina con más eficacia.\n\nEl estudio usó ratones machos con una particularidad genética que hacía que algunas moléculas precursoras de la insulina tuvieran una forma defectuosa. Con comida grasa, estos animales subían de peso rápidamente y a las seis semanas desarrollaban diabetes. Se compararon dos grupos principales de 15 ratones. Uno comía un alimento menos calórico sin restricciones; el otro recibía su dieta grasa habitual en días alternos, con acceso libre al agua en los días sin comida. Otros cinco ratones comieron dieta grasa a diario: engordaron y sus indicadores de diabetes empeoraron.\n\nLos dos grupos principales consumieron aproximadamente las mismas calorías, y la sensibilidad de sus tejidos a la insulina mejoró por igual. Una prueba de tolerancia a la glucosa a los diez días no mostró diferencias. Solo a las cinco semanas la glucosa en ayunas volvió a la normalidad, y únicamente en el grupo de días alternos. Como los grupos también diferían en la proporción de grasas y proteínas del alimento, los autores no pueden precisar qué parte del efecto se debe a las pausas en la alimentación.\n\nEn los días sin comida bajaron la glucosa y la insulina en sangre, pero las reservas de insulina en el páncreas se conservaron. Al retomar la alimentación, las células beta liberaron más hormona cuando subía la glucosa, y al microscopio había más gránulos de insulina madura. Los investigadores sugieren que, al requerirse menos liberación de hormona en los días de ayuno, las células podían reponer sus reservas. Queda por comprobar si el método funciona en diabetes más grave y si el efecto persiste después de dejarlo.\n\nEn personas, los datos son otros. Un estudio de seis meses en JAMA Network Open incluyó a 75 adultos con diabetes tipo 2. Los grupos con una ventana de ocho horas para comer y con reducción de calorías bajaron la hemoglobina glicada unos 0,9 puntos porcentuales frente al grupo de control. Según el artículo, la remisión se describe con una hemoglobina glicada inferior al 6,5 %, medida al menos tres meses después de dejar los fármacos, y las conclusiones de los estudios en ratones requieren ensayos clínicos. La Asociación Estadounidense de Diabetes advierte de que las personas con insulina o con fármacos que estimulan su producción necesitan supervisión médica al ayunar, por el riesgo de hipoglucemia."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Длительность режима кормления через день у мышей",
-      "en": "Duration of the every-other-day feeding regimen in mice",
-      "kk": "Тышқандарда күн аралатып тамақтандыру режимінің ұзақтығы",
-      "de": "Dauer der Fütterung an jedem zweiten Tag bei Mäusen",
-      "es": "Duración de la alimentación en días alternos en ratones"
-     },
-     "v": {
-      "ru": "5 недель",
-      "en": "5 weeks",
-      "kk": "5 апта",
-      "de": "5 Wochen",
-      "es": "5 semanas"
-     }
-    },
-    {
-     "k": {
-      "ru": "Мышей в каждой из двух основных групп",
-      "en": "Mice in each of the two main groups",
-      "kk": "Екі негізгі топтың әрқайсысындағы тышқандар",
-      "de": "Mäuse in jeder der beiden Hauptgruppen",
-      "es": "Ratones en cada uno de los dos grupos principales"
-     },
-     "v": {
-      "ru": "15",
-      "en": "15",
-      "kk": "15",
-      "de": "15",
-      "es": "15"
-     }
-    },
-    {
-     "k": {
-      "ru": "Снижение гликированного гемоглобина у людей относительно контроля",
-      "en": "Reduction in glycated haemoglobin in humans compared with controls",
-      "kk": "Адамдарда бақылау тобымен салыстырғанда гликирленген гемоглобиннің төмендеуі",
-      "de": "Senkung des glykierten Hämoglobins bei Menschen gegenüber der Kontrolle",
-      "es": "Descenso de la hemoglobina glicada en personas frente al control"
-     },
-     "v": {
-      "ru": "примерно на 0,9 процентного пункта",
-      "en": "about 0.9 percentage points",
-      "kk": "шамамен 0,9 пайыздық пункт",
-      "de": "rund 0,9 Prozentpunkte",
-      "es": "unos 0,9 puntos porcentuales"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nxXaz9vYz01",
-   "cat": "devices",
-   "stage": "early",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "Имплантат для контроля сахара при диабете питается глюкозой",
-    "en": "Diabetes glucose-control implant runs on glucose",
-    "kk": "Қант диабетіне арналған глюкозаны бақылау импланты глюкозамен қуатталады",
-    "de": "Implantat zur Blutzuckerkontrolle bei Diabetes wird mit Glukose betrieben",
-    "es": "Un implante para controlar la glucosa en la diabetes funciona con glucosa"
-   },
-   "text": {
-    "ru": "Разрабатывается имплантат для контроля сахара при диабете, который получает энергию из самой глюкозы. Подробности в заголовке и кратком описании не раскрыты.",
-    "en": "A diabetes implant being developed draws its power from glucose itself. Further details are not given in the brief summary.",
-    "kk": "Әзірленіп жатқан қант диабетіне арналған импланттың қуаты глюкозадан алынады. Толық мәліметтер қысқаша сипаттамада берілмеген.",
-    "de": "Ein in Entwicklung befindliches Diabetes-Implantat bezieht seine Energie aus Glukose selbst. Weitere Details fehlen in der kurzen Zusammenfassung.",
-    "es": "Un implante en desarrollo para controlar la glucosa en la diabetes obtiene su energía de la propia glucosa. La breve descripción no ofrece más detalles."
-   },
-   "url": "https://science.mail.ru/news/61145-glyukoza-zaryazhaet-implant-protiv-diabeta/",
-   "src": "Наука Mail",
-   "photoQuery": "implantable medical device",
-   "photo": {
-    "id": "u_qYqmbQwwXJo",
-    "url": "https://images.unsplash.com/photo-1630531210843-d6f343ad1f90?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8aW1wbGFudGFibGUlMjBtZWRpY2FsJTIwZGV2aWNlfGVufDF8MHx8fDE3OTU1NzY1MTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Stephen Andrews",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/white-digital-device-at-2-00-qYqmbQwwXJo?utm_source=dia_news&utm_medium=referral",
-    "alt": "white digital device at 2 00"
-   },
-   "body": {
-    "ru": "Исследователи из Национального университета Сингапура создали экспериментальное устройство NeuroAxis, которое само отслеживает уровень глюкозы и может влиять на нервную систему. Результаты опубликованы в журнале Nature, а материал об этом вышел 24 ноября 2026 года.\n\nПитание импланта обеспечивает миниатюрный топливный элемент с наночастицами золота и платины. Он берет глюкозу из межтканевой жидкости и превращает ее в электричество, поэтому батарейки и беспроводная подзарядка не нужны. Напряжение, которое вырабатывает элемент, меняется вместе с концентрацией сахара, и по нему устройство понимает, как меняется уровень глюкозы.\n\nКаждые 30 минут система измеряет напряжение. Если глюкоза остается повышенной на протяжении пяти последовательных измерений (2,5 часа), имплантат в течение трех минут подает мягкую электрическую стимуляцию на блуждающий нерв. Этот нерв связывает мозг с внутренними органами и участвует в регуляции обмена веществ и воспаления.\n\nВ опытах на крысах с диабетом 1-го типа стимуляция помогала восстанавливать клетки поджелудочной железы, вырабатывающие инсулин. У крыс с диабетом 2-го типа сахар приблизился к норме за две недели, а чувствительность к инсулину выросла. Воспаление, а также жир в организме и печени уменьшились. Эффект сохранялся до конца шестинедельного наблюдения, хотя примерно со второй недели устройство перешло в режим ожидания и перестало активно стимулировать нерв.\n\nАвторы считают, что технология может лечь в основу нового подхода к лечению нарушений обмена веществ, однако пока эффект подтвержден только на животных. До испытаний на людях нужно повысить стабильность топливного элемента и точность настройки системы.",
-    "en": "Researchers at the National University of Singapore have developed an experimental device called NeuroAxis, which can monitor glucose on its own and act on the nervous system. The findings were published in the journal Nature, and the report appeared on 24 November 2026.\n\nThe implant is powered by a miniature fuel cell containing gold and platinum nanoparticles. It draws glucose from the fluid between tissues and converts it into electricity, so neither batteries nor wireless charging are needed. The voltage the cell produces changes with sugar concentration, which lets the device track how glucose levels shift.\n\nEvery 30 minutes the system measures this voltage. If glucose stays high across five consecutive readings (2.5 hours), the implant delivers gentle electrical stimulation to the vagus nerve for three minutes. This nerve links the brain with internal organs and plays a role in regulating metabolism and inflammation.\n\nIn rats with type 1 diabetes, stimulation helped restore insulin-producing cells in the pancreas. In rats with type 2 diabetes, blood sugar approached normal within two weeks and insulin sensitivity improved. Inflammation and fat in the body and liver decreased. The benefits lasted until the end of the six-week observation period, although from about the second week the device switched to standby and stopped actively stimulating the nerve.\n\nThe authors suggest the technology could form the basis of a new approach to treating metabolic disorders, but so far the effect has been confirmed only in animals. Before trials in people, the team must improve the stability of the fuel cell and the precision of the system's settings.",
-    "kk": "Сингапур ұлттық университетінің зерттеушілері NeuroAxis деп аталатын эксперименттік құрылғы жасады; ол глюкозаны өз бетінше бақылап, жүйке жүйесіне әсер ете алады. Нәтижелер Nature журналында жарияланды, ал хабар 2026 жылғы 24 қарашада шықты.\n\nИмплантты миниатюралық отын элементі қуаттандырады, оның құрамында алтын және платина наношәулелері бар. Ол ұлпааралық сұйықтықтағы глюкозаны алып, электр энергиясына айналдырады, сондықтан батарея да, сымсыз зарядтау да қажет емес. Элемент өндіретін кернеу қант концентрациясымен бірге өзгереді, сондықтан құрылғы глюкоза деңгейінің қалай ауытқуын бақылай алады.\n\nЖүйе кернеуді әр 30 минут сайын өлшейді. Глюкоза қатарынан бес өлшеуде (2,5 сағат) жоғары тұрса, имплант блуждающий нервке үш минут бойы жұмсақ электр тітіркендіруін береді. Бұл нерв миды ішкі ағзалармен байланыстырады және зат алмасу мен қабынуды реттеуге қатысады.\n\nБірінші типті қант диабеті бар егеуқұйрықтарда стимуляция ұйқы безіндегі инсулин өндіретін жасушаларды қалпына келтіруге көмектесті. Екінші типті қант диабеті бар егеуқұйрықтарда қант деңгейі екі аптада қалыпты мәнге жақындап, инсулинге сезімталдық артты. Қабыну, сондай-ақ ағзадағы және бауырдағы май азайды. Нәтиже алты аптalық бақылаудың соңына дейін сақталды, дегенмен шамамен екінші аптадан бастап құрылғы күту режиміне көшіп, нервті белсенді тітіркендіруді тоқтатты.\n\nАвторлар технологияның зат алмасу бұзылыстарын емдеудің жаңа тәсіліне негіз бола алатынын айтады, бірақ әзірге әсері тек жануарларда расталған. Адамдарға сынақ жасалғанға дейін отын элементінің тұрақтылығын және жүйе баптауының дәлдігін арттыру қажет.",
-    "de": "Forschende der Nationalen Universität Singapur haben ein experimentelles Gerät namens NeuroAxis entwickelt, das Glukose eigenständig überwachen und auf das Nervensystem einwirken kann. Die Ergebnisse wurden in der Fachzeitschrift Nature veröffentlicht; der Bericht erschien am 24. November 2026.\n\nDas Implantat wird von einer winzigen Brennstoffzelle mit Gold- und Platin-Nanopartikeln versorgt. Sie entnimmt Glukose aus der Flüssigkeit zwischen den Geweben und wandelt sie in elektrischen Strom um, weshalb weder Batterien noch drahtloses Laden nötig sind. Die erzeugte Spannung verändert sich mit der Zuckerkonzentration, sodass das Gerät nachvollziehen kann, wie sich der Glukosespiegel verschiebt.\n\nAlle 30 Minuten misst das System diese Spannung. Bleibt die Glukose über fünf aufeinanderfolgende Messungen (2,5 Stunden) erhöht, gibt das Implantat drei Minuten lang eine sanfte elektrische Stimulation an den Vagusnerv ab. Dieser Nerv verbindet das Gehirn mit inneren Organen und ist an der Regulation von Stoffwechsel und Entzündungen beteiligt.\n\nBei Ratten mit Typ-1-Diabetes half die Stimulation, insulinbildende Zellen der Bauchspeicheldrüse wiederherzustellen. Bei Ratten mit Typ-2-Diabetes näherte sich der Blutzucker innerhalb von zwei Wochen dem Normalwert, und die Insulinempfindlichkeit verbesserte sich. Entzündungen sowie Fett in Körper und Leber nahmen ab. Die Effekte blieben bis zum Ende der sechswöchigen Beobachtung bestehen, obwohl das Gerät etwa ab der zweiten Woche in den Bereitschaftsmodus wechselte und den Nerv nicht mehr aktiv stimulierte.\n\nDie Autorinnen und Autoren sehen in der Technik eine mögliche Grundlage für einen neuen Ansatz gegen Stoffwechselstörungen, doch bisher ist die Wirkung nur an Tieren belegt. Vor Studien am Menschen müssen die Stabilität der Brennstoffzelle und die Präzision der Systemeinstellung verbessert werden.",
-    "es": "Investigadores de la Universidad Nacional de Singapur han desarrollado un dispositivo experimental llamado NeuroAxis, capaz de vigilar la glucosa por sí mismo y de actuar sobre el sistema nervioso. Los resultados se publicaron en la revista Nature, y la noticia apareció el 24 de noviembre de 2026.\n\nEl implante funciona con una pila de combustible miniatura que contiene nanopartículas de oro y platino. Toma glucosa del líquido que rodea a los tejidos y la convierte en electricidad, así que no necesita baterías ni carga inalámbrica. El voltaje que genera cambia según la concentración de azúcar, lo que permite al aparato seguir sus oscilaciones.\n\nCada 30 minutos el sistema mide ese voltaje. Si la glucosa se mantiene elevada en cinco mediciones consecutivas (2,5 horas), el implante aplica durante tres minutos una estimulación eléctrica suave al nervio vago. Este nervio conecta el cerebro con los órganos internos y participa en la regulación del metabolismo y de la inflamación.\n\nEn ratas con diabetes tipo 1, la estimulación ayudó a recuperar las células del páncreas que producen insulina. En ratas con diabetes tipo 2, el nivel de azúcar se acercó a la normalidad en dos semanas y mejoró la sensibilidad a la insulina. También disminuyeron la inflamación y la grasa del cuerpo y del hígado. Los efectos se mantuvieron hasta el final de las seis semanas de observación, aunque desde aproximadamente la segunda semana el dispositivo pasó a modo de espera y dejó de estimular el nervio de forma activa.\n\nLos autores consideran que la tecnología podría servir de base para un nuevo enfoque en el tratamiento de los trastornos metabólicos, pero hasta ahora su eficacia solo se ha demostrado en animales. Antes de los ensayos en personas, el equipo debe mejorar la estabilidad de la pila de combustible y afinar la precisión del sistema."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Интервал измерений напряжения",
-      "en": "Measurement interval",
-      "kk": "Өлшеу аралығы",
-      "de": "Messintervall",
-      "es": "Intervalo de medición"
-     },
-     "v": {
-      "ru": "каждые 30 минут",
-      "en": "every 30 minutes",
-      "kk": "әр 30 минут сайын",
-      "de": "alle 30 Minuten",
-      "es": "cada 30 minutos"
-     }
-    },
-    {
-     "k": {
-      "ru": "Порог для стимуляции блуждающего нерва",
-      "en": "Threshold for vagus nerve stimulation",
-      "kk": "Блуждающий нервті тітіркендіру шегі",
-      "de": "Schwelle für die Vagusnerv-Stimulation",
-      "es": "Umbral para la estimulación del nervio vago"
-     },
-     "v": {
-      "ru": "пять последовательных измерений (2,5 часа), стимуляция три минуты",
-      "en": "five consecutive measurements (2.5 hours), stimulation for three minutes",
-      "kk": "қатарынан бес өлшеу (2,5 сағат), үш минут тітіркендіру",
-      "de": "fünf aufeinanderfolgende Messungen (2,5 Stunden), Stimulation drei Minuten",
-      "es": "cinco mediciones consecutivas (2,5 horas), estimulación de tres minutos"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nM2M_b2M9NQ",
-   "cat": "devices",
-   "stage": "community",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "В Зауралье детям с диабетом выдают датчики для контроля сахара",
-    "en": "Children with diabetes in the Trans-Urals receive glucose sensors",
-    "kk": "Зауралье өңірінде қант диабеті бар балаларға қант деңгейін бақылайтын датчиктер беріліп жатыр",
-    "de": "Kinder mit Diabetes im Transuralgebiet erhalten Glukosesensoren",
-    "es": "Niños con diabetes en la región de Zauralie reciben sensores de glucosa"
-   },
-   "text": {
-    "ru": "В Курганской области детям с диабетом выдают датчики для контроля уровня сахара. Врач объяснила принцип их работы.",
-    "en": "In the Kurgan region, children with diabetes are being given sensors to monitor blood sugar. A doctor explained how they work.",
-    "kk": "Курган облысында қант диабеті бар балаларға қант деңгейін бақылайтын датчиктер беріліп жатыр. Дәрігер олардың жұмыс істеу принципін түсіндірді.",
-    "de": "In der Region Kurgan erhalten Kinder mit Diabetes Sensoren zur Blutzuckerkontrolle. Eine Ärztin erklärte deren Funktionsweise.",
-    "es": "En la región de Kurgán se entregan sensores a niños con diabetes para controlar el azúcar en sangre. Una médica explicó su funcionamiento."
-   },
-   "url": "https://kikonline.ru/news/v-zaurale-detyam-s-diabetom-vydayut-datchiki-dlya-kontrolya-sahara-vrach-obyasnila-kak-oni-rabotayut/",
-   "src": "Газета Курган и курганцы",
-   "photoQuery": "glucose sensor device close-up",
-   "local": true,
-   "photo": {
-    "id": "u_iIDY3j_Gnjc",
-    "url": "https://images.unsplash.com/photo-1682342287771-ba352ea7e315?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8Mnx8Z2x1Y29zZSUyMHNlbnNvciUyMGRldmljZSUyMGNsb3NlLXVwfGVufDF8MHx8fDE3OTU1NzY1MTd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Sweet Life",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/a-plate-of-food-and-a-glucometer-on-a-table-iIDY3j_Gnjc?utm_source=dia_news&utm_medium=referral",
-    "alt": "a plate of food and a Glucometer on a table"
-   },
-   "body": {
-    "ru": "24 ноября 2026 года «Газета Курган и курганцы» сообщила, что в Курганской области детям с диабетом выдают датчики, которые постоянно измеряют уровень сахара. Комментарий в материале дала эндокринолог Екатерина Середкина. Поводом стал риск, что ребёнок на уроке, во время тренировки или ночью может не сразу заметить падение глюкозы. Системы непрерывного мониторинга глюкозы передают показания с датчика на телефон и показывают, как меняется сахар в течение дня.\n\nПо словам врача, такой мониторинг позволяет видеть и подъёмы, и падения сахара гораздо чаще, чем это возможно глюкометром. Небольшой сенсор крепится на тело и измеряет глюкозу в межклеточной жидкости, а приложение выводит результаты и их динамику. В некоторых системах можно задать предупреждения о выходе за пределы и открыть родственникам удалённый доступ, что помогает родителям следить за ребёнком в школе или на тренировке.\n\nСередкина отмечает и ограничения. По клиническим рекомендациям датчики не заменяют измерение глюкометром. Глюкометр определяет сахар в крови, а сенсор — в межклеточной жидкости, поэтому при быстрых колебаниях результаты могут расходиться. Если показания не соответствуют самочувствию или вызывают сомнения, их нужно перепроверить глюкометром.\n\nВ регион уже поступают системы мониторинга, в том числе Lumiflex LinX, которые производятся в Зеленограде. Детям от двух до 17 лет с диабетом первого типа датчики выдают бесплатно по назначению эндокринолога. По территориальной программе госгарантий в 2026 году планируется обеспечить такими системами 95% детей этой возрастной группы с сахарным диабетом.\n\nМать одного из детей отметила, что освоить систему несложно, хотя датчик иногда отклеивается во время спорта, а показания порой расходятся с глюкометром. Она хотела бы, чтобы бесплатная выдача сохранялась и после 18 лет. Датчик нужно периодически менять, срок его службы зависит от модели; следующий сенсор можно уточнить у лечащего врача. Врач напоминает, что детям часто нужна помощь взрослых в оценке показателей.",
-    "en": "On 24 November 2026, the Kurgan newspaper \"Газета Курган и курганцы\" reported that children with diabetes in Kurgan Oblast are being given sensors that measure blood sugar continuously. Endocrinologist Ekaterina Seredkina provided comments for the piece. The concern is that a child during a lesson, training or at night may not quickly notice a drop in glucose. Continuous glucose monitoring systems send readings from the sensor to a phone and show how sugar changes over the day.\n\nAccording to the doctor, this kind of monitoring reveals both rises and falls far more often than a glucometer can. A small sensor is worn on the body and measures glucose in interstitial fluid, while an app displays the results and their trend. Some systems can set alerts for values outside defined limits and give relatives remote access, so parents can follow a child at school or in training.\n\nSeredkina also points to limits. Under clinical guidelines, sensors do not replace glucometer measurements. A glucometer measures sugar in blood, whereas a sensor measures it in interstitial fluid, so results can differ during rapid changes. If readings do not match how the child feels or seem doubtful, they should be rechecked with a glucometer.\n\nMonitoring systems are already arriving in the region, including Lumiflex LinX, manufactured in Zelenograd. Children aged two to 17 with type 1 diabetes receive sensors free of charge on medical grounds, as prescribed by an endocrinologist. Under the territorial state guarantees programme, the plan for 2026 is to supply such systems to 95% of children in this age group with diabetes.\n\nOne mother said the system was not hard to learn, though the sensor sometimes peels off during sport and its readings occasionally differ from a glucometer. She would like free provision to continue after age 18. Sensors must be replaced periodically, and their lifespan depends on the model; families can ask their treating doctor about the next sensor. The doctor also reminds that children often need adults' help in interpreting readings.",
-    "kk": "2026 жылдың 24 қарашасында «Газета Курган и курганцы» басылымы Курган облысында қант диабеті бар балаларға қантты үздіксіз өлшейтін датчиктер беріліп жатқанын хабарлады. Материалға эндокринолог Екатерина Середкинаның пікірі енгізілген. Мәселе мынада: сабақта, жаттығу кезінде немесе түнде бала глюкоза деңгейінің төмендегенін бірден байқамауы мүмкін. Үздіксіз глюкозаны бақылау жүйелері датчиктен көрсеткіштерді телефонға жіберіп, күн бойы қант қалай өзгеретінін көрсетеді.\n\nДәрігердің айтуынша, мұндай бақылау көтерілу мен төмендеуді глюкометрмен салыстырғанда әлдеқайда жиі көрсетеді. Шағын сенсор денеге бекітіледі, ол жасушааралық сұйықтықтағы глюкозаны өлшейді, ал қосымша нәтижелер мен олардың динамикасын көрсетеді. Кейбір жүйелерде белгіленген шектен шыққанда ескерту баптауға және туыстарға қашықтан қол жеткізуге болады.\n\nСередкина шектеулерді де атап өтеді. Клиникалық ұсынымдар бойынша датчиктер глюкометрмен өлшеуді алмастырмайды. Глюкометр қандағы қантты, ал сенсор жасушааралық сұйықтықтағы қантты өлшейді, сондықтан тез өзгерістерде нәтижелер сәйкес келмеуі мүмкін. Көрсеткіштер баланың жағдайына сай келмесе немесе күмән туындатса, оларды глюкометрмен қайта тексеру керек.\n\nАймаққа Зеленоградта өндірілетін Lumiflex LinX сияқты жүйелер де келе бастады. Екінші типтен емес, бірінші типті қант диабеті бар екі жастан 17 жасқа дейінгі балаларға датчиктер эндокринологтың тағайындауы бойынша медициналық көрсетілім бойынша тегін беріледі. Аумақтық мемлекеттік кепілдік бағдарламасы бойынша 2026 жылы осы жас тобындағы қант диабеті бар балалардың 95%-ын мұндай жүйелермен қамтамасыз ету жоспарланған.\n\nБір баланың анасы жүйені меңгеру қиын емес екенін айтты, бірақ спорт кезінде датчик кейде сыпырылып кетеді, ал көрсеткіштер глюкометрдікінен кейде ерекшеленеді. Ол 18 жастан кейін де тегін беруді қалайды. Датчикті мерзімді ауыстыру керек, қызмет мерзімі модельге байланысты; келесі сенсорды емдеуші дәрігерден сұрауға болады. Дәрігер балаларға көрсеткіштерді бағалауда ересектердің көмегі жиі қажет екенін еске салады.",
-    "de": "Am 24. November 2026 berichtete die Kurgan-Zeitung „Газета Курган и курганцы“, dass Kinder mit Diabetes im Gebiet Kurgan Sensoren erhalten, die den Blutzucker fortlaufend messen. Die Endokrinologin Ekaterina Seredkina äußert sich im Beitrag. Das Problem: Ein Kind kann während des Unterrichts, beim Training oder nachts einen Glukoseabfall nicht sofort bemerken. Systeme zur kontinuierlichen Glukosemessung übertragen die Werte vom Sensor auf ein Smartphone und zeigen, wie sich der Zucker im Tagesverlauf verändert.\n\nLaut der Ärztin erfasst diese Überwachung Anstiege und Abfälle deutlich häufiger, als ein Glukometer es kann. Ein kleiner Sensor wird am Körper getragen und misst die Glukose in der interstitiellen Flüssigkeit; eine App zeigt die Ergebnisse und ihren Verlauf an. Manche Systeme können Warnungen bei Überschreiten festgelegter Grenzen auslösen und Angehörigen den Fernzugriff ermöglichen, sodass Eltern ein Kind in der Schule oder im Training im Blick behalten können.\n\nSeredkina nennt auch Grenzen. Laut klinischen Empfehlungen ersetzen Sensoren keine Messung mit dem Glukometer. Dieser misst Zucker im Blut, der Sensor dagegen in der interstitiellen Flüssigkeit, weshalb die Werte bei schnellen Schwankungen abweichen können. Passen die Anzeigen nicht zum Befinden des Kindes oder wirken zweifelhaft, sollten sie mit dem Glukometer überprüft werden.\n\nIm Gebiet sind bereits Überwachungssysteme angekommen, darunter Lumiflex LinX, das in Zelenograd produziert wird. Kinder von zwei bis 17 Jahren mit Typ-1-Diabetes erhalten die Sensoren aus medizinischen Gründen auf ärztliche Verordnung eines Endokrinologen kostenlos. Im Rahmen des regionalen Programms staatlicher Garantien sollen 2026 95 % der Kinder dieser Altersgruppe mit Diabetes mit solchen Systemen versorgt werden.\n\nEine Mutter berichtet, die Bedienung sei unkompliziert, doch der Sensor löse sich beim Sport manchmal und die Werte wichen gelegentlich vom Glukometer ab. Sie wünscht sich, dass die kostenlose Versorgung auch nach dem 18. Geburtstag bleibt. Sensoren müssen regelmäßig gewechselt werden, die Haltbarkeit hängt vom Modell ab; den nächsten Sensor können Familien bei der behandelnden Ärztin oder dem Arzt erfragen. Die Ärztin erinnert zudem daran, dass Kinder oft Hilfe von Erwachsenen bei der Bewertung der Werte brauchen.",
-    "es": "El 24 de noviembre de 2026, el periódico de Kurgan «Газета Курган и курганцы» informó de que a niños con diabetes de la región de Kurgan se les están entregando sensores que miden el azúcar en sangre de forma continua. La endocrinóloga Ekaterina Seredkina aporta comentarios en el artículo. La preocupación es que un niño, durante una clase, un entrenamiento o por la noche, no note de inmediato una bajada de glucosa. Los sistemas de monitorización continua envían las lecturas del sensor al teléfono y muestran cómo cambia el azúcar a lo largo del día.\n\nSegún la médica, este tipo de seguimiento permite ver subidas y bajadas con mucha más frecuencia de lo que permite un glucómetro. Un pequeño sensor se coloca en el cuerpo y mide la glucosa en el líquido intersticial, mientras que una aplicación muestra los resultados y su evolución. Algunos sistemas pueden configurar avisos cuando los valores salen de los límites fijados y dar acceso remoto a familiares, de modo que los padres pueden seguir al niño en el colegio o en el entrenamiento.\n\nSeredkina también señala límites. Según las recomendaciones clínicas, los sensores no sustituyen las mediciones con glucómetro. Este mide el azúcar en sangre, mientras que el sensor lo mide en el líquido intersticial, por lo que los resultados pueden diferir en cambios rápidos. Si las lecturas no coinciden con cómo se siente el niño o generan dudas, deben comprobarse con el glucómetro.\n\nEn la región ya están llegando sistemas de monitorización, entre ellos Lumiflex LinX, fabricado en Zelenogrado. Los niños de entre dos y 17 años con diabetes tipo 1 reciben los sensores gratis por motivos médicos, con prescripción de un endocrinólogo. Dentro del programa territorial de garantías estatales, el plan para 2026 es proporcionar estos sistemas al 95 % de los niños de ese grupo de edad con diabetes.\n\nUna madre comentó que el sistema no es difícil de aprender, aunque el sensor a veces se despega durante el deporte y sus lecturas a veces difieren del glucómetro. Desearía que la entrega gratuita continuara después de los 18 años. Los sensores deben cambiarse periódicamente y su duración depende del modelo; las familias pueden preguntar al médico que trata al niño por el siguiente. La médica recuerda también que los niños suelen necesitar ayuda de los adultos para interpretar los valores."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Возраст детей с диабетом 1 типа, которым датчики выдают бесплатно",
-      "en": "Age range of children with type 1 diabetes who receive sensors free of charge",
-      "kk": "Тегін датчик алатын бірінші типті қант диабеті бар балалардың жасы",
-      "de": "Altersspanne der Kinder mit Typ-1-Diabetes, die die Sensoren kostenlos erhalten",
-      "es": "Edad de los niños con diabetes tipo 1 que reciben los sensores gratis"
-     },
-     "v": {
-      "ru": "от двух до 17 лет",
-      "en": "two to 17 years",
-      "kk": "екі жастан 17 жасқа дейін",
-      "de": "zwei bis 17 Jahre",
-      "es": "de dos a 17 años"
-     }
-    },
-    {
-     "k": {
-      "ru": "Доля детей с диабетом, которых планируется обеспечить системами НМГ в 2026 году в Курганской области",
-      "en": "Share of children with diabetes planned to receive CGM systems in 2026 in Kurgan Oblast",
-      "kk": "2026 жылы Курган облысында НМГ жүйесімен қамтамасыз етілетін қант диабеті бар балалардың үлесі",
-      "de": "Anteil der Kinder mit Diabetes, die 2026 im Gebiet Kurgan mit CGM-Systemen versorgt werden sollen",
-      "es": "Proporción de niños con diabetes previstos para recibir sistemas de monitorización continua en 2026 en la región de Kurgan"
-     },
-     "v": {
-      "ru": "95%",
-      "en": "95%",
-      "kk": "95%",
-      "de": "95 %",
-      "es": "95 %"
-     }
-    }
-   ]
-  },
-  {
-   "id": "nmJ3P29jPTU",
-   "cat": "access",
-   "stage": "policy",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "В Азербайджане обновлены нормы выдачи инсулина, лекарств и приборов для пациентов с сахарным диабетом",
-    "en": "Azerbaijan updates rules for issuing insulin, medicines and devices to diabetes patients",
-    "kk": "Әзербайжанда қант диабеті бар пациенттерге инсулин, дәрі-дәрмек және аспаптар беру ережелері жаңартылды",
-    "de": "Aserbaidschan aktualisiert Regeln für die Abgabe von Insulin, Medikamenten und Geräten an Diabetiker",
-    "es": "Azerbaiyán actualiza las normas de entrega de insulina, medicamentos y dispositivos a pacientes con diabetes"
-   },
-   "text": {
-    "ru": "Власти Азербайджана обновили нормы выдачи инсулина, лекарств и медицинских приборов пациентам с сахарным диабетом.",
-    "en": "Azerbaijani authorities have updated the rules for issuing insulin, medicines and medical devices to patients with diabetes.",
-    "kk": "Әзербайжан билігі қант диабеті бар пациенттерге инсулин, дәрі-дәрмек және медициналық аспаптар беру ережелерін жаңартты.",
-    "de": "Die aserbaidschanischen Behörden haben die Regeln für die Abgabe von Insulin, Medikamenten und Medizinprodukten an Diabetes-Patienten aktualisiert.",
-    "es": "Las autoridades de Azerbaiyán han actualizado las normas para entregar insulina, medicamentos y dispositivos médicos a pacientes con diabetes."
-   },
-   "url": "https://oxu.az/ru/obshestvo/v-azerbajdzhane-obnovleny-normy-vydachi-insulina-lekarstv-i-priborov-dlya-pacientov-s-saharnym-diabetom",
-   "src": "Oxu.Az",
-   "photoQuery": "insulin vials pharmacy shelf",
-   "local": true,
-   "photo": {
-    "id": "u_eGKNYruleGE",
-    "url": "https://images.unsplash.com/photo-1646956141627-ef880b3ef654?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MTJ8fHBoYXJtYWN5JTIwc2hlbHZlc3xlbnwxfDB8fHwxNzk1NTc2NTE1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Adam Bezer",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/laboratory-shelves-filled-with-chemical-bottles-eGKNYruleGE?utm_source=dia_news&utm_medium=referral",
-    "alt": "Laboratory shelves filled with chemical bottles"
-   },
-   "bodyTried": true
-  },
-  {
-   "id": "nVVE_b2M9NQ",
-   "cat": "community",
-   "stage": "community",
-   "date": "2026-11-24",
-   "added": "2026-11-25T03:15:12.217Z",
-   "title": {
-    "ru": "В Школе сахарного диабета в Калужской области прошли обучение 31 ребёнок",
-    "en": "31 children complete training at a diabetes school in Kaluga region",
-    "kk": "Калуга облысындағы қант диабеті мектебінде 31 бала оқудан өтті",
-    "de": "31 Kinder absolvieren Training an einer Diabetesschule in der Region Kaluga",
-    "es": "31 niños completan la formación en una escuela de diabetes en la región de Kaluga"
-   },
-   "text": {
-    "ru": "В Калужской области 31 ребёнок прошёл обучение в Школе сахарного диабета. Программа помогает детям и семьям управлять болезнью.",
-    "en": "In the Kaluga region, 31 children completed training at a diabetes school. The programme helps children and families manage the condition.",
-    "kk": "Калуга облысында 31 бала қант диабеті мектебінде оқудан өтті. Бағдарлама балалар мен отбасыларға ауруды басқаруға көмектеседі.",
-    "de": "In der Region Kaluga haben 31 Kinder eine Schulung an einer Diabetesschule abgeschlossen. Das Programm unterstützt Kinder und Familien im Umgang mit der Erkrankung.",
-    "es": "En la región de Kaluga, 31 niños completaron la formación en una escuela de diabetes. El programa ayuda a los niños y a las familias a manejar la enfermedad."
-   },
-   "url": "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-shkole-sakharnogo-diabeta-v-kaluzhskoy-oblasti-proshel-obuchenie-31-rebenok/",
-   "src": "Национальные проекты России",
-   "photoQuery": "school classroom desks empty",
-   "local": true,
-   "photo": {
-    "id": "u_PDRFeeDniCk",
-    "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?ixid=M3wxMTI3NDA0fDB8MXxzZWFyY2h8MXx8c2Nob29sJTIwY2xhc3Nyb29tJTIwZGVza3MlMjBlbXB0eXxlbnwxfDB8fHwxNzk1NTc2NTE3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "credit": "Ivan Aleksic",
-    "license": "Unsplash",
-    "link": "https://unsplash.com/photos/empty-classroom-with-desks-and-chalkboard-PDRFeeDniCk?utm_source=dia_news&utm_medium=referral",
-    "alt": "empty classroom with desks and chalkboard"
-   },
-   "body": {
-    "ru": "В 2026 году преподаватели Школы сахарного диабета в Калужской области провели занятия для 31 ребенка с диабетом первого типа. Об этом сообщили в региональном минздраве, добавив, что обучение организовано в рамках нацпроекта «Продолжительная и активная жизнь».\n\nКурс построен так, что дети занимаются вместе с родителями. Всего состоялось 10 занятий. Во время них педагоги проверяли, что участники усвоили об особенностях болезни, проводили промежуточные опросы и разбирали дневники самоконтроля. В завершение подопечным снова предложили тест на знание темы.\n\nГлавная задача нацпроекта — повысить продолжительность жизни граждан. Планируется довести ожидаемую продолжительность жизни до 78 лет к 2030 году и до 81 года к 2036 году. В рамках проекта обновляют медицинские учреждения, совершенствуют систему реабилитации и развивают цифровые сервисы здравоохранения. Обновленные нацпроекты действуют с 2025 года по решению Президента России Владимира Путина.\n\nПубликация не содержит результатов итогового тестирования и не говорит о том, будут ли подобные курсы проводиться и дальше.",
-    "en": "In 2026, teachers at the Diabetes School in Kaluga Region ran classes for 31 children with type 1 diabetes. The regional health ministry announced the training, saying it was organized under the national project \"Long and Active Life.\"\n\nThe course was designed so that children attend together with their parents. Ten sessions were held in total. During them, instructors checked what participants had understood about the condition, carried out interim surveys and reviewed the self-monitoring diaries that patients keep. At the end, the children were given the knowledge test again.\n\nThe national project's main goal is to extend citizens' lifespans. The plan is to raise life expectancy to 78 years by 2030 and to 81 years by 2036. Under the project, medical facilities are being renovated, rehabilitation services are being improved and digital health services are being developed. The updated national projects have been running since 2025 on the decision of President Vladimir Putin.\n\nThe report does not include the final test results and does not say whether similar courses will continue.",
-    "kk": "2026 жылы Калуга облысындағы Қант диабеті мектебінің оқытушылары 1-типті қант диабеті бар 31 балаға сабақ өткізді. Бұл туралы өңірлік денсаулық сақтау министрлігі хабарлап, оқыту «Ұзақ және белсенді өмір» ұлттық жобасы аясында ұйымдастырылғанын айтты.\n\nКурс балалардың ата-анасымен бірге қатысуына арналған. Барлығы 10 сабақ өтті. Сабақтар барысында оқытушылар қатысушылардың аурудың ерекшеліктерін қаншалықты меңгергенін тексеріп, аралық сауалнамалар жүргізіп, пациенттердің өзін-өзі бақылау күнделіктерін талдады. Соңында балаларға білімін тексеретін тест тағы ұсынылды.\n\nҰлттық жобаның басты міндеті — азаматтардың өмір сүру ұзақтығын арттыру. Жоспар бойынша күтілетін өмір ұзақтығын 2030 жылға қарай 78 жасқа, 2036 жылға қарай 81 жасқа жеткізу көзделген. Жоба аясында медициналық мекемелер жаңартылып, реабилитация жүйесі жетілдіріліп, денсаулық сақтаудың цифрлық қызметтері дамытылуда. Жаңартылған ұлттық жобалар Ресей Президенті Владимир Путиннің шешімімен 2025 жылдан бастап жүзеге асырылуда.\n\nХабарламада қорытынды тестілеу нәтижелері берілмеген және мұндай курстардың болашақта жалғасатыны туралы айтылмаған.",
-    "de": "Im Jahr 2026 haben Lehrkräfte der Diabetesschule im Gebiet Kaluga 31 Kinder mit Typ-1-Diabetes unterrichtet. Das Gesundheitsministerium der Region teilte mit, dass die Schulung im Rahmen des Nationalen Projekts „Langes und aktives Leben“ stattfand.\n\nDas Programm sieht vor, dass Kinder gemeinsam mit ihren Eltern teilnehmen. Insgesamt fanden zehn Sitzungen statt. Dabei prüften die Dozenten, welche Kenntnisse über die Krankheit vorhanden waren, führten Zwischenbefragungen durch und werteten die Selbstkontrolltagebücher der Patienten aus. Zum Abschluss wurde das Wissen der Kinder erneut getestet.\n\nDas Nationale Projekt verfolgt das Ziel, die Lebenserwartung der Bevölkerung zu erhöhen. Bis 2030 sollen 78 Jahre erreicht werden, bis 2036 81 Jahre. Im Rahmen des Projekts werden medizinische Einrichtungen modernisiert, die Rehabilitation verbessert und digitale Gesundheitsdienste ausgebaut. Die erneuerten Nationalen Projekte laufen seit 2025 auf Beschluss von Präsident Wladimir Putin.\n\nDie Mitteilung nennt keine Ergebnisse des Abschlusstests und lässt offen, ob ähnliche Kurse fortgesetzt werden.",
-    "es": "En 2026, profesores de la Escuela de Diabetes de la región de Kaluga impartieron clases a 31 niños con diabetes tipo 1. Lo comunicó el ministerio de Salud regional, que indicó que la formación se organizó dentro del proyecto nacional \"Vida larga y activa\".\n\nEl curso está diseñado para que los niños asistan junto con sus padres. En total se celebraron 10 sesiones. Durante ellas, los instructores comprobaron qué habían entendido los participantes sobre la enfermedad, realizaron encuestas intermedias y revisaron los diarios de autocontrol que llevan los pacientes. Al final, los niños volvieron a responder una prueba de conocimientos.\n\nEl objetivo central del proyecto nacional es prolongar la vida de los ciudadanos. Se prevé elevar la esperanza de vida a 78 años para 2030 y a 81 años para 2036. Con el proyecto se modernizan centros médicos, se mejora la rehabilitación y se desarrollan servicios sanitarios digitales. Los proyectos nacionales actualizados funcionan desde 2025 por decisión del presidente Vladímir Putin.\n\nLa información no incluye los resultados de la prueba final ni indica si habrá nuevas ediciones del curso."
-   },
-   "facts": [
-    {
-     "k": {
-      "ru": "Дети, прошедшие обучение",
-      "en": "Children who completed the training",
-      "kk": "Оқуды аяқтаған балалар",
-      "de": "Kinder, die die Schulung absolvierten",
-      "es": "Niños que completaron la formación"
-     },
-     "v": {
-      "ru": "31",
-      "en": "31",
-      "kk": "31",
-      "de": "31",
-      "es": "31"
-     }
-    },
-    {
-     "k": {
-      "ru": "Проведено занятий",
-      "en": "Sessions held",
-      "kk": "Өткізілген сабақтар",
-      "de": "Durchgeführte Sitzungen",
-      "es": "Sesiones celebradas"
-     },
-     "v": {
-      "ru": "10",
-      "en": "10",
-      "kk": "10",
-      "de": "10",
-      "es": "10"
-     }
-    },
-    {
-     "k": {
-      "ru": "Целевая ожидаемая продолжительность жизни к 2030 году",
-      "en": "Target life expectancy by 2030",
-      "kk": "2030 жылға күтілетін өмір ұзақтығы",
-      "de": "Angestrebte Lebenserwartung bis 2030",
-      "es": "Esperanza de vida prevista para 2030"
-     },
-     "v": {
-      "ru": "78 лет",
-      "en": "78 years",
-      "kk": "78 жас",
-      "de": "78 Jahre",
-      "es": "78 años"
-     }
-    }
-   ]
-  },
-  {
    "id": "cure-katie-beth-hand",
    "cat": "cure",
    "stage": "results",
@@ -2850,6 +2737,39 @@ const DIA_NEWS={
   }
  ],
  "seen": [
+  "https://www.newsnationnow.com/health/zepbound-lower-insulin-type1-diabetes-study/",
+  "zepbound может снизить потребность в инсулине при диабете 1 типа исследование",
+  "zepbound may help lower insulin needs in type 1 diabetes study",
+  "https://vademec.ru/news/2026/11/27/cagrisema-ot-novo-nordisk-pokazal-snizhenie-vesa-pochti-na-17-i-uluchshenie-pokazatelya-glikemii/",
+  "cagrisema от novo nordisk снижение веса почти на 17 и улучшение гликемии",
+  "novo nordisk s cagrisema almost 17 weight loss and better glycemic control",
+  "https://www.indianpharmapost.com/regulatory/lupin-receives-us-fda-approval-for-for-sitagliptin-and-metformin-type-2-diabetes-tablets-22480",
+  "lupin получила одобрение fda на таблетки ситаглиптина и метформина для диабета 2 типа",
+  "lupin receives fda approval for sitagliptin and metformin tablets for type 2 diabetes",
+  "https://life.ru/p/astrazeneca-otkazalas-ot-iska-o-zaprete-preparata-akrihina-ot-diabeta",
+  "astrazeneca отказалась от иска о запрете препарата акрихин от диабета",
+  "astrazeneca drops lawsuit seeking ban on diabetes drug akrikhin",
+  "https://discover24.ru/2026/11/minzdrav-khochet-obnovit-perechen-medizdelii-dlia-patsientov-s-sakharnym-diabetom/",
+  "минздрав хочет обновить перечень медизделий для пациентов с сахарным диабетом",
+  "health ministry plans to update list of medical devices for diabetes patients",
+  "https://rus.lsm.lv/statja/novosti/obschestvo/27.11.2026-insulinovye-pompy-naidet-li-dengi-novoe-pravitelstvo.a673673/",
+  "инсулиновые помпы найдёт ли новое правительство деньги",
+  "insulin pumps will the new government find the money",
+  "https://www.hcplive.com/view/optimal-diabetes-tests-sbp-below-120-in-type-2-diabetes",
+  "optimal diabetes проверяет целевое систолическое давление ниже 120 при диабете 2 типа",
+  "optimal diabetes tests systolic target below 120 in type 2 diabetes",
+  "https://www.cureus.com/articles/548319-automated-insulin-delivery-in-pregnant-women-with-type-1-diabetes-an-updated-systematic-review-and-meta-analysis-of-randomized-controlled-trials",
+  "автоматизированная доставка инсулина у беременных с диабетом 1 типа обновлённый метаанализ",
+  "automated insulin delivery in pregnant women with type 1 diabetes updated meta analysis",
+  "https://bioengineer.org/social-disadvantage-linked-to-higher-insulin-and-lower-glp-1-use-in-diabetes/",
+  "социальное неблагополучие связано с более высоким использованием инсулина и меньшим препаратов гпп 1",
+  "social disadvantage linked to higher insulin and lower glp 1 use in diabetes",
+  "https://www.timesnownews.com/health/indias-first-human-metabolic-chamber-opens-to-study-calories-obesity-and-diabetes-article-156576255",
+  "в индии открыли первую камеру для изучения обмена веществ калории ожирение и диабет",
+  "india opens its first human metabolic chamber to study calories obesity and diabetes",
+  "https://pnz.ru/health/diabetikov-zhdut-novye-obsledovaniya-i-distanczionnoe-nablyudenie-chto-izmenitsya-s-2027-goda/",
+  "диабетиков ждут новые обследования и дистанционное наблюдение что изменится с 2027 года",
+  "diabetes patients to get new check ups and remote monitoring what changes from 2027",
   "https://diabetestimes.co.uk/type-1-diabetes-research-centre-at-university-of-oxford-marks-its-first-year/",
   "центр исследований диабета 1 типа при оксфордском университете отмечает первый год работы",
   "oxford university s type 1 diabetes research centre marks its first year",
@@ -2919,6 +2839,24 @@ const DIA_NEWS={
   "https://rus.lsm.lv/statja/novosti/obschestvo/14.11.2026-v-latvii-rastet-zabolevaemost-saxarnym-diabetom.a671955/",
   "в латвии растёт заболеваемость сахарным диабетом",
   "diabetes incidence is rising in latvia",
+  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
+  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
+  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
+  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
+  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
+  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
+  "https://investors.vrtx.com/node/35101/pdf",
+  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
+  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
+  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
+  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
+  "islet transplants with tegoprubart all 12 participants are living without insulin",
+  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
+  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
+  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
+  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
+  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
+  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://nsn.fm/zdorovie/ne-pervoocherednaya-problema-chto-na-samom-dele-nuzhno-rossiiskim-diabetikam",
   "не первоочередная проблема что на самом деле нужно российским диабетикам",
   "not a priority problem what russian people with diabetes really need",
@@ -2952,24 +2890,6 @@ const DIA_NEWS={
   "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-shkole-sakharnogo-diabeta-v-kaluzhskoy-oblasti-proshel-obuchenie-31-rebenok/",
   "в школе сахарного диабета в калужской области прошли обучение 31 ребёнок",
   "31 children complete training at a diabetes school in kaluga region",
-  "https://t1dexchange.org/articles/katie-beth-hand-eledon-islet-cell-transplant-study",
-  "251 день без инсулина история кэти бет хэнд пациентки 9 в исследовании тегопрубарта",
-  "251 days without insulin the story of katie beth hand patient no 9 in the tegoprubart trial",
-  "https://www.biospace.com/press-releases/sana-biotechnology-reports-third-quarter-2026-financial-results-and-business-updates",
-  "островки работают 14 месяцев без иммуносупрессии генно модифицированные клетки sana обходят иммунитет",
-  "islets working for 14 months without immunosuppression sana s gene edited cells evade the immune system",
-  "https://investors.vrtx.com/node/35101/pdf",
-  "островки из стволовых клеток vertex 10 из 12 пациентов без инсулина следующая версия подойдёт для любой группы крови",
-  "vertex s stem cell islets 10 of 12 patients off insulin and the next version is designed for any blood type",
-  "https://www.breakthrought1d.org/for-the-media/press-releases/eledon-announces-updated-data-from-investigator-initiated-islet-transplant-trial-of-tegoprubart-in-patients-with-type-1-diabetes-t1d-at-uchicago-medicine/",
-  "пересадка островковых клеток с тегопрубартом все 12 участников живут без инсулина",
-  "islet transplants with tegoprubart all 12 participants are living without insulin",
-  "https://stanfordhealthcare.org/stanford-health-care-now/2026/first-of-its-kind-allogeneic-islet-cell-transplant.html",
-  "стэнфорд островки и костный мозг от одного донора шаг к пересадке без пожизненных лекарств",
-  "stanford islets and bone marrow from one donor a step toward transplants without lifelong drugs",
-  "https://www.cell.com/cell/fulltext/S0092-8674(24)01022-5",
-  "островки из собственных клеток пациентки в китае женщина больше года живёт без инсулина",
-  "islets grown from the patient s own cells a woman in china has lived without insulin for over a year",
   "https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-novokuybyshevske-samarskoy-oblasti-proshla-nedelya-borby-s-diabetom/",
   "в новокуйбышевске самарской области прошла неделя борьбы с диабетом",
   "diabetes awareness week held in novokuybyshevsk samara region",
